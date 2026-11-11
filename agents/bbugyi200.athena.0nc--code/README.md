@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3538713`](https://github.com/sase-org/sase/commit/3538713c0d285883a67abb415c07aa00a02ab5a7) | docs(finalizer): require screenshot golden commits | 2026-09-18 21:19:00 EDT |
+| — | `3538713` | docs(finalizer): require screenshot golden commits | 2026-09-18 21:19:00 EDT |

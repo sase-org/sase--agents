@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4c0287`](https://github.com/sase-org/sase/commit/d4c0287725a504ff308e0a83f62fea3b639f04b1) | fix(sudo): resolve remote sase through the login shell | 2026-09-18 23:26:10 EDT |
+| — | `d4c0287` | fix(sudo): resolve remote sase through the login shell | 2026-09-18 23:26:10 EDT |

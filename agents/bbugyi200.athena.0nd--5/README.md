@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`17084a6`](https://github.com/sase-org/sase/commit/17084a6e275a5c3dfe12018595dc118a889a8176) | feat(llm-provider): retune shipped size aliases onto Codex luna and terra | 2026-09-19 01:01:08 EDT |
+| — | `17084a6` | feat(llm-provider): retune shipped size aliases onto Codex luna and terra | 2026-09-19 01:01:08 EDT |

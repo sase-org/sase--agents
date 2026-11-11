@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`571039e`](https://github.com/sase-org/sase/commit/571039e118dd647ec1d5c9d291c4f4a9f0051195) | feat(tui): accept prompt completions with Ctrl+G instead of Enter | 2026-09-18 16:07:06 EDT |
+| — | `571039e` | feat(tui): accept prompt completions with Ctrl+G instead of Enter | 2026-09-18 16:07:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0n8.f0](../bbugyi200.athena.0n8.f0/README.md) | descendant | active |
+| [0n8.f0](../bbugyi200.athena.0n8.f0/README.md) | descendant | dismissed |

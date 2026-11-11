@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0n8` · Members: 3
 ```mermaid
 flowchart TD
   n0["0n8--code [completed]"]
-  n1["0n8--plan [active]"]
+  n1["0n8--plan [dismissed]"]
   n0 --> n1
   n2["0n8--gate [failed]"]
   n0 --> n2
@@ -20,17 +20,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0n8--code | completed | grok-4.6 / grok | 2026-09-18T19:20:29.415217+00:00 → 2026-09-18T20:10:27.323634+00:00 | [1](../agents/bbugyi200.athena.0n8--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0n8--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0n8--code/chat.md) |
-| <a id="member-plan"></a>plan | 0n8--plan | active | gpt-5.6-sol / codex | 2026-09-18T19:06:57.221083+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0n8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0n8--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0n8--plan | dismissed | gpt-5.6-sol / codex | 2026-09-18T15:06:57.221083 → 2026-09-18T15:13:38.952209 | 0 | [Prompt](../agents/bbugyi200.athena.0n8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0n8--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0n8--gate | failed | gpt-5.6-sol / codex | 2026-09-18T19:18:57.925736+00:00 → 2026-09-18T19:19:56.561267+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0n8--gate/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`571039e`](https://github.com/sase-org/sase/commit/571039e118dd647ec1d5c9d291c4f4a9f0051195) | feat(tui): accept prompt completions with Ctrl+G instead of Enter | 2026-09-18 16:07:06 EDT |
+| code | — | `571039e` | feat(tui): accept prompt completions with Ctrl+G instead of Enter | 2026-09-18 16:07:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0n8.f0](../agents/bbugyi200.athena.0n8.f0/README.md) | descendant | active |
+| [0n8.f0](../agents/bbugyi200.athena.0n8.f0/README.md) | descendant | dismissed |

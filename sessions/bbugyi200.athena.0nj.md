@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0nj` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0nj--plan [active]"]
+  n0["0nj--plan [dismissed]"]
   n1["0nj--gate [failed]"]
   n0 --> n1
   n2["0nj--code [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0nj--plan | active | gpt-5.6-sol / codex | 2026-09-19T01:55:56.136568+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0nj--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0nj--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0nj--plan | dismissed | gpt-5.6-sol / codex | 2026-09-18T21:55:56.136568 → 2026-09-18T22:07:08.925162 | 0 | [Prompt](../agents/bbugyi200.athena.0nj--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0nj--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0nj--gate | failed | gpt-5.6-sol / codex | 2026-09-19T02:07:00.226066+00:00 → 2026-09-19T02:08:06.471414+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0nj--gate/chat.md) |
 | <a id="member-code"></a>code | 0nj--code | completed | grok-4.6 / grok | 2026-09-19T02:08:40.519982+00:00 → 2026-09-19T03:29:47.823057+00:00 | [1](../agents/bbugyi200.athena.0nj--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0nj--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0nj--code/chat.md) |
 
@@ -27,4 +27,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d4c0287`](https://github.com/sase-org/sase/commit/d4c0287725a504ff308e0a83f62fea3b639f04b1) | fix(sudo): resolve remote sase through the login shell | 2026-09-18 23:26:10 EDT |
+| code | — | `d4c0287` | fix(sudo): resolve remote sase through the login shell | 2026-09-18 23:26:10 EDT |

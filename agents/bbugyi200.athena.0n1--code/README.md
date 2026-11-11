@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`58024dc`](https://github.com/sase-org/sase/commit/58024dca7492d7ad6ba70864f5145ef143da17c0) | fix(tui): preserve clan member status labels | 2026-09-18 14:03:15 EDT |
+| — | `58024dc` | fix(tui): preserve clan member status labels | 2026-09-18 14:03:15 EDT |
