@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4a.cld
 
-**Global name:** `bbugyi200.apollo.research.4a.cld` · **State:** active · **Source run:** `run-683412d095df01f461d3657cac4f2199`
+**Global name:** `bbugyi200.apollo.research.4a.cld` · **State:** completed · **Source run:** `run-683412d095df01f461d3657cac4f2199`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-11T21:37:05.269173+00:00
+- Timing: 2026-11-11T21:37:05.269173+00:00 → 2026-11-11T21:58:13.449260+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/next\_seven\_task\_beads\_unlanded\_work\_and\_stranded\_epics\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261111163624/next\_seven\_task\_bead… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/next_seven_task_beads_unlanded_work_and_stranded_epics__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261111163624/next_seven_task_beads_unlanded_work_and_stranded_epics__cld-96936975c8a5.md
+  ref: file:explicit:3fbc7506f35a3a6428141ad3
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/next_seven_task_beads_unlanded_work_and_stranded_epics__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
