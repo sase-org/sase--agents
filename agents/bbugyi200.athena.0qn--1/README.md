@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0f65d54`](https://github.com/sase-org/sase/commit/0f65d549f9672a27558a3b41900bbaa9c8bb6f98) | feat(ace): show green update gear while SASE is updating | 2026-09-24 10:47:24 EDT |
+| — | `0f65d54` | feat(ace): show green update gear while SASE is updating | 2026-09-24 10:47:24 EDT |

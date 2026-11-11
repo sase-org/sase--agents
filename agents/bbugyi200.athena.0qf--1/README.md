@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bc1a9bf`](https://github.com/sase-org/sase/commit/bc1a9bf1da0827e9b2aa4a18acfa8312c26e611e) | feat(ace-tui): merge monitor chip into procs indicator and add updates arrow | 2026-09-23 21:17:14 EDT |
+| — | `bc1a9bf` | feat(ace-tui): merge monitor chip into procs indicator and add updates arrow | 2026-09-23 21:17:14 EDT |

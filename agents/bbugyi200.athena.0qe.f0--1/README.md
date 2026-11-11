@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e392000`](https://github.com/sase-org/sase/commit/e392000cd11cf33bc02c99559a9e014d33fcc98e) | fix(finalizers): read live bead status when validating close at submit | 2026-09-23 21:21:47 EDT |
+| — | `e392000` | fix(finalizers): read live bead status when validating close at submit | 2026-09-23 21:21:47 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0qe](../bbugyi200.athena.0qe/README.md) | ancestor | active |
+| [0qe](../bbugyi200.athena.0qe/README.md) | ancestor | dismissed |

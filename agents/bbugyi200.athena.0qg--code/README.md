@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8eb0c63`](https://github.com/sase-org/sase/commit/8eb0c6308e6af2e425a56c42c221818d1a2b3671) | feat(agents): never fold jump panel neighbors out | 2026-09-23 21:26:49 EDT |
+| — | `8eb0c63` | feat(agents): never fold jump panel neighbors out | 2026-09-23 21:26:49 EDT |
