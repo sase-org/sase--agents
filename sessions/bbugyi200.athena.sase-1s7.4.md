@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1s7.5](bbugyi200.athena.sase-1s7.5.md) (session · 9) | sase-1s7 hood | completed 9 |
 | [sase-1s7.6](bbugyi200.athena.sase-1s7.6.md) (session · 3) | sase-1s7 hood | completed 3 |
 | [sase-1s7.7.1](../agents/bbugyi200.athena.sase-1s7.7.1/README.md) | sase-1s7 hood | completed |
-| [sase-1s7.7.2](../agents/bbugyi200.athena.sase-1s7.7.2/README.md) | sase-1s7 hood | active |
-| [sase-1s7.7.3](../agents/bbugyi200.athena.sase-1s7.7.3/README.md) | sase-1s7 hood | waiting |
-| [sase-1s7.7.land](../agents/bbugyi200.athena.sase-1s7.7.land/README.md) | sase-1s7 hood | waiting |
+| [sase-1s7.7.2](bbugyi200.athena.sase-1s7.7.2.md) (session · 3) | sase-1s7 hood | completed 3 |
+| [sase-1s7.7.3](bbugyi200.athena.sase-1s7.7.3.md) (session · 9) | sase-1s7 hood | completed 8, failed 1 |
+| [sase-1s7.7.land](bbugyi200.athena.sase-1s7.7.land.md) (session · 4) | sase-1s7 hood | active 1, completed 3 |
 | [sase-1s7.land](bbugyi200.athena.sase-1s7.land.md) (session · 3) | sase-1s7 hood | active 1, completed 2 |
