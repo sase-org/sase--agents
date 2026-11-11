@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`abfa4c8`](https://github.com/sase-org/sase/commit/abfa4c89d176d7cea735bbbfef74c4e730e3a4cb) | fix(screenshot): include renderer in runtime deps | 2026-09-18 09:34:53 EDT |
+| — | `abfa4c8` | fix(screenshot): include renderer in runtime deps | 2026-09-18 09:34:53 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0mr](../../sessions/bbugyi200.athena.0mr.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0mr](../../sessions/bbugyi200.athena.0mr.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

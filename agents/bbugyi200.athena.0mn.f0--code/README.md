@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f7ea41d`](https://github.com/sase-org/sase/commit/f7ea41d3b22a8d4a3dfb5862cf393395cdf5e9b3) | fix(memory): dedupe linked child references | 2026-09-18 07:08:59 EDT |
+| — | `f7ea41d` | fix(memory): dedupe linked child references | 2026-09-18 07:08:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0mn](../../sessions/bbugyi200.athena.0mn.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0mn](../../sessions/bbugyi200.athena.0mn.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

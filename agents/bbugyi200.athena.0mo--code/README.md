@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3ee151`](https://github.com/sase-org/sase/commit/d3ee151fd97ec0acfaae2db7d06b6ccc88fdf03f) | fix(init): keep completed machine onboarding quiet | 2026-09-18 06:07:13 EDT |
+| — | `d3ee151` | fix(init): keep completed machine onboarding quiet | 2026-09-18 06:07:13 EDT |

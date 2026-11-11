@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`951b7c9`](https://github.com/sase-org/sase/commit/951b7c90687c1656bfbd58a56d6e66a5f168a090) | fix(screenshot): settle live captures and clean tmux bootstrap | 2026-09-18 08:33:49 EDT |
+| — | `951b7c9` | fix(screenshot): settle live captures and clean tmux bootstrap | 2026-09-18 08:33:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0mr.f0](../../sessions/bbugyi200.athena.0mr.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [0mr.f0](../../sessions/bbugyi200.athena.0mr.f0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |

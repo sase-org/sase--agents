@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9f9f0d6`](https://github.com/sase-org/sase/commit/9f9f0d6f1c9c05995bba8b5966c19a5edf872f5e) | fix(tui): restore full notification backlog access | 2026-09-18 05:56:27 EDT |
+| — | `9f9f0d6` | fix(tui): restore full notification backlog access | 2026-09-18 05:56:27 EDT |
