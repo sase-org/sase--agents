@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`77f869c`](https://github.com/sase-org/sase/commit/77f869cb18d74f4fd712e79f4f882a07e45ea5ec) | feat(lease): retry transient git fetch failures during operational lease preparation | 2026-09-23 10:46:33 EDT |
+| — | `77f869c` | feat(lease): retry transient git fetch failures during operational lease preparation | 2026-09-23 10:46:33 EDT |

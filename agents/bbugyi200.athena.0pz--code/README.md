@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`abfd74d`](https://github.com/sase-org/sase/commit/abfd74d17320f24468a4912b8e57569185328755) | feat(ace): keep prompt stash panel open after partial delete | 2026-09-23 10:33:06 EDT |
+| — | `abfd74d` | feat(ace): keep prompt stash panel open after partial delete | 2026-09-23 10:33:06 EDT |
