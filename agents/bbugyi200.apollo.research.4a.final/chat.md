@@ -1,0 +1,124 @@
+# Chat History - ace-run (research.4a.final)
+
+- **TIMESTAMP:** 2026-11-11 17:12:26 EST
+- **MODEL:** claude/claude-fable-5
+- **AGENT:** research.4a.final
+- **PROMPT:** `~/.sase/multi_prompts/202611/gh_sase_org__sase-multiprompt-261111_163622.md`
+
+## Prompt
+
+%clan(research.4a, tribe=research, summary=[[[bold]RESEARCH PROMPT:[/bold] Can you do some research with the goal of helping me determine the next 7 task beads for
+this project that would be most impactful if worked right now? End your analysis with a
+ranked list of these 7 task beads (with strong justification for each).]]) %id:research.4a.final %m:claude-fable-5
+%wait:research.4a.cdx %wait:research.4a.cld %wait:research.4a.grk %wait:research.4a.mus %wait:research.4a.gem %q(1.5x, w=0.25)
+#gh:gh_sase-org__sase 
+You are the lead researcher: 5 independent researchers have reported on the request
+below, and you will add your own research and merge every perspective into one
+consolidated report.
+
+SASE derives your plan's links from the artifacts you read this turn; use
+`sase artifact read` for context you actually used.
+
+Research request:
+
+Can you do some research with the goal of helping me determine the next 7 task beads for
+this project that would be most impactful if worked right now? End your analysis with a
+ranked list of these 7 task beads (with strong justification for each).
+
+When you author or carry over Mermaid diagrams, load `/mermaid_diagrams` before
+drafting, even when no image or diagrams companion runs. The skill has the shared
+figure-selection, styling, and PDF-render review rules. If the provider skill is not
+deployed, verify the edited plugin's guide with `sase macro show skill/mermaid_diagrams --format raw` (or
+`sase macro show /mermaid_diagrams --format raw`) and use the form this host supports.
+This guidance does not enable a companion diagrams agent.
+
+The researchers' registered reports:
+
+{% for a in wait.artifacts if a.kind == "markdown" and a.label and a.label.startswith("research:") %}
+- wait_name={{ a.wait_name }} label={{ a.label }} source_path={{ a.source_path }} path={{ a.path }} ref={{ a.ref }}
+{% endfor %}
+
+Month directory (create it if missing):
+
+$(sase repo path research --ensure)/$(date +%Y%m)
+
+Steps:
+
+1. From the registered reports above, identify exactly one report per expected suffix
+   in cdx, cld, grk, mus, gem, belonging to this
+   dispatch's `research.4a.cdx`, `research.4a.cld`, `research.4a.grk`, `research.4a.mus`, `research.4a.gem` dependencies, matching by `wait_name` and the canonical research
+   label's existing `__<suffix>.md` suffix. Never reassign suffixes from list order.
+   Open the research repo with `/sase_repo`, then read each report through its canonical
+   research reference (or the `ref` field's `file:<id>` reference if the original has
+   moved) using `sase artifact read`. Do not read predecessor chat transcripts. If the
+   records above do not identify exactly one report per expected suffix, stop and report
+   the missing or ambiguous input instead of guessing.
+2. Research the request yourself, prioritizing gaps, weak evidence, and disagreements
+   between the reports.
+3. Pick a descriptive stem `<name>` that collides with nothing in the month directory
+   (do NOT end the name with `_consolidated` or `_<YYYYmmdd>` or anything similar unless
+   it relates to the research topic), create `<month-dir>/<name>/`, and move each report
+   inside it as `<name>__<suffix>.md`, preserving its existing suffix. Each report's
+   `source_path` is provenance for where it lives in your own opened research checkout;
+   resolve its canonical repo-relative path there before moving it. Never modify the
+   other agents' checkouts or the stored snapshot recorded at `ref` — only the copy in
+   your own checkout moves. Preserve every file and never overwrite: on any collision,
+   pick a different stem first.
+4. Write the consolidated report to `<name>/<name>__final.md`: merge the strongest findings
+   from every report above and your own research, resolve conflicts, cut duplication,
+   and add missing critical context without unnecessary length.
+
+   Do not create `<name>/<name>.md`, not even as a placeholder, because the linker
+   agent `research.4a.linker` publishes it from your report.
+
+5. After the write succeeds, register the consolidated report as a durable snapshot so
+   the linker agent, `research.4a.linker`, can find it:
+
+   sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"
+
+   Use the consolidated report's actual absolute path and its path relative to the
+   research repo root, for example `research:202609/<name>/<name>__final.md`. Register
+   only the consolidated report, and do not pass `--move`. If registration fails,
+   report that failure; do not report the task as fully complete.
+
+Final layout:
+
+```text
+<month-dir>/<name>/
+├── <name>__cdx.md
+├── <name>__cld.md
+├── <name>__grk.md
+├── <name>__mus.md
+├── <name>__gem.md
+└── <name>__final.md
+```
+
+## Response
+
+I'll start by opening the research repo, then read each of the five registered reports.
+
+The research repo is open. Now I'll read all five reports through their canonical research references.
+
+All five reports are at their canonical paths in my checkout. I'll use the stem `next_seven_task_beads_salvage_and_unstrand` (no collision), create the directory, and move the reports in.
+
+Now I'll register the consolidated report as a durable snapshot for the linker agent.
+
+Registration succeeded (`file:explicit:5373df11adb55e3b31493792`). The final layout is complete. Now I'll declare the turn final.
+
+One repository obligation (the research repo). I'll build and submit the manifest.
+
+The consolidated report is written, registered (`file:explicit:5373df11adb55e3b31493792`, label `research:202611/next_seven_task_beads_salvage_and_unstrand/next_seven_task_beads_salvage_and_unstrand__final.md`), and the final declaration is accepted — the host will commit the research repo after this turn.
+
+**The ranked seven task beads to work now:**
+
+1. **sase-zo** (bug·S·+10) — `sase repo list -p sase` still exits 2 on master; I re-verified both the defect and that the complete, tested fix is still sitting uncommitted in athena workspace `sase_21` (with sase-1r4's Python half in `sase_29`). Salvaging already-done work before retention reclaims it is the cheapest high-impact item available.
+2. **sase-1re** (bug·M) — done monitors with stale `followup_pending` own beads forever; the only bead all five researchers ranked, and it blinds the stranded-work detector everything else relies on.
+3. **sase-1s2** (bug·S) — runner imports overwrite the process SIGTERM handler; freshly reproduced by two researchers independently; one-line-class fix with fleet-wide reach.
+4. **sase-1o1** (bug·L) — continuation capture nests fork ancestry; a live land session is already at 708 KB vs the 256 KiB cap, so long land/monitor sessions will dead-end.
+5. **sase-1qm** (bug·L) — host completion refuses green checks on phantom fingerprint mismatches; recurrences rose from 5 in October to 11 in November, each discarding a 30–60 min check.
+6. **sase-1qi** (bug·M) — `sase agent restart` can't find crash-killed agents; its Agent-Hijack deferral has expired and the boot reconciler needs this primitive (ride-along: sase-1qr).
+7. **sase-1db** (bug·M) — the attachments-private store never verifies an existing remote is actually private; the one irreversible-consequence defect in the set.
+
+**Key adjudications from my own verification:** gem's two headline picks fell — sase-1ce is already fixed on master (`522b07a009`), and sase-1ot's purge was **owner-rejected** on Oct 28 (gem cited a stale gate), so it stays owner-gated. cld's live 708 KB measurement superseded cdx's "still under the cap" reserve call on sase-1o1.
+
+**The biggest non-bead finding:** epic `sase-1ra` (the Nov 4 "next ten") has had no live agent since athena's 11-07 reboot — I confirmed this on a fresh agent list. The headline owner action is to resume it (`sase bead work sase-1ra` after trimming `sase-1ra.11.1`'s stale gates), which covers sase-1qj and sase-12u and lets its land agent close ~10 beads that are fixed on master but still listed `ready`.
