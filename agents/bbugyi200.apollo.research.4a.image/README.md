@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4a.image
 
-**Global name:** `bbugyi200.apollo.research.4a.image` · **State:** waiting · **Source run:** `run-47160317305e48c5c316297cc5ee84a8`
+**Global name:** `bbugyi200.apollo.research.4a.image` · **State:** completed · **Source run:** `run-47160317305e48c5c316297cc5ee84a8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261111163629
+- Timing: 2026-11-11T22:13:33.897391+00:00 → 2026-11-11T22:23:28.107758+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/next\_seven\_task\_beads\_salvage\_and\_unstrand/next\_seven\_task\_beads\_salvage\_and\_unstrand\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20… |
+| `diagrams` | {considered: 14, count: 2, manifest: 202611/next\_seven\_task\_beads\_salvage\_and\_unstrand/next\_seven\_task\_beads\_salvage\_and\_unstrand.diagrams.md, source\_ref: file:explicit:5373df11adb55e3b31493792, stat… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/next_seven_task_beads_salvage_and_unstrand/next_seven_task_beads_salvage_and_unstrand_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261111163629/next_seven_task_beads_salvage_and_unstrand_infographic-5228c265f0e9.png
+  ref: file:explicit:efc6185373e3f25ee50075c9
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/next_seven_task_beads_salvage_and_unstrand/next_seven_task_beads_salvage_and_unstrand_infographic.png
+- kind: markdown
+  label: diagrams:202611/next_seven_task_beads_salvage_and_unstrand/next_seven_task_beads_salvage_and_unstrand.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261111163629/next_seven_task_beads_salvage_and_unstrand.diagrams-c5bd500b9097.md
+  ref: file:explicit:7953683e4f00a8dd232233dc
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/next_seven_task_beads_salvage_and_unstrand/next_seven_task_beads_salvage_and_unstrand.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 2
+manifest: 202611/next_seven_task_beads_salvage_and_unstrand/next_seven_task_beads_salvage_and_unstrand.diagrams.md
+source_ref: file:explicit:5373df11adb55e3b31493792
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
