@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`67cce7d`](https://github.com/sase-org/sase/commit/67cce7d82afbf8ae59525072c1fb103098e12d16) | feat(sudo): add acceptance docs and credential checks | 2026-09-15 13:03:38 EDT |
+| — | `67cce7d` | feat(sudo): add acceptance docs and credential checks | 2026-09-15 13:03:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0l9](../../sessions/bbugyi200.athena.0l9.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0l9](../../sessions/bbugyi200.athena.0l9.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

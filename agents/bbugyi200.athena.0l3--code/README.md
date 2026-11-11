@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`acfc9c8`](https://github.com/sase-org/sase/commit/acfc9c86e8912f3c571eeab3b04a367bd0d80cb8) | feat(cli): add print-command root option | 2026-09-15 09:54:21 EDT |
+| — | `acfc9c8` | feat(cli): add print-command root option | 2026-09-15 09:54:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0l3.f0](../../sessions/bbugyi200.athena.0l3.f0.md) (session · 3) | descendant | active 1, failed 2 |
-| [0l3.f0.f0](../bbugyi200.athena.0l3.f0.f0/README.md) | descendant | active |
+| [0l3.f0](../../sessions/bbugyi200.athena.0l3.f0.md) (session · 3) | descendant | dismissed 1, failed 2 |
+| [0l3.f0.f0](../bbugyi200.athena.0l3.f0.f0/README.md) | descendant | dismissed |

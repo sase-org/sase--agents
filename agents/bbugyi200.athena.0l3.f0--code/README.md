@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`82fae37`](https://github.com/sase-org/sase/commit/82fae375ba1b42d26da385da58e8cf04699f63ff) | fix(completion): preserve zsh compsys context | 2026-09-15 11:38:48 EDT |
+| — | `82fae37` | fix(completion): preserve zsh compsys context | 2026-09-15 11:38:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0l3](../../sessions/bbugyi200.athena.0l3.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0l3.f0.f0](../bbugyi200.athena.0l3.f0.f0/README.md) | descendant | active |
+| [0l3](../../sessions/bbugyi200.athena.0l3.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0l3.f0.f0](../bbugyi200.athena.0l3.f0.f0/README.md) | descendant | dismissed |

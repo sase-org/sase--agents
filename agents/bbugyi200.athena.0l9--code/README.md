@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`688b2d4`](https://github.com/sase-org/sase/commit/688b2d4eac8f123b03303e37432ba9596c0aee79) | fix(sudo): unblock terminal handoff failures | 2026-09-15 12:15:49 EDT |
+| — | `688b2d4` | fix(sudo): unblock terminal handoff failures | 2026-09-15 12:15:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0l9.f0](../../sessions/bbugyi200.athena.0l9.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [0l9.f0](../../sessions/bbugyi200.athena.0l9.f0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |

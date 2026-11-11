@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`53035c9`](https://github.com/sase-org/sase/commit/53035c96715c2052e3ccd5e9fbce63083b790731) | fix(retention): use aware prune preview timestamps | 2026-09-15 13:27:28 EDT |
+| — | `53035c9` | fix(retention): use aware prune preview timestamps | 2026-09-15 13:27:28 EDT |

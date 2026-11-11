@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0l8.r0](../../sessions/bbugyi200.athena.0l8.r0.md) (session · 3) | descendant | active 1, failed 2 |
-| [0l8.r1](../bbugyi200.athena.0l8.r1/README.md) | descendant | waiting |
+| [0l8.r0](../../sessions/bbugyi200.athena.0l8.r0.md) (session · 3) | descendant | dismissed 1, failed 2 |
+| [0l8.r1](../bbugyi200.athena.0l8.r1/README.md) | descendant | dismissed |

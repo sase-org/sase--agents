@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0l3](../../sessions/bbugyi200.athena.0l3.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0l3.f0.f0](../bbugyi200.athena.0l3.f0.f0/README.md) | descendant | active |
+| [0l3](../../sessions/bbugyi200.athena.0l3.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0l3.f0.f0](../bbugyi200.athena.0l3.f0.f0/README.md) | descendant | dismissed |
