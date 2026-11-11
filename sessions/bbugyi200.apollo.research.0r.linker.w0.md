@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | — | `8150a76` | fix(ace): follow live Reply for workflow agent rows via is\_agent\_entry | 2026-10-09 20:26:04 EDT |
+| 2 | sase | [`8150a76`](https://github.com/sase-org/sase/commit/8150a76d46e21cc0974b763a019f1078ca671641) | fix(ace): follow live Reply for workflow agent rows via is\_agent\_entry | 2026-10-09 20:26:04 EDT |
 
 ## Neighbors
 
@@ -103,4 +103,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.09.cdx](../agents/bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../agents/bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../agents/bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

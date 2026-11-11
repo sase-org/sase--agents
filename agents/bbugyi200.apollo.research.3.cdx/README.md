@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `72bd50b` | docs: add xprompt plang rename research | 2026-07-08 17:36:04 EDT |
+| sase | [`72bd50b`](https://github.com/sase-org/sase/commit/72bd50b8b33bc074af28458bc560fbdbfc974b94) | docs: add xprompt plang rename research | 2026-07-08 17:36:04 EDT |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

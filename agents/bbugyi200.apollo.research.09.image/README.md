@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `7608303` | docs: add bead work latency infographic | 2026-06-23 12:18:41 EDT |
+| sase | [`7608303`](https://github.com/sase-org/sase/commit/76083037828319e246a8ef4d318740ac5ae4f826) | docs: add bead work latency infographic | 2026-06-23 12:18:41 EDT |
 
 ## Neighbors
 
@@ -84,4 +84,4 @@
 | [research.0a.cdx](../bbugyi200.apollo.research.0a.cdx/README.md) | research hood | dismissed |
 | [research.0a.cld](../bbugyi200.apollo.research.0a.cld/README.md) | research hood | dismissed |
 | [research.0a.final](../bbugyi200.apollo.research.0a.final/README.md) | research hood | dismissed |
-| … and 657 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 665 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

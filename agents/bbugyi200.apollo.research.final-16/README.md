@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `7d23f00` | chore: consolidate blog series research | 2026-06-07 07:30:03 EDT |
+| sase | [`7d23f00`](https://github.com/sase-org/sase/commit/7d23f0080bbcc6b746fff75c611856ab027e6e15) | chore: consolidate blog series research | 2026-06-07 07:30:03 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 672 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

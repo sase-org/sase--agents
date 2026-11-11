@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `7cab247` | docs: research SASE audio generation | 2026-06-14 15:07:32 EDT |
+| sase | [`7cab247`](https://github.com/sase-org/sase/commit/7cab247bd66a8a77154079f2600b312223317b59) | docs: research SASE audio generation | 2026-06-14 15:07:32 EDT |
 
 ## Neighbors
 
@@ -83,4 +83,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 658 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 666 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

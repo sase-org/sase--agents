@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `3933e7f` | docs: add ACE demo video infographic | 2026-06-23 07:17:12 EDT |
+| sase | [`3933e7f`](https://github.com/sase-org/sase/commit/3933e7f732d4263bbfec9c4096f85a83b5d7b3fa) | docs: add ACE demo video infographic | 2026-06-23 07:17:12 EDT |
 
 ## Neighbors
 
@@ -84,4 +84,4 @@
 | [research.0a.cdx](../bbugyi200.apollo.research.0a.cdx/README.md) | research hood | dismissed |
 | [research.0a.cld](../bbugyi200.apollo.research.0a.cld/README.md) | research hood | dismissed |
 | [research.0a.final](../bbugyi200.apollo.research.0a.final/README.md) | research hood | dismissed |
-| … and 657 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 665 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

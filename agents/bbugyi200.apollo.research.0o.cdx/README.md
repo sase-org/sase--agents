@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `0434175` | docs: research TUI external editor freeze | 2026-06-26 11:46:51 EDT |
+| sase | [`0434175`](https://github.com/sase-org/sase/commit/0434175ef47a309cef5af0d15fc7d05e897ab407) | docs: research TUI external editor freeze | 2026-06-26 11:46:51 EDT |
 
 ## Variables
 
@@ -105,4 +105,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 655 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 663 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

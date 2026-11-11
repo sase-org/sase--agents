@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `03813d9` | docs: add TUI performance infographic | 2026-06-20 17:55:27 EDT |
+| sase | [`03813d9`](https://github.com/sase-org/sase/commit/03813d90971cab622bd95c13ef3feb6804c10208) | docs: add TUI performance infographic | 2026-06-20 17:55:27 EDT |
 
 ## Neighbors
 
@@ -84,4 +84,4 @@
 | [research.0a.cdx](../bbugyi200.apollo.research.0a.cdx/README.md) | research hood | dismissed |
 | [research.0a.cld](../bbugyi200.apollo.research.0a.cld/README.md) | research hood | dismissed |
 | [research.0a.final](../bbugyi200.apollo.research.0a.final/README.md) | research hood | dismissed |
-| … and 657 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 665 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

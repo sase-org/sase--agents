@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `b3570ac` | chore: Add research on automated semver releases | 2026-06-08 11:18:57 EDT |
+| sase | [`b3570ac`](https://github.com/sase-org/sase/commit/b3570ac9e4bbb66e02daace03d03c3b6ad64684a) | chore: Add research on automated semver releases | 2026-06-08 11:18:57 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 672 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

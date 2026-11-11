@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `24c999a` | docs: research workspace open tracking for linked repos | 2026-06-20 13:10:43 EDT |
+| sase | [`24c999a`](https://github.com/sase-org/sase/commit/24c999a79dae8d52ae5fdd79059c87d4512b7d33) | docs: research workspace open tracking for linked repos | 2026-06-20 13:10:43 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | dismissed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | dismissed |
 | [research.0a.audio](../bbugyi200.apollo.research.0a.audio/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

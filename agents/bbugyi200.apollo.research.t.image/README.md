@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `9f53821` | docs: add Gemini Antigravity infographic | 2026-06-19 14:26:00 EDT |
+| sase | [`9f53821`](https://github.com/sase-org/sase/commit/9f538217466bf7cfee5922ecdf11db8dbe765d9b) | docs: add Gemini Antigravity infographic | 2026-06-19 14:26:00 EDT |
 
 ## Neighbors
 
@@ -85,4 +85,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

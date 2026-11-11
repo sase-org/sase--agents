@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `398d0c0` | docs(research): critique sase update --dev install plan | 2026-06-25 21:43:55 EDT |
+| sase | [`398d0c0`](https://github.com/sase-org/sase/commit/398d0c0e3338784a36e8845973a2b9805bd18759) | docs(research): critique sase update --dev install plan | 2026-06-25 21:43:55 EDT |
 
 ## Variables
 
@@ -103,4 +103,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 657 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 665 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

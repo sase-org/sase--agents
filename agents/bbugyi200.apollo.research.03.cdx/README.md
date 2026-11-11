@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `0cba285` | docs: add SASE recent chat pattern research | 2026-06-20 17:39:22 EDT |
+| sase | [`0cba285`](https://github.com/sase-org/sase/commit/0cba2851e8f8551699beaa84a9d49850fe91b22a) | docs: add SASE recent chat pattern research | 2026-06-20 17:39:22 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research hood | dismissed |
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | dismissed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

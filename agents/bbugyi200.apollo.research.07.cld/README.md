@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `5f60a1f` | docs: research config editor TUI panel UX | 2026-06-22 12:48:37 EDT |
+| sase | [`5f60a1f`](https://github.com/sase-org/sase/commit/5f60a1f8882aa49989250ac496d1c5952b99ca7c) | docs: research config editor TUI panel UX | 2026-06-22 12:48:37 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | dismissed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | dismissed |
 | [research.0a.audio](../bbugyi200.apollo.research.0a.audio/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

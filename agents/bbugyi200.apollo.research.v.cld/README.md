@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `bf6e8ec` | docs: Add research on directives vs xprompts merge architecture | 2026-06-20 09:25:53 EDT |
+| sase | [`bf6e8ec`](https://github.com/sase-org/sase/commit/bf6e8eca978fa45ccadbfa22c041fcff69ee21bd) | docs: Add research on directives vs xprompts merge architecture | 2026-06-20 09:25:53 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

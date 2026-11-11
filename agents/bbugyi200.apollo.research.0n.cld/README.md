@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `5af9b38` | docs: Add research on merging amd init into memory init | 2026-06-26 11:39:59 EDT |
+| sase | [`5af9b38`](https://github.com/sase-org/sase/commit/5af9b3810ecf5f378dbb47a770203cbef0f091dd) | docs: Add research on merging amd init into memory init | 2026-06-26 11:39:59 EDT |
 
 ## Variables
 
@@ -105,4 +105,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 655 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 663 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

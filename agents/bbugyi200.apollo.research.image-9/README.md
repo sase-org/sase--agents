@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `cd23685` | chore: add agent launch UX infographic | 2026-06-04 20:03:00 EDT |
+| sase | [`cd23685`](https://github.com/sase-org/sase/commit/cd2368520d390a0a934a72919e0b889bd9581a05) | chore: add agent launch UX infographic | 2026-06-04 20:03:00 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 672 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `674fcea` | docs: research epic bead work PR migration | 2026-06-25 18:53:09 EDT |
+| sase | [`674fcea`](https://github.com/sase-org/sase/commit/674fcead430501499cab773872cc3531e232ecc2) | docs: research epic bead work PR migration | 2026-06-25 18:53:09 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

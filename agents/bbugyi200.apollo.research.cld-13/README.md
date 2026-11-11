@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `09c3d1e` | chore: add HN launch popularity research | 2026-06-07 06:09:41 EDT |
+| sase | [`09c3d1e`](https://github.com/sase-org/sase/commit/09c3d1e838fa0376a0ecaea656aaa3dfa970f8bd) | chore: add HN launch popularity research | 2026-06-07 06:09:41 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 672 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

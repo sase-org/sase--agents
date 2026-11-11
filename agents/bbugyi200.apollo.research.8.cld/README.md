@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `7cbbd96` | chore: add research on STOP variable for breaking repeat loops | 2026-06-11 19:14:09 EDT |
+| sase | [`7cbbd96`](https://github.com/sase-org/sase/commit/7cbbd96c5264d6d1824694a706fc1004745aa278) | chore: add research on STOP variable for breaking repeat loops | 2026-06-11 19:14:09 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 659 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 667 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

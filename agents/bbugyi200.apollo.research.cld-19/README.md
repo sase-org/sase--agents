@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `9b175cd` | chore: research plan to eliminate full agent refreshes | 2026-06-08 13:19:02 EDT |
+| sase | [`9b175cd`](https://github.com/sase-org/sase/commit/9b175cd9e5c2e500b88697d40700992bab8d10dc) | chore: research plan to eliminate full agent refreshes | 2026-06-08 13:19:02 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 672 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

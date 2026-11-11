@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `8c8c08e` | chore: consolidate direct master PyPI release research | 2026-06-09 16:29:16 EDT |
+| sase | [`8c8c08e`](https://github.com/sase-org/sase/commit/8c8c08ebc238e8c508b73b8717ed966bdd222b3f) | chore: consolidate direct master PyPI release research | 2026-06-09 16:29:16 EDT |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

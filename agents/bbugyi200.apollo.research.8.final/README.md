@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `690d4a3` | chore: consolidate repeat STOP variable research into one doc | 2026-06-11 19:21:00 EDT |
+| sase | [`690d4a3`](https://github.com/sase-org/sase/commit/690d4a3bee64454f19ba9f9252e1f405d14f171f) | chore: consolidate repeat STOP variable research into one doc | 2026-06-11 19:21:00 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 659 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 667 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `c35848f` | chore: consolidate Mac screenshot sharing research into one memo | 2026-06-12 09:29:42 EDT |
+| sase | [`c35848f`](https://github.com/sase-org/sase/commit/c35848f73669c7c4c08ceb214e4ac6e9e4bb0340) | chore: consolidate Mac screenshot sharing research into one memo | 2026-06-12 09:29:42 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 659 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 667 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

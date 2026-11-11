@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `3f3b732` | docs: consolidate TUI startup freeze research | 2026-06-23 14:26:23 EDT |
+| sase | [`3f3b732`](https://github.com/sase-org/sase/commit/3f3b73231f4d4ee567d92c0651c31ace388f5717) | docs: consolidate TUI startup freeze research | 2026-06-23 14:26:23 EDT |
 
 ## Neighbors
 
@@ -85,4 +85,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

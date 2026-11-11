@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `4c5ab83` | chore: Add SDD prompt and plan for tui\_suspend\_watchdog | 2026-06-26 12:38:45 EDT |
-| — | `a4afcdf` | feat(tui): make ACE suspend handoffs watchdog-aware | 2026-06-26 12:56:33 EDT |
+| sase | [`4c5ab83`](https://github.com/sase-org/sase/commit/4c5ab83c9897e1104a389c17430c9460709c4317) | chore: Add SDD prompt and plan for tui\_suspend\_watchdog | 2026-06-26 12:38:45 EDT |
+| sase | [`a4afcdf`](https://github.com/sase-org/sase/commit/a4afcdfecb7720a4d39e7fa7e753b942449cbf41) | feat(tui): make ACE suspend handoffs watchdog-aware | 2026-06-26 12:56:33 EDT |
 
 ## Neighbors
 
@@ -83,4 +83,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 655 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 663 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

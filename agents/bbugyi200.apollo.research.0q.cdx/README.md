@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `fbb4c78` | docs: research development runtime install strategy | 2026-06-27 08:34:30 EDT |
+| sase | [`fbb4c78`](https://github.com/sase-org/sase/commit/fbb4c781ab8c31404c425ff68c94d46edd712aa3) | docs: research development runtime install strategy | 2026-06-27 08:34:30 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

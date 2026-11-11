@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `895246b` | docs: consolidate xprompt rename research | 2026-07-08 17:43:11 EDT |
+| sase | [`895246b`](https://github.com/sase-org/sase/commit/895246bd3980f8bcfaa6bc5465ede7795b506c19) | docs: consolidate xprompt rename research | 2026-07-08 17:43:11 EDT |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

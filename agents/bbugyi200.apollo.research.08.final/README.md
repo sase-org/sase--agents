@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `67fb149` | docs: consolidate ACE demo video research | 2026-06-23 07:12:47 EDT |
+| sase | [`67fb149`](https://github.com/sase-org/sase/commit/67fb149a1679909b4ff75162160e1c2c247a5262) | docs: consolidate ACE demo video research | 2026-06-23 07:12:47 EDT |
 
 ## Neighbors
 
@@ -84,4 +84,4 @@
 | [research.0a.cdx](../bbugyi200.apollo.research.0a.cdx/README.md) | research hood | dismissed |
 | [research.0a.cld](../bbugyi200.apollo.research.0a.cld/README.md) | research hood | dismissed |
 | [research.0a.final](../bbugyi200.apollo.research.0a.final/README.md) | research hood | dismissed |
-| … and 657 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 665 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

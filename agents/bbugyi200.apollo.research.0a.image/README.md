@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `836dce8` | docs: add TUI freeze research infographic | 2026-06-23 14:32:59 EDT |
+| sase | [`836dce8`](https://github.com/sase-org/sase/commit/836dce8b1f2102df17f77224c1d67c3f95f6a381) | docs: add TUI freeze research infographic | 2026-06-23 14:32:59 EDT |
 
 ## Neighbors
 
@@ -85,4 +85,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

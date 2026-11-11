@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `fe5b816` | docs: add SASE rename research infographic | 2026-06-22 08:22:04 EDT |
+| sase | [`fe5b816`](https://github.com/sase-org/sase/commit/fe5b816c422a05d4775d5ee63166d43be139cb93) | docs: add SASE rename research infographic | 2026-06-22 08:22:04 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research hood | dismissed |
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | dismissed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `fbac771` | docs: consolidate sibling repo removal research | 2026-06-20 12:18:21 EDT |
+| sase | [`fbac771`](https://github.com/sase-org/sase/commit/fbac77176d04194bda0cb7041317a75131b9d1d9) | docs: consolidate sibling repo removal research | 2026-06-20 12:18:21 EDT |
 
 ## Neighbors
 
@@ -85,4 +85,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

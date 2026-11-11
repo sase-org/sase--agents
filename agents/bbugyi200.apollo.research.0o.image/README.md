@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `c3a331c` | docs: add TUI freeze research infographic | 2026-06-26 12:01:08 EDT |
+| sase | [`c3a331c`](https://github.com/sase-org/sase/commit/c3a331cb2c813444a141f26e515e3fa5931b22ab) | docs: add TUI freeze research infographic | 2026-06-26 12:01:08 EDT |
 
 ## Variables
 
@@ -105,4 +105,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 655 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 663 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

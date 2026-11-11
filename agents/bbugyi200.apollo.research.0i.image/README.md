@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `2460ac2` | docs: add sase-dev install strategy infographic | 2026-06-25 16:18:21 EDT |
+| sase | [`2460ac2`](https://github.com/sase-org/sase/commit/2460ac2321dd424d401c0fa76b95affc27105fc5) | docs: add sase-dev install strategy infographic | 2026-06-25 16:18:21 EDT |
 
 ## Neighbors
 
@@ -85,4 +85,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

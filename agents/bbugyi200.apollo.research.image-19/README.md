@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `b2f8e0f` | chore: add TUI full refresh audit infographic | 2026-06-08 13:49:05 EDT |
+| sase | [`b2f8e0f`](https://github.com/sase-org/sase/commit/b2f8e0f8bf574b9836d49e858ebfa9f67c6ee180) | chore: add TUI full refresh audit infographic | 2026-06-08 13:49:05 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 672 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

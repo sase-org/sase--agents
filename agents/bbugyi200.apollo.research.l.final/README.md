@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `15557e8` | docs: consolidate model purpose config research | 2026-06-17 15:18:00 EDT |
+| sase | [`15557e8`](https://github.com/sase-org/sase/commit/15557e87cdd5ce4f882cca835a01cd8a8f844577) | docs: consolidate model purpose config research | 2026-06-17 15:18:00 EDT |
 
 ## Neighbors
 
@@ -83,4 +83,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 658 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 666 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

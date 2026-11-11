@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `1645c2f` | docs: research open-tracking alternative to sibling\_repos | 2026-06-20 13:18:44 EDT |
+| sase | [`1645c2f`](https://github.com/sase-org/sase/commit/1645c2f0b4f433d2dcfa6c31cb6a270929effa8f) | docs: research open-tracking alternative to sibling\_repos | 2026-06-20 13:18:44 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | dismissed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | dismissed |
 | [research.0a.audio](../bbugyi200.apollo.research.0a.audio/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

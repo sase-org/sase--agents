@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `a476637` | docs: add xprompt rename infographic | 2026-07-08 17:46:41 EDT |
+| sase | [`a476637`](https://github.com/sase-org/sase/commit/a47663781be247148e3444fa7be8f4403008db9c) | docs: add xprompt rename infographic | 2026-07-08 17:46:41 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

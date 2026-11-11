@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `0682924` | docs: add TUI auto-loading research infographic | 2026-06-27 09:19:38 EDT |
+| sase | [`0682924`](https://github.com/sase-org/sase/commit/0682924ec831c80253075f74764732b05d6f0c7c) | docs: add TUI auto-loading research infographic | 2026-06-27 09:19:38 EDT |
 
 ## Variables
 
@@ -104,4 +104,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

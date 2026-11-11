@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `0c233e1` | docs: consolidate VHS overlay research | 2026-07-08 17:29:13 EDT |
+| sase | [`0c233e1`](https://github.com/sase-org/sase/commit/0c233e189a47e57cb231477acee8c2614cad510a) | docs: consolidate VHS overlay research | 2026-07-08 17:29:13 EDT |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

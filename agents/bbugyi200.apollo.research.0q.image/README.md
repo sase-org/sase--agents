@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `dc70b1d` | docs: add development install infographic | 2026-06-27 08:46:37 EDT |
+| sase | [`dc70b1d`](https://github.com/sase-org/sase/commit/dc70b1d9d1573caa0e4ba2842fbd454439f2abc5) | docs: add development install infographic | 2026-06-27 08:46:37 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

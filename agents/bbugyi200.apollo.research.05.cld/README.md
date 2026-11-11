@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `52af3b1` | docs: add coral subcommand naming research | 2026-06-22 11:31:13 EDT |
+| sase | [`52af3b1`](https://github.com/sase-org/sase/commit/52af3b1a64afd73b3e3e31e354521919701d86ee) | docs: add coral subcommand naming research | 2026-06-22 11:31:13 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research hood | dismissed |
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | dismissed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

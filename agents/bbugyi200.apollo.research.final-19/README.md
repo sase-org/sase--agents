@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `fe59b3a` | chore: consolidate TUI full refresh research | 2026-06-08 13:42:01 EDT |
+| sase | [`fe59b3a`](https://github.com/sase-org/sase/commit/fe59b3ad0e5c23e0fbfa9fa19ed31caa79569b50) | chore: consolidate TUI full refresh research | 2026-06-08 13:42:01 EDT |
 
 ## Neighbors
 
@@ -74,4 +74,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 663 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 671 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

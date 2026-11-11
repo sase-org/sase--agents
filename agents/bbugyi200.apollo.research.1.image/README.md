@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `7ee16d9` | chore: add sase doctor research infographic | 2026-06-09 11:38:17 EDT |
-| — | `cf403ac` | docs: add sase doctor diagnostics infographic | 2026-07-08 00:59:22 EDT |
+| sase | [`7ee16d9`](https://github.com/sase-org/sase/commit/7ee16d943de696ed088add756e05920e0718da67) | chore: add sase doctor research infographic | 2026-06-09 11:38:17 EDT |
+| sase | [`cf403ac`](https://github.com/sase-org/sase/commit/cf403ac681d289bef373f14fbb8fd1f37300b62f) | docs: add sase doctor diagnostics infographic | 2026-07-08 00:59:22 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `d839b5b` | docs: consolidate AMD memory init research | 2026-06-26 11:47:22 EDT |
+| sase | [`d839b5b`](https://github.com/sase-org/sase/commit/d839b5b9f3721ff0fd3a362f2876dd29df89bcaa) | docs: consolidate AMD memory init research | 2026-06-26 11:47:22 EDT |
 
 ## Variables
 
@@ -105,4 +105,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 655 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 663 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

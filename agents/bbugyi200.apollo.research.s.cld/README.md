@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `0760521` | docs(research): add LICENSE file options and recommendation | 2026-06-19 12:28:22 EDT |
+| sase | [`0760521`](https://github.com/sase-org/sase/commit/0760521dc7eedb70991a0848f3a40d7a1b22e7c7) | docs(research): add LICENSE file options and recommendation | 2026-06-19 12:28:22 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

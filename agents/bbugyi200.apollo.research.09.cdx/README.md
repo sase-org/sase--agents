@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `ce2103b` | docs: research bead work latency | 2026-06-23 12:03:52 EDT |
+| sase | [`ce2103b`](https://github.com/sase-org/sase/commit/ce2103b375f177c92f2244d570d8068db7dca919) | docs: research bead work latency | 2026-06-23 12:03:52 EDT |
 
 ## Neighbors
 
@@ -84,4 +84,4 @@
 | [research.0a.cdx](../bbugyi200.apollo.research.0a.cdx/README.md) | research hood | dismissed |
 | [research.0a.cld](../bbugyi200.apollo.research.0a.cld/README.md) | research hood | dismissed |
 | [research.0a.final](../bbugyi200.apollo.research.0a.final/README.md) | research hood | dismissed |
-| … and 657 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 665 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

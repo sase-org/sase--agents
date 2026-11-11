@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `d35c306` | docs: research TUI startup freeze from editor suspend | 2026-06-26 11:48:51 EDT |
+| sase | [`d35c306`](https://github.com/sase-org/sase/commit/d35c306dd2cdc8406743baaeabee229a9a223cc8) | docs: research TUI startup freeze from editor suspend | 2026-06-26 11:48:51 EDT |
 
 ## Variables
 
@@ -105,4 +105,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 655 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 663 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

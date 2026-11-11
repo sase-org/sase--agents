@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `027565e` | docs: add config TUI research infographic | 2026-06-22 13:01:35 EDT |
+| sase | [`027565e`](https://github.com/sase-org/sase/commit/027565e95ee9a3ff133865ea4338159c67482721) | docs: add config TUI research infographic | 2026-06-22 13:01:35 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | dismissed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | dismissed |
 | [research.0a.audio](../bbugyi200.apollo.research.0a.audio/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

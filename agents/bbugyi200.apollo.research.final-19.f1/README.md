@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `4b1de96` | chore: Add SDD prompt and plan for tui\_agent\_refresh\_optimizations | 2026-06-08 14:06:02 EDT |
-| — | `6bba088` | chore: create TUI refresh optimization epic beads | 2026-06-08 14:11:44 EDT |
+| sase | [`4b1de96`](https://github.com/sase-org/sase/commit/4b1de962eac66cd1436ae95b0df54ce798ab7aba) | chore: Add SDD prompt and plan for tui\_agent\_refresh\_optimizations | 2026-06-08 14:06:02 EDT |
+| sase | [`6bba088`](https://github.com/sase-org/sase/commit/6bba088362a72cd27499c7d9e0438112f8bacc12) | chore: create TUI refresh optimization epic beads | 2026-06-08 14:11:44 EDT |
 
 ## Neighbors
 
@@ -75,4 +75,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 663 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 671 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

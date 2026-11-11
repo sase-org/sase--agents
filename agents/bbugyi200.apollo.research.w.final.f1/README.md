@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `697002d` | chore: Add SDD prompt and plan for agy\_tools\_panel | 2026-06-20 10:03:57 EDT |
-| — | `6c661bb` | feat(agy): extract trajectory tool calls | 2026-06-20 10:24:08 EDT |
+| sase | [`697002d`](https://github.com/sase-org/sase/commit/697002d642b2b0d7f109e4233b0dfe19f38bb474) | chore: Add SDD prompt and plan for agy\_tools\_panel | 2026-06-20 10:03:57 EDT |
+| sase | [`6c661bb`](https://github.com/sase-org/sase/commit/6c661bbdbae36b100fed2fa4cfe6bb57a4093f4e) | feat(agy): extract trajectory tool calls | 2026-06-20 10:24:08 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

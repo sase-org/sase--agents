@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `0dce323` | docs(research): analyze ,r keymap to revert a done agent's commits | 2026-06-14 10:23:25 EDT |
+| sase | [`0dce323`](https://github.com/sase-org/sase/commit/0dce323c9aef7fba3039e84a88feef1424bc176d) | docs(research): analyze ,r keymap to revert a done agent's commits | 2026-06-14 10:23:25 EDT |
 
 ## Neighbors
 
@@ -85,4 +85,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

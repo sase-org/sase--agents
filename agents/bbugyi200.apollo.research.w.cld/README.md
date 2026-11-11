@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `ff7ed06` | docs: Add research on tools panel support for anti-gravity provider | 2026-06-20 09:30:05 EDT |
+| sase | [`ff7ed06`](https://github.com/sase-org/sase/commit/ff7ed06066c32d0e90abfc0667543c5da7c3f5bd) | docs: Add research on tools panel support for anti-gravity provider | 2026-06-20 09:30:05 EDT |
 
 ## Neighbors
 
@@ -85,4 +85,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

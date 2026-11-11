@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `ff81f49` | chore: Add research for #with\_q\_and\_a xprompt | 2026-06-18 16:36:19 EDT |
+| sase | [`ff81f49`](https://github.com/sase-org/sase/commit/ff81f497528a9e8465a0ed20156776bb65cdceab) | chore: Add research for #with\_q\_and\_a xprompt | 2026-06-18 16:36:19 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

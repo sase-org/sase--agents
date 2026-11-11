@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `928449e` | docs: research unified model purpose config | 2026-06-17 15:10:09 EDT |
+| sase | [`928449e`](https://github.com/sase-org/sase/commit/928449e550eb083214c4abb7c9e0ac571e85fdfd) | docs: research unified model purpose config | 2026-06-17 15:10:09 EDT |
 
 ## Neighbors
 
@@ -83,4 +83,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 658 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 666 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `a6dd9a3` | chore: add launch readiness research on install/use/understand | 2026-06-07 06:25:18 EDT |
+| sase | [`a6dd9a3`](https://github.com/sase-org/sase/commit/a6dd9a3a80f5c4db848a19d9023a21c3c903e7ac) | chore: add launch readiness research on install/use/understand | 2026-06-07 06:25:18 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 672 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

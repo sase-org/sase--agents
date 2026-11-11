@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `df67668` | chore: Add SDD prompt and plan for p0\_onboarding | 2026-06-09 18:41:57 EDT |
-| — | `8799a4d` | chore: create P0 onboarding epic beads | 2026-06-09 18:46:17 EDT |
+| sase | [`df67668`](https://github.com/sase-org/sase/commit/df676685d6d060d8c40857ed3ad77dfc03f53dd0) | chore: Add SDD prompt and plan for p0\_onboarding | 2026-06-09 18:41:57 EDT |
+| sase | [`8799a4d`](https://github.com/sase-org/sase/commit/8799a4d820b7122bd3275a41057704b8299f349c) | chore: create P0 onboarding epic beads | 2026-06-09 18:46:17 EDT |
 
 ## Neighbors
 
@@ -78,4 +78,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

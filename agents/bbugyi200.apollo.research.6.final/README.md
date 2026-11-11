@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `b9ac265` | chore: consolidate memory build-vs-Zep research into one document | 2026-06-11 08:09:30 EDT |
+| sase | [`b9ac265`](https://github.com/sase-org/sase/commit/b9ac2657303735e51c8eb40d97e48e01bdeda761) | chore: consolidate memory build-vs-Zep research into one document | 2026-06-11 08:09:30 EDT |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

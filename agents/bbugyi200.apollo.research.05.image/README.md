@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `1a0b181` | docs: add coral naming infographic | 2026-06-22 11:46:17 EDT |
+| sase | [`1a0b181`](https://github.com/sase-org/sase/commit/1a0b181e2a8ecaff2cce50365433ae9d23697c53) | docs: add coral naming infographic | 2026-06-22 11:46:17 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research hood | dismissed |
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | dismissed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

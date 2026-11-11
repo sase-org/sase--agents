@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `60b55cc` | docs: add TUI slowdown infographic | 2026-06-25 06:51:04 EDT |
+| sase | [`60b55cc`](https://github.com/sase-org/sase/commit/60b55cc812cf5b7adf344da27488bdbbf9320df1) | docs: add TUI slowdown infographic | 2026-06-25 06:51:04 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

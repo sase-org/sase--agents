@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `86be3ff` | chore: Add research on a unified \`sase doctor\` command | 2026-06-09 11:16:01 EDT |
-| — | `858a21b` | docs: add research on sase doctor diagnostic improvements | 2026-07-08 00:46:44 EDT |
+| sase | [`86be3ff`](https://github.com/sase-org/sase/commit/86be3ffd201eff463be87517104fb65519c6fda3) | chore: Add research on a unified \`sase doctor\` command | 2026-06-09 11:16:01 EDT |
+| sase | [`858a21b`](https://github.com/sase-org/sase/commit/858a21bd21d8ff30b49d99dd9034025039f1c2ee) | docs: add research on sase doctor diagnostic improvements | 2026-07-08 00:46:44 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

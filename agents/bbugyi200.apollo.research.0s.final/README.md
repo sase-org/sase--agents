@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `9394ef7` | docs: consolidate TUI/xprompt-LSP freeze research | 2026-06-27 16:21:40 EDT |
+| sase | [`9394ef7`](https://github.com/sase-org/sase/commit/9394ef71b8bb0453b185273a1ad3688e2ed38c33) | docs: consolidate TUI/xprompt-LSP freeze research | 2026-06-27 16:21:40 EDT |
 
 ## Variables
 
@@ -104,4 +104,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

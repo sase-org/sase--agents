@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `0fbdbfd` | docs: add blog launch research infographic | 2026-06-14 17:39:47 EDT |
+| sase | [`0fbdbfd`](https://github.com/sase-org/sase/commit/0fbdbfdd916486c38636aa216707fe670603600e) | docs: add blog launch research infographic | 2026-06-14 17:39:47 EDT |
 
 ## Neighbors
 
@@ -84,4 +84,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 657 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 665 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

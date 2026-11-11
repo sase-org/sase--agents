@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `80dba02` | chore: consolidate sase doctor research | 2026-06-09 11:33:11 EDT |
-| — | `111de03` | docs: consolidate sase doctor improvement research | 2026-07-08 00:52:27 EDT |
+| sase | [`80dba02`](https://github.com/sase-org/sase/commit/80dba020aaf372f1c1e483a7b24faf77006dbaf7) | chore: consolidate sase doctor research | 2026-06-09 11:33:11 EDT |
+| sase | [`111de03`](https://github.com/sase-org/sase/commit/111de035ed051508a540b99cf5fe1063ea3a2cdb) | docs: consolidate sase doctor improvement research | 2026-07-08 00:52:27 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

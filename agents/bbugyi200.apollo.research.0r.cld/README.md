@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `4ad86da` | docs: add research on auto-loading snippets and xprompts in the TUI | 2026-06-27 09:09:10 EDT |
+| sase | [`4ad86da`](https://github.com/sase-org/sase/commit/4ad86da3344151a17d860d0329978d2b9c57e7d1) | docs: add research on auto-loading snippets and xprompts in the TUI | 2026-06-27 09:09:10 EDT |
 
 ## Neighbors
 
@@ -81,4 +81,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

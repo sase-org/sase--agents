@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `343691c` | docs: consolidate TUI prompt auto-loading research | 2026-06-27 09:15:37 EDT |
+| sase | [`343691c`](https://github.com/sase-org/sase/commit/343691cd877c6dbc8c4ea2613af53a5d3a287229) | docs: consolidate TUI prompt auto-loading research | 2026-06-27 09:15:37 EDT |
 
 ## Variables
 
@@ -104,4 +104,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

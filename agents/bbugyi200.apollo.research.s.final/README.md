@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `3ffac58` | docs: consolidate license file research | 2026-06-19 12:35:35 EDT |
+| sase | [`3ffac58`](https://github.com/sase-org/sase/commit/3ffac58449b9711b9240b7dacb8f423e94e77307) | docs: consolidate license file research | 2026-06-19 12:35:35 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

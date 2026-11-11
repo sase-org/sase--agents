@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `920b89b` | docs: add sase update dev infographic | 2026-06-25 21:57:53 EDT |
+| sase | [`920b89b`](https://github.com/sase-org/sase/commit/920b89beb22b9e3b2bcaeb50e166a79a1f9edf80) | docs: add sase update dev infographic | 2026-06-25 21:57:53 EDT |
 
 ## Variables
 
@@ -103,4 +103,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 657 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 665 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

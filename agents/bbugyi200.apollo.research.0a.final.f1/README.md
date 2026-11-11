@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `6dc9d4f` | chore: Add SDD prompt and plan for tui\_startup\_freeze\_layer1 | 2026-06-23 14:52:52 EDT |
-| — | `4998611` | perf(tui): defer artifact index maintenance off the event loop | 2026-06-23 15:08:32 EDT |
+| sase | [`6dc9d4f`](https://github.com/sase-org/sase/commit/6dc9d4fc9158ea900d3f91b24a6a5856fb9e62b5) | chore: Add SDD prompt and plan for tui\_startup\_freeze\_layer1 | 2026-06-23 14:52:52 EDT |
+| sase | [`4998611`](https://github.com/sase-org/sase/commit/49986114d251c67b51e3774bdf4e330f466b9aae) | perf(tui): defer artifact index maintenance off the event loop | 2026-06-23 15:08:32 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

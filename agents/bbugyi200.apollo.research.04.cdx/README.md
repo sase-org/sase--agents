@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `f6159ce` | docs: add SASE rename research | 2026-06-22 07:55:20 EDT |
+| sase | [`f6159ce`](https://github.com/sase-org/sase/commit/f6159cea5c8d9fcdef16ba6ef799ff39078e65be) | docs: add SASE rename research | 2026-06-22 07:55:20 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research hood | dismissed |
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | dismissed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

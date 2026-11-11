@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `edf4364` | chore: Add SDD prompt and plan for agy\_provider\_mvp | 2026-06-19 18:55:59 EDT |
-| — | `71cf7f5` | chore: Add epic and phase beads for agy\_provider\_mvp | 2026-06-19 19:06:19 EDT |
+| sase | [`edf4364`](https://github.com/sase-org/sase/commit/edf4364bb309dd17baf4c5d580009bf62411b5b6) | chore: Add SDD prompt and plan for agy\_provider\_mvp | 2026-06-19 18:55:59 EDT |
+| sase | [`71cf7f5`](https://github.com/sase-org/sase/commit/71cf7f5168f8ad31fb4dffc6957dc148654ba8e1) | chore: Add epic and phase beads for agy\_provider\_mvp | 2026-06-19 19:06:19 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

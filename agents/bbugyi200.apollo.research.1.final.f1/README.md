@@ -17,9 +17,9 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `c4080bf` | chore: Add SDD prompt and plan for doctor\_command\_mvp | 2026-06-09 11:52:58 EDT |
-| — | `f18855e` | chore: create doctor command mvp bead plan | 2026-06-09 11:57:13 EDT |
-| — | `cc91f9c` | chore: scaffold sase doctor diagnostics epic and phase beads | 2026-07-08 01:31:45 EDT |
+| sase | [`c4080bf`](https://github.com/sase-org/sase/commit/c4080bfd90e1fb151ae1e5e0e63da811277ef24a) | chore: Add SDD prompt and plan for doctor\_command\_mvp | 2026-06-09 11:52:58 EDT |
+| sase | [`f18855e`](https://github.com/sase-org/sase/commit/f18855e27fb72edb59ceceee12faf44d85ab3bf5) | chore: create doctor command mvp bead plan | 2026-06-09 11:57:13 EDT |
+| sase | [`cc91f9c`](https://github.com/sase-org/sase/commit/cc91f9ca4b4e63ce8b60a0322815f0124281ceab) | chore: scaffold sase doctor diagnostics epic and phase beads | 2026-07-08 01:31:45 EDT |
 
 ## Neighbors
 
@@ -79,4 +79,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

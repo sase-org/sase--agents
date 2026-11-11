@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `7e320fe` | docs(research): root-cause TUI startup freeze from synchronous terminalization | 2026-06-23 14:16:39 EDT |
+| sase | [`7e320fe`](https://github.com/sase-org/sase/commit/7e320feb975eb4f84260acfccb4f1e4392a0f835) | docs(research): root-cause TUI startup freeze from synchronous terminalization | 2026-06-23 14:16:39 EDT |
 
 ## Neighbors
 
@@ -85,4 +85,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

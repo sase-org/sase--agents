@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `701bf6d` | docs: add license research infographic | 2026-06-19 12:49:24 EDT |
+| sase | [`701bf6d`](https://github.com/sase-org/sase/commit/701bf6d926d48c27a74ac63716d6027811f858d2) | docs: add license research infographic | 2026-06-19 12:49:24 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

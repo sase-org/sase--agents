@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `60c5526` | chore: consolidate new-user onboarding research | 2026-06-09 18:16:06 EDT |
+| sase | [`60c5526`](https://github.com/sase-org/sase/commit/60c5526e77e3b6e74f0fe493c7e703eb9bdb8b94) | chore: consolidate new-user onboarding research | 2026-06-09 18:16:06 EDT |
 
 ## Neighbors
 
@@ -81,4 +81,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 660 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 668 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `f493f14` | chore: Add SDD prompt and plan for migrate\_amd\_into\_memory | 2026-06-26 12:39:23 EDT |
-| — | `128d0d2` | feat(cli)!: migrate \`sase amd\` into \`sase memory\` | 2026-06-26 13:10:54 EDT |
+| sase | [`f493f14`](https://github.com/sase-org/sase/commit/f493f1447f56e4a33dd26670a8375bf685326c47) | chore: Add SDD prompt and plan for migrate\_amd\_into\_memory | 2026-06-26 12:39:23 EDT |
+| sase | [`128d0d2`](https://github.com/sase-org/sase/commit/128d0d26a5d9f64fa71d912ff81186093fcfaca6) | feat(cli)!: migrate \`sase amd\` into \`sase memory\` | 2026-06-26 13:10:54 EDT |
 
 ## Neighbors
 
@@ -83,4 +83,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 655 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 663 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

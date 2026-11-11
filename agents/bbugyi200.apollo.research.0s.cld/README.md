@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `03a52fe` | docs: add research on TUI + xprompt LSP shared-index freeze | 2026-06-27 16:10:10 EDT |
+| sase | [`03a52fe`](https://github.com/sase-org/sase/commit/03a52fe838468a0b067faf2a393251f54907c1fe) | docs: add research on TUI + xprompt LSP shared-index freeze | 2026-06-27 16:10:10 EDT |
 
 ## Variables
 
@@ -114,4 +114,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

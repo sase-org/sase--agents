@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `e826c9e` | chore: Add research on memory system build-vs-Zep decision | 2026-06-11 08:03:54 EDT |
+| sase | [`e826c9e`](https://github.com/sase-org/sase/commit/e826c9e5e87c80d7e67c5de6c066189172c884fb) | chore: Add research on memory system build-vs-Zep decision | 2026-06-11 08:03:54 EDT |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

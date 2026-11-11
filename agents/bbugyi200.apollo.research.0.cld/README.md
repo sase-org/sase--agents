@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `b75bb70` | docs: add research on separate SDD repository per project | 2026-07-07 22:29:32 EDT |
+| sase | [`b75bb70`](https://github.com/sase-org/sase/commit/b75bb70506b44de1808cd4d8e515bb82e1f527c2) | docs: add research on separate SDD repository per project | 2026-07-07 22:29:32 EDT |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research hood | dismissed |
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | dismissed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | dismissed |
-| … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 669 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

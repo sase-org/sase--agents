@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `f3531a7` | chore: Add SDD prompt and plan for agents\_tab\_revert\_agent\_commits | 2026-06-14 10:46:44 EDT |
-| — | `bf81671` | feat(ace): add Agents-tab leader \`,r\` revert for done agents | 2026-06-14 11:14:59 EDT |
+| sase | [`f3531a7`](https://github.com/sase-org/sase/commit/f3531a7ab877f8bda57f550e0548207552fadde5) | chore: Add SDD prompt and plan for agents\_tab\_revert\_agent\_commits | 2026-06-14 10:46:44 EDT |
+| sase | [`bf81671`](https://github.com/sase-org/sase/commit/bf816714784875ee326cfdc4f6adc3219edd95af) | feat(ace): add Agents-tab leader \`,r\` revert for done agents | 2026-06-14 11:14:59 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

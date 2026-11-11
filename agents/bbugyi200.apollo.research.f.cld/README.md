@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `67dd47a` | docs(research): add audio podcast generation feasibility study | 2026-06-14 15:06:11 EDT |
+| sase | [`67dd47a`](https://github.com/sase-org/sase/commit/67dd47acc170601fe0c987e4f26c6df397ab360b) | docs(research): add audio podcast generation feasibility study | 2026-06-14 15:06:11 EDT |
 
 ## Neighbors
 
@@ -79,4 +79,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
-| … and 658 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 666 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
