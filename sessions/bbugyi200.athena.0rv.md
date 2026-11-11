@@ -11,7 +11,7 @@ flowchart TD
   n0["0rv--code [completed]"]
   n1["0rv--gate [failed]"]
   n0 --> n1
-  n2["0rv--plan [active]"]
+  n2["0rv--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0rv--code | completed | muse-spark-1.3-contributor / muse | 2026-09-25T10:46:48.490382+00:00 → 2026-09-25T11:12:48.221945+00:00 | [1](../agents/bbugyi200.athena.0rv--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0rv--code/chat.md) |
 | <a id="member-gate"></a>gate | 0rv--gate | failed | opus / claude | 2026-09-25T10:46:09.566281+00:00 → 2026-09-25T10:46:27.959019+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0rv--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0rv--plan | active | opus / claude | 2026-09-25T10:42:11.451092+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0rv--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0rv--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0rv--plan | dismissed | opus / claude | 2026-09-25T06:42:11.451092 → 2026-09-25T07:12:48.297943 | 0 | [Prompt](../agents/bbugyi200.athena.0rv--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0rv--plan/chat.md) |
 
 ## Commits
 
@@ -35,4 +35,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [0rv.w0](bbugyi200.athena.0rv.w0.md) (session · 7) | descendant | completed 4, failed 3 |
 | [0rv.w0.f0](bbugyi200.athena.0rv.w0.f0.md) (session · 3) | descendant | completed 2, failed 1 |
-| [0rv.w0.f0.w0](../agents/bbugyi200.athena.0rv.w0.f0.w0/README.md) | descendant | waiting |
+| [0rv.w0.f0.w0](../agents/bbugyi200.athena.0rv.w0.f0.w0/README.md) | descendant | dismissed |

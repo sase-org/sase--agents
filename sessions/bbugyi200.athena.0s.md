@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0s` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["0s [active]"]
+  n0["0s [dismissed]"]
   n1["0s--code [completed]"]
   n0 --> n1
 ```
@@ -17,13 +17,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 0s | active | gpt-5.5 / codex | 2026-07-07T18:21:30.301022+00:00 | [1](../agents/bbugyi200.athena.0s/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0s/prompt.md) | [Chat](../agents/bbugyi200.athena.0s/chat.md) |
+| <a id="member-root"></a>root | 0s | dismissed | gpt-5.5 / codex | 2026-07-07T14:21:30.301022 → 2026-07-07T14:34:01.744052 | [1](../agents/bbugyi200.athena.0s/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0s/prompt.md) | [Chat](../agents/bbugyi200.athena.0s/chat.md) |
 | <a id="member-code"></a>code | 0s--code | completed | gpt-5.5 / codex | 2026-07-07T18:24:35.297494+00:00 | [1](../agents/bbugyi200.athena.0s--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0s--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`d57cf2a`](https://github.com/sase-org/sase/commit/d57cf2ab941b131019a84ed9c06babbb1fdd2b15) | chore: Add SDD prompt and plan for agents\_var\_namespace | 2026-06-03 01:23:03 EDT |
-| root | sase | [`0b84b94`](https://github.com/sase-org/sase/commit/0b84b94fca438557844b88154ad5df40c5644c95) | chore: Add SDD prompt and plan for update\_confirm\_commits | 2026-07-07 14:24:34 EDT |
-| code | sase | [`9c9caa6`](https://github.com/sase-org/sase/commit/9c9caa6cc99b733f3605799b4ffd38d9c07c18e4) | fix(tui): summarize multi-repo update commits | 2026-07-07 14:33:43 EDT |
+| — | — | `d57cf2a` | chore: Add SDD prompt and plan for agents\_var\_namespace | 2026-06-03 01:23:03 EDT |
+| root | — | `0b84b94` | chore: Add SDD prompt and plan for update\_confirm\_commits | 2026-07-07 14:24:34 EDT |
+| code | — | `9c9caa6` | fix(tui): summarize multi-repo update commits | 2026-07-07 14:33:43 EDT |

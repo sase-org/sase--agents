@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a674dc9`](https://github.com/sase-org/sase/commit/a674dc91f186c653399a681f97d456876edbcb19) | test(ace): finish the deck cutover's visual migration and chrome fixes (sase-17d.10.1.4) | 2026-09-24 22:50:42 EDT |
+| — | `a674dc9` | test(ace): finish the deck cutover's visual migration and chrome fixes (sase-17d.10.1.4) | 2026-09-24 22:50:42 EDT |

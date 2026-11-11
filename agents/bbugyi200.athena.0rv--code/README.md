@@ -29,4 +29,4 @@
 |---|---|---|
 | [0rv.w0](../../sessions/bbugyi200.athena.0rv.w0.md) (session · 7) | descendant | completed 4, failed 3 |
 | [0rv.w0.f0](../../sessions/bbugyi200.athena.0rv.w0.f0.md) (session · 3) | descendant | completed 2, failed 1 |
-| [0rv.w0.f0.w0](../bbugyi200.athena.0rv.w0.f0.w0/README.md) | descendant | waiting |
+| [0rv.w0.f0.w0](../bbugyi200.athena.0rv.w0.f0.w0/README.md) | descendant | dismissed |
