@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0z` · Members: 2
 ```mermaid
 flowchart TD
   n0["0z.w1--code [completed]"]
-  n1["0z.w1 [active]"]
+  n1["0z.w1 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,19 +18,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0z.w1--code | completed | gpt-5.5 / codex | 2026-07-07T21:06:03.662431+00:00 | [1](../agents/bbugyi200.athena.0z.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0z.w1--code/chat.md) |
-| <a id="member-root"></a>root | 0z.w1 | active | claude-fable-5 / claude | 2026-07-07T16:53:22.821174 | [2](../agents/bbugyi200.athena.0z.w1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0z.w1/prompt.md) | [Chat](../agents/bbugyi200.athena.0z.w1/chat.md) |
+| <a id="member-root"></a>root | 0z.w1 | dismissed | claude-fable-5 / claude | 2026-07-07T16:53:22.821174 → 2026-07-07T17:24:36.216795 | [2](../agents/bbugyi200.athena.0z.w1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0z.w1/prompt.md) | [Chat](../agents/bbugyi200.athena.0z.w1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`9a767bb`](https://github.com/sase-org/sase/commit/9a767bbc2e9975344d42d4eea37aaa5965e2cfbc) | chore: Add SDD prompt and plan for slow\_tool\_call\_failure\_reports | 2026-07-07 17:06:02 EDT |
-| code | sase | [`7696aa0`](https://github.com/sase-org/sase/commit/7696aa00e157a706d02ba8956126049892b3b5a8) | feat(tui): add failed tool call report hints | 2026-07-07 17:24:01 EDT |
-| root | sase | [`7696aa0`](https://github.com/sase-org/sase/commit/7696aa00e157a706d02ba8956126049892b3b5a8) | feat(tui): add failed tool call report hints | 2026-07-07 17:24:01 EDT |
+| root | — | `9a767bb` | chore: Add SDD prompt and plan for slow\_tool\_call\_failure\_reports | 2026-07-07 17:06:02 EDT |
+| code | — | `7696aa0` | feat(tui): add failed tool call report hints | 2026-07-07 17:24:01 EDT |
+| root | — | `7696aa0` | feat(tui): add failed tool call report hints | 2026-07-07 17:24:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0z](bbugyi200.athena.0z.md) (session · 2) | ancestor | active 1, completed 1 |
-| [0z.w1.f1](bbugyi200.athena.0z.w1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [0z](bbugyi200.athena.0z.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [0z.w1.f1](bbugyi200.athena.0z.w1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7696aa0`](https://github.com/sase-org/sase/commit/7696aa00e157a706d02ba8956126049892b3b5a8) | feat(tui): add failed tool call report hints | 2026-07-07 17:24:01 EDT |
+| — | `7696aa0` | feat(tui): add failed tool call report hints | 2026-07-07 17:24:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0z](../../sessions/bbugyi200.athena.0z.md) (session · 2) | ancestor | active 1, completed 1 |
-| [0z.w1.f1](../../sessions/bbugyi200.athena.0z.w1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [0z](../../sessions/bbugyi200.athena.0z.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [0z.w1.f1](../../sessions/bbugyi200.athena.0z.w1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

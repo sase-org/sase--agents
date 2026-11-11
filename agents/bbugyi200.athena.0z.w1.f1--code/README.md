@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2d13be9`](https://github.com/sase-org/sase/commit/2d13be9ce05a93715436a755e8dcf168c98a041b) | feat(tui): add slow-tool reports for successful calls | 2026-07-07 20:51:47 EDT |
+| — | `2d13be9` | feat(tui): add slow-tool reports for successful calls | 2026-07-07 20:51:47 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0z.w1](../../sessions/bbugyi200.athena.0z.w1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [0z](../../sessions/bbugyi200.athena.0z.md) (session · 2) | ancestor | active 1, completed 1 |
+| [0z.w1](../../sessions/bbugyi200.athena.0z.w1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [0z](../../sessions/bbugyi200.athena.0z.md) (session · 2) | ancestor | completed 1, dismissed 1 |
