@@ -86,7 +86,7 @@
 | [o](hoods/o/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [p](hoods/p/README.md) | 1 | 1 | dismissed 1 |
 | [r](hoods/r/README.md) | 3 | 0 | completed 2, dismissed 1 |
-| [research](hoods/research/README.md) | 745 | 9 | active 21, completed 177, dismissed 527, failed 17, waiting 3 |
+| [research](hoods/research/README.md) | 745 | 9 | active 20, completed 178, dismissed 527, failed 17, waiting 3 |
 | [sase-100](hoods/sase-100/README.md) | 23 | 2 | completed 13, dismissed 1, failed 9 |
 | [sase-10j](hoods/sase-10j/README.md) | 4 | 0 | completed 2, dismissed 2 |
 | [sase-12o](hoods/sase-12o/README.md) | 8 | 1 | completed 5, dismissed 1, failed 2 |

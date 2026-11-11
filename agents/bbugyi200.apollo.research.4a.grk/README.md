@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4a.grk
 
-**Global name:** `bbugyi200.apollo.research.4a.grk` · **State:** active · **Source run:** `run-0e41daf21c939cce24ae671c85857cfe`
+**Global name:** `bbugyi200.apollo.research.4a.grk` · **State:** completed · **Source run:** `run-0e41daf21c939cce24ae671c85857cfe`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-11T21:37:28.611450+00:00
+- Timing: 2026-11-11T21:37:28.611450+00:00 → 2026-11-11T21:55:56.924960+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/next\_seven\_task\_beads\_post\_019/next\_seven\_task\_beads\_post\_019\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261111163625/next\_seven\_ta… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/next_seven_task_beads_post_019/next_seven_task_beads_post_019__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261111163625/next_seven_task_beads_post_019__grk-3de8032eea1a.md
+  ref: file:explicit:460e8aad5e8b19b846f565c2
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/research/202611/next_seven_task_beads_post_019/next_seven_task_beads_post_019__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
