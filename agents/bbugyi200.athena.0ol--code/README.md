@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f330e2b`](https://github.com/sase-org/sase/commit/f330e2b949b5e9744213dd48d7c785cab29b3de1) | feat(preview): content-aware sizing for the prompt preview panel | 2026-09-21 10:00:37 EDT |
+| — | `f330e2b` | feat(preview): content-aware sizing for the prompt preview panel | 2026-09-21 10:00:37 EDT |

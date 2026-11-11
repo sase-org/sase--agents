@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`95cb3ab`](https://github.com/sase-org/sase/commit/95cb3ab06714a20d738e07fcb3446ddf1442b088) | feat(tui): show aggregate ?N unknown-wait indicator on clan rows | 2026-09-21 10:12:08 EDT |
+| — | `95cb3ab` | feat(tui): show aggregate ?N unknown-wait indicator on clan rows | 2026-09-21 10:12:08 EDT |

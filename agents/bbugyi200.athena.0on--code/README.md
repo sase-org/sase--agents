@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0b30610`](https://github.com/sase-org/sase/commit/0b30610471a5f205b8bf7c951bf78236a7cec193) | feat(beads): add audited sase bead read with visible read reasons | 2026-09-21 13:03:25 EDT |
+| — | `0b30610` | feat(beads): add audited sase bead read with visible read reasons | 2026-09-21 13:03:25 EDT |

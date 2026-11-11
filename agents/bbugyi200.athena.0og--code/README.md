@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4255afb`](https://github.com/sase-org/sase/commit/4255afbb0520516c7eef4725e67979ed8fb0dc3e) | fix(usage): count built-in size-alias pools as provider references | 2026-09-20 16:58:23 EDT |
+| — | `4255afb` | fix(usage): count built-in size-alias pools as provider references | 2026-09-20 16:58:23 EDT |

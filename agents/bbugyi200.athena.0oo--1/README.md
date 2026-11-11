@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`562d52d`](https://github.com/sase-org/sase/commit/562d52db043d678e6b53e24609b46659d016d4e7) | fix(service): refuse detached service host spawns under pytest | 2026-09-21 15:00:23 EDT |
+| — | `562d52d` | fix(service): refuse detached service host spawns under pytest | 2026-09-21 15:00:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0oo.f0](../bbugyi200.athena.0oo.f0/README.md) | descendant | active |
-| [0oo.f0.f0](../bbugyi200.athena.0oo.f0.f0/README.md) | descendant | active |
+| [0oo.f0](../bbugyi200.athena.0oo.f0/README.md) | descendant | dismissed |
+| [0oo.f0.f0](../bbugyi200.athena.0oo.f0.f0/README.md) | descendant | dismissed |
