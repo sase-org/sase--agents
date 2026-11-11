@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8bb6e2e`](https://github.com/sase-org/sase/commit/8bb6e2ec185201cfd2b69f4ce125dbea75ef0361) | fix(tui): keep service-host procs out of the proc gear and restart gate | 2026-09-20 17:06:24 EDT |
+| — | `8bb6e2e` | fix(tui): keep service-host procs out of the proc gear and restart gate | 2026-09-20 17:06:24 EDT |

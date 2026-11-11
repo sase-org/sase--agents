@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`598f1e8`](https://github.com/sase-org/sase/commit/598f1e820526b1bf332ed5010b7894e67eb8c90d) | fix(service): resolve plugin console scripts at the service-host spawn seam | 2026-09-20 11:37:57 EDT |
+| — | `598f1e8` | fix(service): resolve plugin console scripts at the service-host spawn seam | 2026-09-20 11:37:57 EDT |

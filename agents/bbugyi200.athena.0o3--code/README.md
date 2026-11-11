@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3078722`](https://github.com/sase-org/sase/commit/307872298758714d7882bbc3f05c91167818e35e) | fix(tui): keep the JUMP footer through footer-only refreshes and cover hint painting | 2026-09-20 11:56:52 EDT |
+| — | `3078722` | fix(tui): keep the JUMP footer through footer-only refreshes and cover hint painting | 2026-09-20 11:56:52 EDT |
