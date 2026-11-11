@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6087c0a`](https://github.com/sase-org/sase/commit/6087c0a8e74ed799fbcaef61c61cb4b6615f3e5b) | fix(service): stop the SSH-agent lease failure flood in the issue mirror | 2026-09-20 09:35:46 EDT |
+| — | `6087c0a` | fix(service): stop the SSH-agent lease failure flood in the issue mirror | 2026-09-20 09:35:46 EDT |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0nw](../../users/bbugyi200/machines/athena/hoods/0nw/README.md) / 0nw
 
-**Global name:** `bbugyi200.athena.0nw` · **State:** active · **Source run:** `run-68012d4ffa2706935269512215b0ef9d`
+**Global name:** `bbugyi200.athena.0nw` · **State:** dismissed · **Source run:** `run-68012d4ffa2706935269512215b0ef9d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0nw
 
@@ -10,7 +10,7 @@
 
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-20T11:08:54.053914+00:00
+- Timing: 2026-09-20T07:08:54.053914 → 2026-09-20T08:09:26.183699
 - Commits: [1](#commits)
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`511a6c5`](https://github.com/sase-org/sase/commit/511a6c5aeb76997e3fc772f6ff0e1aa5eff26a5b) | feat(ace): show pending TALE/EPIC/QUESTION status on the gate toast tick | 2026-09-20 08:06:41 EDT |
+| — | `511a6c5` | feat(ace): show pending TALE/EPIC/QUESTION status on the gate toast tick | 2026-09-20 08:06:41 EDT |
