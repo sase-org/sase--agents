@@ -2,8 +2,8 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0rd
 
-**Global hood:** `bbugyi200.athena.0rd` · **Runs:** 1 · **Sessions:** 0 · **States:** active 1
+**Global hood:** `bbugyi200.athena.0rd` · **Runs:** 1 · **Sessions:** 0 · **States:** dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0rd](../../../../../../agents/bbugyi200.athena.0rd/README.md) | active | sonnet / claude | 2026-09-24T20:22:34.781810+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0rd/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0rd/prompt.md) |
+| [0rd](../../../../../../agents/bbugyi200.athena.0rd/README.md) | dismissed | sonnet / claude | 2026-09-24T16:22:34.781810 → 2026-09-24T16:35:15.480304 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0rd/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0rd/prompt.md) |

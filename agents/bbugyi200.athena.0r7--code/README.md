@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7f736de`](https://github.com/sase-org/sase/commit/7f736de0d060b89bee33ce8e6320e006795d4978) | fix(wait): isolate per-waiter failures in wait\_checks and surface runner fallback errors | 2026-09-24 15:49:57 EDT |
+| — | `7f736de` | fix(wait): isolate per-waiter failures in wait\_checks and surface runner fallback errors | 2026-09-24 15:49:57 EDT |

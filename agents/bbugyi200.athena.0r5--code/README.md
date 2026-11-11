@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`307da2d`](https://github.com/sase-org/sase/commit/307da2dacc1c5cfaf37c15cc69e4d60f1adf02fc) | feat(ace): accept completion menus with ctrl-f | 2026-09-24 14:36:46 EDT |
+| — | `307da2d` | feat(ace): accept completion menus with ctrl-f | 2026-09-24 14:36:46 EDT |

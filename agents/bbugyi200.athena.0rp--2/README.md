@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`951ff0a`](https://github.com/sase-org/sase/commit/951ff0a102256a591fa3240f14ec88e39419b125) | feat(just): drop toobig from check and check-full | 2026-09-24 20:29:24 EDT |
+| — | `951ff0a` | feat(just): drop toobig from check and check-full | 2026-09-24 20:29:24 EDT |

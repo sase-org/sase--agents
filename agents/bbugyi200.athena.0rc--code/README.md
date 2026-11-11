@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`740c08f`](https://github.com/sase-org/sase/commit/740c08f6183175ec46b6d2fdbfbfe229ae16f22a) | feat(ace): open effort completion on @ after %m:\<model\> space | 2026-09-24 16:19:55 EDT |
+| — | `740c08f` | feat(ace): open effort completion on @ after %m:\<model\> space | 2026-09-24 16:19:55 EDT |
