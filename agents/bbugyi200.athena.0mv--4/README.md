@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a602105`](https://github.com/sase-org/sase/commit/a60210501689a9bf1f9cb35b7826c3704155816f) | feat(finalizers): continue remaining repos after conflict repair | 2026-09-18 12:26:19 EDT |
+| — | `a602105` | feat(finalizers): continue remaining repos after conflict repair | 2026-09-18 12:26:19 EDT |

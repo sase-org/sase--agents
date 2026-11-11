@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a255fc7`](https://github.com/sase-org/sase/commit/a255fc75a0449a083b578cac51885a8ea10e5337) | fix(screenshot): support remote login shell capture | 2026-09-18 11:24:15 EDT |
+| — | `a255fc7` | fix(screenshot): support remote login shell capture | 2026-09-18 11:24:15 EDT |

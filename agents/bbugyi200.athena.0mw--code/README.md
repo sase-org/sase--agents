@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cd7b9f9`](https://github.com/sase-org/sase/commit/cd7b9f9fd81ced823ff93e48733450885e813cdb) | fix(sdd): publish sidecar clones atomically | 2026-09-18 10:45:43 EDT |
+| — | `cd7b9f9` | fix(sdd): publish sidecar clones atomically | 2026-09-18 10:45:43 EDT |
