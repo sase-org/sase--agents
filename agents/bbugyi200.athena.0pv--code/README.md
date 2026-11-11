@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4f1177f`](https://github.com/sase-org/sase/commit/4f1177f2c58d07e8100c932903a54bdae6807d03) | fix(agents): collapse Enter on tale-plan family to its single tale gate | 2026-09-23 10:13:56 EDT |
+| — | `4f1177f` | fix(agents): collapse Enter on tale-plan family to its single tale gate | 2026-09-23 10:13:56 EDT |

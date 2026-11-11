@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0pw](../../users/bbugyi200/machines/athena/hoods/0pw/README.md) / [0pw.w0](../../sessions/bbugyi200.athena.0pw.w0.md) / 0pw.w0--plan
 
-**Global name:** `bbugyi200.athena.0pw.w0--plan` · **State:** active · **Source run:** `run-0f953c150cd1a26d14041a260172818d`
+**Global name:** `bbugyi200.athena.0pw.w0--plan` · **State:** dismissed · **Source run:** `run-0f953c150cd1a26d14041a260172818d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0pw
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-23T15:05:12.117469+00:00
+- Timing: 2026-09-23T11:05:12.117469 → 2026-09-23T11:35:43.046460
 - Commits: 0
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0pw](../../sessions/bbugyi200.athena.0pw.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0pw](../../sessions/bbugyi200.athena.0pw.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

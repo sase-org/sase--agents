@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b3e31bb`](https://github.com/sase-org/sase/commit/b3e31bb592da4cc2f7d5e957cfab2e307eaee08b) | feat(history): seed Ctrl+K project scope from +project tags | 2026-09-23 10:10:14 EDT |
+| — | `b3e31bb` | feat(history): seed Ctrl+K project scope from +project tags | 2026-09-23 10:10:14 EDT |

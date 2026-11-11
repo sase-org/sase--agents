@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`24d5e20`](https://github.com/sase-org/sase/commit/24d5e20afb21c0d4c3b0baf477e5d19616210e05) | feat(ace): add clan sticky header with detached identity panel | 2026-09-23 09:58:51 EDT |
+| — | `24d5e20` | feat(ace): add clan sticky header with detached identity panel | 2026-09-23 09:58:51 EDT |

@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c6c70be`](https://github.com/sase-org/sase/commit/c6c70befc7b2a3d835eb7036dbc4ab48f5c8ef45) | feat(ace): add tribe panel PROMPTS intent map | 2026-09-23 10:56:46 EDT |
+| — | `c6c70be` | feat(ace): add tribe panel PROMPTS intent map | 2026-09-23 10:56:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0pw.w0](../../sessions/bbugyi200.athena.0pw.w0.md) (session · 3) | descendant | active 1, failed 2 |
+| [0pw.w0](../../sessions/bbugyi200.athena.0pw.w0.md) (session · 3) | descendant | dismissed 1, failed 2 |
