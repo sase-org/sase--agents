@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8d1779a`](https://github.com/sase-org/sase/commit/8d1779a3efb34bc33db2373d7f82e9ad94d3be7a) | feat(ace): vim operator + search motions in the prompt input | 2026-09-22 11:45:24 EDT |
+| — | `8d1779a` | feat(ace): vim operator + search motions in the prompt input | 2026-09-22 11:45:24 EDT |

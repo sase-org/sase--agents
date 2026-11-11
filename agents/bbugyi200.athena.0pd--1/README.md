@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6f48c0c`](https://github.com/sase-org/sase/commit/6f48c0cc2e4af701db71fdce25f7d8e51082bfc9) | fix(sdd): pull split-beads sidecar clones with layout-aware bead store | 2026-09-22 13:24:43 EDT |
+| — | `6f48c0c` | fix(sdd): pull split-beads sidecar clones with layout-aware bead store | 2026-09-22 13:24:43 EDT |
