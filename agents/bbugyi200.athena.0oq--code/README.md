@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`04d3584`](https://github.com/sase-org/sase/commit/04d35849d1b4d957af7c01ea07a0a0f4a91ed5ff) | feat(ace): agents-tab panel focus follows the selection on refresh | 2026-09-21 15:20:51 EDT |
+| — | `04d3584` | feat(ace): agents-tab panel focus follows the selection on refresh | 2026-09-21 15:20:51 EDT |

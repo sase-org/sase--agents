@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`651a32e`](https://github.com/sase-org/sase/commit/651a32ee00fb2302b34c8de11c1aeda1a98649c6) | feat(ace): Agents-tab A toggles bare %auto instead of opening the Auto-Approve menu | 2026-09-21 18:13:46 EDT |
+| — | `651a32e` | feat(ace): Agents-tab A toggles bare %auto instead of opening the Auto-Approve menu | 2026-09-21 18:13:46 EDT |

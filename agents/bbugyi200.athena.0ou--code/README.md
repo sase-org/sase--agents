@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`21c7d00`](https://github.com/sase-org/sase/commit/21c7d0033f7cd30678d0c8f64937f5b9796d92e0) | feat(providers): render Grok/xAI badge as rocket instead of satellite | 2026-09-21 18:06:34 EDT |
+| — | `21c7d00` | feat(providers): render Grok/xAI badge as rocket instead of satellite | 2026-09-21 18:06:34 EDT |
