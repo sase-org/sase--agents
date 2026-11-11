@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0p1` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0p1--plan [active]"]
+  n0["0p1--plan [dismissed]"]
   n1["0p1--code [completed]"]
   n0 --> n1
   n2["0p1--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0p1--plan | active | opus / claude | 2026-09-22T10:57:30.100864+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0p1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0p1--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0p1--plan | dismissed | opus / claude | 2026-09-22T06:57:30.100864 → 2026-09-22T07:00:32.361418 | 0 | [Prompt](../agents/bbugyi200.athena.0p1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0p1--plan/chat.md) |
 | <a id="member-code"></a>code | 0p1--code | completed | muse-spark-1.3-contributor / muse | 2026-09-22T11:02:25.198268+00:00 → 2026-09-22T11:29:39.630488+00:00 | [1](../agents/bbugyi200.athena.0p1--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0p1--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0p1--code/chat.md) |
 | <a id="member-gate"></a>gate | 0p1--gate | failed | opus / claude | 2026-09-22T11:01:18.082443+00:00 → 2026-09-22T11:02:06.423025+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0p1--gate/chat.md) |
 
@@ -27,4 +27,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`fc64284`](https://github.com/sase-org/sase/commit/fc642845c942bf52dc99595b4e844cedbeacb767) | fix(artifacts-query): match path filters by substring on Plans and provider panes | 2026-09-22 07:26:48 EDT |
+| code | — | `fc64284` | fix(artifacts-query): match path filters by substring on Plans and provider panes | 2026-09-22 07:26:48 EDT |

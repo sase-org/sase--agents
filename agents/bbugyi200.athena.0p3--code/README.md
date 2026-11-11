@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ba71aa5`](https://github.com/sase-org/sase/commit/ba71aa524f81f2541c40e4d2994f7ea10f876141) | fix(service): reboot-proof service-host GitHub credential and login-session warnings | 2026-09-22 08:23:08 EDT |
+| — | `ba71aa5` | fix(service): reboot-proof service-host GitHub credential and login-session warnings | 2026-09-22 08:23:08 EDT |

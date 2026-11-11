@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6a64c6`](https://github.com/sase-org/sase/commit/d6a64c6b682107714be1844cfdd719487d8d11ca) | feat(bead): refuse agent bead show with read/view/query guard | 2026-09-22 08:38:15 EDT |
+| — | `d6a64c6` | feat(bead): refuse agent bead show with read/view/query guard | 2026-09-22 08:38:15 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3844ed8`](https://github.com/sase-org/sase/commit/3844ed83d8cd452eac309773acf21abfa481035c) | feat(ace): move repeat-last VCS xprompt from Ctrl+Space to Space, remove run-agent-home | 2026-09-22 07:41:20 EDT |
+| — | `3844ed8` | feat(ace): move repeat-last VCS xprompt from Ctrl+Space to Space, remove run-agent-home | 2026-09-22 07:41:20 EDT |

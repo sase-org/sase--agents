@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fc64284`](https://github.com/sase-org/sase/commit/fc642845c942bf52dc99595b4e844cedbeacb767) | fix(artifacts-query): match path filters by substring on Plans and provider panes | 2026-09-22 07:26:48 EDT |
+| — | `fc64284` | fix(artifacts-query): match path filters by substring on Plans and provider panes | 2026-09-22 07:26:48 EDT |
