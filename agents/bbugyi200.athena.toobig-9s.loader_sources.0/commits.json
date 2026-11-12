@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5609536b7a104aab26daeb57cafb47aa"}
+{"commits":[{"committed_at":1794493806,"sha":"8bb1374b5bc7cfe835711ed0586c6430d7c90846","subject":"refactor(macro): split loader_sources into facade plus five modules"}],"schema_version":2,"source_run_id":"run-5609536b7a104aab26daeb57cafb47aa"}

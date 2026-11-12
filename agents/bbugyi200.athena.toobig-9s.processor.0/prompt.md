@@ -1,6 +1,6 @@
+%auto
 %id(processor.0, clan=toobig-9s)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/macro/processor.py` file into multiple files? Use your best
 %wait:toobig-9s.loader_sources.0
