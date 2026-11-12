@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d27da6a7f7c5f35efabf55d3980eb692"}
+{"commits":[{"committed_at":1794520590,"sha":"2b53bb0c7fc2a9f6dba7805b16778efd49cf3323","subject":"fix(macro): keep trusted sparse project overrides out of prompt-only macros"}],"schema_version":2,"source_run_id":"run-faa9e26619c3f890bd5b716a0d409758"}
