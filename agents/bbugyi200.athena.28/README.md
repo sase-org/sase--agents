@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`10cb34c`](https://github.com/sase-org/sase/commit/10cb34c86258c71da4e0544af992f6c337b4cb08) | fix(sdd): link managed workspaces to SDD store | 2026-07-08 13:23:55 EDT |
+| — | `10cb34c` | fix(sdd): link managed workspaces to SDD store | 2026-07-08 13:23:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [28.f1](../../sessions/bbugyi200.athena.28.f1.md) (session · 2) | descendant | active 2 |
-| [28.f1.w1](../bbugyi200.athena.28.f1.w1/README.md) | descendant | waiting |
+| [28.f1](../../sessions/bbugyi200.athena.28.f1.md) (session · 2) | descendant | active 1, dismissed 1 |
+| [28.f1.w1](../bbugyi200.athena.28.f1.w1/README.md) | descendant | dismissed |
