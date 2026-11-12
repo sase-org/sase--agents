@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d60581e`](https://github.com/sase-org/sase/commit/d60581e9e2d72396500f7d70012a11bf33657a99) | docs: add agent provider install & auth page | 2026-07-08 14:23:16 EDT |
+| — | `d60581e` | docs: add agent provider install & auth page | 2026-07-08 14:23:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [2f.f1](../../sessions/bbugyi200.athena.2f.f1.md) (session · 2) | descendant | active 2 |
+| [2f.f1](../../sessions/bbugyi200.athena.2f.f1.md) (session · 2) | descendant | active 1, dismissed 1 |

@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3ffa4c7`](https://github.com/sase-org/sase/commit/3ffa4c7ac54ba663df67515baddee9f49569dcb3) | fix(ace): give bare family root the --0 display slot | 2026-07-08 14:31:34 EDT |
+| — | `3ffa4c7` | fix(ace): give bare family root the --0 display slot | 2026-07-08 14:31:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [2e.f1](../../sessions/bbugyi200.athena.2e.f1.md) (session · 2) | descendant | active 2 |
+| [2e.f1](../../sessions/bbugyi200.athena.2e.f1.md) (session · 2) | descendant | active 1, dismissed 1 |
