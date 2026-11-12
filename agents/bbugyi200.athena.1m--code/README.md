@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`21cdb65`](https://github.com/sase-org/sase/commit/21cdb658b05246ca5b19efa1a81f73d19bc7a87d) | feat(ace): mirror a lone running clan member's status on the clan row | 2026-09-13 08:18:45 EDT |
+| — | `21cdb65` | feat(ace): mirror a lone running clan member's status on the clan row | 2026-09-13 08:18:45 EDT |
