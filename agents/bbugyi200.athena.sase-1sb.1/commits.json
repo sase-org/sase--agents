@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8604fd50f4bcf4e2c808d40674a4b73f"}
+{"commits":[{"committed_at":1794463412,"sha":"d0dc942c16b2da6cb3ddb6a38abee394ef1d10a3","subject":"fix(prompts): prevent command substitution in agent text"}],"schema_version":2,"source_run_id":"run-8604fd50f4bcf4e2c808d40674a4b73f"}
