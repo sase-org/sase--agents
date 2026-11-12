@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [47](../../users/bbugyi200/machines/athena/hoods/47/README.md) / 47
 
-**Global name:** `bbugyi200.athena.47` · **State:** active · **Source run:** `run-74cecfa80291b1381f2cf156e906db49`
+**Global name:** `bbugyi200.athena.47` · **State:** dismissed · **Source run:** `run-74cecfa80291b1381f2cf156e906db49`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 47
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-13T17:40:49.797568+00:00
+- Timing: 2026-09-13T13:40:49.797568 → 2026-09-13T13:52:15.395516
 - Commits: [2](#commits)
 
 ## Files
@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`425cba3`](https://github.com/sase-org/sase/commit/425cba35a314bb9a63bec638b24884cf18d3b17a) | chore: Add SDD prompt and plan for agent\_name\_namespace\_templates | 2026-06-09 11:20:28 EDT |
-| sase | [`75f999e`](https://github.com/sase-org/sase/commit/75f999ecd223802b9fdf55fd4b13214978eea970) | fix: reserve agent template namespaces | 2026-06-09 11:45:27 EDT |
+| — | `425cba3` | chore: Add SDD prompt and plan for agent\_name\_namespace\_templates | 2026-06-09 11:20:28 EDT |
+| — | `75f999e` | fix: reserve agent template namespaces | 2026-06-09 11:45:27 EDT |
 
 ## Neighbors
 

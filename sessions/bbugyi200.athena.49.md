@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `49` · Members: 2
 ```mermaid
 flowchart TD
   n0["49--code [completed]"]
-  n1["49 [active]"]
+  n1["49 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 49--code | completed | gpt-5.6-sol / codex | 2026-07-10T14:24:49.654071+00:00 | [1](../agents/bbugyi200.athena.49--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.49--code/chat.md) |
-| <a id="member-root"></a>root | 49 | active | gpt-5.6-sol / codex | 2026-07-10T14:17:24.472422+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.49/prompt.md) | [Chat](../agents/bbugyi200.athena.49/chat.md) |
+| <a id="member-root"></a>root | 49 | dismissed | gpt-5.6-sol / codex | 2026-07-10T10:17:24.472422 → 2026-07-10T10:53:06.279703 | 0 | [Prompt](../agents/bbugyi200.athena.49/prompt.md) | [Chat](../agents/bbugyi200.athena.49/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`afe3701`](https://github.com/sase-org/sase/commit/afe37010f171b7a1b33ad1d02c06024f54c8b2ea) | feat(xprompt)!: remove Mercurial workspace workflow references | 2026-07-10 10:52:50 EDT |
+| code | — | `afe3701` | feat(xprompt)!: remove Mercurial workspace workflow references | 2026-07-10 10:52:50 EDT |

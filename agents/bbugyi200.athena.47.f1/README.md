@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c075b5a`](https://github.com/sase-org/sase/commit/c075b5af3b7d9d72f967d6241ce9ecde01961a73) | chore: Add SDD prompt and plan for namespace\_template\_review | 2026-06-09 11:53:37 EDT |
-| sase | [`576b246`](https://github.com/sase-org/sase/commit/576b2465ad84041921e7eec758e532c67ae0c30a) | ref: tighten namespace-aware agent name template allocation | 2026-06-09 12:02:54 EDT |
+| — | `c075b5a` | chore: Add SDD prompt and plan for namespace\_template\_review | 2026-06-09 11:53:37 EDT |
+| — | `576b246` | ref: tighten namespace-aware agent name template allocation | 2026-06-09 12:02:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [47](../bbugyi200.athena.47/README.md) | ancestor | active |
+| [47](../bbugyi200.athena.47/README.md) | ancestor | dismissed |
 | [47.r-0](../bbugyi200.athena.47.r-0/README.md) | 47 hood | active |
