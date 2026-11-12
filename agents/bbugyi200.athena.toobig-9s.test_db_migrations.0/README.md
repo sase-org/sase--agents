@@ -23,4 +23,4 @@
 |---|---|---|
 | [toobig-9s.core.0](../bbugyi200.athena.toobig-9s.core.0/README.md) | toobig-9s hood | completed |
 | [toobig-9s.loader\_sources.0](../bbugyi200.athena.toobig-9s.loader_sources.0/README.md) | toobig-9s hood | completed |
-| [toobig-9s.processor.0](../bbugyi200.athena.toobig-9s.processor.0/README.md) | toobig-9s hood | waiting |
+| [toobig-9s.processor.0](../bbugyi200.athena.toobig-9s.processor.0/README.md) | toobig-9s hood | completed |

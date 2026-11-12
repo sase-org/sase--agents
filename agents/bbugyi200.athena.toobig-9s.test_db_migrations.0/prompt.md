@@ -1,6 +1,6 @@
+%auto
 %id(test_db_migrations.0, clan=toobig-9s)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/test_bead/test_db_migrations.py` file into multiple files? Use your best
 %wait:toobig-9s.processor.0
