@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4330f6f`](https://github.com/sase-org/sase/commit/4330f6f2c92357d3204b930ba334003e4b386bae) | fix(tui): hide commit message bookkeeping deltas | 2026-07-09 13:35:26 EDT |
+| — | `4330f6f` | fix(tui): hide commit message bookkeeping deltas | 2026-07-09 13:35:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3o](../../sessions/bbugyi200.athena.3o.md) (session · 2) | ancestor | active 1, completed 1 |
-| [3o.f-0](../../sessions/bbugyi200.athena.3o.f-0.md) (session · 2) | 3o hood | active 1, completed 1 |
+| [3o](../../sessions/bbugyi200.athena.3o.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [3o.f-0](../../sessions/bbugyi200.athena.3o.f-0.md) (session · 2) | 3o hood | completed 1, dismissed 1 |
 | [3o.f-0.f-0](../bbugyi200.athena.3o.f-0.f-0/README.md) | 3o hood | dismissed |
 | [3o.f-0.f-1](../bbugyi200.athena.3o.f-0.f-1/README.md) | 3o hood | dismissed |
-| [3o.w2](../../sessions/bbugyi200.athena.3o.w2.md) (session · 2) | 3o hood | active 1, completed 1 |
+| [3o.w2](../../sessions/bbugyi200.athena.3o.w2.md) (session · 2) | 3o hood | completed 1, dismissed 1 |

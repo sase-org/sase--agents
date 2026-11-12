@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cca9d50`](https://github.com/sase-org/sase/commit/cca9d500cd88751180efd0d6f47c0ab9b73e7902) | feat(tui): add commit hint viewer | 2026-07-09 13:22:24 EDT |
+| — | `cca9d50` | feat(tui): add commit hint viewer | 2026-07-09 13:22:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3o.f-0](../../sessions/bbugyi200.athena.3o.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [3o.f-0](../../sessions/bbugyi200.athena.3o.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [3o.f-0.f-0](../bbugyi200.athena.3o.f-0.f-0/README.md) | descendant | dismissed |
 | [3o.f-0.f-1](../bbugyi200.athena.3o.f-0.f-1/README.md) | descendant | dismissed |
-| [3o.w1](../../sessions/bbugyi200.athena.3o.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [3o.w2](../../sessions/bbugyi200.athena.3o.w2.md) (session · 2) | descendant | active 1, completed 1 |
+| [3o.w1](../../sessions/bbugyi200.athena.3o.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [3o.w2](../../sessions/bbugyi200.athena.3o.w2.md) (session · 2) | descendant | completed 1, dismissed 1 |

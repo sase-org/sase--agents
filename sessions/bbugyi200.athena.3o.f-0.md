@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `3o` · Members: 2
 ```mermaid
 flowchart TD
   n0["3o.f-0--code [completed]"]
-  n1["3o.f-0 [active]"]
+  n1["3o.f-0 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,20 +18,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 3o.f-0--code | completed | gpt-5.5 / codex | 2026-07-09T17:52:55.230154+00:00 | [1](../agents/bbugyi200.athena.3o.f-0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.3o.f-0--code/chat.md) |
-| <a id="member-root"></a>root | 3o.f-0 | active | gpt-5.5 / codex | 2026-07-09T17:49:36.668228+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.3o.f-0/prompt.md) | [Chat](../agents/bbugyi200.athena.3o.f-0/chat.md) |
+| <a id="member-root"></a>root | 3o.f-0 | dismissed | gpt-5.5 / codex | 2026-07-09T13:49:36.668228 → 2026-07-09T14:05:30.987729 | 0 | [Prompt](../agents/bbugyi200.athena.3o.f-0/prompt.md) | [Chat](../agents/bbugyi200.athena.3o.f-0/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`69e2d79`](https://github.com/sase-org/sase/commit/69e2d795cf3bd4f95b404b4106407629eff66c7e) | feat(tui): navigate selected commit views | 2026-07-09 14:05:08 EDT |
+| code | — | `69e2d79` | feat(tui): navigate selected commit views | 2026-07-09 14:05:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3o](bbugyi200.athena.3o.md) (session · 2) | ancestor | active 1, completed 1 |
+| [3o](bbugyi200.athena.3o.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [3o.f-0.f-0](../agents/bbugyi200.athena.3o.f-0.f-0/README.md) | descendant | dismissed |
 | [3o.f-0.f-1](../agents/bbugyi200.athena.3o.f-0.f-1/README.md) | descendant | dismissed |
-| [3o.w1](bbugyi200.athena.3o.w1.md) (session · 2) | 3o hood | active 1, completed 1 |
-| [3o.w2](bbugyi200.athena.3o.w2.md) (session · 2) | 3o hood | active 1, completed 1 |
+| [3o.w1](bbugyi200.athena.3o.w1.md) (session · 2) | 3o hood | completed 1, dismissed 1 |
+| [3o.w2](bbugyi200.athena.3o.w2.md) (session · 2) | 3o hood | completed 1, dismissed 1 |

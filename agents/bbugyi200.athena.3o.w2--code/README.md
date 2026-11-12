@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b732cc7`](https://github.com/sase-org/sase/commit/b732cc73fd2f3a715f07a35a0f10bcbb8312f95c) | fix: preserve agents view hints during detail refresh | 2026-07-09 13:45:56 EDT |
+| — | `b732cc7` | fix: preserve agents view hints during detail refresh | 2026-07-09 13:45:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3o](../../sessions/bbugyi200.athena.3o.md) (session · 2) | ancestor | active 1, completed 1 |
-| [3o.f-0](../../sessions/bbugyi200.athena.3o.f-0.md) (session · 2) | 3o hood | active 1, completed 1 |
+| [3o](../../sessions/bbugyi200.athena.3o.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [3o.f-0](../../sessions/bbugyi200.athena.3o.f-0.md) (session · 2) | 3o hood | completed 1, dismissed 1 |
 | [3o.f-0.f-0](../bbugyi200.athena.3o.f-0.f-0/README.md) | 3o hood | dismissed |
 | [3o.f-0.f-1](../bbugyi200.athena.3o.f-0.f-1/README.md) | 3o hood | dismissed |
-| [3o.w1](../../sessions/bbugyi200.athena.3o.w1.md) (session · 2) | 3o hood | active 1, completed 1 |
+| [3o.w1](../../sessions/bbugyi200.athena.3o.w1.md) (session · 2) | 3o hood | completed 1, dismissed 1 |
