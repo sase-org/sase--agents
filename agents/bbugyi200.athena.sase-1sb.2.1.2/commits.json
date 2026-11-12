@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-77d0997c1eac3bbd59e54f3bb5dc4158"}
+{"commits":[{"committed_at":1794465027,"sha":"7710dd0bc61b2b079886b0c8d8f632a18aba0b7d","subject":"feat(config): add human-reviewed local command trust CLI"}],"schema_version":2,"source_run_id":"run-77d0997c1eac3bbd59e54f3bb5dc4158"}

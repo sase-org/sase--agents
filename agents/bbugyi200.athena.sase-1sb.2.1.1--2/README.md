@@ -23,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1sb.2](../../sessions/bbugyi200.athena.sase-1sb.2.md) (session · 3) | ancestor | active 1, completed 2 |
-| [sase-1sb.2.1.2](../bbugyi200.athena.sase-1sb.2.1.2/README.md) | sase-1sb.2.1 hood | waiting |
+| [sase-1sb.2.1.2](../bbugyi200.athena.sase-1sb.2.1.2/README.md) | sase-1sb.2.1 hood | completed |
 | [sase-1sb.2.1.3](../bbugyi200.athena.sase-1sb.2.1.3/README.md) | sase-1sb.2.1 hood | waiting |
 | [sase-1sb.2.1.4](../bbugyi200.athena.sase-1sb.2.1.4/README.md) | sase-1sb.2.1 hood | waiting |
 | [sase-1sb.2.1.land](../bbugyi200.athena.sase-1sb.2.1.land/README.md) | sase-1sb.2.1 hood | waiting |
