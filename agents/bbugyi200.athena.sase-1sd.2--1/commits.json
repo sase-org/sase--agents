@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794484746,"sha":"063c98293b69f23543c91d66709a2b28eaa310a1","subject":"fix(axe): install SIGTERM handlers in runner main, not at import"}],"schema_version":2,"source_run_id":"run-1ac0d997fbbc74cdb54b9ea7435a6729"}
