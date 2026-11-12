@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-61fe5d430133585374fbf9825262fc9c"}
+{"commits":[{"committed_at":1794492360,"sha":"cb0a3c9a807d692e79850c62cd9b6a493bd43748","subject":"feat(auto-restart): ratchet core pin to 47f1af1c with tests and docs"}],"schema_version":2,"source_run_id":"run-61fe5d430133585374fbf9825262fc9c"}
