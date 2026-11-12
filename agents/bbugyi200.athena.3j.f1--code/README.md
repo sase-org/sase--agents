@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1514023`](https://github.com/sase-org/sase/commit/151402345dc3dcec1145d0e070a5d2b9ca9e65ae) | docs: tighten pyvision memory guidance | 2026-07-09 12:10:36 EDT |
+| — | `1514023` | docs: tighten pyvision memory guidance | 2026-07-09 12:10:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3j](../../sessions/bbugyi200.athena.3j.md) (session · 2) | ancestor | active 1, completed 1 |
+| [3j](../../sessions/bbugyi200.athena.3j.md) (session · 2) | ancestor | completed 1, dismissed 1 |

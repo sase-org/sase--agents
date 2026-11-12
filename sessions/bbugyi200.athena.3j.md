@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `3j` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["3j [active]"]
+  n0["3j [dismissed]"]
   n1["3j--code [completed]"]
   n0 --> n1
 ```
@@ -17,17 +17,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 3j | active | opus / claude | 2026-07-09T15:34:13.814614+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.3j/prompt.md) | [Chat](../agents/bbugyi200.athena.3j/chat.md) |
+| <a id="member-root"></a>root | 3j | dismissed | opus / claude | 2026-07-09T11:34:13.814614 → 2026-07-09T11:48:24.376203 | 0 | [Prompt](../agents/bbugyi200.athena.3j/prompt.md) | [Chat](../agents/bbugyi200.athena.3j/chat.md) |
 | <a id="member-code"></a>code | 3j--code | completed | gpt-5.5 / codex | 2026-07-09T15:40:10.111260+00:00 | [1](../agents/bbugyi200.athena.3j--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.3j--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e137094`](https://github.com/sase-org/sase/commit/e137094bcd23e30110a7f4be972a28e48a138213) | docs: add pyvision memory note | 2026-07-09 11:48:06 EDT |
+| code | — | `e137094` | docs: add pyvision memory note | 2026-07-09 11:48:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3j.f1](bbugyi200.athena.3j.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [3j.f1](bbugyi200.athena.3j.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

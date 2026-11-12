@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e137094`](https://github.com/sase-org/sase/commit/e137094bcd23e30110a7f4be972a28e48a138213) | docs: add pyvision memory note | 2026-07-09 11:48:06 EDT |
+| — | `e137094` | docs: add pyvision memory note | 2026-07-09 11:48:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3j.f1](../../sessions/bbugyi200.athena.3j.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [3j.f1](../../sessions/bbugyi200.athena.3j.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
