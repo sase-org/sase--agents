@@ -827,11 +827,11 @@
 | [4f](hoods/4f/README.md) | 9 | 2 | active 5, completed 4 |
 | [4h](hoods/4h/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [4i](hoods/4i/README.md) | 2 | 1 | completed 1, dismissed 1 |
-| [4j](hoods/4j/README.md) | 2 | 1 | active 1, completed 1 |
+| [4j](hoods/4j/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [4k](hoods/4k/README.md) | 1 | 0 | completed 1 |
 | [4m](hoods/4m/README.md) | 2 | 0 | completed 2 |
-| [4o](hoods/4o/README.md) | 2 | 1 | active 1, completed 1 |
-| [4q](hoods/4q/README.md) | 2 | 1 | active 2 |
+| [4o](hoods/4o/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [4q](hoods/4q/README.md) | 2 | 1 | active 1, dismissed 1 |
 | [4r](hoods/4r/README.md) | 1 | 0 | completed 1 |
 | [4t](hoods/4t/README.md) | 2 | 1 | active 1, completed 1 |
 | [4u](hoods/4u/README.md) | 2 | 0 | completed 2 |
@@ -1589,7 +1589,7 @@
 | [sase-1s5](hoods/sase-1s5/README.md) | 5 | 1 | active 2, completed 2, waiting 1 |
 | [sase-1s7](hoods/sase-1s7/README.md) | 44 | 9 | active 2, completed 41, failed 1 |
 | [sase-1sb](hoods/sase-1sb/README.md) | 38 | 7 | active 3, completed 30, failed 5 |
-| [sase-1sd](hoods/sase-1sd/README.md) | 32 | 4 | completed 24, failed 6, waiting 2 |
+| [sase-1sd](hoods/sase-1sd/README.md) | 32 | 4 | completed 25, failed 6, waiting 1 |
 | [sase-1se](hoods/sase-1se/README.md) | 11 | 1 | completed 9, failed 2 |
 | [sase-1sl](hoods/sase-1sl/README.md) | 12 | 2 | active 3, completed 3, waiting 6 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
