@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b8c599e07b3fd0cbafb39f9b6ca0722d"}
+{"commits":[{"committed_at":1794478483,"sha":"ea4121387b21bf727b021eb80e746a6054811ff4","subject":"feat(config): enforce local-command trust for config macros"}],"schema_version":2,"source_run_id":"run-b8c599e07b3fd0cbafb39f9b6ca0722d"}
