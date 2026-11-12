@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3da6c9`](https://github.com/sase-org/sase/commit/d3da6c93b789a6e9f443ca7986a26969be4261fb) | fix(sdd): handle legacy stores during companion init | 2026-07-09 03:31:45 EDT |
+| — | `d3da6c9` | fix(sdd): handle legacy stores during companion init | 2026-07-09 03:31:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3e](../../sessions/bbugyi200.athena.3e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [3e](../../sessions/bbugyi200.athena.3e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
