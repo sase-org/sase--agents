@@ -11,7 +11,7 @@ flowchart TD
   n0["32--plan-0 [active]"]
   n1["32--code [completed]"]
   n0 --> n1
-  n2["32 [active]"]
+  n2["32 [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,10 +21,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan-0"></a>plan-0 | 32--plan-0 | active | gpt-5.5 / codex | 2026-07-09T00:34:24.543800+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.32--plan-0/chat.md) |
 | <a id="member-code"></a>code | 32--code | completed | gpt-5.5 / codex | 2026-07-09T00:45:52.043650+00:00 | [1](../agents/bbugyi200.athena.32--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.32--code/chat.md) |
-| <a id="member-root"></a>root | 32 | active | gpt-5.5 / codex | 2026-07-09T00:25:18.707843+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.32/prompt.md) | [Chat](../agents/bbugyi200.athena.32/chat.md) |
+| <a id="member-root"></a>root | 32 | dismissed | gpt-5.5 / codex | 2026-07-08T20:25:18.707843 → 2026-07-08T20:58:03.784466 | 0 | [Prompt](../agents/bbugyi200.athena.32/prompt.md) | [Chat](../agents/bbugyi200.athena.32/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`494ba4e`](https://github.com/sase-org/sase/commit/494ba4ecff63f96b9624af5ecfabbefbb52203e0) | refactor(xprompt): rename multi-agent xprompt to xprompt swarm | 2026-07-08 20:57:40 EDT |
+| code | — | `494ba4e` | refactor(xprompt): rename multi-agent xprompt to xprompt swarm | 2026-07-08 20:57:40 EDT |

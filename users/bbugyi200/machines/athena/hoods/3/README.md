@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 3
 
-**Global hood:** `bbugyi200.athena.3` · **Runs:** 4 · **Sessions:** 2 · **States:** active 2, completed 2
+**Global hood:** `bbugyi200.athena.3` · **Runs:** 4 · **Sessions:** 2 · **States:** completed 2, dismissed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [3.f1--code](../../../../../../sessions/bbugyi200.athena.3.f1.md#member-code) | completed | gpt-5.5 / codex | 2026-07-06T11:04:41.930217+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.3.f1--code/chat.md) |
-| [3.f1](../../../../../../agents/bbugyi200.athena.3.f1/README.md) | active | claude-fable-5 / claude | 2026-07-06T11:01:48.494418+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.3.f1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.3.f1/prompt.md) |
+| [3.f1](../../../../../../agents/bbugyi200.athena.3.f1/README.md) | dismissed | claude-fable-5 / claude | 2026-07-06T07:01:48.494418 → 2026-07-06T07:07:13.225694 | 1 | [chat](../../../../../../agents/bbugyi200.athena.3.f1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.3.f1/prompt.md) |
 | [3--code](../../../../../../sessions/bbugyi200.athena.3.md#member-code) | completed | gpt-5.5 / codex | 2026-07-06T10:48:38.360072+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.3--code/chat.md) |
-| [3](../../../../../../agents/bbugyi200.athena.3/README.md) | active | claude-fable-5 / claude | 2026-07-06T10:44:13.003894+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.3/prompt.md) |
+| [3](../../../../../../agents/bbugyi200.athena.3/README.md) | dismissed | claude-fable-5 / claude | 2026-07-06T06:44:13.003894 → 2026-07-06T06:55:05.623402 | 1 | [chat](../../../../../../agents/bbugyi200.athena.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.3/prompt.md) |
