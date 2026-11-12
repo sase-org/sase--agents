@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2a2d9af`](https://github.com/sase-org/sase/commit/2a2d9afb194e7f83e167df1cd253a916eb11bc67) | docs: add xprompt memory note | 2026-07-09 15:07:32 EDT |
+| — | `2a2d9af` | docs: add xprompt memory note | 2026-07-09 15:07:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3w.f-0](../../sessions/bbugyi200.athena.3w.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [3w.f-0](../../sessions/bbugyi200.athena.3w.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [3w.f-0.w-0](../bbugyi200.athena.3w.f-0.w-0/README.md) | descendant | active |
-| [3w.f-0.w-1](../../sessions/bbugyi200.athena.3w.f-0.w-1.md) (session · 2) | descendant | active 1, completed 1 |
-| [3w.f-0.w-1.f-0](../../sessions/bbugyi200.athena.3w.f-0.w-1.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [3w.f-0.w-1](../../sessions/bbugyi200.athena.3w.f-0.w-1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [3w.f-0.w-1.f-0](../../sessions/bbugyi200.athena.3w.f-0.w-1.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |

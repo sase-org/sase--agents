@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`31b4d01`](https://github.com/sase-org/sase/commit/31b4d012e1c707ff832e0850d550cd67e5223b87) | feat(vcs): cache log fetches and show tags by default | 2026-07-09 14:40:10 EDT |
+| — | `31b4d01` | feat(vcs): cache log fetches and show tags by default | 2026-07-09 14:40:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3t.f-0](../../sessions/bbugyi200.athena.3t.f-0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [3t](../../sessions/bbugyi200.athena.3t.md) (session · 2) | ancestor | active 1, completed 1 |
+| [3t.f-0](../../sessions/bbugyi200.athena.3t.f-0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [3t](../../sessions/bbugyi200.athena.3t.md) (session · 2) | ancestor | completed 1, dismissed 1 |

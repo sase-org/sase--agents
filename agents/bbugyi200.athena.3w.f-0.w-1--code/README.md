@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1815d55`](https://github.com/sase-org/sase/commit/1815d551553a28e69e2b097a034c5c57d8fe1f7a) | feat!: remove legend and myth planning flows | 2026-07-09 16:45:33 EDT |
+| — | `1815d55` | feat!: remove legend and myth planning flows | 2026-07-09 16:45:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3w.f-0](../../sessions/bbugyi200.athena.3w.f-0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [3w](../../sessions/bbugyi200.athena.3w.md) (session · 2) | ancestor | active 1, completed 1 |
-| [3w.f-0.w-1.f-0](../../sessions/bbugyi200.athena.3w.f-0.w-1.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [3w.f-0](../../sessions/bbugyi200.athena.3w.f-0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [3w](../../sessions/bbugyi200.athena.3w.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [3w.f-0.w-1.f-0](../../sessions/bbugyi200.athena.3w.f-0.w-1.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [3w.f-0.w-0](../bbugyi200.athena.3w.f-0.w-0/README.md) | 3w.f-0 hood | active |

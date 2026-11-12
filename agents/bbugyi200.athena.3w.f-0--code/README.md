@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f150306`](https://github.com/sase-org/sase/commit/f150306cebf1de284548241316ef51a548877bba) | feat!: remove directory workspace xprompt | 2026-07-09 15:35:52 EDT |
+| — | `f150306` | feat!: remove directory workspace xprompt | 2026-07-09 15:35:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3w](../../sessions/bbugyi200.athena.3w.md) (session · 2) | ancestor | active 1, completed 1 |
+| [3w](../../sessions/bbugyi200.athena.3w.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [3w.f-0.w-0](../bbugyi200.athena.3w.f-0.w-0/README.md) | descendant | active |
-| [3w.f-0.w-1](../../sessions/bbugyi200.athena.3w.f-0.w-1.md) (session · 2) | descendant | active 1, completed 1 |
-| [3w.f-0.w-1.f-0](../../sessions/bbugyi200.athena.3w.f-0.w-1.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [3w.f-0.w-1](../../sessions/bbugyi200.athena.3w.f-0.w-1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [3w.f-0.w-1.f-0](../../sessions/bbugyi200.athena.3w.f-0.w-1.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [3w](../../users/bbugyi200/machines/athena/hoods/3w/README.md) / [3w.f-0](../../sessions/bbugyi200.athena.3w.f-0.md) / 3w.f-0
 
-**Global name:** `bbugyi200.athena.3w.f-0` · **State:** active · **Source run:** `run-df4e718e005798e028f028c7ed307da2`
+**Global name:** `bbugyi200.athena.3w.f-0` · **State:** dismissed · **Source run:** `run-df4e718e005798e028f028c7ed307da2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 3w
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-07-09T19:08:07.637454+00:00
+- Timing: 2026-07-09T15:08:07.637454 → 2026-07-09T15:36:15.570490
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [3w](../../sessions/bbugyi200.athena.3w.md) (session · 2) | ancestor | active 1, completed 1 |
+| [3w](../../sessions/bbugyi200.athena.3w.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [3w.f-0.w-0](../bbugyi200.athena.3w.f-0.w-0/README.md) | descendant | active |
-| [3w.f-0.w-1](../../sessions/bbugyi200.athena.3w.f-0.w-1.md) (session · 2) | descendant | active 1, completed 1 |
-| [3w.f-0.w-1.f-0](../../sessions/bbugyi200.athena.3w.f-0.w-1.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [3w.f-0.w-1](../../sessions/bbugyi200.athena.3w.f-0.w-1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [3w.f-0.w-1.f-0](../../sessions/bbugyi200.athena.3w.f-0.w-1.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |

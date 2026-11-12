@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eea8af0`](https://github.com/sase-org/sase/commit/eea8af0421796fed2b7458002c7a00eaa5ccccd2) | feat(agent): isolate Cargo build-dir for launched and recipe builds | 2026-09-13 12:04:00 EDT |
+| — | `eea8af0` | feat(agent): isolate Cargo build-dir for launched and recipe builds | 2026-09-13 12:04:00 EDT |
 
 ## Neighbors
 

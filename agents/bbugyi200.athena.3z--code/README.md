@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`848c812`](https://github.com/sase-org/sase/commit/848c812bb89b63444d9a601fa1c01333ec9c495f) | feat: add gpt-5.6 model support | 2026-07-09 18:57:51 EDT |
+| — | `848c812` | feat: add gpt-5.6 model support | 2026-07-09 18:57:51 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3z.f-0](../bbugyi200.athena.3z.f-0/README.md) | descendant | active |
-| [3z.f-0.f-0](../../sessions/bbugyi200.athena.3z.f-0.f-0.md) (session · 2) | descendant | active 2 |
-| [3z.f-0.f-1](../../sessions/bbugyi200.athena.3z.f-0.f-1.md) (session · 2) | descendant | active 2 |
+| [3z.f-0](../bbugyi200.athena.3z.f-0/README.md) | descendant | dismissed |
+| [3z.f-0.f-0](../../sessions/bbugyi200.athena.3z.f-0.f-0.md) (session · 2) | descendant | active 1, dismissed 1 |
+| [3z.f-0.f-1](../../sessions/bbugyi200.athena.3z.f-0.f-1.md) (session · 2) | descendant | active 1, dismissed 1 |

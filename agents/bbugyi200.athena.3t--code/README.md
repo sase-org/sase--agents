@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6137dba`](https://github.com/sase-org/sase/commit/6137dbafecf1b8e80a8f32f6a0ad57952166a716) | feat(vcs): show SASE tags in log | 2026-07-09 13:33:46 EDT |
+| — | `6137dba` | feat(vcs): show SASE tags in log | 2026-07-09 13:33:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3t.f-0](../../sessions/bbugyi200.athena.3t.f-0.md) (session · 2) | descendant | active 1, completed 1 |
-| [3t.f-0.f-0](../../sessions/bbugyi200.athena.3t.f-0.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [3t.f-0](../../sessions/bbugyi200.athena.3t.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [3t.f-0.f-0](../../sessions/bbugyi200.athena.3t.f-0.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
