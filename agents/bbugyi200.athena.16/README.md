@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [16](../../users/bbugyi200/machines/athena/hoods/16/README.md) / [16](../../sessions/bbugyi200.athena.16.md) / 16
 
-**Global name:** `bbugyi200.athena.16` · **State:** active · **Source run:** `run-bde952faa360b80d7c7c39f1193d8314`
+**Global name:** `bbugyi200.athena.16` · **State:** dismissed · **Source run:** `run-bde952faa360b80d7c7c39f1193d8314`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 16
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-07-07T21:45:44.416669+00:00
+- Timing: 2026-07-07T17:45:44.416669 → 2026-07-07T18:00:05.811348
 - Commits: [1](#commits)
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`419bbfd`](https://github.com/sase-org/sase/commit/419bbfddef78e9f89ef4949b3406dbf6480b6136) | chore: Add SDD prompt and plan for telegram\_update\_core | 2026-07-07 17:49:55 EDT |
+| — | `419bbfd` | chore: Add SDD prompt and plan for telegram\_update\_core | 2026-07-07 17:49:55 EDT |
