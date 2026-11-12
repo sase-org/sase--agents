@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1sb` · Members: 2 · Bead: [sase-1sb.2
 ```mermaid
 flowchart TD
   n0["sase-1sb.2.1.1--mon [active]"]
-  n1["sase-1sb.2.1.1--plan [active]"]
+  n1["sase-1sb.2.1.1--plan [completed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1sb.2.1.1--mon | active | muse-spark-1.3-contributor / muse | 2026-11-12T03:00:52.375963+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1sb.2.1.1--plan | active | muse-spark-1.3-contributor / muse | 2026-11-12T01:56:49.815841+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1sb.2.1.1--plan/prompt.md) | — |
+| <a id="member-plan"></a>plan | sase-1sb.2.1.1--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-12T01:56:49.815841+00:00 → 2026-11-12T03:04:26.846967+00:00 | [1](../agents/bbugyi200.athena.sase-1sb.2.1.1--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1sb.2.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1sb.2.1.1--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| plan | sase | [`2e7ce5c`](https://github.com/sase-org/sase/commit/2e7ce5cea11b8cd5509d3b90e5567be7a1356852) | feat(config): add local-command trust projection adapter and contract tests | 2026-11-11 22:03:16 EST |
 
 ## Neighbors
 

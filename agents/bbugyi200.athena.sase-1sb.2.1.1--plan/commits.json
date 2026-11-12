@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d8b5c9a1f444c540e113fd4ec81934d1"}
+{"commits":[{"committed_at":1794452596,"sha":"2e7ce5cea11b8cd5509d3b90e5567be7a1356852","subject":"feat(config): add local-command trust projection adapter and contract tests"}],"schema_version":2,"source_run_id":"run-d8b5c9a1f444c540e113fd4ec81934d1"}
