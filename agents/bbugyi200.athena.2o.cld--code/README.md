@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9de5384`](https://github.com/sase-org/sase/commit/9de538432c7f5facaad3c9a3508292c8b6715439) | fix(sdd): sync separate SDD stores per workspace | 2026-07-08 15:39:16 EDT |
+| — | `9de5384` | fix(sdd): sync separate SDD stores per workspace | 2026-07-08 15:39:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [2o.cdx](../bbugyi200.athena.2o.cdx/README.md) | 2o hood | active |
+| [2o.cdx](../bbugyi200.athena.2o.cdx/README.md) | 2o hood | dismissed |

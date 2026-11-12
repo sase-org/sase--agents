@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d17ac0b`](https://github.com/sase-org/sase/commit/d17ac0bb2602615286fd953cb2c7ea2aff53c278) | feat(vcs): add log filters and full output | 2026-07-08 15:40:36 EDT |
+| — | `d17ac0b` | feat(vcs): add log filters and full output | 2026-07-08 15:40:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [2t.f1](../../sessions/bbugyi200.athena.2t.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [2t.f1](../../sessions/bbugyi200.athena.2t.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
