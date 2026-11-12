@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f6471824017c1d7ae2f6fd30875f739d"}
+{"commits":[{"committed_at":1794485302,"sha":"f613149ecce25f785f4539e023d7db9bcbfc01ed","subject":"fix(auto_restart): derive healer ledger project from canonical artifact path"}],"schema_version":2,"source_run_id":"run-f6471824017c1d7ae2f6fd30875f739d"}
