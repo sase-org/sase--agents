@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b38c1b2`](https://github.com/sase-org/sase/commit/b38c1b262cb3da46385d3a8590463413406a5d6c) | fix: avoid stale agents tab diff fallback | 2026-07-08 22:55:57 EDT |
+| — | `b38c1b2` | fix: avoid stale agents tab diff fallback | 2026-07-08 22:55:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [38.cdx](../bbugyi200.athena.38.cdx/README.md) | 38 hood | active |
+| [38.cdx](../bbugyi200.athena.38.cdx/README.md) | 38 hood | dismissed |
