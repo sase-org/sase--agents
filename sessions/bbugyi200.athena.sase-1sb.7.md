@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1sb.7--mon [completed]"]
   n1["sase-1sb.7--plan [completed]"]
   n0 --> n1
-  n2["sase-1sb.7--1 [waiting]"]
+  n2["sase-1sb.7--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1sb.7--mon | completed | grok-4.6 / grok | 2026-11-12T01:01:30.447293+00:00 → 2026-11-12T01:30:23.267544+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1sb.7--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1sb.7--plan | completed | grok-4.6 / grok | 2026-11-12T00:54:23.684317+00:00 → 2026-11-12T01:03:25.521274+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1sb.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1sb.7--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1sb.7--1 | waiting | grok-4.6 / grok | 20261111202922 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1sb.7--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1sb.7--1 | completed | grok-4.6 / grok | 2026-11-12T01:56:09.570629+00:00 → 2026-11-12T02:19:24.179245+00:00 | [1](../agents/bbugyi200.athena.sase-1sb.7--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1sb.7--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1sb.7--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`b9572a8`](https://github.com/sase-org/sase/commit/b9572a8d59b73123199c256c7da7be473bf41ccb) | fix(history): keep catalog cache on lock and make bead type migration restartable | 2026-11-11 21:18:13 EST |
 
 ## Neighbors
 
@@ -35,7 +41,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1sb.2.1.4](../agents/bbugyi200.athena.sase-1sb.2.1.4/README.md) | sase-1sb hood | waiting |
 | [sase-1sb.2.1.land](../agents/bbugyi200.athena.sase-1sb.2.1.land/README.md) | sase-1sb hood | waiting |
 | [sase-1sb.3](../agents/bbugyi200.athena.sase-1sb.3/README.md) | sase-1sb hood | active |
-| [sase-1sb.4](../agents/bbugyi200.athena.sase-1sb.4/README.md) | sase-1sb hood | active |
+| [sase-1sb.4](bbugyi200.athena.sase-1sb.4.md) (session · 2) | sase-1sb hood | active 1, completed 1 |
 | [sase-1sb.5](../agents/bbugyi200.athena.sase-1sb.5/README.md) | sase-1sb hood | completed |
 | [sase-1sb.6](../agents/bbugyi200.athena.sase-1sb.6/README.md) | sase-1sb hood | completed |
 | [sase-1sb.land](../agents/bbugyi200.athena.sase-1sb.land/README.md) | sase-1sb hood | waiting |

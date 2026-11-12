@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1sb](../../users/bbugyi200/machines/athena/hoods/sase-1sb/README.md) / [sase-1sb.7](../../sessions/bbugyi200.athena.sase-1sb.7.md) / sase-1sb.7--1
 
-**Global name:** `bbugyi200.athena.sase-1sb.7--1` · **State:** waiting · **Source run:** `run-6350ea8a87745eb6601a80ec9aaa5ccf`
+**Global name:** `bbugyi200.athena.sase-1sb.7--1` · **State:** completed · **Source run:** `run-6350ea8a87745eb6601a80ec9aaa5ccf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1sb
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1sb.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1sb/sase-1sb.7.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261111202922
-- Commits: 0
+- Timing: 2026-11-12T01:56:09.570629+00:00 → 2026-11-12T02:19:24.179245+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b9572a8`](https://github.com/sase-org/sase/commit/b9572a8d59b73123199c256c7da7be473bf41ccb) | fix(history): keep catalog cache on lock and make bead type migration restartable | 2026-11-11 21:18:13 EST |
 
 ## Neighbors
 
@@ -30,7 +36,7 @@
 | [sase-1sb.2.1.4](../bbugyi200.athena.sase-1sb.2.1.4/README.md) | sase-1sb hood | waiting |
 | [sase-1sb.2.1.land](../bbugyi200.athena.sase-1sb.2.1.land/README.md) | sase-1sb hood | waiting |
 | [sase-1sb.3](../bbugyi200.athena.sase-1sb.3/README.md) | sase-1sb hood | active |
-| [sase-1sb.4](../bbugyi200.athena.sase-1sb.4/README.md) | sase-1sb hood | active |
+| [sase-1sb.4](../../sessions/bbugyi200.athena.sase-1sb.4.md) (session · 2) | sase-1sb hood | active 1, completed 1 |
 | [sase-1sb.5](../bbugyi200.athena.sase-1sb.5/README.md) | sase-1sb hood | completed |
 | [sase-1sb.6](../bbugyi200.athena.sase-1sb.6/README.md) | sase-1sb hood | completed |
 | [sase-1sb.land](../bbugyi200.athena.sase-1sb.land/README.md) | sase-1sb hood | waiting |

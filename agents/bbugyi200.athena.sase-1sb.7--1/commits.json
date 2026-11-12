@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6350ea8a87745eb6601a80ec9aaa5ccf"}
+{"commits":[{"committed_at":1794449893,"sha":"b9572a8d59b73123199c256c7da7be473bf41ccb","subject":"fix(history): keep catalog cache on lock and make bead type migration restartable"}],"schema_version":2,"source_run_id":"run-6350ea8a87745eb6601a80ec9aaa5ccf"}
