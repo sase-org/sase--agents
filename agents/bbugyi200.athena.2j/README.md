@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d74aec7`](https://github.com/sase-org/sase/commit/d74aec7036551b8b9c66e7c5f4b39ca11bea1b25) | feat: add \`sase vcs log\` cross-repo commit timeline | 2026-07-08 15:10:09 EDT |
+| — | `d74aec7` | feat: add \`sase vcs log\` cross-repo commit timeline | 2026-07-08 15:10:09 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [2j.f1](../../sessions/bbugyi200.athena.2j.f1.md) (session · 2) | descendant | active 2 |
+| [2j.f1](../../sessions/bbugyi200.athena.2j.f1.md) (session · 2) | descendant | active 1, dismissed 1 |
