@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794455594,"sha":"181b213e8c58f8c90357d1e56cf910b5c727c0ea","subject":"fix(trust-policy): whitelist local-trust adapter in symvision and terminology guard"}],"schema_version":2,"source_run_id":"run-240bc0f8722328ef7c6725ba585bf27c"}
