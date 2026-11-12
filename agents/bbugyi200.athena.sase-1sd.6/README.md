@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1sd](../../users/bbugyi200/machines/athena/hoods/sase-1sd/README.md) / sase-1sd.6
 
-**Global name:** `bbugyi200.athena.sase-1sd.6` · **State:** waiting · **Source run:** `run-669b8241a634a4b0a2d6e690da69d8a4`
+**Global name:** `bbugyi200.athena.sase-1sd.6` · **State:** completed · **Source run:** `run-669b8241a634a4b0a2d6e690da69d8a4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1sd
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1sd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1sd/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261112075224
-- Commits: 0
+- Timing: 2026-11-12T20:20:22.127679+00:00 → 2026-11-12T22:13:02.286624+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c77ff7e`](https://github.com/sase-org/sase/commit/c77ff7e8f7ed0e645d77d4892bb9745ad9b54ab4) | fix(agent): include dead agents in restart lookup | 2026-11-12 17:11:46 EST |
 
 ## Neighbors
 

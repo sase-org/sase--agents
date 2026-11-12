@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-669b8241a634a4b0a2d6e690da69d8a4"}
+{"commits":[{"committed_at":1794521506,"sha":"c77ff7e8f7ed0e645d77d4892bb9745ad9b54ab4","subject":"fix(agent): include dead agents in restart lookup"}],"schema_version":2,"source_run_id":"run-669b8241a634a4b0a2d6e690da69d8a4"}
