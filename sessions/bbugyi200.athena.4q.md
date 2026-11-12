@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `4q` · Members: 2
 ```mermaid
 flowchart TD
   n0["4q--code [active]"]
-  n1["4q [active]"]
+  n1["4q [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 4q--code | active | gpt-5.6-sol / codex | 2026-07-10T19:47:04.317633+00:00 | [1](../agents/bbugyi200.athena.4q--code/README.md#commits) | — | — |
-| <a id="member-root"></a>root | 4q | active | gpt-5.6-sol / codex | 2026-07-10T19:40:29.039971+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.4q/prompt.md) | [Chat](../agents/bbugyi200.athena.4q/chat.md) |
+| <a id="member-root"></a>root | 4q | dismissed | gpt-5.6-sol / codex | 2026-07-10T15:40:29.039971 → 2026-07-10T16:04:43.049146 | 0 | [Prompt](../agents/bbugyi200.athena.4q/prompt.md) | [Chat](../agents/bbugyi200.athena.4q/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c224c98`](https://github.com/sase-org/sase/commit/c224c98bdc679e6894defe0a2a1c40d2754ca06f) | fix(query): propagate project names to ChangeSpec search | 2026-07-10 16:04:04 EDT |
+| code | — | `c224c98` | fix(query): propagate project names to ChangeSpec search | 2026-07-10 16:04:04 EDT |
