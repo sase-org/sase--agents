@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dd72820`](https://github.com/sase-org/sase/commit/dd728205f0a2982d3be10a99cbb1dde6cf446ec8) | chore: Add SDD prompt and plan for leader\_space\_agent\_home | 2026-06-02 13:17:21 EDT |
-| sase | [`8b392bc`](https://github.com/sase-org/sase/commit/8b392bc8ae8c4944132add942fa046d5aa1b4257) | feat: bind agent home to leader space | 2026-06-02 13:23:44 EDT |
+| — | `dd72820` | chore: Add SDD prompt and plan for leader\_space\_agent\_home | 2026-06-02 13:17:21 EDT |
+| — | `8b392bc` | feat: bind agent home to leader space | 2026-06-02 13:23:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [17](../bbugyi200.athena.17/README.md) | ancestor | active |
+| [17](../bbugyi200.athena.17/README.md) | ancestor | dismissed |

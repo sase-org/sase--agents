@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [17](../../users/bbugyi200/machines/athena/hoods/17/README.md) / 17
 
-**Global name:** `bbugyi200.athena.17` · **State:** active · **Source run:** `run-94bf41f40a2423c94d21fc67acd75f25`
+**Global name:** `bbugyi200.athena.17` · **State:** dismissed · **Source run:** `run-94bf41f40a2423c94d21fc67acd75f25`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 17
 
@@ -10,7 +10,7 @@
 
 - Model: openai/gpt-5
 - Provider: opencode
-- Timing: 2026-09-13T11:24:19.467010+00:00
+- Timing: 2026-09-13T07:24:19.467010 → 2026-09-13T07:24:34.906285
 - Commits: [4](#commits)
 
 ## Files
@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0bcc1dd`](https://github.com/sase-org/sase/commit/0bcc1dd4900733b907e4e44e6e6edab346a77266) | chore: Add SDD prompt and plan for ctrl\_space\_keymap | 2026-06-02 12:55:47 EDT |
-| sase | [`afcd2f4`](https://github.com/sase-org/sase/commit/afcd2f4d9a607c24e2a824cdc9275f002cc72025) | fix: canonicalize Ctrl+Space keymaps | 2026-06-02 13:11:47 EDT |
-| sase | [`0ef8267`](https://github.com/sase-org/sase/commit/0ef8267a2cc1a62686406b0e3d584a667fc01b34) | chore: Add SDD prompt and plan for zoom\_panel\_search | 2026-07-07 18:06:17 EDT |
-| sase | [`f2d82e3`](https://github.com/sase-org/sase/commit/f2d82e3d98ba749df8ecf06469e003b6f023bf00) | feat(ace): add zoom panel search | 2026-07-07 18:34:24 EDT |
+| — | `0bcc1dd` | chore: Add SDD prompt and plan for ctrl\_space\_keymap | 2026-06-02 12:55:47 EDT |
+| — | `afcd2f4` | fix: canonicalize Ctrl+Space keymaps | 2026-06-02 13:11:47 EDT |
+| — | `0ef8267` | chore: Add SDD prompt and plan for zoom\_panel\_search | 2026-07-07 18:06:17 EDT |
+| — | `f2d82e3` | feat(ace): add zoom panel search | 2026-07-07 18:34:24 EDT |
 
 ## Neighbors
 
