@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8b2ae3e`](https://github.com/sase-org/sase/commit/8b2ae3ef470d97acbf3b1919a1a4d90f6eec45b0) | chore: Add SDD prompt and plan for agent\_command\_rename | 2026-06-17 07:49:53 EDT |
-| sase | [`d25be1f`](https://github.com/sase-org/sase/commit/d25be1fa2186a486bd21e9da584981a6adb14c00) | feat(cli)!: rename \`sase agents\` to \`sase agent\` | 2026-06-17 08:19:46 EDT |
+| — | `8b2ae3e` | chore: Add SDD prompt and plan for agent\_command\_rename | 2026-06-17 07:49:53 EDT |
+| — | `d25be1f` | feat(cli)!: rename \`sase agents\` to \`sase agent\` | 2026-06-17 08:19:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [92](../../sessions/bbugyi200.athena.92.md) (session · 2) | ancestor | active 1, completed 1 |
+| [92](../../sessions/bbugyi200.athena.92.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [92.w0](../bbugyi200.athena.92.w0/README.md) | 92 hood | dismissed |
