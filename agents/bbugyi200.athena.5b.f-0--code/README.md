@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`47d0066`](https://github.com/sase-org/sase/commit/47d0066bd77795d50e225290fb5a915895d23752) | feat(sdd)!: require confirmation for GitHub companion creation | 2026-07-11 08:55:38 EDT |
+| — | `47d0066` | feat(sdd)!: require confirmation for GitHub companion creation | 2026-07-11 08:55:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [5b](../../sessions/bbugyi200.athena.5b.md) (session · 2) | ancestor | active 1, completed 1 |
-| [5b.f-0.w-0](../../sessions/bbugyi200.athena.5b.f-0.w-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [5b](../../sessions/bbugyi200.athena.5b.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [5b.f-0.w-0](../../sessions/bbugyi200.athena.5b.f-0.w-0.md) (session · 2) | descendant | completed 1, dismissed 1 |

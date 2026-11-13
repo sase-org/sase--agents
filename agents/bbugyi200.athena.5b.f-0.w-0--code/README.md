@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f7cc1d7`](https://github.com/sase-org/sase/commit/f7cc1d7f4975f925d93fd51c0180e63678910c49) | feat(cli): preview init changes before applying | 2026-07-11 09:18:00 EDT |
+| — | `f7cc1d7` | feat(cli): preview init changes before applying | 2026-07-11 09:18:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [5b.f-0](../../sessions/bbugyi200.athena.5b.f-0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [5b](../../sessions/bbugyi200.athena.5b.md) (session · 2) | ancestor | active 1, completed 1 |
+| [5b.f-0](../../sessions/bbugyi200.athena.5b.f-0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [5b](../../sessions/bbugyi200.athena.5b.md) (session · 2) | ancestor | completed 1, dismissed 1 |
