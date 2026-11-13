@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bad19ec`](https://github.com/sase-org/sase/commit/bad19ec4580583ebec4b79e107b172e68fd3389e) | fix(tui): persist Admin Center tab history | 2026-09-01 09:06:27 EDT |
+| — | `bad19ec` | fix(tui): persist Admin Center tab history | 2026-09-01 09:06:27 EDT |
