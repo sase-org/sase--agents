@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 5v
 
-**Global hood:** `bbugyi200.athena.5v` · **Runs:** 6 · **Sessions:** 2 · **States:** active 3, completed 2, dismissed 1
+**Global hood:** `bbugyi200.athena.5v` · **Runs:** 6 · **Sessions:** 2 · **States:** active 1, completed 2, dismissed 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [5v.f-1--code-0](../../../../../../sessions/bbugyi200.athena.5v.f-1.md#member-code-0) | completed | gpt-5.6-sol / codex | 2026-07-11T20:38:36.982917+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.5v.f-1--code-0/chat.md) |
 | [5v--code](../../../../../../sessions/bbugyi200.athena.5v.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-11T17:39:18.589875+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.5v--code/chat.md) |
 | [5v.f-0](../../../../../../agents/bbugyi200.athena.5v.f-0/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-11T15:59:59.506900 | 0 | — |
-| [5v](../../../../../../agents/bbugyi200.athena.5v/README.md) | active | claude-fable-5 / claude | 2026-07-11T17:26:48.740585+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.5v/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.5v/prompt.md) |
-| [5v.f-1](../../../../../../agents/bbugyi200.athena.5v.f-1/README.md) | active | gpt-5.6-sol / codex | 2026-07-11T20:02:19.607359+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.5v.f-1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.5v.f-1/prompt.md) |
+| [5v](../../../../../../agents/bbugyi200.athena.5v/README.md) | dismissed | claude-fable-5 / claude | 2026-07-11T13:26:48.740585 → 2026-07-11T14:14:40.611888 | 0 | [chat](../../../../../../agents/bbugyi200.athena.5v/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.5v/prompt.md) |
+| [5v.f-1](../../../../../../agents/bbugyi200.athena.5v.f-1/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-11T16:02:19.607359 → 2026-07-11T16:51:38.050116 | 0 | [chat](../../../../../../agents/bbugyi200.athena.5v.f-1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.5v.f-1/prompt.md) |
 | [5v.f-1--code](../../../../../../sessions/bbugyi200.athena.5v.f-1.md#member-code) | active | gpt-5.6-sol / codex | 2026-07-11T20:07:36.925950+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.5v.f-1--code/chat.md) |

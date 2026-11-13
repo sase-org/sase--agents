@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b3c7582`](https://github.com/sase-org/sase/commit/b3c75827571fde1b6027e3f7d2f0bac40d3d9530) | feat(sdd): unify tale and epic plan storage | 2026-07-11 14:14:26 EDT |
+| — | `b3c7582` | feat(sdd): unify tale and epic plan storage | 2026-07-11 14:14:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [5v.f-0](../bbugyi200.athena.5v.f-0/README.md) | descendant | dismissed |
-| [5v.f-1](../../sessions/bbugyi200.athena.5v.f-1.md) (session · 3) | descendant | active 2, completed 1 |
+| [5v.f-1](../../sessions/bbugyi200.athena.5v.f-1.md) (session · 3) | descendant | active 1, completed 1, dismissed 1 |

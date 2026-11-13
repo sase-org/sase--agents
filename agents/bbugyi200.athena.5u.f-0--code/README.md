@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1180425`](https://github.com/sase-org/sase/commit/1180425d1192c6a3017aece24f67524a19b942dd) | fix: sort custom revival rows by recency | 2026-07-11 13:26:32 EDT |
+| — | `1180425` | fix: sort custom revival rows by recency | 2026-07-11 13:26:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [5u](../../sessions/bbugyi200.athena.5u.md) (session · 2) | ancestor | active 1, completed 1 |
+| [5u](../../sessions/bbugyi200.athena.5u.md) (session · 2) | ancestor | completed 1, dismissed 1 |

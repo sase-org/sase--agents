@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [5v](../../sessions/bbugyi200.athena.5v.md) (session · 2) | ancestor | active 1, completed 1 |
+| [5v](../../sessions/bbugyi200.athena.5v.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [5v.f-0](../bbugyi200.athena.5v.f-0/README.md) | 5v hood | dismissed |

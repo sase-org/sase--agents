@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`546a115`](https://github.com/sase-org/sase/commit/546a1155f210569ae093e3dc0ffa3bd05f36e47f) | feat(sdd)!: retire legacy plan layout | 2026-07-11 16:35:05 EDT |
+| — | `546a115` | feat(sdd)!: retire legacy plan layout | 2026-07-11 16:35:05 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [5v](../../sessions/bbugyi200.athena.5v.md) (session · 2) | ancestor | active 1, completed 1 |
+| [5v](../../sessions/bbugyi200.athena.5v.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [5v.f-0](../bbugyi200.athena.5v.f-0/README.md) | 5v hood | dismissed |

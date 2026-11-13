@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8af1d23`](https://github.com/sase-org/sase/commit/8af1d23841e8e9e6f3d9a85e4f2fdf228050e7f3) | feat: simplify custom revival search | 2026-07-11 13:14:09 EDT |
+| — | `8af1d23` | feat: simplify custom revival search | 2026-07-11 13:14:09 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [5u.f-0](../../sessions/bbugyi200.athena.5u.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [5u.f-0](../../sessions/bbugyi200.athena.5u.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
