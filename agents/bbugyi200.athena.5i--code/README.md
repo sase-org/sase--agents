@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2e7ed4d`](https://github.com/sase-org/sase/commit/2e7ed4d869ebc88046dc8dd247c74dcacf3a2173) | fix(tui): widen models panel content | 2026-07-11 10:00:04 EDT |
+| — | `2e7ed4d` | fix(tui): widen models panel content | 2026-07-11 10:00:04 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [5i.w-0](../../sessions/bbugyi200.athena.5i.w-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [5i.w-0](../../sessions/bbugyi200.athena.5i.w-0.md) (session · 2) | descendant | completed 1, dismissed 1 |

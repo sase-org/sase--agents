@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [5g](../../users/bbugyi200/machines/athena/hoods/5g/README.md) / [5g.f-0](../../sessions/bbugyi200.athena.5g.f-0.md) / 5g.f-0
 
-**Global name:** `bbugyi200.athena.5g.f-0` · **State:** active · **Source run:** `run-0688a56834bcac473fa0334208dfbfe6`
+**Global name:** `bbugyi200.athena.5g.f-0` · **State:** dismissed · **Source run:** `run-0688a56834bcac473fa0334208dfbfe6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 5g
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-11T13:35:18.997974+00:00
+- Timing: 2026-07-11T09:35:18.997974 → 2026-07-11T09:46:16.156504
 - Commits: 0
 
 ## Files
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [5g](../../sessions/bbugyi200.athena.5g.md) (session · 2) | ancestor | active 1, completed 1 |
-| [5g.f-0.f-0](../../sessions/bbugyi200.athena.5g.f-0.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [5g](../../sessions/bbugyi200.athena.5g.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [5g.f-0.f-0](../../sessions/bbugyi200.athena.5g.f-0.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |

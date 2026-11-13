@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1654299`](https://github.com/sase-org/sase/commit/1654299f0297286883d6802e52c070546214c50d) | feat(ace): add model alias buckets | 2026-07-11 09:32:57 EDT |
+| — | `1654299` | feat(ace): add model alias buckets | 2026-07-11 09:32:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [5g.f-0](../../sessions/bbugyi200.athena.5g.f-0.md) (session · 2) | descendant | active 1, completed 1 |
-| [5g.f-0.f-0](../../sessions/bbugyi200.athena.5g.f-0.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [5g.f-0](../../sessions/bbugyi200.athena.5g.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [5g.f-0.f-0](../../sessions/bbugyi200.athena.5g.f-0.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
