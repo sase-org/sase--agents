@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1c0154b`](https://github.com/sase-org/sase/commit/1c0154b904984bb6c3b5475c499030426775094f) | fix: make workflow retries independent of workspace helper | 2026-07-11 11:57:47 EDT |
+| — | `1c0154b` | fix: make workflow retries independent of workspace helper | 2026-07-11 11:57:47 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [5l.w-0](../bbugyi200.athena.5l.w-0/README.md) | descendant | active |
+| [5l.w-0](../bbugyi200.athena.5l.w-0/README.md) | descendant | dismissed |
