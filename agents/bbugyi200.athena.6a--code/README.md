@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`953f070`](https://github.com/sase-org/sase/commit/953f0704710b7c51e8dbf4f0a17cd95e648fdff7) | feat(workspace): relocate linked repository clones | 2026-07-11 18:14:55 EDT |
+| — | `953f070` | feat(workspace): relocate linked repository clones | 2026-07-11 18:14:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [6a.f-0](../bbugyi200.athena.6a.f-0/README.md) | descendant | waiting |
-| [6a.f-1](../../sessions/bbugyi200.athena.6a.f-1.md) (session · 3) | descendant | active 2, completed 1 |
+| [6a.f-1](../../sessions/bbugyi200.athena.6a.f-1.md) (session · 3) | descendant | active 1, completed 1, dismissed 1 |

@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [6a](../../sessions/bbugyi200.athena.6a.md) (session · 2) | ancestor | active 1, completed 1 |
+| [6a](../../sessions/bbugyi200.athena.6a.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [6a.f-0](../bbugyi200.athena.6a.f-0/README.md) | 6a hood | waiting |
