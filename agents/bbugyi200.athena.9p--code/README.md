@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f5d7184`](https://github.com/sase-org/sase/commit/f5d718444ae0a67ef92791014a33e419994210ed) | fix(xprompt): render declared inputs inside inline code | 2026-07-15 15:58:29 EDT |
+| — | `f5d7184` | fix(xprompt): render declared inputs inside inline code | 2026-07-15 15:58:29 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9p.f0](../../sessions/bbugyi200.athena.9p.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [9p.f0](../../sessions/bbugyi200.athena.9p.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

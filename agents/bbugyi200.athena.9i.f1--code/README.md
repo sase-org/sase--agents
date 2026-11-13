@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4779fcb`](https://github.com/sase-org/sase/commit/4779fcbc57e6ead87c01e110e9ca85493d2d23df) | feat(ace): show epic phase roadmaps | 2026-07-15 15:18:39 EDT |
+| — | `4779fcb` | feat(ace): show epic phase roadmaps | 2026-07-15 15:18:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9i](../../sessions/bbugyi200.athena.9i.md) (session · 2) | ancestor | active 1, completed 1 |
-| [9i.f0](../bbugyi200.athena.9i.f0/README.md) | 9i hood | waiting |
+| [9i](../../sessions/bbugyi200.athena.9i.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [9i.f0](../bbugyi200.athena.9i.f0/README.md) | 9i hood | dismissed |

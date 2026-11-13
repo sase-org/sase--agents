@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`75bf5c7`](https://github.com/sase-org/sase/commit/75bf5c791c302823415a4efa4b277740fc7e79ff) | feat(ace): show associated plan metadata | 2026-07-15 14:35:43 EDT |
+| — | `75bf5c7` | feat(ace): show associated plan metadata | 2026-07-15 14:35:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9i.f0](../bbugyi200.athena.9i.f0/README.md) | descendant | waiting |
-| [9i.f1](../../sessions/bbugyi200.athena.9i.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [9i.f0](../bbugyi200.athena.9i.f0/README.md) | descendant | dismissed |
+| [9i.f1](../../sessions/bbugyi200.athena.9i.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
