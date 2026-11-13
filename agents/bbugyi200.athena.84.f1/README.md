@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`945c92b`](https://github.com/sase-org/sase/commit/945c92b4cf79bca1c8ff5c0e8a4504eacc2e6240) | chore: Add SDD prompt and plan for skills\_log | 2026-06-15 16:40:57 EDT |
-| sase | [`32617fc`](https://github.com/sase-org/sase/commit/32617fc101cf575168d3810b0559c320e2246020) | feat: add skills log command | 2026-06-15 16:56:15 EDT |
+| — | `945c92b` | chore: Add SDD prompt and plan for skills\_log | 2026-06-15 16:40:57 EDT |
+| — | `32617fc` | feat: add skills log command | 2026-06-15 16:56:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [84](../../sessions/bbugyi200.athena.84.md) (session · 2) | ancestor | active 1, completed 1 |
+| [84](../../sessions/bbugyi200.athena.84.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [84.f2](../bbugyi200.athena.84.f2/README.md) | 84 hood | completed |

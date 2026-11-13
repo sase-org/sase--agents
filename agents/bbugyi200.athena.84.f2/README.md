@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`214c29b`](https://github.com/sase-org/sase/commit/214c29b15305214aa778e0f626d28bf4dd6600e8) | chore: Add SDD prompt and plan for refresh\_skill\_use\_directives | 2026-06-15 16:41:34 EDT |
+| — | `214c29b` | chore: Add SDD prompt and plan for refresh\_skill\_use\_directives | 2026-06-15 16:41:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [84](../../sessions/bbugyi200.athena.84.md) (session · 2) | ancestor | active 1, completed 1 |
+| [84](../../sessions/bbugyi200.athena.84.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [84.f1](../bbugyi200.athena.84.f1/README.md) | 84 hood | completed |
