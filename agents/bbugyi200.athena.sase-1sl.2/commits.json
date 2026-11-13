@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-693773c97296fcef30cdda99ca9e7ecd"}
+{"commits":[{"committed_at":1794550998,"sha":"9285c4f55eec790693c7bcae9dc88e87a847a21f","subject":"chore(rust): ratchet capacity scan core revision"}],"schema_version":2,"source_run_id":"run-693773c97296fcef30cdda99ca9e7ecd"}

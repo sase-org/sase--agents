@@ -52,7 +52,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1sl.1.1.1](bbugyi200.athena.sase-1sl.1.1.1.md) (session · 7) | sase-1sl.1.1 hood | completed 5, failed 2 |
 | [sase-1sl.1.1.2](../agents/bbugyi200.athena.sase-1sl.1.1.2/README.md) | sase-1sl.1.1 hood | completed |
 | [sase-1sl.1.1.3](bbugyi200.athena.sase-1sl.1.1.3.md) (session · 9) | sase-1sl.1.1 hood | completed 7, failed 2 |
-| [sase-1sl.2](../agents/bbugyi200.athena.sase-1sl.2/README.md) | sase-1sl hood | waiting |
+| [sase-1sl.2](../agents/bbugyi200.athena.sase-1sl.2/README.md) | sase-1sl hood | completed |
 | [sase-1sl.3](bbugyi200.athena.sase-1sl.3.md) (session · 3) | sase-1sl hood | completed 3 |
 | [sase-1sl.4](../agents/bbugyi200.athena.sase-1sl.4/README.md) | sase-1sl hood | waiting |
 | [sase-1sl.land](../agents/bbugyi200.athena.sase-1sl.land/README.md) | sase-1sl hood | waiting |
