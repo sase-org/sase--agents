@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5be4f6a`](https://github.com/sase-org/sase/commit/5be4f6ae32e187170bf014f86322d735845a865f) | feat(ace): swap Agents r/R so r refreshes and R retries | 2026-09-13 16:52:59 EDT |
+| — | `5be4f6a` | feat(ace): swap Agents r/R so r refreshes and R retries | 2026-09-13 16:52:59 EDT |
 
 ## Neighbors
 

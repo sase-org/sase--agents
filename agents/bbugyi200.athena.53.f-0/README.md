@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ff96b2c`](https://github.com/sase-org/sase/commit/ff96b2c85569e093e4a4a52562606383f8aeeffb) | feat(cli): let init enable project memory | 2026-07-10 19:23:26 EDT |
+| — | `ff96b2c` | feat(cli): let init enable project memory | 2026-07-10 19:23:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [53](../../sessions/bbugyi200.athena.53.md) (session · 2) | ancestor | active 1, completed 1 |
+| [53](../../sessions/bbugyi200.athena.53.md) (session · 2) | ancestor | completed 1, dismissed 1 |
