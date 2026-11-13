@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [7q](../../sessions/bbugyi200.athena.7q.md) (session · 2) | ancestor | active 1, completed 1 |
-| [7q.w0](../../sessions/bbugyi200.athena.7q.w0.md) (session · 2) | 7q hood | active 1, completed 1 |
+| [7q](../../sessions/bbugyi200.athena.7q.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [7q.w0](../../sessions/bbugyi200.athena.7q.w0.md) (session · 2) | 7q hood | completed 1, dismissed 1 |

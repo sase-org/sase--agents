@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`33c02ed`](https://github.com/sase-org/sase/commit/33c02ed90a44096ffbf8559ad648d3ca3e9e7de1) | fix(workspace): reset repository clones before launch | 2026-07-13 09:00:41 EDT |
+| — | `33c02ed` | fix(workspace): reset repository clones before launch | 2026-07-13 09:00:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [7q.w0](../../sessions/bbugyi200.athena.7q.w0.md) (session · 2) | descendant | active 1, completed 1 |
-| [7q.w1](../../sessions/bbugyi200.athena.7q.w1.md) (session · 2) | descendant | active 1, completed 1 |
+| [7q.w0](../../sessions/bbugyi200.athena.7q.w0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [7q.w1](../../sessions/bbugyi200.athena.7q.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |

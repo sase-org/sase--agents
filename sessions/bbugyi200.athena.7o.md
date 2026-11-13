@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `7o` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["7o [active]"]
+  n0["7o [dismissed]"]
   n1["7o--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 7o | active | gpt-5.6-sol / codex | 2026-07-13T11:37:00.056565+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.7o/prompt.md) | [Chat](../agents/bbugyi200.athena.7o/chat.md) |
+| <a id="member-root"></a>root | 7o | dismissed | gpt-5.6-sol / codex | 2026-07-13T07:37:00.056565 → 2026-07-13T08:02:49.208315 | 0 | [Prompt](../agents/bbugyi200.athena.7o/prompt.md) | [Chat](../agents/bbugyi200.athena.7o/chat.md) |
 | <a id="member-code"></a>code | 7o--code | completed | gpt-5.6-sol / codex | 2026-07-13T11:44:40.717457+00:00 | [1](../agents/bbugyi200.athena.7o--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.7o--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`b5a5cfb`](https://github.com/sase-org/sase/commit/b5a5cfb659b7f08ceefc7b37a858caa2f20133fe) | feat!: adopt conditional separators for derived agent IDs | 2026-07-13 08:02:34 EDT |
+| code | — | `b5a5cfb` | feat!: adopt conditional separators for derived agent IDs | 2026-07-13 08:02:34 EDT |

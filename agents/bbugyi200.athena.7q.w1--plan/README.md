@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7q](../../users/bbugyi200/machines/athena/hoods/7q/README.md) / [7q.w1](../../sessions/bbugyi200.athena.7q.w1.md) / 7q.w1--plan
 
-**Global name:** `bbugyi200.athena.7q.w1--plan` · **State:** active · **Source run:** `run-0a58ba8ca585ca88ca8db0b25896fecb`
+**Global name:** `bbugyi200.athena.7q.w1--plan` · **State:** dismissed · **Source run:** `run-0a58ba8ca585ca88ca8db0b25896fecb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 7q
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-07-13T09:41:07.119658
+- Timing: 2026-07-13T09:41:07.119658 → 2026-07-13T10:01:56.839607
 - Commits: 0
 
 ## Files
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [7q](../../sessions/bbugyi200.athena.7q.md) (session · 2) | ancestor | active 1, completed 1 |
-| [7q.w0](../../sessions/bbugyi200.athena.7q.w0.md) (session · 2) | 7q hood | active 1, completed 1 |
+| [7q](../../sessions/bbugyi200.athena.7q.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [7q.w0](../../sessions/bbugyi200.athena.7q.w0.md) (session · 2) | 7q hood | completed 1, dismissed 1 |

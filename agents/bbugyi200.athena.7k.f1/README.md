@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0bf7f95`](https://github.com/sase-org/sase/commit/0bf7f954e82613146b17229706dc7581b2184313) | chore: Add SDD prompt and plan for stopped\_status\_highlighting | 2026-06-14 18:36:42 EDT |
-| sase | [`4aa31d8`](https://github.com/sase-org/sase/commit/4aa31d8959a3afb6a07b619612bec96ec7a7f885) | feat(ace): highlight stopped agent status | 2026-06-14 19:01:07 EDT |
+| — | `0bf7f95` | chore: Add SDD prompt and plan for stopped\_status\_highlighting | 2026-06-14 18:36:42 EDT |
+| — | `4aa31d8` | feat(ace): highlight stopped agent status | 2026-06-14 19:01:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [7k](../bbugyi200.athena.7k/README.md) | ancestor | active |
+| [7k](../bbugyi200.athena.7k/README.md) | ancestor | dismissed |
