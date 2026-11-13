@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `7e` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["7e [active]"]
+  n0["7e [dismissed]"]
   n1["7e--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 7e | active | gpt-5.6-sol / codex | 2026-07-13T10:43:40.326689+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.7e/prompt.md) | [Chat](../agents/bbugyi200.athena.7e/chat.md) |
+| <a id="member-root"></a>root | 7e | dismissed | gpt-5.6-sol / codex | 2026-07-13T06:43:40.326689 → 2026-07-13T07:05:09.168398 | 0 | [Prompt](../agents/bbugyi200.athena.7e/prompt.md) | [Chat](../agents/bbugyi200.athena.7e/chat.md) |
 | <a id="member-code"></a>code | 7e--code | completed | gpt-5.6-sol / codex | 2026-07-13T10:52:09.358376+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.7e--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`3d5fe9c`](https://github.com/sase-org/sase/commit/3d5fe9c50a8e3d68f04bf1a5a033247e65f79c0a) | fix: complete Symvision migration recovery (sase-5t.5) | 2026-07-13 07:04:43 EDT |
+| — | — | `3d5fe9c` | fix: complete Symvision migration recovery (sase-5t.5) | 2026-07-13 07:04:43 EDT |

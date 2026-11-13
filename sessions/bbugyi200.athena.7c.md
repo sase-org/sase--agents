@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `7c` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["7c [active]"]
+  n0["7c [dismissed]"]
   n1["7c--epic [completed]"]
   n0 --> n1
 ```
@@ -17,12 +17,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 7c | active | claude-fable-5 / claude | 2026-07-12T23:02:27.797250+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.7c/prompt.md) | [Chat](../agents/bbugyi200.athena.7c/chat.md) |
+| <a id="member-root"></a>root | 7c | dismissed | claude-fable-5 / claude | 2026-07-12T19:02:27.797250 → 2026-07-12T19:24:46.497807 | 0 | [Prompt](../agents/bbugyi200.athena.7c/prompt.md) | [Chat](../agents/bbugyi200.athena.7c/chat.md) |
 | <a id="member-epic"></a>epic | 7c--epic | completed | gpt-5.6-sol / codex | 2026-07-12T23:19:55.562838+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.7c--epic/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`c717162`](https://github.com/sase-org/sase/commit/c7171621956131316efa9836c752cd0f94f10de2) | chore: Add SDD prompt and plan for bulk\_agent\_revert | 2026-06-14 11:46:42 EDT |
-| — | sase | [`7babf67`](https://github.com/sase-org/sase/commit/7babf670a8caab72e9d4ae928f20c8084fbc3c71) | feat(ace): bulk-revert all marked agents with leader \`,r\` | 2026-06-14 12:04:53 EDT |
+| — | — | `c717162` | chore: Add SDD prompt and plan for bulk\_agent\_revert | 2026-06-14 11:46:42 EDT |
+| — | — | `7babf67` | feat(ace): bulk-revert all marked agents with leader \`,r\` | 2026-06-14 12:04:53 EDT |

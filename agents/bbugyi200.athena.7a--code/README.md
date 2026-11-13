@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a66dc39`](https://github.com/sase-org/sase/commit/a66dc398a401c0726b8309a9b3d235fb6a6661d3) | fix: migrate lint integration to toobig | 2026-07-12 17:27:11 EDT |
+| — | `a66dc39` | fix: migrate lint integration to toobig | 2026-07-12 17:27:11 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [7a.w-0](../../sessions/bbugyi200.athena.7a.w-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [7a.w-0](../../sessions/bbugyi200.athena.7a.w-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [7a.w-0.f-0](../bbugyi200.athena.7a.w-0.f-0/README.md) | descendant | active |
