@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `7h` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["7h [active]"]
+  n0["7h [dismissed]"]
   n1["7h--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 7h | active | gpt-5.6-sol / codex | 2026-07-13T10:56:23.394529+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.7h/prompt.md) | [Chat](../agents/bbugyi200.athena.7h/chat.md) |
+| <a id="member-root"></a>root | 7h | dismissed | gpt-5.6-sol / codex | 2026-07-13T06:56:23.394529 → 2026-07-13T07:26:18.128566 | 0 | [Prompt](../agents/bbugyi200.athena.7h/prompt.md) | [Chat](../agents/bbugyi200.athena.7h/chat.md) |
 | <a id="member-code"></a>code | 7h--code | completed | gpt-5.6-sol / codex | 2026-07-13T11:01:24.032345+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.7h--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`21e1640`](https://github.com/sase-org/sase/commit/21e1640ee7373759701865b7917a7828b2d233bb) | feat(memory)!: remove keyword metadata | 2026-07-13 07:23:35 EDT |
+| — | — | `21e1640` | feat(memory)!: remove keyword metadata | 2026-07-13 07:23:35 EDT |

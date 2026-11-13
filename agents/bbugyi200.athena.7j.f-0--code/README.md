@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e635b1f`](https://github.com/sase-org/sase/commit/e635b1f2a8bee7d44a3ceb50392cb19125c9454e) | fix: drain runners before detached workflow launches | 2026-07-13 07:55:16 EDT |
+| — | `e635b1f` | fix: drain runners before detached workflow launches | 2026-07-13 07:55:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [7j](../../sessions/bbugyi200.athena.7j.md) (session · 2) | ancestor | active 1, completed 1 |
-| [7j.f-0.f0](../../sessions/bbugyi200.athena.7j.f-0.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [7j.f-0.f0](../../sessions/bbugyi200.athena.7j.f-0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [7j](../../sessions/bbugyi200.athena.7j.md) (session · 2) | ancestor | active 1, completed 1 |
-| [7j.f-0.f0](../../sessions/bbugyi200.athena.7j.f-0.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [7j.f-0.f0](../../sessions/bbugyi200.athena.7j.f-0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

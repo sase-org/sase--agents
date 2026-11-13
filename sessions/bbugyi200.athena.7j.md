@@ -24,13 +24,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`b0caeff`](https://github.com/sase-org/sase/commit/b0caefff752ad639130bd7c8823865aeaaa3795b) | chore: Add SDD prompt and plan for remove\_plan\_directive\_1 | 2026-06-14 17:06:56 EDT |
-| — | sase | [`58b44e2`](https://github.com/sase-org/sase/commit/58b44e2d84882dae5729707e6c8b11076b08b581) | feat!: remove legacy %plan/%p xprompt directive | 2026-06-14 17:24:19 EDT |
-| — | sase | [`a086bb9`](https://github.com/sase-org/sase/commit/a086bb95274059d4a46b35b1161792f974e51aa9) | feat!: rename pylimit\_split workflow to toobig\_split | 2026-07-13 07:30:45 EDT |
+| — | — | `b0caeff` | chore: Add SDD prompt and plan for remove\_plan\_directive\_1 | 2026-06-14 17:06:56 EDT |
+| — | — | `58b44e2` | feat!: remove legacy %plan/%p xprompt directive | 2026-06-14 17:24:19 EDT |
+| — | — | `a086bb9` | feat!: rename pylimit\_split workflow to toobig\_split | 2026-07-13 07:30:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [7j.f-0](bbugyi200.athena.7j.f-0.md) (session · 2) | descendant | active 1, completed 1 |
-| [7j.f-0.f0](bbugyi200.athena.7j.f-0.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [7j.f-0.f0](bbugyi200.athena.7j.f-0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 7j
 
-**Global hood:** `bbugyi200.athena.7j` · **Runs:** 6 · **Sessions:** 3 · **States:** active 3, completed 3
+**Global hood:** `bbugyi200.athena.7j` · **Runs:** 6 · **Sessions:** 3 · **States:** active 2, completed 3, dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -11,4 +11,4 @@
 | [7j.f-0](../../../../../../agents/bbugyi200.athena.7j.f-0/README.md) | active | gpt-5.6-sol / codex | 2026-07-13T11:35:22.341034+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.7j.f-0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.7j.f-0/prompt.md) |
 | [7j--code](../../../../../../sessions/bbugyi200.athena.7j.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-13T11:17:54.516780+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.7j--code/chat.md) |
 | [7j.f-0--code](../../../../../../sessions/bbugyi200.athena.7j.f-0.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-13T11:42:15.284985+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.7j.f-0--code/chat.md) |
-| [7j.f-0.f0--plan](../../../../../../sessions/bbugyi200.athena.7j.f-0.f0.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-13T08:56:02.206463 | 0 | [chat](../../../../../../agents/bbugyi200.athena.7j.f-0.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.7j.f-0.f0--plan/prompt.md) |
+| [7j.f-0.f0--plan](../../../../../../sessions/bbugyi200.athena.7j.f-0.f0.md#member-plan) | dismissed | gpt-5.6-sol / codex | 2026-07-13T08:56:02.206463 → 2026-07-13T09:09:43.800602 | 0 | [chat](../../../../../../agents/bbugyi200.athena.7j.f-0.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.7j.f-0.f0--plan/prompt.md) |
