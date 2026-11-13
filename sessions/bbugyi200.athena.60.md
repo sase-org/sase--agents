@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `60` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["60 [active]"]
+  n0["60 [dismissed]"]
   n1["60--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 60 | active | gpt-5.6-sol / codex | 2026-07-11T18:28:01.723898+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.60/prompt.md) | [Chat](../agents/bbugyi200.athena.60/chat.md) |
+| <a id="member-root"></a>root | 60 | dismissed | gpt-5.6-sol / codex | 2026-07-11T14:28:01.723898 → 2026-07-11T14:39:28.288911 | 0 | [Prompt](../agents/bbugyi200.athena.60/prompt.md) | [Chat](../agents/bbugyi200.athena.60/chat.md) |
 | <a id="member-code"></a>code | 60--code | completed | gpt-5.6-sol / codex | 2026-07-11T18:31:07.363678+00:00 | [1](../agents/bbugyi200.athena.60--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.60--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`73b7db3`](https://github.com/sase-org/sase/commit/73b7db3afbd1c9951be5703247624ee58427728f) | fix: hide audit launcher marker notifications | 2026-07-11 14:39:15 EDT |
+| code | — | `73b7db3` | fix: hide audit launcher marker notifications | 2026-07-11 14:39:15 EDT |
