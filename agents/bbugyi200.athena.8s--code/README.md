@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ac12cc`](https://github.com/sase-org/sase/commit/5ac12ccff8c0a8aa145b373703975aef37952c28) | feat(ace): show associated plan goals in agent details | 2026-07-15 08:40:18 EDT |
+| — | `5ac12cc` | feat(ace): show associated plan goals in agent details | 2026-07-15 08:40:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [8s.f0](../../sessions/bbugyi200.athena.8s.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [8s.f0](../../sessions/bbugyi200.athena.8s.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

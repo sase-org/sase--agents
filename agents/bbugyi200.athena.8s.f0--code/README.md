@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2394f83`](https://github.com/sase-org/sase/commit/2394f83054581ff1babff2b03fd97f3618c1f1cd) | feat(ace): render complete responsive plan goals | 2026-07-15 09:39:10 EDT |
+| — | `2394f83` | feat(ace): render complete responsive plan goals | 2026-07-15 09:39:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [8s](../../sessions/bbugyi200.athena.8s.md) (session · 2) | ancestor | active 1, completed 1 |
+| [8s](../../sessions/bbugyi200.athena.8s.md) (session · 2) | ancestor | completed 1, dismissed 1 |
