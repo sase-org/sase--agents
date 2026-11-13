@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `8b` · Members: 2
 ```mermaid
 flowchart TD
   n0["8b.f0.w1.w1--code [completed]"]
-  n1["8b.f0.w1.w1 [active]"]
+  n1["8b.f0.w1.w1 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,24 +18,24 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 8b.f0.w1.w1--code | completed | gpt-5.6-sol / codex | 2026-07-14T13:33:43.579406+00:00 | [1](../agents/bbugyi200.athena.8b.f0.w1.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.8b.f0.w1.w1--code/chat.md) |
-| <a id="member-root"></a>root | 8b.f0.w1.w1 | active | claude-fable-5 / claude | 2026-07-14T13:17:16.196429+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.8b.f0.w1.w1/prompt.md) | [Chat](../agents/bbugyi200.athena.8b.f0.w1.w1/chat.md) |
+| <a id="member-root"></a>root | 8b.f0.w1.w1 | dismissed | claude-fable-5 / claude | 2026-07-14T09:17:16.196429 → 2026-07-14T10:23:34.184595 | 0 | [Prompt](../agents/bbugyi200.athena.8b.f0.w1.w1/prompt.md) | [Chat](../agents/bbugyi200.athena.8b.f0.w1.w1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a9813bf`](https://github.com/sase-org/sase/commit/a9813bf2c4014b6ac467476c2dcd7870436917e7) | feat: highlight literal code in prompts | 2026-07-14 10:23:19 EDT |
+| code | — | `a9813bf` | feat: highlight literal code in prompts | 2026-07-14 10:23:19 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [8b.f0.w1](bbugyi200.athena.8b.f0.w1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [8b.f0](bbugyi200.athena.8b.f0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [8b](bbugyi200.athena.8b.md) (session · 2) | ancestor | active 1, completed 1 |
+| [8b.f0.w1](bbugyi200.athena.8b.f0.w1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [8b.f0](bbugyi200.athena.8b.f0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [8b](bbugyi200.athena.8b.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [8b.f0.w1.w1.f0](../agents/bbugyi200.athena.8b.f0.w1.w1.f0/README.md) | descendant | active |
 | [8b.f0.w1.w1.f1](../agents/bbugyi200.athena.8b.f0.w1.w1.f1/README.md) | descendant | active |
-| [8b.f0.w1.w1.f2](bbugyi200.athena.8b.f0.w1.w1.f2.md) (session · 2) | descendant | active 1, completed 1 |
+| [8b.f0.w1.w1.f2](bbugyi200.athena.8b.f0.w1.w1.f2.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [8b.f0.w1.w0](../agents/bbugyi200.athena.8b.f0.w1.w0/README.md) | 8b.f0.w1 hood | dismissed |
 | [8b.f0.w0](../agents/bbugyi200.athena.8b.f0.w0/README.md) | 8b.f0 hood | dismissed |
 | [8b.cld](../agents/bbugyi200.athena.8b.cld/README.md) | 8b hood | completed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [8b](../../users/bbugyi200/machines/athena/hoods/8b/README.md) / [8b.f0.w1](../../sessions/bbugyi200.athena.8b.f0.w1.md) / 8b.f0.w1
 
-**Global name:** `bbugyi200.athena.8b.f0.w1` · **State:** active · **Source run:** `run-d9420ab9af9290d428c8aee3f4b634c5`
+**Global name:** `bbugyi200.athena.8b.f0.w1` · **State:** dismissed · **Source run:** `run-d9420ab9af9290d428c8aee3f4b634c5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 8b
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-14T12:24:46.302155+00:00
+- Timing: 2026-07-14T08:24:46.302155 → 2026-07-14T09:16:28.110638
 - Commits: 0
 
 ## Files
@@ -21,12 +21,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [8b.f0](../../sessions/bbugyi200.athena.8b.f0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [8b](../../sessions/bbugyi200.athena.8b.md) (session · 2) | ancestor | active 1, completed 1 |
+| [8b.f0](../../sessions/bbugyi200.athena.8b.f0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [8b](../../sessions/bbugyi200.athena.8b.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [8b.f0.w1.w0](../bbugyi200.athena.8b.f0.w1.w0/README.md) | descendant | dismissed |
-| [8b.f0.w1.w1](../../sessions/bbugyi200.athena.8b.f0.w1.w1.md) (session · 2) | descendant | active 1, completed 1 |
+| [8b.f0.w1.w1](../../sessions/bbugyi200.athena.8b.f0.w1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [8b.f0.w1.w1.f0](../bbugyi200.athena.8b.f0.w1.w1.f0/README.md) | descendant | active |
 | [8b.f0.w1.w1.f1](../bbugyi200.athena.8b.f0.w1.w1.f1/README.md) | descendant | active |
-| [8b.f0.w1.w1.f2](../../sessions/bbugyi200.athena.8b.f0.w1.w1.f2.md) (session · 2) | descendant | active 1, completed 1 |
+| [8b.f0.w1.w1.f2](../../sessions/bbugyi200.athena.8b.f0.w1.w1.f2.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [8b.f0.w0](../bbugyi200.athena.8b.f0.w0/README.md) | 8b.f0 hood | dismissed |
 | [8b.cld](../bbugyi200.athena.8b.cld/README.md) | 8b hood | completed |

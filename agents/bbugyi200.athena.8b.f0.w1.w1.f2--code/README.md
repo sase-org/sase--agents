@@ -21,16 +21,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`df67fec`](https://github.com/sase-org/sase/commit/df67fecb82eac898295074432b934d76a82d33b9) | feat(tui): render fenced code blocks as full-width cards | 2026-07-14 11:20:36 EDT |
+| — | `df67fec` | feat(tui): render fenced code blocks as full-width cards | 2026-07-14 11:20:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [8b.f0.w1.w1](../../sessions/bbugyi200.athena.8b.f0.w1.w1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [8b.f0.w1](../../sessions/bbugyi200.athena.8b.f0.w1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [8b.f0](../../sessions/bbugyi200.athena.8b.f0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [8b](../../sessions/bbugyi200.athena.8b.md) (session · 2) | ancestor | active 1, completed 1 |
+| [8b.f0.w1.w1](../../sessions/bbugyi200.athena.8b.f0.w1.w1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [8b.f0.w1](../../sessions/bbugyi200.athena.8b.f0.w1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [8b.f0](../../sessions/bbugyi200.athena.8b.f0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [8b](../../sessions/bbugyi200.athena.8b.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [8b.f0.w1.w1.f0](../bbugyi200.athena.8b.f0.w1.w1.f0/README.md) | 8b.f0.w1.w1 hood | active |
 | [8b.f0.w1.w1.f1](../bbugyi200.athena.8b.f0.w1.w1.f1/README.md) | 8b.f0.w1.w1 hood | active |
 | [8b.f0.w1.w0](../bbugyi200.athena.8b.f0.w1.w0/README.md) | 8b.f0.w1 hood | dismissed |
