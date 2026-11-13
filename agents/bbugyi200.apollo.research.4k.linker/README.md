@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4k.linker
 
-**Global name:** `bbugyi200.apollo.research.4k.linker` · **State:** waiting · **Source run:** `run-1ea4b71c412699cf3e9086168d301b7d`
+**Global name:** `bbugyi200.apollo.research.4k.linker` · **State:** completed · **Source run:** `run-1ea4b71c412699cf3e9086168d301b7d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261113174035
+- Timing: 2026-11-13T23:24:37.477613+00:00 → 2026-11-13T23:33:38.885699+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/argon\_hydrogen\_completion\_and\_swarm/argon\_hydrogen\_completion\_and\_swarm.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261113174035/argon\_hy… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/argon_hydrogen_completion_and_swarm/argon_hydrogen_completion_and_swarm.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261113174035/argon_hydrogen_completion_and_swarm-173f43d5e6d1.md
+  ref: file:explicit:49c7752d06c1136d704444d4
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/argon_hydrogen_completion_and_swarm/argon_hydrogen_completion_and_swarm.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
