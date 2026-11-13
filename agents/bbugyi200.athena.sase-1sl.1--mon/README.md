@@ -23,11 +23,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1sl.1.1.1](../bbugyi200.athena.sase-1sl.1.1.1/README.md) | descendant | active |
+| [sase-1sl.1.1.1](../../sessions/bbugyi200.athena.sase-1sl.1.1.1.md) (session · 7) | descendant | completed 5, failed 2 |
 | [sase-1sl.1.1.2](../bbugyi200.athena.sase-1sl.1.1.2/README.md) | descendant | waiting |
 | [sase-1sl.1.1.3](../bbugyi200.athena.sase-1sl.1.1.3/README.md) | descendant | waiting |
 | [sase-1sl.1.1.land](../bbugyi200.athena.sase-1sl.1.1.land/README.md) | descendant | waiting |
 | [sase-1sl.2](../bbugyi200.athena.sase-1sl.2/README.md) | sase-1sl hood | waiting |
-| [sase-1sl.3](../../sessions/bbugyi200.athena.sase-1sl.3.md) (session · 2) | sase-1sl hood | active 1, completed 1 |
+| [sase-1sl.3](../../sessions/bbugyi200.athena.sase-1sl.3.md) (session · 3) | sase-1sl hood | completed 3 |
 | [sase-1sl.4](../bbugyi200.athena.sase-1sl.4/README.md) | sase-1sl hood | waiting |
 | [sase-1sl.land](../bbugyi200.athena.sase-1sl.land/README.md) | sase-1sl hood | waiting |
