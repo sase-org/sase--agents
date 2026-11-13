@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [96](../../users/bbugyi200/machines/athena/hoods/96/README.md) / [96](../../sessions/bbugyi200.athena.96.md) / 96
 
-**Global name:** `bbugyi200.athena.96` · **State:** active · **Source run:** `run-5863a0735db0dd81cfe4af8ca9b80384`
+**Global name:** `bbugyi200.athena.96` · **State:** dismissed · **Source run:** `run-5863a0735db0dd81cfe4af8ca9b80384`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 96
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-15T15:17:18.847499+00:00
+- Timing: 2026-07-15T11:17:18.847499 → 2026-07-15T12:05:36.644034
 - Commits: 0
 
 ## Files
@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [96.f0](../bbugyi200.athena.96.f0/README.md) | descendant | dismissed |
-| [96.f1](../../sessions/bbugyi200.athena.96.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [96.f1](../../sessions/bbugyi200.athena.96.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e68ff17`](https://github.com/sase-org/sase/commit/e68ff172ddd53906806432e3f886ece2a203c7e3) | fix: clone launch sidecars from authoritative remotes | 2026-07-15 11:27:02 EDT |
+| — | `e68ff17` | fix: clone launch sidecars from authoritative remotes | 2026-07-15 11:27:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [95.f0](../bbugyi200.athena.95.f0/README.md) | descendant | active |
-| [95.f1](../bbugyi200.athena.95.f1/README.md) | descendant | active |
+| [95.f0](../bbugyi200.athena.95.f0/README.md) | descendant | dismissed |
+| [95.f1](../bbugyi200.athena.95.f1/README.md) | descendant | dismissed |

@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`03df1f8`](https://github.com/sase-org/sase/commit/03df1f88dabcdb8895abf5025f566c389da3b7a3) | test: tighten visual snapshot drift tolerance | 2026-07-15 12:49:46 EDT |
+| — | `03df1f8` | test: tighten visual snapshot drift tolerance | 2026-07-15 12:49:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [96](../../sessions/bbugyi200.athena.96.md) (session · 2) | ancestor | active 1, completed 1 |
+| [96](../../sessions/bbugyi200.athena.96.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [96.f0](../bbugyi200.athena.96.f0/README.md) | 96 hood | dismissed |

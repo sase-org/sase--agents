@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5e9bfa1`](https://github.com/sase-org/sase/commit/5e9bfa1987f0b9ba998173e4e3e5e23793b10f85) | feat(ace)!: collapse focused agent panels | 2026-07-15 12:05:20 EDT |
+| — | `5e9bfa1` | feat(ace)!: collapse focused agent panels | 2026-07-15 12:05:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [96.f0](../bbugyi200.athena.96.f0/README.md) | descendant | dismissed |
-| [96.f1](../../sessions/bbugyi200.athena.96.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [96.f1](../../sessions/bbugyi200.athena.96.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
