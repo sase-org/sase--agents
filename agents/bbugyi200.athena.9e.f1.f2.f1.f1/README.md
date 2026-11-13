@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`be036f1`](https://github.com/sase-org/sase/commit/be036f11bf8f4b74d3089ad43c199bfd55642066) | chore: Add SDD prompt and plan for prompt\_stack\_keymap\_rebinds | 2026-06-17 11:37:38 EDT |
-| sase | [`36de758`](https://github.com/sase-org/sase/commit/36de7588f321a5a3a8b2fc04e925e6c49064014d) | feat(tui)!: rebind prompt-stack controls to terminal-safe keys | 2026-06-17 12:17:10 EDT |
+| — | `be036f1` | chore: Add SDD prompt and plan for prompt\_stack\_keymap\_rebinds | 2026-06-17 11:37:38 EDT |
+| — | `36de758` | feat(tui)!: rebind prompt-stack controls to terminal-safe keys | 2026-06-17 12:17:10 EDT |
 
 ## Neighbors
 
@@ -27,7 +27,7 @@
 | [9e.f1.f2.f1](../bbugyi200.athena.9e.f1.f2.f1/README.md) | ancestor | completed |
 | [9e.f1.f2](../bbugyi200.athena.9e.f1.f2/README.md) | ancestor | completed |
 | [9e.f1](../bbugyi200.athena.9e.f1/README.md) | ancestor | completed |
-| [9e](../../sessions/bbugyi200.athena.9e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [9e](../../sessions/bbugyi200.athena.9e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [9e.f1.f2.w1](../bbugyi200.athena.9e.f1.f2.w1/README.md) | 9e.f1.f2 hood | completed |
 | [9e.f1.f1](../bbugyi200.athena.9e.f1.f1/README.md) | 9e.f1 hood | completed |
 | [9e.f1.f1.f1](../bbugyi200.athena.9e.f1.f1.f1/README.md) | 9e.f1 hood | completed |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`805de8f`](https://github.com/sase-org/sase/commit/805de8fe66844508303575aa6c4975c1b2a0588e) | test: harden CI reliability harnesses | 2026-07-15 14:13:42 EDT |
+| — | `805de8f` | test: harden CI reliability harnesses | 2026-07-15 14:13:42 EDT |

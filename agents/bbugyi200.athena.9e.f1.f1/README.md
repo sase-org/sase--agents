@@ -17,15 +17,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7d11887`](https://github.com/sase-org/sase/commit/7d1188750776db44ada6c8356e4f6d92519b823f) | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_minus\_add\_pane | 2026-06-17 10:15:50 EDT |
-| sase | [`cdc5027`](https://github.com/sase-org/sase/commit/cdc5027b285899d782ae6c09c5385cd56394fc3a) | feat(tui)!: migrate prompt stack add-pane to Ctrl+- | 2026-06-17 10:22:42 EDT |
+| — | `7d11887` | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_minus\_add\_pane | 2026-06-17 10:15:50 EDT |
+| — | `cdc5027` | feat(tui)!: migrate prompt stack add-pane to Ctrl+- | 2026-06-17 10:22:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [9e.f1](../bbugyi200.athena.9e.f1/README.md) | ancestor | completed |
-| [9e](../../sessions/bbugyi200.athena.9e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [9e](../../sessions/bbugyi200.athena.9e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [9e.f1.f1.f1](../bbugyi200.athena.9e.f1.f1.f1/README.md) | descendant | completed |
 | [9e.f1.f1.f1.f1](../bbugyi200.athena.9e.f1.f1.f1.f1/README.md) | descendant | completed |
 | [9e.f1.f2](../bbugyi200.athena.9e.f1.f2/README.md) | 9e.f1 hood | completed |

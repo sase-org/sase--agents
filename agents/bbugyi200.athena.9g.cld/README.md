@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bb9d797`](https://github.com/sase-org/sase/commit/bb9d79703abd7d4b9a4dbcd38d4f5a73777bf979) | chore: Add SDD prompt and plan for ctrl\_minus\_add\_pane\_tmux\_fix | 2026-06-17 10:51:06 EDT |
-| sase | [`d1fb91a`](https://github.com/sase-org/sase/commit/d1fb91a4156a62cdc5bf3294b915cf548096ede5) | fix(tui): support tmux Ctrl-minus add pane | 2026-06-17 11:02:24 EDT |
+| — | `bb9d797` | chore: Add SDD prompt and plan for ctrl\_minus\_add\_pane\_tmux\_fix | 2026-06-17 10:51:06 EDT |
+| — | `d1fb91a` | fix(tui): support tmux Ctrl-minus add pane | 2026-06-17 11:02:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9g](../../sessions/bbugyi200.athena.9g.md) (session · 2) | ancestor | active 1, completed 1 |
+| [9g](../../sessions/bbugyi200.athena.9g.md) (session · 2) | ancestor | completed 1, dismissed 1 |

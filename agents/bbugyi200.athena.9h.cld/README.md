@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7684c5f`](https://github.com/sase-org/sase/commit/7684c5f7d2cf27197508be1c582eb3cb1eebfe6b) | chore: Add SDD prompt and plan for ace\_quit\_hang\_loader\_executor | 2026-06-17 10:57:50 EDT |
-| sase | [`2805071`](https://github.com/sase-org/sase/commit/2805071a9e1fa90cd3ef0205ae9053fa21b26e1c) | fix(ace): cancel loader executor on quit | 2026-06-17 11:07:57 EDT |
+| — | `7684c5f` | chore: Add SDD prompt and plan for ace\_quit\_hang\_loader\_executor | 2026-06-17 10:57:50 EDT |
+| — | `2805071` | fix(ace): cancel loader executor on quit | 2026-06-17 11:07:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9h](../../sessions/bbugyi200.athena.9h.md) (session · 2) | ancestor | active 1, completed 1 |
+| [9h](../../sessions/bbugyi200.athena.9h.md) (session · 2) | ancestor | completed 1, dismissed 1 |

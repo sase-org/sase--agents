@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `9e` · Members: 2
 ```mermaid
 flowchart TD
   n0["9e--code [completed]"]
-  n1["9e [active]"]
+  n1["9e [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,14 +18,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 9e--code | completed | gpt-5.6-sol / codex | 2026-07-15T17:37:37.826876+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.9e--code/chat.md) |
-| <a id="member-root"></a>root | 9e | active | gpt-5.6-sol / codex | 2026-07-15T17:29:46.173792+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.9e/prompt.md) | [Chat](../agents/bbugyi200.athena.9e/chat.md) |
+| <a id="member-root"></a>root | 9e | dismissed | gpt-5.6-sol / codex | 2026-07-15T13:29:46.173792 → 2026-07-15T13:56:36.664313 | 0 | [Prompt](../agents/bbugyi200.athena.9e/prompt.md) | [Chat](../agents/bbugyi200.athena.9e/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`f26c178`](https://github.com/sase-org/sase/commit/f26c178353d33a07cb97351cad7c5e4c956ab8f0) | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_shift\_navigation | 2026-06-17 09:42:46 EDT |
-| — | sase | [`770f4e9`](https://github.com/sase-org/sase/commit/770f4e9e08ed722a09b4f742ea2abda833f1925b) | feat(tui): migrate prompt stack pane navigation to Ctrl+Shift+J/K | 2026-06-17 09:52:35 EDT |
+| — | — | `f26c178` | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_shift\_navigation | 2026-06-17 09:42:46 EDT |
+| — | — | `770f4e9` | feat(tui): migrate prompt stack pane navigation to Ctrl+Shift+J/K | 2026-06-17 09:52:35 EDT |
 
 ## Neighbors
 

@@ -17,14 +17,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c9fcad7`](https://github.com/sase-org/sase/commit/c9fcad79cb718d29bdd94cf37c01a07a7e0b5022) | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_shift\_hl\_reorder | 2026-06-17 09:58:00 EDT |
-| sase | [`21fee88`](https://github.com/sase-org/sase/commit/21fee88e05cc501a7d64c0cad410f75f76f67d55) | feat(tui): migrate prompt stack reorder to Ctrl+Shift+H/L | 2026-06-17 10:09:06 EDT |
+| — | `c9fcad7` | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_shift\_hl\_reorder | 2026-06-17 09:58:00 EDT |
+| — | `21fee88` | feat(tui): migrate prompt stack reorder to Ctrl+Shift+H/L | 2026-06-17 10:09:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9e](../../sessions/bbugyi200.athena.9e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [9e](../../sessions/bbugyi200.athena.9e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [9e.f1.f1](../bbugyi200.athena.9e.f1.f1/README.md) | descendant | completed |
 | [9e.f1.f1.f1](../bbugyi200.athena.9e.f1.f1.f1/README.md) | descendant | completed |
 | [9e.f1.f1.f1.f1](../bbugyi200.athena.9e.f1.f1.f1.f1/README.md) | descendant | completed |

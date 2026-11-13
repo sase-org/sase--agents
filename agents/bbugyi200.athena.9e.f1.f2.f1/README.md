@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5738682`](https://github.com/sase-org/sase/commit/5738682d2a6ab486cdabadf0d5016910c57b3e45) | chore: Add SDD prompt and plan for prompt\_stack\_keymap\_cycling | 2026-06-17 11:22:22 EDT |
-| sase | [`f3448bc`](https://github.com/sase-org/sase/commit/f3448bcc53eddbc54c5ccb8f0597e69f5813e552) | feat(tui): cycle prompt-stack pane focus and reorder at edges | 2026-06-17 11:29:55 EDT |
+| — | `5738682` | chore: Add SDD prompt and plan for prompt\_stack\_keymap\_cycling | 2026-06-17 11:22:22 EDT |
+| — | `f3448bc` | feat(tui): cycle prompt-stack pane focus and reorder at edges | 2026-06-17 11:29:55 EDT |
 
 ## Neighbors
 
@@ -26,7 +26,7 @@
 |---|---|---|
 | [9e.f1.f2](../bbugyi200.athena.9e.f1.f2/README.md) | ancestor | completed |
 | [9e.f1](../bbugyi200.athena.9e.f1/README.md) | ancestor | completed |
-| [9e](../../sessions/bbugyi200.athena.9e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [9e](../../sessions/bbugyi200.athena.9e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [9e.f1.f2.f1.f1](../bbugyi200.athena.9e.f1.f2.f1.f1/README.md) | descendant | completed |
 | [9e.f1.f2.w1](../bbugyi200.athena.9e.f1.f2.w1/README.md) | 9e.f1.f2 hood | completed |
 | [9e.f1.f1](../bbugyi200.athena.9e.f1.f1/README.md) | 9e.f1 hood | completed |

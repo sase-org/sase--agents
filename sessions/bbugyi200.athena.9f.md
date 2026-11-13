@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `9f` · Members: 2
 ```mermaid
 flowchart TD
   n0["9f--code [completed]"]
-  n1["9f [active]"]
+  n1["9f [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,12 +18,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 9f--code | completed | gpt-5.6-sol / codex | 2026-07-15T17:47:32.115677+00:00 | [1](../agents/bbugyi200.athena.9f--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.9f--code/chat.md) |
-| <a id="member-root"></a>root | 9f | active | gpt-5.6-sol / codex | 2026-07-15T17:31:26.794327+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.9f/prompt.md) | [Chat](../agents/bbugyi200.athena.9f/chat.md) |
+| <a id="member-root"></a>root | 9f | dismissed | gpt-5.6-sol / codex | 2026-07-15T13:31:26.794327 → 2026-07-15T14:13:56.242826 | 0 | [Prompt](../agents/bbugyi200.athena.9f/prompt.md) | [Chat](../agents/bbugyi200.athena.9f/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`1607d60`](https://github.com/sase-org/sase/commit/1607d601eea797aa741dac2cf771a7dddd694af2) | chore: Add SDD prompt and plan for xprompt\_part\_color | 2026-06-17 10:24:01 EDT |
-| — | sase | [`7531efc`](https://github.com/sase-org/sase/commit/7531efcc4df00dcfc1c5e25f09634afbdbf46fdb) | feat(tui): use distinct color for xprompt part values | 2026-06-17 10:30:55 EDT |
-| code | sase | [`805de8f`](https://github.com/sase-org/sase/commit/805de8fe66844508303575aa6c4975c1b2a0588e) | test: harden CI reliability harnesses | 2026-07-15 14:13:42 EDT |
+| — | — | `1607d60` | chore: Add SDD prompt and plan for xprompt\_part\_color | 2026-06-17 10:24:01 EDT |
+| — | — | `7531efc` | feat(tui): use distinct color for xprompt part values | 2026-06-17 10:30:55 EDT |
+| code | — | `805de8f` | test: harden CI reliability harnesses | 2026-07-15 14:13:42 EDT |

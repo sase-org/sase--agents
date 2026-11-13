@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ae13899`](https://github.com/sase-org/sase/commit/ae138993aeb5f50102de95ac945ae056598189a5) | chore: Add SDD prompt and plan for ctrl\_shift\_minus\_xprompt\_properties\_panel | 2026-06-17 10:28:54 EDT |
-| sase | [`f07fe19`](https://github.com/sase-org/sase/commit/f07fe193af72427424f312e8acf43214fa25abae) | feat(tui): add Ctrl+Shift+- toggle for xprompt properties panel | 2026-06-17 10:40:33 EDT |
+| — | `ae13899` | chore: Add SDD prompt and plan for ctrl\_shift\_minus\_xprompt\_properties\_panel | 2026-06-17 10:28:54 EDT |
+| — | `f07fe19` | feat(tui): add Ctrl+Shift+- toggle for xprompt properties panel | 2026-06-17 10:40:33 EDT |
 
 ## Neighbors
 
@@ -26,7 +26,7 @@
 |---|---|---|
 | [9e.f1.f1](../bbugyi200.athena.9e.f1.f1/README.md) | ancestor | completed |
 | [9e.f1](../bbugyi200.athena.9e.f1/README.md) | ancestor | completed |
-| [9e](../../sessions/bbugyi200.athena.9e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [9e](../../sessions/bbugyi200.athena.9e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [9e.f1.f1.f1.f1](../bbugyi200.athena.9e.f1.f1.f1.f1/README.md) | descendant | completed |
 | [9e.f1.f2](../bbugyi200.athena.9e.f1.f2/README.md) | 9e.f1 hood | completed |
 | [9e.f1.f2.f1](../bbugyi200.athena.9e.f1.f2.f1/README.md) | 9e.f1 hood | completed |
