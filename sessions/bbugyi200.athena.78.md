@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `78` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["78 [active]"]
+  n0["78 [dismissed]"]
   n1["78--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 78 | active | claude-fable-5 / claude | 2026-07-12T20:25:22.486259+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.78/prompt.md) | [Chat](../agents/bbugyi200.athena.78/chat.md) |
+| <a id="member-root"></a>root | 78 | dismissed | claude-fable-5 / claude | 2026-07-12T16:25:22.486259 → 2026-07-12T16:42:03.328787 | 0 | [Prompt](../agents/bbugyi200.athena.78/prompt.md) | [Chat](../agents/bbugyi200.athena.78/chat.md) |
 | <a id="member-code"></a>code | 78--code | completed | gpt-5.6-sol / codex | 2026-07-12T20:29:56.763368+00:00 | [1](../agents/bbugyi200.athena.78--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.78--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`5e4ae55`](https://github.com/sase-org/sase/commit/5e4ae55d3a066b7c178ee0a754a9b5f9acfcc15d) | feat(cli): add plan list status and limit filters | 2026-07-12 16:41:47 EDT |
+| code | — | `5e4ae55` | feat(cli): add plan list status and limit filters | 2026-07-12 16:41:47 EDT |

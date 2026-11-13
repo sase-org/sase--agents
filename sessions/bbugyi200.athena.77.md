@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `77` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["77 [active]"]
+  n0["77 [dismissed]"]
   n1["77--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 77 | active | claude-fable-5 / claude | 2026-07-12T20:16:15.418112+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.77/prompt.md) | [Chat](../agents/bbugyi200.athena.77/chat.md) |
+| <a id="member-root"></a>root | 77 | dismissed | claude-fable-5 / claude | 2026-07-12T16:16:15.418112 → 2026-07-12T16:45:26.787673 | 0 | [Prompt](../agents/bbugyi200.athena.77/prompt.md) | [Chat](../agents/bbugyi200.athena.77/chat.md) |
 | <a id="member-code"></a>code | 77--code | completed | gpt-5.6-sol / codex | 2026-07-12T20:24:37.537154+00:00 | [1](../agents/bbugyi200.athena.77--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.77--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`db9ad5d`](https://github.com/sase-org/sase/commit/db9ad5d513e1e6b80a5776193ad4058ad46106e6) | feat: highlight xprompt syntax in prompt input | 2026-07-12 16:45:08 EDT |
+| code | — | `db9ad5d` | feat: highlight xprompt syntax in prompt input | 2026-07-12 16:45:08 EDT |
