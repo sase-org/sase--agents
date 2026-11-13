@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e1c2fd0`](https://github.com/sase-org/sase/commit/e1c2fd0c40b97f836799698a496776bc43b40e9d) | feat!: use fixed companion clone directory names | 2026-07-12 12:59:59 EDT |
+| — | `e1c2fd0` | feat!: use fixed companion clone directory names | 2026-07-12 12:59:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [6s](../../sessions/bbugyi200.athena.6s.md) (session · 2) | ancestor | active 1, completed 1 |
+| [6s](../../sessions/bbugyi200.athena.6s.md) (session · 2) | ancestor | completed 1, dismissed 1 |

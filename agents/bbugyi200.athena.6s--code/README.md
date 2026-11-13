@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`df60999`](https://github.com/sase-org/sase/commit/df60999b5b38ef1c94dcb247b66a52e744d6e4ad) | feat!: isolate linked repository clones from companions | 2026-07-12 12:11:41 EDT |
+| — | `df60999` | feat!: isolate linked repository clones from companions | 2026-07-12 12:11:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [6s.f-0](../../sessions/bbugyi200.athena.6s.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [6s.f-0](../../sessions/bbugyi200.athena.6s.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
