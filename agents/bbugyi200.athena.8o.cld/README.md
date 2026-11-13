@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`207e2a7`](https://github.com/sase-org/sase/commit/207e2a75f13be342e0e9802213bed31fd063ad91) | chore: Add SDD prompt and plan for hide\_terminalized\_abandoned\_agents | 2026-06-16 08:29:52 EDT |
-| sase | [`af35df7`](https://github.com/sase-org/sase/commit/af35df7e29c2041ff7fe45434e194bd079c7e18e) | fix(history): keep alternate project MRU refs | 2026-06-16 09:05:57 EDT |
+| — | `207e2a7` | chore: Add SDD prompt and plan for hide\_terminalized\_abandoned\_agents | 2026-06-16 08:29:52 EDT |
+| — | `af35df7` | fix(history): keep alternate project MRU refs | 2026-06-16 09:05:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [8o](../../sessions/bbugyi200.athena.8o.md) (session · 2) | ancestor | active 1, completed 1 |
+| [8o](../../sessions/bbugyi200.athena.8o.md) (session · 2) | ancestor | completed 1, dismissed 1 |
