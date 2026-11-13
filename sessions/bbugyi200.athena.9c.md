@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `9c` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["9c [active]"]
+  n0["9c [dismissed]"]
   n1["9c--code [completed]"]
   n0 --> n1
 ```
@@ -17,19 +17,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 9c | active | gpt-5.6-sol / codex | 2026-07-15T16:53:52.438580+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.9c/prompt.md) | [Chat](../agents/bbugyi200.athena.9c/chat.md) |
+| <a id="member-root"></a>root | 9c | dismissed | gpt-5.6-sol / codex | 2026-07-15T12:53:52.438580 → 2026-07-15T13:33:44.130671 | 0 | [Prompt](../agents/bbugyi200.athena.9c/prompt.md) | [Chat](../agents/bbugyi200.athena.9c/chat.md) |
 | <a id="member-code"></a>code | 9c--code | completed | gpt-5.6-sol / codex | 2026-07-15T17:04:08.281430+00:00 | [1](../agents/bbugyi200.athena.9c--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.9c--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`29d7793`](https://github.com/sase-org/sase/commit/29d7793c3d4172ddc58753faa1471c4454ca6a9e) | chore: Add SDD prompt and plan for ace\_tui\_fetch\_png\_diff\_crash | 2026-06-17 08:12:15 EDT |
-| — | sase | [`d4f25bc`](https://github.com/sase-org/sase/commit/d4f25bcc1bd340ba8c24f05dfdd1f8ab92c9c043) | fix(tui): stop treating path-typed workflow outputs as diffs | 2026-06-17 08:28:25 EDT |
-| code | sase | [`0a124f7`](https://github.com/sase-org/sase/commit/0a124f74492e310a7abea7a8828f2d4e0d01864e) | fix: release runner slots while awaiting answers | 2026-07-15 13:32:49 EDT |
+| — | — | `29d7793` | chore: Add SDD prompt and plan for ace\_tui\_fetch\_png\_diff\_crash | 2026-06-17 08:12:15 EDT |
+| — | — | `d4f25bc` | fix(tui): stop treating path-typed workflow outputs as diffs | 2026-06-17 08:28:25 EDT |
+| code | — | `0a124f7` | fix: release runner slots while awaiting answers | 2026-07-15 13:32:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9c.f0](bbugyi200.athena.9c.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [9c.f0](bbugyi200.athena.9c.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
