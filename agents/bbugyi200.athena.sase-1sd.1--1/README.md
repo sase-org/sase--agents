@@ -28,4 +28,4 @@
 | [sase-1sd.5](../../sessions/bbugyi200.athena.sase-1sd.5.md) (session · 17) | sase-1sd hood | completed 12, failed 5 |
 | [sase-1sd.6](../bbugyi200.athena.sase-1sd.6/README.md) | sase-1sd hood | completed |
 | [sase-1sd.7](../bbugyi200.athena.sase-1sd.7/README.md) | sase-1sd hood | completed |
-| [sase-1sd.land](../bbugyi200.athena.sase-1sd.land/README.md) | sase-1sd hood | waiting |
+| [sase-1sd.land](../bbugyi200.athena.sase-1sd.land/README.md) | sase-1sd hood | completed |

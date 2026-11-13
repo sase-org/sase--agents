@@ -29,4 +29,4 @@
 | [sase-1sd.4](../../sessions/bbugyi200.athena.sase-1sd.4.md) (session · 5) | sase-1sd hood | completed 5 |
 | [sase-1sd.6](../bbugyi200.athena.sase-1sd.6/README.md) | sase-1sd hood | completed |
 | [sase-1sd.7](../bbugyi200.athena.sase-1sd.7/README.md) | sase-1sd hood | completed |
-| [sase-1sd.land](../bbugyi200.athena.sase-1sd.land/README.md) | sase-1sd hood | waiting |
+| [sase-1sd.land](../bbugyi200.athena.sase-1sd.land/README.md) | sase-1sd hood | completed |

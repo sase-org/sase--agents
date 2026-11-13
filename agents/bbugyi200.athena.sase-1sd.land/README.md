@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1sd](../../users/bbugyi200/machines/athena/hoods/sase-1sd/README.md) / sase-1sd.land
 
-**Global name:** `bbugyi200.athena.sase-1sd.land` · **State:** waiting · **Source run:** `run-da0f14bf50338f79ecec48846729f284`
+**Global name:** `bbugyi200.athena.sase-1sd.land` · **State:** completed · **Source run:** `run-da0f14bf50338f79ecec48846729f284`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1sd
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1sd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1sd/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261112075226
+- Timing: 2026-11-12T23:47:22.229120+00:00 → 2026-11-13T00:21:15.803632+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
