@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4k.image
 
-**Global name:** `bbugyi200.apollo.research.4k.image` · **State:** waiting · **Source run:** `run-0ca2a353169db302d941fa967884eaec`
+**Global name:** `bbugyi200.apollo.research.4k.image` · **State:** completed · **Source run:** `run-0ca2a353169db302d941fa967884eaec`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261113174033
+- Timing: 2026-11-13T23:14:49.941821+00:00 → 2026-11-13T23:24:18.726458+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/argon\_hydrogen\_completion\_and\_swarm/argon\_hydrogen\_completion\_and\_swarm\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261113174033/a… |
+| `diagrams` | {considered: 11, count: 1, manifest: 202611/argon\_hydrogen\_completion\_and\_swarm/argon\_hydrogen\_completion\_and\_swarm.diagrams.md, source\_ref: file:explicit:1695dbb95ad247786f3bb914, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/argon_hydrogen_completion_and_swarm/argon_hydrogen_completion_and_swarm_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261113174033/argon_hydrogen_completion_and_swarm_infographic-fac9e44e6831.png
+  ref: file:explicit:7da75610ca7452bfa0f71166
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/argon_hydrogen_completion_and_swarm/argon_hydrogen_completion_and_swarm_infographic.png
+- kind: markdown
+  label: diagrams:202611/argon_hydrogen_completion_and_swarm/argon_hydrogen_completion_and_swarm.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261113174033/argon_hydrogen_completion_and_swarm.diagrams-c38e8e36e316.md
+  ref: file:explicit:4a0168582afe8a788e83803e
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/argon_hydrogen_completion_and_swarm/argon_hydrogen_completion_and_swarm.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 11
+count: 1
+manifest: 202611/argon_hydrogen_completion_and_swarm/argon_hydrogen_completion_and_swarm.diagrams.md
+source_ref: file:explicit:1695dbb95ad247786f3bb914
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
