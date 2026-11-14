@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`125f342`](https://github.com/sase-org/sase/commit/125f342cb18e2a5bee33370948a204733c25e948) | feat(ace): merge plan into SASE context | 2026-07-16 17:35:38 EDT |
+| — | `125f342` | feat(ace): merge plan into SASE context | 2026-07-16 17:35:38 EDT |
 
 ## Neighbors
 
@@ -29,6 +29,6 @@
 |---|---|---|
 | [b1.f0](../bbugyi200.athena.b1.f0/README.md) | descendant | dismissed |
 | [b1.f1](../bbugyi200.athena.b1.f1/README.md) | descendant | dismissed |
-| [b1.f2](../../sessions/bbugyi200.athena.b1.f2.md) (session · 2) | descendant | active 1, completed 1 |
+| [b1.f2](../../sessions/bbugyi200.athena.b1.f2.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [b1.f2.f0](../bbugyi200.athena.b1.f2.f0/README.md) | descendant | active |
-| [b1.f2.f1](../../sessions/bbugyi200.athena.b1.f2.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [b1.f2.f1](../../sessions/bbugyi200.athena.b1.f2.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

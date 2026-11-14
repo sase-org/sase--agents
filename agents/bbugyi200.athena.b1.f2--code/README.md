@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`38760e2`](https://github.com/sase-org/sase/commit/38760e2f2eb9ef47bebbb1c89d4ec97624e8e598) | feat(ace): polish plan lane visuals | 2026-07-16 18:08:51 EDT |
+| — | `38760e2` | feat(ace): polish plan lane visuals | 2026-07-16 18:08:51 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [b1](../../sessions/bbugyi200.athena.b1.md) (session · 2) | ancestor | active 1, completed 1 |
+| [b1](../../sessions/bbugyi200.athena.b1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [b1.f2.f0](../bbugyi200.athena.b1.f2.f0/README.md) | descendant | active |
-| [b1.f2.f1](../../sessions/bbugyi200.athena.b1.f2.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [b1.f2.f1](../../sessions/bbugyi200.athena.b1.f2.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [b1.f0](../bbugyi200.athena.b1.f0/README.md) | b1 hood | dismissed |
 | [b1.f1](../bbugyi200.athena.b1.f1/README.md) | b1 hood | dismissed |

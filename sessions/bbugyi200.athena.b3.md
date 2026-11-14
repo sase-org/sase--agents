@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `b3` · Members: 2
 ```mermaid
 flowchart TD
   n0["b3--code [completed]"]
-  n1["b3 [active]"]
+  n1["b3 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | b3--code | completed | gpt-5.6-sol / codex | 2026-07-16T21:44:31.933326+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.b3--code/chat.md) |
-| <a id="member-root"></a>root | b3 | active | gpt-5.6-sol / codex | 2026-07-16T21:35:14.812441+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.b3/prompt.md) | [Chat](../agents/bbugyi200.athena.b3/chat.md) |
+| <a id="member-root"></a>root | b3 | dismissed | gpt-5.6-sol / codex | 2026-07-16T17:35:14.812441 → 2026-07-16T18:30:31.271425 | 0 | [Prompt](../agents/bbugyi200.athena.b3/prompt.md) | [Chat](../agents/bbugyi200.athena.b3/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`a434e09`](https://github.com/sase-org/sase/commit/a434e09e675c08adb8567cb342add9add087e120) | feat(ace): navigate agent metadata sections | 2026-07-16 18:30:03 EDT |
+| — | — | `a434e09` | feat(ace): navigate agent metadata sections | 2026-07-16 18:30:03 EDT |

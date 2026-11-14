@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b296828`](https://github.com/sase-org/sase/commit/b29682808132418e06eb4601f7c6a7b6d2e2a715) | fix(ace): keep artifact fields under context navigation | 2026-07-16 19:11:44 EDT |
+| — | `b296828` | fix(ace): keep artifact fields under context navigation | 2026-07-16 19:11:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [b1.f2](../../sessions/bbugyi200.athena.b1.f2.md) (session · 2) | ancestor | active 1, completed 1 |
-| [b1](../../sessions/bbugyi200.athena.b1.md) (session · 2) | ancestor | active 1, completed 1 |
+| [b1.f2](../../sessions/bbugyi200.athena.b1.f2.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [b1](../../sessions/bbugyi200.athena.b1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [b1.f2.f0](../bbugyi200.athena.b1.f2.f0/README.md) | b1.f2 hood | active |
 | [b1.f0](../bbugyi200.athena.b1.f0/README.md) | b1 hood | dismissed |
 | [b1.f1](../bbugyi200.athena.b1.f1/README.md) | b1 hood | dismissed |
