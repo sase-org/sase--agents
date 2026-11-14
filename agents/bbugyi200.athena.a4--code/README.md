@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bbb01e1`](https://github.com/sase-org/sase/commit/bbb01e1faec78ac570ff58342aa201aec0cb75b2) | feat(ace): add role-aware epic phase metadata | 2026-07-16 07:18:21 EDT |
+| — | `bbb01e1` | feat(ace): add role-aware epic phase metadata | 2026-07-16 07:18:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [a4.w0](../../sessions/bbugyi200.athena.a4.w0.md) (session · 2) | descendant | active 1, completed 1 |
-| [a4.w0.w0](../../sessions/bbugyi200.athena.a4.w0.w0.md) (session · 2) | descendant | active 1, completed 1 |
-| [a4.w0.w0.f0](../../sessions/bbugyi200.athena.a4.w0.w0.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [a4.w0.w0.f1](../../sessions/bbugyi200.athena.a4.w0.w0.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [a4.w0](../../sessions/bbugyi200.athena.a4.w0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [a4.w0.w0](../../sessions/bbugyi200.athena.a4.w0.w0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [a4.w0.w0.f0](../../sessions/bbugyi200.athena.a4.w0.w0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [a4.w0.w0.f1](../../sessions/bbugyi200.athena.a4.w0.w0.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [a4.w0.w0.f1.f0](../bbugyi200.athena.a4.w0.w0.f1.f0/README.md) | descendant | dismissed |

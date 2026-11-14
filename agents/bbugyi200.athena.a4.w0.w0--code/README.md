@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f8b44c4`](https://github.com/sase-org/sase/commit/f8b44c49fbc8db391bb41cd30e4f8e7907cd8909) | feat!: require and display plan titles | 2026-07-16 08:02:28 EDT |
+| — | `f8b44c4` | feat!: require and display plan titles | 2026-07-16 08:02:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [a4.w0](../../sessions/bbugyi200.athena.a4.w0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [a4](../../sessions/bbugyi200.athena.a4.md) (session · 2) | ancestor | active 1, completed 1 |
-| [a4.w0.w0.f0](../../sessions/bbugyi200.athena.a4.w0.w0.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [a4.w0.w0.f1](../../sessions/bbugyi200.athena.a4.w0.w0.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [a4.w0](../../sessions/bbugyi200.athena.a4.w0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [a4](../../sessions/bbugyi200.athena.a4.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [a4.w0.w0.f0](../../sessions/bbugyi200.athena.a4.w0.w0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [a4.w0.w0.f1](../../sessions/bbugyi200.athena.a4.w0.w0.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [a4.w0.w0.f1.f0](../bbugyi200.athena.a4.w0.w0.f1.f0/README.md) | descendant | dismissed |
