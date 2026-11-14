@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2fd3c84`](https://github.com/sase-org/sase/commit/2fd3c84a703fd55c6883105f802ecfc2343c19dd) | feat(ace): highlight xprompts in agent panels | 2026-07-16 16:57:07 EDT |
+| — | `2fd3c84` | feat(ace): highlight xprompts in agent panels | 2026-07-16 16:57:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [aw.f0](../../sessions/bbugyi200.athena.aw.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [aw.f0](../../sessions/bbugyi200.athena.aw.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
