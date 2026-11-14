@@ -23,4 +23,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1ss.1](../../sessions/bbugyi200.athena.sase-1ss.1.md) (session · 3) | sase-1ss hood | completed 3 |
-| [sase-1ss.2](../bbugyi200.athena.sase-1ss.2/README.md) | sase-1ss hood | active |
+| [sase-1ss.2](../bbugyi200.athena.sase-1ss.2/README.md) | sase-1ss hood | completed |
