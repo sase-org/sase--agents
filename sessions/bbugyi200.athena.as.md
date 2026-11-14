@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `as` · Members: 2
 ```mermaid
 flowchart TD
   n0["as--code [completed]"]
-  n1["as [active]"]
+  n1["as [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,16 +18,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | as--code | completed | gpt-5.6-sol / codex | 2026-07-16T20:06:59.258270+00:00 | [1](../agents/bbugyi200.athena.as--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.as--code/chat.md) |
-| <a id="member-root"></a>root | as | active | gpt-5.6-sol / codex | 2026-07-16T20:00:33.200410+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.as/prompt.md) | [Chat](../agents/bbugyi200.athena.as/chat.md) |
+| <a id="member-root"></a>root | as | dismissed | gpt-5.6-sol / codex | 2026-07-16T16:00:33.200410 → 2026-07-16T16:31:35.958121 | 0 | [Prompt](../agents/bbugyi200.athena.as/prompt.md) | [Chat](../agents/bbugyi200.athena.as/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`494d5c5`](https://github.com/sase-org/sase/commit/494d5c5632822b3efd5b3c913907915949d59a59) | feat(ace): add jump hints for collapsed agent panels | 2026-07-16 16:31:15 EDT |
+| code | — | `494d5c5` | feat(ace): add jump hints for collapsed agent panels | 2026-07-16 16:31:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [as.f0](bbugyi200.athena.as.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [as.f0](bbugyi200.athena.as.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

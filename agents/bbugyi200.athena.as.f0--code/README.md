@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9624746`](https://github.com/sase-org/sase/commit/9624746a4948f0935eebe8778c89cb33ea6a660f) | feat(ace): auto-expand panels for agent jumps | 2026-07-16 17:01:00 EDT |
+| — | `9624746` | feat(ace): auto-expand panels for agent jumps | 2026-07-16 17:01:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [as](../../sessions/bbugyi200.athena.as.md) (session · 2) | ancestor | active 1, completed 1 |
+| [as](../../sessions/bbugyi200.athena.as.md) (session · 2) | ancestor | completed 1, dismissed 1 |

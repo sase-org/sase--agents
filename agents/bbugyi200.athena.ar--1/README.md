@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`52c80c9`](https://github.com/sase-org/sase/commit/52c80c9528020841304775584757d7b6d73d034e) | fix(retention): degrade to continuation\_unavailable instead of crashing when continuation retention planning fails | 2026-09-13 17:54:18 EDT |
+| — | `52c80c9` | fix(retention): degrade to continuation\_unavailable instead of crashing when continuation retention planning fails | 2026-09-13 17:54:18 EDT |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `al` · Members: 2
 ```mermaid
 flowchart TD
   n0["al--code [completed]"]
-  n1["al [active]"]
+  n1["al [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | al--code | completed | gpt-5.6-sol / codex | 2026-07-16T17:21:59.447090+00:00 | [1](../agents/bbugyi200.athena.al--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.al--code/chat.md) |
-| <a id="member-root"></a>root | al | active | claude-fable-5 / claude | 2026-07-16T17:04:20.342312+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.al/prompt.md) | [Chat](../agents/bbugyi200.athena.al/chat.md) |
+| <a id="member-root"></a>root | al | dismissed | claude-fable-5 / claude | 2026-07-16T13:04:20.342312 → 2026-07-16T13:39:43.311740 | 0 | [Prompt](../agents/bbugyi200.athena.al/prompt.md) | [Chat](../agents/bbugyi200.athena.al/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`6a4a47f`](https://github.com/sase-org/sase/commit/6a4a47f94322474395c3d7b80f42fe6c9e0136de) | docs: refresh TUI performance guidance | 2026-07-16 13:38:57 EDT |
+| code | — | `6a4a47f` | docs: refresh TUI performance guidance | 2026-07-16 13:38:57 EDT |
