@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`147090d`](https://github.com/sase-org/sase/commit/147090de1a6cbac42d11c2efa30dbd321c85fa81) | feat(ace): make update check interval configurable | 2026-07-16 10:02:09 EDT |
+| — | `147090d` | feat(ace): make update check interval configurable | 2026-07-16 10:02:09 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [aa](../../sessions/bbugyi200.athena.aa.md) (session · 2) | ancestor | active 1, completed 1 |
-| [aa.f0](../bbugyi200.athena.aa.f0/README.md) | aa hood | waiting |
+| [aa](../../sessions/bbugyi200.athena.aa.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [aa.f0](../bbugyi200.athena.aa.f0/README.md) | aa hood | dismissed |

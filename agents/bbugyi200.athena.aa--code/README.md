@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`138a600`](https://github.com/sase-org/sase/commit/138a600ac36a68141a8719c9c45fc9786f5945a2) | feat(ace): add periodic update checks | 2026-07-16 09:42:30 EDT |
+| — | `138a600` | feat(ace): add periodic update checks | 2026-07-16 09:42:30 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [aa.f0](../bbugyi200.athena.aa.f0/README.md) | descendant | waiting |
-| [aa.f1](../../sessions/bbugyi200.athena.aa.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [aa.f0](../bbugyi200.athena.aa.f0/README.md) | descendant | dismissed |
+| [aa.f1](../../sessions/bbugyi200.athena.aa.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
