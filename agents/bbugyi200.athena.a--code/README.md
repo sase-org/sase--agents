@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`228fc78`](https://github.com/sase-org/sase/commit/228fc78aff339555268d16fee134d208f0991769) | fix(tui): humanize project refs in prompt displays | 2026-07-06 13:31:55 EDT |
+| — | `228fc78` | fix(tui): humanize project refs in prompt displays | 2026-07-06 13:31:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [a.f1](../../sessions/bbugyi200.athena.a.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [a.f1](../../sessions/bbugyi200.athena.a.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

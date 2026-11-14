@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4cce6a4`](https://github.com/sase-org/sase/commit/4cce6a46b099256a59048bae1539a13efc988063) | fix: humanize project-prefixed ChangeSpec names | 2026-07-06 15:21:44 EDT |
+| — | `4cce6a4` | fix: humanize project-prefixed ChangeSpec names | 2026-07-06 15:21:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [a](../../sessions/bbugyi200.athena.a.md) (session · 2) | ancestor | active 1, completed 1 |
+| [a](../../sessions/bbugyi200.athena.a.md) (session · 2) | ancestor | completed 1, dismissed 1 |
