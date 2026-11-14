@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `a8` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["a8 [active]"]
+  n0["a8 [dismissed]"]
   n1["a8--code [completed]"]
   n0 --> n1
 ```
@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | a8 | active | gpt-5.6-sol / codex | 2026-07-16T12:02:19.113759+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.a8/prompt.md) | [Chat](../agents/bbugyi200.athena.a8/chat.md) |
+| <a id="member-root"></a>root | a8 | dismissed | gpt-5.6-sol / codex | 2026-07-16T08:02:19.113759 → 2026-07-16T08:34:16.755209 | 0 | [Prompt](../agents/bbugyi200.athena.a8/prompt.md) | [Chat](../agents/bbugyi200.athena.a8/chat.md) |
 | <a id="member-code"></a>code | a8--code | completed | gpt-5.6-sol / codex | 2026-07-16T12:09:50.004930+00:00 | [1](../agents/bbugyi200.athena.a8--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.a8--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`fac33c7`](https://github.com/sase-org/sase/commit/fac33c7a2f920b86d70ef05774ce4b699c9df7d3) | feat(tui): add on-demand prompt formatting | 2026-07-16 08:34:02 EDT |
+| code | — | `fac33c7` | feat(tui): add on-demand prompt formatting | 2026-07-16 08:34:02 EDT |
 
 ## Neighbors
 
