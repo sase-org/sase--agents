@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0e38edf`](https://github.com/sase-org/sase/commit/0e38edf56bf8fb7266362e95504b5477d7b1864f) | feat(ace): reorder Artifacts subtabs | 2026-07-21 08:23:11 EDT |
+| — | `0e38edf` | feat(ace): reorder Artifacts subtabs | 2026-07-21 08:23:11 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [gr.w0](../bbugyi200.athena.gr.w0/README.md) | descendant | dismissed |
-| [gr.w2](../../sessions/bbugyi200.athena.gr.w2.md) (session · 2) | descendant | active 1, completed 1 |
+| [gr.w2](../../sessions/bbugyi200.athena.gr.w2.md) (session · 2) | descendant | completed 1, dismissed 1 |

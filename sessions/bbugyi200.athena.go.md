@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `go` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["go--plan [active]"]
+  n0["go--plan [dismissed]"]
   n1["go--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | go--plan | active | gpt-5.6-sol / codex | 2026-07-20T21:21:37.650997+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.go--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.go--plan/chat.md) |
+| <a id="member-plan"></a>plan | go--plan | dismissed | gpt-5.6-sol / codex | 2026-07-20T17:21:37.650997 → 2026-07-20T17:47:03.130719 | 0 | [Prompt](../agents/bbugyi200.athena.go--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.go--plan/chat.md) |
 | <a id="member-code"></a>code | go--code | completed | gpt-5.6-sol / codex | 2026-07-20T21:28:23.039699+00:00 | [1](../agents/bbugyi200.athena.go--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.go--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`982e51e`](https://github.com/sase-org/sase/commit/982e51e6b78ff1bf8698ce94b37bd33c6554a2e4) | fix(agent): derive template clan declarations from members | 2026-07-20 17:46:51 EDT |
+| code | — | `982e51e` | fix(agent): derive template clan declarations from members | 2026-07-20 17:46:51 EDT |
