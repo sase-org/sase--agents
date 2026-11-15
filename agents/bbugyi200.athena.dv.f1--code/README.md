@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ff19c80`](https://github.com/sase-org/sase/commit/ff19c80f9b24ff9ca1b08cc91acdc233efbf5a94) | feat(ace): sort clan members by status | 2026-07-18 16:58:45 EDT |
+| — | `ff19c80` | feat(ace): sort clan members by status | 2026-07-18 16:58:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [dv](../../sessions/bbugyi200.athena.dv.md) (session · 2) | ancestor | active 1, completed 1 |
+| [dv](../../sessions/bbugyi200.athena.dv.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [dv.f0](../bbugyi200.athena.dv.f0/README.md) | dv hood | dismissed |

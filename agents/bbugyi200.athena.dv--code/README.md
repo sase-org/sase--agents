@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ec9bdd0`](https://github.com/sase-org/sase/commit/ec9bdd0471ae1dfe3c4eb0d12350be962ffb909e) | fix(ace): restore agent status bucket priority | 2026-07-18 15:57:28 EDT |
+| — | `ec9bdd0` | fix(ace): restore agent status bucket priority | 2026-07-18 15:57:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [dv.f0](../bbugyi200.athena.dv.f0/README.md) | descendant | dismissed |
-| [dv.f1](../../sessions/bbugyi200.athena.dv.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [dv.f1](../../sessions/bbugyi200.athena.dv.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

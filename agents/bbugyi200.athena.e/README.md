@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [e](../../users/bbugyi200/machines/athena/hoods/e/README.md) / [e](../../sessions/bbugyi200.athena.e.md) / e
 
-**Global name:** `bbugyi200.athena.e` · **State:** active · **Source run:** `run-2ca828aacef49a757ecb7ce3b2fb0831`
+**Global name:** `bbugyi200.athena.e` · **State:** dismissed · **Source run:** `run-2ca828aacef49a757ecb7ce3b2fb0831`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** e
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-07-06T17:19:45.582421+00:00
+- Timing: 2026-07-06T13:19:45.582421 → 2026-07-06T13:58:29.633134
 - Commits: [1](#commits)
 
 ## Files
@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8ed98b1`](https://github.com/sase-org/sase/commit/8ed98b1207df9c697ed7ab0086e1e8c490e0671b) | chore: Add SDD prompt and plan for fix\_wait\_time\_countdown\_and\_family\_queue\_deadlock | 2026-07-06 13:36:12 EDT |
+| — | `8ed98b1` | chore: Add SDD prompt and plan for fix\_wait\_time\_countdown\_and\_family\_queue\_deadlock | 2026-07-06 13:36:12 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [e.f1](../../sessions/bbugyi200.athena.e.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [e.f1](../../sessions/bbugyi200.athena.e.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7b53fec`](https://github.com/sase-org/sase/commit/7b53fec4b02faf76ac9cb8a285ab4f8f0ff4dc33) | fix(tui): mirror root wait status from child agents | 2026-07-06 14:25:20 EDT |
+| — | `7b53fec` | fix(tui): mirror root wait status from child agents | 2026-07-06 14:25:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [e](../../sessions/bbugyi200.athena.e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [e](../../sessions/bbugyi200.athena.e.md) (session · 2) | ancestor | completed 1, dismissed 1 |

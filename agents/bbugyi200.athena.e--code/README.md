@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ca4379`](https://github.com/sase-org/sase/commit/5ca4379b7820886390dbac298e2fd366a2587804) | fix: unblock queued family waits | 2026-07-06 13:58:07 EDT |
+| — | `5ca4379` | fix: unblock queued family waits | 2026-07-06 13:58:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [e.f1](../../sessions/bbugyi200.athena.e.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [e.f1](../../sessions/bbugyi200.athena.e.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
