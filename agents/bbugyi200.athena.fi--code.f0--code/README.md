@@ -17,6 +17,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [fi](../../sessions/bbugyi200.athena.fi.md) (session · 2) | ancestor | active 1, completed 1 |
+| [fi](../../sessions/bbugyi200.athena.fi.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [fi.f0](../bbugyi200.athena.fi.f0/README.md) | fi hood | dismissed |
 | [fi.f1](../bbugyi200.athena.fi.f1/README.md) | fi hood | dismissed |

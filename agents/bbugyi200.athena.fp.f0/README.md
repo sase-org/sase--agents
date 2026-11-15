@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [fp](../../users/bbugyi200/machines/athena/hoods/fp/README.md) / fp.f0
 
-**Global name:** `bbugyi200.athena.fp.f0` · **State:** waiting · **Source run:** `run-eafb83335897c5801c30debff795c148`
+**Global name:** `bbugyi200.athena.fp.f0` · **State:** dismissed · **Source run:** `run-eafb83335897c5801c30debff795c148`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** fp
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260719212637
+- Timing: 2026-07-19T21:26:37
 - Commits: 0
 
 ## Files
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [fp](../../sessions/bbugyi200.athena.fp.md) (session · 2) | ancestor | active 1, completed 1 |
-| [fp.f1](../../sessions/bbugyi200.athena.fp.f1.md) (session · 2) | fp hood | active 1, completed 1 |
+| [fp](../../sessions/bbugyi200.athena.fp.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [fp.f1](../../sessions/bbugyi200.athena.fp.f1.md) (session · 2) | fp hood | completed 1, dismissed 1 |

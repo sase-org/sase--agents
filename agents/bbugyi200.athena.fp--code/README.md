@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8256e25`](https://github.com/sase-org/sase/commit/8256e2584648cf54e62f0cf8cf04ae73ee322d7d) | fix(agents): preserve clan tribe across filtered snapshots | 2026-07-19 22:13:07 EDT |
+| — | `8256e25` | fix(agents): preserve clan tribe across filtered snapshots | 2026-07-19 22:13:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [fp.f0](../bbugyi200.athena.fp.f0/README.md) | descendant | waiting |
-| [fp.f1](../../sessions/bbugyi200.athena.fp.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [fp.f0](../bbugyi200.athena.fp.f0/README.md) | descendant | dismissed |
+| [fp.f1](../../sessions/bbugyi200.athena.fp.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

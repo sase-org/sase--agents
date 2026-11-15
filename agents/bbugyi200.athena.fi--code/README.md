@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [fi--code.f0](../../sessions/bbugyi200.athena.fi--code.f0.md) (session · 2) | descendant | active 2 |
+| [fi--code.f0](../../sessions/bbugyi200.athena.fi--code.f0.md) (session · 2) | descendant | active 1, dismissed 1 |
 | [fi.f0](../bbugyi200.athena.fi.f0/README.md) | descendant | dismissed |
 | [fi.f1](../bbugyi200.athena.fi.f1/README.md) | descendant | dismissed |
