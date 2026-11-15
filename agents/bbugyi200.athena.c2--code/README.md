@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4dc5ca6`](https://github.com/sase-org/sase/commit/4dc5ca609890eee56a780793e997709de57de52b) | fix(ace): project parallel family status counts | 2026-07-17 12:09:10 EDT |
+| — | `4dc5ca6` | fix(ace): project parallel family status counts | 2026-07-17 12:09:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [c2.f0](../../sessions/bbugyi200.athena.c2.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [c2.f0](../../sessions/bbugyi200.athena.c2.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

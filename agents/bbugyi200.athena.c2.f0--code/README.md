@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`de9d360`](https://github.com/sase-org/sase/commit/de9d36014a20c6795a557dae1435b4b25fa22471) | fix(tui): count effective agents in headline | 2026-07-17 12:41:49 EDT |
+| — | `de9d360` | fix(tui): count effective agents in headline | 2026-07-17 12:41:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [c2](../../sessions/bbugyi200.athena.c2.md) (session · 2) | ancestor | active 1, completed 1 |
+| [c2](../../sessions/bbugyi200.athena.c2.md) (session · 2) | ancestor | completed 1, dismissed 1 |

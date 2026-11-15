@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`05dc1db`](https://github.com/sase-org/sase/commit/05dc1db089965775e5f20be4dcacda66a60411a4) | fix: contain scrollable update commit previews | 2026-07-17 12:15:15 EDT |
+| — | `05dc1db` | fix: contain scrollable update commit previews | 2026-07-17 12:15:15 EDT |
