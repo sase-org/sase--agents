@@ -30,4 +30,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [g0](../../sessions/bbugyi200.athena.g0.md) (session · 2) | ancestor | active 1, completed 1 |
+| [g0](../../sessions/bbugyi200.athena.g0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
