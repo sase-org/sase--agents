@@ -30,4 +30,4 @@
 |---|---|---|
 | [sase-1sy.1](../bbugyi200.athena.sase-1sy.1/README.md) | sase-1sy hood | completed |
 | [sase-1sy.3](../bbugyi200.athena.sase-1sy.3/README.md) | sase-1sy hood | completed |
-| [sase-1sy.land](../../sessions/bbugyi200.athena.sase-1sy.land.md) (session · 3) | sase-1sy hood | active 2, completed 1 |
+| [sase-1sy.land](../../sessions/bbugyi200.athena.sase-1sy.land.md) (session · 5) | sase-1sy hood | completed 4, failed 1 |
