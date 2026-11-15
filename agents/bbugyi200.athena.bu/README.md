@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bu](../../users/bbugyi200/machines/athena/hoods/bu/README.md) / [bu](../../sessions/bbugyi200.athena.bu.md) / bu
 
-**Global name:** `bbugyi200.athena.bu` · **State:** active · **Source run:** `run-5ca6edf5ec8105767b7cbd8af4d3aafb`
+**Global name:** `bbugyi200.athena.bu` · **State:** dismissed · **Source run:** `run-5ca6edf5ec8105767b7cbd8af4d3aafb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** bu
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-07-17T13:05:10.891985+00:00
+- Timing: 2026-07-17T09:05:10.891985 → 2026-07-17T10:08:47.168561
 - Commits: 0
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bu.w1](../../sessions/bbugyi200.athena.bu.w1.md) (session · 2) | descendant | active 1, completed 1 |
+| [bu.w1](../../sessions/bbugyi200.athena.bu.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |

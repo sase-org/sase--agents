@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d5cf13b`](https://github.com/sase-org/sase/commit/d5cf13b23278165b87b3ed48ff8f9ba1eca27635) | feat(tui): add custom gate command keymaps | 2026-07-17 10:30:00 EDT |
+| — | `d5cf13b` | feat(tui): add custom gate command keymaps | 2026-07-17 10:30:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bu](../../sessions/bbugyi200.athena.bu.md) (session · 2) | ancestor | active 1, completed 1 |
+| [bu](../../sessions/bbugyi200.athena.bu.md) (session · 2) | ancestor | completed 1, dismissed 1 |

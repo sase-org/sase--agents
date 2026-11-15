@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`73e337f`](https://github.com/sase-org/sase/commit/73e337ff271f91ccc4a20c9085a32dc8d1dd10f4) | fix: stop stray sase project from shadowing bead resolution | 2026-09-13 05:45:37 EDT |
+| — | `73e337f` | fix: stop stray sase project from shadowing bead resolution | 2026-09-13 05:45:37 EDT |
 
 ## Neighbors
 
