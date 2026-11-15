@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4u.image
 
-**Global name:** `bbugyi200.apollo.research.4u.image` · **State:** waiting · **Source run:** `run-2c0cf486725221254a66bd5a57476bcf`
+**Global name:** `bbugyi200.apollo.research.4u.image` · **State:** completed · **Source run:** `run-2c0cf486725221254a66bd5a57476bcf`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261115164511
+- Timing: 2026-11-15T22:25:37.555789+00:00 → 2026-11-15T22:35:36.951757+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/agent\_hijack\_dependability/agent\_hijack\_dependability\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261115164511/agent\_hijack\_depend… |
+| `diagrams` | {considered: 13, count: 1, manifest: 202611/agent\_hijack\_dependability/agent\_hijack\_dependability.diagrams.md, source\_ref: file:explicit:da0ced694f50cb61af3a3c79, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/agent_hijack_dependability/agent_hijack_dependability_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261115164511/agent_hijack_dependability_infographic-640c6ad6b25d.png
+  ref: file:explicit:11837bce5d7cd29150009fcd
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/agent_hijack_dependability/agent_hijack_dependability_infographic.png
+- kind: markdown
+  label: diagrams:202611/agent_hijack_dependability/agent_hijack_dependability.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261115164511/agent_hijack_dependability.diagrams-1b00b8dc4bc7.md
+  ref: file:explicit:e24b5781bd8164ce09a52e0f
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/agent_hijack_dependability/agent_hijack_dependability.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 13
+count: 1
+manifest: 202611/agent_hijack_dependability/agent_hijack_dependability.diagrams.md
+source_ref: file:explicit:da0ced694f50cb61af3a3c79
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
