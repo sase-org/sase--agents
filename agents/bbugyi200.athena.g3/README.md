@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1fdde5f`](https://github.com/sase-org/sase/commit/1fdde5fbe05ece60ef272421a3d35546c2da3a91) | feat(ace): show runner capacity in agents header | 2026-07-20 10:19:44 EDT |
+| — | `1fdde5f` | feat(ace): show runner capacity in agents header | 2026-07-20 10:19:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [g3.f0](../../sessions/bbugyi200.athena.g3.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [g3.f0](../../sessions/bbugyi200.athena.g3.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
