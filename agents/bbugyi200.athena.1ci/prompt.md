@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #coder:~/.sase/plans/202611/wait_checks_tick_cost.md %m:gpt-6-astra

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** sase · **Hoods:** 2561 · **Runs:** 16828
+**Project:** sase · **Hoods:** 2562 · **Runs:** 16829
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -752,6 +752,7 @@
 | [1c8](hoods/1c8/README.md) | 5 | 1 | completed 5 |
 | [1ca](hoods/1ca/README.md) | 3 | 1 | completed 3 |
 | [1cc](hoods/1cc/README.md) | 1 | 0 | completed 1 |
+| [1ci](hoods/1ci/README.md) | 1 | 0 | completed 1 |
 | [1d](hoods/1d/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [1f](hoods/1f/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [1h](hoods/1h/README.md) | 2 | 1 | completed 1, dismissed 1 |
@@ -1082,7 +1083,7 @@
 | [bnb](hoods/bnb/README.md) | 1 | 0 | completed 1 |
 | [bnd](hoods/bnd/README.md) | 1 | 0 | completed 1 |
 | [bne](hoods/bne/README.md) | 1 | 0 | completed 1 |
-| [bngrde806zge](hoods/bngrde806zge/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
+| [bngrde806zge](hoods/bngrde806zge/README.md) | 4 | 1 | completed 2, dismissed 1, failed 1 |
 | [bnn](hoods/bnn/README.md) | 1 | 0 | completed 1 |
 | [bno](hoods/bno/README.md) | 1 | 0 | completed 1 |
 | [bnp](hoods/bnp/README.md) | 1 | 0 | completed 1 |
@@ -1100,7 +1101,7 @@
 | [bor](hoods/bor/README.md) | 1 | 0 | completed 1 |
 | [bou](hoods/bou/README.md) | 1 | 0 | completed 1 |
 | [box](hoods/box/README.md) | 1 | 0 | completed 1 |
-| [bp](hoods/bp/README.md) | 2 | 1 | active 1, completed 1 |
+| [bp](hoods/bp/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [bp1](hoods/bp1/README.md) | 1 | 0 | completed 1 |
 | [bp6](hoods/bp6/README.md) | 4 | 0 | completed 4 |
 | [bp8](hoods/bp8/README.md) | 1 | 0 | completed 1 |
@@ -1128,62 +1129,62 @@
 | [bqt](hoods/bqt/README.md) | 1 | 0 | completed 1 |
 | [bqx](hoods/bqx/README.md) | 1 | 0 | completed 1 |
 | [bqz](hoods/bqz/README.md) | 1 | 0 | completed 1 |
-| [br](hoods/br/README.md) | 4 | 2 | active 2, completed 2 |
+| [br](hoods/br/README.md) | 4 | 2 | completed 2, dismissed 2 |
 | [bra](hoods/bra/README.md) | 1 | 0 | completed 1 |
 | [brb](hoods/brb/README.md) | 1 | 0 | completed 1 |
 | [brc](hoods/brc/README.md) | 1 | 0 | completed 1 |
 | [brd](hoods/brd/README.md) | 1 | 0 | completed 1 |
 | [bre](hoods/bre/README.md) | 1 | 0 | completed 1 |
-| [bs](hoods/bs/README.md) | 2 | 1 | active 1, completed 1 |
+| [bs](hoods/bs/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [bt](hoods/bt/README.md) | 3 | 0 | dismissed 3 |
-| [bu](hoods/bu/README.md) | 4 | 2 | active 2, completed 2 |
+| [bu](hoods/bu/README.md) | 4 | 2 | completed 2, dismissed 2 |
 | [bx](hoods/bx/README.md) | 2 | 1 | active 1, completed 1 |
-| [by](hoods/by/README.md) | 2 | 1 | active 1, completed 1 |
-| [c](hoods/c/README.md) | 5 | 1 | active 2, completed 2, failed 1 |
-| [c1](hoods/c1/README.md) | 2 | 1 | active 1, completed 1 |
-| [c2](hoods/c2/README.md) | 4 | 2 | active 2, completed 2 |
-| [c3](hoods/c3/README.md) | 2 | 1 | active 1, completed 1 |
+| [by](hoods/by/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [c](hoods/c/README.md) | 5 | 1 | active 1, completed 2, dismissed 1, failed 1 |
+| [c1](hoods/c1/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [c2](hoods/c2/README.md) | 4 | 2 | completed 2, dismissed 2 |
+| [c3](hoods/c3/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [c8](hoods/c8/README.md) | 1 | 0 | dismissed 1 |
 | [ca](hoods/ca/README.md) | 1 | 0 | dismissed 1 |
 | [cd](hoods/cd/README.md) | 1 | 0 | dismissed 1 |
-| [ce](hoods/ce/README.md) | 2 | 1 | active 1, completed 1 |
-| [cf](hoods/cf/README.md) | 2 | 1 | active 1, completed 1 |
-| [cg](hoods/cg/README.md) | 2 | 1 | active 1, completed 1 |
-| [chop](hoods/chop/README.md) | 229 | 6 | active 136, completed 17, dismissed 29, failed 6, waiting 41 |
-| [ci\_fix](hoods/ci_fix/README.md) | 35 | 0 | active 30, waiting 5 |
-| [cj](hoods/cj/README.md) | 2 | 1 | active 1, completed 1 |
-| [cl](hoods/cl/README.md) | 2 | 1 | active 1, completed 1 |
+| [ce](hoods/ce/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [cf](hoods/cf/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [cg](hoods/cg/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [chop](hoods/chop/README.md) | 229 | 6 | active 1, completed 17, dismissed 203, failed 6, waiting 2 |
+| [ci\_fix](hoods/ci_fix/README.md) | 35 | 0 | dismissed 35 |
+| [cj](hoods/cj/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [cl](hoods/cl/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [claude](hoods/claude/README.md) | 1 | 0 | completed 1 |
 | [claude-code](hoods/claude-code/README.md) | 3 | 0 | completed 3 |
 | [claude-code-host](hoods/claude-code-host/README.md) | 1 | 0 | completed 1 |
 | [codex-root](hoods/codex-root/README.md) | 1 | 0 | completed 1 |
-| [cp](hoods/cp/README.md) | 2 | 1 | active 1, completed 1 |
-| [cu](hoods/cu/README.md) | 2 | 1 | active 1, completed 1 |
-| [cv](hoods/cv/README.md) | 2 | 1 | active 1, completed 1 |
-| [cx](hoods/cx/README.md) | 9 | 3 | active 4, completed 2, dismissed 3 |
-| [cy](hoods/cy/README.md) | 2 | 1 | active 1, completed 1 |
-| [cz](hoods/cz/README.md) | 2 | 1 | active 1, completed 1 |
+| [cp](hoods/cp/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [cu](hoods/cu/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [cv](hoods/cv/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [cx](hoods/cx/README.md) | 9 | 3 | active 1, completed 2, dismissed 6 |
+| [cy](hoods/cy/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [cz](hoods/cz/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [d2](hoods/d2/README.md) | 1 | 0 | dismissed 1 |
-| [d6](hoods/d6/README.md) | 8 | 3 | active 3, completed 3, dismissed 2 |
-| [d7](hoods/d7/README.md) | 15 | 4 | active 4, completed 4, dismissed 5, waiting 2 |
-| [d8](hoods/d8/README.md) | 2 | 1 | active 1, completed 1 |
-| [da](hoods/da/README.md) | 4 | 2 | active 2, completed 2 |
-| [dd](hoods/dd/README.md) | 4 | 2 | active 2, completed 2 |
+| [d6](hoods/d6/README.md) | 8 | 3 | completed 3, dismissed 5 |
+| [d7](hoods/d7/README.md) | 15 | 4 | completed 4, dismissed 11 |
+| [d8](hoods/d8/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [da](hoods/da/README.md) | 4 | 2 | completed 2, dismissed 2 |
+| [dd](hoods/dd/README.md) | 4 | 2 | completed 2, dismissed 2 |
 | [dh](hoods/dh/README.md) | 1 | 0 | dismissed 1 |
-| [dl](hoods/dl/README.md) | 2 | 1 | active 1, completed 1 |
-| [dm](hoods/dm/README.md) | 2 | 1 | active 1, completed 1 |
-| [dn](hoods/dn/README.md) | 2 | 1 | active 1, completed 1 |
-| [dq](hoods/dq/README.md) | 2 | 1 | active 1, completed 1 |
-| [dr](hoods/dr/README.md) | 2 | 1 | active 1, completed 1 |
-| [dv](hoods/dv/README.md) | 5 | 2 | active 2, completed 2, dismissed 1 |
-| [dw](hoods/dw/README.md) | 2 | 1 | active 1, completed 1 |
+| [dl](hoods/dl/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [dm](hoods/dm/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [dn](hoods/dn/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [dq](hoods/dq/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [dr](hoods/dr/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [dv](hoods/dv/README.md) | 5 | 2 | completed 2, dismissed 3 |
+| [dw](hoods/dw/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [dy](hoods/dy/README.md) | 1 | 0 | dismissed 1 |
-| [e](hoods/e/README.md) | 4 | 2 | active 2, completed 2 |
-| [e2](hoods/e2/README.md) | 3 | 1 | active 2, completed 1 |
-| [e3](hoods/e3/README.md) | 2 | 1 | active 1, completed 1 |
-| [e5](hoods/e5/README.md) | 2 | 1 | active 1, completed 1 |
-| [e6](hoods/e6/README.md) | 5 | 2 | active 2, completed 2, failed 1 |
-| [e7](hoods/e7/README.md) | 2 | 1 | active 1, completed 1 |
+| [e](hoods/e/README.md) | 4 | 2 | completed 2, dismissed 2 |
+| [e2](hoods/e2/README.md) | 3 | 1 | active 1, completed 1, dismissed 1 |
+| [e3](hoods/e3/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [e5](hoods/e5/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [e6](hoods/e6/README.md) | 5 | 2 | completed 2, dismissed 2, failed 1 |
+| [e7](hoods/e7/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [e8](hoods/e8/README.md) | 3 | 1 | active 2, dismissed 1 |
 | [e9](hoods/e9/README.md) | 2 | 1 | active 1, completed 1 |
 | [ea](hoods/ea/README.md) | 2 | 1 | active 1, completed 1 |
