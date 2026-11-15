@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [f](../../users/bbugyi200/machines/athena/hoods/f/README.md) / [f](../../sessions/bbugyi200.athena.f.md) / f
 
-**Global name:** `bbugyi200.athena.f` · **State:** active · **Source run:** `run-7820c7d18b20085622a79b933374770c`
+**Global name:** `bbugyi200.athena.f` · **State:** dismissed · **Source run:** `run-7820c7d18b20085622a79b933374770c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** f
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-07-06T17:23:25.622460+00:00
+- Timing: 2026-07-06T13:23:25.622460 → 2026-07-06T13:44:22.597230
 - Commits: [1](#commits)
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9560818`](https://github.com/sase-org/sase/commit/9560818891754e12f4f25a9d34a692f83cf2945f) | chore: Add SDD prompt and plan for tui\_launch\_approval\_dispatch | 2026-07-06 13:32:21 EDT |
+| — | `9560818` | chore: Add SDD prompt and plan for tui\_launch\_approval\_dispatch | 2026-07-06 13:32:21 EDT |

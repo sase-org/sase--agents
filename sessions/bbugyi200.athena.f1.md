@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `f1` · Members: 2
 ```mermaid
 flowchart TD
   n0["f1--code [completed]"]
-  n1["f1--plan [active]"]
+  n1["f1--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,13 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | f1--code | completed | gpt-5.6-sol / codex | 2026-07-19T14:55:55.156521+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.f1--code/chat.md) |
-| <a id="member-plan"></a>plan | f1--plan | active | gpt-5.6-sol / codex | 2026-07-19T14:48:36.291447+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.f1--plan/chat.md) |
+| <a id="member-plan"></a>plan | f1--plan | dismissed | gpt-5.6-sol / codex | 2026-07-19T10:48:36.291447 → 2026-07-19T12:16:25.446417 | 0 | [Prompt](../agents/bbugyi200.athena.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.f1--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`674dd7c`](https://github.com/sase-org/sase/commit/674dd7c68f42f3234c22053495f9e5464bf34963) | feat(ace): fork agent clans and tribes | 2026-07-19 12:15:44 EDT |
+| — | — | `674dd7c` | feat(ace): fork agent clans and tribes | 2026-07-19 12:15:44 EDT |
 
 ## Neighbors
 
