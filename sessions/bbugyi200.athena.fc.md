@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `fc` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["fc--plan [active]"]
+  n0["fc--plan [dismissed]"]
   n1["fc--code [completed]"]
   n0 --> n1
 ```
@@ -17,12 +17,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | fc--plan | active | claude-fable-5 / claude | 2026-07-19T20:11:00.627199+00:00 | [1](../agents/bbugyi200.athena.fc--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.fc--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.fc--plan/chat.md) |
+| <a id="member-plan"></a>plan | fc--plan | dismissed | claude-fable-5 / claude | 2026-07-19T16:11:00.627199 → 2026-07-19T16:43:49.354022 | [1](../agents/bbugyi200.athena.fc--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.fc--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.fc--plan/chat.md) |
 | <a id="member-code"></a>code | fc--code | completed | gpt-5.6-sol / codex | 2026-07-19T20:20:20.596080+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.fc--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | sase | [`f452c6b`](https://github.com/sase-org/sase/commit/f452c6ba36870f87f8b74f9c218b3c6450c57e94) | test: isolate non-lock retry assertion (sase-7n) | 2026-07-19 16:27:59 EDT |
-| — | sase | [`c8d39dc`](https://github.com/sase-org/sase/commit/c8d39dcd9be6197c9868e4b56191d6bb7b558efd) | feat(ace): restore panel layout after isolation | 2026-07-19 16:42:34 EDT |
+| plan | — | `f452c6b` | test: isolate non-lock retry assertion (sase-7n) | 2026-07-19 16:27:59 EDT |
+| — | — | `c8d39dc` | feat(ace): restore panel layout after isolation | 2026-07-19 16:42:34 EDT |
