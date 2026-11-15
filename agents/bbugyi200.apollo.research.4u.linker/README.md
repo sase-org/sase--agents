@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4u.linker
 
-**Global name:** `bbugyi200.apollo.research.4u.linker` · **State:** waiting · **Source run:** `run-4195faa835af02915884dd68110a9cf5`
+**Global name:** `bbugyi200.apollo.research.4u.linker` · **State:** completed · **Source run:** `run-4195faa835af02915884dd68110a9cf5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261115164514
+- Timing: 2026-11-15T22:37:02.470924+00:00 → 2026-11-15T22:47:05.667182+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/agent\_hijack\_dependability/agent\_hijack\_dependability.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261115164514/agent\_hijack\_dependability… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/agent_hijack_dependability/agent_hijack_dependability.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261115164514/agent_hijack_dependability-aedb720ad332.md
+  ref: file:explicit:721e22db0f3f80a13fddefb2
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/agent_hijack_dependability/agent_hijack_dependability.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
