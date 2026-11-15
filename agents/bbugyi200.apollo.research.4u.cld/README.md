@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4u.cld
 
-**Global name:** `bbugyi200.apollo.research.4u.cld` · **State:** active · **Source run:** `run-8bf8cd6c579561d313c7f09c91291ded`
+**Global name:** `bbugyi200.apollo.research.4u.cld` · **State:** completed · **Source run:** `run-8bf8cd6c579561d313c7f09c91291ded`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-15T21:46:33.780443+00:00
+- Timing: 2026-11-15T21:46:33.780443+00:00 → 2026-11-15T22:04:30.543659+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
