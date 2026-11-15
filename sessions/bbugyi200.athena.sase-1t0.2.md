@@ -31,4 +31,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1t0.1](bbugyi200.athena.sase-1t0.1.md) (session · 5) | sase-1t0 hood | completed 4, failed 1 |
-| [sase-1t0.land](../agents/bbugyi200.athena.sase-1t0.land/README.md) | sase-1t0 hood | waiting |
+| [sase-1t0.land](bbugyi200.athena.sase-1t0.land.md) (session · 3) | sase-1t0 hood | completed 3 |
