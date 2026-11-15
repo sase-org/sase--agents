@@ -1597,7 +1597,7 @@
 | [sase-1se](hoods/sase-1se/README.md) | 11 | 1 | completed 9, failed 2 |
 | [sase-1sl](hoods/sase-1sl/README.md) | 29 | 5 | active 1, completed 22, failed 4, waiting 2 |
 | [sase-1ss](hoods/sase-1ss/README.md) | 5 | 1 | completed 5 |
-| [sase-1sy](hoods/sase-1sy/README.md) | 8 | 1 | active 2, completed 4, failed 1, waiting 1 |
+| [sase-1sy](hoods/sase-1sy/README.md) | 8 | 1 | active 1, completed 5, failed 1, waiting 1 |
 | [sase-1t0](hoods/sase-1t0/README.md) | 6 | 2 | active 1, completed 3, failed 1, waiting 1 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |

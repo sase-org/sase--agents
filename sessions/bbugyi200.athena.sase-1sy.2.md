@@ -37,5 +37,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1sy.1](../agents/bbugyi200.athena.sase-1sy.1/README.md) | sase-1sy hood | completed |
-| [sase-1sy.3](../agents/bbugyi200.athena.sase-1sy.3/README.md) | sase-1sy hood | active |
+| [sase-1sy.3](../agents/bbugyi200.athena.sase-1sy.3/README.md) | sase-1sy hood | completed |
 | [sase-1sy.land](../agents/bbugyi200.athena.sase-1sy.land/README.md) | sase-1sy hood | waiting |

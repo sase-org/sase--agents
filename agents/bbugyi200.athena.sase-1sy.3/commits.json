@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-036e5d774bf1c9d0970beab1280ba295"}
+{"commits":[{"committed_at":1794767530,"sha":"0c929393a5b8451eb772a9c18dc0cf7468c1396b","subject":"feat(tui): underline resolved bead IDs with status-tinted prompt mentions"}],"schema_version":2,"source_run_id":"run-036e5d774bf1c9d0970beab1280ba295"}
