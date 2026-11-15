@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`abf5cdc`](https://github.com/sase-org/sase/commit/abf5cdcd51a2d3d40f2f446d4019bedb336aafbc) | feat(ace): add fast navigation to artifact lists | 2026-07-17 09:24:43 EDT |
+| — | `abf5cdc` | feat(ace): add fast navigation to artifact lists | 2026-07-17 09:24:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [br.w0](../../sessions/bbugyi200.athena.br.w0.md) (session · 2) | descendant | active 1, completed 1 |
+| [br.w0](../../sessions/bbugyi200.athena.br.w0.md) (session · 2) | descendant | completed 1, dismissed 1 |
