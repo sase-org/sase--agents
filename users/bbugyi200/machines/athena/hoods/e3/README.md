@@ -2,9 +2,9 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / e3
 
-**Global hood:** `bbugyi200.athena.e3` · **Runs:** 2 · **Sessions:** 1 · **States:** active 1, completed 1
+**Global hood:** `bbugyi200.athena.e3` · **Runs:** 2 · **Sessions:** 1 · **States:** completed 1, dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [e3--plan](../../../../../../sessions/bbugyi200.athena.e3.md#member-plan) | active | claude-fable-5 / claude | 2026-07-18T23:07:48.018327+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.e3--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.e3--plan/prompt.md) |
+| [e3--plan](../../../../../../sessions/bbugyi200.athena.e3.md#member-plan) | dismissed | claude-fable-5 / claude | 2026-07-18T19:07:48.018327 → 2026-07-18T19:25:33.741367 | 0 | [chat](../../../../../../agents/bbugyi200.athena.e3--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.e3--plan/prompt.md) |
 | [e3--code](../../../../../../sessions/bbugyi200.athena.e3.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-18T23:14:04.223029+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.e3--code/chat.md) |

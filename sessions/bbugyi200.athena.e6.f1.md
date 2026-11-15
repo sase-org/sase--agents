@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `e6` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["e6.f1--plan [active]"]
+  n0["e6.f1--plan [dismissed]"]
   n1["e6.f1--code [completed]"]
   n0 --> n1
 ```
@@ -17,18 +17,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | e6.f1--plan | active | gpt-5.6-sol / codex | 2026-07-19T01:03:43.282981+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.e6.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.e6.f1--plan/chat.md) |
+| <a id="member-plan"></a>plan | e6.f1--plan | dismissed | gpt-5.6-sol / codex | 2026-07-18T21:03:43.282981 → 2026-07-18T21:47:18.248629 | 0 | [Prompt](../agents/bbugyi200.athena.e6.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.e6.f1--plan/chat.md) |
 | <a id="member-code"></a>code | e6.f1--code | completed | gpt-5.6-sol / codex | 2026-07-19T01:09:21.807076+00:00 | [1](../agents/bbugyi200.athena.e6.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.e6.f1--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`2267919`](https://github.com/sase-org/sase/commit/2267919394eb8751bc9b7abd80a74326a5ce701e) | fix: reveal collapsed containers during agent jumps | 2026-07-18 21:47:00 EDT |
+| code | — | `2267919` | fix: reveal collapsed containers during agent jumps | 2026-07-18 21:47:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [e6](bbugyi200.athena.e6.md) (session · 2) | ancestor | active 1, completed 1 |
+| [e6](bbugyi200.athena.e6.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [e6.6.verify](../agents/bbugyi200.athena.e6.6.verify/README.md) | e6 hood | failed |

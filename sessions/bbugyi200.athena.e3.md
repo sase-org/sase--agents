@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `e3` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["e3--plan [active]"]
+  n0["e3--plan [dismissed]"]
   n1["e3--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | e3--plan | active | claude-fable-5 / claude | 2026-07-18T23:07:48.018327+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.e3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.e3--plan/chat.md) |
+| <a id="member-plan"></a>plan | e3--plan | dismissed | claude-fable-5 / claude | 2026-07-18T19:07:48.018327 → 2026-07-18T19:25:33.741367 | 0 | [Prompt](../agents/bbugyi200.athena.e3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.e3--plan/chat.md) |
 | <a id="member-code"></a>code | e3--code | completed | gpt-5.6-sol / codex | 2026-07-18T23:14:04.223029+00:00 | [1](../agents/bbugyi200.athena.e3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.e3--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`ad45962`](https://github.com/sase-org/sase/commit/ad4596285d9bf394df688c2e0cd1cb41293dbebb) | fix(memory): avoid redundant init approval requests | 2026-07-18 19:24:57 EDT |
+| code | — | `ad45962` | fix(memory): avoid redundant init approval requests | 2026-07-18 19:24:57 EDT |

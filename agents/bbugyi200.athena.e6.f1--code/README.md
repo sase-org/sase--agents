@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2267919`](https://github.com/sase-org/sase/commit/2267919394eb8751bc9b7abd80a74326a5ce701e) | fix: reveal collapsed containers during agent jumps | 2026-07-18 21:47:00 EDT |
+| — | `2267919` | fix: reveal collapsed containers during agent jumps | 2026-07-18 21:47:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [e6](../../sessions/bbugyi200.athena.e6.md) (session · 2) | ancestor | active 1, completed 1 |
+| [e6](../../sessions/bbugyi200.athena.e6.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [e6.6.verify](../bbugyi200.athena.e6.6.verify/README.md) | e6 hood | failed |

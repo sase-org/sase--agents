@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [e6.6.verify](../bbugyi200.athena.e6.6.verify/README.md) | descendant | failed |
-| [e6.f1](../../sessions/bbugyi200.athena.e6.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [e6.f1](../../sessions/bbugyi200.athena.e6.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
