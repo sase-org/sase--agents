@@ -1211,11 +1211,11 @@
 | [fc](hoods/fc/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [fd](hoods/fd/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [ff](hoods/ff/README.md) | 2 | 1 | completed 1, dismissed 1 |
-| [fg](hoods/fg/README.md) | 2 | 1 | active 1, completed 1 |
-| [fi](hoods/fi/README.md) | 6 | 2 | active 3, completed 1, dismissed 2 |
-| [fo](hoods/fo/README.md) | 2 | 1 | active 1, completed 1 |
-| [fp](hoods/fp/README.md) | 5 | 2 | active 2, completed 2, waiting 1 |
-| [fr](hoods/fr/README.md) | 2 | 1 | active 1, completed 1 |
+| [fg](hoods/fg/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [fi](hoods/fi/README.md) | 6 | 2 | active 1, completed 1, dismissed 4 |
+| [fo](hoods/fo/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [fp](hoods/fp/README.md) | 5 | 2 | completed 2, dismissed 3 |
+| [fr](hoods/fr/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [fs](hoods/fs/README.md) | 1 | 0 | dismissed 1 |
 | [ft](hoods/ft/README.md) | 2 | 1 | active 1, completed 1 |
 | [g](hoods/g/README.md) | 5 | 1 | active 2, dismissed 3 |
