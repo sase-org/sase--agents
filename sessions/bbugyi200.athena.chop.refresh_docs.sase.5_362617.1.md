@@ -11,7 +11,7 @@ flowchart TD
   n0["chop.refresh_docs.sase.5_362617.1--1 [completed]"]
   n1["chop.refresh_docs.sase.5_362617.1--mon [failed]"]
   n0 --> n1
-  n2["chop.refresh_docs.sase.5_362617.1--0 [active]"]
+  n2["chop.refresh_docs.sase.5_362617.1--0 [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | chop.refresh\_docs.sase.5\_362617.1--1 | completed | gpt-5.6-sol / codex | 2026-09-12T09:21:23.645372+00:00 → 2026-09-12T09:28:41.869201+00:00 | [1](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_362617.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_362617.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_362617.1--1/chat.md) |
 | <a id="member-mon"></a>mon | chop.refresh\_docs.sase.5\_362617.1--mon | failed | gpt-5.6-sol / codex | 2026-09-12T09:15:28.980147+00:00 → 2026-09-12T09:21:23.740233+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_362617.1--mon/chat.md) |
-| <a id="member-0"></a>0 | chop.refresh\_docs.sase.5\_362617.1--0 | active | gpt-5.6-sol / codex | 2026-09-12T08:12:12.698718+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_362617.1--0/prompt.md) | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_362617.1--0/chat.md) |
+| <a id="member-0"></a>0 | chop.refresh\_docs.sase.5\_362617.1--0 | dismissed | gpt-5.6-sol / codex | 2026-09-12T04:12:12.698718 → 2026-09-12T05:16:09.641883 | 0 | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_362617.1--0/prompt.md) | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_362617.1--0/chat.md) |
 
 ## Commits
 
@@ -40,14 +40,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.sase.0\_275201.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_275201.2/README.md) | chop.refresh\_docs.sase hood | completed |
 | [chop.refresh\_docs.sase.0\_289632.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_289632.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.0\_289632.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_289632.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
-| [chop.refresh\_docs.sase.0\_303436.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_303436.1/README.md) | chop.refresh\_docs.sase hood | waiting |
-| [chop.refresh\_docs.sase.0\_303436.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_303436.2/README.md) | chop.refresh\_docs.sase hood | waiting |
+| [chop.refresh\_docs.sase.0\_303436.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_303436.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
+| [chop.refresh\_docs.sase.0\_303436.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_303436.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.0\_456044.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
-| [chop.refresh\_docs.sase.0\_456044.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.2/README.md) | chop.refresh\_docs.sase hood | active |
+| [chop.refresh\_docs.sase.0\_456044.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.0\_632854.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_632854.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.0\_632854.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_632854.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.0\_740675.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_740675.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
-| [chop.refresh\_docs.sase.0\_740675.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_740675.2/README.md) | chop.refresh\_docs.sase hood | active |
+| [chop.refresh\_docs.sase.0\_740675.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_740675.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.0\_753955.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_753955.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.0\_753955.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_753955.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.0\_772617.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_772617.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
@@ -61,12 +61,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.sase.1\_036535.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_036535.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_097674.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_097674.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_097674.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_097674.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
-| [chop.refresh\_docs.sase.1\_212090.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_212090.1/README.md) | chop.refresh\_docs.sase hood | active |
-| [chop.refresh\_docs.sase.1\_212090.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_212090.2/README.md) | chop.refresh\_docs.sase hood | active |
+| [chop.refresh\_docs.sase.1\_212090.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_212090.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
+| [chop.refresh\_docs.sase.1\_212090.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_212090.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_232033.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_232033.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_232033.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_232033.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_363178.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_363178.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
-| [chop.refresh\_docs.sase.1\_363178.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_363178.2/README.md) | chop.refresh\_docs.sase hood | active |
+| [chop.refresh\_docs.sase.1\_363178.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_363178.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_365885.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_365885.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_365885.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_365885.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_429681.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_429681.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
@@ -80,7 +80,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.sase.1\_707690.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_707690.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_707690.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_707690.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_824549.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.1_824549.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
-| [chop.refresh\_docs.sase.1\_824549.2](bbugyi200.athena.chop.refresh_docs.sase.1_824549.2.md) (session · 5) | chop.refresh\_docs.sase hood | active 1, completed 2, failed 2 |
+| [chop.refresh\_docs.sase.1\_824549.2](bbugyi200.athena.chop.refresh_docs.sase.1_824549.2.md) (session · 5) | chop.refresh\_docs.sase hood | completed 2, dismissed 1, failed 2 |
 | [chop.refresh\_docs.sase.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.2\_125531.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.2_125531.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.2\_125531.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.2_125531.2/README.md) | chop.refresh\_docs.sase hood | dismissed |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `cl` · Members: 2
 ```mermaid
 flowchart TD
   n0["cl--code [completed]"]
-  n1["cl [active]"]
+  n1["cl [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | cl--code | completed | gpt-5.6-sol / codex | 2026-07-17T21:43:32.469452+00:00 | [1](../agents/bbugyi200.athena.cl--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.cl--code/chat.md) |
-| <a id="member-root"></a>root | cl | active | gpt-5.6-sol / codex | 2026-07-17T21:40:43.905049+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.cl/prompt.md) | [Chat](../agents/bbugyi200.athena.cl/chat.md) |
+| <a id="member-root"></a>root | cl | dismissed | gpt-5.6-sol / codex | 2026-07-17T17:40:43.905049 → 2026-07-17T17:57:56.696186 | 0 | [Prompt](../agents/bbugyi200.athena.cl/prompt.md) | [Chat](../agents/bbugyi200.athena.cl/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f18fcfa`](https://github.com/sase-org/sase/commit/f18fcfae17f30b07c5d9dae46b3192ceff42f028) | feat(ace): compact phase bead identity header | 2026-07-17 17:57:40 EDT |
+| code | — | `f18fcfa` | feat(ace): compact phase bead identity header | 2026-07-17 17:57:40 EDT |
