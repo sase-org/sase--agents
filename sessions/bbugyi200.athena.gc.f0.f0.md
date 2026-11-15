@@ -24,11 +24,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`145f287`](https://github.com/sase-org/sase/commit/145f2876e8013faa2fc3f7aa8fb48ef2f76ed4cc) | feat(ace): resume last Admin Center section | 2026-07-20 14:07:02 EDT |
+| code | — | `145f287` | feat(ace): resume last Admin Center section | 2026-07-20 14:07:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [gc.f0](bbugyi200.athena.gc.f0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [gc](bbugyi200.athena.gc.md) (session · 2) | ancestor | active 1, completed 1 |
+| [gc.f0](bbugyi200.athena.gc.f0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [gc](bbugyi200.athena.gc.md) (session · 2) | ancestor | completed 1, dismissed 1 |

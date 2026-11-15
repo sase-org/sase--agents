@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`46c3a9f`](https://github.com/sase-org/sase/commit/46c3a9fdd308314f9450bcc31a550144fbffcdf4) | feat(ace): polish Admin Center landing | 2026-07-20 13:24:05 EDT |
+| — | `46c3a9f` | feat(ace): polish Admin Center landing | 2026-07-20 13:24:05 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [gc](../../sessions/bbugyi200.athena.gc.md) (session · 2) | ancestor | active 1, completed 1 |
+| [gc](../../sessions/bbugyi200.athena.gc.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [gc.f0.f0](../../sessions/bbugyi200.athena.gc.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |

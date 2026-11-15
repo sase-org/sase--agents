@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `gc` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["gc.f0--plan [active]"]
+  n0["gc.f0--plan [dismissed]"]
   n1["gc.f0--code [completed]"]
   n0 --> n1
 ```
@@ -17,18 +17,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | gc.f0--plan | active | claude-fable-5 / claude | 2026-07-20T16:50:00.371096+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.gc.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.gc.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | gc.f0--plan | dismissed | claude-fable-5 / claude | 2026-07-20T12:50:00.371096 → 2026-07-20T13:24:20.546705 | 0 | [Prompt](../agents/bbugyi200.athena.gc.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.gc.f0--plan/chat.md) |
 | <a id="member-code"></a>code | gc.f0--code | completed | gpt-5.6-sol / codex | 2026-07-20T17:02:40.882439+00:00 | [1](../agents/bbugyi200.athena.gc.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.gc.f0--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`46c3a9f`](https://github.com/sase-org/sase/commit/46c3a9fdd308314f9450bcc31a550144fbffcdf4) | feat(ace): polish Admin Center landing | 2026-07-20 13:24:05 EDT |
+| code | — | `46c3a9f` | feat(ace): polish Admin Center landing | 2026-07-20 13:24:05 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [gc](bbugyi200.athena.gc.md) (session · 2) | ancestor | active 1, completed 1 |
+| [gc](bbugyi200.athena.gc.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [gc.f0.f0](bbugyi200.athena.gc.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |

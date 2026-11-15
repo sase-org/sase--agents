@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `ge` · Members: 2
 ```mermaid
 flowchart TD
   n0["ge--code [completed]"]
-  n1["ge--plan [active]"]
+  n1["ge--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | ge--code | completed | gpt-5.6-sol / codex | 2026-07-20T16:46:23.959059+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.ge--code/chat.md) |
-| <a id="member-plan"></a>plan | ge--plan | active | gpt-5.6-sol / codex | 2026-07-20T16:36:07.354256+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ge--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ge--plan/chat.md) |
+| <a id="member-plan"></a>plan | ge--plan | dismissed | gpt-5.6-sol / codex | 2026-07-20T12:36:07.354256 → 2026-07-20T13:05:05.203300 | 0 | [Prompt](../agents/bbugyi200.athena.ge--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ge--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`4b083e8`](https://github.com/sase-org/sase/commit/4b083e8332f2f2c82439b441294c76cd14c3243d) | feat(stats): show concise range summary | 2026-07-20 13:04:35 EDT |
+| — | — | `4b083e8` | feat(stats): show concise range summary | 2026-07-20 13:04:35 EDT |
