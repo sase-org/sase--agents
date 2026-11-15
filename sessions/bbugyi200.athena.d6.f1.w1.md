@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `d6` · Members: 2
 ```mermaid
 flowchart TD
   n0["d6.f1.w1--code [completed]"]
-  n1["d6.f1.w1--plan-0 [active]"]
+  n1["d6.f1.w1--plan-0 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,19 +18,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | d6.f1.w1--code | completed | gpt-5.6-sol / codex | 2026-07-18T12:41:46.398420+00:00 | [1](../agents/bbugyi200.athena.d6.f1.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.d6.f1.w1--code/chat.md) |
-| <a id="member-plan-0"></a>plan-0 | d6.f1.w1--plan-0 | active | gpt-5.6-sol / codex | 2026-07-18T12:35:20.747518+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.d6.f1.w1--plan-0/prompt.md) | [Chat](../agents/bbugyi200.athena.d6.f1.w1--plan-0/chat.md) |
+| <a id="member-plan-0"></a>plan-0 | d6.f1.w1--plan-0 | dismissed | gpt-5.6-sol / codex | 2026-07-18T08:35:20.747518 → 2026-07-18T09:10:53.065246 | 0 | [Prompt](../agents/bbugyi200.athena.d6.f1.w1--plan-0/prompt.md) | [Chat](../agents/bbugyi200.athena.d6.f1.w1--plan-0/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`005f431`](https://github.com/sase-org/sase/commit/005f431eb8e50c8ea187145d6c9eeb612ba32b88) | feat(gates)!: add canonical primary branch submission | 2026-07-18 09:10:32 EDT |
+| code | — | `005f431` | feat(gates)!: add canonical primary branch submission | 2026-07-18 09:10:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [d6.f1](bbugyi200.athena.d6.f1.md) (session · 2) | ancestor | active 1, completed 1 |
+| [d6.f1](bbugyi200.athena.d6.f1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [d6](../agents/bbugyi200.athena.d6/README.md) | ancestor | dismissed |
 | [d6.f1.f0](../agents/bbugyi200.athena.d6.f1.f0/README.md) | d6.f1 hood | dismissed |
-| [d6.f0](bbugyi200.athena.d6.f0.md) (session · 2) | d6 hood | active 1, completed 1 |
+| [d6.f0](bbugyi200.athena.d6.f0.md) (session · 2) | d6 hood | completed 1, dismissed 1 |

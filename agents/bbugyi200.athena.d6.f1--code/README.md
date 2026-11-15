@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc09732`](https://github.com/sase-org/sase/commit/dc09732399aa651f54579f753c9234b08c6d66d9) | fix: label tale plan submit action | 2026-07-18 08:35:01 EDT |
+| — | `dc09732` | fix: label tale plan submit action | 2026-07-18 08:35:01 EDT |
 
 ## Neighbors
 
@@ -29,5 +29,5 @@
 |---|---|---|
 | [d6](../bbugyi200.athena.d6/README.md) | ancestor | dismissed |
 | [d6.f1.f0](../bbugyi200.athena.d6.f1.f0/README.md) | descendant | dismissed |
-| [d6.f1.w1](../../sessions/bbugyi200.athena.d6.f1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [d6.f0](../../sessions/bbugyi200.athena.d6.f0.md) (session · 2) | d6 hood | active 1, completed 1 |
+| [d6.f1.w1](../../sessions/bbugyi200.athena.d6.f1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [d6.f0](../../sessions/bbugyi200.athena.d6.f0.md) (session · 2) | d6 hood | completed 1, dismissed 1 |

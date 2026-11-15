@@ -21,19 +21,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fd31c86`](https://github.com/sase-org/sase/commit/fd31c8691584969cb53ee7757d4eade5ed940aba) | feat(ace): navigate unread agents in collapsed clans | 2026-07-18 08:07:27 EDT |
+| — | `fd31c86` | feat(ace): navigate unread agents in collapsed clans | 2026-07-18 08:07:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [d7.w0.f0](../bbugyi200.athena.d7.w0.f0/README.md) | descendant | waiting |
+| [d7.w0.f0](../bbugyi200.athena.d7.w0.f0/README.md) | descendant | dismissed |
 | [d7.w0.w0](../bbugyi200.athena.d7.w0.w0/README.md) | descendant | dismissed |
-| [d7.w1](../../sessions/bbugyi200.athena.d7.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [d7.w1.f0.w0](../bbugyi200.athena.d7.w1.f0.w0/README.md) | descendant | waiting |
-| [d7.w1.f1](../../sessions/bbugyi200.athena.d7.w1.f1.md) (session · 2) | descendant | active 1, completed 1 |
-| [d7.w1.f1.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [d7.w1.f1.f0.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [d7.w1](../../sessions/bbugyi200.athena.d7.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [d7.w1.f0.w0](../bbugyi200.athena.d7.w1.f0.w0/README.md) | descendant | dismissed |
+| [d7.w1.f1](../../sessions/bbugyi200.athena.d7.w1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [d7.w1.f1.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [d7.w1.f1.f0.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [d7.w1.f1.f0.f0.f0](../bbugyi200.athena.d7.w1.f1.f0.f0.f0/README.md) | descendant | dismissed |
 | [d7.w1.f1.f0.f1](../bbugyi200.athena.d7.w1.f1.f0.f1/README.md) | descendant | dismissed |
 | [d7.w1.f1.w0](../bbugyi200.athena.d7.w1.f1.w0/README.md) | descendant | dismissed |

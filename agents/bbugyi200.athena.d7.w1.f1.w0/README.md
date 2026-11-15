@@ -21,19 +21,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc1a166`](https://github.com/sase-org/sase/commit/cc1a166781b83518a4a0f78967e9fcdd8b97acdd) | fix(init): wrap inline code spans atomically in memory shims | 2026-07-18 09:50:16 EDT |
+| — | `cc1a166` | fix(init): wrap inline code spans atomically in memory shims | 2026-07-18 09:50:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [d7.w1.f1](../../sessions/bbugyi200.athena.d7.w1.f1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [d7.w1](../../sessions/bbugyi200.athena.d7.w1.md) (session · 2) | ancestor | active 1, completed 1 |
+| [d7.w1.f1](../../sessions/bbugyi200.athena.d7.w1.f1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [d7.w1](../../sessions/bbugyi200.athena.d7.w1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [d7](../bbugyi200.athena.d7/README.md) | ancestor | dismissed |
-| [d7.w1.f1.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.md) (session · 2) | d7.w1.f1 hood | active 1, completed 1 |
-| [d7.w1.f1.f0.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.f0.md) (session · 2) | d7.w1.f1 hood | active 1, completed 1 |
+| [d7.w1.f1.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.md) (session · 2) | d7.w1.f1 hood | completed 1, dismissed 1 |
+| [d7.w1.f1.f0.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.f0.md) (session · 2) | d7.w1.f1 hood | completed 1, dismissed 1 |
 | [d7.w1.f1.f0.f0.f0](../bbugyi200.athena.d7.w1.f1.f0.f0.f0/README.md) | d7.w1.f1 hood | dismissed |
 | [d7.w1.f1.f0.f1](../bbugyi200.athena.d7.w1.f1.f0.f1/README.md) | d7.w1.f1 hood | dismissed |
-| [d7.w1.f0.w0](../bbugyi200.athena.d7.w1.f0.w0/README.md) | d7.w1 hood | waiting |
-| [d7.w0.f0](../bbugyi200.athena.d7.w0.f0/README.md) | d7 hood | waiting |
+| [d7.w1.f0.w0](../bbugyi200.athena.d7.w1.f0.w0/README.md) | d7.w1 hood | dismissed |
+| [d7.w0.f0](../bbugyi200.athena.d7.w0.f0/README.md) | d7 hood | dismissed |
 | [d7.w0.w0](../bbugyi200.athena.d7.w0.w0/README.md) | d7 hood | dismissed |

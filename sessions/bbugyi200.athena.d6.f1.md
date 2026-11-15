@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `d6` · Members: 2
 ```mermaid
 flowchart TD
   n0["d6.f1--code [completed]"]
-  n1["d6.f1--plan-0 [active]"]
+  n1["d6.f1--plan-0 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,13 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | d6.f1--code | completed | gpt-5.6-sol / codex | 2026-07-18T12:23:20.918028+00:00 | [1](../agents/bbugyi200.athena.d6.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.d6.f1--code/chat.md) |
-| <a id="member-plan-0"></a>plan-0 | d6.f1--plan-0 | active | gpt-5.6-sol / codex | 2026-07-18T12:20:02.224463+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.d6.f1--plan-0/prompt.md) | [Chat](../agents/bbugyi200.athena.d6.f1--plan-0/chat.md) |
+| <a id="member-plan-0"></a>plan-0 | d6.f1--plan-0 | dismissed | gpt-5.6-sol / codex | 2026-07-18T08:20:02.224463 → 2026-07-18T08:35:15.543990 | 0 | [Prompt](../agents/bbugyi200.athena.d6.f1--plan-0/prompt.md) | [Chat](../agents/bbugyi200.athena.d6.f1--plan-0/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`dc09732`](https://github.com/sase-org/sase/commit/dc09732399aa651f54579f753c9234b08c6d66d9) | fix: label tale plan submit action | 2026-07-18 08:35:01 EDT |
+| code | — | `dc09732` | fix: label tale plan submit action | 2026-07-18 08:35:01 EDT |
 
 ## Neighbors
 
@@ -32,5 +32,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [d6](../agents/bbugyi200.athena.d6/README.md) | ancestor | dismissed |
 | [d6.f1.f0](../agents/bbugyi200.athena.d6.f1.f0/README.md) | descendant | dismissed |
-| [d6.f1.w1](bbugyi200.athena.d6.f1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [d6.f0](bbugyi200.athena.d6.f0.md) (session · 2) | d6 hood | active 1, completed 1 |
+| [d6.f1.w1](bbugyi200.athena.d6.f1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [d6.f0](bbugyi200.athena.d6.f0.md) (session · 2) | d6 hood | completed 1, dismissed 1 |

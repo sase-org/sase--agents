@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60d2960`](https://github.com/sase-org/sase/commit/60d29600174e9dbe5e7c101efd7800bf1f7bca0a) | fix(plan-gate): label epic approval action as Epic | 2026-07-18 07:54:34 EDT |
+| — | `60d2960` | fix(plan-gate): label epic approval action as Epic | 2026-07-18 07:54:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [d6](../bbugyi200.athena.d6/README.md) | ancestor | dismissed |
-| [d6.f1](../../sessions/bbugyi200.athena.d6.f1.md) (session · 2) | d6 hood | active 1, completed 1 |
+| [d6.f1](../../sessions/bbugyi200.athena.d6.f1.md) (session · 2) | d6 hood | completed 1, dismissed 1 |
 | [d6.f1.f0](../bbugyi200.athena.d6.f1.f0/README.md) | d6 hood | dismissed |
-| [d6.f1.w1](../../sessions/bbugyi200.athena.d6.f1.w1.md) (session · 2) | d6 hood | active 1, completed 1 |
+| [d6.f1.w1](../../sessions/bbugyi200.athena.d6.f1.w1.md) (session · 2) | d6 hood | completed 1, dismissed 1 |

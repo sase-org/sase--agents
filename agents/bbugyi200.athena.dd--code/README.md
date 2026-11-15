@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6fd595d`](https://github.com/sase-org/sase/commit/6fd595daac75ab88e60d84a041a3c8c52fb43f43) | feat(ace): label primary gate footer action | 2026-07-18 10:32:59 EDT |
+| — | `6fd595d` | feat(ace): label primary gate footer action | 2026-07-18 10:32:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [dd.f1](../../sessions/bbugyi200.athena.dd.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [dd.f1](../../sessions/bbugyi200.athena.dd.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

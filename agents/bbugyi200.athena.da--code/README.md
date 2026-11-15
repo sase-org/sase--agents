@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2ac99da`](https://github.com/sase-org/sase/commit/2ac99dab516508ae27d12fe22ebd1f292b5ce1be) | feat(ace)!: add Ctrl+X xprompt snippet chord | 2026-07-18 08:37:20 EDT |
+| — | `2ac99da` | feat(ace)!: add Ctrl+X xprompt snippet chord | 2026-07-18 08:37:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [da.f1](../../sessions/bbugyi200.athena.da.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [da.f1](../../sessions/bbugyi200.athena.da.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

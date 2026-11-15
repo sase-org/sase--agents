@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d68b0a4`](https://github.com/sase-org/sase/commit/d68b0a461f8dd963b5506136e10700c7cb7b3994) | fix(ace): keep saved snippets live in prompt catalog | 2026-07-18 09:16:13 EDT |
+| — | `d68b0a4` | fix(ace): keep saved snippets live in prompt catalog | 2026-07-18 09:16:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [da](../../sessions/bbugyi200.athena.da.md) (session · 2) | ancestor | active 1, completed 1 |
+| [da](../../sessions/bbugyi200.athena.da.md) (session · 2) | ancestor | completed 1, dismissed 1 |

@@ -18,12 +18,12 @@
 | Agent | Relation | State |
 |---|---|---|
 | [d7](../bbugyi200.athena.d7/README.md) | ancestor | dismissed |
-| [d7.w0.f0](../bbugyi200.athena.d7.w0.f0/README.md) | d7.w0 hood | waiting |
-| [d7.w1](../../sessions/bbugyi200.athena.d7.w1.md) (session · 2) | d7 hood | active 1, completed 1 |
-| [d7.w1.f0.w0](../bbugyi200.athena.d7.w1.f0.w0/README.md) | d7 hood | waiting |
-| [d7.w1.f1](../../sessions/bbugyi200.athena.d7.w1.f1.md) (session · 2) | d7 hood | active 1, completed 1 |
-| [d7.w1.f1.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.md) (session · 2) | d7 hood | active 1, completed 1 |
-| [d7.w1.f1.f0.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.f0.md) (session · 2) | d7 hood | active 1, completed 1 |
+| [d7.w0.f0](../bbugyi200.athena.d7.w0.f0/README.md) | d7.w0 hood | dismissed |
+| [d7.w1](../../sessions/bbugyi200.athena.d7.w1.md) (session · 2) | d7 hood | completed 1, dismissed 1 |
+| [d7.w1.f0.w0](../bbugyi200.athena.d7.w1.f0.w0/README.md) | d7 hood | dismissed |
+| [d7.w1.f1](../../sessions/bbugyi200.athena.d7.w1.f1.md) (session · 2) | d7 hood | completed 1, dismissed 1 |
+| [d7.w1.f1.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.md) (session · 2) | d7 hood | completed 1, dismissed 1 |
+| [d7.w1.f1.f0.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.f0.md) (session · 2) | d7 hood | completed 1, dismissed 1 |
 | [d7.w1.f1.f0.f0.f0](../bbugyi200.athena.d7.w1.f1.f0.f0.f0/README.md) | d7 hood | dismissed |
 | [d7.w1.f1.f0.f1](../bbugyi200.athena.d7.w1.f1.f0.f1/README.md) | d7 hood | dismissed |
 | [d7.w1.f1.w0](../bbugyi200.athena.d7.w1.f1.w0/README.md) | d7 hood | dismissed |

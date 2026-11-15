@@ -21,19 +21,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4c20b1b`](https://github.com/sase-org/sase/commit/4c20b1bdb1d62ceea0c52532cff6691e9c198b23) | feat(ace): distinguish agent family rows | 2026-07-18 09:30:43 EDT |
+| — | `4c20b1b` | feat(ace): distinguish agent family rows | 2026-07-18 09:30:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [d7.w1](../../sessions/bbugyi200.athena.d7.w1.md) (session · 2) | ancestor | active 1, completed 1 |
+| [d7.w1](../../sessions/bbugyi200.athena.d7.w1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [d7](../bbugyi200.athena.d7/README.md) | ancestor | dismissed |
-| [d7.w1.f1.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [d7.w1.f1.f0.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [d7.w1.f1.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [d7.w1.f1.f0.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [d7.w1.f1.f0.f0.f0](../bbugyi200.athena.d7.w1.f1.f0.f0.f0/README.md) | descendant | dismissed |
 | [d7.w1.f1.f0.f1](../bbugyi200.athena.d7.w1.f1.f0.f1/README.md) | descendant | dismissed |
 | [d7.w1.f1.w0](../bbugyi200.athena.d7.w1.f1.w0/README.md) | descendant | dismissed |
-| [d7.w1.f0.w0](../bbugyi200.athena.d7.w1.f0.w0/README.md) | d7.w1 hood | waiting |
-| [d7.w0.f0](../bbugyi200.athena.d7.w0.f0/README.md) | d7 hood | waiting |
+| [d7.w1.f0.w0](../bbugyi200.athena.d7.w1.f0.w0/README.md) | d7.w1 hood | dismissed |
+| [d7.w0.f0](../bbugyi200.athena.d7.w0.f0/README.md) | d7 hood | dismissed |
 | [d7.w0.w0](../bbugyi200.athena.d7.w0.w0/README.md) | d7 hood | dismissed |

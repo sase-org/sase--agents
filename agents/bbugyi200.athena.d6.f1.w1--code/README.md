@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`005f431`](https://github.com/sase-org/sase/commit/005f431eb8e50c8ea187145d6c9eeb612ba32b88) | feat(gates)!: add canonical primary branch submission | 2026-07-18 09:10:32 EDT |
+| — | `005f431` | feat(gates)!: add canonical primary branch submission | 2026-07-18 09:10:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [d6.f1](../../sessions/bbugyi200.athena.d6.f1.md) (session · 2) | ancestor | active 1, completed 1 |
+| [d6.f1](../../sessions/bbugyi200.athena.d6.f1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [d6](../bbugyi200.athena.d6/README.md) | ancestor | dismissed |
 | [d6.f1.f0](../bbugyi200.athena.d6.f1.f0/README.md) | d6.f1 hood | dismissed |
-| [d6.f0](../../sessions/bbugyi200.athena.d6.f0.md) (session · 2) | d6 hood | active 1, completed 1 |
+| [d6.f0](../../sessions/bbugyi200.athena.d6.f0.md) (session · 2) | d6 hood | completed 1, dismissed 1 |
