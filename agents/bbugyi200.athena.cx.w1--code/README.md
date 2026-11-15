@@ -17,8 +17,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [cx](../../sessions/bbugyi200.athena.cx.md) (session · 2) | ancestor | active 1, completed 1 |
-| [cx.f0](../../sessions/bbugyi200.athena.cx.f0.md) (session · 2) | cx hood | active 1, completed 1 |
+| [cx](../../sessions/bbugyi200.athena.cx.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [cx.f0](../../sessions/bbugyi200.athena.cx.f0.md) (session · 2) | cx hood | completed 1, dismissed 1 |
 | [cx.w0.w0](../bbugyi200.athena.cx.w0.w0/README.md) | cx hood | dismissed |
 | [cx.w0.w1.w0](../bbugyi200.athena.cx.w0.w1.w0/README.md) | cx hood | dismissed |
 | [cx.w0.w2](../bbugyi200.athena.cx.w0.w2/README.md) | cx hood | dismissed |

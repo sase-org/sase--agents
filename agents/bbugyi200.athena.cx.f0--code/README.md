@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d849d62`](https://github.com/sase-org/sase/commit/d849d628bf0ac28c000e489fcd6e5074c860fbc0) | fix(ace): keep agent subtrees in outer grouping | 2026-07-18 08:19:44 EDT |
+| — | `d849d62` | fix(ace): keep agent subtrees in outer grouping | 2026-07-18 08:19:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [cx](../../sessions/bbugyi200.athena.cx.md) (session · 2) | ancestor | active 1, completed 1 |
+| [cx](../../sessions/bbugyi200.athena.cx.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [cx.w0.w0](../bbugyi200.athena.cx.w0.w0/README.md) | cx hood | dismissed |
 | [cx.w0.w1.w0](../bbugyi200.athena.cx.w0.w1.w0/README.md) | cx hood | dismissed |
 | [cx.w0.w2](../bbugyi200.athena.cx.w0.w2/README.md) | cx hood | dismissed |
-| [cx.w1](../../sessions/bbugyi200.athena.cx.w1.md) (session · 2) | cx hood | active 2 |
+| [cx.w1](../../sessions/bbugyi200.athena.cx.w1.md) (session · 2) | cx hood | active 1, dismissed 1 |
