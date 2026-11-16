@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-839a6d315cecc1ed1eab5ce3f74b3394"}
+{"commits":[{"committed_at":1794800117,"sha":"bd99aba1c871134b1b7e2c0935d7c0cdf7ce851f","subject":"fix(hijack): preserve runner boot meta and read real model facts"},{"committed_at":1794800259,"sha":"e2ae4f2252d3f3162a67364239089be59f8361c7","subject":"test(models-panel): wait for alias rows before reset highlight"}],"schema_version":2,"source_run_id":"run-839a6d315cecc1ed1eab5ce3f74b3394"}

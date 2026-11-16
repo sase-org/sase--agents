@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.2
 
-**Global name:** `bbugyi200.athena.sase-1t2.2` · **State:** active · **Source run:** `run-839a6d315cecc1ed1eab5ce3f74b3394`
+**Global name:** `bbugyi200.athena.sase-1t2.2` · **State:** completed · **Source run:** `run-839a6d315cecc1ed1eab5ce3f74b3394`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,19 @@
 - Epic: [sase-1t2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-16T01:03:34.116721+00:00
-- Commits: 0
+- Timing: 2026-11-16T01:03:34.116721+00:00 → 2026-11-16T03:38:55.202057+00:00
+- Commits: [2](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`bd99aba`](https://github.com/sase-org/sase/commit/bd99aba1c871134b1b7e2c0935d7c0cdf7ce851f) | fix(hijack): preserve runner boot meta and read real model facts | 2026-11-15 22:35:17 EST |
+| sase | [`e2ae4f2`](https://github.com/sase-org/sase/commit/e2ae4f2252d3f3162a67364239089be59f8361c7) | test(models-panel): wait for alias rows before reset highlight | 2026-11-15 22:37:39 EST |
 
 ## Neighbors
 
