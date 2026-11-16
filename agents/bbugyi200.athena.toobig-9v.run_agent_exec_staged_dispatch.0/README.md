@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-9v](../../users/bbugyi200/machines/athena/hoods/toobig-9v/README.md) / toobig-9v.run\_agent\_exec\_staged\_dispatch.0
 
-**Global name:** `bbugyi200.athena.toobig-9v.run_agent_exec_staged_dispatch.0` · **State:** waiting · **Source run:** `run-8f8c1f78ba585717fdad12fb8dd61608`
+**Global name:** `bbugyi200.athena.toobig-9v.run_agent_exec_staged_dispatch.0` · **State:** completed · **Source run:** `run-8f8c1f78ba585717fdad12fb8dd61608`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-9v
 
@@ -10,12 +10,18 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261116103244
-- Commits: 0
+- Timing: 2026-11-16T20:29:37.142798+00:00 → 2026-11-16T21:06:27.541512+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`502d7ae`](https://github.com/sase-org/sase/commit/502d7ae494da0213cdee03a233baa0cfa47dc162) | refactor(axe): split staged-handoff dispatch under the line limit | 2026-11-16 16:06:12 EST |
 
 ## Neighbors
 
