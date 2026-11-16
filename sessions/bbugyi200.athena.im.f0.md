@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `im` · Members: 2
 ```mermaid
 flowchart TD
   n0["im.f0--code [completed]"]
-  n1["im.f0--plan [active]"]
+  n1["im.f0--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,13 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | im.f0--code | completed | gpt-5.6-sol / codex | 2026-07-22T18:37:35.745207+00:00 | [1](../agents/bbugyi200.athena.im.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.im.f0--code/chat.md) |
-| <a id="member-plan"></a>plan | im.f0--plan | active | gpt-5.6-sol / codex | 2026-07-22T18:25:28.706053+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.im.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.im.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | im.f0--plan | dismissed | gpt-5.6-sol / codex | 2026-07-22T14:25:28.706053 → 2026-07-22T15:03:47.736989 | 0 | [Prompt](../agents/bbugyi200.athena.im.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.im.f0--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`5fb55a5`](https://github.com/sase-org/sase/commit/5fb55a5a98e91fbc807d3e008f3af55d3d3863a1) | fix: recover interrupted agent families during forced reuse | 2026-07-22 15:03:36 EDT |
+| code | — | `5fb55a5` | fix: recover interrupted agent families during forced reuse | 2026-07-22 15:03:36 EDT |
 
 ## Neighbors
 
