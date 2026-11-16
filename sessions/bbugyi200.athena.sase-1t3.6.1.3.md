@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1t3.6.1.3--2 [completed]"]
   n1["sase-1t3.6.1.3--1 [completed]"]
   n0 --> n1
-  n2["sase-1t3.6.1.3--mon-1 [active]"]
+  n2["sase-1t3.6.1.3--mon-1 [failed]"]
   n0 --> n2
   n3["sase-1t3.6.1.3--mon [completed]"]
   n0 --> n3
@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-2"></a>2 | sase-1t3.6.1.3--2 | completed | gpt-6-luna / codex | 2026-11-16T20:43:47.665699+00:00 → 2026-11-16T20:52:28.860361+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.6.1.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.3--2/chat.md) |
 | <a id="member-1"></a>1 | sase-1t3.6.1.3--1 | completed | gpt-6-luna / codex | 2026-11-16T19:18:04.307975+00:00 → 2026-11-16T20:22:35.685964+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.6.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.3--1/chat.md) |
-| <a id="member-mon-1"></a>mon-1 | sase-1t3.6.1.3--mon-1 | active | gpt-6-luna / codex | 2026-11-16T20:51:15.133441+00:00 | 0 | — | — |
+| <a id="member-mon-1"></a>mon-1 | sase-1t3.6.1.3--mon-1 | failed | gpt-6-luna / codex | 2026-11-16T20:51:15.133441+00:00 → 2026-11-16T20:56:24.988731+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.3--mon-1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1t3.6.1.3--mon | completed | gpt-6-luna / codex | 2026-11-16T18:53:37.749645+00:00 → 2026-11-16T19:17:27.754078+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.3--mon/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1t3.6.1.3--mon-0 | completed | gpt-6-luna / codex | 2026-11-16T20:21:20.893176+00:00 → 2026-11-16T20:43:16.068072+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.3--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | sase-1t3.6.1.3--plan | completed | gpt-6-luna / codex | 2026-11-16T18:18:57.710807+00:00 → 2026-11-16T18:55:42.649743+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.6.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.3--plan/chat.md) |
