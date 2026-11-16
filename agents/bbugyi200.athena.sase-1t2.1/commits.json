@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d141f1b3761c04065caa1b0da952cbd8"}
+{"commits":[{"committed_at":1794796027,"sha":"e6af32680efeed0246edd07d9f4cdd070b5c0f8b","subject":"feat(agent-hijack): add Python wrappers, ledger custody, and core tests"}],"schema_version":2,"source_run_id":"run-d141f1b3761c04065caa1b0da952cbd8"}

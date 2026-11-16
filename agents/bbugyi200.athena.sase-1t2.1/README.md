@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.1
 
-**Global name:** `bbugyi200.athena.sase-1t2.1` · **State:** active · **Source run:** `run-d141f1b3761c04065caa1b0da952cbd8`
+**Global name:** `bbugyi200.athena.sase-1t2.1` · **State:** completed · **Source run:** `run-d141f1b3761c04065caa1b0da952cbd8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-16T01:03:14.519340+00:00
-- Commits: 0
+- Timing: 2026-11-16T01:03:14.519340+00:00 → 2026-11-16T02:28:10.122510+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e6af326`](https://github.com/sase-org/sase/commit/e6af32680efeed0246edd07d9f4cdd070b5c0f8b) | feat(agent-hijack): add Python wrappers, ledger custody, and core tests | 2026-11-15 21:27:07 EST |
 
 ## Neighbors
 
