@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.11.1.1
 
-**Global name:** `bbugyi200.athena.sase-1t2.11.1.1` · **State:** active · **Source run:** `run-b64610008f0c994dcd9c387ffdb449a6`
+**Global name:** `bbugyi200.athena.sase-1t2.11.1.1` · **State:** completed · **Source run:** `run-b64610008f0c994dcd9c387ffdb449a6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2.11.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/sase-1t2.11.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-16T20:30:10.819493+00:00
-- Commits: 0
+- Timing: 2026-11-16T20:30:10.819493+00:00 → 2026-11-16T21:54:27.889780+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a2c9c3e`](https://github.com/sase-org/sase/commit/a2c9c3ecb5ecd441e85807cb06d1115eac1fc2aa) | feat(agent-hijack): add durable monitor stop custody | 2026-11-16 16:53:11 EST |
 
 ## Neighbors
 
