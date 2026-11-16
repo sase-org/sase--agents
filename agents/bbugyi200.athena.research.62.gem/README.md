@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.62.gem
 
-**Global name:** `bbugyi200.athena.research.62.gem` · **State:** active · **Source run:** `run-58d713de7572005a48865f3cc18e205b`
+**Global name:** `bbugyi200.athena.research.62.gem` · **State:** completed · **Source run:** `run-58d713de7572005a48865f3cc18e205b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-16T11:16:13.693290+00:00
+- Timing: 2026-11-16T11:16:13.693290+00:00 → 2026-11-16T11:41:14.586735+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
