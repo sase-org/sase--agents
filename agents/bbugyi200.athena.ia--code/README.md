@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1232a8c`](https://github.com/sase-org/sase/commit/1232a8c1c91b6dcabb6fb5d0959d631b7135d6a1) | fix(ace): count agent holes in headline | 2026-07-22 11:16:42 EDT |
+| — | `1232a8c` | fix(ace): count agent holes in headline | 2026-07-22 11:16:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [ia.f1](../../sessions/bbugyi200.athena.ia.f1.md) (session · 2) | descendant | active 1, completed 1 |
-| [ia.f1.f0](../../sessions/bbugyi200.athena.ia.f1.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [ia.f1](../../sessions/bbugyi200.athena.ia.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [ia.f1.f0](../../sessions/bbugyi200.athena.ia.f1.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

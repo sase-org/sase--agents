@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `ia` · Members: 2
 ```mermaid
 flowchart TD
   n0["ia--code [completed]"]
-  n1["ia--plan [active]"]
+  n1["ia--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,17 +18,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | ia--code | completed | gpt-5.6-sol / codex | 2026-07-22T14:51:07.705521+00:00 | [1](../agents/bbugyi200.athena.ia--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.ia--code/chat.md) |
-| <a id="member-plan"></a>plan | ia--plan | active | gpt-5.6-sol / codex | 2026-07-22T14:42:21.848411+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ia--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ia--plan/chat.md) |
+| <a id="member-plan"></a>plan | ia--plan | dismissed | gpt-5.6-sol / codex | 2026-07-22T10:42:21.848411 → 2026-07-22T11:16:58.194304 | 0 | [Prompt](../agents/bbugyi200.athena.ia--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ia--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`1232a8c`](https://github.com/sase-org/sase/commit/1232a8c1c91b6dcabb6fb5d0959d631b7135d6a1) | fix(ace): count agent holes in headline | 2026-07-22 11:16:42 EDT |
+| code | — | `1232a8c` | fix(ace): count agent holes in headline | 2026-07-22 11:16:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [ia.f1](bbugyi200.athena.ia.f1.md) (session · 2) | descendant | active 1, completed 1 |
-| [ia.f1.f0](bbugyi200.athena.ia.f1.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [ia.f1](bbugyi200.athena.ia.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [ia.f1.f0](bbugyi200.athena.ia.f1.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`85aa33e`](https://github.com/sase-org/sase/commit/85aa33e908bb7286d09ace4befb6c2f42666c382) | fix(ace): align status summaries with agent holes | 2026-07-22 12:47:58 EDT |
+| — | `85aa33e` | fix(ace): align status summaries with agent holes | 2026-07-22 12:47:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [ia.f1](../../sessions/bbugyi200.athena.ia.f1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [ia](../../sessions/bbugyi200.athena.ia.md) (session · 2) | ancestor | active 1, completed 1 |
+| [ia.f1](../../sessions/bbugyi200.athena.ia.f1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [ia](../../sessions/bbugyi200.athena.ia.md) (session · 2) | ancestor | completed 1, dismissed 1 |

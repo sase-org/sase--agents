@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bdde10d`](https://github.com/sase-org/sase/commit/bdde10dceb45dc86cadb85be5d8400207b387b7c) | feat(ace): report agent holes in tribe panels | 2026-07-22 11:58:24 EDT |
+| — | `bdde10d` | feat(ace): report agent holes in tribe panels | 2026-07-22 11:58:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [ia](../../sessions/bbugyi200.athena.ia.md) (session · 2) | ancestor | active 1, completed 1 |
-| [ia.f1.f0](../../sessions/bbugyi200.athena.ia.f1.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [ia](../../sessions/bbugyi200.athena.ia.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [ia.f1.f0](../../sessions/bbugyi200.athena.ia.f1.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
