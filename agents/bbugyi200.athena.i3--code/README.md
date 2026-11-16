@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3543cd2`](https://github.com/sase-org/sase/commit/3543cd2a43ef0da449b2ff5591844a9c034d7802) | fix(tui): align TODO annotations with running gold | 2026-07-22 09:32:56 EDT |
+| — | `3543cd2` | fix(tui): align TODO annotations with running gold | 2026-07-22 09:32:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [i3.f0](../../sessions/bbugyi200.athena.i3.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [i3.f0](../../sessions/bbugyi200.athena.i3.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

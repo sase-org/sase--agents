@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`627b0b3`](https://github.com/sase-org/sase/commit/627b0b377c15b3c7ad322333fc38303b840defe7) | fix(tui): keep TODO markers legible | 2026-07-22 10:03:38 EDT |
+| — | `627b0b3` | fix(tui): keep TODO markers legible | 2026-07-22 10:03:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [i3](../../sessions/bbugyi200.athena.i3.md) (session · 2) | ancestor | active 1, completed 1 |
+| [i3](../../sessions/bbugyi200.athena.i3.md) (session · 2) | ancestor | completed 1, dismissed 1 |

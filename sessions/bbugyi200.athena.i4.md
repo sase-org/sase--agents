@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `i4` · Members: 2
 ```mermaid
 flowchart TD
   n0["i4--code [completed]"]
-  n1["i4--plan [active]"]
+  n1["i4--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | i4--code | completed | gpt-5.6-sol / codex | 2026-07-22T13:18:37.369651+00:00 | [1](../agents/bbugyi200.athena.i4--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.i4--code/chat.md) |
-| <a id="member-plan"></a>plan | i4--plan | active | opus / claude | 2026-07-22T13:03:42.990503+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.i4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.i4--plan/chat.md) |
+| <a id="member-plan"></a>plan | i4--plan | dismissed | opus / claude | 2026-07-22T09:03:42.990503 → 2026-07-22T09:40:01.993166 | 0 | [Prompt](../agents/bbugyi200.athena.i4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.i4--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`679a41b`](https://github.com/sase-org/sase/commit/679a41b42eaed4821cfa699139d3088f804cbd77) | fix(ace): restore arrival bell for plan reviews | 2026-07-22 09:39:47 EDT |
+| code | — | `679a41b` | fix(ace): restore arrival bell for plan reviews | 2026-07-22 09:39:47 EDT |
