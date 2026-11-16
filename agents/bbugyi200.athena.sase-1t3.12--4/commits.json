@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2f08bfcf2b9b6f41e5f2285ca7858c5a"}
+{"commits":[{"committed_at":1794853471,"sha":"f8c2763ae38fc3bb67afed60d8356b346563b5ec","subject":"feat(agent-scan): surface terminalization diagnostics on the index update wire"}],"schema_version":2,"source_run_id":"run-2f08bfcf2b9b6f41e5f2285ca7858c5a"}

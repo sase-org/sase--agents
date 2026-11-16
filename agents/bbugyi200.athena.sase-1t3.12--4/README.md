@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / [sase-1t3.12](../../sessions/bbugyi200.athena.sase-1t3.12.md) / sase-1t3.12--4
 
-**Global name:** `bbugyi200.athena.sase-1t3.12--4` · **State:** active · **Source run:** `run-2f08bfcf2b9b6f41e5f2285ca7858c5a`
+**Global name:** `bbugyi200.athena.sase-1t3.12--4` · **State:** completed · **Source run:** `run-2f08bfcf2b9b6f41e5f2285ca7858c5a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1t3.12](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.12.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261116131834
-- Commits: 0
+- Timing: 2026-11-16T18:20:29.948697+00:00 → 2026-11-16T18:25:45.780710+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f8c2763`](https://github.com/sase-org/sase/commit/f8c2763ae38fc3bb67afed60d8356b346563b5ec) | feat(agent-scan): surface terminalization diagnostics on the index update wire | 2026-11-16 13:24:31 EST |
 
 ## Neighbors
 
