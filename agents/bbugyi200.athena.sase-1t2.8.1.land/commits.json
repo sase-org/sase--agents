@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-807dd1cd87d2abee3bd7d1e489bdd4ce"}
+{"commits":[{"committed_at":1794860347,"sha":"81dfe5710ea123542f9426a1abafe7bd01c17bbb","subject":"fix(ace): tolerate duck-typed rows when mirroring hijack overlays"}],"schema_version":2,"source_run_id":"run-807dd1cd87d2abee3bd7d1e489bdd4ce"}

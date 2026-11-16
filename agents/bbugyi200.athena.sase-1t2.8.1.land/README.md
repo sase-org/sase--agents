@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.8.1.land
 
-**Global name:** `bbugyi200.athena.sase-1t2.8.1.land` · **State:** waiting · **Source run:** `run-807dd1cd87d2abee3bd7d1e489bdd4ce`
+**Global name:** `bbugyi200.athena.sase-1t2.8.1.land` · **State:** completed · **Source run:** `run-807dd1cd87d2abee3bd7d1e489bdd4ce`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1t2.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/sase-1t2.8.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261116041043
-- Commits: 0
+- Timing: 2026-11-16T19:00:32.402562+00:00 → 2026-11-16T20:21:15.842359+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`81dfe57`](https://github.com/sase-org/sase/commit/81dfe5710ea123542f9426a1abafe7bd01c17bbb) | fix(ace): tolerate duck-typed rows when mirroring hijack overlays | 2026-11-16 15:19:07 EST |
 
 ## Neighbors
 
