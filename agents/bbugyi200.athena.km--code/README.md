@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e0f310d`](https://github.com/sase-org/sase/commit/e0f310d8da7a01c7e67aac9e030582ab746b9b22) | feat(models): make medium phase worker follow default | 2026-07-25 11:00:21 EDT |
+| — | `e0f310d` | feat(models): make medium phase worker follow default | 2026-07-25 11:00:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [km.f0](../../sessions/bbugyi200.athena.km.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [km.f0](../../sessions/bbugyi200.athena.km.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [km.f0](../bbugyi200.athena.km.f0/README.md) | descendant | completed |

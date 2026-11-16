@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`53d36a2`](https://github.com/sase-org/sase/commit/53d36a2980bd3930de103ccc65f94c4117f59f39) | fix(ace): omit queued chip from leaf agent rows | 2026-07-25 08:58:20 EDT |
+| — | `53d36a2` | fix(ace): omit queued chip from leaf agent rows | 2026-07-25 08:58:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [kh.f0](../bbugyi200.athena.kh.f0/README.md) | descendant | waiting |
+| [kh.f0](../bbugyi200.athena.kh.f0/README.md) | descendant | dismissed |
 | [kh.f1](../bbugyi200.athena.kh.f1/README.md) | descendant | dismissed |
-| [kh.f2](../../sessions/bbugyi200.athena.kh.f2.md) (session · 2) | descendant | active 1, completed 1 |
+| [kh.f2](../../sessions/bbugyi200.athena.kh.f2.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [kh.f2](../bbugyi200.athena.kh.f2/README.md) | descendant | completed |
