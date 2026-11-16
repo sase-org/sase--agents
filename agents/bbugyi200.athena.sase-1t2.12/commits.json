@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b669f6441ca904840985a7def4923445"}
+{"commits":[{"committed_at":1794815937,"sha":"3c8564dd8735b014bec17a9f2a8357918dbc5fc6","subject":"feat(agent-hijack): add doctor check, dispatch watchdog, and remote referrals"}],"schema_version":2,"source_run_id":"run-b669f6441ca904840985a7def4923445"}

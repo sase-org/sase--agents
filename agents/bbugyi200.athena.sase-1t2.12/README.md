@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.12
 
-**Global name:** `bbugyi200.athena.sase-1t2.12` · **State:** waiting · **Source run:** `run-b669f6441ca904840985a7def4923445`
+**Global name:** `bbugyi200.athena.sase-1t2.12` · **State:** completed · **Source run:** `run-b669f6441ca904840985a7def4923445`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261115200200
-- Commits: 0
+- Timing: 2026-11-16T06:29:10.004957+00:00 → 2026-11-16T08:00:06.696858+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3c8564d`](https://github.com/sase-org/sase/commit/3c8564dd8735b014bec17a9f2a8357918dbc5fc6) | feat(agent-hijack): add doctor check, dispatch watchdog, and remote referrals | 2026-11-16 02:58:57 EST |
 
 ## Neighbors
 
@@ -33,7 +39,7 @@
 | [sase-1t2.4](../../sessions/bbugyi200.athena.sase-1t2.4.md) (session · 5) | sase-1t2 hood | completed 4, failed 1 |
 | [sase-1t2.5](../bbugyi200.athena.sase-1t2.5/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.6](../../sessions/bbugyi200.athena.sase-1t2.6.md) (session · 3) | sase-1t2 hood | completed 2, failed 1 |
-| [sase-1t2.7](../bbugyi200.athena.sase-1t2.7/README.md) | sase-1t2 hood | waiting |
+| [sase-1t2.7](../../sessions/bbugyi200.athena.sase-1t2.7.md) (session · 5) | sase-1t2 hood | active 1, completed 3, failed 1 |
 | [sase-1t2.8](../bbugyi200.athena.sase-1t2.8/README.md) | sase-1t2 hood | waiting |
 | [sase-1t2.9](../bbugyi200.athena.sase-1t2.9/README.md) | sase-1t2 hood | waiting |
 | [sase-1t2.land](../bbugyi200.athena.sase-1t2.land/README.md) | sase-1t2 hood | waiting |
