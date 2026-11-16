@@ -1,6 +1,6 @@
+%auto
 %id(local_trust_management.0, clan=toobig-9v)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/config/local_trust_management.py` file into multiple files? Use your best
 %wait:toobig-9v.local_trust_enforcement.0

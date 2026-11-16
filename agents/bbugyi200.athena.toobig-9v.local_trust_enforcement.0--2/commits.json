@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794871302,"sha":"e3f6d302db2918a07d4b6d68025fc3a66543a2d3","subject":"refactor(config): split local_trust_enforcement into facade plus shared, evaluation, and flag_on modules"}],"schema_version":2,"source_run_id":"run-23c6c82e67b91ba11abec011b7e4229b"}
