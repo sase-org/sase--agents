@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8e7851e`](https://github.com/sase-org/sase/commit/8e7851edeb78730fceabd9adfe2ee0b9d1f56ee3) | feat: add clickable SDD frontmatter links | 2026-07-21 09:24:09 EDT |
+| — | `8e7851e` | feat: add clickable SDD frontmatter links | 2026-07-21 09:24:09 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [gz.f0](../../sessions/bbugyi200.athena.gz.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [gz.f0](../../sessions/bbugyi200.athena.gz.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

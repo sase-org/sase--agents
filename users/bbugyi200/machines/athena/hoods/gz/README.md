@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / gz
 
-**Global hood:** `bbugyi200.athena.gz` · **Runs:** 4 · **Sessions:** 2 · **States:** active 2, completed 2
+**Global hood:** `bbugyi200.athena.gz` · **Runs:** 4 · **Sessions:** 2 · **States:** completed 2, dismissed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [gz.f0--code](../../../../../../sessions/bbugyi200.athena.gz.f0.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T14:54:42.936618+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.gz.f0--code/chat.md) |
-| [gz--plan](../../../../../../sessions/bbugyi200.athena.gz.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T12:43:45.784873+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gz--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.gz--plan/prompt.md) |
+| [gz--plan](../../../../../../sessions/bbugyi200.athena.gz.md#member-plan) | dismissed | gpt-5.6-sol / codex | 2026-07-21T08:43:45.784873 → 2026-07-21T09:24:33.014006 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gz--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.gz--plan/prompt.md) |
 | [gz--code](../../../../../../sessions/bbugyi200.athena.gz.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T12:53:35.914760+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.gz--code/chat.md) |
-| [gz.f0--plan](../../../../../../sessions/bbugyi200.athena.gz.f0.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T14:49:43.013894+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gz.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.gz.f0--plan/prompt.md) |
+| [gz.f0--plan](../../../../../../sessions/bbugyi200.athena.gz.f0.md#member-plan) | dismissed | gpt-5.6-sol / codex | 2026-07-21T10:49:43.013894 → 2026-07-21T11:47:00.318490 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gz.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.gz.f0--plan/prompt.md) |

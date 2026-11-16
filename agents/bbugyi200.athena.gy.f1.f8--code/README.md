@@ -21,26 +21,26 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`58bacaf`](https://github.com/sase-org/sase/commit/58bacaf668db5541554a49922203b828df9de916) | feat!: simplify phase model aliases | 2026-07-21 10:32:49 EDT |
+| — | `58bacaf` | feat!: simplify phase model aliases | 2026-07-21 10:32:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [gy.f1](../../sessions/bbugyi200.athena.gy.f1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [gy](../../sessions/bbugyi200.athena.gy.md) (session · 2) | ancestor | active 1, completed 1 |
-| [gy.f1.f8.f0](../../sessions/bbugyi200.athena.gy.f1.f8.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [gy.f1.f0](../bbugyi200.athena.gy.f1.f0/README.md) | gy.f1 hood | waiting |
-| [gy.f1.f1](../bbugyi200.athena.gy.f1.f1/README.md) | gy.f1 hood | waiting |
-| [gy.f1.f2](../bbugyi200.athena.gy.f1.f2/README.md) | gy.f1 hood | waiting |
-| [gy.f1.f3](../bbugyi200.athena.gy.f1.f3/README.md) | gy.f1 hood | waiting |
+| [gy.f1](../../sessions/bbugyi200.athena.gy.f1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [gy](../../sessions/bbugyi200.athena.gy.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [gy.f1.f8.f0](../../sessions/bbugyi200.athena.gy.f1.f8.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [gy.f1.f0](../bbugyi200.athena.gy.f1.f0/README.md) | gy.f1 hood | dismissed |
+| [gy.f1.f1](../bbugyi200.athena.gy.f1.f1/README.md) | gy.f1 hood | dismissed |
+| [gy.f1.f2](../bbugyi200.athena.gy.f1.f2/README.md) | gy.f1 hood | dismissed |
+| [gy.f1.f3](../bbugyi200.athena.gy.f1.f3/README.md) | gy.f1 hood | dismissed |
 | [gy.f1.f4](../bbugyi200.athena.gy.f1.f4/README.md) | gy.f1 hood | dismissed |
 | [gy.f1.f5](../bbugyi200.athena.gy.f1.f5/README.md) | gy.f1 hood | dismissed |
 | [gy.f1.f6.f0](../bbugyi200.athena.gy.f1.f6.f0/README.md) | gy.f1 hood | dismissed |
-| [gy.f1.f6.f0.w0](../../sessions/bbugyi200.athena.gy.f1.f6.f0.w0.md) (session · 2) | gy.f1 hood | active 1, completed 1 |
-| [gy.f1.f6.f0.w0.f0](../bbugyi200.athena.gy.f1.f6.f0.w0.f0/README.md) | gy.f1 hood | waiting |
-| [gy.f1.f6.f0.w0.f2](../../sessions/bbugyi200.athena.gy.f1.f6.f0.w0.f2.md) (session · 2) | gy.f1 hood | active 1, completed 1 |
+| [gy.f1.f6.f0.w0](../../sessions/bbugyi200.athena.gy.f1.f6.f0.w0.md) (session · 2) | gy.f1 hood | completed 1, dismissed 1 |
+| [gy.f1.f6.f0.w0.f0](../bbugyi200.athena.gy.f1.f6.f0.w0.f0/README.md) | gy.f1 hood | dismissed |
+| [gy.f1.f6.f0.w0.f2](../../sessions/bbugyi200.athena.gy.f1.f6.f0.w0.f2.md) (session · 2) | gy.f1 hood | completed 1, dismissed 1 |
 | [gy.f1.f6.f0.w0.f2.f1](../bbugyi200.athena.gy.f1.f6.f0.w0.f2.f1/README.md) | gy.f1 hood | dismissed |
 | [gy.f1.f6.f1](../bbugyi200.athena.gy.f1.f6.f1/README.md) | gy.f1 hood | active |
-| [gy.f1.f7](../../sessions/bbugyi200.athena.gy.f1.f7.md) (session · 2) | gy.f1 hood | active 1, completed 1 |
+| [gy.f1.f7](../../sessions/bbugyi200.athena.gy.f1.f7.md) (session · 2) | gy.f1 hood | completed 1, dismissed 1 |
 | [gy.f0](../bbugyi200.athena.gy.f0/README.md) | gy hood | dismissed |

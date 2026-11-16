@@ -2,9 +2,9 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / gt
 
-**Global hood:** `bbugyi200.athena.gt` · **Runs:** 2 · **Sessions:** 1 · **States:** active 1, completed 1
+**Global hood:** `bbugyi200.athena.gt` · **Runs:** 2 · **Sessions:** 1 · **States:** completed 1, dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [gt--plan](../../../../../../sessions/bbugyi200.athena.gt.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T11:52:44.725918+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gt--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.gt--plan/prompt.md) |
+| [gt--plan](../../../../../../sessions/bbugyi200.athena.gt.md#member-plan) | dismissed | gpt-5.6-sol / codex | 2026-07-21T07:52:44.725918 → 2026-07-21T08:15:40.312214 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gt--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.gt--plan/prompt.md) |
 | [gt--code](../../../../../../sessions/bbugyi200.athena.gt.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T11:57:38.314637+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.gt--code/chat.md) |
