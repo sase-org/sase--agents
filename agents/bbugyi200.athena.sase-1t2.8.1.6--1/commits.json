@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794850178,"sha":"5f99e0ce00b043cb29304860be6ca3c4ee573b56","subject":"feat(agent-hijack): latch finalizer turns and expose cancel/explain/now CLI contract"}],"schema_version":2,"source_run_id":"run-fffb6c082d2ca93a89968756680064a0"}
