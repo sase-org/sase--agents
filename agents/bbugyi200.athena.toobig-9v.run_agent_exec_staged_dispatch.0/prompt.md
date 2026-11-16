@@ -1,6 +1,6 @@
+%auto
 %id(run_agent_exec_staged_dispatch.0, clan=toobig-9v)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/axe/run_agent_exec_staged_dispatch.py` file into multiple files? Use your best
 %wait:toobig-9v.latch.0
