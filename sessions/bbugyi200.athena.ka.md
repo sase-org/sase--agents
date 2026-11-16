@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `ka` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["ka--plan [active]"]
+  n0["ka--plan [dismissed]"]
   n1["ka--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | ka--plan | active | opus / claude | 2026-07-25T11:13:33.094066+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ka--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ka--plan/chat.md) |
+| <a id="member-plan"></a>plan | ka--plan | dismissed | opus / claude | 2026-07-25T07:13:33.094066 → 2026-07-25T08:53:33.982408 | 0 | [Prompt](../agents/bbugyi200.athena.ka--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ka--plan/chat.md) |
 | <a id="member-code"></a>code | ka--code | completed | gpt-5.6-sol / codex | 2026-07-25T11:26:31.036721+00:00 | [1](../agents/bbugyi200.athena.ka--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.ka--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`41e44d1`](https://github.com/sase-org/sase/commit/41e44d1c4205f7049723e109c53350460cc36913) | feat(ace): refine top-bar override pills | 2026-07-25 08:53:02 EDT |
+| code | — | `41e44d1` | feat(ace): refine top-bar override pills | 2026-07-25 08:53:02 EDT |

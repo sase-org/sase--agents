@@ -2,10 +2,10 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / ka
 
-**Global hood:** `bbugyi200.athena.ka` · **Runs:** 3 · **Sessions:** 1 · **States:** active 1, completed 2
+**Global hood:** `bbugyi200.athena.ka` · **Runs:** 3 · **Sessions:** 1 · **States:** completed 2, dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [ka--plan](../../../../../../sessions/bbugyi200.athena.ka.md#member-plan) | active | opus / claude | 2026-07-25T11:13:33.094066+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.ka--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.ka--plan/prompt.md) |
+| [ka--plan](../../../../../../sessions/bbugyi200.athena.ka.md#member-plan) | dismissed | opus / claude | 2026-07-25T07:13:33.094066 → 2026-07-25T08:53:33.982408 | 0 | [chat](../../../../../../agents/bbugyi200.athena.ka--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.ka--plan/prompt.md) |
 | [ka--code](../../../../../../sessions/bbugyi200.athena.ka.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-25T11:26:31.036721+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.ka--code/chat.md) |
 | [ka](../../../../../../agents/bbugyi200.athena.ka/README.md) | completed | — | 2026-07-25T12:53:02+00:00 → 2026-07-25T12:53:02+00:00 | 1 | — |
