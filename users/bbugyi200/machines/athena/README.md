@@ -1326,11 +1326,11 @@
 | [ka](hoods/ka/README.md) | 3 | 1 | completed 2, dismissed 1 |
 | [kc](hoods/kc/README.md) | 3 | 1 | completed 2, dismissed 1 |
 | [kg](hoods/kg/README.md) | 3 | 1 | completed 2, dismissed 1 |
-| [kh](hoods/kh/README.md) | 8 | 2 | active 2, completed 4, dismissed 1, waiting 1 |
-| [km](hoods/km/README.md) | 6 | 2 | active 2, completed 4 |
-| [kn](hoods/kn/README.md) | 3 | 1 | active 1, completed 2 |
-| [ko](hoods/ko/README.md) | 3 | 1 | active 1, completed 2 |
-| [kq](hoods/kq/README.md) | 3 | 1 | active 1, completed 2 |
+| [kh](hoods/kh/README.md) | 8 | 2 | completed 4, dismissed 4 |
+| [km](hoods/km/README.md) | 6 | 2 | completed 4, dismissed 2 |
+| [kn](hoods/kn/README.md) | 3 | 1 | completed 2, dismissed 1 |
+| [ko](hoods/ko/README.md) | 3 | 1 | completed 2, dismissed 1 |
+| [kq](hoods/kq/README.md) | 3 | 1 | completed 2, dismissed 1 |
 | [ks](hoods/ks/README.md) | 3 | 1 | active 1, completed 2 |
 | [kt](hoods/kt/README.md) | 3 | 1 | active 1, completed 2 |
 | [ku](hoods/ku/README.md) | 7 | 2 | active 2, completed 4, waiting 1 |
@@ -2402,7 +2402,7 @@
 | [toobig-9r](hoods/toobig-9r/README.md) | 1 | 0 | completed 1 |
 | [toobig-9s](hoods/toobig-9s/README.md) | 4 | 0 | completed 4 |
 | [toobig-9t](hoods/toobig-9t/README.md) | 1 | 0 | completed 1 |
-| [toobig-9u](hoods/toobig-9u/README.md) | 5 | 1 | completed 3, failed 1, waiting 1 |
+| [toobig-9u](hoods/toobig-9u/README.md) | 5 | 1 | completed 4, failed 1 |
 | [toobig-b](hoods/toobig-b/README.md) | 6 | 0 | active 1, dismissed 5 |
 | [toobig-c](hoods/toobig-c/README.md) | 3 | 0 | active 1, dismissed 2 |
 | [toobig-d](hoods/toobig-d/README.md) | 1 | 0 | active 1 |

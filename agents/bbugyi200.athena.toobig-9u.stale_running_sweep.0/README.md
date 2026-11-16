@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-9u.stop\_orchestrator.0](../../sessions/bbugyi200.athena.toobig-9u.stop_orchestrator.0.md) (session · 3) | toobig-9u hood | completed 2, failed 1 |
-| [toobig-9u.test\_agent\_hijack\_canary.0](../bbugyi200.athena.toobig-9u.test_agent_hijack_canary.0/README.md) | toobig-9u hood | waiting |
+| [toobig-9u.test\_agent\_hijack\_canary.0](../bbugyi200.athena.toobig-9u.test_agent_hijack_canary.0/README.md) | toobig-9u hood | completed |

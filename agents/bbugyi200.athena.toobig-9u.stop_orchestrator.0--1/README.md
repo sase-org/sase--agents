@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-9u.stale\_running\_sweep.0](../bbugyi200.athena.toobig-9u.stale_running_sweep.0/README.md) | toobig-9u hood | completed |
-| [toobig-9u.test\_agent\_hijack\_canary.0](../bbugyi200.athena.toobig-9u.test_agent_hijack_canary.0/README.md) | toobig-9u hood | waiting |
+| [toobig-9u.test\_agent\_hijack\_canary.0](../bbugyi200.athena.toobig-9u.test_agent_hijack_canary.0/README.md) | toobig-9u hood | completed |

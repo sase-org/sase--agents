@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-9u](../../users/bbugyi200/machines/athena/hoods/toobig-9u/README.md) / toobig-9u.test\_agent\_hijack\_canary.0
 
-**Global name:** `bbugyi200.athena.toobig-9u.test_agent_hijack_canary.0` · **State:** waiting · **Source run:** `run-80dba071d878330c128c40e915d659d0`
+**Global name:** `bbugyi200.athena.toobig-9u.test_agent_hijack_canary.0` · **State:** completed · **Source run:** `run-80dba071d878330c128c40e915d659d0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-9u
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261116062452
-- Commits: 0
+- Timing: 2026-11-16T15:10:48.111966+00:00 → 2026-11-16T15:30:48.121831+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`6917629`](https://github.com/sase-org/sase/commit/6917629c59a18d68c2bf71f54150bce4f08a27ac) | refactor(tests): split hijack canary scenarios | 2026-11-16 10:30:30 EST |
 
 ## Neighbors
 
