@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["sase-1t3.7.1.1--mon-5 [failed]"]
   n0 --> n3
-  n4["sase-1t3.7.1.1--7 [active]"]
+  n4["sase-1t3.7.1.1--7 [completed]"]
   n0 --> n4
   n5["sase-1t3.7.1.1--6 [completed]"]
   n0 --> n5
@@ -47,7 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-4"></a>4 | sase-1t3.7.1.1--4 | completed | grok-4.6 / grok | 2026-11-16T18:50:17.570172+00:00 → 2026-11-16T18:56:41.635929+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.7.1.1--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.1--4/chat.md) |
 | <a id="member-2"></a>2 | sase-1t3.7.1.1--2 | completed | grok-4.6 / grok | 2026-11-16T17:12:43.055473+00:00 → 2026-11-16T17:18:46.948000+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.7.1.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.1--2/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | sase-1t3.7.1.1--mon-5 | failed | grok-4.6 / grok | 2026-11-16T20:19:41.245544+00:00 → 2026-11-16T21:00:55.955095+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.1--mon-5/chat.md) |
-| <a id="member-7"></a>7 | sase-1t3.7.1.1--7 | active | grok-4.6 / grok | 2026-11-16T21:00:55.814737+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.7.1.1--7/prompt.md) | — |
+| <a id="member-7"></a>7 | sase-1t3.7.1.1--7 | completed | grok-4.6 / grok | 2026-11-16T21:00:55.814737+00:00 → 2026-11-16T21:34:26.651675+00:00 | [1](../agents/bbugyi200.athena.sase-1t3.7.1.1--7/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1t3.7.1.1--7/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.1--7/chat.md) |
 | <a id="member-6"></a>6 | sase-1t3.7.1.1--6 | completed | grok-4.6 / grok | 2026-11-16T19:42:33.742130+00:00 → 2026-11-16T20:20:57.391365+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.7.1.1--6/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.1--6/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | sase-1t3.7.1.1--mon-3 | failed | grok-4.6 / grok | 2026-11-16T18:55:18.791747+00:00 → 2026-11-16T19:08:13.135474+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.1--mon-3/chat.md) |
 | <a id="member-1"></a>1 | sase-1t3.7.1.1--1 | completed | grok-4.6 / grok | 2026-11-16T17:01:35.470120+00:00 → 2026-11-16T17:05:51.865782+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.7.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.1--1/chat.md) |
@@ -58,6 +58,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-1"></a>mon-1 | sase-1t3.7.1.1--mon-1 | failed | grok-4.6 / grok | 2026-11-16T17:17:10.661775+00:00 → 2026-11-16T17:40:15.960458+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.1--mon-1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1t3.7.1.1--plan | completed | grok-4.6 / grok | 2026-11-16T16:14:00.722477+00:00 → 2026-11-16T16:39:27.663342+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.7.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.1--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1t3.7.1.1--mon-0 | failed | grok-4.6 / grok | 2026-11-16T17:04:45.640028+00:00 → 2026-11-16T17:11:27.398628+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.1--mon-0/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 7 | sase | [`1bd8552`](https://github.com/sase-org/sase/commit/1bd855256e1b8c00917caa113f7a0aadb4a467ea) | feat(ace): pin Artifacts consumers to a descriptor snapshot | 2026-11-16 16:33:04 EST |
 
 ## Neighbors
 
@@ -80,7 +86,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1t3.6](bbugyi200.athena.sase-1t3.6.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
 | [sase-1t3.6.1.1](../agents/bbugyi200.athena.sase-1t3.6.1.1/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.6.1.2](../agents/bbugyi200.athena.sase-1t3.6.1.2/README.md) | sase-1t3 hood | completed |
-| [sase-1t3.6.1.3](bbugyi200.athena.sase-1t3.6.1.3.md) (session · 7) | sase-1t3 hood | active 1, completed 5, failed 1 |
+| [sase-1t3.6.1.3](bbugyi200.athena.sase-1t3.6.1.3.md) (session · 9) | sase-1t3 hood | active 1, completed 7, failed 1 |
 | [sase-1t3.6.1.land](../agents/bbugyi200.athena.sase-1t3.6.1.land/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.8](../agents/bbugyi200.athena.sase-1t3.8/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.9](../agents/bbugyi200.athena.sase-1t3.9/README.md) | sase-1t3 hood | waiting |

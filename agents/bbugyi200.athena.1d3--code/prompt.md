@@ -1,0 +1,10 @@
+%model:@small
+#gh:gh_sase-org__sase @plan:202611/py312_slice_annotation_crash.md
+
+The above plan has been reviewed and approved. Implement it now.
+
+%macros_enabled:false
+Reviewer decisions for this plan (final · reviewer via ACE):
+- guard = yes (planner default: yes). Implement the "guard = yes" branch; ignore "guard = no". Context: "Also add a lint stage (~5s per run) that catches 3.12 eager-annotation crashes from a 3.14 checkout?".
+Implement only the branches selected above.
+%macros_enabled:true

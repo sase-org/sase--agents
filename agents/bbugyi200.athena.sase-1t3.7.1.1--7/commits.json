@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4ec73c955723f14231a590cabaa5b462"}
+{"commits":[{"committed_at":1794864784,"sha":"1bd855256e1b8c00917caa113f7a0aadb4a467ea","subject":"feat(ace): pin Artifacts consumers to a descriptor snapshot"}],"schema_version":2,"source_run_id":"run-4ec73c955723f14231a590cabaa5b462"}
