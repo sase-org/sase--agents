@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.62.cld
 
-**Global name:** `bbugyi200.athena.research.62.cld` · **State:** active · **Source run:** `run-c8996c8e693b4b129ec3a8120b69ae89`
+**Global name:** `bbugyi200.athena.research.62.cld` · **State:** completed · **Source run:** `run-c8996c8e693b4b129ec3a8120b69ae89`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-16T11:15:22.730150+00:00
+- Timing: 2026-11-16T11:15:22.730150+00:00 → 2026-11-16T11:34:37.527749+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/tui\_performance\_regressions\_root\_causes\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261116061338/tui\_performance\_regressions\_root\_ca… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/tui_performance_regressions_root_causes__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261116061338/tui_performance_regressions_root_causes__cld-ad7c22b5f288.md
+  ref: file:explicit:6f1daa1c597371e6bacf245f
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_26/sase/repos/research/202611/tui_performance_regressions_root_causes__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
