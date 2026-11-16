@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.5
 
-**Global name:** `bbugyi200.athena.sase-1t2.5` · **State:** waiting · **Source run:** `run-48dcc9aa616aa0c74d3023131b647fbb`
+**Global name:** `bbugyi200.athena.sase-1t2.5` · **State:** completed · **Source run:** `run-48dcc9aa616aa0c74d3023131b647fbb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261115200157
-- Commits: 0
+- Timing: 2026-11-16T04:50:14.684885+00:00 → 2026-11-16T06:29:02.506477+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d26b581`](https://github.com/sase-org/sase/commit/d26b581253780c3c1417839c6af08c1294885328) | feat(agent-hijack): cache backend decisions for TUI hijack ingress | 2026-11-16 01:27:04 EST |
 
 ## Neighbors
 
