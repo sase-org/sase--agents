@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.8.1.4
 
-**Global name:** `bbugyi200.athena.sase-1t2.8.1.4` · **State:** waiting · **Source run:** `run-95faa5bd170f236b7c9f88ccb7cb27e6`
+**Global name:** `bbugyi200.athena.sase-1t2.8.1.4` · **State:** completed · **Source run:** `run-95faa5bd170f236b7c9f88ccb7cb27e6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/sase-1t2.8.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261116041039
-- Commits: 0
+- Timing: 2026-11-16T14:10:32.072253+00:00 → 2026-11-16T15:10:46.158935+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`93273f4`](https://github.com/sase-org/sase/commit/93273f4a4f1dc3f3ba25f740491837b182ceb76c) | feat(agent-hijack): reconcile stale latch owners and forced stops | 2026-11-16 10:09:28 EST |
 
 ## Neighbors
 

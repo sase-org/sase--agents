@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1t2.8](bbugyi200.athena.sase-1t2.8.md) (session · 3) | ancestor | active 1, completed 2 |
 | [sase-1t2.8.1.1](../agents/bbugyi200.athena.sase-1t2.8.1.1/README.md) | sase-1t2.8.1 hood | completed |
 | [sase-1t2.8.1.3](../agents/bbugyi200.athena.sase-1t2.8.1.3/README.md) | sase-1t2.8.1 hood | completed |
-| [sase-1t2.8.1.4](../agents/bbugyi200.athena.sase-1t2.8.1.4/README.md) | sase-1t2.8.1 hood | waiting |
+| [sase-1t2.8.1.4](../agents/bbugyi200.athena.sase-1t2.8.1.4/README.md) | sase-1t2.8.1 hood | completed |
 | [sase-1t2.8.1.5](../agents/bbugyi200.athena.sase-1t2.8.1.5/README.md) | sase-1t2.8.1 hood | waiting |
 | [sase-1t2.8.1.6](../agents/bbugyi200.athena.sase-1t2.8.1.6/README.md) | sase-1t2.8.1 hood | waiting |
 | [sase-1t2.8.1.7](../agents/bbugyi200.athena.sase-1t2.8.1.7/README.md) | sase-1t2.8.1 hood | waiting |

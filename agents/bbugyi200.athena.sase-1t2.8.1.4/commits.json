@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-95faa5bd170f236b7c9f88ccb7cb27e6"}
+{"commits":[{"committed_at":1794841768,"sha":"93273f4a4f1dc3f3ba25f740491837b182ceb76c","subject":"feat(agent-hijack): reconcile stale latch owners and forced stops"}],"schema_version":2,"source_run_id":"run-95faa5bd170f236b7c9f88ccb7cb27e6"}
