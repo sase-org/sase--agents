@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `ho` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["ho--plan [active]"]
+  n0["ho--plan [dismissed]"]
   n1["ho--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | ho--plan | active | gpt-5.6-sol / codex | 2026-07-22T10:31:49.969939+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ho--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ho--plan/chat.md) |
+| <a id="member-plan"></a>plan | ho--plan | dismissed | gpt-5.6-sol / codex | 2026-07-22T06:31:49.969939 → 2026-07-22T07:22:08.924255 | 0 | [Prompt](../agents/bbugyi200.athena.ho--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ho--plan/chat.md) |
 | <a id="member-code"></a>code | ho--code | completed | gpt-5.6-sol / codex | 2026-07-22T10:41:36.709441+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.ho--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`9f11060`](https://github.com/sase-org/sase/commit/9f1106068caa951039966938424ade137a01e5a0) | fix(ace): reconcile cross-surface plan approval status | 2026-07-22 07:21:38 EDT |
+| — | — | `9f11060` | fix(ace): reconcile cross-surface plan approval status | 2026-07-22 07:21:38 EDT |

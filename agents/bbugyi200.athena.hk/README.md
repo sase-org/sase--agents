@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dd16a88`](https://github.com/sase-org/sase/commit/dd16a883e31138187f91bdce092b29897ec449ff) | fix(tui): restore Agents parent navigation | 2026-07-21 16:58:04 EDT |
+| — | `dd16a88` | fix(tui): restore Agents parent navigation | 2026-07-21 16:58:04 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [hk.f0](../../sessions/bbugyi200.athena.hk.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [hk.f0.f0](../../sessions/bbugyi200.athena.hk.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [hk.f0](../../sessions/bbugyi200.athena.hk.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [hk.f0.f0](../../sessions/bbugyi200.athena.hk.f0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
