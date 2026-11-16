@@ -2,29 +2,35 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.4
 
-Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 2 · Bead: [sase-1t3.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.4.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 4 · Bead: [sase-1t3.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.4.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1t3.4--mon [active]"]
-  n1["sase-1t3.4--plan [completed]"]
+  n0["sase-1t3.4--mon [failed]"]
+  n1["sase-1t3.4--1 [active]"]
   n0 --> n1
+  n2["sase-1t3.4--plan [completed]"]
+  n0 --> n2
+  n3["sase-1t3.4--mon-0 [active]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-1t3.4--mon | active | grok-4.6 / grok | 2026-11-16T13:52:07.071824+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1t3.4--mon | failed | grok-4.6 / grok | 2026-11-16T13:52:07.071824+00:00 → 2026-11-16T14:51:14.691591+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.4--mon/chat.md) |
+| <a id="member-1"></a>1 | sase-1t3.4--1 | active | grok-4.6 / grok | 2026-11-16T14:51:37.836721+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.4--1/prompt.md) | — |
 | <a id="member-plan"></a>plan | sase-1t3.4--plan | completed | grok-4.6 / grok | 2026-11-16T13:35:04.145469+00:00 → 2026-11-16T13:53:59.854213+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.4--plan/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-1t3.4--mon-0 | active | grok-4.6 / grok | 2026-11-16T14:57:01.367893+00:00 | 0 | — | — |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1t3.1](../agents/bbugyi200.athena.sase-1t3.1/README.md) | sase-1t3 hood | active |
+| [sase-1t3.1](bbugyi200.athena.sase-1t3.1.md) (session · 2) | sase-1t3 hood | active 1, completed 1 |
 | [sase-1t3.10](../agents/bbugyi200.athena.sase-1t3.10/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.11](../agents/bbugyi200.athena.sase-1t3.11/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.12](bbugyi200.athena.sase-1t3.12.md) (session · 3) | sase-1t3 hood | active 2, completed 1 |
