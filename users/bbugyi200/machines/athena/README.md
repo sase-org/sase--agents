@@ -1311,11 +1311,11 @@
 | [jh](hoods/jh/README.md) | 3 | 1 | active 1, completed 2 |
 | [jk](hoods/jk/README.md) | 3 | 1 | completed 1, dismissed 2 |
 | [jl](hoods/jl/README.md) | 3 | 1 | completed 2, dismissed 1 |
-| [jo](hoods/jo/README.md) | 3 | 1 | active 1, completed 2 |
-| [jp](hoods/jp/README.md) | 3 | 1 | active 1, completed 2 |
-| [jq](hoods/jq/README.md) | 12 | 4 | active 4, completed 8 |
-| [js](hoods/js/README.md) | 3 | 1 | active 1, completed 2 |
-| [jt](hoods/jt/README.md) | 3 | 1 | active 1, completed 2 |
+| [jo](hoods/jo/README.md) | 3 | 1 | completed 2, dismissed 1 |
+| [jp](hoods/jp/README.md) | 3 | 1 | completed 2, dismissed 1 |
+| [jq](hoods/jq/README.md) | 12 | 4 | completed 8, dismissed 4 |
+| [js](hoods/js/README.md) | 3 | 1 | completed 2, dismissed 1 |
+| [jt](hoods/jt/README.md) | 3 | 1 | completed 2, dismissed 1 |
 | [k](hoods/k/README.md) | 2 | 1 | active 1, completed 1 |
 | [k0](hoods/k0/README.md) | 3 | 1 | active 1, completed 2 |
 | [k1](hoods/k1/README.md) | 3 | 1 | active 1, completed 2 |
@@ -1435,7 +1435,7 @@
 | [rc](hoods/rc/README.md) | 3 | 1 | active 2, completed 1 |
 | [rd](hoods/rd/README.md) | 1 | 0 | active 1 |
 | [refresh\_docs](hoods/refresh_docs/README.md) | 64 | 0 | active 2, completed 60, waiting 2 |
-| [research](hoods/research/README.md) | 1241 | 28 | active 962, completed 134, dismissed 74, failed 39, waiting 32 |
+| [research](hoods/research/README.md) | 1241 | 28 | active 962, completed 135, dismissed 74, failed 39, waiting 31 |
 | [research\_swarm](hoods/research_swarm/README.md) | 45 | 0 | completed 45 |
 | [rf](hoods/rf/README.md) | 2 | 1 | active 1, completed 1 |
 | [rg](hoods/rg/README.md) | 2 | 1 | active 1, completed 1 |

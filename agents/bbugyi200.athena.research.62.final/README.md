@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.62.final
 
-**Global name:** `bbugyi200.athena.research.62.final` · **State:** waiting · **Source run:** `run-25663ab1549d81b4160d4d7e56dad26a`
+**Global name:** `bbugyi200.athena.research.62.final` · **State:** completed · **Source run:** `run-25663ab1549d81b4160d4d7e56dad26a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261116061343
+- Timing: 2026-11-16T11:41:39.347680+00:00 → 2026-11-16T11:58:52.020526+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/tui\_hijack\_storm\_trust\_root\_and\_heap/tui\_hijack\_storm\_trust\_root\_and\_heap\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261116061343… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/tui_hijack_storm_trust_root_and_heap/tui_hijack_storm_trust_root_and_heap__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261116061343/tui_hijack_storm_trust_root_and_heap__final-f4ef64f0e56c.md
+  ref: file:explicit:e29d7cafdcd168f6fe697884
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_25/sase/repos/research/202611/tui_hijack_storm_trust_root_and_heap/tui_hijack_storm_trust_root_and_heap__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
