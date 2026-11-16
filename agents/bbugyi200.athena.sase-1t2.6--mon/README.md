@@ -39,7 +39,7 @@
 | [sase-1t2.8.1.2](../../sessions/bbugyi200.athena.sase-1t2.8.1.2.md) (session · 4) | sase-1t2 hood | completed 3, failed 1 |
 | [sase-1t2.8.1.3](../bbugyi200.athena.sase-1t2.8.1.3/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.8.1.4](../bbugyi200.athena.sase-1t2.8.1.4/README.md) | sase-1t2 hood | completed |
-| [sase-1t2.8.1.5](../bbugyi200.athena.sase-1t2.8.1.5/README.md) | sase-1t2 hood | waiting |
+| [sase-1t2.8.1.5](../bbugyi200.athena.sase-1t2.8.1.5/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.8.1.6](../bbugyi200.athena.sase-1t2.8.1.6/README.md) | sase-1t2 hood | waiting |
 | [sase-1t2.8.1.7](../bbugyi200.athena.sase-1t2.8.1.7/README.md) | sase-1t2 hood | waiting |
 | [sase-1t2.8.1.land](../bbugyi200.athena.sase-1t2.8.1.land/README.md) | sase-1t2 hood | waiting |

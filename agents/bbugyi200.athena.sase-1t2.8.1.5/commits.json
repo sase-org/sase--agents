@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-670d94ffc7e621fc67d0b7b9acaabcd2"}
+{"commits":[{"committed_at":1794844272,"sha":"ade2558ba85772ca6687049f094c2ddb59c144a1","subject":"feat(ace): present pending hijack latches with cancel and force"}],"schema_version":2,"source_run_id":"run-670d94ffc7e621fc67d0b7b9acaabcd2"}

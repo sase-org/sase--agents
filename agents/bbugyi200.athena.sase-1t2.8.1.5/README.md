@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.8.1.5
 
-**Global name:** `bbugyi200.athena.sase-1t2.8.1.5` · **State:** waiting · **Source run:** `run-670d94ffc7e621fc67d0b7b9acaabcd2`
+**Global name:** `bbugyi200.athena.sase-1t2.8.1.5` · **State:** completed · **Source run:** `run-670d94ffc7e621fc67d0b7b9acaabcd2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/sase-1t2.8.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261116041040
-- Commits: 0
+- Timing: 2026-11-16T15:12:09.766657+00:00 → 2026-11-16T15:52:35.320940+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ade2558`](https://github.com/sase-org/sase/commit/ade2558ba85772ca6687049f094c2ddb59c144a1) | feat(ace): present pending hijack latches with cancel and force | 2026-11-16 10:51:12 EST |
 
 ## Neighbors
 
