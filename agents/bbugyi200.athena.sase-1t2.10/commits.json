@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b7e0f45e03b65fa534579dc66146be82"}
+{"commits":[{"committed_at":1794861942,"sha":"fbd0c4781a19231e6452a751135fe1b868b8f2e6","subject":"feat(agent-hijack): latch executing gates before follow-up"}],"schema_version":2,"source_run_id":"run-b7e0f45e03b65fa534579dc66146be82"}
