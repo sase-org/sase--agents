@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-be2f675a0e0409c24a4fea6704c1e200"}
+{"commits":[{"committed_at":1794819328,"sha":"8254254e2f61726db20f2313ce4f8afb9b7e4300","subject":"feat(agent-hijack): add real-pipeline hijack canary"}],"schema_version":2,"source_run_id":"run-be2f675a0e0409c24a4fea6704c1e200"}

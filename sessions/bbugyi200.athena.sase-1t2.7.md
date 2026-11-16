@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["sase-1t2.7--mon [failed]"]
   n0 --> n3
-  n4["sase-1t2.7--2 [active]"]
+  n4["sase-1t2.7--2 [completed]"]
   n0 --> n4
 ```
 
@@ -27,7 +27,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | sase-1t2.7--mon-0 | completed | grok-4.6 / grok | 2026-11-16T07:32:41.768553+00:00 → 2026-11-16T07:49:52.359374+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t2.7--mon-0/chat.md) |
 | <a id="member-1"></a>1 | sase-1t2.7--1 | completed | grok-4.6 / grok | 2026-11-16T07:28:42.026432+00:00 → 2026-11-16T07:34:12.683153+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t2.7--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t2.7--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1t2.7--mon | failed | grok-4.6 / grok | 2026-11-16T07:21:18.462679+00:00 → 2026-11-16T07:27:48.105140+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t2.7--mon/chat.md) |
-| <a id="member-2"></a>2 | sase-1t2.7--2 | active | grok-4.6 / grok | 2026-11-16T07:50:32.856652+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t2.7--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1t2.7--2 | completed | grok-4.6 / grok | 2026-11-16T07:50:32.856652+00:00 → 2026-11-16T08:56:47.540959+00:00 | [1](../agents/bbugyi200.athena.sase-1t2.7--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1t2.7--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t2.7--2/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | sase | [`8254254`](https://github.com/sase-org/sase/commit/8254254e2f61726db20f2313ce4f8afb9b7e4300) | feat(agent-hijack): add real-pipeline hijack canary | 2026-11-16 03:55:28 EST |
 
 ## Neighbors
 

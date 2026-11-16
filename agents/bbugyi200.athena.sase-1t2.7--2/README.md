@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / [sase-1t2.7](../../sessions/bbugyi200.athena.sase-1t2.7.md) / sase-1t2.7--2
 
-**Global name:** `bbugyi200.athena.sase-1t2.7--2` · **State:** active · **Source run:** `run-be2f675a0e0409c24a4fea6704c1e200`
+**Global name:** `bbugyi200.athena.sase-1t2.7--2` · **State:** completed · **Source run:** `run-be2f675a0e0409c24a4fea6704c1e200`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1t2.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/sase-1t2.7.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-16T07:50:32.856652+00:00
-- Commits: 0
+- Timing: 2026-11-16T07:50:32.856652+00:00 → 2026-11-16T08:56:47.540959+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8254254`](https://github.com/sase-org/sase/commit/8254254e2f61726db20f2313ce4f8afb9b7e4300) | feat(agent-hijack): add real-pipeline hijack canary | 2026-11-16 03:55:28 EST |
 
 ## Neighbors
 
