@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.8.1.1
 
-**Global name:** `bbugyi200.athena.sase-1t2.8.1.1` · **State:** active · **Source run:** `run-3c517bbb1428cad2ebe35fdf507583b6`
+**Global name:** `bbugyi200.athena.sase-1t2.8.1.1` · **State:** completed · **Source run:** `run-3c517bbb1428cad2ebe35fdf507583b6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/sase-1t2.8.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-16T09:11:46.788762+00:00
-- Commits: 0
+- Timing: 2026-11-16T09:11:46.788762+00:00 → 2026-11-16T11:09:00.969866+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`73718c7`](https://github.com/sase-org/sase/commit/73718c77e13940f99ca42f2fdda49bb9aec3d6a7) | feat(agent-hijack): add durable latch request and application primitives | 2026-11-16 06:07:37 EST |
 
 ## Neighbors
 
@@ -43,5 +49,5 @@
 | [sase-1t2.5](../bbugyi200.athena.sase-1t2.5/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.6](../../sessions/bbugyi200.athena.sase-1t2.6.md) (session · 3) | sase-1t2 hood | completed 2, failed 1 |
 | [sase-1t2.7](../../sessions/bbugyi200.athena.sase-1t2.7.md) (session · 5) | sase-1t2 hood | completed 4, failed 1 |
-| [sase-1t2.9](../bbugyi200.athena.sase-1t2.9/README.md) | sase-1t2 hood | failed |
+| [sase-1t2.9](../bbugyi200.athena.sase-1t2.9/README.md) | sase-1t2 hood | active |
 | [sase-1t2.land](../bbugyi200.athena.sase-1t2.land/README.md) | sase-1t2 hood | waiting |

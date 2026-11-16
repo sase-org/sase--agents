@@ -1304,7 +1304,7 @@
 | [j6](hoods/j6/README.md) | 3 | 1 | active 1, completed 2 |
 | [j7](hoods/j7/README.md) | 3 | 1 | active 1, completed 2 |
 | [j9](hoods/j9/README.md) | 3 | 1 | active 1, completed 2 |
-| [jb](hoods/jb/README.md) | 4 | 1 | active 1, completed 2, waiting 1 |
+| [jb](hoods/jb/README.md) | 4 | 1 | active 1, completed 2, dismissed 1 |
 | [je](hoods/je/README.md) | 3 | 1 | active 1, completed 2 |
 | [jf](hoods/jf/README.md) | 3 | 1 | active 1, completed 2 |
 | [jg](hoods/jg/README.md) | 3 | 1 | active 1, completed 2 |
@@ -1600,7 +1600,7 @@
 | [sase-1ss](hoods/sase-1ss/README.md) | 5 | 1 | completed 5 |
 | [sase-1sy](hoods/sase-1sy/README.md) | 12 | 2 | active 1, completed 9, failed 2 |
 | [sase-1t0](hoods/sase-1t0/README.md) | 10 | 3 | completed 9, failed 1 |
-| [sase-1t2](hoods/sase-1t2/README.md) | 37 | 5 | active 2, completed 19, failed 4, waiting 12 |
+| [sase-1t2](hoods/sase-1t2/README.md) | 37 | 5 | active 2, completed 20, failed 3, waiting 12 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |
 | [sase-46](hoods/sase-46/README.md) | 6 | 0 | completed 6 |

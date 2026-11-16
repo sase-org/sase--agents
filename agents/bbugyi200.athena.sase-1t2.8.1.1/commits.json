@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3c517bbb1428cad2ebe35fdf507583b6"}
+{"commits":[{"committed_at":1794827257,"sha":"73718c77e13940f99ca42f2fdda49bb9aec3d6a7","subject":"feat(agent-hijack): add durable latch request and application primitives"}],"schema_version":2,"source_run_id":"run-3c517bbb1428cad2ebe35fdf507583b6"}
