@@ -17,14 +17,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f943218`](https://github.com/sase-org/sase/commit/f943218ef38a0eb9a42f7630ddec8ff3f4624394) | fix(tui): highlight agent runner limit | 2026-07-24 18:51:18 EDT |
+| — | `f943218` | fix(tui): highlight agent runner limit | 2026-07-24 18:51:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [jq](../bbugyi200.athena.jq/README.md) | ancestor | completed |
-| [jq.f0.f0](../../sessions/bbugyi200.athena.jq.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [jq.f0.f0](../../sessions/bbugyi200.athena.jq.f0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [jq.f0.f0](../bbugyi200.athena.jq.f0.f0/README.md) | descendant | completed |
-| [jq.f0.f1](../../sessions/bbugyi200.athena.jq.f0.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [jq.f0.f1](../../sessions/bbugyi200.athena.jq.f0.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [jq.f0.f1](../bbugyi200.athena.jq.f0.f1/README.md) | descendant | completed |

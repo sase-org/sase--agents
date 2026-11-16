@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63ad0ab`](https://github.com/sase-org/sase/commit/63ad0ab6b188392f9a7348b545f733d991d74f42) | feat(tui): color runner limits by capacity | 2026-07-24 19:36:01 EDT |
+| — | `63ad0ab` | feat(tui): color runner limits by capacity | 2026-07-24 19:36:01 EDT |
 
 ## Neighbors
 
@@ -25,5 +25,5 @@
 |---|---|---|
 | [jq.f0](../bbugyi200.athena.jq.f0/README.md) | ancestor | completed |
 | [jq](../bbugyi200.athena.jq/README.md) | ancestor | completed |
-| [jq.f0.f1](../../sessions/bbugyi200.athena.jq.f0.f1.md) (session · 2) | jq.f0 hood | active 1, completed 1 |
+| [jq.f0.f1](../../sessions/bbugyi200.athena.jq.f0.f1.md) (session · 2) | jq.f0 hood | completed 1, dismissed 1 |
 | [jq.f0.f1](../bbugyi200.athena.jq.f0.f1/README.md) | jq.f0 hood | completed |

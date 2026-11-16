@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ca348d7`](https://github.com/sase-org/sase/commit/ca348d7034c1887b600464b913d8b29cba304ef9) | feat(ace): show globally queued agent counts | 2026-07-24 19:20:55 EDT |
+| — | `ca348d7` | feat(ace): show globally queued agent counts | 2026-07-24 19:20:55 EDT |
 
 ## Neighbors
 
@@ -25,5 +25,5 @@
 |---|---|---|
 | [jq.f0](../bbugyi200.athena.jq.f0/README.md) | ancestor | completed |
 | [jq](../bbugyi200.athena.jq/README.md) | ancestor | completed |
-| [jq.f0.f0](../../sessions/bbugyi200.athena.jq.f0.f0.md) (session · 2) | jq.f0 hood | active 1, completed 1 |
+| [jq.f0.f0](../../sessions/bbugyi200.athena.jq.f0.f0.md) (session · 2) | jq.f0 hood | completed 1, dismissed 1 |
 | [jq.f0.f0](../bbugyi200.athena.jq.f0.f0/README.md) | jq.f0 hood | completed |

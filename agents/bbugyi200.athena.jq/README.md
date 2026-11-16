@@ -17,15 +17,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86dc5a0`](https://github.com/sase-org/sase/commit/86dc5a04895671ef29fe61ba695eff1bf6ec7eaa) | feat(ace): consolidate Agents header status counts | 2026-07-24 18:20:05 EDT |
+| — | `86dc5a0` | feat(ace): consolidate Agents header status counts | 2026-07-24 18:20:05 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [jq.f0](../../sessions/bbugyi200.athena.jq.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [jq.f0](../../sessions/bbugyi200.athena.jq.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [jq.f0](../bbugyi200.athena.jq.f0/README.md) | descendant | completed |
-| [jq.f0.f0](../../sessions/bbugyi200.athena.jq.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [jq.f0.f0](../../sessions/bbugyi200.athena.jq.f0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [jq.f0.f0](../bbugyi200.athena.jq.f0.f0/README.md) | descendant | completed |
-| [jq.f0.f1](../../sessions/bbugyi200.athena.jq.f0.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [jq.f0.f1](../../sessions/bbugyi200.athena.jq.f0.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [jq.f0.f1](../bbugyi200.athena.jq.f0.f1/README.md) | descendant | completed |
