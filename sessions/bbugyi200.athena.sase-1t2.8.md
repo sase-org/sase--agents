@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1t2.8--plan [active]"]
   n1["sase-1t2.8--gate [completed]"]
   n0 --> n1
-  n2["sase-1t2.8--mon [active]"]
+  n2["sase-1t2.8--mon [completed]"]
   n0 --> n2
 ```
 
@@ -21,12 +21,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1t2.8--plan | active | gpt-6-astra / codex | 2026-11-16T08:56:56.740667+00:00 → 2026-11-16T09:09:08.157700+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t2.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t2.8--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1t2.8--gate | completed | gpt-6-astra / codex | 2026-11-16T09:08:32.295006+00:00 → 2026-11-16T09:08:59.647136+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t2.8--gate/chat.md) |
-| <a id="member-mon"></a>mon | sase-1t2.8--mon | active | gpt-6-astra / codex | 2026-11-16T09:08:57.046814+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1t2.8--mon | completed | gpt-6-astra / codex | 2026-11-16T09:08:57.046814+00:00 → 2026-11-16T09:12:43.665449+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t2.8--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-1t2.8.1.1](../agents/bbugyi200.athena.sase-1t2.8.1.1/README.md) | descendant | active |
+| [sase-1t2.8.1.2](../agents/bbugyi200.athena.sase-1t2.8.1.2/README.md) | descendant | waiting |
+| [sase-1t2.8.1.3](../agents/bbugyi200.athena.sase-1t2.8.1.3/README.md) | descendant | waiting |
+| [sase-1t2.8.1.4](../agents/bbugyi200.athena.sase-1t2.8.1.4/README.md) | descendant | waiting |
+| [sase-1t2.8.1.5](../agents/bbugyi200.athena.sase-1t2.8.1.5/README.md) | descendant | waiting |
+| [sase-1t2.8.1.6](../agents/bbugyi200.athena.sase-1t2.8.1.6/README.md) | descendant | waiting |
+| [sase-1t2.8.1.7](../agents/bbugyi200.athena.sase-1t2.8.1.7/README.md) | descendant | waiting |
+| [sase-1t2.8.1.land](../agents/bbugyi200.athena.sase-1t2.8.1.land/README.md) | descendant | waiting |
 | [sase-1t2.1](../agents/bbugyi200.athena.sase-1t2.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.10](../agents/bbugyi200.athena.sase-1t2.10/README.md) | sase-1t2 hood | waiting |
 | [sase-1t2.11](../agents/bbugyi200.athena.sase-1t2.11/README.md) | sase-1t2 hood | waiting |
@@ -39,5 +47,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1t2.5](../agents/bbugyi200.athena.sase-1t2.5/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.6](bbugyi200.athena.sase-1t2.6.md) (session · 3) | sase-1t2 hood | completed 2, failed 1 |
 | [sase-1t2.7](bbugyi200.athena.sase-1t2.7.md) (session · 5) | sase-1t2 hood | completed 4, failed 1 |
-| [sase-1t2.9](../agents/bbugyi200.athena.sase-1t2.9/README.md) | sase-1t2 hood | waiting |
+| [sase-1t2.9](../agents/bbugyi200.athena.sase-1t2.9/README.md) | sase-1t2 hood | failed |
 | [sase-1t2.land](../agents/bbugyi200.athena.sase-1t2.land/README.md) | sase-1t2 hood | waiting |

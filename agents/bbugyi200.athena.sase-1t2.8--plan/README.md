@@ -23,6 +23,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-1t2.8.1.1](../bbugyi200.athena.sase-1t2.8.1.1/README.md) | descendant | active |
+| [sase-1t2.8.1.2](../bbugyi200.athena.sase-1t2.8.1.2/README.md) | descendant | waiting |
+| [sase-1t2.8.1.3](../bbugyi200.athena.sase-1t2.8.1.3/README.md) | descendant | waiting |
+| [sase-1t2.8.1.4](../bbugyi200.athena.sase-1t2.8.1.4/README.md) | descendant | waiting |
+| [sase-1t2.8.1.5](../bbugyi200.athena.sase-1t2.8.1.5/README.md) | descendant | waiting |
+| [sase-1t2.8.1.6](../bbugyi200.athena.sase-1t2.8.1.6/README.md) | descendant | waiting |
+| [sase-1t2.8.1.7](../bbugyi200.athena.sase-1t2.8.1.7/README.md) | descendant | waiting |
+| [sase-1t2.8.1.land](../bbugyi200.athena.sase-1t2.8.1.land/README.md) | descendant | waiting |
 | [sase-1t2.1](../bbugyi200.athena.sase-1t2.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.10](../bbugyi200.athena.sase-1t2.10/README.md) | sase-1t2 hood | waiting |
 | [sase-1t2.11](../bbugyi200.athena.sase-1t2.11/README.md) | sase-1t2 hood | waiting |
@@ -35,5 +43,5 @@
 | [sase-1t2.5](../bbugyi200.athena.sase-1t2.5/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.6](../../sessions/bbugyi200.athena.sase-1t2.6.md) (session · 3) | sase-1t2 hood | completed 2, failed 1 |
 | [sase-1t2.7](../../sessions/bbugyi200.athena.sase-1t2.7.md) (session · 5) | sase-1t2 hood | completed 4, failed 1 |
-| [sase-1t2.9](../bbugyi200.athena.sase-1t2.9/README.md) | sase-1t2 hood | waiting |
+| [sase-1t2.9](../bbugyi200.athena.sase-1t2.9/README.md) | sase-1t2 hood | failed |
 | [sase-1t2.land](../bbugyi200.athena.sase-1t2.land/README.md) | sase-1t2 hood | waiting |

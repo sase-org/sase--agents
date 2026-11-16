@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.9
 
-**Global name:** `bbugyi200.athena.sase-1t2.9` · **State:** waiting · **Source run:** `run-f22ec8ea83f0a1bb60987e3625c36ee0`
+**Global name:** `bbugyi200.athena.sase-1t2.9` · **State:** failed · **Source run:** `run-f22ec8ea83f0a1bb60987e3625c36ee0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1t2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261115200202
+- Timing: 2026-11-16T08:56:57.767543+00:00 → 2026-11-16T09:38:07.171058+00:00
 - Commits: 0
 
 ## Files
@@ -35,5 +35,13 @@
 | [sase-1t2.5](../bbugyi200.athena.sase-1t2.5/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.6](../../sessions/bbugyi200.athena.sase-1t2.6.md) (session · 3) | sase-1t2 hood | completed 2, failed 1 |
 | [sase-1t2.7](../../sessions/bbugyi200.athena.sase-1t2.7.md) (session · 5) | sase-1t2 hood | completed 4, failed 1 |
-| [sase-1t2.8](../../sessions/bbugyi200.athena.sase-1t2.8.md) (session · 3) | sase-1t2 hood | active 2, completed 1 |
+| [sase-1t2.8](../../sessions/bbugyi200.athena.sase-1t2.8.md) (session · 3) | sase-1t2 hood | active 1, completed 2 |
+| [sase-1t2.8.1.1](../bbugyi200.athena.sase-1t2.8.1.1/README.md) | sase-1t2 hood | active |
+| [sase-1t2.8.1.2](../bbugyi200.athena.sase-1t2.8.1.2/README.md) | sase-1t2 hood | waiting |
+| [sase-1t2.8.1.3](../bbugyi200.athena.sase-1t2.8.1.3/README.md) | sase-1t2 hood | waiting |
+| [sase-1t2.8.1.4](../bbugyi200.athena.sase-1t2.8.1.4/README.md) | sase-1t2 hood | waiting |
+| [sase-1t2.8.1.5](../bbugyi200.athena.sase-1t2.8.1.5/README.md) | sase-1t2 hood | waiting |
+| [sase-1t2.8.1.6](../bbugyi200.athena.sase-1t2.8.1.6/README.md) | sase-1t2 hood | waiting |
+| [sase-1t2.8.1.7](../bbugyi200.athena.sase-1t2.8.1.7/README.md) | sase-1t2 hood | waiting |
+| [sase-1t2.8.1.land](../bbugyi200.athena.sase-1t2.8.1.land/README.md) | sase-1t2 hood | waiting |
 | [sase-1t2.land](../bbugyi200.athena.sase-1t2.land/README.md) | sase-1t2 hood | waiting |
