@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.6.1.3
 
-Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 6 · Bead: [sase-1t3.6.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.6.1.3.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 7 · Bead: [sase-1t3.6.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.6.1.3.md)
 
 ## Lineage
 
@@ -19,6 +19,8 @@ flowchart TD
   n0 --> n4
   n5["sase-1t3.6.1.3--plan [completed]"]
   n0 --> n5
+  n6["sase-1t3.6.1.3--3 [active]"]
+  n0 --> n6
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -31,6 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | sase-1t3.6.1.3--mon | completed | gpt-6-luna / codex | 2026-11-16T18:53:37.749645+00:00 → 2026-11-16T19:17:27.754078+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.3--mon/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1t3.6.1.3--mon-0 | completed | gpt-6-luna / codex | 2026-11-16T20:21:20.893176+00:00 → 2026-11-16T20:43:16.068072+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.3--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | sase-1t3.6.1.3--plan | completed | gpt-6-luna / codex | 2026-11-16T18:18:57.710807+00:00 → 2026-11-16T18:55:42.649743+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.6.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.3--plan/chat.md) |
+| <a id="member-3"></a>3 | sase-1t3.6.1.3--3 | active | gpt-6-luna / codex | 20261116155524 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.6.1.3--3/prompt.md) | — |
 
 ## Neighbors
 
