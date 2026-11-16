@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `ih` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["ih--plan [active]"]
+  n0["ih--plan [dismissed]"]
   n1["ih--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | ih--plan | active | gpt-5.6-sol / codex | 2026-07-22T16:13:47.104581+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ih--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ih--plan/chat.md) |
+| <a id="member-plan"></a>plan | ih--plan | dismissed | gpt-5.6-sol / codex | 2026-07-22T12:13:47.104581 → 2026-07-22T12:42:01.814817 | 0 | [Prompt](../agents/bbugyi200.athena.ih--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ih--plan/chat.md) |
 | <a id="member-code"></a>code | ih--code | completed | gpt-5.6-sol / codex | 2026-07-22T16:21:47.824381+00:00 | [1](../agents/bbugyi200.athena.ih--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.ih--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a20e82d`](https://github.com/sase-org/sase/commit/a20e82dca2d2867920ad7534447c806845258fe5) | fix: restore epic clan summaries | 2026-07-22 12:41:35 EDT |
+| code | — | `a20e82d` | fix: restore epic clan summaries | 2026-07-22 12:41:35 EDT |

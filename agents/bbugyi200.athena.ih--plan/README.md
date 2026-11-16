@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ih](../../users/bbugyi200/machines/athena/hoods/ih/README.md) / [ih](../../sessions/bbugyi200.athena.ih.md) / ih--plan
 
-**Global name:** `bbugyi200.athena.ih--plan` · **State:** active · **Source run:** `run-185eafa382337d27f4ac57de76742676`
+**Global name:** `bbugyi200.athena.ih--plan` · **State:** dismissed · **Source run:** `run-185eafa382337d27f4ac57de76742676`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** ih
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-22T16:13:47.104581+00:00
+- Timing: 2026-07-22T12:13:47.104581 → 2026-07-22T12:42:01.814817
 - Commits: 0
 
 ## Files
