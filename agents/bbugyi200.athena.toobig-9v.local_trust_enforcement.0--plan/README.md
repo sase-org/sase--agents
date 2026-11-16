@@ -23,5 +23,5 @@
 |---|---|---|
 | [toobig-9v.facts.0](../../sessions/bbugyi200.athena.toobig-9v.facts.0.md) (session · 3) | toobig-9v hood | completed 2, failed 1 |
 | [toobig-9v.latch.0](../bbugyi200.athena.toobig-9v.latch.0/README.md) | toobig-9v hood | completed |
-| [toobig-9v.local\_trust\_management.0](../bbugyi200.athena.toobig-9v.local_trust_management.0/README.md) | toobig-9v hood | waiting |
+| [toobig-9v.local\_trust\_management.0](../bbugyi200.athena.toobig-9v.local_trust_management.0/README.md) | toobig-9v hood | completed |
 | [toobig-9v.run\_agent\_exec\_staged\_dispatch.0](../bbugyi200.athena.toobig-9v.run_agent_exec_staged_dispatch.0/README.md) | toobig-9v hood | completed |

@@ -30,4 +30,4 @@
 | [toobig-9v.facts.0](../../sessions/bbugyi200.athena.toobig-9v.facts.0.md) (session · 3) | toobig-9v hood | completed 2, failed 1 |
 | [toobig-9v.latch.0](../bbugyi200.athena.toobig-9v.latch.0/README.md) | toobig-9v hood | completed |
 | [toobig-9v.local\_trust\_enforcement.0](../../sessions/bbugyi200.athena.toobig-9v.local_trust_enforcement.0.md) (session · 5) | toobig-9v hood | completed 3, failed 2 |
-| [toobig-9v.local\_trust\_management.0](../bbugyi200.athena.toobig-9v.local_trust_management.0/README.md) | toobig-9v hood | waiting |
+| [toobig-9v.local\_trust\_management.0](../bbugyi200.athena.toobig-9v.local_trust_management.0/README.md) | toobig-9v hood | completed |

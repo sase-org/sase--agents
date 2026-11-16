@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-523841d56f9bd505451a4de321f13c30"}
+{"commits":[{"committed_at":1794873221,"sha":"69226065c1e0feaf4e642faf8e2a7595c9e09201","subject":"refactor(config): split local trust management module"}],"schema_version":2,"source_run_id":"run-523841d56f9bd505451a4de321f13c30"}
