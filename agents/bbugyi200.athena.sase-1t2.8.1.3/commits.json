@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b5814d37633844f15486efafbc79b824"}
+{"commits":[{"committed_at":1794838086,"sha":"13b7ae9075e96781c3d53480420a885b9f028b85","subject":"feat(agent-hijack): enforce runner-side latch at adoption, retry, and delivery boundaries"}],"schema_version":2,"source_run_id":"run-b5814d37633844f15486efafbc79b824"}

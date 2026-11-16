@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.8.1.3
 
-**Global name:** `bbugyi200.athena.sase-1t2.8.1.3` · **State:** waiting · **Source run:** `run-b5814d37633844f15486efafbc79b824`
+**Global name:** `bbugyi200.athena.sase-1t2.8.1.3` · **State:** completed · **Source run:** `run-b5814d37633844f15486efafbc79b824`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/sase-1t2.8.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261116041038
-- Commits: 0
+- Timing: 2026-11-16T13:38:17.305743+00:00 → 2026-11-16T14:09:36.258498+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`13b7ae9`](https://github.com/sase-org/sase/commit/13b7ae9075e96781c3d53480420a885b9f028b85) | feat(agent-hijack): enforce runner-side latch at adoption, retry, and delivery boundaries | 2026-11-16 09:08:06 EST |
 
 ## Neighbors
 
