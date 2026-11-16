@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.9
 
-**Global name:** `bbugyi200.athena.sase-1t2.9` · **State:** active · **Source run:** `run-05207fcaddaccdb6f48127f86b025d40`
+**Global name:** `bbugyi200.athena.sase-1t2.9` · **State:** completed · **Source run:** `run-05207fcaddaccdb6f48127f86b025d40`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1t2.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/sase-1t2.9.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-16T10:50:40.599049+00:00
-- Commits: 0
+- Timing: 2026-11-16T10:50:40.599049+00:00 → 2026-11-16T11:48:39.009871+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0731d06`](https://github.com/sase-org/sase/commit/0731d06c5a290eb037c88d17bde34bb174103295) | feat(agent-hijack): support waiting and unstarted turn recovery | 2026-11-16 06:47:08 EST |
 
 ## Neighbors
 

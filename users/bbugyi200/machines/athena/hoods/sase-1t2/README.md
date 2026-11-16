@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-1t2
 
-**Global hood:** `bbugyi200.athena.sase-1t2` · **Runs:** 37 · **Sessions:** 5 · **States:** active 2, completed 20, failed 3, waiting 12
+**Global hood:** `bbugyi200.athena.sase-1t2` · **Runs:** 37 · **Sessions:** 5 · **States:** active 1, completed 21, failed 3, waiting 12
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-1t2.9](../../../../../../agents/bbugyi200.athena.sase-1t2.9/README.md) | active | gpt-6-astra / codex | 2026-11-16T10:50:40.599049+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1t2.9/prompt.md) |
+| [sase-1t2.9](../../../../../../agents/bbugyi200.athena.sase-1t2.9/README.md) | completed | gpt-6-astra / codex | 2026-11-16T10:50:40.599049+00:00 → 2026-11-16T11:48:39.009871+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1t2.9/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1t2.9/chat.md) |
 | [sase-1t2.4--mon](../../../../../../sessions/bbugyi200.athena.sase-1t2.4.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-16T04:09:03.475156+00:00 → 2026-11-16T04:12:10.476977+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1t2.4--mon/chat.md) |
 | [sase-1t2.6--plan](../../../../../../sessions/bbugyi200.athena.sase-1t2.6.md#member-plan) | completed | muse-spark-1.3-contributor / muse | 2026-11-16T04:50:15.789422+00:00 → 2026-11-16T05:30:16.875049+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1t2.6--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1t2.6--plan/chat.md) |
 | [sase-1t2.8--plan](../../../../../../sessions/bbugyi200.athena.sase-1t2.8.md#member-plan) | active | gpt-6-astra / codex | 2026-11-16T08:56:56.740667+00:00 → 2026-11-16T09:09:08.157700+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1t2.8--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1t2.8--plan/chat.md) |

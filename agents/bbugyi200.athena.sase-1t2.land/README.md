@@ -43,4 +43,4 @@
 | [sase-1t2.8.1.6](../bbugyi200.athena.sase-1t2.8.1.6/README.md) | sase-1t2 hood | waiting |
 | [sase-1t2.8.1.7](../bbugyi200.athena.sase-1t2.8.1.7/README.md) | sase-1t2 hood | waiting |
 | [sase-1t2.8.1.land](../bbugyi200.athena.sase-1t2.8.1.land/README.md) | sase-1t2 hood | waiting |
-| [sase-1t2.9](../bbugyi200.athena.sase-1t2.9/README.md) | sase-1t2 hood | active |
+| [sase-1t2.9](../bbugyi200.athena.sase-1t2.9/README.md) | sase-1t2 hood | completed |
