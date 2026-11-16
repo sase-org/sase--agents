@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794835999,"sha":"ba6ec6897bf3b50ba318e3c349cc3eac158508dd","subject":"feat(agent-hijack): refuse successor launches against a latched predecessor"}],"schema_version":2,"source_run_id":"run-58310ccdf8860a7d5f5727c80ce3fe9e"}

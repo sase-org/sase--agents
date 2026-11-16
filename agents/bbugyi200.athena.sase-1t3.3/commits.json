@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3e1d71a7302ab06f8083f2964aff85c2"}
+{"commits":[{"committed_at":1794835961,"sha":"157ae99cf0a70d6af16283a9140c080cbae1df85","subject":"feat(config): memoize trust identity and merged-config fast path"}],"schema_version":2,"source_run_id":"run-3e1d71a7302ab06f8083f2964aff85c2"}
