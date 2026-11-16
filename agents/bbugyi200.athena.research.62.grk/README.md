@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.62.grk
 
-**Global name:** `bbugyi200.athena.research.62.grk` · **State:** active · **Source run:** `run-62f0339a3d4771fa7b156cd0ea3ae2f1`
+**Global name:** `bbugyi200.athena.research.62.grk` · **State:** completed · **Source run:** `run-62f0339a3d4771fa7b156cd0ea3ae2f1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-16T11:15:31.484645+00:00
+- Timing: 2026-11-16T11:15:31.484645+00:00 → 2026-11-16T11:39:20.514180+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/tui\_performance\_optimization/tui\_performance\_optimization\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261116061340/tui\_performance\_o… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/tui_performance_optimization/tui_performance_optimization__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261116061340/tui_performance_optimization__grk-08e6b0242831.md
+  ref: file:explicit:84830de250d0db3eeb71f676
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_27/sase/repos/research/202611/tui_performance_optimization/tui_performance_optimization__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

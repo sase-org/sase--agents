@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-11-16T11:16:13.693290+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/sase\_tui\_performance\_optimization\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261116061342/sase\_tui\_performance\_optimization\_\_gem-05… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/sase_tui_performance_optimization__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261116061342/sase_tui_performance_optimization__gem-057dd253efce.md
+  ref: file:explicit:36641fd25ac14d1c35253c36
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_30/sase/repos/research/202611/sase_tui_performance_optimization__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.62.cdx](../bbugyi200.athena.research.62.cdx/README.md) | research.62 hood | completed |
 | [research.62.cld](../bbugyi200.athena.research.62.cld/README.md) | research.62 hood | completed |
 | [research.62.final](../bbugyi200.athena.research.62.final/README.md) | research.62 hood | waiting |
-| [research.62.grk](../bbugyi200.athena.research.62.grk/README.md) | research.62 hood | active |
+| [research.62.grk](../bbugyi200.athena.research.62.grk/README.md) | research.62 hood | completed |
 | [research.62.image](../bbugyi200.athena.research.62.image/README.md) | research.62 hood | waiting |
 | [research.62.linker](../bbugyi200.athena.research.62.linker/README.md) | research.62 hood | waiting |
 | [research.62.mus](../bbugyi200.athena.research.62.mus/README.md) | research.62 hood | completed |
