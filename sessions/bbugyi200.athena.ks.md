@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `ks` · Members: 2
 ```mermaid
 flowchart TD
   n0["ks--code [completed]"]
-  n1["ks--plan [active]"]
+  n1["ks--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | ks--code | completed | gpt-5.6-sol / codex | 2026-07-25T15:05:36.867555+00:00 | [1](../agents/bbugyi200.athena.ks--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.ks--code/chat.md) |
-| <a id="member-plan"></a>plan | ks--plan | active | opus / claude | 2026-07-25T14:57:26.907851+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ks--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ks--plan/chat.md) |
+| <a id="member-plan"></a>plan | ks--plan | dismissed | opus / claude | 2026-07-25T10:57:26.907851 → 2026-07-25T11:33:25.891467 | 0 | [Prompt](../agents/bbugyi200.athena.ks--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ks--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`178f5d5`](https://github.com/sase-org/sase/commit/178f5d53fd7228e8363cfd1ce7adf594bb6127ac) | fix(ace): skip collapsed tribe panels during jumps | 2026-07-25 11:32:42 EDT |
+| code | — | `178f5d5` | fix(ace): skip collapsed tribe panels during jumps | 2026-07-25 11:32:42 EDT |

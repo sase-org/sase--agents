@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e746e59`](https://github.com/sase-org/sase/commit/e746e59d2a517804f250077ae9eb90cddf2ff39b) | feat: attach generated videos to agent completions | 2026-07-06 16:25:42 EDT |
+| — | `e746e59` | feat: attach generated videos to agent completions | 2026-07-06 16:25:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [l.f1](../../sessions/bbugyi200.athena.l.f1.md) (session · 2) | descendant | active 1, completed 1 |
-| [l.f1.f1](../../sessions/bbugyi200.athena.l.f1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [l.f1](../../sessions/bbugyi200.athena.l.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [l.f1.f1](../../sessions/bbugyi200.athena.l.f1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

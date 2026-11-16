@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0047ef8`](https://github.com/sase-org/sase/commit/0047ef832725c6d8b33abf89d0173e98a3b0cf18) | fix: persist prompt-referenced videos as artifacts | 2026-07-06 16:43:38 EDT |
+| — | `0047ef8` | fix: persist prompt-referenced videos as artifacts | 2026-07-06 16:43:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [l](../../sessions/bbugyi200.athena.l.md) (session · 2) | ancestor | active 1, completed 1 |
-| [l.f1.f1](../../sessions/bbugyi200.athena.l.f1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [l](../../sessions/bbugyi200.athena.l.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [l.f1.f1](../../sessions/bbugyi200.athena.l.f1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

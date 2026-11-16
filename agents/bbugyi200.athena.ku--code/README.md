@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [ku.f1](../../sessions/bbugyi200.athena.ku.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [ku.f1](../../sessions/bbugyi200.athena.ku.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [ku.f1](../bbugyi200.athena.ku.f1/README.md) | descendant | completed |
-| [ku.f1.w0](../bbugyi200.athena.ku.f1.w0/README.md) | descendant | waiting |
+| [ku.f1.w0](../bbugyi200.athena.ku.f1.w0/README.md) | descendant | dismissed |

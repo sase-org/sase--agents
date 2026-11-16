@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e49c4e1`](https://github.com/sase-org/sase/commit/e49c4e13698a4b703c3e2b0e56178b0a7a0b8ef6) | feat(ace): preview video artifacts with mpv | 2026-07-06 17:10:15 EDT |
+| — | `e49c4e1` | feat(ace): preview video artifacts with mpv | 2026-07-06 17:10:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [l.f1](../../sessions/bbugyi200.athena.l.f1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [l](../../sessions/bbugyi200.athena.l.md) (session · 2) | ancestor | active 1, completed 1 |
+| [l.f1](../../sessions/bbugyi200.athena.l.f1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [l](../../sessions/bbugyi200.athena.l.md) (session · 2) | ancestor | completed 1, dismissed 1 |

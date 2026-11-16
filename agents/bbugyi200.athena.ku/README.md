@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`899a257`](https://github.com/sase-org/sase/commit/899a257f22b0a36225485f8c81faaf72cef4fdf9) | feat: surface runner-cap queued agent status | 2026-07-25 12:43:55 EDT |
+| — | `899a257` | feat: surface runner-cap queued agent status | 2026-07-25 12:43:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [ku.f1](../../sessions/bbugyi200.athena.ku.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [ku.f1](../../sessions/bbugyi200.athena.ku.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [ku.f1](../bbugyi200.athena.ku.f1/README.md) | descendant | completed |
-| [ku.f1.w0](../bbugyi200.athena.ku.f1.w0/README.md) | descendant | waiting |
+| [ku.f1.w0](../bbugyi200.athena.ku.f1.w0/README.md) | descendant | dismissed |
