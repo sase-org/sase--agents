@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.8.1.7
 
-**Global name:** `bbugyi200.athena.sase-1t2.8.1.7` · **State:** waiting · **Source run:** `run-fa7256c69f3b42d48c4ba756cb99b2d2`
+**Global name:** `bbugyi200.athena.sase-1t2.8.1.7` · **State:** completed · **Source run:** `run-fa7256c69f3b42d48c4ba756cb99b2d2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/sase-1t2.8.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261116041042
-- Commits: 0
+- Timing: 2026-11-16T17:32:42.127351+00:00 → 2026-11-16T18:57:59.813515+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8a1b84b`](https://github.com/sase-org/sase/commit/8a1b84b096401ced7f1ec2f8b4c3d937ae5ab135) | fix(hijack): complete staged latch recovery | 2026-11-16 13:56:51 EST |
 
 ## Neighbors
 

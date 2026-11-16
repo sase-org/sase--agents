@@ -29,7 +29,7 @@
 | [sase-1t2.8.1.4](../bbugyi200.athena.sase-1t2.8.1.4/README.md) | descendant | completed |
 | [sase-1t2.8.1.5](../bbugyi200.athena.sase-1t2.8.1.5/README.md) | descendant | completed |
 | [sase-1t2.8.1.6](../../sessions/bbugyi200.athena.sase-1t2.8.1.6.md) (session · 3) | descendant | completed 2, failed 1 |
-| [sase-1t2.8.1.7](../bbugyi200.athena.sase-1t2.8.1.7/README.md) | descendant | waiting |
+| [sase-1t2.8.1.7](../bbugyi200.athena.sase-1t2.8.1.7/README.md) | descendant | completed |
 | [sase-1t2.8.1.land](../bbugyi200.athena.sase-1t2.8.1.land/README.md) | descendant | waiting |
 | [sase-1t2.1](../bbugyi200.athena.sase-1t2.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.10](../bbugyi200.athena.sase-1t2.10/README.md) | sase-1t2 hood | waiting |
