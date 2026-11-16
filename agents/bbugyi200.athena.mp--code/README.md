@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fc72269`](https://github.com/sase-org/sase/commit/fc72269b639c93cc29cd617d5b3dd3da4d91cd3d) | feat(ace): add project facet to commits filters | 2026-07-28 07:32:59 EDT |
+| — | `fc72269` | feat(ace): add project facet to commits filters | 2026-07-28 07:32:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [mp.f0](../../sessions/bbugyi200.athena.mp.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [mp.f0](../../sessions/bbugyi200.athena.mp.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
