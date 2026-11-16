@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.62.linker
 
-**Global name:** `bbugyi200.athena.research.62.linker` · **State:** waiting · **Source run:** `run-86a6ed738d01d7054f02f7c5a9030ea1`
+**Global name:** `bbugyi200.athena.research.62.linker` · **State:** completed · **Source run:** `run-86a6ed738d01d7054f02f7c5a9030ea1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,17 +10,37 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261116061347
+- Timing: 2026-11-16T12:17:02.268454+00:00 → 2026-11-16T12:27:27.949658+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/tui\_hijack\_storm\_trust\_root\_and\_heap/tui\_hijack\_storm\_trust\_root\_and\_heap.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261116061347/tui\_hi… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/tui_hijack_storm_trust_root_and_heap/tui_hijack_storm_trust_root_and_heap.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261116061347/tui_hijack_storm_trust_root_and_heap-5152ca1c4fda.md
+  ref: file:explicit:4edbdc7603b1316a6639a0f8
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_22/sase/repos/research/202611/tui_hijack_storm_trust_root_and_heap/tui_hijack_storm_trust_root_and_heap.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.62.linker.w0](../bbugyi200.athena.research.62.linker.w0/README.md) | descendant | active |
 | [research.62.cdx](../bbugyi200.athena.research.62.cdx/README.md) | research.62 hood | completed |
 | [research.62.cld](../bbugyi200.athena.research.62.cld/README.md) | research.62 hood | completed |
 | [research.62.final](../bbugyi200.athena.research.62.final/README.md) | research.62 hood | completed |
