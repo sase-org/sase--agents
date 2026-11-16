@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3646c82`](https://github.com/sase-org/sase/commit/3646c82849cedd3289a2fe1bcb9c7412de68b534) | fix: use fresh linked repo resolution for prep | 2026-07-06 15:02:04 EDT |
+| — | `3646c82` | fix: use fresh linked repo resolution for prep | 2026-07-06 15:02:04 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [j](../../sessions/bbugyi200.athena.j.md) (session · 2) | ancestor | active 1, completed 1 |
+| [j](../../sessions/bbugyi200.athena.j.md) (session · 2) | ancestor | completed 1, dismissed 1 |

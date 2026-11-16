@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f672125`](https://github.com/sase-org/sase/commit/f672125c50dd7456b4f02fb16d485ad8a5ecf00d) | fix: prepare linked repo workspaces before agent launch | 2026-07-06 14:38:09 EDT |
+| — | `f672125` | fix: prepare linked repo workspaces before agent launch | 2026-07-06 14:38:09 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [j.f1](../../sessions/bbugyi200.athena.j.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [j.f1](../../sessions/bbugyi200.athena.j.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

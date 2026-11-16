@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3dd1026`](https://github.com/sase-org/sase/commit/3dd10267c047e8fea62519696e025a3e657dc4a4) | fix(config): invalidate config token cache on cwd change | 2026-09-03 14:51:20 EDT |
+| — | `3dd1026` | fix(config): invalidate config token cache on cwd change | 2026-09-03 14:51:20 EDT |
