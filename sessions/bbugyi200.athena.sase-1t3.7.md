@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1t3.7.1.1](bbugyi200.athena.sase-1t3.7.1.1.md) (session · 15) | descendant | completed 8, failed 7 |
-| [sase-1t3.7.1.2](../agents/bbugyi200.athena.sase-1t3.7.1.2/README.md) | descendant | waiting |
+| [sase-1t3.7.1.2](bbugyi200.athena.sase-1t3.7.1.2.md) (session · 3) | descendant | completed 2, failed 1 |
 | [sase-1t3.7.1.land](../agents/bbugyi200.athena.sase-1t3.7.1.land/README.md) | descendant | waiting |
 | [sase-1t3.1](bbugyi200.athena.sase-1t3.1.md) (session · 2) | sase-1t3 hood | completed 2 |
 | [sase-1t3.1](../agents/bbugyi200.athena.sase-1t3.1/README.md) | sase-1t3 hood | completed |
@@ -44,7 +44,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1t3.6](bbugyi200.athena.sase-1t3.6.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
 | [sase-1t3.6.1.1](../agents/bbugyi200.athena.sase-1t3.6.1.1/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.6.1.2](../agents/bbugyi200.athena.sase-1t3.6.1.2/README.md) | sase-1t3 hood | completed |
-| [sase-1t3.6.1.3](bbugyi200.athena.sase-1t3.6.1.3.md) (session · 9) | sase-1t3 hood | active 1, completed 7, failed 1 |
+| [sase-1t3.6.1.3](bbugyi200.athena.sase-1t3.6.1.3.md) (session · 12) | sase-1t3 hood | active 1, completed 10, failed 1 |
 | [sase-1t3.6.1.land](../agents/bbugyi200.athena.sase-1t3.6.1.land/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.8](../agents/bbugyi200.athena.sase-1t3.8/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.9](../agents/bbugyi200.athena.sase-1t3.9/README.md) | sase-1t3 hood | waiting |

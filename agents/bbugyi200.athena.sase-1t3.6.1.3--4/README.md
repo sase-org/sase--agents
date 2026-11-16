@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / [sase-1t3.6.1.3](../../sessions/bbugyi200.athena.sase-1t3.6.1.3.md) / sase-1t3.6.1.3--4
 
-**Global name:** `bbugyi200.athena.sase-1t3.6.1.3--4` · **State:** active · **Source run:** `run-19c5fa53d9daa851f921385b595d6384`
+**Global name:** `bbugyi200.athena.sase-1t3.6.1.3--4` · **State:** completed · **Source run:** `run-19c5fa53d9daa851f921385b595d6384`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1t3.6.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.6.1.3.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-16T21:32:43.672790+00:00
+- Timing: 2026-11-16T21:32:43.672790+00:00 → 2026-11-16T22:27:14.230150+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -39,7 +39,7 @@
 | [sase-1t3.5](../../sessions/bbugyi200.athena.sase-1t3.5.md) (session · 6) | sase-1t3 hood | completed 4, failed 2 |
 | [sase-1t3.7](../../sessions/bbugyi200.athena.sase-1t3.7.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
 | [sase-1t3.7.1.1](../../sessions/bbugyi200.athena.sase-1t3.7.1.1.md) (session · 15) | sase-1t3 hood | completed 8, failed 7 |
-| [sase-1t3.7.1.2](../bbugyi200.athena.sase-1t3.7.1.2/README.md) | sase-1t3 hood | waiting |
+| [sase-1t3.7.1.2](../../sessions/bbugyi200.athena.sase-1t3.7.1.2.md) (session · 3) | sase-1t3 hood | completed 2, failed 1 |
 | [sase-1t3.7.1.land](../bbugyi200.athena.sase-1t3.7.1.land/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.8](../bbugyi200.athena.sase-1t3.8/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.9](../bbugyi200.athena.sase-1t3.9/README.md) | sase-1t3 hood | waiting |
