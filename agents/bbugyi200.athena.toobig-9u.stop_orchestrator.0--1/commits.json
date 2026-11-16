@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794837206,"sha":"00d01b4f9d5d3919246adce75f6fed509da31ddb","subject":"refactor(agent-hijack): split _stop_orchestrator under the 500-line cap"}],"schema_version":2,"source_run_id":"run-c575662a3e976ee91008114a57fef724"}

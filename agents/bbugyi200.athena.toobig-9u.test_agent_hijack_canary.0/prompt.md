@@ -1,6 +1,6 @@
+%auto
 %id(test_agent_hijack_canary.0, clan=toobig-9u)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/fakey/test_agent_hijack_canary.py` file into multiple files? Use your best
 %wait:toobig-9u.stop_orchestrator.0
