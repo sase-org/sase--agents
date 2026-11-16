@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`90e268d`](https://github.com/sase-org/sase/commit/90e268d045fc1b184d4d65eed4db5c7c67a1397f) | fix(models): rename user alias ownership to Custom | 2026-07-24 15:19:18 EDT |
+| — | `90e268d` | fix(models): rename user alias ownership to Custom | 2026-07-24 15:19:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [jk](../../sessions/bbugyi200.athena.jk.md) (session · 2) | ancestor | active 1, completed 1 |
+| [jk](../../sessions/bbugyi200.athena.jk.md) (session · 2) | ancestor | completed 1, dismissed 1 |
