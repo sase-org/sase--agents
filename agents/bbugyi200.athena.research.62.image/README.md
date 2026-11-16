@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.62.image
 
-**Global name:** `bbugyi200.athena.research.62.image` · **State:** waiting · **Source run:** `run-8a5469167100b2379506f3c598389d9b`
+**Global name:** `bbugyi200.athena.research.62.image` · **State:** completed · **Source run:** `run-8a5469167100b2379506f3c598389d9b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261116061345
+- Timing: 2026-11-16T12:01:22.713900+00:00 → 2026-11-16T12:15:29.604606+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/tui\_hijack\_storm\_trust\_root\_and\_heap/tui\_hijack\_storm\_trust\_root\_and\_heap.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/202611160613… |
+| `diagrams` | {considered: 15, count: 3, manifest: 202611/tui\_hijack\_storm\_trust\_root\_and\_heap/tui\_hijack\_storm\_trust\_root\_and\_heap.diagrams.md, source\_ref: file:explicit:e29d7cafdcd168f6fe697884, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/tui_hijack_storm_trust_root_and_heap/tui_hijack_storm_trust_root_and_heap.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261116061345/tui_hijack_storm_trust_root_and_heap.diagrams-ea0e07cabb2c.md
+  ref: file:explicit:4d62f5414d8f881c3f980581
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_22/sase/repos/research/202611/tui_hijack_storm_trust_root_and_heap/tui_hijack_storm_trust_root_and_heap.diagrams.md
+- kind: image
+  label: infographic:202611/tui_hijack_storm_trust_root_and_heap/tui_hijack_storm_trust_root_and_heap_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261116061345/tui_hijack_storm_trust_root_and_heap_infographic-19756510e6b1.png
+  ref: file:explicit:48e9bfd7b0e19f155d86d757
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_22/sase/repos/research/202611/tui_hijack_storm_trust_root_and_heap/tui_hijack_storm_trust_root_and_heap_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 3
+manifest: 202611/tui_hijack_storm_trust_root_and_heap/tui_hijack_storm_trust_root_and_heap.diagrams.md
+source_ref: file:explicit:e29d7cafdcd168f6fe697884
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
