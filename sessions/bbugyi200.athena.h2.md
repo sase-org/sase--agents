@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `h2` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["h2--plan [active]"]
+  n0["h2--plan [dismissed]"]
   n1["h2--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | h2--plan | active | gpt-5.6-sol / codex | 2026-07-21T13:55:15.758060+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.h2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.h2--plan/chat.md) |
+| <a id="member-plan"></a>plan | h2--plan | dismissed | gpt-5.6-sol / codex | 2026-07-21T09:55:15.758060 → 2026-07-21T10:36:58.878475 | 0 | [Prompt](../agents/bbugyi200.athena.h2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.h2--plan/chat.md) |
 | <a id="member-code"></a>code | h2--code | completed | gpt-5.6-sol / codex | 2026-07-21T14:01:36.466191+00:00 | [1](../agents/bbugyi200.athena.h2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.h2--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`1026740`](https://github.com/sase-org/sase/commit/1026740c50ef4383bb739267fdb2b7e9e9cde57c) | feat(ace): default Artifacts to Commits | 2026-07-21 10:36:47 EDT |
+| code | — | `1026740` | feat(ace): default Artifacts to Commits | 2026-07-21 10:36:47 EDT |
