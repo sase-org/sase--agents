@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3da2f1`](https://github.com/sase-org/sase/commit/d3da2f1a502918e0b91c3d17f812747d02fbfe86) | feat(ace): add selected-panel collapse ladder | 2026-07-22 08:35:54 EDT |
+| — | `d3da2f1` | feat(ace): add selected-panel collapse ladder | 2026-07-22 08:35:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [hq](../../sessions/bbugyi200.athena.hq.md) (session · 2) | ancestor | active 1, completed 1 |
+| [hq](../../sessions/bbugyi200.athena.hq.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [hq.f2.f0](../bbugyi200.athena.hq.f2.f0/README.md) | descendant | dismissed |
-| [hq.f2.f1](../../sessions/bbugyi200.athena.hq.f2.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [hq.f2.f1](../../sessions/bbugyi200.athena.hq.f2.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [hq.f0](../bbugyi200.athena.hq.f0/README.md) | hq hood | dismissed |

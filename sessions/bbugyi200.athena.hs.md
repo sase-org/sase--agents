@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `hs` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["hs--plan [active]"]
+  n0["hs--plan [dismissed]"]
   n1["hs--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | hs--plan | active | gpt-5.6-sol / codex | 2026-07-22T10:59:47.631202+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.hs--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hs--plan/chat.md) |
+| <a id="member-plan"></a>plan | hs--plan | dismissed | gpt-5.6-sol / codex | 2026-07-22T06:59:47.631202 → 2026-07-22T08:31:12.929384 | 0 | [Prompt](../agents/bbugyi200.athena.hs--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hs--plan/chat.md) |
 | <a id="member-code"></a>code | hs--code | completed | gpt-5.6-sol / codex | 2026-07-22T11:12:35.291505+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.hs--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`1aa37dc`](https://github.com/sase-org/sase/commit/1aa37dc35d9ad2bd5c165c118363b45db0b0a21c) | feat: add runner limit controls | 2026-07-22 08:30:17 EDT |
+| — | — | `1aa37dc` | feat: add runner limit controls | 2026-07-22 08:30:17 EDT |

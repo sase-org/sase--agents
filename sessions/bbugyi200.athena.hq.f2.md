@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `hq` · Members: 2
 ```mermaid
 flowchart TD
   n0["hq.f2--code [completed]"]
-  n1["hq.f2--plan [active]"]
+  n1["hq.f2--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,19 +18,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | hq.f2--code | completed | gpt-5.6-sol / codex | 2026-07-22T12:11:49.944680+00:00 | [1](../agents/bbugyi200.athena.hq.f2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.hq.f2--code/chat.md) |
-| <a id="member-plan"></a>plan | hq.f2--plan | active | gpt-5.6-sol / codex | 2026-07-22T12:04:33.915600+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.hq.f2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hq.f2--plan/chat.md) |
+| <a id="member-plan"></a>plan | hq.f2--plan | dismissed | gpt-5.6-sol / codex | 2026-07-22T08:04:33.915600 → 2026-07-22T08:36:11.943255 | 0 | [Prompt](../agents/bbugyi200.athena.hq.f2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hq.f2--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d3da2f1`](https://github.com/sase-org/sase/commit/d3da2f1a502918e0b91c3d17f812747d02fbfe86) | feat(ace): add selected-panel collapse ladder | 2026-07-22 08:35:54 EDT |
+| code | — | `d3da2f1` | feat(ace): add selected-panel collapse ladder | 2026-07-22 08:35:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [hq](bbugyi200.athena.hq.md) (session · 2) | ancestor | active 1, completed 1 |
+| [hq](bbugyi200.athena.hq.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [hq.f2.f0](../agents/bbugyi200.athena.hq.f2.f0/README.md) | descendant | dismissed |
-| [hq.f2.f1](bbugyi200.athena.hq.f2.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [hq.f2.f1](bbugyi200.athena.hq.f2.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [hq.f0](../agents/bbugyi200.athena.hq.f0/README.md) | hq hood | dismissed |
