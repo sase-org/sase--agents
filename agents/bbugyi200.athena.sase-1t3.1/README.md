@@ -2,22 +2,23 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.1
 
-**Global name:** `bbugyi200.athena.sase-1t3.1` · **State:** active · **Source run:** `run-24f1f81b377e17b6b1cebb7a1ecf6b96`
+**Global name:** `bbugyi200.athena.sase-1t3.1` · **State:** completed · **Source run:** `run-bda09b47b12091e1b4dfb549b0422d9f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
 ## Summary
 
 - Bead: [sase-1t3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.1.md)
-- Epic: [sase-1t3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/README.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 2026-11-16T13:00:42.757705+00:00
-- Commits: 0
+- Model: —
+- Provider: —
+- Timing: 2026-11-16T14:53:32+00:00 → 2026-11-16T14:53:32+00:00
+- Commits: [1](#commits)
 
-## Files
+## Commits
 
-[Prompt](prompt.md)
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`75ed2a1`](https://github.com/sase-org/sase/commit/75ed2a12395f17be73302b31081a40f85ee1b50b) | fix(tui): stop the hijack-decision compute storm | 2026-11-16 09:53:32 EST |
 
 ## Neighbors
 
@@ -25,12 +26,12 @@
 |---|---|---|
 | [sase-1t3.10](../bbugyi200.athena.sase-1t3.10/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.11](../bbugyi200.athena.sase-1t3.11/README.md) | sase-1t3 hood | waiting |
-| [sase-1t3.12](../../sessions/bbugyi200.athena.sase-1t3.12.md) (session · 3) | sase-1t3 hood | active 2, completed 1 |
+| [sase-1t3.12](../../sessions/bbugyi200.athena.sase-1t3.12.md) (session · 4) | sase-1t3 hood | active 1, completed 3 |
 | [sase-1t3.13](../bbugyi200.athena.sase-1t3.13/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.14](../bbugyi200.athena.sase-1t3.14/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.2](../../sessions/bbugyi200.athena.sase-1t3.2.md) (session · 5) | sase-1t3 hood | completed 5 |
 | [sase-1t3.3](../bbugyi200.athena.sase-1t3.3/README.md) | sase-1t3 hood | completed |
-| [sase-1t3.4](../../sessions/bbugyi200.athena.sase-1t3.4.md) (session · 2) | sase-1t3 hood | active 1, completed 1 |
+| [sase-1t3.4](../../sessions/bbugyi200.athena.sase-1t3.4.md) (session · 4) | sase-1t3 hood | completed 3, failed 1 |
 | [sase-1t3.5](../../sessions/bbugyi200.athena.sase-1t3.5.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
 | [sase-1t3.6](../../sessions/bbugyi200.athena.sase-1t3.6.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
 | [sase-1t3.6.1.1](../bbugyi200.athena.sase-1t3.6.1.1/README.md) | sase-1t3 hood | active |

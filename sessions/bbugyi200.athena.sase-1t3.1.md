@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 2 · Bead: [sase-1t3.1
 
 ```mermaid
 flowchart TD
-  n0["sase-1t3.1--plan [completed]"]
-  n1["sase-1t3.1--gate [active]"]
+  n0["sase-1t3.1--gate [completed]"]
+  n1["sase-1t3.1--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,14 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1t3.1--plan | completed | grok-4.6 / grok | 2026-11-16T13:00:42.757705+00:00 → 2026-11-16T14:54:49.451862+00:00 | [1](../agents/bbugyi200.athena.sase-1t3.1--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1t3.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.1--plan/chat.md) |
-| <a id="member-gate"></a>gate | sase-1t3.1--gate | active | grok-4.6 / grok | 2026-11-16T14:54:42.696507+00:00 | 0 | — | — |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| plan | sase | [`75ed2a1`](https://github.com/sase-org/sase/commit/75ed2a12395f17be73302b31081a40f85ee1b50b) | fix(tui): stop the hijack-decision compute storm | 2026-11-16 09:53:32 EST |
+| <a id="member-gate"></a>gate | sase-1t3.1--gate | completed | gpt-6-astra / codex | 2026-11-16T15:52:36.366066+00:00 → 2026-11-16T15:53:24.791741+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.1--gate/chat.md) |
+| <a id="member-plan"></a>plan | sase-1t3.1--plan | completed | gpt-6-astra / codex | 2026-11-16T15:42:58.646383+00:00 → 2026-11-16T15:49:13.937741+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.1--plan/chat.md) |
 
 ## Neighbors
 
@@ -32,12 +26,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1t3.10](../agents/bbugyi200.athena.sase-1t3.10/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.11](../agents/bbugyi200.athena.sase-1t3.11/README.md) | sase-1t3 hood | waiting |
-| [sase-1t3.12](bbugyi200.athena.sase-1t3.12.md) (session · 3) | sase-1t3 hood | active 2, completed 1 |
+| [sase-1t3.12](bbugyi200.athena.sase-1t3.12.md) (session · 4) | sase-1t3 hood | active 1, completed 3 |
 | [sase-1t3.13](../agents/bbugyi200.athena.sase-1t3.13/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.14](../agents/bbugyi200.athena.sase-1t3.14/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.2](bbugyi200.athena.sase-1t3.2.md) (session · 5) | sase-1t3 hood | completed 5 |
 | [sase-1t3.3](../agents/bbugyi200.athena.sase-1t3.3/README.md) | sase-1t3 hood | completed |
-| [sase-1t3.4](bbugyi200.athena.sase-1t3.4.md) (session · 4) | sase-1t3 hood | active 2, completed 1, failed 1 |
+| [sase-1t3.4](bbugyi200.athena.sase-1t3.4.md) (session · 4) | sase-1t3 hood | completed 3, failed 1 |
 | [sase-1t3.5](bbugyi200.athena.sase-1t3.5.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
 | [sase-1t3.6](bbugyi200.athena.sase-1t3.6.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
 | [sase-1t3.6.1.1](../agents/bbugyi200.athena.sase-1t3.6.1.1/README.md) | sase-1t3 hood | active |

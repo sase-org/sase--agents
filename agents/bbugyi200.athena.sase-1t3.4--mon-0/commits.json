@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b83970b53c31c17181a890541766b583"}
+{"commits":[{"committed_at":1794844657,"sha":"ac19f907ae531b47a40272013e3ef4e74da38d16","subject":"fix(config): key local-command trust on the owning checkout"}],"schema_version":2,"source_run_id":"run-b83970b53c31c17181a890541766b583"}
