@@ -42,7 +42,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1t2.2](../agents/bbugyi200.athena.sase-1t2.2/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.4](bbugyi200.athena.sase-1t2.4.md) (session · 5) | sase-1t2 hood | completed 4, failed 1 |
 | [sase-1t2.5](../agents/bbugyi200.athena.sase-1t2.5/README.md) | sase-1t2 hood | waiting |
-| [sase-1t2.6](bbugyi200.athena.sase-1t2.6.md) (session · 2) | sase-1t2 hood | completed 1, failed 1 |
+| [sase-1t2.6](bbugyi200.athena.sase-1t2.6.md) (session · 3) | sase-1t2 hood | completed 2, failed 1 |
 | [sase-1t2.7](../agents/bbugyi200.athena.sase-1t2.7/README.md) | sase-1t2 hood | waiting |
 | [sase-1t2.8](../agents/bbugyi200.athena.sase-1t2.8/README.md) | sase-1t2 hood | waiting |
 | [sase-1t2.9](../agents/bbugyi200.athena.sase-1t2.9/README.md) | sase-1t2 hood | waiting |
