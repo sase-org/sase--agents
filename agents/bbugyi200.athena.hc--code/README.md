@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7900eeb`](https://github.com/sase-org/sase/commit/7900eeb50a3542af97a6ed0404ff2bb3e45d23f0) | feat(ace): jump to parent agent containers | 2026-07-21 13:41:14 EDT |
+| — | `7900eeb` | feat(ace): jump to parent agent containers | 2026-07-21 13:41:14 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [hc.f0](../../sessions/bbugyi200.athena.hc.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [hc.f0.f0](../../sessions/bbugyi200.athena.hc.f0.f0.md) (session · 2) | descendant | active 2 |
+| [hc.f0](../../sessions/bbugyi200.athena.hc.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [hc.f0.f0](../../sessions/bbugyi200.athena.hc.f0.f0.md) (session · 2) | descendant | active 1, dismissed 1 |

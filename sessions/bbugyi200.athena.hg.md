@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `hg` · Members: 2
 ```mermaid
 flowchart TD
   n0["hg--code [completed]"]
-  n1["hg--plan [active]"]
+  n1["hg--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | hg--code | completed | gpt-5.6-sol / codex | 2026-07-21T20:07:17.284060+00:00 | [1](../agents/bbugyi200.athena.hg--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.hg--code/chat.md) |
-| <a id="member-plan"></a>plan | hg--plan | active | gpt-5.6-sol / codex | 2026-07-21T19:59:05.762404+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.hg--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hg--plan/chat.md) |
+| <a id="member-plan"></a>plan | hg--plan | dismissed | gpt-5.6-sol / codex | 2026-07-21T15:59:05.762404 → 2026-07-21T16:19:58.261834 | 0 | [Prompt](../agents/bbugyi200.athena.hg--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hg--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`99d29be`](https://github.com/sase-org/sase/commit/99d29be7594c410d8f9c8025c52b3da2ff4f69ef) | feat(vim): support visual surround selections | 2026-07-21 16:19:47 EDT |
+| code | — | `99d29be` | feat(vim): support visual surround selections | 2026-07-21 16:19:47 EDT |

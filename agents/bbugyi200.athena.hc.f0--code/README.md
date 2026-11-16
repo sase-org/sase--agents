@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fbcfb1e`](https://github.com/sase-org/sase/commit/fbcfb1eb193c14aaeafc527c41224c03470c1d02) | feat(ace)!: separate left navigation from collapsing | 2026-07-21 14:31:57 EDT |
+| — | `fbcfb1e` | feat(ace)!: separate left navigation from collapsing | 2026-07-21 14:31:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [hc](../../sessions/bbugyi200.athena.hc.md) (session · 2) | ancestor | active 1, completed 1 |
-| [hc.f0.f0](../../sessions/bbugyi200.athena.hc.f0.f0.md) (session · 2) | descendant | active 2 |
+| [hc](../../sessions/bbugyi200.athena.hc.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [hc.f0.f0](../../sessions/bbugyi200.athena.hc.f0.f0.md) (session · 2) | descendant | active 1, dismissed 1 |
