@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.11.1.land
 
-**Global name:** `bbugyi200.athena.sase-1t2.11.1.land` · **State:** waiting · **Source run:** `run-137b5d680fcdb7f173572a8ec528afc1`
+**Global name:** `bbugyi200.athena.sase-1t2.11.1.land` · **State:** completed · **Source run:** `run-137b5d680fcdb7f173572a8ec528afc1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1t2.11.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/sase-1t2.11.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261116152836
-- Commits: 0
+- Timing: 2026-11-17T08:44:42.663415+00:00 → 2026-11-17T09:49:46.802016+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3431374`](https://github.com/sase-org/sase/commit/343137405d5e8373684b9d002db2c36657071850) | fix(agent-hijack): keep hijack modules out of TUI startup and settle canary races | 2026-11-17 04:47:35 EST |
 
 ## Neighbors
 

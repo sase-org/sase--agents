@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-137b5d680fcdb7f173572a8ec528afc1"}
+{"commits":[{"committed_at":1794908855,"sha":"343137405d5e8373684b9d002db2c36657071850","subject":"fix(agent-hijack): keep hijack modules out of TUI startup and settle canary races"}],"schema_version":2,"source_run_id":"run-137b5d680fcdb7f173572a8ec528afc1"}
