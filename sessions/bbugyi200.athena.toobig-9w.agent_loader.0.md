@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-9w.git\_commit\_dispatch.0](../agents/bbugyi200.athena.toobig-9w.git_commit_dispatch.0/README.md) | toobig-9w hood | waiting |
-| [toobig-9w.settlement.0](../agents/bbugyi200.athena.toobig-9w.settlement.0/README.md) | toobig-9w hood | waiting |
+| [toobig-9w.settlement.0](../agents/bbugyi200.athena.toobig-9w.settlement.0/README.md) | toobig-9w hood | completed |
 | [toobig-9w.stop\_orchestrator\_main.0](../agents/bbugyi200.athena.toobig-9w.stop_orchestrator_main.0/README.md) | toobig-9w hood | completed |
 | [toobig-9w.supervise.0](../agents/bbugyi200.athena.toobig-9w.supervise.0/README.md) | toobig-9w hood | waiting |
 | [toobig-9w.test\_agent\_hijack\_action.0](../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_action.0/README.md) | toobig-9w hood | waiting |

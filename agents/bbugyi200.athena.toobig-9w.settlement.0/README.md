@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-9w](../../users/bbugyi200/machines/athena/hoods/toobig-9w/README.md) / toobig-9w.settlement.0
 
-**Global name:** `bbugyi200.athena.toobig-9w.settlement.0` · **State:** waiting · **Source run:** `run-109fa3679e01cfa51751c71fbdaca3cb`
+**Global name:** `bbugyi200.athena.toobig-9w.settlement.0` · **State:** completed · **Source run:** `run-109fa3679e01cfa51751c71fbdaca3cb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-9w
 
@@ -10,12 +10,18 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261116185525
-- Commits: 0
+- Timing: 2026-11-17T03:09:11.621996+00:00 → 2026-11-17T03:30:34.700830+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`bb39e5b`](https://github.com/sase-org/sase/commit/bb39e5bbc816c64b6079c53b6a8ad759518d3882) | refactor(gate\_turn): split settlement.py under the 500-line limit | 2026-11-16 22:30:19 EST |
 
 ## Neighbors
 

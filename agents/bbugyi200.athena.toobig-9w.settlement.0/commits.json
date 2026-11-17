@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-109fa3679e01cfa51751c71fbdaca3cb"}
+{"commits":[{"committed_at":1794886219,"sha":"bb39e5bbc816c64b6079c53b6a8ad759518d3882","subject":"refactor(gate_turn): split settlement.py under the 500-line limit"}],"schema_version":2,"source_run_id":"run-109fa3679e01cfa51751c71fbdaca3cb"}
