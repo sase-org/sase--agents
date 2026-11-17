@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / [sase-1t3.9](../../sessions/bbugyi200.athena.sase-1t3.9.md) / sase-1t3.9--mon
 
-**Global name:** `bbugyi200.athena.sase-1t3.9--mon` · **State:** active · **Source run:** `run-cf9b1a4ca3c59a8981ea5d0d2f490f3d`
+**Global name:** `bbugyi200.athena.sase-1t3.9--mon` · **State:** completed · **Source run:** `run-cf9b1a4ca3c59a8981ea5d0d2f490f3d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
@@ -12,8 +12,12 @@
 - Epic: [sase-1t3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-17T13:03:03.421733+00:00
+- Timing: 2026-11-17T13:03:03.421733+00:00 → 2026-11-17T14:51:52.042755+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -21,8 +25,10 @@
 |---|---|---|
 | [sase-1t3.1](../../sessions/bbugyi200.athena.sase-1t3.1.md) (session · 2) | sase-1t3 hood | completed 2 |
 | [sase-1t3.1](../bbugyi200.athena.sase-1t3.1/README.md) | sase-1t3 hood | completed |
-| [sase-1t3.10](../bbugyi200.athena.sase-1t3.10/README.md) | sase-1t3 hood | waiting |
-| [sase-1t3.11](../bbugyi200.athena.sase-1t3.11/README.md) | sase-1t3 hood | waiting |
+| [sase-1t3.10](../../sessions/bbugyi200.athena.sase-1t3.10.md) (session · 3) | sase-1t3 hood | active 2, completed 1 |
+| [sase-1t3.10.1.1](../bbugyi200.athena.sase-1t3.10.1.1/README.md) | sase-1t3 hood | active |
+| [sase-1t3.10.1.2](../bbugyi200.athena.sase-1t3.10.1.2/README.md) | sase-1t3 hood | active |
+| [sase-1t3.11](../../sessions/bbugyi200.athena.sase-1t3.11.md) (session · 2) | sase-1t3 hood | active 2 |
 | [sase-1t3.12](../../sessions/bbugyi200.athena.sase-1t3.12.md) (session · 11) | sase-1t3 hood | completed 8, failed 3 |
 | [sase-1t3.13](../bbugyi200.athena.sase-1t3.13/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.14](../bbugyi200.athena.sase-1t3.14/README.md) | sase-1t3 hood | waiting |
