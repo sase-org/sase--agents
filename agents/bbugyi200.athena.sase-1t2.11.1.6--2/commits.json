@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794902319,"sha":"fa771fe9121c486aca2e160af32c524d30e93619","subject":"fix(agent-hijack): use legacy prompt filename constants in monitor canary"}],"schema_version":2,"source_run_id":"run-83dd5b199d99e4140a6b796402dc630f"}
