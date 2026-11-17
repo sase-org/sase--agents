@@ -24,7 +24,7 @@
 | [toobig-9w.agent\_loader.0](../../sessions/bbugyi200.athena.toobig-9w.agent_loader.0.md) (session · 3) | toobig-9w hood | completed 2, failed 1 |
 | [toobig-9w.git\_commit\_dispatch.0](../bbugyi200.athena.toobig-9w.git_commit_dispatch.0/README.md) | toobig-9w hood | waiting |
 | [toobig-9w.settlement.0](../bbugyi200.athena.toobig-9w.settlement.0/README.md) | toobig-9w hood | waiting |
-| [toobig-9w.stop\_orchestrator\_main.0](../bbugyi200.athena.toobig-9w.stop_orchestrator_main.0/README.md) | toobig-9w hood | active |
+| [toobig-9w.stop\_orchestrator\_main.0](../bbugyi200.athena.toobig-9w.stop_orchestrator_main.0/README.md) | toobig-9w hood | completed |
 | [toobig-9w.supervise.0](../bbugyi200.athena.toobig-9w.supervise.0/README.md) | toobig-9w hood | waiting |
 | [toobig-9w.test\_agent\_hijack\_action.0](../bbugyi200.athena.toobig-9w.test_agent_hijack_action.0/README.md) | toobig-9w hood | waiting |
 | [toobig-9w.test\_agent\_hijack\_latch.0](../bbugyi200.athena.toobig-9w.test_agent_hijack_latch.0/README.md) | toobig-9w hood | waiting |

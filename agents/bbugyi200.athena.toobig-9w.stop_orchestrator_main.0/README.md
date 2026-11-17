@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-9w](../../users/bbugyi200/machines/athena/hoods/toobig-9w/README.md) / toobig-9w.stop\_orchestrator\_main.0
 
-**Global name:** `bbugyi200.athena.toobig-9w.stop_orchestrator_main.0` · **State:** active · **Source run:** `run-38358fbc6e6af04c55a7a01bc69c0420`
+**Global name:** `bbugyi200.athena.toobig-9w.stop_orchestrator_main.0` · **State:** completed · **Source run:** `run-38358fbc6e6af04c55a7a01bc69c0420`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-9w
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-17T02:24:39.024824+00:00
-- Commits: 0
+- Timing: 2026-11-17T02:24:39.024824+00:00 → 2026-11-17T03:06:36.469793+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e9b7828`](https://github.com/sase-org/sase/commit/e9b78283d438f62b2398ab90bbe3c9a5062e4ef5) | refactor(hijack): split stop orchestrator into modules | 2026-11-16 22:06:13 EST |
 
 ## Neighbors
 
