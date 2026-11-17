@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4a0b4c9a23a988c35372ab7c6e2ec4ff"}
+{"commits":[{"committed_at":1794912679,"sha":"694cdec86b1b67dbab0df37d2dfe4255ce0ccc48","subject":"fix(agent-hijack): give each hijack canary a host-unique project"}],"schema_version":2,"source_run_id":"run-4a0b4c9a23a988c35372ab7c6e2ec4ff"}
