@@ -28,6 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | 1 | sase | [`bfa6032`](https://github.com/sase-org/sase/commit/bfa60324a69641e8019e7dd9e60b1f120eed30fc) | feat(viewer): show video still frame with metadata in tmux | 2026-11-17 12:33:43 EST |
+| — | sase | [`898eb8f`](https://github.com/sase-org/sase/commit/898eb8ffa5b90e04a19ead37e3cbcfc13867854f) | perf(viewer): defer video still module off TUI startup | 2026-11-17 13:26:34 EST |
 
 ## Neighbors
 
@@ -35,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1tb.2](../agents/bbugyi200.athena.sase-1tb.2/README.md) | sase-1tb hood | completed |
 | [sase-1tb.3](../agents/bbugyi200.athena.sase-1tb.3/README.md) | sase-1tb hood | completed |
-| [sase-1tb.4](../agents/bbugyi200.athena.sase-1tb.4/README.md) | sase-1tb hood | waiting |
+| [sase-1tb.4](bbugyi200.athena.sase-1tb.4.md) (session · 3) | sase-1tb hood | completed 3 |
 | [sase-1tb.5](../agents/bbugyi200.athena.sase-1tb.5/README.md) | sase-1tb hood | waiting |
 | [sase-1tb.6](../agents/bbugyi200.athena.sase-1tb.6/README.md) | sase-1tb hood | waiting |
 | [sase-1tb.7](../agents/bbugyi200.athena.sase-1tb.7/README.md) | sase-1tb hood | waiting |
