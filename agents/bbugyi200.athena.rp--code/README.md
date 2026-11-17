@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0d7c351`](https://github.com/sase-org/sase/commit/0d7c351e43d258f67ee98c346f41ec246f1f7573) | feat(llm): default smartest alias to Opus at max effort | 2026-08-02 07:30:02 EDT |
+| — | `0d7c351` | feat(llm): default smartest alias to Opus at max effort | 2026-08-02 07:30:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [rp.f0](../bbugyi200.athena.rp.f0/README.md) | descendant | waiting |
-| [rp.f2](../../sessions/bbugyi200.athena.rp.f2.md) (session · 2) | descendant | active 1, completed 1 |
+| [rp.f0](../bbugyi200.athena.rp.f0/README.md) | descendant | dismissed |
+| [rp.f2](../../sessions/bbugyi200.athena.rp.f2.md) (session · 2) | descendant | completed 1, dismissed 1 |

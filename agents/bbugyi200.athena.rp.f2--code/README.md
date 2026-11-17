@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e4c13b3`](https://github.com/sase-org/sase/commit/e4c13b3e837b8d8464013cf52194a596a1c4ac9b) | feat(llm): add provider-specific coder defaults | 2026-08-02 08:16:50 EDT |
+| — | `e4c13b3` | feat(llm): add provider-specific coder defaults | 2026-08-02 08:16:50 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [rp](../../sessions/bbugyi200.athena.rp.md) (session · 2) | ancestor | active 1, completed 1 |
-| [rp.f0](../bbugyi200.athena.rp.f0/README.md) | rp hood | waiting |
+| [rp](../../sessions/bbugyi200.athena.rp.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [rp.f0](../bbugyi200.athena.rp.f0/README.md) | rp hood | dismissed |

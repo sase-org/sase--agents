@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6800c3d`](https://github.com/sase-org/sase/commit/6800c3d3eff788c7850d06e2619dd79d253c323c) | feat(stats): report plan and question activity from gates | 2026-08-02 07:31:12 EDT |
+| — | `6800c3d` | feat(stats): report plan and question activity from gates | 2026-08-02 07:31:12 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [rn.f1](../../sessions/bbugyi200.athena.rn.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [rn.f1](../../sessions/bbugyi200.athena.rn.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

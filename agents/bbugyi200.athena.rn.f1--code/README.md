@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5143cb9`](https://github.com/sase-org/sase/commit/5143cb9813d129850bbea0ec52246238bc31f696) | fix(stats): expose runner occupancy diagnostics | 2026-08-02 09:23:48 EDT |
+| — | `5143cb9` | fix(stats): expose runner occupancy diagnostics | 2026-08-02 09:23:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [rn](../../sessions/bbugyi200.athena.rn.md) (session · 2) | ancestor | active 1, completed 1 |
+| [rn](../../sessions/bbugyi200.athena.rn.md) (session · 2) | ancestor | completed 1, dismissed 1 |
