@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.38.cld
 
-**Global name:** `bbugyi200.athena.research.38.cld` · **State:** active · **Source run:** `run-463b208b18be37685c38a0403f2fbb32`
+**Global name:** `bbugyi200.athena.research.38.cld` · **State:** dismissed · **Source run:** `run-463b208b18be37685c38a0403f2fbb32`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-01T18:57:13.458549+00:00
+- Timing: 2026-10-01T14:57:13.458549 → 2026-10-01T15:06:09.384386
 - Commits: 0
 
 ## Files
@@ -27,7 +27,7 @@
 | [research.38.grk](../bbugyi200.athena.research.38.grk/README.md) | research.38 hood | dismissed |
 | [research.38.image](../bbugyi200.athena.research.38.image/README.md) | research.38 hood | active |
 | [research.38.linker](../bbugyi200.athena.research.38.linker/README.md) | research.38 hood | active |
-| [research.38.mus](../bbugyi200.athena.research.38.mus/README.md) | research.38 hood | active |
+| [research.38.mus](../bbugyi200.athena.research.38.mus/README.md) | research.38 hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
@@ -43,8 +43,8 @@
 | [research.02.cdx](../bbugyi200.athena.research.02.cdx/README.md) | research hood | active |
 | [research.02.cld](../bbugyi200.athena.research.02.cld/README.md) | research hood | active |
 | [research.02.final](../bbugyi200.athena.research.02.final/README.md) | research hood | dismissed |
-| [research.02.image](../bbugyi200.athena.research.02.image/README.md) | research hood | active |
-| [research.03.cdx](../bbugyi200.athena.research.03.cdx/README.md) | research hood | active |
+| [research.02.image](../bbugyi200.athena.research.02.image/README.md) | research hood | dismissed |
+| [research.03.cdx](../bbugyi200.athena.research.03.cdx/README.md) | research hood | dismissed |
 | [research.03.cld](../bbugyi200.athena.research.03.cld/README.md) | research hood | active |
 | [research.03.final](../bbugyi200.athena.research.03.final/README.md) | research hood | active |
 | [research.03.image](../bbugyi200.athena.research.03.image/README.md) | research hood | active |
@@ -56,7 +56,7 @@
 | [research.05.cld](../bbugyi200.athena.research.05.cld/README.md) | research hood | active |
 | [research.05.final](../bbugyi200.athena.research.05.final/README.md) | research hood | active |
 | [research.05.image](../bbugyi200.athena.research.05.image/README.md) | research hood | active |
-| [research.06.cdx](../bbugyi200.athena.research.06.cdx/README.md) | research hood | active |
+| [research.06.cdx](../bbugyi200.athena.research.06.cdx/README.md) | research hood | dismissed |
 | [research.06.cld](../bbugyi200.athena.research.06.cld/README.md) | research hood | active |
 | [research.06.final](../bbugyi200.athena.research.06.final/README.md) | research hood | active |
 | [research.06.image](../bbugyi200.athena.research.06.image/README.md) | research hood | active |

@@ -69,7 +69,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [research.5f.grk](../agents/bbugyi200.athena.research.5f.grk/README.md) | research.5f hood | completed |
 | [research.5f.image](../agents/bbugyi200.athena.research.5f.image/README.md) | research.5f hood | completed |
 | [research.5f.linker](../agents/bbugyi200.athena.research.5f.linker/README.md) | research.5f hood | completed |
-| [research.5f.linker.w0](bbugyi200.athena.research.5f.linker.w0.md) (session · 3) | research.5f hood | active 1, failed 2 |
+| [research.5f.linker.w0](bbugyi200.athena.research.5f.linker.w0.md) (session · 3) | research.5f hood | dismissed 1, failed 2 |
 | [research.5f.mus](../agents/bbugyi200.athena.research.5f.mus/README.md) | research.5f hood | completed |
 | [research.0.cdx](../agents/bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../agents/bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
@@ -86,8 +86,8 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [research.02.cdx](../agents/bbugyi200.athena.research.02.cdx/README.md) | research hood | active |
 | [research.02.cld](../agents/bbugyi200.athena.research.02.cld/README.md) | research hood | active |
 | [research.02.final](../agents/bbugyi200.athena.research.02.final/README.md) | research hood | dismissed |
-| [research.02.image](../agents/bbugyi200.athena.research.02.image/README.md) | research hood | active |
-| [research.03.cdx](../agents/bbugyi200.athena.research.03.cdx/README.md) | research hood | active |
+| [research.02.image](../agents/bbugyi200.athena.research.02.image/README.md) | research hood | dismissed |
+| [research.03.cdx](../agents/bbugyi200.athena.research.03.cdx/README.md) | research hood | dismissed |
 | [research.03.cld](../agents/bbugyi200.athena.research.03.cld/README.md) | research hood | active |
 | [research.03.final](../agents/bbugyi200.athena.research.03.final/README.md) | research hood | active |
 | [research.03.image](../agents/bbugyi200.athena.research.03.image/README.md) | research hood | active |
@@ -99,7 +99,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [research.05.cld](../agents/bbugyi200.athena.research.05.cld/README.md) | research hood | active |
 | [research.05.final](../agents/bbugyi200.athena.research.05.final/README.md) | research hood | active |
 | [research.05.image](../agents/bbugyi200.athena.research.05.image/README.md) | research hood | active |
-| [research.06.cdx](../agents/bbugyi200.athena.research.06.cdx/README.md) | research hood | active |
+| [research.06.cdx](../agents/bbugyi200.athena.research.06.cdx/README.md) | research hood | dismissed |
 | [research.06.cld](../agents/bbugyi200.athena.research.06.cld/README.md) | research hood | active |
 | [research.06.final](../agents/bbugyi200.athena.research.06.final/README.md) | research hood | active |
 | [research.06.image](../agents/bbugyi200.athena.research.06.image/README.md) | research hood | active |
