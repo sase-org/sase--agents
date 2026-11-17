@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["research.5f.final.f0--plan [active]"]
+  n0["research.5f.final.f0--plan [dismissed]"]
   n1["research.5f.final.f0--mon [failed]"]
   n0 --> n1
   n2["research.5f.final.f0--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | research.5f.final.f0--plan | active | opus / claude | 2026-10-28T23:22:48.311184+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.5f.final.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.5f.final.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | research.5f.final.f0--plan | dismissed | opus / claude | 2026-10-28T19:22:48.311184 → 2026-10-28T19:47:50.695453 | 0 | [Prompt](../agents/bbugyi200.athena.research.5f.final.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.5f.final.f0--plan/chat.md) |
 | <a id="member-mon"></a>mon | research.5f.final.f0--mon | failed | opus / claude | 2026-10-29T00:02:52.610005+00:00 → 2026-10-29T00:07:12.438095+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.5f.final.f0--mon/chat.md) |
 | <a id="member-gate"></a>gate | research.5f.final.f0--gate | failed | opus / claude | 2026-10-29T00:01:06.259397+00:00 → 2026-10-29T00:03:19.555935+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.5f.final.f0--gate/chat.md) |
 
@@ -77,7 +77,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [research.0.image](../agents/bbugyi200.athena.research.0.image/README.md) | research hood | dismissed |
 | [research.00.cdx](../agents/bbugyi200.athena.research.00.cdx/README.md) | research hood | active |
 | [research.00.cld](../agents/bbugyi200.athena.research.00.cld/README.md) | research hood | active |
-| [research.00.final](../agents/bbugyi200.athena.research.00.final/README.md) | research hood | active |
+| [research.00.final](../agents/bbugyi200.athena.research.00.final/README.md) | research hood | dismissed |
 | [research.00.image](../agents/bbugyi200.athena.research.00.image/README.md) | research hood | waiting |
 | [research.01.cdx](../agents/bbugyi200.athena.research.01.cdx/README.md) | research hood | active |
 | [research.01.cld](../agents/bbugyi200.athena.research.01.cld/README.md) | research hood | active |
@@ -103,7 +103,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [research.06.cld](../agents/bbugyi200.athena.research.06.cld/README.md) | research hood | active |
 | [research.06.final](../agents/bbugyi200.athena.research.06.final/README.md) | research hood | active |
 | [research.06.image](../agents/bbugyi200.athena.research.06.image/README.md) | research hood | active |
-| [research.07.cdx](../agents/bbugyi200.athena.research.07.cdx/README.md) | research hood | active |
+| [research.07.cdx](../agents/bbugyi200.athena.research.07.cdx/README.md) | research hood | dismissed |
 | [research.07.cld](../agents/bbugyi200.athena.research.07.cld/README.md) | research hood | completed |
 | [research.07.final](../agents/bbugyi200.athena.research.07.final/README.md) | research hood | completed |
 | [research.07.final.f1](../agents/bbugyi200.athena.research.07.final.f1/README.md) | research hood | completed |
@@ -113,7 +113,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [research.08.final](../agents/bbugyi200.athena.research.08.final/README.md) | research hood | completed |
 | [research.08.image](../agents/bbugyi200.athena.research.08.image/README.md) | research hood | completed |
 | [research.09.cdx](../agents/bbugyi200.athena.research.09.cdx/README.md) | research hood | active |
-| [research.09.cld](../agents/bbugyi200.athena.research.09.cld/README.md) | research hood | active |
+| [research.09.cld](../agents/bbugyi200.athena.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../agents/bbugyi200.athena.research.09.final/README.md) | research hood | dismissed |
 | [research.09.image](../agents/bbugyi200.athena.research.09.image/README.md) | research hood | active |
 | [research.0a.cdx](../agents/bbugyi200.athena.research.0a.cdx/README.md) | research hood | active |
