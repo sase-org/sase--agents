@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794903463,"sha":"6bd26c87871f1006f8d1b1eb69bdcc363127939c","subject":"refactor(tui): split _app_watchers into footprint and selection modules"}],"schema_version":2,"source_run_id":"run-5af2e94cdd432e44b7192ebc6c58bbf1"}
