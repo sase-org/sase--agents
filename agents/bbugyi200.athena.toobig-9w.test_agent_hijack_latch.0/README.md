@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-9w](../../users/bbugyi200/machines/athena/hoods/toobig-9w/README.md) / toobig-9w.test\_agent\_hijack\_latch.0
 
-**Global name:** `bbugyi200.athena.toobig-9w.test_agent_hijack_latch.0` · **State:** waiting · **Source run:** `run-64ae9e976b32a6cfc72afe277cfa14e7`
+**Global name:** `bbugyi200.athena.toobig-9w.test_agent_hijack_latch.0` · **State:** completed · **Source run:** `run-64ae9e976b32a6cfc72afe277cfa14e7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-9w
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261116185837
-- Commits: 0
+- Timing: 2026-11-17T06:05:53.422562+00:00 → 2026-11-17T06:44:39.612989+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ce54b61`](https://github.com/sase-org/sase/commit/ce54b61cfaaaa3dd292063d6f842f5405001080f) | test(agent-hijack): split latch tests into focused modules | 2026-11-17 01:44:25 EST |
 
 ## Neighbors
 

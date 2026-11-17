@@ -1,6 +1,6 @@
+%auto
 %id(test_agent_hijack_stop.0, clan=toobig-9w)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/test_agent_hijack_stop.py` file into multiple files? Use your best
 %wait:toobig-9w.test_agent_hijack_latch.0
