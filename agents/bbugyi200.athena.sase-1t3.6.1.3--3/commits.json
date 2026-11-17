@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e4708a4e41365172a78b105d5e08ef44"}
+{"commits":[{"committed_at":1794890757,"sha":"7c514e2f8ee94a289fd5dbd10fbf7bafc4602bc9","subject":"feat(agents): resolve sessions and clans through indexed core queries"}],"schema_version":2,"source_run_id":"run-bd7ff50ccdc62ad95b095be63e4b5ba8"}

@@ -2,21 +2,41 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / [sase-1t3.6.1.3](../../sessions/bbugyi200.athena.sase-1t3.6.1.3.md) / sase-1t3.6.1.3--1
 
-**Global name:** `bbugyi200.athena.sase-1t3.6.1.3--1` · **State:** completed · **Source run:** `run-69958c05cae6249c982eff354fdb19c7`
+**Global name:** `bbugyi200.athena.sase-1t3.6.1.3--1` · **State:** completed · **Source run:** `run-6e2fdf7d9bd9191af6dd3b843c8032f0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
 ## Summary
 
 - Bead: [sase-1t3.6.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.6.1.3.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-16T19:18:04.307975+00:00 → 2026-11-16T20:22:35.685964+00:00
+- Timing: 2026-11-17T03:16:56.702384+00:00 → 2026-11-17T03:41:36.145884+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: sase-1t3.6.1.3, kind: file, label: Indexed session and clan verification baseline evidence, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261116221526/sase-1t3.6.1.3-baseline-e… |
+
+#### artifacts
+
+```yaml
+- bead: sase-1t3.6.1.3
+  kind: file
+  label: Indexed session and clan verification baseline evidence
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261116221526/sase-1t3.6.1.3-baseline-evidence-e29e147e8c4d.json
+  ref: file:explicit:30a40133acfe3c8fa7bda0f4
+  source_path: /tmp/sase-1t3.6.1.3-baseline-evidence.json
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

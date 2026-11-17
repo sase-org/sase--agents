@@ -1604,7 +1604,7 @@
 | [sase-1sy](hoods/sase-1sy/README.md) | 12 | 2 | active 1, completed 9, failed 2 |
 | [sase-1t0](hoods/sase-1t0/README.md) | 10 | 3 | completed 9, failed 1 |
 | [sase-1t2](hoods/sase-1t2/README.md) | 56 | 10 | active 2, completed 42, failed 5, waiting 7 |
-| [sase-1t3](hoods/sase-1t3/README.md) | 82 | 11 | active 2, completed 56, failed 16, waiting 8 |
+| [sase-1t3](hoods/sase-1t3/README.md) | 82 | 11 | active 2, completed 54, failed 18, waiting 8 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |
 | [sase-46](hoods/sase-46/README.md) | 6 | 0 | completed 6 |
@@ -2407,7 +2407,7 @@
 | [toobig-9t](hoods/toobig-9t/README.md) | 1 | 0 | completed 1 |
 | [toobig-9u](hoods/toobig-9u/README.md) | 5 | 1 | completed 4, failed 1 |
 | [toobig-9v](hoods/toobig-9v/README.md) | 11 | 2 | completed 8, failed 3 |
-| [toobig-9w](hoods/toobig-9w/README.md) | 11 | 1 | completed 6, failed 1, waiting 4 |
+| [toobig-9w](hoods/toobig-9w/README.md) | 11 | 1 | completed 7, failed 1, waiting 3 |
 | [toobig-b](hoods/toobig-b/README.md) | 6 | 0 | active 1, dismissed 5 |
 | [toobig-c](hoods/toobig-c/README.md) | 3 | 0 | active 1, dismissed 2 |
 | [toobig-d](hoods/toobig-d/README.md) | 1 | 0 | active 1 |

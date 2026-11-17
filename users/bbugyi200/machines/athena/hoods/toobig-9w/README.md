@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-9w
 
-**Global hood:** `bbugyi200.athena.toobig-9w` · **Runs:** 11 · **Sessions:** 1 · **States:** completed 6, failed 1, waiting 4
+**Global hood:** `bbugyi200.athena.toobig-9w` · **Runs:** 11 · **Sessions:** 1 · **States:** completed 7, failed 1, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,7 +12,7 @@
 | [toobig-9w.stop\_orchestrator\_main.0](../../../../../../agents/bbugyi200.athena.toobig-9w.stop_orchestrator_main.0/README.md) | completed | gpt-6-luna / codex | 2026-11-17T02:24:39.024824+00:00 → 2026-11-17T03:06:36.469793+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.stop_orchestrator_main.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-9w.stop_orchestrator_main.0/chat.md) |
 | [toobig-9w.test\_agent\_hijack\_stop.0](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_stop.0/README.md) | waiting | grok-4.6 / grok | 20261116185911 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_stop.0/prompt.md) |
 | [toobig-9w.agent\_loader.0--mon](../../../../../../sessions/bbugyi200.athena.toobig-9w.agent_loader.0.md#member-mon) | failed | muse-spark-1.3-contributor / muse | 2026-11-17T01:59:37.586535+00:00 → 2026-11-17T02:03:47.323523+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.toobig-9w.agent_loader.0--mon/chat.md) |
-| [toobig-9w.test\_new\_project\_create\_execution.0](../../../../../../agents/bbugyi200.athena.toobig-9w.test_new_project_create_execution.0/README.md) | waiting | grok-4.6 / grok | 20261116185722 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.test_new_project_create_execution.0/prompt.md) |
+| [toobig-9w.test\_new\_project\_create\_execution.0](../../../../../../agents/bbugyi200.athena.toobig-9w.test_new_project_create_execution.0/README.md) | completed | grok-4.6 / grok | 2026-11-17T04:34:03.181515+00:00 → 2026-11-17T04:48:30.631516+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.test_new_project_create_execution.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-9w.test_new_project_create_execution.0/chat.md) |
 | [toobig-9w.test\_agent\_hijack\_latch.0](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_latch.0/README.md) | waiting | gpt-6-luna / codex | 20261116185837 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_latch.0/prompt.md) |
 | [toobig-9w.test\_agent\_hijack\_action.0](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_action.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261116185802 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_action.0/prompt.md) |
 | [toobig-9w.agent\_loader.0--1](../../../../../../sessions/bbugyi200.athena.toobig-9w.agent_loader.0.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-11-17T02:04:20.132611+00:00 → 2026-11-17T02:24:10.016064+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.agent_loader.0--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-9w.agent_loader.0--1/chat.md) |

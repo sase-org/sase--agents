@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / [sase-1t3.6.1.3](../../sessions/bbugyi200.athena.sase-1t3.6.1.3.md) / sase-1t3.6.1.3--mon-1
 
-**Global name:** `bbugyi200.athena.sase-1t3.6.1.3--mon-1` · **State:** failed · **Source run:** `run-9c43dad943cd961698dd3fd57bae418d`
+**Global name:** `bbugyi200.athena.sase-1t3.6.1.3--mon-1` · **State:** failed · **Source run:** `run-370c85e9139e570b914662d54011454e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
 ## Summary
 
 - Bead: [sase-1t3.6.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.6.1.3.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-16T20:51:15.133441+00:00 → 2026-11-16T20:56:24.988731+00:00
+- Timing: 2026-11-17T04:19:18.299289+00:00 → 2026-11-17T04:39:21.352021+00:00
 - Commits: 0
 
 ## Files

@@ -2,21 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / [sase-1t3.6.1.3](../../sessions/bbugyi200.athena.sase-1t3.6.1.3.md) / sase-1t3.6.1.3--3
 
-**Global name:** `bbugyi200.athena.sase-1t3.6.1.3--3` · **State:** completed · **Source run:** `run-e4708a4e41365172a78b105d5e08ef44`
+**Global name:** `bbugyi200.athena.sase-1t3.6.1.3--3` · **State:** completed · **Source run:** `run-bd7ff50ccdc62ad95b095be63e4b5ba8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
 ## Summary
 
 - Bead: [sase-1t3.6.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.6.1.3.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-16T20:58:37.903834+00:00 → 2026-11-16T21:09:41.700499+00:00
-- Commits: 0
+- Timing: 2026-11-17T04:40:46.741071+00:00 → 2026-11-17T04:47:05.904160+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7c514e2`](https://github.com/sase-org/sase/commit/7c514e2f8ee94a289fd5dbd10fbf7bafc4602bc9) | feat(agents): resolve sessions and clans through indexed core queries | 2026-11-16 23:45:57 EST |
 
 ## Neighbors
 
