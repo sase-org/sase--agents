@@ -2,21 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.6.1.land
 
-**Global name:** `bbugyi200.athena.sase-1t3.6.1.land` · **State:** waiting · **Source run:** `run-e167eca22cdc0a3090eb7d0b62a64199`
+**Global name:** `bbugyi200.athena.sase-1t3.6.1.land` · **State:** completed · **Source run:** `run-b728f7719b809bdb302b0b8faae0a47d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
 ## Summary
 
 - Bead: [sase-1t3.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.6.1.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 20261116081655
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-17T09:00:34.645647+00:00 → 2026-11-17T09:06:59.629280+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
