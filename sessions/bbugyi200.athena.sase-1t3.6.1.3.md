@@ -107,7 +107,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1t3.6](bbugyi200.athena.sase-1t3.6.md) (session · 3) | ancestor | active 1, completed 2 |
 | [sase-1t3.6.1.1](../agents/bbugyi200.athena.sase-1t3.6.1.1/README.md) | sase-1t3.6.1 hood | completed |
 | [sase-1t3.6.1.2](../agents/bbugyi200.athena.sase-1t3.6.1.2/README.md) | sase-1t3.6.1 hood | completed |
-| [sase-1t3.6.1.land](../agents/bbugyi200.athena.sase-1t3.6.1.land/README.md) | sase-1t3.6.1 hood | waiting |
+| [sase-1t3.6.1.land](bbugyi200.athena.sase-1t3.6.1.land.md) (session · 3) | sase-1t3.6.1 hood | active 2, completed 1 |
 | [sase-1t3.1](bbugyi200.athena.sase-1t3.1.md) (session · 2) | sase-1t3 hood | completed 2 |
 | [sase-1t3.1](../agents/bbugyi200.athena.sase-1t3.1/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.10](../agents/bbugyi200.athena.sase-1t3.10/README.md) | sase-1t3 hood | waiting |
