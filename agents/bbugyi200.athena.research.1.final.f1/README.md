@@ -22,9 +22,9 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c4080bf`](https://github.com/sase-org/sase/commit/c4080bfd90e1fb151ae1e5e0e63da811277ef24a) | chore: Add SDD prompt and plan for doctor\_command\_mvp | 2026-06-09 11:52:58 EDT |
-| sase | [`f18855e`](https://github.com/sase-org/sase/commit/f18855e27fb72edb59ceceee12faf44d85ab3bf5) | chore: create doctor command mvp bead plan | 2026-06-09 11:57:13 EDT |
-| sase | [`cc91f9c`](https://github.com/sase-org/sase/commit/cc91f9ca4b4e63ce8b60a0322815f0124281ceab) | chore: scaffold sase doctor diagnostics epic and phase beads | 2026-07-08 01:31:45 EDT |
+| — | `c4080bf` | chore: Add SDD prompt and plan for doctor\_command\_mvp | 2026-06-09 11:52:58 EDT |
+| — | `f18855e` | chore: create doctor command mvp bead plan | 2026-06-09 11:57:13 EDT |
+| — | `cc91f9c` | chore: scaffold sase doctor diagnostics epic and phase beads | 2026-07-08 01:31:45 EDT |
 
 ## Variables
 
@@ -53,11 +53,11 @@
 | [research.00.image](../bbugyi200.athena.research.00.image/README.md) | research hood | waiting |
 | [research.01.cdx](../bbugyi200.athena.research.01.cdx/README.md) | research hood | active |
 | [research.01.cld](../bbugyi200.athena.research.01.cld/README.md) | research hood | active |
-| [research.01.final](../bbugyi200.athena.research.01.final/README.md) | research hood | active |
+| [research.01.final](../bbugyi200.athena.research.01.final/README.md) | research hood | dismissed |
 | [research.01.image](../bbugyi200.athena.research.01.image/README.md) | research hood | active |
 | [research.02.cdx](../bbugyi200.athena.research.02.cdx/README.md) | research hood | active |
 | [research.02.cld](../bbugyi200.athena.research.02.cld/README.md) | research hood | active |
-| [research.02.final](../bbugyi200.athena.research.02.final/README.md) | research hood | active |
+| [research.02.final](../bbugyi200.athena.research.02.final/README.md) | research hood | dismissed |
 | [research.02.image](../bbugyi200.athena.research.02.image/README.md) | research hood | active |
 | [research.03.cdx](../bbugyi200.athena.research.03.cdx/README.md) | research hood | active |
 | [research.03.cld](../bbugyi200.athena.research.03.cld/README.md) | research hood | active |
@@ -86,7 +86,7 @@
 | [research.08.image](../bbugyi200.athena.research.08.image/README.md) | research hood | completed |
 | [research.09.cdx](../bbugyi200.athena.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.athena.research.09.cld/README.md) | research hood | active |
-| [research.09.final](../bbugyi200.athena.research.09.final/README.md) | research hood | active |
+| [research.09.final](../bbugyi200.athena.research.09.final/README.md) | research hood | dismissed |
 | [research.09.image](../bbugyi200.athena.research.09.image/README.md) | research hood | active |
 | [research.0a.cdx](../bbugyi200.athena.research.0a.cdx/README.md) | research hood | active |
 | [research.0a.cld](../bbugyi200.athena.research.0a.cld/README.md) | research hood | active |
