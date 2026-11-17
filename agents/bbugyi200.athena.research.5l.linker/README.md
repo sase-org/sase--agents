@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5l.linker
 
-**Global name:** `bbugyi200.athena.research.5l.linker` · **State:** waiting · **Source run:** `run-29e93cae08b5bfabc7075f25163aa36c`
+**Global name:** `bbugyi200.athena.research.5l.linker` · **State:** dismissed · **Source run:** `run-29e93cae08b5bfabc7075f25163aa36c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261031100841
+- Timing: 2026-10-31T11:29:51.547039 → 2026-10-31T11:40:39.727508
 - Commits: 0
 - Variables: [1](#variables)
 

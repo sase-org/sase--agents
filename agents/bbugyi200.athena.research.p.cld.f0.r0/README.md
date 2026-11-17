@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.p.cld.f0.r0
 
-**Global name:** `bbugyi200.athena.research.p.cld.f0.r0` · **State:** active · **Source run:** `run-408c5da7a7bf164bbc304b44533cef72`
+**Global name:** `bbugyi200.athena.research.p.cld.f0.r0` · **State:** dismissed · **Source run:** `run-408c5da7a7bf164bbc304b44533cef72`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: haiku
 - Provider: claude
-- Timing: 2026-07-29T11:10:57.552979+00:00
+- Timing: 2026-07-29T07:10:57.552979 → 2026-07-29T07:11:24.530215
 - Commits: 0
 
 ## Files
@@ -22,7 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.p.cld.f0](../bbugyi200.athena.research.p.cld.f0/README.md) | ancestor | dismissed |
-| [research.p.cld](../bbugyi200.athena.research.p.cld/README.md) | ancestor | active |
+| [research.p.cld](../bbugyi200.athena.research.p.cld/README.md) | ancestor | dismissed |
 | [research.p.cld.f0.r0.r0](../bbugyi200.athena.research.p.cld.f0.r0.r0/README.md) | descendant | active |
 | [research.p.cdx](../bbugyi200.athena.research.p.cdx/README.md) | research.p hood | active |
 | [research.p.final](../bbugyi200.athena.research.p.final/README.md) | research.p hood | active |

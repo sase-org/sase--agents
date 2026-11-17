@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3v.audio
 
-**Global name:** `bbugyi200.athena.research.3v.audio` · **State:** active · **Source run:** `run-2c7a187ab8b768ad233682218aa6af98`
+**Global name:** `bbugyi200.athena.research.3v.audio` · **State:** dismissed · **Source run:** `run-2c7a187ab8b768ad233682218aa6af98`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 2026-10-06T21:29:55.341287+00:00
+- Timing: 2026-10-06T17:29:55.341287 → 2026-10-06T17:37:09.958093
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -47,7 +47,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.3v.cdx](../bbugyi200.athena.research.3v.cdx/README.md) | research.3v hood | active |
 | [research.3v.cld](../bbugyi200.athena.research.3v.cld/README.md) | research.3v hood | active |
 | [research.3v.final](../bbugyi200.athena.research.3v.final/README.md) | research.3v hood | active |
-| [research.3v.gem](../bbugyi200.athena.research.3v.gem/README.md) | research.3v hood | active |
+| [research.3v.gem](../bbugyi200.athena.research.3v.gem/README.md) | research.3v hood | dismissed |
 | [research.3v.grk](../bbugyi200.athena.research.3v.grk/README.md) | research.3v hood | dismissed |
 | [research.3v.image](../bbugyi200.athena.research.3v.image/README.md) | research.3v hood | active |
 | [research.3v.linker](../bbugyi200.athena.research.3v.linker/README.md) | research.3v hood | dismissed |

@@ -29,8 +29,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [research.4l.linker](../agents/bbugyi200.athena.research.4l.linker/README.md) | ancestor | active |
 | [research.4l.cdx](../agents/bbugyi200.athena.research.4l.cdx/README.md) | research.4l hood | active |
-| [research.4l.cld](../agents/bbugyi200.athena.research.4l.cld/README.md) | research.4l hood | active |
-| [research.4l.final](../agents/bbugyi200.athena.research.4l.final/README.md) | research.4l hood | active |
+| [research.4l.cld](../agents/bbugyi200.athena.research.4l.cld/README.md) | research.4l hood | dismissed |
+| [research.4l.final](../agents/bbugyi200.athena.research.4l.final/README.md) | research.4l hood | dismissed |
 | [research.4l.gem](../agents/bbugyi200.athena.research.4l.gem/README.md) | research.4l hood | active |
 | [research.4l.grk](../agents/bbugyi200.athena.research.4l.grk/README.md) | research.4l hood | active |
 | [research.4l.image](../agents/bbugyi200.athena.research.4l.image/README.md) | research.4l hood | active |

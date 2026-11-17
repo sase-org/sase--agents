@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.0m.final\_1
 
-**Global name:** `bbugyi200.athena.research.0m.final_1` · **State:** active · **Source run:** `run-33dba77a8ecfd8037b2aab887d6f6e44`
+**Global name:** `bbugyi200.athena.research.0m.final_1` · **State:** dismissed · **Source run:** `run-33dba77a8ecfd8037b2aab887d6f6e44`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: smartest
 - Provider: codex
-- Timing: 2026-08-16T12:59:51.634952+00:00
+- Timing: 2026-08-16T08:59:33
 - Commits: 0
 
 ## Files
@@ -21,9 +21,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0m.cdx](../bbugyi200.athena.research.0m.cdx/README.md) | research.0m hood | active |
+| [research.0m.cdx](../bbugyi200.athena.research.0m.cdx/README.md) | research.0m hood | dismissed |
 | [research.0m.cld](../bbugyi200.athena.research.0m.cld/README.md) | research.0m hood | dismissed |
-| [research.0m.final](../bbugyi200.athena.research.0m.final/README.md) | research.0m hood | active |
+| [research.0m.final](../bbugyi200.athena.research.0m.final/README.md) | research.0m hood | dismissed |
 | [research.0m.final\_2](../bbugyi200.athena.research.0m.final_2/README.md) | research.0m hood | dismissed |
 | [research.0m.final\_3](../bbugyi200.athena.research.0m.final_3/README.md) | research.0m hood | active |
 | [research.0m.image](../bbugyi200.athena.research.0m.image/README.md) | research.0m hood | waiting |

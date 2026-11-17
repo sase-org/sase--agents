@@ -22,7 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.2n.cdx](../bbugyi200.athena.research.2n.cdx/README.md) | research.2n hood | active |
-| [research.2n.gem](../bbugyi200.athena.research.2n.gem/README.md) | research.2n hood | active |
+| [research.2n.gem](../bbugyi200.athena.research.2n.gem/README.md) | research.2n hood | dismissed |
 | [research.2n.grk](../bbugyi200.athena.research.2n.grk/README.md) | research.2n hood | active |
 | [research.2n.image](../bbugyi200.athena.research.2n.image/README.md) | research.2n hood | active |
 | [research.2n.mus](../bbugyi200.athena.research.2n.mus/README.md) | research.2n hood | active |

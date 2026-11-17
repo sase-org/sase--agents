@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.42.mus
 
-**Global name:** `bbugyi200.athena.research.42.mus` · **State:** active · **Source run:** `run-370e2c0639f03f19a4643f792d3c17f7`
+**Global name:** `bbugyi200.athena.research.42.mus` · **State:** dismissed · **Source run:** `run-370e2c0639f03f19a4643f792d3c17f7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-08T20:38:50.274322+00:00
+- Timing: 2026-10-08T16:38:50.274322 → 2026-10-08T16:44:35.125715
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -40,11 +40,11 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.42.cdx](../bbugyi200.athena.research.42.cdx/README.md) | research.42 hood | active |
+| [research.42.cdx](../bbugyi200.athena.research.42.cdx/README.md) | research.42 hood | dismissed |
 | [research.42.cld](../bbugyi200.athena.research.42.cld/README.md) | research.42 hood | active |
 | [research.42.final](../bbugyi200.athena.research.42.final/README.md) | research.42 hood | active |
 | [research.42.gem](../bbugyi200.athena.research.42.gem/README.md) | research.42 hood | active |
-| [research.42.grk](../bbugyi200.athena.research.42.grk/README.md) | research.42 hood | active |
+| [research.42.grk](../bbugyi200.athena.research.42.grk/README.md) | research.42 hood | dismissed |
 | [research.42.image](../bbugyi200.athena.research.42.image/README.md) | research.42 hood | active |
 | [research.42.linker](../bbugyi200.athena.research.42.linker/README.md) | research.42 hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |

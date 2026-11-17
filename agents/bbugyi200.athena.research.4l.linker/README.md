@@ -42,8 +42,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [research.4l.linker.w0](../../sessions/bbugyi200.athena.research.4l.linker.w0.md) (session · 3) | descendant | active 1, failed 2 |
 | [research.4l.cdx](../bbugyi200.athena.research.4l.cdx/README.md) | research.4l hood | active |
-| [research.4l.cld](../bbugyi200.athena.research.4l.cld/README.md) | research.4l hood | active |
-| [research.4l.final](../bbugyi200.athena.research.4l.final/README.md) | research.4l hood | active |
+| [research.4l.cld](../bbugyi200.athena.research.4l.cld/README.md) | research.4l hood | dismissed |
+| [research.4l.final](../bbugyi200.athena.research.4l.final/README.md) | research.4l hood | dismissed |
 | [research.4l.gem](../bbugyi200.athena.research.4l.gem/README.md) | research.4l hood | active |
 | [research.4l.grk](../bbugyi200.athena.research.4l.grk/README.md) | research.4l hood | active |
 | [research.4l.image](../bbugyi200.athena.research.4l.image/README.md) | research.4l hood | active |

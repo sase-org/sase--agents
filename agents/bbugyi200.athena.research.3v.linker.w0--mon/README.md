@@ -22,11 +22,11 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.3v.linker](../bbugyi200.athena.research.3v.linker/README.md) | ancestor | dismissed |
-| [research.3v.audio](../bbugyi200.athena.research.3v.audio/README.md) | research.3v hood | active |
+| [research.3v.audio](../bbugyi200.athena.research.3v.audio/README.md) | research.3v hood | dismissed |
 | [research.3v.cdx](../bbugyi200.athena.research.3v.cdx/README.md) | research.3v hood | active |
 | [research.3v.cld](../bbugyi200.athena.research.3v.cld/README.md) | research.3v hood | active |
 | [research.3v.final](../bbugyi200.athena.research.3v.final/README.md) | research.3v hood | active |
-| [research.3v.gem](../bbugyi200.athena.research.3v.gem/README.md) | research.3v hood | active |
+| [research.3v.gem](../bbugyi200.athena.research.3v.gem/README.md) | research.3v hood | dismissed |
 | [research.3v.grk](../bbugyi200.athena.research.3v.grk/README.md) | research.3v hood | dismissed |
 | [research.3v.image](../bbugyi200.athena.research.3v.image/README.md) | research.3v hood | active |
 | [research.3v.mus](../bbugyi200.athena.research.3v.mus/README.md) | research.3v hood | active |

@@ -29,7 +29,7 @@
 | [research.3u.image](../bbugyi200.athena.research.3u.image/README.md) | research.3u hood | active |
 | [research.3u.linker](../bbugyi200.athena.research.3u.linker/README.md) | research.3u hood | active |
 | [research.3u.linker.w0](../../sessions/bbugyi200.athena.research.3u.linker.w0.md) (session · 3) | research.3u hood | active 1, failed 2 |
-| [research.3u.mus](../bbugyi200.athena.research.3u.mus/README.md) | research.3u hood | active |
+| [research.3u.mus](../bbugyi200.athena.research.3u.mus/README.md) | research.3u hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |

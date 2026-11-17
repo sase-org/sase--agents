@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3y.mus
 
-**Global name:** `bbugyi200.athena.research.3y.mus` · **State:** active · **Source run:** `run-3687aefe4aea1612cbe7c276ec006b37`
+**Global name:** `bbugyi200.athena.research.3y.mus` · **State:** dismissed · **Source run:** `run-3687aefe4aea1612cbe7c276ec006b37`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-07T16:25:49.111222+00:00
+- Timing: 2026-10-07T12:25:49.111222 → 2026-10-07T12:34:15.328945
 - Commits: 0
 
 ## Files
@@ -22,7 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.3y.audio](../bbugyi200.athena.research.3y.audio/README.md) | research.3y hood | dismissed |
-| [research.3y.cdx](../bbugyi200.athena.research.3y.cdx/README.md) | research.3y hood | active |
+| [research.3y.cdx](../bbugyi200.athena.research.3y.cdx/README.md) | research.3y hood | dismissed |
 | [research.3y.cld](../bbugyi200.athena.research.3y.cld/README.md) | research.3y hood | active |
 | [research.3y.final](../bbugyi200.athena.research.3y.final/README.md) | research.3y hood | active |
 | [research.3y.gem](../bbugyi200.athena.research.3y.gem/README.md) | research.3y hood | active |

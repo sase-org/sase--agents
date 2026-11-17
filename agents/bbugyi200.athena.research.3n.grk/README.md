@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3n.grk
 
-**Global name:** `bbugyi200.athena.research.3n.grk` · **State:** active · **Source run:** `run-2f7b3b806dce9f8e8c90e9f102727746`
+**Global name:** `bbugyi200.athena.research.3n.grk` · **State:** dismissed · **Source run:** `run-2f7b3b806dce9f8e8c90e9f102727746`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-05T10:54:05.586934+00:00
+- Timing: 2026-10-05T06:54:05.586934 → 2026-10-05T07:09:36.288167
 - Commits: 0
 
 ## Files
@@ -22,8 +22,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.3n.audio](../bbugyi200.athena.research.3n.audio/README.md) | research.3n hood | active |
-| [research.3n.cdx](../bbugyi200.athena.research.3n.cdx/README.md) | research.3n hood | active |
-| [research.3n.cld](../bbugyi200.athena.research.3n.cld/README.md) | research.3n hood | active |
+| [research.3n.cdx](../bbugyi200.athena.research.3n.cdx/README.md) | research.3n hood | dismissed |
+| [research.3n.cld](../bbugyi200.athena.research.3n.cld/README.md) | research.3n hood | dismissed |
 | [research.3n.final](../bbugyi200.athena.research.3n.final/README.md) | research.3n hood | active |
 | [research.3n.gem](../bbugyi200.athena.research.3n.gem/README.md) | research.3n hood | dismissed |
 | [research.3n.image](../bbugyi200.athena.research.3n.image/README.md) | research.3n hood | dismissed |

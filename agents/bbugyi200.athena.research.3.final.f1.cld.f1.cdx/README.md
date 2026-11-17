@@ -24,7 +24,7 @@
 | [research.3.final.f1.cld.f1](../bbugyi200.athena.research.3.final.f1.cld.f1/README.md) | ancestor | dismissed |
 | [research.3.final.f1.cld](../bbugyi200.athena.research.3.final.f1.cld/README.md) | ancestor | dismissed |
 | [research.3.final](../bbugyi200.athena.research.3.final/README.md) | ancestor | dismissed |
-| [research.3.final.f1.cld.f1.cld](../bbugyi200.athena.research.3.final.f1.cld.f1.cld/README.md) | research.3.final.f1.cld.f1 hood | active |
+| [research.3.final.f1.cld.f1.cld](../bbugyi200.athena.research.3.final.f1.cld.f1.cld/README.md) | research.3.final.f1.cld.f1 hood | dismissed |
 | [research.3.final.f1.cld.f2](../bbugyi200.athena.research.3.final.f1.cld.f2/README.md) | research.3.final.f1.cld hood | dismissed |
 | [research.3.final.f1.cdx](../bbugyi200.athena.research.3.final.f1.cdx/README.md) | research.3.final.f1 hood | dismissed |
 | [research.3.cdx](../bbugyi200.athena.research.3.cdx/README.md) | research.3 hood | dismissed |

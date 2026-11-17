@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.49.final](../agents/bbugyi200.athena.research.49.final/README.md) | research.49 hood | active |
 | [research.49.gem](../agents/bbugyi200.athena.research.49.gem/README.md) | research.49 hood | active |
 | [research.49.grk](../agents/bbugyi200.athena.research.49.grk/README.md) | research.49 hood | active |
-| [research.49.image](../agents/bbugyi200.athena.research.49.image/README.md) | research.49 hood | active |
+| [research.49.image](../agents/bbugyi200.athena.research.49.image/README.md) | research.49 hood | dismissed |
 | [research.49.mus](../agents/bbugyi200.athena.research.49.mus/README.md) | research.49 hood | active |
 | [research.0.cdx](../agents/bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../agents/bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |

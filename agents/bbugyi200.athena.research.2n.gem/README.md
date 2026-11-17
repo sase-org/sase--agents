@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.2n.gem
 
-**Global name:** `bbugyi200.athena.research.2n.gem` · **State:** active · **Source run:** `run-32ce9698b11d56df8f4f0623fa7b05d2`
+**Global name:** `bbugyi200.athena.research.2n.gem` · **State:** dismissed · **Source run:** `run-32ce9698b11d56df8f4f0623fa7b05d2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-09-26T17:56:18.755236+00:00
+- Timing: 2026-09-26T13:56:18.755236 → 2026-09-26T14:06:42.856365
 - Commits: 0
 
 ## Files

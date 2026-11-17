@@ -27,7 +27,7 @@
 | [research.z.final](../bbugyi200.athena.research.z.final/README.md) | ancestor | dismissed |
 | [research.z.cdx](../bbugyi200.athena.research.z.cdx/README.md) | research.z hood | active |
 | [research.z.cld](../bbugyi200.athena.research.z.cld/README.md) | research.z hood | active |
-| [research.z.image](../bbugyi200.athena.research.z.image/README.md) | research.z hood | active |
+| [research.z.image](../bbugyi200.athena.research.z.image/README.md) | research.z hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |

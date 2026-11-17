@@ -40,7 +40,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4a.linker.w0](../../sessions/bbugyi200.athena.research.4a.linker.w0.md) (session · 3) | descendant | active 1, failed 2 |
+| [research.4a.linker.w0](../../sessions/bbugyi200.athena.research.4a.linker.w0.md) (session · 3) | descendant | dismissed 1, failed 2 |
 | [research.4a.cdx](../bbugyi200.athena.research.4a.cdx/README.md) | research.4a hood | active |
 | [research.4a.cld](../bbugyi200.athena.research.4a.cld/README.md) | research.4a hood | active |
 | [research.4a.final](../bbugyi200.athena.research.4a.final/README.md) | research.4a hood | active |

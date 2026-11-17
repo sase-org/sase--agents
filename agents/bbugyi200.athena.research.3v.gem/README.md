@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3v.gem
 
-**Global name:** `bbugyi200.athena.research.3v.gem` · **State:** active · **Source run:** `run-3b4884b8ed6387d07aa0b87777b9dff3`
+**Global name:** `bbugyi200.athena.research.3v.gem` · **State:** dismissed · **Source run:** `run-3b4884b8ed6387d07aa0b87777b9dff3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-06T20:41:27.029618+00:00
+- Timing: 2026-10-06T16:41:27.029618 → 2026-10-06T16:59:39.384226
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3v.audio](../bbugyi200.athena.research.3v.audio/README.md) | research.3v hood | active |
+| [research.3v.audio](../bbugyi200.athena.research.3v.audio/README.md) | research.3v hood | dismissed |
 | [research.3v.cdx](../bbugyi200.athena.research.3v.cdx/README.md) | research.3v hood | active |
 | [research.3v.cld](../bbugyi200.athena.research.3v.cld/README.md) | research.3v hood | active |
 | [research.3v.final](../bbugyi200.athena.research.3v.final/README.md) | research.3v hood | active |

@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1n.cdx](../bbugyi200.athena.research.1n.cdx/README.md) | research.1n hood | active |
-| [research.1n.cld](../bbugyi200.athena.research.1n.cld/README.md) | research.1n hood | active |
+| [research.1n.cdx](../bbugyi200.athena.research.1n.cdx/README.md) | research.1n hood | dismissed |
+| [research.1n.cld](../bbugyi200.athena.research.1n.cld/README.md) | research.1n hood | dismissed |
 | [research.1n.final](../bbugyi200.athena.research.1n.final/README.md) | research.1n hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |

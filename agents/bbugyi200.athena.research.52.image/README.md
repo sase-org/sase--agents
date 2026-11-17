@@ -63,7 +63,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.52.grk](../bbugyi200.athena.research.52.grk/README.md) | research.52 hood | active |
 | [research.52.linker](../bbugyi200.athena.research.52.linker/README.md) | research.52 hood | active |
 | [research.52.linker.w0](../../sessions/bbugyi200.athena.research.52.linker.w0.md) (session · 3) | research.52 hood | active 1, failed 2 |
-| [research.52.mus](../bbugyi200.athena.research.52.mus/README.md) | research.52 hood | active |
+| [research.52.mus](../bbugyi200.athena.research.52.mus/README.md) | research.52 hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |

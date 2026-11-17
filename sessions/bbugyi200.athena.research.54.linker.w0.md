@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [research.54.linker](../agents/bbugyi200.athena.research.54.linker/README.md) | ancestor | active |
 | [research.54.cdx](../agents/bbugyi200.athena.research.54.cdx/README.md) | research.54 hood | active |
-| [research.54.cld](../agents/bbugyi200.athena.research.54.cld/README.md) | research.54 hood | active |
+| [research.54.cld](../agents/bbugyi200.athena.research.54.cld/README.md) | research.54 hood | dismissed |
 | [research.54.final](../agents/bbugyi200.athena.research.54.final/README.md) | research.54 hood | active |
 | [research.54.gem](../agents/bbugyi200.athena.research.54.gem/README.md) | research.54 hood | active |
 | [research.54.grk](../agents/bbugyi200.athena.research.54.grk/README.md) | research.54 hood | dismissed |

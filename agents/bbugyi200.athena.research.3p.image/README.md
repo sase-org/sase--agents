@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3p.image
 
-**Global name:** `bbugyi200.athena.research.3p.image` · **State:** active · **Source run:** `run-2d71ee250bf494966d705bfbee74c41f`
+**Global name:** `bbugyi200.athena.research.3p.image` · **State:** dismissed · **Source run:** `run-2d71ee250bf494966d705bfbee74c41f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-05T19:03:55.912890+00:00
+- Timing: 2026-10-05T15:03:55.912890 → 2026-10-05T15:10:32.646274
 - Commits: 0
 
 ## Files
@@ -26,7 +26,7 @@
 | [research.3p.cld](../bbugyi200.athena.research.3p.cld/README.md) | research.3p hood | active |
 | [research.3p.final](../bbugyi200.athena.research.3p.final/README.md) | research.3p hood | active |
 | [research.3p.gem](../bbugyi200.athena.research.3p.gem/README.md) | research.3p hood | dismissed |
-| [research.3p.grk](../bbugyi200.athena.research.3p.grk/README.md) | research.3p hood | active |
+| [research.3p.grk](../bbugyi200.athena.research.3p.grk/README.md) | research.3p hood | dismissed |
 | [research.3p.linker](../bbugyi200.athena.research.3p.linker/README.md) | research.3p hood | active |
 | [research.3p.mus](../bbugyi200.athena.research.3p.mus/README.md) | research.3p hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |

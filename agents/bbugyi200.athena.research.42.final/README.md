@@ -40,13 +40,13 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.42.cdx](../bbugyi200.athena.research.42.cdx/README.md) | research.42 hood | active |
+| [research.42.cdx](../bbugyi200.athena.research.42.cdx/README.md) | research.42 hood | dismissed |
 | [research.42.cld](../bbugyi200.athena.research.42.cld/README.md) | research.42 hood | active |
 | [research.42.gem](../bbugyi200.athena.research.42.gem/README.md) | research.42 hood | active |
-| [research.42.grk](../bbugyi200.athena.research.42.grk/README.md) | research.42 hood | active |
+| [research.42.grk](../bbugyi200.athena.research.42.grk/README.md) | research.42 hood | dismissed |
 | [research.42.image](../bbugyi200.athena.research.42.image/README.md) | research.42 hood | active |
 | [research.42.linker](../bbugyi200.athena.research.42.linker/README.md) | research.42 hood | dismissed |
-| [research.42.mus](../bbugyi200.athena.research.42.mus/README.md) | research.42 hood | active |
+| [research.42.mus](../bbugyi200.athena.research.42.mus/README.md) | research.42 hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |

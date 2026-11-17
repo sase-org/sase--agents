@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [research.5e.linker](../agents/bbugyi200.athena.research.5e.linker/README.md) | ancestor | active |
-| [research.5e.cdx](../agents/bbugyi200.athena.research.5e.cdx/README.md) | research.5e hood | active |
+| [research.5e.cdx](../agents/bbugyi200.athena.research.5e.cdx/README.md) | research.5e hood | dismissed |
 | [research.5e.cld](../agents/bbugyi200.athena.research.5e.cld/README.md) | research.5e hood | active |
 | [research.5e.final](../agents/bbugyi200.athena.research.5e.final/README.md) | research.5e hood | active |
 | [research.5e.gem](../agents/bbugyi200.athena.research.5e.gem/README.md) | research.5e hood | active |

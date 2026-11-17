@@ -24,7 +24,7 @@
 | [research.3z.audio](../bbugyi200.athena.research.3z.audio/README.md) | research.3z hood | active |
 | [research.3z.cdx](../bbugyi200.athena.research.3z.cdx/README.md) | research.3z hood | active |
 | [research.3z.cld](../bbugyi200.athena.research.3z.cld/README.md) | research.3z hood | dismissed |
-| [research.3z.final](../bbugyi200.athena.research.3z.final/README.md) | research.3z hood | active |
+| [research.3z.final](../bbugyi200.athena.research.3z.final/README.md) | research.3z hood | dismissed |
 | [research.3z.grk](../bbugyi200.athena.research.3z.grk/README.md) | research.3z hood | active |
 | [research.3z.image](../bbugyi200.athena.research.3z.image/README.md) | research.3z hood | active |
 | [research.3z.linker](../bbugyi200.athena.research.3z.linker/README.md) | research.3z hood | active |

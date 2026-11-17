@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.1x.final
 
-**Global name:** `bbugyi200.athena.research.1x.final` · **State:** active · **Source run:** `run-2a02f455bf21e8cb72e1afa4613b378b`
+**Global name:** `bbugyi200.athena.research.1x.final` · **State:** dismissed · **Source run:** `run-2a02f455bf21e8cb72e1afa4613b378b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-09-14T17:02:56.987606+00:00
+- Timing: 2026-09-14T13:02:56.987606 → 2026-09-14T13:09:30.632572
 - Commits: 0
 
 ## Files

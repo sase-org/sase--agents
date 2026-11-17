@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3i.image
 
-**Global name:** `bbugyi200.athena.research.3i.image` · **State:** active · **Source run:** `run-2be84c1f330cead41ee310e1fc415851`
+**Global name:** `bbugyi200.athena.research.3i.image` · **State:** dismissed · **Source run:** `run-2be84c1f330cead41ee310e1fc415851`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-03T22:00:35.416068+00:00
+- Timing: 2026-10-03T18:00:35.416068 → 2026-10-03T18:14:53.015366
 - Commits: 0
 
 ## Files

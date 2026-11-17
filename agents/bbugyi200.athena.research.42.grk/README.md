@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.42.grk
 
-**Global name:** `bbugyi200.athena.research.42.grk` · **State:** active · **Source run:** `run-2b6e16da0f271b266bb8be8560b78436`
+**Global name:** `bbugyi200.athena.research.42.grk` · **State:** dismissed · **Source run:** `run-2b6e16da0f271b266bb8be8560b78436`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-08T20:38:31.572699+00:00
+- Timing: 2026-10-08T16:38:31.572699 → 2026-10-08T16:52:11.102880
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -40,13 +40,13 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.42.cdx](../bbugyi200.athena.research.42.cdx/README.md) | research.42 hood | active |
+| [research.42.cdx](../bbugyi200.athena.research.42.cdx/README.md) | research.42 hood | dismissed |
 | [research.42.cld](../bbugyi200.athena.research.42.cld/README.md) | research.42 hood | active |
 | [research.42.final](../bbugyi200.athena.research.42.final/README.md) | research.42 hood | active |
 | [research.42.gem](../bbugyi200.athena.research.42.gem/README.md) | research.42 hood | active |
 | [research.42.image](../bbugyi200.athena.research.42.image/README.md) | research.42 hood | active |
 | [research.42.linker](../bbugyi200.athena.research.42.linker/README.md) | research.42 hood | dismissed |
-| [research.42.mus](../bbugyi200.athena.research.42.mus/README.md) | research.42 hood | active |
+| [research.42.mus](../bbugyi200.athena.research.42.mus/README.md) | research.42 hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |

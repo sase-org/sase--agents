@@ -8,14 +8,14 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 1
 
 ```mermaid
 flowchart TD
-  n0["research.h.final [active]"]
+  n0["research.h.final [dismissed]"]
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | research.h.final | active | claude-fable-5 / claude | 2026-07-17T17:29:58.960586+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.h.final/prompt.md) | — |
+| <a id="member-root"></a>root | research.h.final | dismissed | claude-fable-5 / claude | 2026-07-17T13:12:37 | 0 | [Prompt](../agents/bbugyi200.athena.research.h.final/prompt.md) | — |
 
 ## Neighbors
 

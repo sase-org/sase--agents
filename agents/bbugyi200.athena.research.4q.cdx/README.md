@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4q.cdx
 
-**Global name:** `bbugyi200.athena.research.4q.cdx` · **State:** active · **Source run:** `run-34fe3df6fdb94c511be12ff0242246ec`
+**Global name:** `bbugyi200.athena.research.4q.cdx` · **State:** dismissed · **Source run:** `run-34fe3df6fdb94c511be12ff0242246ec`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-17T19:49:25.603916+00:00
+- Timing: 2026-10-17T15:49:25.603916 → 2026-10-17T16:04:49.210780
 - Commits: 0
 - Variables: [1](#variables)
 
