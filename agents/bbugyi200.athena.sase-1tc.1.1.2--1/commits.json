@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794946336,"sha":"efc66a420b8c738e52cefa4f04bc28eec0031132","subject":"feat(macro): evaluate authored commands before interpolating data"}],"schema_version":2,"source_run_id":"run-c0b2b0ce6af47b5ff29f2d4e21d9d3ae"}
