@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tb](../../users/bbugyi200/machines/athena/hoods/sase-1tb/README.md) / sase-1tb.3
 
-**Global name:** `bbugyi200.athena.sase-1tb.3` · **State:** active · **Source run:** `run-ccf452b533eab2546995dbe18d5ad26d`
+**Global name:** `bbugyi200.athena.sase-1tb.3` · **State:** completed · **Source run:** `run-ccf452b533eab2546995dbe18d5ad26d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tb
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tb](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tb/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-17T17:18:46.715333+00:00
-- Commits: 0
+- Timing: 2026-11-17T17:18:46.715333+00:00 → 2026-11-17T18:43:19.071996+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5b4e61b`](https://github.com/sase-org/sase/commit/5b4e61bfa7d256d0fb29317eb268782bbee7f42b) | feat(tui): launch artifact tmux panes off the UI thread | 2026-11-17 13:42:05 EST |
 
 ## Neighbors
 
