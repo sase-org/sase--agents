@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.1g.image
 
-**Global name:** `bbugyi200.athena.research.1g.image` · **State:** waiting · **Source run:** `run-baecdd01c25a4811d9bbb01b460e3b92`
+**Global name:** `bbugyi200.athena.research.1g.image` · **State:** dismissed · **Source run:** `run-baecdd01c25a4811d9bbb01b460e3b92`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260905182109
+- Timing: 2026-09-05T18:21:09
 - Commits: 0
 
 ## Files
@@ -62,7 +62,7 @@
 | [research.07.final](../bbugyi200.athena.research.07.final/README.md) | research hood | completed |
 | [research.07.final.f1](../bbugyi200.athena.research.07.final.f1/README.md) | research hood | completed |
 | [research.07.image](../bbugyi200.athena.research.07.image/README.md) | research hood | completed |
-| [research.08.cdx](../bbugyi200.athena.research.08.cdx/README.md) | research hood | active |
+| [research.08.cdx](../bbugyi200.athena.research.08.cdx/README.md) | research hood | dismissed |
 | [research.08.cld](../bbugyi200.athena.research.08.cld/README.md) | research hood | dismissed |
 | [research.08.final](../bbugyi200.athena.research.08.final/README.md) | research hood | completed |
 | [research.08.image](../bbugyi200.athena.research.08.image/README.md) | research hood | completed |

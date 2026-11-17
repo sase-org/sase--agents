@@ -41,8 +41,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.4a.cdx](../bbugyi200.athena.research.4a.cdx/README.md) | research.4a hood | active |
-| [research.4a.cld](../bbugyi200.athena.research.4a.cld/README.md) | research.4a hood | active |
-| [research.4a.final](../bbugyi200.athena.research.4a.final/README.md) | research.4a hood | active |
+| [research.4a.cld](../bbugyi200.athena.research.4a.cld/README.md) | research.4a hood | dismissed |
+| [research.4a.final](../bbugyi200.athena.research.4a.final/README.md) | research.4a hood | dismissed |
 | [research.4a.gem](../bbugyi200.athena.research.4a.gem/README.md) | research.4a hood | active |
 | [research.4a.image](../bbugyi200.athena.research.4a.image/README.md) | research.4a hood | dismissed |
 | [research.4a.linker](../bbugyi200.athena.research.4a.linker/README.md) | research.4a hood | dismissed |
@@ -85,7 +85,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.07.final](../bbugyi200.athena.research.07.final/README.md) | research hood | completed |
 | [research.07.final.f1](../bbugyi200.athena.research.07.final.f1/README.md) | research hood | completed |
 | [research.07.image](../bbugyi200.athena.research.07.image/README.md) | research hood | completed |
-| [research.08.cdx](../bbugyi200.athena.research.08.cdx/README.md) | research hood | active |
+| [research.08.cdx](../bbugyi200.athena.research.08.cdx/README.md) | research hood | dismissed |
 | [research.08.cld](../bbugyi200.athena.research.08.cld/README.md) | research hood | dismissed |
 | [research.08.final](../bbugyi200.athena.research.08.final/README.md) | research hood | completed |
 | [research.08.image](../bbugyi200.athena.research.08.image/README.md) | research hood | completed |

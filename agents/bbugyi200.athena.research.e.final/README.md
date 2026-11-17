@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.e.final.f0](../../sessions/bbugyi200.athena.research.e.final.f0.md) (session · 2) | descendant | active 1, failed 1 |
+| [research.e.final.f0](../../sessions/bbugyi200.athena.research.e.final.f0.md) (session · 2) | descendant | dismissed 1, failed 1 |
 | [research.e.final.f1](../bbugyi200.athena.research.e.final.f1/README.md) | descendant | completed |
 | [research.e.final.f1.f1](../bbugyi200.athena.research.e.final.f1.f1/README.md) | descendant | completed |
 | [research.e.cdx](../bbugyi200.athena.research.e.cdx/README.md) | research.e hood | dismissed |
@@ -70,7 +70,7 @@
 | [research.07.final](../bbugyi200.athena.research.07.final/README.md) | research hood | completed |
 | [research.07.final.f1](../bbugyi200.athena.research.07.final.f1/README.md) | research hood | completed |
 | [research.07.image](../bbugyi200.athena.research.07.image/README.md) | research hood | completed |
-| [research.08.cdx](../bbugyi200.athena.research.08.cdx/README.md) | research hood | active |
+| [research.08.cdx](../bbugyi200.athena.research.08.cdx/README.md) | research hood | dismissed |
 | [research.08.cld](../bbugyi200.athena.research.08.cld/README.md) | research hood | dismissed |
 | [research.08.final](../bbugyi200.athena.research.08.final/README.md) | research hood | completed |
 | [research.08.image](../bbugyi200.athena.research.08.image/README.md) | research hood | completed |

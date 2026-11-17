@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 2
 ```mermaid
 flowchart TD
   n0["research.e.final.f0--1 [failed]"]
-  n1["research.e.final.f0 [active]"]
+  n1["research.e.final.f0 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | research.e.final.f0--1 | failed | gpt-5.6-sol / codex | 2026-07-16T18:54:32.692362+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.e.final.f0--1/chat.md) |
-| <a id="member-root"></a>root | research.e.final.f0 | active | gpt-5.6-sol / codex | 2026-07-16T18:36:11.929754+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.e.final.f0/prompt.md) | [Chat](../agents/bbugyi200.athena.research.e.final.f0/chat.md) |
+| <a id="member-root"></a>root | research.e.final.f0 | dismissed | gpt-5.6-sol / codex | 2026-07-16T14:36:11.929754 → 2026-07-16T15:06:42.866084 | 0 | [Prompt](../agents/bbugyi200.athena.research.e.final.f0/prompt.md) | [Chat](../agents/bbugyi200.athena.research.e.final.f0/chat.md) |
 
 ## Neighbors
 
@@ -67,7 +67,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.07.final](../agents/bbugyi200.athena.research.07.final/README.md) | research hood | completed |
 | [research.07.final.f1](../agents/bbugyi200.athena.research.07.final.f1/README.md) | research hood | completed |
 | [research.07.image](../agents/bbugyi200.athena.research.07.image/README.md) | research hood | completed |
-| [research.08.cdx](../agents/bbugyi200.athena.research.08.cdx/README.md) | research hood | active |
+| [research.08.cdx](../agents/bbugyi200.athena.research.08.cdx/README.md) | research hood | dismissed |
 | [research.08.cld](../agents/bbugyi200.athena.research.08.cld/README.md) | research hood | dismissed |
 | [research.08.final](../agents/bbugyi200.athena.research.08.final/README.md) | research hood | completed |
 | [research.08.image](../agents/bbugyi200.athena.research.08.image/README.md) | research hood | completed |

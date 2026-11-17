@@ -27,10 +27,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.58.linker](../agents/bbugyi200.athena.research.58.linker/README.md) | ancestor | active |
+| [research.58.linker](../agents/bbugyi200.athena.research.58.linker/README.md) | ancestor | dismissed |
 | [research.58.cdx](../agents/bbugyi200.athena.research.58.cdx/README.md) | research.58 hood | dismissed |
 | [research.58.cld](../agents/bbugyi200.athena.research.58.cld/README.md) | research.58 hood | dismissed |
-| [research.58.final](../agents/bbugyi200.athena.research.58.final/README.md) | research.58 hood | active |
+| [research.58.final](../agents/bbugyi200.athena.research.58.final/README.md) | research.58 hood | dismissed |
 | [research.58.gem](../agents/bbugyi200.athena.research.58.gem/README.md) | research.58 hood | dismissed |
 | [research.58.grk](../agents/bbugyi200.athena.research.58.grk/README.md) | research.58 hood | active |
 | [research.58.image](../agents/bbugyi200.athena.research.58.image/README.md) | research.58 hood | dismissed |
@@ -72,7 +72,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.07.final](../agents/bbugyi200.athena.research.07.final/README.md) | research hood | completed |
 | [research.07.final.f1](../agents/bbugyi200.athena.research.07.final.f1/README.md) | research hood | completed |
 | [research.07.image](../agents/bbugyi200.athena.research.07.image/README.md) | research hood | completed |
-| [research.08.cdx](../agents/bbugyi200.athena.research.08.cdx/README.md) | research hood | active |
+| [research.08.cdx](../agents/bbugyi200.athena.research.08.cdx/README.md) | research hood | dismissed |
 | [research.08.cld](../agents/bbugyi200.athena.research.08.cld/README.md) | research hood | dismissed |
 | [research.08.final](../agents/bbugyi200.athena.research.08.final/README.md) | research hood | completed |
 | [research.08.image](../agents/bbugyi200.athena.research.08.image/README.md) | research hood | completed |

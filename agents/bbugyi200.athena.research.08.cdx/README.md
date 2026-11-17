@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.08.cdx
 
-**Global name:** `bbugyi200.athena.research.08.cdx` · **State:** active · **Source run:** `run-b1a5a55da94ff8a0c66c6211883c54d3`
+**Global name:** `bbugyi200.athena.research.08.cdx` · **State:** dismissed · **Source run:** `run-b1a5a55da94ff8a0c66c6211883c54d3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-11T13:36:02.859121+00:00
+- Timing: 2026-08-11T09:34:28
 - Commits: [1](#commits)
 
 ## Files

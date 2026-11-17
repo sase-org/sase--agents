@@ -11,7 +11,7 @@ flowchart TD
   n0["research.49.linker.w1--gate [failed]"]
   n1["research.49.linker.w1--mon [failed]"]
   n0 --> n1
-  n2["research.49.linker.w1--plan [active]"]
+  n2["research.49.linker.w1--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | research.49.linker.w1--gate | failed | opus / claude | 2026-10-11T15:12:29.600237+00:00 → 2026-10-11T15:13:48.237256+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.49.linker.w1--gate/chat.md) |
 | <a id="member-mon"></a>mon | research.49.linker.w1--mon | failed | opus / claude | 2026-10-11T15:13:31.605709+00:00 → 2026-10-11T15:17:48.874775+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.49.linker.w1--mon/chat.md) |
-| <a id="member-plan"></a>plan | research.49.linker.w1--plan | active | opus / claude | 2026-10-11T14:38:00.645053+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.49.linker.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.49.linker.w1--plan/chat.md) |
+| <a id="member-plan"></a>plan | research.49.linker.w1--plan | dismissed | opus / claude | 2026-10-11T10:38:00.645053 → 2026-10-11T11:08:26.040933 | 0 | [Prompt](../agents/bbugyi200.athena.research.49.linker.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.49.linker.w1--plan/chat.md) |
 
 ## Neighbors
 
@@ -30,10 +30,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.49.linker](../agents/bbugyi200.athena.research.49.linker/README.md) | ancestor | dismissed |
 | [research.49.linker.w0](../agents/bbugyi200.athena.research.49.linker.w0/README.md) | research.49.linker hood | dismissed |
 | [research.49.cdx](../agents/bbugyi200.athena.research.49.cdx/README.md) | research.49 hood | dismissed |
-| [research.49.cld](../agents/bbugyi200.athena.research.49.cld/README.md) | research.49 hood | active |
+| [research.49.cld](../agents/bbugyi200.athena.research.49.cld/README.md) | research.49 hood | dismissed |
 | [research.49.final](../agents/bbugyi200.athena.research.49.final/README.md) | research.49 hood | dismissed |
 | [research.49.gem](../agents/bbugyi200.athena.research.49.gem/README.md) | research.49 hood | dismissed |
-| [research.49.grk](../agents/bbugyi200.athena.research.49.grk/README.md) | research.49 hood | active |
+| [research.49.grk](../agents/bbugyi200.athena.research.49.grk/README.md) | research.49 hood | dismissed |
 | [research.49.image](../agents/bbugyi200.athena.research.49.image/README.md) | research.49 hood | dismissed |
 | [research.49.mus](../agents/bbugyi200.athena.research.49.mus/README.md) | research.49 hood | dismissed |
 | [research.0.cdx](../agents/bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
@@ -73,7 +73,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.07.final](../agents/bbugyi200.athena.research.07.final/README.md) | research hood | completed |
 | [research.07.final.f1](../agents/bbugyi200.athena.research.07.final.f1/README.md) | research hood | completed |
 | [research.07.image](../agents/bbugyi200.athena.research.07.image/README.md) | research hood | completed |
-| [research.08.cdx](../agents/bbugyi200.athena.research.08.cdx/README.md) | research hood | active |
+| [research.08.cdx](../agents/bbugyi200.athena.research.08.cdx/README.md) | research hood | dismissed |
 | [research.08.cld](../agents/bbugyi200.athena.research.08.cld/README.md) | research hood | dismissed |
 | [research.08.final](../agents/bbugyi200.athena.research.08.final/README.md) | research hood | completed |
 | [research.08.image](../agents/bbugyi200.athena.research.08.image/README.md) | research hood | completed |
