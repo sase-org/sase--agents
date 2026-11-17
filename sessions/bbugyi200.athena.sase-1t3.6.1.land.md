@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["sase-1t3.6.1.land--gate [completed]"]
   n0 --> n2
-  n3["sase-1t3.6.1.land--1 [active]"]
+  n3["sase-1t3.6.1.land--1 [failed]"]
   n0 --> n3
   n4["sase-1t3.6.1.land--plan [completed]"]
   n0 --> n4
@@ -26,8 +26,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-1t3.6.1.land--code | completed | gpt-6-luna / codex | 2026-11-17T05:04:00.833431+00:00 → 2026-11-17T05:49:01.369141+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.land--code/chat.md) |
 | <a id="member-mon"></a>mon | sase-1t3.6.1.land--mon | completed | gpt-6-luna / codex | 2026-11-17T05:47:47.735034+00:00 → 2026-11-17T06:09:17.591939+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.land--mon/chat.md) |
 | <a id="member-gate"></a>gate | sase-1t3.6.1.land--gate | completed | gpt-6-astra / codex | 2026-11-17T05:03:11.379726+00:00 → 2026-11-17T05:03:22.178951+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.land--gate/chat.md) |
-| <a id="member-1"></a>1 | sase-1t3.6.1.land--1 | active | gpt-6-luna / codex | 2026-11-17T06:10:17.364138+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.6.1.land--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1t3.6.1.land--1 | failed | gpt-6-luna / codex | 2026-11-17T06:10:17.364138+00:00 → 2026-11-17T08:38:53.100516+00:00 | [1](../agents/bbugyi200.athena.sase-1t3.6.1.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1t3.6.1.land--1/prompt.md) | — |
 | <a id="member-plan"></a>plan | sase-1t3.6.1.land--plan | completed | gpt-6-astra / codex | 2026-11-17T04:48:10.153322+00:00 → 2026-11-17T05:49:01.369141+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.6.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.6.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`824fc24`](https://github.com/sase-org/sase/commit/824fc2445e33499872674f4a26fb4ad9bc672a34) | feat(agent-lookup): land indexed lookup resolution | 2026-11-17 03:35:12 EST |
 
 ## Variables
 

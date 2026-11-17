@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / [sase-1t3.6.1.land](../../sessions/bbugyi200.athena.sase-1t3.6.1.land.md) / sase-1t3.6.1.land--1
 
-**Global name:** `bbugyi200.athena.sase-1t3.6.1.land--1` · **State:** active · **Source run:** `run-af18101b5ed07cfe29a9b99e11bf9d45`
+**Global name:** `bbugyi200.athena.sase-1t3.6.1.land--1` · **State:** failed · **Source run:** `run-af18101b5ed07cfe29a9b99e11bf9d45`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
@@ -11,13 +11,19 @@
 - Bead: [sase-1t3.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.6.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-17T06:10:17.364138+00:00
-- Commits: 0
+- Timing: 2026-11-17T06:10:17.364138+00:00 → 2026-11-17T08:38:53.100516+00:00
+- Commits: [1](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`824fc24`](https://github.com/sase-org/sase/commit/824fc2445e33499872674f4a26fb4ad9bc672a34) | feat(agent-lookup): land indexed lookup resolution | 2026-11-17 03:35:12 EST |
 
 ## Variables
 
