@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 3 · Bead: [sase-1t3.7
 
 ```mermaid
 flowchart TD
-  n0["sase-1t3.7.1.land--plan [active]"]
+  n0["sase-1t3.7.1.land--plan [completed]"]
   n1["sase-1t3.7.1.land--gate [completed]"]
   n0 --> n1
-  n2["sase-1t3.7.1.land--code [active]"]
+  n2["sase-1t3.7.1.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1t3.7.1.land--plan | active | gpt-6-astra / codex | 2026-11-16T22:48:10.373102+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.7.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1t3.7.1.land--plan | completed | gpt-6-astra / codex | 2026-11-16T22:48:10.373102+00:00 → 2026-11-17T01:37:25.631299+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.7.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1t3.7.1.land--gate | completed | gpt-6-astra / codex | 2026-11-16T23:01:17.945763+00:00 → 2026-11-16T23:01:31.792413+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1t3.7.1.land--code | active | grok-4.6 / grok | 2026-11-16T23:02:18.143966+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-1t3.7.1.land--code | completed | grok-4.6 / grok | 2026-11-16T23:02:18.143966+00:00 → 2026-11-17T01:37:25.631299+00:00 | [1](../agents/bbugyi200.athena.sase-1t3.7.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1t3.7.1.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`f8fc0bb`](https://github.com/sase-org/sase/commit/f8fc0bbf855290c9d9e04ba5f6d55a1cbdc8a7ba) | fix(ace): finish coherent provider-tab publication | 2026-11-16 20:34:42 EST |
 
 ## Neighbors
 
@@ -44,7 +50,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1t3.6](bbugyi200.athena.sase-1t3.6.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
 | [sase-1t3.6.1.1](../agents/bbugyi200.athena.sase-1t3.6.1.1/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.6.1.2](../agents/bbugyi200.athena.sase-1t3.6.1.2/README.md) | sase-1t3 hood | completed |
-| [sase-1t3.6.1.3](bbugyi200.athena.sase-1t3.6.1.3.md) (session · 14) | sase-1t3 hood | active 1, completed 12, failed 1 |
+| [sase-1t3.6.1.3](bbugyi200.athena.sase-1t3.6.1.3.md) (session · 15) | sase-1t3 hood | completed 13, failed 2 |
 | [sase-1t3.6.1.land](../agents/bbugyi200.athena.sase-1t3.6.1.land/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.8](../agents/bbugyi200.athena.sase-1t3.8/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.9](../agents/bbugyi200.athena.sase-1t3.9/README.md) | sase-1t3 hood | waiting |
