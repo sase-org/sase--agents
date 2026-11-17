@@ -1,6 +1,6 @@
+%auto
 %id(test_new_project_create_execution.0, clan=toobig-9w)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/ace/tui/modals/test_new_project_create_execution.py` file into multiple files? Use your best
 %wait:toobig-9w.git_commit_dispatch.0

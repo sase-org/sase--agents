@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-9w
 
-**Global hood:** `bbugyi200.athena.toobig-9w` · **Runs:** 11 · **Sessions:** 1 · **States:** completed 5, failed 1, waiting 5
+**Global hood:** `bbugyi200.athena.toobig-9w` · **Runs:** 11 · **Sessions:** 1 · **States:** completed 6, failed 1, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [toobig-9w.settlement.0](../../../../../../agents/bbugyi200.athena.toobig-9w.settlement.0/README.md) | completed | grok-4.6 / grok | 2026-11-17T03:09:11.621996+00:00 → 2026-11-17T03:30:34.700830+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.settlement.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-9w.settlement.0/chat.md) |
-| [toobig-9w.git\_commit\_dispatch.0](../../../../../../agents/bbugyi200.athena.toobig-9w.git_commit_dispatch.0/README.md) | waiting | gpt-6-luna / codex | 20261116185644 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.git_commit_dispatch.0/prompt.md) |
+| [toobig-9w.git\_commit\_dispatch.0](../../../../../../agents/bbugyi200.athena.toobig-9w.git_commit_dispatch.0/README.md) | completed | gpt-6-luna / codex | 2026-11-17T03:55:26.816993+00:00 → 2026-11-17T04:32:01.077902+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.git_commit_dispatch.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-9w.git_commit_dispatch.0/chat.md) |
 | [toobig-9w.agent\_loader.0--plan](../../../../../../sessions/bbugyi200.athena.toobig-9w.agent_loader.0.md#member-plan) | completed | muse-spark-1.3-contributor / muse | 2026-11-17T00:41:18.849539+00:00 → 2026-11-17T02:01:02.110249+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.agent_loader.0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-9w.agent_loader.0--plan/chat.md) |
 | [toobig-9w.stop\_orchestrator\_main.0](../../../../../../agents/bbugyi200.athena.toobig-9w.stop_orchestrator_main.0/README.md) | completed | gpt-6-luna / codex | 2026-11-17T02:24:39.024824+00:00 → 2026-11-17T03:06:36.469793+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.stop_orchestrator_main.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-9w.stop_orchestrator_main.0/chat.md) |
 | [toobig-9w.test\_agent\_hijack\_stop.0](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_stop.0/README.md) | waiting | grok-4.6 / grok | 20261116185911 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_stop.0/prompt.md) |
