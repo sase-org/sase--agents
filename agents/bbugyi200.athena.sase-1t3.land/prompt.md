@@ -2,7 +2,7 @@
 %id(land, clan=sase-1t3, bead=sase-1t3)
 %model:@xlarge
 %auto
-%w(sase-1t3.1,sase-1t3.2,sase-1t3.3,sase-1t3.5,sase-1t3.6,sase-1t3.12,sase-1t3.4,sase-1t3.8,sase-1t3.9,sase-1t3.7,sase-1t3.10,sase-1t3.11,sase-1t3.13,sase-1t3.14, for_epic=false)
+%w(sase-1t3.8,sase-1t3.9,sase-1t3.10,sase-1t3.11,sase-1t3.13,sase-1t3.14, for_epic=false)
 %w(bead=sase-1t3.1)
 %w(bead=sase-1t3.2)
 %w(bead=sase-1t3.3)

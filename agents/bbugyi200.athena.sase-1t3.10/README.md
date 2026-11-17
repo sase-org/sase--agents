@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.10
 
-**Global name:** `bbugyi200.athena.sase-1t3.10` · **State:** waiting · **Source run:** `run-03bf8cb0508ad8bc118766195c41f01f`
+**Global name:** `bbugyi200.athena.sase-1t3.10` · **State:** waiting · **Source run:** `run-8fd6ee9be5983dbafea2e3ff6c2c74a0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1t3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261116075933
+- Timing: 20261117060250
 - Commits: 0
 
 ## Files
@@ -43,6 +43,7 @@
 | [sase-1t3.7.1.1](../../sessions/bbugyi200.athena.sase-1t3.7.1.1.md) (session · 15) | sase-1t3 hood | completed 8, failed 7 |
 | [sase-1t3.7.1.2](../../sessions/bbugyi200.athena.sase-1t3.7.1.2.md) (session · 3) | sase-1t3 hood | completed 2, failed 1 |
 | [sase-1t3.7.1.land](../../sessions/bbugyi200.athena.sase-1t3.7.1.land.md) (session · 3) | sase-1t3 hood | completed 3 |
+| [sase-1t3.8](../../sessions/bbugyi200.athena.sase-1t3.8.md) (session · 3) | sase-1t3 hood | active 2, completed 1 |
 | [sase-1t3.8](../bbugyi200.athena.sase-1t3.8/README.md) | sase-1t3 hood | waiting |
-| [sase-1t3.9](../bbugyi200.athena.sase-1t3.9/README.md) | sase-1t3 hood | waiting |
+| [sase-1t3.9](../bbugyi200.athena.sase-1t3.9/README.md) | sase-1t3 hood | active |
 | [sase-1t3.land](../bbugyi200.athena.sase-1t3.land/README.md) | sase-1t3 hood | waiting |

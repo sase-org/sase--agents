@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.land
 
-**Global name:** `bbugyi200.athena.sase-1t3.land` · **State:** waiting · **Source run:** `run-83d795a7b4e3128072cc1c9c939dfb2c`
+**Global name:** `bbugyi200.athena.sase-1t3.land` · **State:** waiting · **Source run:** `run-f2b3a0d73eff3fc4de29ce893f12a8be`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
@@ -11,7 +11,7 @@
 - Bead: [sase-1t3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261116075937
+- Timing: 20261117060254
 - Commits: 0
 
 ## Files
@@ -43,5 +43,6 @@
 | [sase-1t3.7.1.1](../../sessions/bbugyi200.athena.sase-1t3.7.1.1.md) (session · 15) | sase-1t3 hood | completed 8, failed 7 |
 | [sase-1t3.7.1.2](../../sessions/bbugyi200.athena.sase-1t3.7.1.2.md) (session · 3) | sase-1t3 hood | completed 2, failed 1 |
 | [sase-1t3.7.1.land](../../sessions/bbugyi200.athena.sase-1t3.7.1.land.md) (session · 3) | sase-1t3 hood | completed 3 |
+| [sase-1t3.8](../../sessions/bbugyi200.athena.sase-1t3.8.md) (session · 3) | sase-1t3 hood | active 2, completed 1 |
 | [sase-1t3.8](../bbugyi200.athena.sase-1t3.8/README.md) | sase-1t3 hood | waiting |
-| [sase-1t3.9](../bbugyi200.athena.sase-1t3.9/README.md) | sase-1t3 hood | waiting |
+| [sase-1t3.9](../bbugyi200.athena.sase-1t3.9/README.md) | sase-1t3 hood | active |

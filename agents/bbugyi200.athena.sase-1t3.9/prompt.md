@@ -2,7 +2,6 @@
 %id(9, clan=sase-1t3, bead=sase-1t3.9)
 %model:@medium
 %auto
-%w(sase-1t3.1,sase-1t3.2,sase-1t3.3,sase-1t3.5, for_epic=false)
 %w(bead=sase-1t3.1)
 %w(bead=sase-1t3.2)
 %w(bead=sase-1t3.3)
