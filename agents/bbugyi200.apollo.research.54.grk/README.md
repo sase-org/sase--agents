@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.54.grk
 
-**Global name:** `bbugyi200.apollo.research.54.grk` · **State:** active · **Source run:** `run-f5fab6aee9816405cfc6931cf8ca4efd`
+**Global name:** `bbugyi200.apollo.research.54.grk` · **State:** completed · **Source run:** `run-f5fab6aee9816405cfc6931cf8ca4efd`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-17T14:58:15.560558+00:00
+- Timing: 2026-11-17T14:58:15.560558+00:00 → 2026-11-17T15:12:25.110488+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -43,7 +43,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.54.cdx](../bbugyi200.apollo.research.54.cdx/README.md) | research.54 hood | completed |
 | [research.54.cld](../bbugyi200.apollo.research.54.cld/README.md) | research.54 hood | active |
 | [research.54.final](../bbugyi200.apollo.research.54.final/README.md) | research.54 hood | waiting |
-| [research.54.gem](../bbugyi200.apollo.research.54.gem/README.md) | research.54 hood | active |
+| [research.54.gem](../bbugyi200.apollo.research.54.gem/README.md) | research.54 hood | completed |
 | [research.54.image](../bbugyi200.apollo.research.54.image/README.md) | research.54 hood | waiting |
 | [research.54.linker](../bbugyi200.apollo.research.54.linker/README.md) | research.54 hood | waiting |
 | [research.54.mus](../bbugyi200.apollo.research.54.mus/README.md) | research.54 hood | completed |

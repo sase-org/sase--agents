@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.54.gem
 
-**Global name:** `bbugyi200.apollo.research.54.gem` · **State:** active · **Source run:** `run-b6003e419843c2ac59ca0d90f65c152a`
+**Global name:** `bbugyi200.apollo.research.54.gem` · **State:** completed · **Source run:** `run-b6003e419843c2ac59ca0d90f65c152a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-17T14:59:01.521835+00:00
+- Timing: 2026-11-17T14:59:01.521835+00:00 → 2026-11-17T15:16:52.959418+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/tmux\_video\_artifact\_viewer\_perf\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261117095650/tmux\_video\_artifact\_viewer\_perf\_\_gem-b3057d… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/tmux_video_artifact_viewer_perf__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261117095650/tmux_video_artifact_viewer_perf__gem-b3057d2e6c23.md
+  ref: file:explicit:a991e7522d2a1bdef066fce5
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_15/sase/repos/research/202611/tmux_video_artifact_viewer_perf__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.54.cdx](../bbugyi200.apollo.research.54.cdx/README.md) | research.54 hood | completed |
 | [research.54.cld](../bbugyi200.apollo.research.54.cld/README.md) | research.54 hood | active |
 | [research.54.final](../bbugyi200.apollo.research.54.final/README.md) | research.54 hood | waiting |
-| [research.54.grk](../bbugyi200.apollo.research.54.grk/README.md) | research.54 hood | active |
+| [research.54.grk](../bbugyi200.apollo.research.54.grk/README.md) | research.54 hood | completed |
 | [research.54.image](../bbugyi200.apollo.research.54.image/README.md) | research.54 hood | waiting |
 | [research.54.linker](../bbugyi200.apollo.research.54.linker/README.md) | research.54 hood | waiting |
 | [research.54.mus](../bbugyi200.apollo.research.54.mus/README.md) | research.54 hood | completed |
