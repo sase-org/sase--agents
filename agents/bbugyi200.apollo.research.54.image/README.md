@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.54.image
 
-**Global name:** `bbugyi200.apollo.research.54.image` · **State:** waiting · **Source run:** `run-0cb5b2fc5f3fd805280b2eeda5972048`
+**Global name:** `bbugyi200.apollo.research.54.image` · **State:** completed · **Source run:** `run-0cb5b2fc5f3fd805280b2eeda5972048`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,42 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261117095652
+- Timing: 2026-11-17T15:38:43.002614+00:00 → 2026-11-17T15:50:16.903089+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/fast\_video\_artifact\_pane/fast\_video\_artifact\_pane.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261117095652/fast\_video\_artifact\_p… |
+| `diagrams` | {considered: 12, count: 2, manifest: 202611/fast\_video\_artifact\_pane/fast\_video\_artifact\_pane.diagrams.md, source\_ref: file:explicit:cd354dab8cb138e3e976d660, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/fast_video_artifact_pane/fast_video_artifact_pane.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261117095652/fast_video_artifact_pane.diagrams-d77887c47424.md
+  ref: file:explicit:b4eeb665a14fd10cdefee4e8
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/fast_video_artifact_pane/fast_video_artifact_pane.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 2
+manifest: 202611/fast_video_artifact_pane/fast_video_artifact_pane.diagrams.md
+source_ref: file:explicit:cd354dab8cb138e3e976d660
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
