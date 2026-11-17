@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.13
 
-**Global name:** `bbugyi200.athena.sase-1t2.13` · **State:** waiting · **Source run:** `run-d0df29a293e7b3ef065c9ce857060618`
+**Global name:** `bbugyi200.athena.sase-1t2.13` · **State:** completed · **Source run:** `run-d0df29a293e7b3ef065c9ce857060618`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261115200205
-- Commits: 0
+- Timing: 2026-11-17T09:45:49.818876+00:00 → 2026-11-17T10:03:07.320330+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9ab2401`](https://github.com/sase-org/sase/commit/9ab2401aea42479ef3eb56cd59035c2def910942) | test(hijack): add agent hijack chaos coverage | 2026-11-17 05:01:56 EST |
 
 ## Neighbors
 
