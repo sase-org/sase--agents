@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** sase · **Hoods:** 2586 · **Runs:** 17139
+**Project:** sase · **Hoods:** 2586 · **Runs:** 17141
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -1446,11 +1446,11 @@
 | [rc](hoods/rc/README.md) | 3 | 1 | active 2, completed 1 |
 | [rd](hoods/rd/README.md) | 1 | 0 | active 1 |
 | [refresh\_docs](hoods/refresh_docs/README.md) | 64 | 0 | active 2, completed 60, waiting 2 |
-| [research](hoods/research/README.md) | 1242 | 28 | active 40, completed 137, dismissed 1025, failed 39, waiting 1 |
+| [research](hoods/research/README.md) | 1242 | 28 | active 29, completed 137, dismissed 1036, failed 39, waiting 1 |
 | [research\_swarm](hoods/research_swarm/README.md) | 45 | 0 | completed 45 |
-| [rf](hoods/rf/README.md) | 2 | 1 | active 1, completed 1 |
-| [rg](hoods/rg/README.md) | 2 | 1 | active 1, completed 1 |
-| [ri](hoods/ri/README.md) | 2 | 1 | active 1, completed 1 |
+| [rf](hoods/rf/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [rg](hoods/rg/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [ri](hoods/ri/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [rm](hoods/rm/README.md) | 1 | 0 | failed 1 |
 | [rn](hoods/rn/README.md) | 4 | 2 | active 2, completed 2 |
 | [ro](hoods/ro/README.md) | 2 | 1 | active 1, completed 1 |
@@ -1614,7 +1614,7 @@
 | [sase-1t2](hoods/sase-1t2/README.md) | 60 | 11 | active 2, completed 51, failed 7 |
 | [sase-1t3](hoods/sase-1t3/README.md) | 118 | 17 | active 5, completed 79, failed 22, waiting 12 |
 | [sase-1tb](hoods/sase-1tb/README.md) | 13 | 2 | completed 8, failed 1, waiting 4 |
-| [sase-1tc](hoods/sase-1tc/README.md) | 14 | 2 | active 1, completed 5, failed 1, waiting 7 |
+| [sase-1tc](hoods/sase-1tc/README.md) | 16 | 3 | active 1, completed 7, failed 2, waiting 6 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |
 | [sase-46](hoods/sase-46/README.md) | 6 | 0 | completed 6 |
