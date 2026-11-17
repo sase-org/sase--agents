@@ -32,12 +32,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.00.cdx](../agents/bbugyi200.athena.research.00.cdx/README.md) | research hood | dismissed |
 | [research.00.cld](../agents/bbugyi200.athena.research.00.cld/README.md) | research hood | active |
 | [research.00.final](../agents/bbugyi200.athena.research.00.final/README.md) | research hood | dismissed |
-| [research.00.image](../agents/bbugyi200.athena.research.00.image/README.md) | research hood | waiting |
+| [research.00.image](../agents/bbugyi200.athena.research.00.image/README.md) | research hood | dismissed |
 | [research.01.cdx](../agents/bbugyi200.athena.research.01.cdx/README.md) | research hood | active |
 | [research.01.cld](../agents/bbugyi200.athena.research.01.cld/README.md) | research hood | active |
 | [research.01.final](../agents/bbugyi200.athena.research.01.final/README.md) | research hood | dismissed |
 | [research.01.image](../agents/bbugyi200.athena.research.01.image/README.md) | research hood | active |
-| [research.02.cdx](../agents/bbugyi200.athena.research.02.cdx/README.md) | research hood | active |
+| [research.02.cdx](../agents/bbugyi200.athena.research.02.cdx/README.md) | research hood | dismissed |
 | [research.02.cld](../agents/bbugyi200.athena.research.02.cld/README.md) | research hood | active |
 | [research.02.final](../agents/bbugyi200.athena.research.02.final/README.md) | research hood | dismissed |
 | [research.02.image](../agents/bbugyi200.athena.research.02.image/README.md) | research hood | dismissed |
@@ -56,7 +56,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.06.cdx](../agents/bbugyi200.athena.research.06.cdx/README.md) | research hood | dismissed |
 | [research.06.cld](../agents/bbugyi200.athena.research.06.cld/README.md) | research hood | dismissed |
 | [research.06.final](../agents/bbugyi200.athena.research.06.final/README.md) | research hood | dismissed |
-| [research.06.image](../agents/bbugyi200.athena.research.06.image/README.md) | research hood | active |
+| [research.06.image](../agents/bbugyi200.athena.research.06.image/README.md) | research hood | dismissed |
 | [research.07.cdx](../agents/bbugyi200.athena.research.07.cdx/README.md) | research hood | dismissed |
 | [research.07.cld](../agents/bbugyi200.athena.research.07.cld/README.md) | research hood | completed |
 | [research.07.final](../agents/bbugyi200.athena.research.07.final/README.md) | research hood | completed |
@@ -66,7 +66,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.08.cld](../agents/bbugyi200.athena.research.08.cld/README.md) | research hood | dismissed |
 | [research.08.final](../agents/bbugyi200.athena.research.08.final/README.md) | research hood | completed |
 | [research.08.image](../agents/bbugyi200.athena.research.08.image/README.md) | research hood | completed |
-| [research.09.cdx](../agents/bbugyi200.athena.research.09.cdx/README.md) | research hood | active |
+| [research.09.cdx](../agents/bbugyi200.athena.research.09.cdx/README.md) | research hood | dismissed |
 | [research.09.cld](../agents/bbugyi200.athena.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../agents/bbugyi200.athena.research.09.final/README.md) | research hood | dismissed |
 | [research.09.image](../agents/bbugyi200.athena.research.09.image/README.md) | research hood | active |
