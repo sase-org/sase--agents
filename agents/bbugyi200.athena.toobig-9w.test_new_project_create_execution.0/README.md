@@ -34,4 +34,4 @@
 | [toobig-9w.supervise.0](../bbugyi200.athena.toobig-9w.supervise.0/README.md) | toobig-9w hood | completed |
 | [toobig-9w.test\_agent\_hijack\_action.0](../../sessions/bbugyi200.athena.toobig-9w.test_agent_hijack_action.0.md) (session · 3) | toobig-9w hood | completed 2, failed 1 |
 | [toobig-9w.test\_agent\_hijack\_latch.0](../bbugyi200.athena.toobig-9w.test_agent_hijack_latch.0/README.md) | toobig-9w hood | completed |
-| [toobig-9w.test\_agent\_hijack\_stop.0](../bbugyi200.athena.toobig-9w.test_agent_hijack_stop.0/README.md) | toobig-9w hood | waiting |
+| [toobig-9w.test\_agent\_hijack\_stop.0](../bbugyi200.athena.toobig-9w.test_agent_hijack_stop.0/README.md) | toobig-9w hood | completed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-9w](../../users/bbugyi200/machines/athena/hoods/toobig-9w/README.md) / toobig-9w.test\_agent\_hijack\_stop.0
 
-**Global name:** `bbugyi200.athena.toobig-9w.test_agent_hijack_stop.0` · **State:** waiting · **Source run:** `run-4189fee061cce107d408d8b908295485`
+**Global name:** `bbugyi200.athena.toobig-9w.test_agent_hijack_stop.0` · **State:** completed · **Source run:** `run-4189fee061cce107d408d8b908295485`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-9w
 
@@ -10,12 +10,18 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261116185911
-- Commits: 0
+- Timing: 2026-11-17T06:46:17.060654+00:00 → 2026-11-17T07:03:25.660008+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`bec8a85`](https://github.com/sase-org/sase/commit/bec8a8563da441d464a2fb942ec88b2430e69a83) | test(hijack): split stop-protocol tests into focused modules | 2026-11-17 02:03:11 EST |
 
 ## Neighbors
 
