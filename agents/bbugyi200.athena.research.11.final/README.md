@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.11.final
 
-**Global name:** `bbugyi200.athena.research.11.final` · **State:** active · **Source run:** `run-db084797b8e84c1f4c5014af4fc5c711`
+**Global name:** `bbugyi200.athena.research.11.final` · **State:** dismissed · **Source run:** `run-db084797b8e84c1f4c5014af4fc5c711`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-24T18:43:10.304133+00:00
+- Timing: 2026-08-24T14:12:52
 - Commits: 0
 
 ## Files
@@ -43,11 +43,11 @@
 | [research.03.cdx](../bbugyi200.athena.research.03.cdx/README.md) | research hood | dismissed |
 | [research.03.cld](../bbugyi200.athena.research.03.cld/README.md) | research hood | dismissed |
 | [research.03.final](../bbugyi200.athena.research.03.final/README.md) | research hood | active |
-| [research.03.image](../bbugyi200.athena.research.03.image/README.md) | research hood | active |
+| [research.03.image](../bbugyi200.athena.research.03.image/README.md) | research hood | dismissed |
 | [research.04.cdx](../bbugyi200.athena.research.04.cdx/README.md) | research hood | active |
 | [research.04.cld](../bbugyi200.athena.research.04.cld/README.md) | research hood | dismissed |
 | [research.04.final](../bbugyi200.athena.research.04.final/README.md) | research hood | dismissed |
-| [research.04.image](../bbugyi200.athena.research.04.image/README.md) | research hood | active |
+| [research.04.image](../bbugyi200.athena.research.04.image/README.md) | research hood | dismissed |
 | [research.05.cdx](../bbugyi200.athena.research.05.cdx/README.md) | research hood | dismissed |
 | [research.05.cld](../bbugyi200.athena.research.05.cld/README.md) | research hood | dismissed |
 | [research.05.final](../bbugyi200.athena.research.05.final/README.md) | research hood | active |

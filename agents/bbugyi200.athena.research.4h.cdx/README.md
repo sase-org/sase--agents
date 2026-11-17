@@ -42,7 +42,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [research.4h.cld](../bbugyi200.athena.research.4h.cld/README.md) | research.4h hood | active |
 | [research.4h.final](../bbugyi200.athena.research.4h.final/README.md) | research.4h hood | dismissed |
-| [research.4h.gem](../bbugyi200.athena.research.4h.gem/README.md) | research.4h hood | active |
+| [research.4h.gem](../bbugyi200.athena.research.4h.gem/README.md) | research.4h hood | dismissed |
 | [research.4h.grk](../bbugyi200.athena.research.4h.grk/README.md) | research.4h hood | dismissed |
 | [research.4h.image](../bbugyi200.athena.research.4h.image/README.md) | research.4h hood | dismissed |
 | [research.4h.linker](../bbugyi200.athena.research.4h.linker/README.md) | research.4h hood | active |
@@ -65,11 +65,11 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.03.cdx](../bbugyi200.athena.research.03.cdx/README.md) | research hood | dismissed |
 | [research.03.cld](../bbugyi200.athena.research.03.cld/README.md) | research hood | dismissed |
 | [research.03.final](../bbugyi200.athena.research.03.final/README.md) | research hood | active |
-| [research.03.image](../bbugyi200.athena.research.03.image/README.md) | research hood | active |
+| [research.03.image](../bbugyi200.athena.research.03.image/README.md) | research hood | dismissed |
 | [research.04.cdx](../bbugyi200.athena.research.04.cdx/README.md) | research hood | active |
 | [research.04.cld](../bbugyi200.athena.research.04.cld/README.md) | research hood | dismissed |
 | [research.04.final](../bbugyi200.athena.research.04.final/README.md) | research hood | dismissed |
-| [research.04.image](../bbugyi200.athena.research.04.image/README.md) | research hood | active |
+| [research.04.image](../bbugyi200.athena.research.04.image/README.md) | research hood | dismissed |
 | [research.05.cdx](../bbugyi200.athena.research.05.cdx/README.md) | research hood | dismissed |
 | [research.05.cld](../bbugyi200.athena.research.05.cld/README.md) | research hood | dismissed |
 | [research.05.final](../bbugyi200.athena.research.05.final/README.md) | research hood | active |

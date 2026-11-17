@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.29.final
 
-**Global name:** `bbugyi200.athena.research.29.final` · **State:** active · **Source run:** `run-e8dedfc0d6e6850fde5eab2bb8fa7e81`
+**Global name:** `bbugyi200.athena.research.29.final` · **State:** dismissed · **Source run:** `run-e8dedfc0d6e6850fde5eab2bb8fa7e81`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-22T16:58:29.319722+00:00
+- Timing: 2026-09-22T12:58:29.319722 → 2026-09-22T13:22:33.344747
 - Commits: 0
 
 ## Files
@@ -43,11 +43,11 @@
 | [research.03.cdx](../bbugyi200.athena.research.03.cdx/README.md) | research hood | dismissed |
 | [research.03.cld](../bbugyi200.athena.research.03.cld/README.md) | research hood | dismissed |
 | [research.03.final](../bbugyi200.athena.research.03.final/README.md) | research hood | active |
-| [research.03.image](../bbugyi200.athena.research.03.image/README.md) | research hood | active |
+| [research.03.image](../bbugyi200.athena.research.03.image/README.md) | research hood | dismissed |
 | [research.04.cdx](../bbugyi200.athena.research.04.cdx/README.md) | research hood | active |
 | [research.04.cld](../bbugyi200.athena.research.04.cld/README.md) | research hood | dismissed |
 | [research.04.final](../bbugyi200.athena.research.04.final/README.md) | research hood | dismissed |
-| [research.04.image](../bbugyi200.athena.research.04.image/README.md) | research hood | active |
+| [research.04.image](../bbugyi200.athena.research.04.image/README.md) | research hood | dismissed |
 | [research.05.cdx](../bbugyi200.athena.research.05.cdx/README.md) | research hood | dismissed |
 | [research.05.cld](../bbugyi200.athena.research.05.cld/README.md) | research hood | dismissed |
 | [research.05.final](../bbugyi200.athena.research.05.final/README.md) | research hood | active |
