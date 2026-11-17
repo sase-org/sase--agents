@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.11.1.1
 
-**Global name:** `bbugyi200.athena.sase-1t3.11.1.1` · **State:** active · **Source run:** `run-68d8ac9e62675bbbaf87342fea551502`
+**Global name:** `bbugyi200.athena.sase-1t3.11.1.1` · **State:** completed · **Source run:** `run-68d8ac9e62675bbbaf87342fea551502`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t3.11.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.11.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-17T17:32:54.359431+00:00
-- Commits: 0
+- Timing: 2026-11-17T17:32:54.359431+00:00 → 2026-11-17T19:38:55.405013+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8a64510`](https://github.com/sase-org/sase/commit/8a6451068e2be0c4bc407484b7c43708adbd289f) | feat(artifact-file): query associations instead of caching the full index | 2026-11-17 14:37:11 EST |
 
 ## Neighbors
 

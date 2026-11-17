@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-68d8ac9e62675bbbaf87342fea551502"}
+{"commits":[{"committed_at":1794944231,"sha":"8a6451068e2be0c4bc407484b7c43708adbd289f","subject":"feat(artifact-file): query associations instead of caching the full index"}],"schema_version":2,"source_run_id":"run-68d8ac9e62675bbbaf87342fea551502"}
