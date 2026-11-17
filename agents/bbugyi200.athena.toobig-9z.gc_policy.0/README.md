@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-9z.gc\_telemetry.0](../bbugyi200.athena.toobig-9z.gc_telemetry.0/README.md) | toobig-9z hood | active |
+| [toobig-9z.gc\_telemetry.0](../bbugyi200.athena.toobig-9z.gc_telemetry.0/README.md) | toobig-9z hood | completed |
