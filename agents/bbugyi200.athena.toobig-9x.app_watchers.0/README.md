@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-9x.test\_artifacts\_post\_paint\_publication.0](../bbugyi200.athena.toobig-9x.test_artifacts_post_paint_publication.0/README.md) | toobig-9x hood | waiting |
+| [toobig-9x.test\_artifacts\_post\_paint\_publication.0](../../sessions/bbugyi200.athena.toobig-9x.test_artifacts_post_paint_publication.0.md) (session · 3) | toobig-9x hood | completed 2, failed 1 |
