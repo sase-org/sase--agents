@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794956523,"sha":"1e83f129814614886650390f79ecbac32d1139f6","subject":"fix(macro): prevent generated-text guard markers from leaking"}],"schema_version":2,"source_run_id":"run-39a62064b00bd02d9d7d6f8e3636647b"}
