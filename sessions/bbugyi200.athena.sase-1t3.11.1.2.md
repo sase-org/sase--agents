@@ -2,23 +2,26 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.11.1.2
 
-Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 2 · Bead: [sase-1t3.11.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.11.1.2.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 3 · Bead: [sase-1t3.11.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.11.1.2.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1t3.11.1.2--mon [active]"]
+  n0["sase-1t3.11.1.2--mon [failed]"]
   n1["sase-1t3.11.1.2--plan [completed]"]
   n0 --> n1
+  n2["sase-1t3.11.1.2--1 [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-1t3.11.1.2--mon | active | muse-spark-1.3-contributor / muse | 2026-11-17T20:34:44.337145+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1t3.11.1.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-11-17T20:34:44.337145+00:00 → 2026-11-17T20:41:38.196106+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.11.1.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1t3.11.1.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-17T19:39:37.464618+00:00 → 2026-11-17T20:40:31.566890+00:00 | [1](../agents/bbugyi200.athena.sase-1t3.11.1.2--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1t3.11.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.11.1.2--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-1t3.11.1.2--1 | active | muse-spark-1.3-contributor / muse | 2026-11-17T20:41:37.940322+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.11.1.2--1/prompt.md) | — |
 
 ## Commits
 
@@ -41,7 +44,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1t3.1](../agents/bbugyi200.athena.sase-1t3.1/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.10](bbugyi200.athena.sase-1t3.10.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
 | [sase-1t3.10.1.1](../agents/bbugyi200.athena.sase-1t3.10.1.1/README.md) | sase-1t3 hood | completed |
-| [sase-1t3.10.1.2](../agents/bbugyi200.athena.sase-1t3.10.1.2/README.md) | sase-1t3 hood | active |
+| [sase-1t3.10.1.2](../agents/bbugyi200.athena.sase-1t3.10.1.2/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.10.1.3](../agents/bbugyi200.athena.sase-1t3.10.1.3/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.10.1.4](../agents/bbugyi200.athena.sase-1t3.10.1.4/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.10.1.land](../agents/bbugyi200.athena.sase-1t3.10.1.land/README.md) | sase-1t3 hood | waiting |

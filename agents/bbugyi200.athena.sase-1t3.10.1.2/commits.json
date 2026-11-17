@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ef4f5030270ca88c857bc4068dfde232"}
+{"commits":[{"committed_at":1794948450,"sha":"be6adc20d0926f49055094192a1a36f08356f029","subject":"feat(agent-scan): add compact scalar-row list adapters with parity and guards"}],"schema_version":2,"source_run_id":"run-ef4f5030270ca88c857bc4068dfde232"}
