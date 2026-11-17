@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-9w
 
-**Global hood:** `bbugyi200.athena.toobig-9w` · **Runs:** 11 · **Sessions:** 1 · **States:** completed 4, failed 1, waiting 6
+**Global hood:** `bbugyi200.athena.toobig-9w` · **Runs:** 11 · **Sessions:** 1 · **States:** completed 5, failed 1, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -16,4 +16,4 @@
 | [toobig-9w.test\_agent\_hijack\_latch.0](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_latch.0/README.md) | waiting | gpt-6-luna / codex | 20261116185837 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_latch.0/prompt.md) |
 | [toobig-9w.test\_agent\_hijack\_action.0](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_action.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261116185802 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.test_agent_hijack_action.0/prompt.md) |
 | [toobig-9w.agent\_loader.0--1](../../../../../../sessions/bbugyi200.athena.toobig-9w.agent_loader.0.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-11-17T02:04:20.132611+00:00 → 2026-11-17T02:24:10.016064+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.agent_loader.0--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-9w.agent_loader.0--1/chat.md) |
-| [toobig-9w.supervise.0](../../../../../../agents/bbugyi200.athena.toobig-9w.supervise.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261116185608 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.supervise.0/prompt.md) |
+| [toobig-9w.supervise.0](../../../../../../agents/bbugyi200.athena.toobig-9w.supervise.0/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-17T03:31:58.869154+00:00 → 2026-11-17T03:54:26.664494+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-9w.supervise.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-9w.supervise.0/chat.md) |
