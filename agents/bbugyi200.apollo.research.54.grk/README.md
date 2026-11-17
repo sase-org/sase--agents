@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-11-17T14:58:15.560558+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/tmux\_video\_artifact\_viewer\_speed/tmux\_video\_artifact\_viewer\_speed\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261117095648/tmux\_vide… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/tmux_video_artifact_viewer_speed/tmux_video_artifact_viewer_speed__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261117095648/tmux_video_artifact_viewer_speed__grk-13263c53b58d.md
+  ref: file:explicit:74ecff84d54974a9c90dea0e
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/research/202611/tmux_video_artifact_viewer_speed/tmux_video_artifact_viewer_speed__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.54.cdx](../bbugyi200.apollo.research.54.cdx/README.md) | research.54 hood | active |
+| [research.54.cdx](../bbugyi200.apollo.research.54.cdx/README.md) | research.54 hood | completed |
 | [research.54.cld](../bbugyi200.apollo.research.54.cld/README.md) | research.54 hood | active |
 | [research.54.final](../bbugyi200.apollo.research.54.final/README.md) | research.54 hood | waiting |
 | [research.54.gem](../bbugyi200.apollo.research.54.gem/README.md) | research.54 hood | active |
