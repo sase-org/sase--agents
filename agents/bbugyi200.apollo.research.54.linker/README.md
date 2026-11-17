@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.54.linker
 
-**Global name:** `bbugyi200.apollo.research.54.linker` · **State:** waiting · **Source run:** `run-f270f09e84ce30534a8eac12be11a007`
+**Global name:** `bbugyi200.apollo.research.54.linker` · **State:** completed · **Source run:** `run-f270f09e84ce30534a8eac12be11a007`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261117095653
+- Timing: 2026-11-17T15:51:02.116478+00:00 → 2026-11-17T15:57:38.776529+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/fast\_video\_artifact\_pane/fast\_video\_artifact\_pane.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261117095653/fast\_video\_artifact\_pane-5f1b9… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/fast_video_artifact_pane/fast_video_artifact_pane.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261117095653/fast_video_artifact_pane-5f1b9eaa9e3e.md
+  ref: file:explicit:ce89c2d643b434380612d629
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/fast_video_artifact_pane/fast_video_artifact_pane.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
