@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6c1db3f3f3416ee24eded7769247d496"}
+{"commits":[{"committed_at":1794894961,"sha":"3f3cf4fb3844d47b47ca9319d676a0344751d075","subject":"feat(agent-hijack): enable running and settling monitor hijacks"}],"schema_version":2,"source_run_id":"run-6c1db3f3f3416ee24eded7769247d496"}
