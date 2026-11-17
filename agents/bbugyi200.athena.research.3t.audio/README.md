@@ -50,7 +50,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.3t.gem](../bbugyi200.athena.research.3t.gem/README.md) | research.3t hood | dismissed |
 | [research.3t.grk](../bbugyi200.athena.research.3t.grk/README.md) | research.3t hood | dismissed |
 | [research.3t.image](../bbugyi200.athena.research.3t.image/README.md) | research.3t hood | dismissed |
-| [research.3t.linker](../bbugyi200.athena.research.3t.linker/README.md) | research.3t hood | active |
+| [research.3t.linker](../bbugyi200.athena.research.3t.linker/README.md) | research.3t hood | dismissed |
 | [research.3t.mus](../bbugyi200.athena.research.3t.mus/README.md) | research.3t hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |

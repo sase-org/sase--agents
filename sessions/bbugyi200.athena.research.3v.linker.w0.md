@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [research.3v.linker](../agents/bbugyi200.athena.research.3v.linker/README.md) | ancestor | dismissed |
 | [research.3v.audio](../agents/bbugyi200.athena.research.3v.audio/README.md) | research.3v hood | dismissed |
-| [research.3v.cdx](../agents/bbugyi200.athena.research.3v.cdx/README.md) | research.3v hood | active |
+| [research.3v.cdx](../agents/bbugyi200.athena.research.3v.cdx/README.md) | research.3v hood | dismissed |
 | [research.3v.cld](../agents/bbugyi200.athena.research.3v.cld/README.md) | research.3v hood | dismissed |
 | [research.3v.final](../agents/bbugyi200.athena.research.3v.final/README.md) | research.3v hood | dismissed |
 | [research.3v.gem](../agents/bbugyi200.athena.research.3v.gem/README.md) | research.3v hood | dismissed |

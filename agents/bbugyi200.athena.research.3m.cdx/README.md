@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.3m.cld](../bbugyi200.athena.research.3m.cld/README.md) | research.3m hood | dismissed |
 | [research.3m.final](../bbugyi200.athena.research.3m.final/README.md) | research.3m hood | dismissed |
-| [research.3m.gem](../bbugyi200.athena.research.3m.gem/README.md) | research.3m hood | active |
+| [research.3m.gem](../bbugyi200.athena.research.3m.gem/README.md) | research.3m hood | dismissed |
 | [research.3m.grk](../bbugyi200.athena.research.3m.grk/README.md) | research.3m hood | dismissed |
 | [research.3m.image](../bbugyi200.athena.research.3m.image/README.md) | research.3m hood | dismissed |
 | [research.3m.linker](../bbugyi200.athena.research.3m.linker/README.md) | research.3m hood | dismissed |
