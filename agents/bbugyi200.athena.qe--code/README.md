@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`574b776`](https://github.com/sase-org/sase/commit/574b7761fa05e69eafca3956d31f57ed27ae7f5c) | feat(tribe-panel): remove description label in tribe headers | 2026-07-31 10:40:08 EDT |
+| — | `574b776` | feat(tribe-panel): remove description label in tribe headers | 2026-07-31 10:40:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [qe.f0](../bbugyi200.athena.qe.f0/README.md) | descendant | active |
+| [qe.f0](../bbugyi200.athena.qe.f0/README.md) | descendant | dismissed |

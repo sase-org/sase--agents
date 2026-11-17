@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [qi](../../users/bbugyi200/machines/athena/hoods/qi/README.md) / [qi](../../sessions/bbugyi200.athena.qi.md) / qi--plan
 
-**Global name:** `bbugyi200.athena.qi--plan` · **State:** active · **Source run:** `run-7b1ce84a199d391e310af34c0e92730f`
+**Global name:** `bbugyi200.athena.qi--plan` · **State:** dismissed · **Source run:** `run-7b1ce84a199d391e310af34c0e92730f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** qi
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-31T17:04:55.973228+00:00
+- Timing: 2026-07-31T13:04:55.973228 → 2026-07-31T14:09:42.383633
 - Commits: 0
 
 ## Files

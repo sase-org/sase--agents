@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `qg` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["qg.f0--plan [active]"]
+  n0["qg.f0--plan [dismissed]"]
   n1["qg.f0--code [completed]"]
   n0 --> n1
 ```
@@ -17,17 +17,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | qg.f0--plan | active | gpt-5.6-sol / codex | 2026-07-31T17:00:21.511712+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.qg.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.qg.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | qg.f0--plan | dismissed | gpt-5.6-sol / codex | 2026-07-31T13:00:21.511712 → 2026-07-31T13:20:07.357552 | 0 | [Prompt](../agents/bbugyi200.athena.qg.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.qg.f0--plan/chat.md) |
 | <a id="member-code"></a>code | qg.f0--code | completed | gpt-5.5 / codex | 2026-07-31T17:05:12.938369+00:00 | [1](../agents/bbugyi200.athena.qg.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.qg.f0--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7d4afb3`](https://github.com/sase-org/sase/commit/7d4afb3948a3236ea393aeaeb46976ba9e458f67) | feat(cli)!: render compact bead rows with glyph-only type cells | 2026-07-31 13:13:49 EDT |
+| code | — | `7d4afb3` | feat(cli)!: render compact bead rows with glyph-only type cells | 2026-07-31 13:13:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [qg](bbugyi200.athena.qg.md) (session · 2) | ancestor | active 1, completed 1 |
+| [qg](bbugyi200.athena.qg.md) (session · 2) | ancestor | completed 1, dismissed 1 |

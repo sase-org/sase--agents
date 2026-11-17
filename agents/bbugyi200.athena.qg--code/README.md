@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`01ace66`](https://github.com/sase-org/sase/commit/01ace663f411fc6eab8d6bbfbf2f73cb5c3fe2d7) | feat(bead): show type indicator in \`sase bead list\` compact rows | 2026-07-31 11:24:50 EDT |
+| — | `01ace66` | feat(bead): show type indicator in \`sase bead list\` compact rows | 2026-07-31 11:24:50 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [qg.f0](../../sessions/bbugyi200.athena.qg.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [qg.f0](../../sessions/bbugyi200.athena.qg.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
