@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.11.1.2
 
-**Global name:** `bbugyi200.athena.sase-1t2.11.1.2` · **State:** waiting · **Source run:** `run-6d2b47f44793aa739fb9a1405a3d9f7e`
+**Global name:** `bbugyi200.athena.sase-1t2.11.1.2` · **State:** completed · **Source run:** `run-6d2b47f44793aa739fb9a1405a3d9f7e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2.11.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/sase-1t2.11.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261116152830
-- Commits: 0
+- Timing: 2026-11-16T21:55:45.593128+00:00 → 2026-11-17T00:21:41.942715+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`fe314c9`](https://github.com/sase-org/sase/commit/fe314c9f8f20fb8c5c44021d2b5fb73ac6833cf6) | feat(agent-hijack): recover recorded monitor follow-up keep-work | 2026-11-16 19:20:01 EST |
 
 ## Neighbors
 

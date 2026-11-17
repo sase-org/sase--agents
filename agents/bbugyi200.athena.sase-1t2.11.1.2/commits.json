@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6d2b47f44793aa739fb9a1405a3d9f7e"}
+{"commits":[{"committed_at":1794874801,"sha":"fe314c9f8f20fb8c5c44021d2b5fb73ac6833cf6","subject":"feat(agent-hijack): recover recorded monitor follow-up keep-work"}],"schema_version":2,"source_run_id":"run-6d2b47f44793aa739fb9a1405a3d9f7e"}
