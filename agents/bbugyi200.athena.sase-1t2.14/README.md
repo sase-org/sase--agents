@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t2](../../users/bbugyi200/machines/athena/hoods/sase-1t2/README.md) / sase-1t2.14
 
-**Global name:** `bbugyi200.athena.sase-1t2.14` · **State:** waiting · **Source run:** `run-c485c5ba6ed6632010644ed1e1ab59e7`
+**Global name:** `bbugyi200.athena.sase-1t2.14` · **State:** completed · **Source run:** `run-c485c5ba6ed6632010644ed1e1ab59e7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t2/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261115200206
-- Commits: 0
+- Timing: 2026-11-17T10:04:22.893899+00:00 → 2026-11-17T10:22:23.880365+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`875d599`](https://github.com/sase-org/sase/commit/875d599023728c2b309384d8ce2e4f2f05729867) | docs(hijack): land glossary strand, doc reconciliation, and final verification | 2026-11-17 05:21:06 EST |
 
 ## Neighbors
 
