@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-61eb2fa86dcaceb29b892987675cdfd8"}
+{"commits":[{"committed_at":1794964646,"sha":"dd56fe20753dff263a9aef53f99a8474bfa2f429","subject":"fix(tui): survive gate-fit teardown and keep first-paint import budget"}],"schema_version":2,"source_run_id":"run-61eb2fa86dcaceb29b892987675cdfd8"}

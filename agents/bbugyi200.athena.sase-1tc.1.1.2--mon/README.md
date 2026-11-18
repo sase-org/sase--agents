@@ -26,7 +26,7 @@
 | [sase-1tc.1](../../sessions/bbugyi200.athena.sase-1tc.1.md) (session · 3) | ancestor | active 1, completed 2 |
 | [sase-1tc.1.1.1](../bbugyi200.athena.sase-1tc.1.1.1/README.md) | sase-1tc.1.1 hood | completed |
 | [sase-1tc.1.1.3](../../sessions/bbugyi200.athena.sase-1tc.1.1.3.md) (session · 3) | sase-1tc.1.1 hood | completed 2, failed 1 |
-| [sase-1tc.1.1.land](../../sessions/bbugyi200.athena.sase-1tc.1.1.land.md) (session · 3) | sase-1tc.1.1 hood | active 2, completed 1 |
+| [sase-1tc.1.1.land](../../sessions/bbugyi200.athena.sase-1tc.1.1.land.md) (session · 3) | sase-1tc.1.1 hood | completed 3 |
 | [sase-1tc.2](../bbugyi200.athena.sase-1tc.2/README.md) | sase-1tc hood | completed |
 | [sase-1tc.3](../../sessions/bbugyi200.athena.sase-1tc.3.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.3.1.1](../bbugyi200.athena.sase-1tc.3.1.1/README.md) | sase-1tc hood | active |
