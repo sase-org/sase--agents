@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7a1a1ca`](https://github.com/sase-org/sase/commit/7a1a1ca3e46554fd99035617484773af8b57cf6e) | feat(sudo): support remote sudo handoff over ssh | 2026-09-15 09:33:47 EDT |
+| — | `7a1a1ca` | feat(sudo): support remote sudo handoff over ssh | 2026-09-15 09:33:47 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-110.1](../../sessions/bbugyi200.athena.sase-110.1.md) (session · 3) | sase-110 hood | active 2, completed 1 |
-| [sase-110.2](../../sessions/bbugyi200.athena.sase-110.2.md) (session · 3) | sase-110 hood | active 2, completed 1 |
-| [sase-110.3](../bbugyi200.athena.sase-110.3/README.md) | sase-110 hood | active |
-| [sase-110.4](../../sessions/bbugyi200.athena.sase-110.4.md) (session · 3) | sase-110 hood | active 2, completed 1 |
-| [sase-110.5](../bbugyi200.athena.sase-110.5/README.md) | sase-110 hood | active |
-| [sase-110.7](../../sessions/bbugyi200.athena.sase-110.7.md) (session · 2) | sase-110 hood | active 2 |
-| [sase-110.8](../bbugyi200.athena.sase-110.8/README.md) | sase-110 hood | waiting |
-| [sase-110.land](../bbugyi200.athena.sase-110.land/README.md) | sase-110 hood | waiting |
+| [sase-110.1](../../sessions/bbugyi200.athena.sase-110.1.md) (session · 3) | sase-110 hood | completed 1, dismissed 2 |
+| [sase-110.2](../../sessions/bbugyi200.athena.sase-110.2.md) (session · 3) | sase-110 hood | completed 1, dismissed 2 |
+| [sase-110.3](../bbugyi200.athena.sase-110.3/README.md) | sase-110 hood | dismissed |
+| [sase-110.4](../../sessions/bbugyi200.athena.sase-110.4.md) (session · 3) | sase-110 hood | completed 1, dismissed 2 |
+| [sase-110.5](../bbugyi200.athena.sase-110.5/README.md) | sase-110 hood | dismissed |
+| [sase-110.7](../../sessions/bbugyi200.athena.sase-110.7.md) (session · 2) | sase-110 hood | dismissed 2 |
+| [sase-110.8](../bbugyi200.athena.sase-110.8/README.md) | sase-110 hood | dismissed |
+| [sase-110.land](../bbugyi200.athena.sase-110.land/README.md) | sase-110 hood | dismissed |

@@ -31,7 +31,7 @@ flowchart TD
   n0 --> n10
   n11["sase-10w.5.f0.f0--5 [failed]"]
   n0 --> n11
-  n12["sase-10w.5.f0.f0--plan [active]"]
+  n12["sase-10w.5.f0.f0--plan [dismissed]"]
   n0 --> n12
 ```
 
@@ -51,17 +51,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | sase-10w.5.f0.f0--mon-0 | failed | gpt-5.5 / codex | 2026-09-14T18:58:17.753312+00:00 → 2026-09-14T19:00:42.495144+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-10w.5.f0.f0--mon-0/chat.md) |
 | <a id="member-3"></a>3 | sase-10w.5.f0.f0--3 | completed | gpt-5.5 / codex | 2026-09-14T19:35:58.292879+00:00 → 2026-09-14T19:47:29.686482+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-10w.5.f0.f0--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-10w.5.f0.f0--3/chat.md) |
 | <a id="member-5"></a>5 | sase-10w.5.f0.f0--5 | failed | gpt-5.5 / codex | 2026-09-14T22:39:24.256233+00:00 → 2026-09-14T22:39:46.532401+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-10w.5.f0.f0--5/prompt.md) | — |
-| <a id="member-plan"></a>plan | sase-10w.5.f0.f0--plan | active | gpt-6-astra / codex | 2026-09-14T17:52:57.154319+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-10w.5.f0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-10w.5.f0.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-10w.5.f0.f0--plan | dismissed | gpt-6-astra / codex | 2026-09-14T13:52:57.154319 → 2026-09-14T14:02:34.520471 | 0 | [Prompt](../agents/bbugyi200.athena.sase-10w.5.f0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-10w.5.f0.f0--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-10w.5.f0](bbugyi200.athena.sase-10w.5.f0.md) (session · 7) | ancestor | active 1, completed 3, failed 3 |
-| [sase-10w.5](../agents/bbugyi200.athena.sase-10w.5/README.md) | ancestor | active |
-| [sase-10w.1](../agents/bbugyi200.athena.sase-10w.1/README.md) | sase-10w hood | active |
-| [sase-10w.2](../agents/bbugyi200.athena.sase-10w.2/README.md) | sase-10w hood | active |
-| [sase-10w.3](../agents/bbugyi200.athena.sase-10w.3/README.md) | sase-10w hood | active |
-| [sase-10w.4](../agents/bbugyi200.athena.sase-10w.4/README.md) | sase-10w hood | active |
-| [sase-10w.6](../agents/bbugyi200.athena.sase-10w.6/README.md) | sase-10w hood | waiting |
-| [sase-10w.land](../agents/bbugyi200.athena.sase-10w.land/README.md) | sase-10w hood | active |
+| [sase-10w.5.f0](bbugyi200.athena.sase-10w.5.f0.md) (session · 7) | ancestor | completed 3, dismissed 1, failed 3 |
+| [sase-10w.5](../agents/bbugyi200.athena.sase-10w.5/README.md) | ancestor | dismissed |
+| [sase-10w.1](../agents/bbugyi200.athena.sase-10w.1/README.md) | sase-10w hood | dismissed |
+| [sase-10w.2](../agents/bbugyi200.athena.sase-10w.2/README.md) | sase-10w hood | dismissed |
+| [sase-10w.3](../agents/bbugyi200.athena.sase-10w.3/README.md) | sase-10w hood | dismissed |
+| [sase-10w.4](../agents/bbugyi200.athena.sase-10w.4/README.md) | sase-10w hood | dismissed |
+| [sase-10w.6](../agents/bbugyi200.athena.sase-10w.6/README.md) | sase-10w hood | dismissed |
+| [sase-10w.land](../agents/bbugyi200.athena.sase-10w.land/README.md) | sase-10w hood | dismissed |

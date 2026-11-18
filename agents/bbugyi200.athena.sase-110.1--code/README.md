@@ -23,11 +23,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-110.2](../../sessions/bbugyi200.athena.sase-110.2.md) (session · 3) | sase-110 hood | active 2, completed 1 |
-| [sase-110.3](../bbugyi200.athena.sase-110.3/README.md) | sase-110 hood | active |
-| [sase-110.4](../../sessions/bbugyi200.athena.sase-110.4.md) (session · 3) | sase-110 hood | active 2, completed 1 |
-| [sase-110.5](../bbugyi200.athena.sase-110.5/README.md) | sase-110 hood | active |
-| [sase-110.6](../../sessions/bbugyi200.athena.sase-110.6.md) (session · 3) | sase-110 hood | active 2, completed 1 |
-| [sase-110.7](../../sessions/bbugyi200.athena.sase-110.7.md) (session · 2) | sase-110 hood | active 2 |
-| [sase-110.8](../bbugyi200.athena.sase-110.8/README.md) | sase-110 hood | waiting |
-| [sase-110.land](../bbugyi200.athena.sase-110.land/README.md) | sase-110 hood | waiting |
+| [sase-110.2](../../sessions/bbugyi200.athena.sase-110.2.md) (session · 3) | sase-110 hood | completed 1, dismissed 2 |
+| [sase-110.3](../bbugyi200.athena.sase-110.3/README.md) | sase-110 hood | dismissed |
+| [sase-110.4](../../sessions/bbugyi200.athena.sase-110.4.md) (session · 3) | sase-110 hood | completed 1, dismissed 2 |
+| [sase-110.5](../bbugyi200.athena.sase-110.5/README.md) | sase-110 hood | dismissed |
+| [sase-110.6](../../sessions/bbugyi200.athena.sase-110.6.md) (session · 3) | sase-110 hood | completed 1, dismissed 2 |
+| [sase-110.7](../../sessions/bbugyi200.athena.sase-110.7.md) (session · 2) | sase-110 hood | dismissed 2 |
+| [sase-110.8](../bbugyi200.athena.sase-110.8/README.md) | sase-110 hood | dismissed |
+| [sase-110.land](../bbugyi200.athena.sase-110.land/README.md) | sase-110 hood | dismissed |

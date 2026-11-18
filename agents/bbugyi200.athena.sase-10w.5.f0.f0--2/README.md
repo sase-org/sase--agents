@@ -21,11 +21,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-10w.5.f0](../../sessions/bbugyi200.athena.sase-10w.5.f0.md) (session · 7) | ancestor | active 1, completed 3, failed 3 |
-| [sase-10w.5](../bbugyi200.athena.sase-10w.5/README.md) | ancestor | active |
-| [sase-10w.1](../bbugyi200.athena.sase-10w.1/README.md) | sase-10w hood | active |
-| [sase-10w.2](../bbugyi200.athena.sase-10w.2/README.md) | sase-10w hood | active |
-| [sase-10w.3](../bbugyi200.athena.sase-10w.3/README.md) | sase-10w hood | active |
-| [sase-10w.4](../bbugyi200.athena.sase-10w.4/README.md) | sase-10w hood | active |
-| [sase-10w.6](../bbugyi200.athena.sase-10w.6/README.md) | sase-10w hood | waiting |
-| [sase-10w.land](../bbugyi200.athena.sase-10w.land/README.md) | sase-10w hood | active |
+| [sase-10w.5.f0](../../sessions/bbugyi200.athena.sase-10w.5.f0.md) (session · 7) | ancestor | completed 3, dismissed 1, failed 3 |
+| [sase-10w.5](../bbugyi200.athena.sase-10w.5/README.md) | ancestor | dismissed |
+| [sase-10w.1](../bbugyi200.athena.sase-10w.1/README.md) | sase-10w hood | dismissed |
+| [sase-10w.2](../bbugyi200.athena.sase-10w.2/README.md) | sase-10w hood | dismissed |
+| [sase-10w.3](../bbugyi200.athena.sase-10w.3/README.md) | sase-10w hood | dismissed |
+| [sase-10w.4](../bbugyi200.athena.sase-10w.4/README.md) | sase-10w hood | dismissed |
+| [sase-10w.6](../bbugyi200.athena.sase-10w.6/README.md) | sase-10w hood | dismissed |
+| [sase-10w.land](../bbugyi200.athena.sase-10w.land/README.md) | sase-10w hood | dismissed |
