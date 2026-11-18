@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-14c](../../users/bbugyi200/machines/athena/hoods/sase-14c/README.md) / sase-14c.3
 
-**Global name:** `bbugyi200.athena.sase-14c.3` · **State:** active · **Source run:** `run-127742fb6bfbcce39d866d556fa7c5a1`
+**Global name:** `bbugyi200.athena.sase-14c.3` · **State:** dismissed · **Source run:** `run-127742fb6bfbcce39d866d556fa7c5a1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-14c
 
@@ -12,7 +12,7 @@
 - Epic: [sase-14c](https://github.com/sase-org/sase--beads/blob/main/pages/sase-14c/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-20T19:16:45.454886+00:00
+- Timing: 2026-09-20T15:16:45.454886 → 2026-09-20T16:05:36.842190
 - Commits: [1](#commits)
 
 ## Files
@@ -23,12 +23,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ec7dbbf`](https://github.com/sase-org/sase/commit/ec7dbbfdf97ce5341d9f0247cbfff50e32482de2) | feat(usage): hide Muse's 5-hour window from the header by default | 2026-09-20 16:01:38 EDT |
+| — | `ec7dbbf` | feat(usage): hide Muse's 5-hour window from the header by default | 2026-09-20 16:01:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-14c.1](../bbugyi200.athena.sase-14c.1/README.md) | sase-14c hood | active |
-| [sase-14c.2](../bbugyi200.athena.sase-14c.2/README.md) | sase-14c hood | active |
-| [sase-14c.land](../bbugyi200.athena.sase-14c.land/README.md) | sase-14c hood | active |
+| [sase-14c.1](../bbugyi200.athena.sase-14c.1/README.md) | sase-14c hood | dismissed |
+| [sase-14c.2](../bbugyi200.athena.sase-14c.2/README.md) | sase-14c hood | dismissed |
+| [sase-14c.land](../bbugyi200.athena.sase-14c.land/README.md) | sase-14c hood | dismissed |

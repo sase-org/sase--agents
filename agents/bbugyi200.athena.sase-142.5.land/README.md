@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-142](../../users/bbugyi200/machines/athena/hoods/sase-142/README.md) / sase-142.5.land
 
-**Global name:** `bbugyi200.athena.sase-142.5.land` · **State:** active · **Source run:** `run-e0638245b7490934f712bde9bd732fd6`
+**Global name:** `bbugyi200.athena.sase-142.5.land` · **State:** dismissed · **Source run:** `run-e0638245b7490934f712bde9bd732fd6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-142
 
@@ -11,7 +11,7 @@
 - Bead: [sase-142.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-142/sase-142.5.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260920171048
+- Timing: 2026-09-20T17:10:48
 - Commits: 0
 
 ## Files
@@ -22,12 +22,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-142.5.1](../bbugyi200.athena.sase-142.5.1/README.md) | sase-142.5 hood | active |
-| [sase-142.5.2](../bbugyi200.athena.sase-142.5.2/README.md) | sase-142.5 hood | active |
-| [sase-142.5.3](../bbugyi200.athena.sase-142.5.3/README.md) | sase-142.5 hood | active |
-| [sase-142.5.4](../bbugyi200.athena.sase-142.5.4/README.md) | sase-142.5 hood | active |
-| [sase-142.1](../bbugyi200.athena.sase-142.1/README.md) | sase-142 hood | active |
-| [sase-142.2](../bbugyi200.athena.sase-142.2/README.md) | sase-142 hood | active |
-| [sase-142.3](../bbugyi200.athena.sase-142.3/README.md) | sase-142 hood | active |
-| [sase-142.4](../../sessions/bbugyi200.athena.sase-142.4.md) (session · 3) | sase-142 hood | active 3 |
-| [sase-142.land](../../sessions/bbugyi200.athena.sase-142.land.md) (session · 3) | sase-142 hood | active 3 |
+| [sase-142.5.1](../bbugyi200.athena.sase-142.5.1/README.md) | sase-142.5 hood | dismissed |
+| [sase-142.5.2](../bbugyi200.athena.sase-142.5.2/README.md) | sase-142.5 hood | dismissed |
+| [sase-142.5.3](../bbugyi200.athena.sase-142.5.3/README.md) | sase-142.5 hood | dismissed |
+| [sase-142.5.4](../bbugyi200.athena.sase-142.5.4/README.md) | sase-142.5 hood | dismissed |
+| [sase-142.1](../bbugyi200.athena.sase-142.1/README.md) | sase-142 hood | dismissed |
+| [sase-142.2](../bbugyi200.athena.sase-142.2/README.md) | sase-142 hood | dismissed |
+| [sase-142.3](../bbugyi200.athena.sase-142.3/README.md) | sase-142 hood | dismissed |
+| [sase-142.4](../../sessions/bbugyi200.athena.sase-142.4.md) (session · 3) | sase-142 hood | dismissed 3 |
+| [sase-142.land](../../sessions/bbugyi200.athena.sase-142.land.md) (session · 3) | sase-142 hood | dismissed 3 |

@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`319fe6b`](https://github.com/sase-org/sase/commit/319fe6b246fa09f4c8fa509a98f4a8b9e4c9f10f) | feat(beads): land sase bead touched with panel-agreeing rows, core pin, and Beads goldens | 2026-09-21 10:55:32 EDT |
+| — | `319fe6b` | feat(beads): land sase bead touched with panel-agreeing rows, core pin, and Beads goldens | 2026-09-21 10:55:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-14j.1](../bbugyi200.athena.sase-14j.1/README.md) | sase-14j hood | active |
-| [sase-14j.2](../bbugyi200.athena.sase-14j.2/README.md) | sase-14j hood | active |
-| [sase-14j.3](../../sessions/bbugyi200.athena.sase-14j.3.md) (session · 3) | sase-14j hood | active 2, failed 1 |
-| [sase-14j.4](../../sessions/bbugyi200.athena.sase-14j.4.md) (session · 3) | sase-14j hood | active 2, failed 1 |
-| [sase-14j.5](../bbugyi200.athena.sase-14j.5/README.md) | sase-14j hood | active |
-| [sase-14j.6](../bbugyi200.athena.sase-14j.6/README.md) | sase-14j hood | active |
+| [sase-14j.1](../bbugyi200.athena.sase-14j.1/README.md) | sase-14j hood | dismissed |
+| [sase-14j.2](../bbugyi200.athena.sase-14j.2/README.md) | sase-14j hood | dismissed |
+| [sase-14j.3](../../sessions/bbugyi200.athena.sase-14j.3.md) (session · 3) | sase-14j hood | dismissed 2, failed 1 |
+| [sase-14j.4](../../sessions/bbugyi200.athena.sase-14j.4.md) (session · 3) | sase-14j hood | dismissed 2, failed 1 |
+| [sase-14j.5](../bbugyi200.athena.sase-14j.5/README.md) | sase-14j hood | dismissed |
+| [sase-14j.6](../bbugyi200.athena.sase-14j.6/README.md) | sase-14j hood | dismissed |

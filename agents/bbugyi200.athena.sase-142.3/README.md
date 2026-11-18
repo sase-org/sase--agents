@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-142](../../users/bbugyi200/machines/athena/hoods/sase-142/README.md) / sase-142.3
 
-**Global name:** `bbugyi200.athena.sase-142.3` · **State:** active · **Source run:** `run-391d6970546139b78c6f6501a81c498b`
+**Global name:** `bbugyi200.athena.sase-142.3` · **State:** dismissed · **Source run:** `run-391d6970546139b78c6f6501a81c498b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-142
 
@@ -12,7 +12,7 @@
 - Epic: [sase-142](https://github.com/sase-org/sase--beads/blob/main/pages/sase-142/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-20T17:29:58.064986+00:00
+- Timing: 2026-09-20T13:29:58.064986 → 2026-09-20T15:52:09.551528
 - Commits: [1](#commits)
 
 ## Files
@@ -23,18 +23,18 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7442af7`](https://github.com/sase-org/sase/commit/7442af7afc8be0f547f6337c756cb296fabf833c) | feat(tui): insert arriving agent rows in place and settle the column in one frame | 2026-09-20 15:47:50 EDT |
+| — | `7442af7` | feat(tui): insert arriving agent rows in place and settle the column in one frame | 2026-09-20 15:47:50 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-142.1](../bbugyi200.athena.sase-142.1/README.md) | sase-142 hood | active |
-| [sase-142.2](../bbugyi200.athena.sase-142.2/README.md) | sase-142 hood | active |
-| [sase-142.4](../../sessions/bbugyi200.athena.sase-142.4.md) (session · 3) | sase-142 hood | active 3 |
-| [sase-142.5.1](../bbugyi200.athena.sase-142.5.1/README.md) | sase-142 hood | active |
-| [sase-142.5.2](../bbugyi200.athena.sase-142.5.2/README.md) | sase-142 hood | active |
-| [sase-142.5.3](../bbugyi200.athena.sase-142.5.3/README.md) | sase-142 hood | active |
-| [sase-142.5.4](../bbugyi200.athena.sase-142.5.4/README.md) | sase-142 hood | active |
-| [sase-142.5.land](../bbugyi200.athena.sase-142.5.land/README.md) | sase-142 hood | active |
-| [sase-142.land](../../sessions/bbugyi200.athena.sase-142.land.md) (session · 3) | sase-142 hood | active 3 |
+| [sase-142.1](../bbugyi200.athena.sase-142.1/README.md) | sase-142 hood | dismissed |
+| [sase-142.2](../bbugyi200.athena.sase-142.2/README.md) | sase-142 hood | dismissed |
+| [sase-142.4](../../sessions/bbugyi200.athena.sase-142.4.md) (session · 3) | sase-142 hood | dismissed 3 |
+| [sase-142.5.1](../bbugyi200.athena.sase-142.5.1/README.md) | sase-142 hood | dismissed |
+| [sase-142.5.2](../bbugyi200.athena.sase-142.5.2/README.md) | sase-142 hood | dismissed |
+| [sase-142.5.3](../bbugyi200.athena.sase-142.5.3/README.md) | sase-142 hood | dismissed |
+| [sase-142.5.4](../bbugyi200.athena.sase-142.5.4/README.md) | sase-142 hood | dismissed |
+| [sase-142.5.land](../bbugyi200.athena.sase-142.5.land/README.md) | sase-142 hood | dismissed |
+| [sase-142.land](../../sessions/bbugyi200.athena.sase-142.land.md) (session · 3) | sase-142 hood | dismissed 3 |
