@@ -1,6 +1,6 @@
+%auto
 %id(test_leader_keymap_dispatch.0, clan=toobig-a1)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/ace/tui/test_leader_keymap_dispatch.py` file into multiple files? Use your best
 %wait:toobig-a1.test_artifacts_beads_filtering.0
