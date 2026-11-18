@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1tc` · Members: 2 · Bead: [sase-1tc.3
 ```mermaid
 flowchart TD
   n0["sase-1tc.3.1.4--mon [active]"]
-  n1["sase-1tc.3.1.4--plan [active]"]
+  n1["sase-1tc.3.1.4--plan [completed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1tc.3.1.4--mon | active | muse-spark-1.3-contributor / muse | 2026-11-18T10:15:03.285400+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1tc.3.1.4--plan | active | muse-spark-1.3-contributor / muse | 2026-11-18T09:58:11.166129+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tc.3.1.4--plan/prompt.md) | — |
+| <a id="member-plan"></a>plan | sase-1tc.3.1.4--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-18T09:58:11.166129+00:00 → 2026-11-18T10:55:12.545191+00:00 | [1](../agents/bbugyi200.athena.sase-1tc.3.1.4--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1tc.3.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.4--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| plan | sase | [`b8c9f6c`](https://github.com/sase-org/sase/commit/b8c9f6c6aa101546a21539dcafc17b20ccdcdaf5) | feat(axe): add chop batch pause-resume recovery, clan cancellation, and durable notices | 2026-11-18 05:54:13 EST |
 
 ## Neighbors
 
