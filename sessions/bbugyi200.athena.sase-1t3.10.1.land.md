@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1t3.10.1.land--plan [completed]"]
   n1["sase-1t3.10.1.land--gate [completed]"]
   n0 --> n1
-  n2["sase-1t3.10.1.land--1 [active]"]
+  n2["sase-1t3.10.1.land--1 [completed]"]
   n0 --> n2
   n3["sase-1t3.10.1.land--mon [completed]"]
   n0 --> n3
@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1t3.10.1.land--plan | completed | gpt-6-astra / codex | 2026-11-18T16:11:40.547869+00:00 → 2026-11-18T19:29:14.711815+00:00 | [1](../agents/bbugyi200.athena.sase-1t3.10.1.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1t3.10.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.10.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1t3.10.1.land--gate | completed | gpt-6-astra / codex | 2026-11-18T17:58:51.045171+00:00 → 2026-11-18T17:59:01.565117+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.10.1.land--gate/chat.md) |
-| <a id="member-1"></a>1 | sase-1t3.10.1.land--1 | active | gpt-6-luna / codex | 2026-11-18T20:03:04.132364+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.10.1.land--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1t3.10.1.land--1 | completed | gpt-6-luna / codex | 2026-11-18T20:03:04.132364+00:00 → 2026-11-18T20:59:51.378843+00:00 | [1](../agents/bbugyi200.athena.sase-1t3.10.1.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1t3.10.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.10.1.land--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1t3.10.1.land--mon | completed | gpt-6-luna / codex | 2026-11-18T19:28:05.660672+00:00 → 2026-11-18T20:03:04.209020+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.10.1.land--mon/chat.md) |
 | <a id="member-code"></a>code | sase-1t3.10.1.land--code | completed | gpt-6-luna / codex | 2026-11-18T17:59:43.194313+00:00 → 2026-11-18T19:29:14.711815+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.10.1.land--code/chat.md) |
 
@@ -34,6 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | plan | sase | [`fbfaf07`](https://github.com/sase-org/sase/commit/fbfaf07123b790738caf0bf203b3f3d3711aa374) | refactor(agent-scan): retire unused compact-list landing APIs | 2026-11-18 12:57:07 EST |
+| 1 | sase | [`af07b78`](https://github.com/sase-org/sase/commit/af07b78ac22bc55f394b6dc576e88fac5dd9573c) | feat(tui): bound compact agent list retention | 2026-11-18 15:56:49 EST |
 
 ## Variables
 
@@ -89,7 +90,13 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1t3.11.1.6](bbugyi200.athena.sase-1t3.11.1.6.md) (session · 8) | sase-1t3 hood | completed 7, failed 1 |
 | [sase-1t3.11.1.land](bbugyi200.athena.sase-1t3.11.1.land.md) (session · 3) | sase-1t3 hood | completed 3 |
 | [sase-1t3.12](bbugyi200.athena.sase-1t3.12.md) (session · 11) | sase-1t3 hood | completed 8, failed 3 |
-| [sase-1t3.13](bbugyi200.athena.sase-1t3.13.md) (session · 3) | sase-1t3 hood | active 2, completed 1 |
+| [sase-1t3.13](bbugyi200.athena.sase-1t3.13.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
+| [sase-1t3.13.1.1](../agents/bbugyi200.athena.sase-1t3.13.1.1/README.md) | sase-1t3 hood | completed |
+| [sase-1t3.13.1.2](../agents/bbugyi200.athena.sase-1t3.13.1.2/README.md) | sase-1t3 hood | active |
+| [sase-1t3.13.1.3](../agents/bbugyi200.athena.sase-1t3.13.1.3/README.md) | sase-1t3 hood | active |
+| [sase-1t3.13.1.4](../agents/bbugyi200.athena.sase-1t3.13.1.4/README.md) | sase-1t3 hood | active |
+| [sase-1t3.13.1.5](../agents/bbugyi200.athena.sase-1t3.13.1.5/README.md) | sase-1t3 hood | waiting |
+| [sase-1t3.13.1.land](../agents/bbugyi200.athena.sase-1t3.13.1.land/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.14](../agents/bbugyi200.athena.sase-1t3.14/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.2](bbugyi200.athena.sase-1t3.2.md) (session · 5) | sase-1t3 hood | completed 5 |
 | [sase-1t3.3](../agents/bbugyi200.athena.sase-1t3.3/README.md) | sase-1t3 hood | completed |

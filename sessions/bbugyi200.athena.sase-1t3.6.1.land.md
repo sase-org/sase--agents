@@ -87,7 +87,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1t3.10.1.3](../agents/bbugyi200.athena.sase-1t3.10.1.3/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.10.1.4](bbugyi200.athena.sase-1t3.10.1.4.md) (session · 3) | sase-1t3 hood | completed 3 |
 | [sase-1t3.10.1.4](../agents/bbugyi200.athena.sase-1t3.10.1.4/README.md) | sase-1t3 hood | waiting |
-| [sase-1t3.10.1.land](bbugyi200.athena.sase-1t3.10.1.land.md) (session · 5) | sase-1t3 hood | active 1, completed 4 |
+| [sase-1t3.10.1.land](bbugyi200.athena.sase-1t3.10.1.land.md) (session · 5) | sase-1t3 hood | completed 5 |
 | [sase-1t3.10.1.land](../agents/bbugyi200.athena.sase-1t3.10.1.land/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.11](bbugyi200.athena.sase-1t3.11.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
 | [sase-1t3.11.1.1](../agents/bbugyi200.athena.sase-1t3.11.1.1/README.md) | sase-1t3 hood | completed |
@@ -98,7 +98,13 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1t3.11.1.6](bbugyi200.athena.sase-1t3.11.1.6.md) (session · 8) | sase-1t3 hood | completed 7, failed 1 |
 | [sase-1t3.11.1.land](bbugyi200.athena.sase-1t3.11.1.land.md) (session · 3) | sase-1t3 hood | completed 3 |
 | [sase-1t3.12](bbugyi200.athena.sase-1t3.12.md) (session · 11) | sase-1t3 hood | completed 8, failed 3 |
-| [sase-1t3.13](bbugyi200.athena.sase-1t3.13.md) (session · 3) | sase-1t3 hood | active 2, completed 1 |
+| [sase-1t3.13](bbugyi200.athena.sase-1t3.13.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
+| [sase-1t3.13.1.1](../agents/bbugyi200.athena.sase-1t3.13.1.1/README.md) | sase-1t3 hood | completed |
+| [sase-1t3.13.1.2](../agents/bbugyi200.athena.sase-1t3.13.1.2/README.md) | sase-1t3 hood | active |
+| [sase-1t3.13.1.3](../agents/bbugyi200.athena.sase-1t3.13.1.3/README.md) | sase-1t3 hood | active |
+| [sase-1t3.13.1.4](../agents/bbugyi200.athena.sase-1t3.13.1.4/README.md) | sase-1t3 hood | active |
+| [sase-1t3.13.1.5](../agents/bbugyi200.athena.sase-1t3.13.1.5/README.md) | sase-1t3 hood | waiting |
+| [sase-1t3.13.1.land](../agents/bbugyi200.athena.sase-1t3.13.1.land/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.14](../agents/bbugyi200.athena.sase-1t3.14/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.2](bbugyi200.athena.sase-1t3.2.md) (session · 5) | sase-1t3 hood | completed 5 |
 | [sase-1t3.3](../agents/bbugyi200.athena.sase-1t3.3/README.md) | sase-1t3 hood | completed |

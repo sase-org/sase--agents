@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d19ed599f3d0196537e11104bbd11dc0"}
+{"commits":[{"committed_at":1795035409,"sha":"af07b78ac22bc55f394b6dc576e88fac5dd9573c","subject":"feat(tui): bound compact agent list retention"}],"schema_version":2,"source_run_id":"run-d19ed599f3d0196537e11104bbd11dc0"}
