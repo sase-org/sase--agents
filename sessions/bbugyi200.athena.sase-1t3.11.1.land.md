@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 3 · Bead: [sase-1t3.1
 ```mermaid
 flowchart TD
   n0["sase-1t3.11.1.land--gate [completed]"]
-  n1["sase-1t3.11.1.land--code [active]"]
+  n1["sase-1t3.11.1.land--code [completed]"]
   n0 --> n1
-  n2["sase-1t3.11.1.land--plan [active]"]
+  n2["sase-1t3.11.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1t3.11.1.land--gate | completed | opus / claude | 2026-11-18T07:48:15.321128+00:00 → 2026-11-18T07:48:23.887878+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.11.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1t3.11.1.land--code | active | gpt-6-luna / codex | 2026-11-18T07:49:19.004919+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1t3.11.1.land--plan | active | opus / claude | 2026-11-18T07:32:47.999791+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.11.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.11.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1t3.11.1.land--code | completed | gpt-6-luna / codex | 2026-11-18T07:49:19.004919+00:00 → 2026-11-18T08:37:16.943168+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.11.1.land--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-1t3.11.1.land--plan | completed | opus / claude | 2026-11-18T07:32:47.999791+00:00 → 2026-11-18T08:37:16.943168+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.11.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.11.1.land--plan/chat.md) |
 
 ## Neighbors
 

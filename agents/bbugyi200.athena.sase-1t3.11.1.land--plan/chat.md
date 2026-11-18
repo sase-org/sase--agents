@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-1t3.11.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1t3_11_1_land__plan-261117_123216.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1t3_11_1_land__code-261117_123216.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/stream_touch_member_query.md
 
 
