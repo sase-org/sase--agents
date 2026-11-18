@@ -1528,11 +1528,11 @@
 | [sase-16g](hoods/sase-16g/README.md) | 7 | 0 | completed 6, dismissed 1 |
 | [sase-16h](hoods/sase-16h/README.md) | 7 | 0 | dismissed 7 |
 | [sase-16j](hoods/sase-16j/README.md) | 6 | 1 | dismissed 6 |
-| [sase-16k](hoods/sase-16k/README.md) | 4 | 0 | active 4 |
-| [sase-16n](hoods/sase-16n/README.md) | 31 | 3 | active 31 |
-| [sase-16t](hoods/sase-16t/README.md) | 9 | 0 | active 9 |
-| [sase-16y](hoods/sase-16y/README.md) | 4 | 0 | active 4 |
-| [sase-16z](hoods/sase-16z/README.md) | 24 | 2 | active 24 |
+| [sase-16k](hoods/sase-16k/README.md) | 4 | 0 | dismissed 4 |
+| [sase-16n](hoods/sase-16n/README.md) | 31 | 3 | dismissed 31 |
+| [sase-16t](hoods/sase-16t/README.md) | 9 | 0 | dismissed 9 |
+| [sase-16y](hoods/sase-16y/README.md) | 4 | 0 | dismissed 4 |
+| [sase-16z](hoods/sase-16z/README.md) | 24 | 2 | active 1, dismissed 23 |
 | [sase-170](hoods/sase-170/README.md) | 6 | 0 | active 6 |
 | [sase-171](hoods/sase-171/README.md) | 4 | 0 | active 4 |
 | [sase-177](hoods/sase-177/README.md) | 5 | 0 | active 5 |
@@ -2424,7 +2424,7 @@
 | [toobig-9y](hoods/toobig-9y/README.md) | 1 | 0 | completed 1 |
 | [toobig-9z](hoods/toobig-9z/README.md) | 2 | 0 | completed 2 |
 | [toobig-a1](hoods/toobig-a1/README.md) | 12 | 3 | completed 9, failed 3 |
-| [toobig-a2](hoods/toobig-a2/README.md) | 4 | 0 | completed 2, waiting 2 |
+| [toobig-a2](hoods/toobig-a2/README.md) | 4 | 0 | completed 3, waiting 1 |
 | [toobig-b](hoods/toobig-b/README.md) | 6 | 0 | active 1, dismissed 5 |
 | [toobig-c](hoods/toobig-c/README.md) | 3 | 0 | active 1, dismissed 2 |
 | [toobig-d](hoods/toobig-d/README.md) | 1 | 0 | active 1 |

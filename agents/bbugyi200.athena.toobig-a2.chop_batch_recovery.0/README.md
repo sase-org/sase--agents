@@ -47,5 +47,5 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-a2.chop\_proposal\_launch\_impl.0](../bbugyi200.athena.toobig-a2.chop_proposal_launch_impl.0/README.md) | toobig-a2 hood | completed |
-| [toobig-a2.chop\_typed\_admission.0](../bbugyi200.athena.toobig-a2.chop_typed_admission.0/README.md) | toobig-a2 hood | waiting |
+| [toobig-a2.chop\_typed\_admission.0](../bbugyi200.athena.toobig-a2.chop_typed_admission.0/README.md) | toobig-a2 hood | completed |
 | [toobig-a2.test\_video\_inspect.0](../bbugyi200.athena.toobig-a2.test_video_inspect.0/README.md) | toobig-a2 hood | waiting |

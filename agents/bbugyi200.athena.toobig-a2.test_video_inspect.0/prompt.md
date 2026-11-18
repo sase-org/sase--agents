@@ -1,6 +1,6 @@
+%auto
 %id(test_video_inspect.0, clan=toobig-a2)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/ace/tui/artifact_file_viewer/test_video_inspect.py` file into multiple files? Use your best
 %wait:toobig-a2.chop_typed_admission.0
