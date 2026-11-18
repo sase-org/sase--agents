@@ -22,6 +22,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-11o.2](../bbugyi200.athena.sase-11o.2/README.md) | ancestor | dismissed |
-| [sase-11o.2.f1](../../sessions/bbugyi200.athena.sase-11o.2.f1.md) (session · 11) | sase-11o.2 hood | active 1, completed 5, failed 5 |
+| [sase-11o.2.f1](../../sessions/bbugyi200.athena.sase-11o.2.f1.md) (session · 11) | sase-11o.2 hood | completed 5, dismissed 1, failed 5 |
 | [sase-11o.1](../bbugyi200.athena.sase-11o.1/README.md) | sase-11o hood | dismissed |
 | [sase-11o.land](../bbugyi200.athena.sase-11o.land/README.md) | sase-11o hood | dismissed |

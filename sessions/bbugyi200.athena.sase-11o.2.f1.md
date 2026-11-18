@@ -25,7 +25,7 @@ flowchart TD
   n0 --> n7
   n8["sase-11o.2.f1--mon-0 [failed]"]
   n0 --> n8
-  n9["sase-11o.2.f1--plan [active]"]
+  n9["sase-11o.2.f1--plan [dismissed]"]
   n0 --> n9
   n10["sase-11o.2.f1--2 [completed]"]
   n0 --> n10
@@ -44,7 +44,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-gate"></a>gate | sase-11o.2.f1--gate | failed | gpt-6-astra / codex | 2026-09-17T11:45:33.040282+00:00 → 2026-09-17T11:46:30.131130+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11o.2.f1--gate/chat.md) |
 | <a id="member-code"></a>code | sase-11o.2.f1--code | completed | gpt-5.5 / codex | 2026-09-17T11:46:52.513013+00:00 → 2026-09-17T13:01:11.872576+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11o.2.f1--code/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11o.2.f1--code/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-11o.2.f1--mon-0 | failed | gpt-5.5 / codex | 2026-09-17T14:14:28.741803+00:00 → 2026-09-17T14:24:10.520187+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11o.2.f1--mon-0/chat.md) |
-| <a id="member-plan"></a>plan | sase-11o.2.f1--plan | active | gpt-6-astra / codex | 2026-09-17T11:37:39.984070+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11o.2.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11o.2.f1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-11o.2.f1--plan | dismissed | gpt-6-astra / codex | 2026-09-17T07:37:39.984070 → 2026-09-17T07:44:32.056093 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11o.2.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11o.2.f1--plan/chat.md) |
 | <a id="member-2"></a>2 | sase-11o.2.f1--2 | completed | gpt-5.5 / codex | 2026-09-17T14:24:10.133187+00:00 → 2026-09-17T14:26:32.226504+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11o.2.f1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11o.2.f1--2/chat.md) |
 
 ## Commits

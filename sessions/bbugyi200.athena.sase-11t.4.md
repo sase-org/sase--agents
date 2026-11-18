@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-11t` · Members: 2 · Bead: [sase-11t.4
 
 ```mermaid
 flowchart TD
-  n0["sase-11t.4--plan [active]"]
-  n1["sase-11t.4--gate [active]"]
+  n0["sase-11t.4--plan [dismissed]"]
+  n1["sase-11t.4--gate [dismissed]"]
   n0 --> n1
 ```
 
@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-11t.4--plan | active | gpt-5.5 / codex | 2026-09-16T19:38:05.735605+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11t.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11t.4--plan/chat.md) |
-| <a id="member-gate"></a>gate | sase-11t.4--gate | active | gpt-5.5 / codex | 2026-09-16T19:43:19.867121+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11t.4--gate/chat.md) |
+| <a id="member-plan"></a>plan | sase-11t.4--plan | dismissed | gpt-5.5 / codex | 2026-09-16T15:38:05.735605 → 2026-09-16T15:47:17.375660 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11t.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11t.4--plan/chat.md) |
+| <a id="member-gate"></a>gate | sase-11t.4--gate | dismissed | gpt-5.5 / codex | 2026-09-16T15:43:19.867121 → 2026-09-16T16:14:45 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11t.4--gate/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-11t.1](bbugyi200.athena.sase-11t.1.md) (session · 3) | sase-11t hood | active 2, completed 1 |
-| [sase-11t.2](bbugyi200.athena.sase-11t.2.md) (session · 5) | sase-11t hood | active 5 |
-| [sase-11t.3](bbugyi200.athena.sase-11t.3.md) (session · 3) | sase-11t hood | active 3 |
-| [sase-11t.land](../agents/bbugyi200.athena.sase-11t.land/README.md) | sase-11t hood | waiting |
+| [sase-11t.1](bbugyi200.athena.sase-11t.1.md) (session · 3) | sase-11t hood | completed 1, dismissed 2 |
+| [sase-11t.2](bbugyi200.athena.sase-11t.2.md) (session · 5) | sase-11t hood | dismissed 5 |
+| [sase-11t.3](bbugyi200.athena.sase-11t.3.md) (session · 3) | sase-11t hood | dismissed 3 |
+| [sase-11t.land](../agents/bbugyi200.athena.sase-11t.land/README.md) | sase-11t hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-11r](../../users/bbugyi200/machines/athena/hoods/sase-11r/README.md) / [sase-11r.1](../../sessions/bbugyi200.athena.sase-11r.1.md) / sase-11r.1--3
 
-**Global name:** `bbugyi200.athena.sase-11r.1--3` · **State:** active · **Source run:** `run-9f89d193d617b0ac3f5309470bfb99b2`
+**Global name:** `bbugyi200.athena.sase-11r.1--3` · **State:** dismissed · **Source run:** `run-9f89d193d617b0ac3f5309470bfb99b2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-11r
 
@@ -11,7 +11,7 @@
 - Bead: [sase-11r.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11r/sase-11r.1.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-16T16:56:39.664250+00:00
+- Timing: 2026-09-16T12:56:39.664250 → 2026-09-16T13:08:11.655045
 - Commits: [1](#commits)
 
 ## Files
@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`44f4c44`](https://github.com/sase-org/sase/commit/44f4c441706f5c58ab92a9fe503954d154fa2b95) | fix(monitor): close the monitor-settles-before-starter race | 2026-09-16 13:07:09 EDT |
+| — | `44f4c44` | fix(monitor): close the monitor-settles-before-starter race | 2026-09-16 13:07:09 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-11r.2](../bbugyi200.athena.sase-11r.2/README.md) | sase-11r hood | active |
-| [sase-11r.3](../bbugyi200.athena.sase-11r.3/README.md) | sase-11r hood | active |
-| [sase-11r.land](../bbugyi200.athena.sase-11r.land/README.md) | sase-11r hood | active |
+| [sase-11r.2](../bbugyi200.athena.sase-11r.2/README.md) | sase-11r hood | dismissed |
+| [sase-11r.3](../bbugyi200.athena.sase-11r.3/README.md) | sase-11r hood | dismissed |
+| [sase-11r.land](../bbugyi200.athena.sase-11r.land/README.md) | sase-11r hood | dismissed |

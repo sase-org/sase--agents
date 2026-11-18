@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-11t](../../users/bbugyi200/machines/athena/hoods/sase-11t/README.md) / [sase-11t.3](../../sessions/bbugyi200.athena.sase-11t.3.md) / sase-11t.3--plan
 
-**Global name:** `bbugyi200.athena.sase-11t.3--plan` · **State:** active · **Source run:** `run-cfe4b59d7299670ffa800ab8943e1add`
+**Global name:** `bbugyi200.athena.sase-11t.3--plan` · **State:** dismissed · **Source run:** `run-cfe4b59d7299670ffa800ab8943e1add`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-11t
 
@@ -12,7 +12,7 @@
 - Epic: [sase-11t](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11t/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-16T14:50:46.776602+00:00
+- Timing: 2026-09-16T10:50:46.776602 → 2026-09-16T11:11:44.739826
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-11t.1](../../sessions/bbugyi200.athena.sase-11t.1.md) (session · 3) | sase-11t hood | active 2, completed 1 |
-| [sase-11t.2](../../sessions/bbugyi200.athena.sase-11t.2.md) (session · 5) | sase-11t hood | active 5 |
-| [sase-11t.4](../../sessions/bbugyi200.athena.sase-11t.4.md) (session · 2) | sase-11t hood | active 2 |
-| [sase-11t.land](../bbugyi200.athena.sase-11t.land/README.md) | sase-11t hood | waiting |
+| [sase-11t.1](../../sessions/bbugyi200.athena.sase-11t.1.md) (session · 3) | sase-11t hood | completed 1, dismissed 2 |
+| [sase-11t.2](../../sessions/bbugyi200.athena.sase-11t.2.md) (session · 5) | sase-11t hood | dismissed 5 |
+| [sase-11t.4](../../sessions/bbugyi200.athena.sase-11t.4.md) (session · 2) | sase-11t hood | dismissed 2 |
+| [sase-11t.land](../bbugyi200.athena.sase-11t.land/README.md) | sase-11t hood | dismissed |
