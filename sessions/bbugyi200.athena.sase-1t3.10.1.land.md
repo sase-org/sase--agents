@@ -2,26 +2,32 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.10.1.land
 
-Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 3 · Bead: [sase-1t3.10.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.10.1.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 5 · Bead: [sase-1t3.10.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.10.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1t3.10.1.land--plan [active]"]
+  n0["sase-1t3.10.1.land--plan [completed]"]
   n1["sase-1t3.10.1.land--gate [completed]"]
   n0 --> n1
-  n2["sase-1t3.10.1.land--code [active]"]
+  n2["sase-1t3.10.1.land--1 [active]"]
   n0 --> n2
+  n3["sase-1t3.10.1.land--mon [completed]"]
+  n0 --> n3
+  n4["sase-1t3.10.1.land--code [completed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1t3.10.1.land--plan | active | gpt-6-astra / codex | 2026-11-18T16:11:40.547869+00:00 | [1](../agents/bbugyi200.athena.sase-1t3.10.1.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1t3.10.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.10.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1t3.10.1.land--plan | completed | gpt-6-astra / codex | 2026-11-18T16:11:40.547869+00:00 → 2026-11-18T19:29:14.711815+00:00 | [1](../agents/bbugyi200.athena.sase-1t3.10.1.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1t3.10.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.10.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1t3.10.1.land--gate | completed | gpt-6-astra / codex | 2026-11-18T17:58:51.045171+00:00 → 2026-11-18T17:59:01.565117+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.10.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1t3.10.1.land--code | active | gpt-6-luna / codex | 2026-11-18T17:59:43.194313+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | sase-1t3.10.1.land--1 | active | gpt-6-luna / codex | 2026-11-18T20:03:04.132364+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.10.1.land--1/prompt.md) | — |
+| <a id="member-mon"></a>mon | sase-1t3.10.1.land--mon | completed | gpt-6-luna / codex | 2026-11-18T19:28:05.660672+00:00 → 2026-11-18T20:03:04.209020+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.10.1.land--mon/chat.md) |
+| <a id="member-code"></a>code | sase-1t3.10.1.land--code | completed | gpt-6-luna / codex | 2026-11-18T17:59:43.194313+00:00 → 2026-11-18T19:29:14.711815+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.10.1.land--code/chat.md) |
 
 ## Commits
 
@@ -83,7 +89,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1t3.11.1.6](bbugyi200.athena.sase-1t3.11.1.6.md) (session · 8) | sase-1t3 hood | completed 7, failed 1 |
 | [sase-1t3.11.1.land](bbugyi200.athena.sase-1t3.11.1.land.md) (session · 3) | sase-1t3 hood | completed 3 |
 | [sase-1t3.12](bbugyi200.athena.sase-1t3.12.md) (session · 11) | sase-1t3 hood | completed 8, failed 3 |
-| [sase-1t3.13](../agents/bbugyi200.athena.sase-1t3.13/README.md) | sase-1t3 hood | waiting |
+| [sase-1t3.13](bbugyi200.athena.sase-1t3.13.md) (session · 3) | sase-1t3 hood | active 2, completed 1 |
 | [sase-1t3.14](../agents/bbugyi200.athena.sase-1t3.14/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.2](bbugyi200.athena.sase-1t3.2.md) (session · 5) | sase-1t3 hood | completed 5 |
 | [sase-1t3.3](../agents/bbugyi200.athena.sase-1t3.3/README.md) | sase-1t3 hood | completed |

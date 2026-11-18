@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-310d2ee5865aec40abee0619b4d82cc8"}
+{"commits":[{"committed_at":1795024627,"sha":"fbfaf07123b790738caf0bf203b3f3d3711aa374","subject":"refactor(agent-scan): retire unused compact-list landing APIs"}],"schema_version":2,"source_run_id":"run-21611b94145b140733544737e26ea993"}

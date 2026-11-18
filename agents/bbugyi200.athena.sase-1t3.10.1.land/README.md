@@ -2,21 +2,23 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.10.1.land
 
-**Global name:** `bbugyi200.athena.sase-1t3.10.1.land` · **State:** waiting · **Source run:** `run-310d2ee5865aec40abee0619b4d82cc8`
+**Global name:** `bbugyi200.athena.sase-1t3.10.1.land` · **State:** completed · **Source run:** `run-21611b94145b140733544737e26ea993`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
 ## Summary
 
 - Bead: [sase-1t3.10.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.10.1.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 20261118094001
-- Commits: 0
+- Model: —
+- Provider: —
+- Timing: 2026-11-18T17:57:07+00:00 → 2026-11-18T17:57:07+00:00
+- Commits: [1](#commits)
 
-## Files
+## Commits
 
-[Prompt](prompt.md)
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`fbfaf07`](https://github.com/sase-org/sase/commit/fbfaf07123b790738caf0bf203b3f3d3711aa374) | refactor(agent-scan): retire unused compact-list landing APIs | 2026-11-18 12:57:07 EST |
 
 ## Neighbors
 
@@ -27,7 +29,7 @@
 | [sase-1t3.10.1.2](../bbugyi200.athena.sase-1t3.10.1.2/README.md) | sase-1t3.10.1 hood | completed |
 | [sase-1t3.10.1.3](../../sessions/bbugyi200.athena.sase-1t3.10.1.3.md) (session · 3) | sase-1t3.10.1 hood | completed 2, failed 1 |
 | [sase-1t3.10.1.3](../bbugyi200.athena.sase-1t3.10.1.3/README.md) | sase-1t3.10.1 hood | completed |
-| [sase-1t3.10.1.4](../../sessions/bbugyi200.athena.sase-1t3.10.1.4.md) (session · 3) | sase-1t3.10.1 hood | active 1, completed 2 |
+| [sase-1t3.10.1.4](../../sessions/bbugyi200.athena.sase-1t3.10.1.4.md) (session · 3) | sase-1t3.10.1 hood | completed 3 |
 | [sase-1t3.10.1.4](../bbugyi200.athena.sase-1t3.10.1.4/README.md) | sase-1t3.10.1 hood | waiting |
 | [sase-1t3.1](../../sessions/bbugyi200.athena.sase-1t3.1.md) (session · 2) | sase-1t3 hood | completed 2 |
 | [sase-1t3.1](../bbugyi200.athena.sase-1t3.1/README.md) | sase-1t3 hood | completed |
@@ -40,7 +42,7 @@
 | [sase-1t3.11.1.6](../../sessions/bbugyi200.athena.sase-1t3.11.1.6.md) (session · 8) | sase-1t3 hood | completed 7, failed 1 |
 | [sase-1t3.11.1.land](../../sessions/bbugyi200.athena.sase-1t3.11.1.land.md) (session · 3) | sase-1t3 hood | completed 3 |
 | [sase-1t3.12](../../sessions/bbugyi200.athena.sase-1t3.12.md) (session · 11) | sase-1t3 hood | completed 8, failed 3 |
-| [sase-1t3.13](../bbugyi200.athena.sase-1t3.13/README.md) | sase-1t3 hood | waiting |
+| [sase-1t3.13](../../sessions/bbugyi200.athena.sase-1t3.13.md) (session · 3) | sase-1t3 hood | active 2, completed 1 |
 | [sase-1t3.14](../bbugyi200.athena.sase-1t3.14/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.2](../../sessions/bbugyi200.athena.sase-1t3.2.md) (session · 5) | sase-1t3 hood | completed 5 |
 | [sase-1t3.3](../bbugyi200.athena.sase-1t3.3/README.md) | sase-1t3 hood | completed |
