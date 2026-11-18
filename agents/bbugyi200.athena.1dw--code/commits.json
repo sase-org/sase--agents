@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1795013044,"sha":"637a70a0f1b32b12dd5d768beafb4af7b0d3a7a7","subject":"feat(sdd): report git timeouts as unknown state, never unsafe"}],"schema_version":2,"source_run_id":"run-6184a8d229e19cef89ddf0dcac78bc57"}
