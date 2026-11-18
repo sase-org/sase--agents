@@ -22,10 +22,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5937cbc`](https://github.com/sase-org/sase/commit/5937cbc13066562a9a4b235831e76574e46e37ee) | docs(reference): split work unit documentation | 2026-10-16 11:57:26 EDT |
-| sase | [`558e075`](https://github.com/sase-org/sase/commit/558e075a4d0767f58812b61e9e35cffcb85b6846) | docs(reference): consolidate generated references and migration guidance | 2026-10-16 12:18:16 EDT |
-| sase | [`9e8824d`](https://github.com/sase-org/sase/commit/9e8824db52d886476434661925fb4717325dd491) | docs: clean work-unit and provider references | 2026-10-16 12:41:40 EDT |
-| sase | [`39f9ca9`](https://github.com/sase-org/sase/commit/39f9ca930004997cb60e86361f3676701d7297e9) | docs: split agent and VCS reference pages | 2026-10-16 12:51:59 EDT |
+| — | `5937cbc` | docs(reference): split work unit documentation | 2026-10-16 11:57:26 EDT |
+| — | `558e075` | docs(reference): consolidate generated references and migration guidance | 2026-10-16 12:18:16 EDT |
+| — | `9e8824d` | docs: clean work-unit and provider references | 2026-10-16 12:41:40 EDT |
+| — | `39f9ca9` | docs: split agent and VCS reference pages | 2026-10-16 12:51:59 EDT |
 
 ## Neighbors
 
@@ -37,22 +37,22 @@
 | [sase-1le.20.1.11](../bbugyi200.athena.sase-1le.20.1.11/README.md) | sase-1le.20.1 hood | completed |
 | [sase-1le.20.1.12](../bbugyi200.athena.sase-1le.20.1.12/README.md) | sase-1le.20.1 hood | completed |
 | [sase-1le.20.1.14](../bbugyi200.athena.sase-1le.20.1.14/README.md) | sase-1le.20.1 hood | completed |
-| [sase-1le.20.1.15](../bbugyi200.athena.sase-1le.20.1.15/README.md) | sase-1le.20.1 hood | waiting |
-| [sase-1le.20.1.16](../bbugyi200.athena.sase-1le.20.1.16/README.md) | sase-1le.20.1 hood | waiting |
+| [sase-1le.20.1.15](../bbugyi200.athena.sase-1le.20.1.15/README.md) | sase-1le.20.1 hood | dismissed |
+| [sase-1le.20.1.16](../bbugyi200.athena.sase-1le.20.1.16/README.md) | sase-1le.20.1 hood | dismissed |
 | [sase-1le.20.1.17](../bbugyi200.athena.sase-1le.20.1.17/README.md) | sase-1le.20.1 hood | completed |
 | [sase-1le.20.1.18](../bbugyi200.athena.sase-1le.20.1.18/README.md) | sase-1le.20.1 hood | completed |
 | [sase-1le.20.1.19](../../sessions/bbugyi200.athena.sase-1le.20.1.19.md) (session · 3) | sase-1le.20.1 hood | completed 2, failed 1 |
 | [sase-1le.20.1.2](../bbugyi200.athena.sase-1le.20.1.2/README.md) | sase-1le.20.1 hood | completed |
-| [sase-1le.20.1.20](../bbugyi200.athena.sase-1le.20.1.20/README.md) | sase-1le.20.1 hood | active |
-| [sase-1le.20.1.21](../bbugyi200.athena.sase-1le.20.1.21/README.md) | sase-1le.20.1 hood | waiting |
+| [sase-1le.20.1.20](../bbugyi200.athena.sase-1le.20.1.20/README.md) | sase-1le.20.1 hood | dismissed |
+| [sase-1le.20.1.21](../bbugyi200.athena.sase-1le.20.1.21/README.md) | sase-1le.20.1 hood | dismissed |
 | [sase-1le.20.1.3](../bbugyi200.athena.sase-1le.20.1.3/README.md) | sase-1le.20.1 hood | completed |
 | [sase-1le.20.1.4](../bbugyi200.athena.sase-1le.20.1.4/README.md) | sase-1le.20.1 hood | completed |
-| [sase-1le.20.1.5](../../sessions/bbugyi200.athena.sase-1le.20.1.5.md) (session · 5) | sase-1le.20.1 hood | active 1, completed 2, failed 2 |
-| [sase-1le.20.1.6](../bbugyi200.athena.sase-1le.20.1.6/README.md) | sase-1le.20.1 hood | waiting |
+| [sase-1le.20.1.5](../../sessions/bbugyi200.athena.sase-1le.20.1.5.md) (session · 5) | sase-1le.20.1 hood | completed 2, dismissed 1, failed 2 |
+| [sase-1le.20.1.6](../bbugyi200.athena.sase-1le.20.1.6/README.md) | sase-1le.20.1 hood | dismissed |
 | [sase-1le.20.1.7](../bbugyi200.athena.sase-1le.20.1.7/README.md) | sase-1le.20.1 hood | completed |
 | [sase-1le.20.1.8](../bbugyi200.athena.sase-1le.20.1.8/README.md) | sase-1le.20.1 hood | completed |
 | [sase-1le.20.1.9](../bbugyi200.athena.sase-1le.20.1.9/README.md) | sase-1le.20.1 hood | completed |
-| [sase-1le.20.1.land](../bbugyi200.athena.sase-1le.20.1.land/README.md) | sase-1le.20.1 hood | waiting |
+| [sase-1le.20.1.land](../bbugyi200.athena.sase-1le.20.1.land/README.md) | sase-1le.20.1 hood | dismissed |
 | [sase-1le.1](../bbugyi200.athena.sase-1le.1/README.md) | sase-1le hood | completed |
 | [sase-1le.10](../bbugyi200.athena.sase-1le.10/README.md) | sase-1le hood | completed |
 | [sase-1le.11](../bbugyi200.athena.sase-1le.11/README.md) | sase-1le hood | completed |
@@ -72,4 +72,4 @@
 | [sase-1le.7](../bbugyi200.athena.sase-1le.7/README.md) | sase-1le hood | completed |
 | [sase-1le.8](../bbugyi200.athena.sase-1le.8/README.md) | sase-1le hood | completed |
 | [sase-1le.9](../bbugyi200.athena.sase-1le.9/README.md) | sase-1le hood | completed |
-| [sase-1le.land](../bbugyi200.athena.sase-1le.land/README.md) | sase-1le hood | waiting |
+| [sase-1le.land](../bbugyi200.athena.sase-1le.land/README.md) | sase-1le hood | dismissed |

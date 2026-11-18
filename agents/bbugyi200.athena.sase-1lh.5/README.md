@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`909d55d`](https://github.com/sase-org/sase/commit/909d55df5e948968c6c40e9dde5166d47b10433b) | feat(release-watch): harden watcher close guarantees and stuck-gate exit | 2026-10-16 13:34:32 EDT |
+| — | `909d55d` | feat(release-watch): harden watcher close guarantees and stuck-gate exit | 2026-10-16 13:34:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1lh.1](../bbugyi200.athena.sase-1lh.1/README.md) | sase-1lh hood | active |
-| [sase-1lh.2](../bbugyi200.athena.sase-1lh.2/README.md) | sase-1lh hood | active |
-| [sase-1lh.3](../bbugyi200.athena.sase-1lh.3/README.md) | sase-1lh hood | active |
+| [sase-1lh.1](../bbugyi200.athena.sase-1lh.1/README.md) | sase-1lh hood | dismissed |
+| [sase-1lh.2](../bbugyi200.athena.sase-1lh.2/README.md) | sase-1lh hood | dismissed |
+| [sase-1lh.3](../bbugyi200.athena.sase-1lh.3/README.md) | sase-1lh hood | dismissed |
 | [sase-1lh.4](../bbugyi200.athena.sase-1lh.4/README.md) | sase-1lh hood | completed |
-| [sase-1lh.6](../bbugyi200.athena.sase-1lh.6/README.md) | sase-1lh hood | waiting |
-| [sase-1lh.land](../bbugyi200.athena.sase-1lh.land/README.md) | sase-1lh hood | waiting |
+| [sase-1lh.6](../bbugyi200.athena.sase-1lh.6/README.md) | sase-1lh hood | dismissed |
+| [sase-1lh.land](../bbugyi200.athena.sase-1lh.land/README.md) | sase-1lh hood | dismissed |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ff50879`](https://github.com/sase-org/sase/commit/ff50879f32f4920d2947ee716f614809a755e91e) | feat(release): cut over to release-please with live steward and trimmed publish | 2026-10-25 17:35:55 EDT |
+| — | `ff50879` | feat(release): cut over to release-please with live steward and trimmed publish | 2026-10-25 17:35:55 EDT |
 
 ## Neighbors
 
@@ -42,28 +42,28 @@
 | [sase-1n6.3](../bbugyi200.athena.sase-1n6.3/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.4](../../sessions/bbugyi200.athena.sase-1n6.4.md) (session · 3) | sase-1n6 hood | completed 2, failed 1 |
 | [sase-1n6.5](../../sessions/bbugyi200.athena.sase-1n6.5.md) (session · 3) | sase-1n6 hood | failed 3 |
-| [sase-1n6.5.1.1](../bbugyi200.athena.sase-1n6.5.1.1/README.md) | sase-1n6 hood | active |
-| [sase-1n6.5.1.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.2.md) (session · 5) | sase-1n6 hood | active 5 |
+| [sase-1n6.5.1.1](../bbugyi200.athena.sase-1n6.5.1.1/README.md) | sase-1n6 hood | dismissed |
+| [sase-1n6.5.1.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.2.md) (session · 5) | sase-1n6 hood | active 2, dismissed 3 |
 | [sase-1n6.5.1.3](../bbugyi200.athena.sase-1n6.5.1.3/README.md) | sase-1n6 hood | active |
-| [sase-1n6.5.1.4](../bbugyi200.athena.sase-1n6.5.1.4/README.md) | sase-1n6 hood | active |
+| [sase-1n6.5.1.4](../bbugyi200.athena.sase-1n6.5.1.4/README.md) | sase-1n6 hood | dismissed |
 | [sase-1n6.5.1.5.1](../bbugyi200.athena.sase-1n6.5.1.5.1/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.5.1.5.2](../bbugyi200.athena.sase-1n6.5.1.5.2/README.md) | sase-1n6 hood | completed |
-| [sase-1n6.5.1.5.2.1.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.1.md) (session · 3) | sase-1n6 hood | active 3 |
-| [sase-1n6.5.1.5.2.1.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.2.md) (session · 7) | sase-1n6 hood | active 3, completed 2, failed 2 |
+| [sase-1n6.5.1.5.2.1.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.1.md) (session · 3) | sase-1n6 hood | dismissed 3 |
+| [sase-1n6.5.1.5.2.1.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.2.md) (session · 7) | sase-1n6 hood | active 1, completed 2, dismissed 2, failed 2 |
 | [sase-1n6.5.1.5.2.1.3.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.3.1.md) (session · 3) | sase-1n6 hood | completed 2, failed 1 |
 | [sase-1n6.5.1.5.2.1.3.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.3.2.md) (session · 7) | sase-1n6 hood | completed 4, failed 3 |
 | [sase-1n6.5.1.5.2.1.3.land](../bbugyi200.athena.sase-1n6.5.1.5.2.1.3.land/README.md) | sase-1n6 hood | completed |
-| [sase-1n6.5.1.5.2.1.land](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.land.md) (session · 3) | sase-1n6 hood | active 3 |
+| [sase-1n6.5.1.5.2.1.land](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.land.md) (session · 3) | sase-1n6 hood | active 1, dismissed 2 |
 | [sase-1n6.5.1.5.land](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.land.md) (session · 5) | sase-1n6 hood | completed 3, failed 2 |
 | [sase-1n6.5.1.land](../../sessions/bbugyi200.athena.sase-1n6.5.1.land.md) (session · 3) | sase-1n6 hood | active 3 |
 | [sase-1n6.6](../../sessions/bbugyi200.athena.sase-1n6.6.md) (session · 3) | sase-1n6 hood | completed 2, failed 1 |
 | [sase-1n6.7](../../sessions/bbugyi200.athena.sase-1n6.7.md) (session · 3) | sase-1n6 hood | failed 3 |
-| [sase-1n6.7.1.1](../bbugyi200.athena.sase-1n6.7.1.1/README.md) | sase-1n6 hood | active |
-| [sase-1n6.7.1.2](../../sessions/bbugyi200.athena.sase-1n6.7.1.2.md) (session · 5) | sase-1n6 hood | active 5 |
+| [sase-1n6.7.1.1](../bbugyi200.athena.sase-1n6.7.1.1/README.md) | sase-1n6 hood | dismissed |
+| [sase-1n6.7.1.2](../../sessions/bbugyi200.athena.sase-1n6.7.1.2.md) (session · 5) | sase-1n6 hood | active 4, dismissed 1 |
 | [sase-1n6.7.1.3](../bbugyi200.athena.sase-1n6.7.1.3/README.md) | sase-1n6 hood | active |
-| [sase-1n6.7.1.4](../../sessions/bbugyi200.athena.sase-1n6.7.1.4.md) (session · 3) | sase-1n6 hood | active 3 |
-| [sase-1n6.7.1.5](../../sessions/bbugyi200.athena.sase-1n6.7.1.5.md) (session · 3) | sase-1n6 hood | active 3 |
-| [sase-1n6.7.1.land](../../sessions/bbugyi200.athena.sase-1n6.7.1.land.md) (session · 15) | sase-1n6 hood | active 13, completed 1, failed 1 |
+| [sase-1n6.7.1.4](../../sessions/bbugyi200.athena.sase-1n6.7.1.4.md) (session · 3) | sase-1n6 hood | active 1, dismissed 2 |
+| [sase-1n6.7.1.5](../../sessions/bbugyi200.athena.sase-1n6.7.1.5.md) (session · 3) | sase-1n6 hood | active 1, dismissed 2 |
+| [sase-1n6.7.1.land](../../sessions/bbugyi200.athena.sase-1n6.7.1.land.md) (session · 15) | sase-1n6 hood | active 3, completed 1, dismissed 10, failed 1 |
 | [sase-1n6.8](../bbugyi200.athena.sase-1n6.8/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.land](../../sessions/bbugyi200.athena.sase-1n6.land.md) (session · 3) | sase-1n6 hood | active 1, completed 2 |
 | [sase-1n6.land](../bbugyi200.athena.sase-1n6.land/README.md) | sase-1n6 hood | waiting |

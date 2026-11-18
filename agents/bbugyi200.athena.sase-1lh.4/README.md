@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e69c455`](https://github.com/sase-org/sase/commit/e69c455bd6a65d69727711fcfe9a308e1674c3fc) | perf(ci-budget): recalibrate persistent\_query\_keystroke floor to 3.10x | 2026-10-16 13:14:27 EDT |
+| — | `e69c455` | perf(ci-budget): recalibrate persistent\_query\_keystroke floor to 3.10x | 2026-10-16 13:14:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1lh.1](../bbugyi200.athena.sase-1lh.1/README.md) | sase-1lh hood | active |
-| [sase-1lh.2](../bbugyi200.athena.sase-1lh.2/README.md) | sase-1lh hood | active |
-| [sase-1lh.3](../bbugyi200.athena.sase-1lh.3/README.md) | sase-1lh hood | active |
+| [sase-1lh.1](../bbugyi200.athena.sase-1lh.1/README.md) | sase-1lh hood | dismissed |
+| [sase-1lh.2](../bbugyi200.athena.sase-1lh.2/README.md) | sase-1lh hood | dismissed |
+| [sase-1lh.3](../bbugyi200.athena.sase-1lh.3/README.md) | sase-1lh hood | dismissed |
 | [sase-1lh.5](../bbugyi200.athena.sase-1lh.5/README.md) | sase-1lh hood | completed |
-| [sase-1lh.6](../bbugyi200.athena.sase-1lh.6/README.md) | sase-1lh hood | waiting |
-| [sase-1lh.land](../bbugyi200.athena.sase-1lh.land/README.md) | sase-1lh hood | waiting |
+| [sase-1lh.6](../bbugyi200.athena.sase-1lh.6/README.md) | sase-1lh hood | dismissed |
+| [sase-1lh.land](../bbugyi200.athena.sase-1lh.land/README.md) | sase-1lh hood | dismissed |
