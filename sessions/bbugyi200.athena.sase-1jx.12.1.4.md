@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`241e33a`](https://github.com/sase-org/sase/commit/241e33a79721b725c4808f6988ad139bacd99ff5) | feat(new-project): recover incomplete creates and expose the complete wizard | 2026-10-12 14:00:25 EDT |
+| 1 | — | `241e33a` | feat(new-project): recover incomplete creates and expose the complete wizard | 2026-10-12 14:00:25 EDT |
 
 ## Neighbors
 
@@ -40,22 +40,22 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1jx.12.1.land](../agents/bbugyi200.athena.sase-1jx.12.1.land/README.md) | sase-1jx.12.1 hood | completed |
 | [sase-1jx.1](../agents/bbugyi200.athena.sase-1jx.1/README.md) | sase-1jx hood | completed |
 | [sase-1jx.10](bbugyi200.athena.sase-1jx.10.md) (session · 3) | sase-1jx hood | failed 3 |
-| [sase-1jx.10.1.1](bbugyi200.athena.sase-1jx.10.1.1.md) (session · 3) | sase-1jx hood | active 3 |
-| [sase-1jx.10.1.2](../agents/bbugyi200.athena.sase-1jx.10.1.2/README.md) | sase-1jx hood | active |
-| [sase-1jx.10.1.3](../agents/bbugyi200.athena.sase-1jx.10.1.3/README.md) | sase-1jx hood | active |
-| [sase-1jx.10.1.4](../agents/bbugyi200.athena.sase-1jx.10.1.4/README.md) | sase-1jx hood | active |
-| [sase-1jx.10.1.land](bbugyi200.athena.sase-1jx.10.1.land.md) (session · 3) | sase-1jx hood | active 2, completed 1 |
+| [sase-1jx.10.1.1](bbugyi200.athena.sase-1jx.10.1.1.md) (session · 3) | sase-1jx hood | dismissed 3 |
+| [sase-1jx.10.1.2](../agents/bbugyi200.athena.sase-1jx.10.1.2/README.md) | sase-1jx hood | dismissed |
+| [sase-1jx.10.1.3](../agents/bbugyi200.athena.sase-1jx.10.1.3/README.md) | sase-1jx hood | dismissed |
+| [sase-1jx.10.1.4](../agents/bbugyi200.athena.sase-1jx.10.1.4/README.md) | sase-1jx hood | dismissed |
+| [sase-1jx.10.1.land](bbugyi200.athena.sase-1jx.10.1.land.md) (session · 3) | sase-1jx hood | completed 1, dismissed 2 |
 | [sase-1jx.11](../agents/bbugyi200.athena.sase-1jx.11/README.md) | sase-1jx hood | completed |
 | [sase-1jx.13.1](../agents/bbugyi200.athena.sase-1jx.13.1/README.md) | sase-1jx hood | completed |
 | [sase-1jx.13.2](../agents/bbugyi200.athena.sase-1jx.13.2/README.md) | sase-1jx hood | completed |
 | [sase-1jx.13.3](../agents/bbugyi200.athena.sase-1jx.13.3/README.md) | sase-1jx hood | completed |
 | [sase-1jx.13.4](../agents/bbugyi200.athena.sase-1jx.13.4/README.md) | sase-1jx hood | completed |
 | [sase-1jx.13.5](bbugyi200.athena.sase-1jx.13.5.md) (session · 3) | sase-1jx hood | completed 2, failed 1 |
-| [sase-1jx.13.6.1](../agents/bbugyi200.athena.sase-1jx.13.6.1/README.md) | sase-1jx hood | active |
-| [sase-1jx.13.6.2](../agents/bbugyi200.athena.sase-1jx.13.6.2/README.md) | sase-1jx hood | active |
-| [sase-1jx.13.6.3](../agents/bbugyi200.athena.sase-1jx.13.6.3/README.md) | sase-1jx hood | active |
-| [sase-1jx.13.6.4](../agents/bbugyi200.athena.sase-1jx.13.6.4/README.md) | sase-1jx hood | waiting |
-| [sase-1jx.13.6.land](../agents/bbugyi200.athena.sase-1jx.13.6.land/README.md) | sase-1jx hood | waiting |
+| [sase-1jx.13.6.1](../agents/bbugyi200.athena.sase-1jx.13.6.1/README.md) | sase-1jx hood | dismissed |
+| [sase-1jx.13.6.2](../agents/bbugyi200.athena.sase-1jx.13.6.2/README.md) | sase-1jx hood | dismissed |
+| [sase-1jx.13.6.3](../agents/bbugyi200.athena.sase-1jx.13.6.3/README.md) | sase-1jx hood | dismissed |
+| [sase-1jx.13.6.4](../agents/bbugyi200.athena.sase-1jx.13.6.4/README.md) | sase-1jx hood | dismissed |
+| [sase-1jx.13.6.land](../agents/bbugyi200.athena.sase-1jx.13.6.land/README.md) | sase-1jx hood | dismissed |
 | [sase-1jx.13.land](bbugyi200.athena.sase-1jx.13.land.md) (session · 3) | sase-1jx hood | failed 3 |
 | [sase-1jx.2](bbugyi200.athena.sase-1jx.2.md) (session · 3) | sase-1jx hood | completed 2, failed 1 |
 | [sase-1jx.3](../agents/bbugyi200.athena.sase-1jx.3/README.md) | sase-1jx hood | completed |
@@ -63,11 +63,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1jx.5](../agents/bbugyi200.athena.sase-1jx.5/README.md) | sase-1jx hood | completed |
 | [sase-1jx.6](bbugyi200.athena.sase-1jx.6.md) (session · 3) | sase-1jx hood | completed 2, failed 1 |
 | [sase-1jx.7](bbugyi200.athena.sase-1jx.7.md) (session · 3) | sase-1jx hood | failed 3 |
-| [sase-1jx.7.1.1](../agents/bbugyi200.athena.sase-1jx.7.1.1/README.md) | sase-1jx hood | active |
-| [sase-1jx.7.1.2](../agents/bbugyi200.athena.sase-1jx.7.1.2/README.md) | sase-1jx hood | active |
-| [sase-1jx.7.1.3](../agents/bbugyi200.athena.sase-1jx.7.1.3/README.md) | sase-1jx hood | active |
-| [sase-1jx.7.1.4](bbugyi200.athena.sase-1jx.7.1.4.md) (session · 3) | sase-1jx hood | active 3 |
-| [sase-1jx.7.1.land](../agents/bbugyi200.athena.sase-1jx.7.1.land/README.md) | sase-1jx hood | active |
+| [sase-1jx.7.1.1](../agents/bbugyi200.athena.sase-1jx.7.1.1/README.md) | sase-1jx hood | dismissed |
+| [sase-1jx.7.1.2](../agents/bbugyi200.athena.sase-1jx.7.1.2/README.md) | sase-1jx hood | dismissed |
+| [sase-1jx.7.1.3](../agents/bbugyi200.athena.sase-1jx.7.1.3/README.md) | sase-1jx hood | dismissed |
+| [sase-1jx.7.1.4](bbugyi200.athena.sase-1jx.7.1.4.md) (session · 3) | sase-1jx hood | dismissed 3 |
+| [sase-1jx.7.1.land](../agents/bbugyi200.athena.sase-1jx.7.1.land/README.md) | sase-1jx hood | dismissed |
 | [sase-1jx.8](../agents/bbugyi200.athena.sase-1jx.8/README.md) | sase-1jx hood | completed |
 | [sase-1jx.9](bbugyi200.athena.sase-1jx.9.md) (session · 3) | sase-1jx hood | completed 2, failed 1 |
 | [sase-1jx.land](bbugyi200.athena.sase-1jx.land.md) (session · 3) | sase-1jx hood | failed 3 |
