@@ -29,4 +29,4 @@
 |---|---|---|
 | [toobig-a2.chop\_batch\_recovery.0](../bbugyi200.athena.toobig-a2.chop_batch_recovery.0/README.md) | toobig-a2 hood | completed |
 | [toobig-a2.chop\_typed\_admission.0](../bbugyi200.athena.toobig-a2.chop_typed_admission.0/README.md) | toobig-a2 hood | completed |
-| [toobig-a2.test\_video\_inspect.0](../bbugyi200.athena.toobig-a2.test_video_inspect.0/README.md) | toobig-a2 hood | waiting |
+| [toobig-a2.test\_video\_inspect.0](../bbugyi200.athena.toobig-a2.test_video_inspect.0/README.md) | toobig-a2 hood | completed |
