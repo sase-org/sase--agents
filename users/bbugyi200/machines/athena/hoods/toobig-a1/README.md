@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-a1
 
-**Global hood:** `bbugyi200.athena.toobig-a1` · **Runs:** 12 · **Sessions:** 3 · **States:** completed 8, failed 3, waiting 1
+**Global hood:** `bbugyi200.athena.toobig-a1` · **Runs:** 12 · **Sessions:** 3 · **States:** completed 9, failed 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -17,4 +17,4 @@
 | [toobig-a1.viewer\_loop\_video.0--1](../../../../../../sessions/bbugyi200.athena.toobig-a1.viewer_loop_video.0.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-11-18T03:19:57.116242+00:00 → 2026-11-18T03:33:29.360878+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-a1.viewer_loop_video.0--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-a1.viewer_loop_video.0--1/chat.md) |
 | [toobig-a1.workflow\_runner.0--plan](../../../../../../sessions/bbugyi200.athena.toobig-a1.workflow_runner.0.md#member-plan) | completed | muse-spark-1.3-contributor / muse | 2026-11-18T05:04:36.966089+00:00 → 2026-11-18T05:25:37.541907+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-a1.workflow_runner.0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-a1.workflow_runner.0--plan/chat.md) |
 | [toobig-a1.workflow\_runner.0--1](../../../../../../sessions/bbugyi200.athena.toobig-a1.workflow_runner.0.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-11-18T06:22:31.048916+00:00 → 2026-11-18T06:28:41.130337+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-a1.workflow_runner.0--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-a1.workflow_runner.0--1/chat.md) |
-| [toobig-a1.test\_leader\_keymap\_dispatch.0](../../../../../../agents/bbugyi200.athena.toobig-a1.test_leader_keymap_dispatch.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261117211242 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-a1.test_leader_keymap_dispatch.0/prompt.md) |
+| [toobig-a1.test\_leader\_keymap\_dispatch.0](../../../../../../agents/bbugyi200.athena.toobig-a1.test_leader_keymap_dispatch.0/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-18T07:16:44.007039+00:00 → 2026-11-18T07:34:57.502730+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-a1.test_leader_keymap_dispatch.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-a1.test_leader_keymap_dispatch.0/chat.md) |
