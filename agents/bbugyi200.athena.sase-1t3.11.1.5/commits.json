@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e46e8b1fb07e9ae225859306bdee1dbe"}
+{"commits":[{"committed_at":1794979252,"sha":"88431cab7190cf5bb3b78c6e629c4a33958d5d10","subject":"perf(bead): read stranded report from single slim snapshot"}],"schema_version":2,"source_run_id":"run-e46e8b1fb07e9ae225859306bdee1dbe"}
