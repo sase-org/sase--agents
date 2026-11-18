@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794983307,"sha":"226c12c4c886fadb9ac03a095f0c88f0905861b8","subject":"refactor(macro): split workflow_runner into facade plus flatten and execute modules"}],"schema_version":2,"source_run_id":"run-b2531b4aaaeb58c4c0d2e99fb7608f4c"}
