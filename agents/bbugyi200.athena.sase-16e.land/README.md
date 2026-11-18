@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16e](../../users/bbugyi200/machines/athena/hoods/sase-16e/README.md) / sase-16e.land
 
-**Global name:** `bbugyi200.athena.sase-16e.land` · **State:** waiting · **Source run:** `run-9229adc4ab3a5a71f7eed776ff346a1e`
+**Global name:** `bbugyi200.athena.sase-16e.land` · **State:** dismissed · **Source run:** `run-9229adc4ab3a5a71f7eed776ff346a1e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-16e
 
@@ -11,7 +11,7 @@
 - Bead: [sase-16e](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16e/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260922121501
+- Timing: 2026-09-22T12:15:01
 - Commits: 0
 
 ## Files

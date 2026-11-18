@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f42a6f9`](https://github.com/sase-org/sase/commit/f42a6f964af6ab0cfaf22dca5115585b92d966c4) | feat(workspace): durable rescue store and non-refusing sidecar eviction | 2026-09-22 14:44:03 EDT |
+| — | `f42a6f9` | feat(workspace): durable rescue store and non-refusing sidecar eviction | 2026-09-22 14:44:03 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-16e.4](../bbugyi200.athena.sase-16e.4/README.md) | sase-16e hood | completed |
 | [sase-16e.5](../bbugyi200.athena.sase-16e.5/README.md) | sase-16e hood | completed |
 | [sase-16e.6](../bbugyi200.athena.sase-16e.6/README.md) | sase-16e hood | completed |
-| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | waiting |
+| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | dismissed |

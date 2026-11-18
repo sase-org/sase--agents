@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c1af4a8`](https://github.com/sase-org/sase/commit/c1af4a828178f0c820fe5ffa537e10b51184ca29) | feat(service): CLI and Services tab show real failure states | 2026-09-22 16:19:53 EDT |
+| — | `c1af4a8` | feat(service): CLI and Services tab show real failure states | 2026-09-22 16:19:53 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-16g.3](../bbugyi200.athena.sase-16g.3/README.md) | sase-16g hood | completed |
 | [sase-16g.4](../bbugyi200.athena.sase-16g.4/README.md) | sase-16g hood | completed |
 | [sase-16g.6](../bbugyi200.athena.sase-16g.6/README.md) | sase-16g hood | completed |
-| [sase-16g.land](../bbugyi200.athena.sase-16g.land/README.md) | sase-16g hood | active |
+| [sase-16g.land](../bbugyi200.athena.sase-16g.land/README.md) | sase-16g hood | dismissed |

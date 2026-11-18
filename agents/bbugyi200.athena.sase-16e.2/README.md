@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`496bd7f`](https://github.com/sase-org/sase/commit/496bd7fbda22b867e246bf10d1f378815fb416cd) | feat(workspace): self-healing checkout preparation for numbered workspaces | 2026-09-22 16:00:21 EDT |
+| — | `496bd7f` | feat(workspace): self-healing checkout preparation for numbered workspaces | 2026-09-22 16:00:21 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-16e.4](../bbugyi200.athena.sase-16e.4/README.md) | sase-16e hood | completed |
 | [sase-16e.5](../bbugyi200.athena.sase-16e.5/README.md) | sase-16e hood | completed |
 | [sase-16e.6](../bbugyi200.athena.sase-16e.6/README.md) | sase-16e hood | completed |
-| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | waiting |
+| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | dismissed |

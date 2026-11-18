@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1a96a22`](https://github.com/sase-org/sase/commit/1a96a22f171c845da339870d6cf054828dbf655f) | fix(ace-runner): recorded errors beat synthetic fallback; truthful runner output ordering | 2026-09-22 13:05:22 EDT |
+| — | `1a96a22` | fix(ace-runner): recorded errors beat synthetic fallback; truthful runner output ordering | 2026-09-22 13:05:22 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-16e.3](../bbugyi200.athena.sase-16e.3/README.md) | sase-16e hood | completed |
 | [sase-16e.4](../bbugyi200.athena.sase-16e.4/README.md) | sase-16e hood | completed |
 | [sase-16e.5](../bbugyi200.athena.sase-16e.5/README.md) | sase-16e hood | completed |
-| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | waiting |
+| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | dismissed |

@@ -28,4 +28,4 @@
 | [sase-16e.3](../bbugyi200.athena.sase-16e.3/README.md) | sase-16e hood | completed |
 | [sase-16e.5](../bbugyi200.athena.sase-16e.5/README.md) | sase-16e hood | completed |
 | [sase-16e.6](../bbugyi200.athena.sase-16e.6/README.md) | sase-16e hood | completed |
-| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | waiting |
+| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | dismissed |

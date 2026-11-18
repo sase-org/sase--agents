@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5374c03`](https://github.com/sase-org/sase/commit/5374c03ab7b55c3843feef112df9c407495d941a) | feat(service): last-known-good config keeps the host supervising | 2026-09-22 14:59:40 EDT |
+| — | `5374c03` | feat(service): last-known-good config keeps the host supervising | 2026-09-22 14:59:40 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-16g.4](../bbugyi200.athena.sase-16g.4/README.md) | sase-16g hood | completed |
 | [sase-16g.5](../bbugyi200.athena.sase-16g.5/README.md) | sase-16g hood | completed |
 | [sase-16g.6](../bbugyi200.athena.sase-16g.6/README.md) | sase-16g hood | completed |
-| [sase-16g.land](../bbugyi200.athena.sase-16g.land/README.md) | sase-16g hood | active |
+| [sase-16g.land](../bbugyi200.athena.sase-16g.land/README.md) | sase-16g hood | dismissed |

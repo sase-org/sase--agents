@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16h](../../users/bbugyi200/machines/athena/hoods/sase-16h/README.md) / sase-16h.4
 
-**Global name:** `bbugyi200.athena.sase-16h.4` · **State:** active · **Source run:** `run-ad5b4af87581ebf811314b2462b39307`
+**Global name:** `bbugyi200.athena.sase-16h.4` · **State:** dismissed · **Source run:** `run-ad5b4af87581ebf811314b2462b39307`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-16h
 
@@ -12,7 +12,7 @@
 - Epic: [sase-16h](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16h/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-22T20:22:54.894027+00:00
+- Timing: 2026-09-22T16:22:54.894027 → 2026-09-22T17:04:33.593523
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7fad339`](https://github.com/sase-org/sase/commit/7fad3394ca04d16d0331755ffd70b64c3fc362b8) | feat(tool): refuse raw agent runs of guarded check recipes | 2026-09-22 17:02:40 EDT |
+| — | `7fad339` | feat(tool): refuse raw agent runs of guarded check recipes | 2026-09-22 17:02:40 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-16h.1](../bbugyi200.athena.sase-16h.1/README.md) | sase-16h hood | active |
-| [sase-16h.2](../bbugyi200.athena.sase-16h.2/README.md) | sase-16h hood | active |
-| [sase-16h.3](../bbugyi200.athena.sase-16h.3/README.md) | sase-16h hood | active |
-| [sase-16h.5](../bbugyi200.athena.sase-16h.5/README.md) | sase-16h hood | active |
-| [sase-16h.6](../bbugyi200.athena.sase-16h.6/README.md) | sase-16h hood | active |
-| [sase-16h.land](../bbugyi200.athena.sase-16h.land/README.md) | sase-16h hood | active |
+| [sase-16h.1](../bbugyi200.athena.sase-16h.1/README.md) | sase-16h hood | dismissed |
+| [sase-16h.2](../bbugyi200.athena.sase-16h.2/README.md) | sase-16h hood | dismissed |
+| [sase-16h.3](../bbugyi200.athena.sase-16h.3/README.md) | sase-16h hood | dismissed |
+| [sase-16h.5](../bbugyi200.athena.sase-16h.5/README.md) | sase-16h hood | dismissed |
+| [sase-16h.6](../bbugyi200.athena.sase-16h.6/README.md) | sase-16h hood | dismissed |
+| [sase-16h.land](../bbugyi200.athena.sase-16h.land/README.md) | sase-16h hood | dismissed |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`505934a`](https://github.com/sase-org/sase/commit/505934a639b318b995bab43a98925e67150e4705) | feat(axe): re-create managed workspace with reclone on preparation failure | 2026-09-22 17:02:04 EDT |
+| — | `505934a` | feat(axe): re-create managed workspace with reclone on preparation failure | 2026-09-22 17:02:04 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-16e.4](../bbugyi200.athena.sase-16e.4/README.md) | sase-16e hood | completed |
 | [sase-16e.5](../bbugyi200.athena.sase-16e.5/README.md) | sase-16e hood | completed |
 | [sase-16e.6](../bbugyi200.athena.sase-16e.6/README.md) | sase-16e hood | completed |
-| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | waiting |
+| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | dismissed |

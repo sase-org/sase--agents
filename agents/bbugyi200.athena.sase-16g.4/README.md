@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`716c77d`](https://github.com/sase-org/sase/commit/716c77dce324cb2ef6f36990efaf8a0a416c397b) | feat(service): honor give\_up with parked records and loud failure notifications | 2026-09-22 15:37:16 EDT |
+| — | `716c77d` | feat(service): honor give\_up with parked records and loud failure notifications | 2026-09-22 15:37:16 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-16g.3](../bbugyi200.athena.sase-16g.3/README.md) | sase-16g hood | completed |
 | [sase-16g.5](../bbugyi200.athena.sase-16g.5/README.md) | sase-16g hood | completed |
 | [sase-16g.6](../bbugyi200.athena.sase-16g.6/README.md) | sase-16g hood | completed |
-| [sase-16g.land](../bbugyi200.athena.sase-16g.land/README.md) | sase-16g hood | active |
+| [sase-16g.land](../bbugyi200.athena.sase-16g.land/README.md) | sase-16g hood | dismissed |

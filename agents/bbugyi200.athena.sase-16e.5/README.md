@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ce730ca`](https://github.com/sase-org/sase/commit/ce730ca1b38f63fb90daaf8584625aad2dc20f69) | feat(beads): bead sync rollback and wedged-clone healing | 2026-09-22 13:04:23 EDT |
+| — | `ce730ca` | feat(beads): bead sync rollback and wedged-clone healing | 2026-09-22 13:04:23 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-16e.3](../bbugyi200.athena.sase-16e.3/README.md) | sase-16e hood | completed |
 | [sase-16e.4](../bbugyi200.athena.sase-16e.4/README.md) | sase-16e hood | completed |
 | [sase-16e.6](../bbugyi200.athena.sase-16e.6/README.md) | sase-16e hood | completed |
-| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | waiting |
+| [sase-16e.land](../bbugyi200.athena.sase-16e.land/README.md) | sase-16e hood | dismissed |

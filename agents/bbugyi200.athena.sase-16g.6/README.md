@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2ce4998`](https://github.com/sase-org/sase/commit/2ce4998e9a164ccc6230df199e4e6b8ee4e7d809) | feat(service): make captured service environment context-safe | 2026-09-22 13:21:52 EDT |
+| — | `2ce4998` | feat(service): make captured service environment context-safe | 2026-09-22 13:21:52 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-16g.3](../bbugyi200.athena.sase-16g.3/README.md) | sase-16g hood | completed |
 | [sase-16g.4](../bbugyi200.athena.sase-16g.4/README.md) | sase-16g hood | completed |
 | [sase-16g.5](../bbugyi200.athena.sase-16g.5/README.md) | sase-16g hood | completed |
-| [sase-16g.land](../bbugyi200.athena.sase-16g.land/README.md) | sase-16g hood | active |
+| [sase-16g.land](../bbugyi200.athena.sase-16g.land/README.md) | sase-16g hood | dismissed |
