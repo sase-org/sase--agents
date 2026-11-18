@@ -1495,11 +1495,11 @@
 | [sase-11t](hoods/sase-11t/README.md) | 14 | 4 | completed 1, dismissed 13 |
 | [sase-11y](hoods/sase-11y/README.md) | 103 | 17 | active 2, completed 10, dismissed 85, failed 6 |
 | [sase-123](hoods/sase-123/README.md) | 28 | 4 | dismissed 28 |
-| [sase-124](hoods/sase-124/README.md) | 46 | 9 | active 7, completed 1, dismissed 37, failed 1 |
-| [sase-126](hoods/sase-126/README.md) | 43 | 3 | active 41, completed 1, failed 1 |
-| [sase-127](hoods/sase-127/README.md) | 11 | 2 | active 10, completed 1 |
+| [sase-124](hoods/sase-124/README.md) | 46 | 9 | completed 1, dismissed 44, failed 1 |
+| [sase-126](hoods/sase-126/README.md) | 43 | 3 | completed 1, dismissed 41, failed 1 |
+| [sase-127](hoods/sase-127/README.md) | 11 | 2 | completed 1, dismissed 10 |
 | [sase-12o](hoods/sase-12o/README.md) | 3 | 0 | completed 3 |
-| [sase-12p](hoods/sase-12p/README.md) | 8 | 2 | active 8 |
+| [sase-12p](hoods/sase-12p/README.md) | 8 | 2 | dismissed 8 |
 | [sase-12w](hoods/sase-12w/README.md) | 33 | 7 | active 26, completed 5, failed 2 |
 | [sase-12z](hoods/sase-12z/README.md) | 32 | 3 | active 32 |
 | [sase-132](hoods/sase-132/README.md) | 14 | 2 | active 9, completed 2, failed 3 |
