@@ -22,11 +22,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`11b9c56`](https://github.com/sase-org/sase/commit/11b9c56b0d8f5ee36afca4cb11773438a9feb4a1) | fix(plan): emit session= coder prompts and settle concurrent gate answers | 2026-09-24 22:25:53 EDT |
+| — | `11b9c56` | fix(plan): emit session= coder prompts and settle concurrent gate answers | 2026-09-24 22:25:53 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-18i.1](../bbugyi200.athena.sase-18i.1/README.md) | sase-18i hood | active |
-| [sase-18i.2](../bbugyi200.athena.sase-18i.2/README.md) | sase-18i hood | active |
+| [sase-18i.1](../bbugyi200.athena.sase-18i.1/README.md) | sase-18i hood | dismissed |
+| [sase-18i.2](../bbugyi200.athena.sase-18i.2/README.md) | sase-18i hood | dismissed |
