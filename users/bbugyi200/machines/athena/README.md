@@ -1620,7 +1620,7 @@
 | [sase-1t3](hoods/sase-1t3/README.md) | 135 | 21 | active 5, completed 99, failed 25, waiting 6 |
 | [sase-1tb](hoods/sase-1tb/README.md) | 26 | 6 | completed 21, failed 5 |
 | [sase-1tc](hoods/sase-1tc/README.md) | 59 | 9 | active 3, completed 37, failed 13, waiting 6 |
-| [sase-1tj](hoods/sase-1tj/README.md) | 4 | 0 | active 1, completed 1, waiting 2 |
+| [sase-1tj](hoods/sase-1tj/README.md) | 4 | 0 | completed 2, waiting 2 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |
 | [sase-46](hoods/sase-46/README.md) | 6 | 0 | completed 6 |
