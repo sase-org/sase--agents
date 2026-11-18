@@ -2,15 +2,17 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.11.1.land
 
-Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 2 · Bead: [sase-1t3.11.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.11.1.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 3 · Bead: [sase-1t3.11.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.11.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["sase-1t3.11.1.land--gate [completed]"]
-  n1["sase-1t3.11.1.land--plan [active]"]
+  n1["sase-1t3.11.1.land--code [active]"]
   n0 --> n1
+  n2["sase-1t3.11.1.land--plan [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -18,6 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1t3.11.1.land--gate | completed | opus / claude | 2026-11-18T07:48:15.321128+00:00 → 2026-11-18T07:48:23.887878+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.11.1.land--gate/chat.md) |
+| <a id="member-code"></a>code | sase-1t3.11.1.land--code | active | gpt-6-luna / codex | 2026-11-18T07:49:19.004919+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | sase-1t3.11.1.land--plan | active | opus / claude | 2026-11-18T07:32:47.999791+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.11.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.11.1.land--plan/chat.md) |
 
 ## Neighbors
