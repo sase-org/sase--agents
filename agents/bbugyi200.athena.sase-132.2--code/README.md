@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`67614ee`](https://github.com/sase-org/sase/commit/67614ee2b01e6f2e6e2b8c6fe9fd21e4394b0956) | feat(fleet): consume owner presentation facts | 2026-09-18 20:08:07 EDT |
+| — | `67614ee` | feat(fleet): consume owner presentation facts | 2026-09-18 20:08:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-132.1](../bbugyi200.athena.sase-132.1/README.md) | sase-132 hood | active |
-| [sase-132.3](../../sessions/bbugyi200.athena.sase-132.3.md) (session · 5) | sase-132 hood | active 2, completed 1, failed 2 |
-| [sase-132.4](../bbugyi200.athena.sase-132.4/README.md) | sase-132 hood | active |
-| [sase-132.5](../bbugyi200.athena.sase-132.5/README.md) | sase-132 hood | active |
-| [sase-132.6](../bbugyi200.athena.sase-132.6/README.md) | sase-132 hood | active |
-| [sase-132.7](../bbugyi200.athena.sase-132.7/README.md) | sase-132 hood | active |
-| [sase-132.land](../bbugyi200.athena.sase-132.land/README.md) | sase-132 hood | active |
+| [sase-132.1](../bbugyi200.athena.sase-132.1/README.md) | sase-132 hood | dismissed |
+| [sase-132.3](../../sessions/bbugyi200.athena.sase-132.3.md) (session · 5) | sase-132 hood | completed 1, dismissed 2, failed 2 |
+| [sase-132.4](../bbugyi200.athena.sase-132.4/README.md) | sase-132 hood | dismissed |
+| [sase-132.5](../bbugyi200.athena.sase-132.5/README.md) | sase-132 hood | dismissed |
+| [sase-132.6](../bbugyi200.athena.sase-132.6/README.md) | sase-132 hood | dismissed |
+| [sase-132.7](../bbugyi200.athena.sase-132.7/README.md) | sase-132 hood | dismissed |
+| [sase-132.land](../bbugyi200.athena.sase-132.land/README.md) | sase-132 hood | dismissed |

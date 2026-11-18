@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-12w](../../users/bbugyi200/machines/athena/hoods/sase-12w/README.md) / [sase-12w.land](../../sessions/bbugyi200.athena.sase-12w.land.md) / sase-12w.land--gate
 
-**Global name:** `bbugyi200.athena.sase-12w.land--gate` · **State:** active · **Source run:** `run-25c548e5423d6dcc5a7d3577b5946257`
+**Global name:** `bbugyi200.athena.sase-12w.land--gate` · **State:** dismissed · **Source run:** `run-25c548e5423d6dcc5a7d3577b5946257`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-12w
 
@@ -11,7 +11,7 @@
 - Bead: [sase-12w](https://github.com/sase-org/sase--beads/blob/main/pages/sase-12w/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-09-18T17:55:07.646532+00:00
+- Timing: 2026-09-18T13:55:07.646532 → 2026-09-18T13:56:16
 - Commits: 0
 
 ## Files
@@ -22,15 +22,15 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-12w.1](../../sessions/bbugyi200.athena.sase-12w.1.md) (session · 3) | sase-12w hood | active 2, completed 1 |
-| [sase-12w.2](../../sessions/bbugyi200.athena.sase-12w.2.md) (session · 3) | sase-12w hood | active 2, completed 1 |
-| [sase-12w.3](../bbugyi200.athena.sase-12w.3/README.md) | sase-12w hood | active |
-| [sase-12w.4](../bbugyi200.athena.sase-12w.4/README.md) | sase-12w hood | active |
-| [sase-12w.5](../bbugyi200.athena.sase-12w.5/README.md) | sase-12w hood | active |
-| [sase-12w.6.1](../../sessions/bbugyi200.athena.sase-12w.6.1.md) (session · 7) | sase-12w hood | active 5, completed 1, failed 1 |
-| [sase-12w.6.2](../../sessions/bbugyi200.athena.sase-12w.6.2.md) (session · 3) | sase-12w hood | active 2, completed 1 |
-| [sase-12w.6.3](../../sessions/bbugyi200.athena.sase-12w.6.3.md) (session · 5) | sase-12w hood | active 3, completed 1, failed 1 |
-| [sase-12w.6.4.1](../bbugyi200.athena.sase-12w.6.4.1/README.md) | sase-12w hood | active |
-| [sase-12w.6.4.2](../bbugyi200.athena.sase-12w.6.4.2/README.md) | sase-12w hood | active |
-| [sase-12w.6.4.land](../bbugyi200.athena.sase-12w.6.4.land/README.md) | sase-12w hood | active |
-| [sase-12w.6.land](../../sessions/bbugyi200.athena.sase-12w.6.land.md) (session · 3) | sase-12w hood | active 3 |
+| [sase-12w.1](../../sessions/bbugyi200.athena.sase-12w.1.md) (session · 3) | sase-12w hood | completed 1, dismissed 2 |
+| [sase-12w.2](../../sessions/bbugyi200.athena.sase-12w.2.md) (session · 3) | sase-12w hood | completed 1, dismissed 2 |
+| [sase-12w.3](../bbugyi200.athena.sase-12w.3/README.md) | sase-12w hood | dismissed |
+| [sase-12w.4](../bbugyi200.athena.sase-12w.4/README.md) | sase-12w hood | dismissed |
+| [sase-12w.5](../bbugyi200.athena.sase-12w.5/README.md) | sase-12w hood | dismissed |
+| [sase-12w.6.1](../../sessions/bbugyi200.athena.sase-12w.6.1.md) (session · 7) | sase-12w hood | completed 1, dismissed 5, failed 1 |
+| [sase-12w.6.2](../../sessions/bbugyi200.athena.sase-12w.6.2.md) (session · 3) | sase-12w hood | completed 1, dismissed 2 |
+| [sase-12w.6.3](../../sessions/bbugyi200.athena.sase-12w.6.3.md) (session · 5) | sase-12w hood | completed 1, dismissed 3, failed 1 |
+| [sase-12w.6.4.1](../bbugyi200.athena.sase-12w.6.4.1/README.md) | sase-12w hood | dismissed |
+| [sase-12w.6.4.2](../bbugyi200.athena.sase-12w.6.4.2/README.md) | sase-12w hood | dismissed |
+| [sase-12w.6.4.land](../bbugyi200.athena.sase-12w.6.4.land/README.md) | sase-12w hood | dismissed |
+| [sase-12w.6.land](../../sessions/bbugyi200.athena.sase-12w.6.land.md) (session · 3) | sase-12w hood | dismissed 3 |

@@ -23,21 +23,21 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`67614ee`](https://github.com/sase-org/sase/commit/67614ee2b01e6f2e6e2b8c6fe9fd21e4394b0956) | feat(fleet): consume owner presentation facts | 2026-09-18 20:08:07 EDT |
+| — | `67614ee` | feat(fleet): consume owner presentation facts | 2026-09-18 20:08:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-133.1](../../sessions/bbugyi200.athena.sase-133.1.md) (session · 3) | sase-133 hood | active 2, completed 1 |
+| [sase-133.1](../../sessions/bbugyi200.athena.sase-133.1.md) (session · 3) | sase-133 hood | active 1, completed 1, dismissed 1 |
 | [sase-133.3](../../sessions/bbugyi200.athena.sase-133.3.md) (session · 3) | sase-133 hood | active 2, completed 1 |
-| [sase-133.4](../bbugyi200.athena.sase-133.4/README.md) | sase-133 hood | active |
-| [sase-133.5.1](../../sessions/bbugyi200.athena.sase-133.5.1.md) (session · 7) | sase-133 hood | active 3, completed 1, failed 3 |
+| [sase-133.4](../bbugyi200.athena.sase-133.4/README.md) | sase-133 hood | dismissed |
+| [sase-133.5.1](../../sessions/bbugyi200.athena.sase-133.5.1.md) (session · 7) | sase-133 hood | active 1, completed 1, dismissed 2, failed 3 |
 | [sase-133.5.2](../../sessions/bbugyi200.athena.sase-133.5.2.md) (session · 3) | sase-133 hood | active 1, completed 1, failed 1 |
 | [sase-133.5.2](../bbugyi200.athena.sase-133.5.2/README.md) | sase-133 hood | waiting |
-| [sase-133.5.2.f0](../../sessions/bbugyi200.athena.sase-133.5.2.f0.md) (session · 2) | sase-133 hood | active 2 |
-| [sase-133.5.3](../../sessions/bbugyi200.athena.sase-133.5.3.md) (session · 5) | sase-133 hood | active 3, failed 2 |
-| [sase-133.5.4](../bbugyi200.athena.sase-133.5.4/README.md) | sase-133 hood | active |
-| [sase-133.5.land](../bbugyi200.athena.sase-133.5.land/README.md) | sase-133 hood | active |
-| [sase-133.land](../../sessions/bbugyi200.athena.sase-133.land.md) (session · 3) | sase-133 hood | active 3 |
+| [sase-133.5.2.f0](../../sessions/bbugyi200.athena.sase-133.5.2.f0.md) (session · 2) | sase-133 hood | active 1, dismissed 1 |
+| [sase-133.5.3](../../sessions/bbugyi200.athena.sase-133.5.3.md) (session · 5) | sase-133 hood | active 1, dismissed 2, failed 2 |
+| [sase-133.5.4](../bbugyi200.athena.sase-133.5.4/README.md) | sase-133 hood | dismissed |
+| [sase-133.5.land](../bbugyi200.athena.sase-133.5.land/README.md) | sase-133 hood | dismissed |
+| [sase-133.land](../../sessions/bbugyi200.athena.sase-133.land.md) (session · 3) | sase-133 hood | active 2, dismissed 1 |
 | [sase-133.land](../bbugyi200.athena.sase-133.land/README.md) | sase-133 hood | waiting |

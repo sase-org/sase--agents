@@ -23,10 +23,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-132.1](../bbugyi200.athena.sase-132.1/README.md) | sase-132 hood | active |
-| [sase-132.3](../../sessions/bbugyi200.athena.sase-132.3.md) (session · 5) | sase-132 hood | active 2, completed 1, failed 2 |
-| [sase-132.4](../bbugyi200.athena.sase-132.4/README.md) | sase-132 hood | active |
-| [sase-132.5](../bbugyi200.athena.sase-132.5/README.md) | sase-132 hood | active |
-| [sase-132.6](../bbugyi200.athena.sase-132.6/README.md) | sase-132 hood | active |
-| [sase-132.7](../bbugyi200.athena.sase-132.7/README.md) | sase-132 hood | active |
-| [sase-132.land](../bbugyi200.athena.sase-132.land/README.md) | sase-132 hood | active |
+| [sase-132.1](../bbugyi200.athena.sase-132.1/README.md) | sase-132 hood | dismissed |
+| [sase-132.3](../../sessions/bbugyi200.athena.sase-132.3.md) (session · 5) | sase-132 hood | completed 1, dismissed 2, failed 2 |
+| [sase-132.4](../bbugyi200.athena.sase-132.4/README.md) | sase-132 hood | dismissed |
+| [sase-132.5](../bbugyi200.athena.sase-132.5/README.md) | sase-132 hood | dismissed |
+| [sase-132.6](../bbugyi200.athena.sase-132.6/README.md) | sase-132 hood | dismissed |
+| [sase-132.7](../bbugyi200.athena.sase-132.7/README.md) | sase-132 hood | dismissed |
+| [sase-132.land](../bbugyi200.athena.sase-132.land/README.md) | sase-132 hood | dismissed |

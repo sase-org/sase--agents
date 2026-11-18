@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-12z](../../users/bbugyi200/machines/athena/hoods/sase-12z/README.md) / sase-12z.5.1
 
-**Global name:** `bbugyi200.athena.sase-12z.5.1` · **State:** active · **Source run:** `run-fe001b37039a823e4b10ad0521af0f28`
+**Global name:** `bbugyi200.athena.sase-12z.5.1` · **State:** dismissed · **Source run:** `run-fe001b37039a823e4b10ad0521af0f28`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-12z
 
@@ -11,7 +11,7 @@
 - Bead: [sase-12z.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-12z/sase-12z.5.1.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-19T00:36:29.992658+00:00
+- Timing: 2026-09-18T20:36:29.992658 → 2026-09-18T21:22:35.518210
 - Commits: [1](#commits)
 
 ## Files
@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3538713`](https://github.com/sase-org/sase/commit/3538713c0d285883a67abb415c07aa00a02ab5a7) | docs(finalizer): require screenshot golden commits | 2026-09-18 21:19:00 EDT |
+| — | `3538713` | docs(finalizer): require screenshot golden commits | 2026-09-18 21:19:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-12z.5.2](../bbugyi200.athena.sase-12z.5.2/README.md) | sase-12z.5 hood | active |
-| [sase-12z.5.land](../bbugyi200.athena.sase-12z.5.land/README.md) | sase-12z.5 hood | active |
-| [sase-12z.1](../bbugyi200.athena.sase-12z.1/README.md) | sase-12z hood | active |
-| [sase-12z.2](../../sessions/bbugyi200.athena.sase-12z.2.md) (session · 9) | sase-12z hood | active 9 |
-| [sase-12z.3](../bbugyi200.athena.sase-12z.3/README.md) | sase-12z hood | active |
-| [sase-12z.4](../../sessions/bbugyi200.athena.sase-12z.4.md) (session · 13) | sase-12z hood | active 13 |
-| [sase-12z.land](../../sessions/bbugyi200.athena.sase-12z.land.md) (session · 5) | sase-12z hood | active 5 |
+| [sase-12z.5.2](../bbugyi200.athena.sase-12z.5.2/README.md) | sase-12z.5 hood | dismissed |
+| [sase-12z.5.land](../bbugyi200.athena.sase-12z.5.land/README.md) | sase-12z.5 hood | dismissed |
+| [sase-12z.1](../bbugyi200.athena.sase-12z.1/README.md) | sase-12z hood | dismissed |
+| [sase-12z.2](../../sessions/bbugyi200.athena.sase-12z.2.md) (session · 9) | sase-12z hood | dismissed 9 |
+| [sase-12z.3](../bbugyi200.athena.sase-12z.3/README.md) | sase-12z hood | dismissed |
+| [sase-12z.4](../../sessions/bbugyi200.athena.sase-12z.4.md) (session · 13) | sase-12z hood | dismissed 13 |
+| [sase-12z.land](../../sessions/bbugyi200.athena.sase-12z.land.md) (session · 5) | sase-12z hood | dismissed 5 |

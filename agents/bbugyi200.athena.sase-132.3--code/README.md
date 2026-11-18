@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`13a8efb`](https://github.com/sase-org/sase/commit/13a8efbb4ad4adc7a1694238b27a2613cf78553f) | feat(tui): project Agents-list index rows before JSON hydration | 2026-09-18 18:06:08 EDT |
+| — | `13a8efb` | feat(tui): project Agents-list index rows before JSON hydration | 2026-09-18 18:06:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-132.1](../bbugyi200.athena.sase-132.1/README.md) | sase-132 hood | active |
-| [sase-132.2](../../sessions/bbugyi200.athena.sase-132.2.md) (session · 3) | sase-132 hood | active 1, completed 1, failed 1 |
-| [sase-132.4](../bbugyi200.athena.sase-132.4/README.md) | sase-132 hood | active |
-| [sase-132.5](../bbugyi200.athena.sase-132.5/README.md) | sase-132 hood | active |
-| [sase-132.6](../bbugyi200.athena.sase-132.6/README.md) | sase-132 hood | active |
-| [sase-132.7](../bbugyi200.athena.sase-132.7/README.md) | sase-132 hood | active |
-| [sase-132.land](../bbugyi200.athena.sase-132.land/README.md) | sase-132 hood | active |
+| [sase-132.1](../bbugyi200.athena.sase-132.1/README.md) | sase-132 hood | dismissed |
+| [sase-132.2](../../sessions/bbugyi200.athena.sase-132.2.md) (session · 3) | sase-132 hood | completed 1, dismissed 1, failed 1 |
+| [sase-132.4](../bbugyi200.athena.sase-132.4/README.md) | sase-132 hood | dismissed |
+| [sase-132.5](../bbugyi200.athena.sase-132.5/README.md) | sase-132 hood | dismissed |
+| [sase-132.6](../bbugyi200.athena.sase-132.6/README.md) | sase-132 hood | dismissed |
+| [sase-132.7](../bbugyi200.athena.sase-132.7/README.md) | sase-132 hood | dismissed |
+| [sase-132.land](../bbugyi200.athena.sase-132.land/README.md) | sase-132 hood | dismissed |
