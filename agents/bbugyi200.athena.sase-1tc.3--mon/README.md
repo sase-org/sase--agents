@@ -25,7 +25,7 @@
 |---|---|---|
 | [sase-1tc.3.1.1](../bbugyi200.athena.sase-1tc.3.1.1/README.md) | descendant | completed |
 | [sase-1tc.3.1.2](../../sessions/bbugyi200.athena.sase-1tc.3.1.2.md) (session · 18) | descendant | completed 10, failed 8 |
-| [sase-1tc.3.1.3](../bbugyi200.athena.sase-1tc.3.1.3/README.md) | descendant | waiting |
+| [sase-1tc.3.1.3](../../sessions/bbugyi200.athena.sase-1tc.3.1.3.md) (session · 8) | descendant | completed 5, failed 3 |
 | [sase-1tc.3.1.4](../bbugyi200.athena.sase-1tc.3.1.4/README.md) | descendant | waiting |
 | [sase-1tc.3.1.5](../bbugyi200.athena.sase-1tc.3.1.5/README.md) | descendant | waiting |
 | [sase-1tc.3.1.land](../bbugyi200.athena.sase-1tc.3.1.land/README.md) | descendant | waiting |
