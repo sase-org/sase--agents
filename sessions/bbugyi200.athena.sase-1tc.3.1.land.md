@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1tc` · Members: 3 · Bead: [sase-1tc.3
 ```mermaid
 flowchart TD
   n0["sase-1tc.3.1.land--gate [completed]"]
-  n1["sase-1tc.3.1.land--mon [active]"]
+  n1["sase-1tc.3.1.land--mon [completed]"]
   n0 --> n1
   n2["sase-1tc.3.1.land--plan [active]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1tc.3.1.land--gate | completed | opus / claude | 2026-11-18T12:18:30.435780+00:00 → 2026-11-18T12:18:56.123235+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.land--gate/chat.md) |
-| <a id="member-mon"></a>mon | sase-1tc.3.1.land--mon | active | opus / claude | 2026-11-18T12:18:54.619347+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1tc.3.1.land--mon | completed | opus / claude | 2026-11-18T12:18:54.619347+00:00 → 2026-11-18T12:23:48.359905+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.land--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1tc.3.1.land--plan | active | opus / claude | 2026-11-18T11:59:37.677542+00:00 → 2026-11-18T12:19:05.374761+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tc.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.land--plan/chat.md) |
 
 ## Neighbors
@@ -33,6 +33,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1tc.3.1.3](bbugyi200.athena.sase-1tc.3.1.3.md) (session · 8) | sase-1tc.3.1 hood | completed 5, failed 3 |
 | [sase-1tc.3.1.4](bbugyi200.athena.sase-1tc.3.1.4.md) (session · 3) | sase-1tc.3.1 hood | completed 3 |
 | [sase-1tc.3.1.5](../agents/bbugyi200.athena.sase-1tc.3.1.5/README.md) | sase-1tc.3.1 hood | completed |
+| [sase-1tc.3.1.6.1](../agents/bbugyi200.athena.sase-1tc.3.1.6.1/README.md) | sase-1tc.3.1 hood | completed |
+| [sase-1tc.3.1.6.2](../agents/bbugyi200.athena.sase-1tc.3.1.6.2/README.md) | sase-1tc.3.1 hood | active |
+| [sase-1tc.3.1.6.3](../agents/bbugyi200.athena.sase-1tc.3.1.6.3/README.md) | sase-1tc.3.1 hood | waiting |
+| [sase-1tc.3.1.6.4](../agents/bbugyi200.athena.sase-1tc.3.1.6.4/README.md) | sase-1tc.3.1 hood | waiting |
+| [sase-1tc.3.1.6.land](../agents/bbugyi200.athena.sase-1tc.3.1.6.land/README.md) | sase-1tc.3.1 hood | waiting |
 | [sase-1tc.1](bbugyi200.athena.sase-1tc.1.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.1.1.1](../agents/bbugyi200.athena.sase-1tc.1.1.1/README.md) | sase-1tc hood | completed |
 | [sase-1tc.1.1.2](bbugyi200.athena.sase-1tc.1.1.2.md) (session · 3) | sase-1tc hood | completed 2, failed 1 |
