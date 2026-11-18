@@ -1,6 +1,6 @@
+%auto
 %id(viewer_video_frames.0, clan=toobig-a1)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/ace/tui/graphics/_viewer_video_frames.py` file into multiple files? Use your best
 %wait:toobig-a1.viewer_loop_video.0

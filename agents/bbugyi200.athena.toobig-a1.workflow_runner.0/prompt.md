@@ -1,6 +1,6 @@
+%auto
 %id(workflow_runner.0, clan=toobig-a1)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/macro/workflow_runner.py` file into multiple files? Use your best
 %wait:toobig-a1.viewer_video_frames.0
