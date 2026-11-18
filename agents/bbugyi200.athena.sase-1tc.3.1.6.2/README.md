@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tc](../../users/bbugyi200/machines/athena/hoods/sase-1tc/README.md) / sase-1tc.3.1.6.2
 
-**Global name:** `bbugyi200.athena.sase-1tc.3.1.6.2` · **State:** active · **Source run:** `run-c684066ff06edc5613b64367437bbaba`
+**Global name:** `bbugyi200.athena.sase-1tc.3.1.6.2` · **State:** completed · **Source run:** `run-c684066ff06edc5613b64367437bbaba`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tc
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tc.3.1.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tc/sase-1tc.3.1.6.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-18T13:02:28.020818+00:00
-- Commits: 0
+- Timing: 2026-11-18T13:02:28.020818+00:00 → 2026-11-18T17:12:35.616770+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4e5c1b9`](https://github.com/sase-org/sase/commit/4e5c1b9730229036faa5c1eef1029457ef36f14d) | fix(axe-chop): preserve batch claims across cancellation | 2026-11-18 12:08:43 EST |
 
 ## Neighbors
 
