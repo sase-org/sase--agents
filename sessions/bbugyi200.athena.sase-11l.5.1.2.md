@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-11l` · Members: 3 · Bead: [sase-11l.5
 
 ```mermaid
 flowchart TD
-  n0["sase-11l.5.1.2--plan [active]"]
-  n1["sase-11l.5.1.2--gate [active]"]
+  n0["sase-11l.5.1.2--plan [dismissed]"]
+  n1["sase-11l.5.1.2--gate [dismissed]"]
   n0 --> n1
-  n2["sase-11l.5.1.2--mon [active]"]
+  n2["sase-11l.5.1.2--mon [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,39 +19,39 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-11l.5.1.2--plan | active | opus / claude | 2026-09-16T19:47:37.288069+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11l.5.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11l.5.1.2--plan/chat.md) |
-| <a id="member-gate"></a>gate | sase-11l.5.1.2--gate | active | opus / claude | 2026-09-16T20:00:19.159347+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11l.5.1.2--gate/chat.md) |
-| <a id="member-mon"></a>mon | sase-11l.5.1.2--mon | active | opus / claude | 2026-09-16T20:01:29.681854+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11l.5.1.2--mon/chat.md) |
+| <a id="member-plan"></a>plan | sase-11l.5.1.2--plan | dismissed | opus / claude | 2026-09-16T15:47:37.288069 → 2026-09-16T16:01:46.111637 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11l.5.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11l.5.1.2--plan/chat.md) |
+| <a id="member-gate"></a>gate | sase-11l.5.1.2--gate | dismissed | opus / claude | 2026-09-16T16:00:19.159347 → 2026-09-16T16:01:30 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11l.5.1.2--gate/chat.md) |
+| <a id="member-mon"></a>mon | sase-11l.5.1.2--mon | dismissed | opus / claude | 2026-09-16T16:01:29.681854 → 2026-09-16T16:04:08.454085 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11l.5.1.2--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-11l.5](../agents/bbugyi200.athena.sase-11l.5/README.md) | ancestor | dismissed |
-| [sase-11l.5.1.2.1.1](../agents/bbugyi200.athena.sase-11l.5.1.2.1.1/README.md) | descendant | active |
-| [sase-11l.5.1.2.1.2](../agents/bbugyi200.athena.sase-11l.5.1.2.1.2/README.md) | descendant | active |
-| [sase-11l.5.1.2.1.3](../agents/bbugyi200.athena.sase-11l.5.1.2.1.3/README.md) | descendant | active |
-| [sase-11l.5.1.2.1.4](../agents/bbugyi200.athena.sase-11l.5.1.2.1.4/README.md) | descendant | active |
-| [sase-11l.5.1.2.1.land](bbugyi200.athena.sase-11l.5.1.2.1.land.md) (session · 3) | descendant | active 2, completed 1 |
+| [sase-11l.5.1.2.1.1](../agents/bbugyi200.athena.sase-11l.5.1.2.1.1/README.md) | descendant | dismissed |
+| [sase-11l.5.1.2.1.2](../agents/bbugyi200.athena.sase-11l.5.1.2.1.2/README.md) | descendant | dismissed |
+| [sase-11l.5.1.2.1.3](../agents/bbugyi200.athena.sase-11l.5.1.2.1.3/README.md) | descendant | dismissed |
+| [sase-11l.5.1.2.1.4](../agents/bbugyi200.athena.sase-11l.5.1.2.1.4/README.md) | descendant | dismissed |
+| [sase-11l.5.1.2.1.land](bbugyi200.athena.sase-11l.5.1.2.1.land.md) (session · 3) | descendant | completed 1, dismissed 2 |
 | [sase-11l.5.1.2.1.land](../agents/bbugyi200.athena.sase-11l.5.1.2.1.land/README.md) | descendant | waiting |
-| [sase-11l.5.1.1](bbugyi200.athena.sase-11l.5.1.1.md) (session · 3) | sase-11l.5.1 hood | active 2, completed 1 |
-| [sase-11l.5.1.3](bbugyi200.athena.sase-11l.5.1.3.md) (session · 3) | sase-11l.5.1 hood | active 3 |
-| [sase-11l.5.1.land](bbugyi200.athena.sase-11l.5.1.land.md) (session · 3) | sase-11l.5.1 hood | active 3 |
-| [sase-11l.1](bbugyi200.athena.sase-11l.1.md) (session · 3) | sase-11l hood | active 2, completed 1 |
-| [sase-11l.10](bbugyi200.athena.sase-11l.10.md) (session · 11) | sase-11l hood | active 1, completed 4, failed 6 |
-| [sase-11l.11.1](bbugyi200.athena.sase-11l.11.1.md) (session · 7) | sase-11l hood | active 7 |
-| [sase-11l.11.2](bbugyi200.athena.sase-11l.11.2.md) (session · 5) | sase-11l hood | active 5 |
-| [sase-11l.11.3](bbugyi200.athena.sase-11l.11.3.md) (session · 3) | sase-11l hood | active 3 |
-| [sase-11l.11.4](bbugyi200.athena.sase-11l.11.4.md) (session · 5) | sase-11l hood | active 5 |
-| [sase-11l.11.5.1](bbugyi200.athena.sase-11l.11.5.1.md) (session · 7) | sase-11l hood | active 7 |
-| [sase-11l.11.5.land](bbugyi200.athena.sase-11l.11.5.land.md) (session · 3) | sase-11l hood | active 3 |
-| [sase-11l.11.5.land.f0](bbugyi200.athena.sase-11l.11.5.land.f0.md) (session · 3) | sase-11l hood | active 1, completed 1, failed 1 |
-| [sase-11l.11.land](bbugyi200.athena.sase-11l.11.land.md) (session · 3) | sase-11l hood | active 3 |
-| [sase-11l.2](../agents/bbugyi200.athena.sase-11l.2/README.md) | sase-11l hood | active |
-| [sase-11l.3](bbugyi200.athena.sase-11l.3.md) (session · 3) | sase-11l hood | active 2, completed 1 |
-| [sase-11l.4](bbugyi200.athena.sase-11l.4.md) (session · 3) | sase-11l hood | active 2, completed 1 |
-| [sase-11l.6](../agents/bbugyi200.athena.sase-11l.6/README.md) | sase-11l hood | active |
-| [sase-11l.7](../agents/bbugyi200.athena.sase-11l.7/README.md) | sase-11l hood | active |
-| [sase-11l.8](../agents/bbugyi200.athena.sase-11l.8/README.md) | sase-11l hood | active |
-| [sase-11l.9](../agents/bbugyi200.athena.sase-11l.9/README.md) | sase-11l hood | active |
-| [sase-11l.land](bbugyi200.athena.sase-11l.land.md) (session · 3) | sase-11l hood | active 3 |
+| [sase-11l.5.1.1](bbugyi200.athena.sase-11l.5.1.1.md) (session · 3) | sase-11l.5.1 hood | completed 1, dismissed 2 |
+| [sase-11l.5.1.3](bbugyi200.athena.sase-11l.5.1.3.md) (session · 3) | sase-11l.5.1 hood | dismissed 3 |
+| [sase-11l.5.1.land](bbugyi200.athena.sase-11l.5.1.land.md) (session · 3) | sase-11l.5.1 hood | dismissed 3 |
+| [sase-11l.1](bbugyi200.athena.sase-11l.1.md) (session · 3) | sase-11l hood | completed 1, dismissed 2 |
+| [sase-11l.10](bbugyi200.athena.sase-11l.10.md) (session · 11) | sase-11l hood | completed 4, dismissed 1, failed 6 |
+| [sase-11l.11.1](bbugyi200.athena.sase-11l.11.1.md) (session · 7) | sase-11l hood | dismissed 7 |
+| [sase-11l.11.2](bbugyi200.athena.sase-11l.11.2.md) (session · 5) | sase-11l hood | dismissed 5 |
+| [sase-11l.11.3](bbugyi200.athena.sase-11l.11.3.md) (session · 3) | sase-11l hood | dismissed 3 |
+| [sase-11l.11.4](bbugyi200.athena.sase-11l.11.4.md) (session · 5) | sase-11l hood | dismissed 5 |
+| [sase-11l.11.5.1](bbugyi200.athena.sase-11l.11.5.1.md) (session · 7) | sase-11l hood | dismissed 7 |
+| [sase-11l.11.5.land](bbugyi200.athena.sase-11l.11.5.land.md) (session · 3) | sase-11l hood | dismissed 3 |
+| [sase-11l.11.5.land.f0](bbugyi200.athena.sase-11l.11.5.land.f0.md) (session · 3) | sase-11l hood | completed 1, dismissed 1, failed 1 |
+| [sase-11l.11.land](bbugyi200.athena.sase-11l.11.land.md) (session · 3) | sase-11l hood | dismissed 3 |
+| [sase-11l.2](../agents/bbugyi200.athena.sase-11l.2/README.md) | sase-11l hood | dismissed |
+| [sase-11l.3](bbugyi200.athena.sase-11l.3.md) (session · 3) | sase-11l hood | completed 1, dismissed 2 |
+| [sase-11l.4](bbugyi200.athena.sase-11l.4.md) (session · 3) | sase-11l hood | completed 1, dismissed 2 |
+| [sase-11l.6](../agents/bbugyi200.athena.sase-11l.6/README.md) | sase-11l hood | dismissed |
+| [sase-11l.7](../agents/bbugyi200.athena.sase-11l.7/README.md) | sase-11l hood | dismissed |
+| [sase-11l.8](../agents/bbugyi200.athena.sase-11l.8/README.md) | sase-11l hood | dismissed |
+| [sase-11l.9](../agents/bbugyi200.athena.sase-11l.9/README.md) | sase-11l hood | dismissed |
+| [sase-11l.land](bbugyi200.athena.sase-11l.land.md) (session · 3) | sase-11l hood | dismissed 3 |

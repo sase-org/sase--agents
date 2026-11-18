@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`44e697c`](https://github.com/sase-org/sase/commit/44e697c7145dcff1085ebd58c96504ff3c67e952) | feat(agents-sync): publish agent payloads in bounded batches | 2026-09-17 10:56:49 EDT |
+| — | `44e697c` | feat(agents-sync): publish agent payloads in bounded batches | 2026-09-17 10:56:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-11o.2](../bbugyi200.athena.sase-11o.2/README.md) | ancestor | active |
-| [sase-11o.2.f0](../../sessions/bbugyi200.athena.sase-11o.2.f0.md) (session · 4) | sase-11o.2 hood | active 1, completed 1, failed 2 |
-| [sase-11o.1](../bbugyi200.athena.sase-11o.1/README.md) | sase-11o hood | active |
-| [sase-11o.land](../bbugyi200.athena.sase-11o.land/README.md) | sase-11o hood | active |
+| [sase-11o.2](../bbugyi200.athena.sase-11o.2/README.md) | ancestor | dismissed |
+| [sase-11o.2.f0](../../sessions/bbugyi200.athena.sase-11o.2.f0.md) (session · 4) | sase-11o.2 hood | completed 1, dismissed 1, failed 2 |
+| [sase-11o.1](../bbugyi200.athena.sase-11o.1/README.md) | sase-11o hood | dismissed |
+| [sase-11o.land](../bbugyi200.athena.sase-11o.land/README.md) | sase-11o hood | dismissed |

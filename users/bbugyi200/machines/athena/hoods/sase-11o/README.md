@@ -2,15 +2,15 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-11o
 
-**Global hood:** `bbugyi200.athena.sase-11o` · **Runs:** 18 · **Sessions:** 2 · **States:** active 5, completed 6, failed 7
+**Global hood:** `bbugyi200.athena.sase-11o` · **Runs:** 18 · **Sessions:** 2 · **States:** active 1, completed 6, dismissed 4, failed 7
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-11o.2.f1--mon](../../../../../../sessions/bbugyi200.athena.sase-11o.2.f1.md#member-mon) | failed | gpt-5.5 / codex | 2026-09-17T13:00:26.890437+00:00 → 2026-09-17T13:10:49.746040+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-11o.2.f1--mon/chat.md) |
-| [sase-11o.1](../../../../../../agents/bbugyi200.athena.sase-11o.1/README.md) | active | sonnet / claude | 2026-09-16T14:19:27.337853+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-11o.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-11o.1/prompt.md) |
-| [sase-11o.2](../../../../../../agents/bbugyi200.athena.sase-11o.2/README.md) | active | sonnet / claude | 2026-09-16T16:03:43.089741+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-11o.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-11o.2/prompt.md) |
-| [sase-11o.2.f0--plan](../../../../../../sessions/bbugyi200.athena.sase-11o.2.f0.md#member-plan) | active | gpt-6-astra / codex | 2026-09-16T17:06:52.089664+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-11o.2.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-11o.2.f0--plan/prompt.md) |
-| [sase-11o.land](../../../../../../agents/bbugyi200.athena.sase-11o.land/README.md) | active | opus / claude | 20260920063557 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-11o.land/prompt.md) |
+| [sase-11o.1](../../../../../../agents/bbugyi200.athena.sase-11o.1/README.md) | dismissed | sonnet / claude | 2026-09-16T10:19:27.337853 → 2026-09-16T12:02:18.688937 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-11o.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-11o.1/prompt.md) |
+| [sase-11o.2](../../../../../../agents/bbugyi200.athena.sase-11o.2/README.md) | dismissed | sonnet / claude | 2026-09-16T12:03:43.089741 → 2026-09-16T12:59:17.102405 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-11o.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-11o.2/prompt.md) |
+| [sase-11o.2.f0--plan](../../../../../../sessions/bbugyi200.athena.sase-11o.2.f0.md#member-plan) | dismissed | gpt-6-astra / codex | 2026-09-16T13:06:52.089664 → 2026-09-16T13:14:22.761254 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-11o.2.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-11o.2.f0--plan/prompt.md) |
+| [sase-11o.land](../../../../../../agents/bbugyi200.athena.sase-11o.land/README.md) | dismissed | opus / claude | 2026-09-20T06:35:57 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-11o.land/prompt.md) |
 | [sase-11o.2.f0--mon](../../../../../../sessions/bbugyi200.athena.sase-11o.2.f0.md#member-mon) | failed | gpt-5.5 / codex | 2026-09-16T18:33:38.874922+00:00 → 2026-09-16T19:31:36.336856+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-11o.2.f0--mon/chat.md) |
 | [sase-11o.2.f1--4](../../../../../../sessions/bbugyi200.athena.sase-11o.2.f1.md#member-4) | completed | gpt-5.5 / codex | 2026-09-17T14:48:13.859693+00:00 → 2026-09-17T15:01:40.711976+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-11o.2.f1--4/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-11o.2.f1--4/prompt.md) |
 | [sase-11o.2.f1--3](../../../../../../sessions/bbugyi200.athena.sase-11o.2.f1.md#member-3) | completed | gpt-5.5 / codex | 2026-09-17T14:31:48.294774+00:00 → 2026-09-17T14:36:00.246847+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-11o.2.f1--3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-11o.2.f1--3/prompt.md) |
