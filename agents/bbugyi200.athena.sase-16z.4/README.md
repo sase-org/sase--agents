@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16z](../../users/bbugyi200/machines/athena/hoods/sase-16z/README.md) / sase-16z.4
 
-**Global name:** `bbugyi200.athena.sase-16z.4` · **State:** active · **Source run:** `run-924492b95a475a2721541c950652e4ad`
+**Global name:** `bbugyi200.athena.sase-16z.4` · **State:** dismissed · **Source run:** `run-924492b95a475a2721541c950652e4ad`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-16z
 
@@ -12,7 +12,7 @@
 - Epic: [sase-16z](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16z/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-23T17:23:06.104781+00:00
+- Timing: 2026-09-23T13:23:06.104781 → 2026-09-23T14:04:23.714955
 - Commits: [1](#commits)
 
 ## Files
@@ -23,22 +23,22 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ed8172f`](https://github.com/sase-org/sase/commit/ed8172fdabebbc60bbe29df9473ea899129de4a7) | feat(llm-provider): rate-limit classification and reason-aware attempt plumbing | 2026-09-23 14:00:36 EDT |
+| — | `ed8172f` | feat(llm-provider): rate-limit classification and reason-aware attempt plumbing | 2026-09-23 14:00:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-16z.1](../bbugyi200.athena.sase-16z.1/README.md) | sase-16z hood | active |
-| [sase-16z.2](../bbugyi200.athena.sase-16z.2/README.md) | sase-16z hood | active |
-| [sase-16z.3](../../sessions/bbugyi200.athena.sase-16z.3.md) (session · 9) | sase-16z hood | active 9 |
-| [sase-16z.5](../bbugyi200.athena.sase-16z.5/README.md) | sase-16z hood | active |
-| [sase-16z.6](../bbugyi200.athena.sase-16z.6/README.md) | sase-16z hood | active |
-| [sase-16z.7](../bbugyi200.athena.sase-16z.7/README.md) | sase-16z hood | active |
-| [sase-16z.8](../bbugyi200.athena.sase-16z.8/README.md) | sase-16z hood | active |
-| [sase-16z.9.1](../bbugyi200.athena.sase-16z.9.1/README.md) | sase-16z hood | active |
-| [sase-16z.9.2](../bbugyi200.athena.sase-16z.9.2/README.md) | sase-16z hood | active |
-| [sase-16z.9.3](../bbugyi200.athena.sase-16z.9.3/README.md) | sase-16z hood | active |
-| [sase-16z.9.land](../bbugyi200.athena.sase-16z.9.land/README.md) | sase-16z hood | active |
-| [sase-16z.land](../../sessions/bbugyi200.athena.sase-16z.land.md) (session · 3) | sase-16z hood | active 3 |
+| [sase-16z.1](../bbugyi200.athena.sase-16z.1/README.md) | sase-16z hood | dismissed |
+| [sase-16z.2](../bbugyi200.athena.sase-16z.2/README.md) | sase-16z hood | dismissed |
+| [sase-16z.3](../../sessions/bbugyi200.athena.sase-16z.3.md) (session · 9) | sase-16z hood | dismissed 9 |
+| [sase-16z.5](../bbugyi200.athena.sase-16z.5/README.md) | sase-16z hood | dismissed |
+| [sase-16z.6](../bbugyi200.athena.sase-16z.6/README.md) | sase-16z hood | dismissed |
+| [sase-16z.7](../bbugyi200.athena.sase-16z.7/README.md) | sase-16z hood | dismissed |
+| [sase-16z.8](../bbugyi200.athena.sase-16z.8/README.md) | sase-16z hood | dismissed |
+| [sase-16z.9.1](../bbugyi200.athena.sase-16z.9.1/README.md) | sase-16z hood | dismissed |
+| [sase-16z.9.2](../bbugyi200.athena.sase-16z.9.2/README.md) | sase-16z hood | dismissed |
+| [sase-16z.9.3](../bbugyi200.athena.sase-16z.9.3/README.md) | sase-16z hood | dismissed |
+| [sase-16z.9.land](../bbugyi200.athena.sase-16z.9.land/README.md) | sase-16z hood | dismissed |
+| [sase-16z.land](../../sessions/bbugyi200.athena.sase-16z.land.md) (session · 3) | sase-16z hood | dismissed 3 |
 | [sase-16z.land](../bbugyi200.athena.sase-16z.land/README.md) | sase-16z hood | active |
