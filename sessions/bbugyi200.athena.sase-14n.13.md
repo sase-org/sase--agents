@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-14n` · Members: 3 · Bead: [sase-14n.1
 
 ```mermaid
 flowchart TD
-  n0["sase-14n.13--1 [active]"]
+  n0["sase-14n.13--1 [dismissed]"]
   n1["sase-14n.13--mon [failed]"]
   n0 --> n1
-  n2["sase-14n.13--plan [active]"]
+  n2["sase-14n.13--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,35 +19,35 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-14n.13--1 | active | muse-spark-1.3-contributor / muse | 2026-09-21T00:09:01.656037+00:00 | [1](../agents/bbugyi200.athena.sase-14n.13--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-14n.13--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-14n.13--1/chat.md) |
+| <a id="member-1"></a>1 | sase-14n.13--1 | dismissed | muse-spark-1.3-contributor / muse | 2026-09-20T20:09:01.656037 → 2026-09-20T20:33:02.531965 | [1](../agents/bbugyi200.athena.sase-14n.13--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-14n.13--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-14n.13--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-14n.13--mon | failed | muse-spark-1.3-contributor / muse | 2026-09-20T23:09:25.644397+00:00 → 2026-09-21T00:08:36.237273+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-14n.13--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-14n.13--plan | active | muse-spark-1.3-contributor / muse | 2026-09-20T22:26:23.919335+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-14n.13--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-14n.13--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-14n.13--plan | dismissed | muse-spark-1.3-contributor / muse | 2026-09-20T18:26:23.919335 → 2026-09-20T19:11:11.572624 | 0 | [Prompt](../agents/bbugyi200.athena.sase-14n.13--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-14n.13--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`98bf83a`](https://github.com/sase-org/sase/commit/98bf83a38cc9f51e97465e09faeff47c33d5c865) | feat(notifications): add undismiss transition to recover dismissed live gates | 2026-09-20 20:22:42 EDT |
+| 1 | — | `98bf83a` | feat(notifications): add undismiss transition to recover dismissed live gates | 2026-09-20 20:22:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-14n.1](../agents/bbugyi200.athena.sase-14n.1/README.md) | sase-14n hood | active |
-| [sase-14n.10](../agents/bbugyi200.athena.sase-14n.10/README.md) | sase-14n hood | active |
-| [sase-14n.11](../agents/bbugyi200.athena.sase-14n.11/README.md) | sase-14n hood | active |
-| [sase-14n.12](../agents/bbugyi200.athena.sase-14n.12/README.md) | sase-14n hood | active |
-| [sase-14n.14](bbugyi200.athena.sase-14n.14.md) (session · 5) | sase-14n hood | active 3, failed 2 |
-| [sase-14n.15.1](../agents/bbugyi200.athena.sase-14n.15.1/README.md) | sase-14n hood | active |
-| [sase-14n.15.2](../agents/bbugyi200.athena.sase-14n.15.2/README.md) | sase-14n hood | active |
-| [sase-14n.15.3](../agents/bbugyi200.athena.sase-14n.15.3/README.md) | sase-14n hood | active |
-| [sase-14n.15.land](../agents/bbugyi200.athena.sase-14n.15.land/README.md) | sase-14n hood | active |
-| [sase-14n.2](../agents/bbugyi200.athena.sase-14n.2/README.md) | sase-14n hood | active |
-| [sase-14n.3](bbugyi200.athena.sase-14n.3.md) (session · 3) | sase-14n hood | active 2, failed 1 |
-| [sase-14n.4](../agents/bbugyi200.athena.sase-14n.4/README.md) | sase-14n hood | active |
-| [sase-14n.5](../agents/bbugyi200.athena.sase-14n.5/README.md) | sase-14n hood | active |
-| [sase-14n.6](../agents/bbugyi200.athena.sase-14n.6/README.md) | sase-14n hood | active |
-| [sase-14n.7](../agents/bbugyi200.athena.sase-14n.7/README.md) | sase-14n hood | active |
-| [sase-14n.8](bbugyi200.athena.sase-14n.8.md) (session · 3) | sase-14n hood | active 2, failed 1 |
-| [sase-14n.9](../agents/bbugyi200.athena.sase-14n.9/README.md) | sase-14n hood | active |
-| [sase-14n.land](bbugyi200.athena.sase-14n.land.md) (session · 3) | sase-14n hood | active 2, failed 1 |
+| [sase-14n.1](../agents/bbugyi200.athena.sase-14n.1/README.md) | sase-14n hood | dismissed |
+| [sase-14n.10](../agents/bbugyi200.athena.sase-14n.10/README.md) | sase-14n hood | dismissed |
+| [sase-14n.11](../agents/bbugyi200.athena.sase-14n.11/README.md) | sase-14n hood | dismissed |
+| [sase-14n.12](../agents/bbugyi200.athena.sase-14n.12/README.md) | sase-14n hood | dismissed |
+| [sase-14n.14](bbugyi200.athena.sase-14n.14.md) (session · 5) | sase-14n hood | dismissed 3, failed 2 |
+| [sase-14n.15.1](../agents/bbugyi200.athena.sase-14n.15.1/README.md) | sase-14n hood | dismissed |
+| [sase-14n.15.2](../agents/bbugyi200.athena.sase-14n.15.2/README.md) | sase-14n hood | dismissed |
+| [sase-14n.15.3](../agents/bbugyi200.athena.sase-14n.15.3/README.md) | sase-14n hood | dismissed |
+| [sase-14n.15.land](../agents/bbugyi200.athena.sase-14n.15.land/README.md) | sase-14n hood | dismissed |
+| [sase-14n.2](../agents/bbugyi200.athena.sase-14n.2/README.md) | sase-14n hood | dismissed |
+| [sase-14n.3](bbugyi200.athena.sase-14n.3.md) (session · 3) | sase-14n hood | dismissed 2, failed 1 |
+| [sase-14n.4](../agents/bbugyi200.athena.sase-14n.4/README.md) | sase-14n hood | dismissed |
+| [sase-14n.5](../agents/bbugyi200.athena.sase-14n.5/README.md) | sase-14n hood | dismissed |
+| [sase-14n.6](../agents/bbugyi200.athena.sase-14n.6/README.md) | sase-14n hood | dismissed |
+| [sase-14n.7](../agents/bbugyi200.athena.sase-14n.7/README.md) | sase-14n hood | dismissed |
+| [sase-14n.8](bbugyi200.athena.sase-14n.8.md) (session · 3) | sase-14n hood | dismissed 2, failed 1 |
+| [sase-14n.9](../agents/bbugyi200.athena.sase-14n.9/README.md) | sase-14n hood | dismissed |
+| [sase-14n.land](bbugyi200.athena.sase-14n.land.md) (session · 3) | sase-14n hood | dismissed 2, failed 1 |

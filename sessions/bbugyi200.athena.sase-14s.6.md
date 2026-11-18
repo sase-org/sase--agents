@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-14s` · Members: 3 · Bead: [sase-14s.6
 ```mermaid
 flowchart TD
   n0["sase-14s.6--1 [failed]"]
-  n1["sase-14s.6--plan [active]"]
+  n1["sase-14s.6--plan [dismissed]"]
   n0 --> n1
   n2["sase-14s.6--mon [failed]"]
   n0 --> n2
@@ -20,20 +20,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-14s.6--1 | failed | muse-spark-1.3-contributor / muse | 2026-09-21T05:14:40.017342+00:00 → 2026-09-21T05:26:57.617574+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-14s.6--1/prompt.md) | — |
-| <a id="member-plan"></a>plan | sase-14s.6--plan | active | muse-spark-1.3-contributor / muse | 2026-09-21T04:27:52.496161+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-14s.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-14s.6--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-14s.6--plan | dismissed | muse-spark-1.3-contributor / muse | 2026-09-21T00:27:52.496161 → 2026-09-21T01:15:26.359456 | 0 | [Prompt](../agents/bbugyi200.athena.sase-14s.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-14s.6--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-14s.6--mon | failed | muse-spark-1.3-contributor / muse | 2026-09-21T05:08:31.856204+00:00 → 2026-09-21T05:14:40.533368+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-14s.6--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-14s.1](../agents/bbugyi200.athena.sase-14s.1/README.md) | sase-14s hood | active |
-| [sase-14s.10](../agents/bbugyi200.athena.sase-14s.10/README.md) | sase-14s hood | active |
-| [sase-14s.2](../agents/bbugyi200.athena.sase-14s.2/README.md) | sase-14s hood | active |
-| [sase-14s.3](../agents/bbugyi200.athena.sase-14s.3/README.md) | sase-14s hood | active |
-| [sase-14s.4](../agents/bbugyi200.athena.sase-14s.4/README.md) | sase-14s hood | active |
-| [sase-14s.5](../agents/bbugyi200.athena.sase-14s.5/README.md) | sase-14s hood | active |
-| [sase-14s.7](../agents/bbugyi200.athena.sase-14s.7/README.md) | sase-14s hood | active |
-| [sase-14s.8](../agents/bbugyi200.athena.sase-14s.8/README.md) | sase-14s hood | active |
-| [sase-14s.9](../agents/bbugyi200.athena.sase-14s.9/README.md) | sase-14s hood | active |
-| [sase-14s.land](../agents/bbugyi200.athena.sase-14s.land/README.md) | sase-14s hood | active |
+| [sase-14s.1](../agents/bbugyi200.athena.sase-14s.1/README.md) | sase-14s hood | dismissed |
+| [sase-14s.10](../agents/bbugyi200.athena.sase-14s.10/README.md) | sase-14s hood | dismissed |
+| [sase-14s.2](../agents/bbugyi200.athena.sase-14s.2/README.md) | sase-14s hood | dismissed |
+| [sase-14s.3](../agents/bbugyi200.athena.sase-14s.3/README.md) | sase-14s hood | dismissed |
+| [sase-14s.4](../agents/bbugyi200.athena.sase-14s.4/README.md) | sase-14s hood | dismissed |
+| [sase-14s.5](../agents/bbugyi200.athena.sase-14s.5/README.md) | sase-14s hood | dismissed |
+| [sase-14s.7](../agents/bbugyi200.athena.sase-14s.7/README.md) | sase-14s hood | dismissed |
+| [sase-14s.8](../agents/bbugyi200.athena.sase-14s.8/README.md) | sase-14s hood | dismissed |
+| [sase-14s.9](../agents/bbugyi200.athena.sase-14s.9/README.md) | sase-14s hood | dismissed |
+| [sase-14s.land](../agents/bbugyi200.athena.sase-14s.land/README.md) | sase-14s hood | dismissed |

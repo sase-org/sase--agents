@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-14s](../../users/bbugyi200/machines/athena/hoods/sase-14s/README.md) / sase-14s.5
 
-**Global name:** `bbugyi200.athena.sase-14s.5` · **State:** active · **Source run:** `run-e2d8c6725a9379dc9ad8652ecbe2d7e4`
+**Global name:** `bbugyi200.athena.sase-14s.5` · **State:** dismissed · **Source run:** `run-e2d8c6725a9379dc9ad8652ecbe2d7e4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-14s
 
@@ -12,7 +12,7 @@
 - Epic: [sase-14s](https://github.com/sase-org/sase--beads/blob/main/pages/sase-14s/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-21T03:32:06.065960+00:00
+- Timing: 2026-09-20T23:32:06.065960 → 2026-09-21T00:26:53.992393
 - Commits: 0
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-14s.1](../bbugyi200.athena.sase-14s.1/README.md) | sase-14s hood | active |
-| [sase-14s.10](../bbugyi200.athena.sase-14s.10/README.md) | sase-14s hood | active |
-| [sase-14s.2](../bbugyi200.athena.sase-14s.2/README.md) | sase-14s hood | active |
-| [sase-14s.3](../bbugyi200.athena.sase-14s.3/README.md) | sase-14s hood | active |
-| [sase-14s.4](../bbugyi200.athena.sase-14s.4/README.md) | sase-14s hood | active |
-| [sase-14s.6](../../sessions/bbugyi200.athena.sase-14s.6.md) (session · 3) | sase-14s hood | active 1, failed 2 |
-| [sase-14s.7](../bbugyi200.athena.sase-14s.7/README.md) | sase-14s hood | active |
-| [sase-14s.8](../bbugyi200.athena.sase-14s.8/README.md) | sase-14s hood | active |
-| [sase-14s.9](../bbugyi200.athena.sase-14s.9/README.md) | sase-14s hood | active |
-| [sase-14s.land](../bbugyi200.athena.sase-14s.land/README.md) | sase-14s hood | active |
+| [sase-14s.1](../bbugyi200.athena.sase-14s.1/README.md) | sase-14s hood | dismissed |
+| [sase-14s.10](../bbugyi200.athena.sase-14s.10/README.md) | sase-14s hood | dismissed |
+| [sase-14s.2](../bbugyi200.athena.sase-14s.2/README.md) | sase-14s hood | dismissed |
+| [sase-14s.3](../bbugyi200.athena.sase-14s.3/README.md) | sase-14s hood | dismissed |
+| [sase-14s.4](../bbugyi200.athena.sase-14s.4/README.md) | sase-14s hood | dismissed |
+| [sase-14s.6](../../sessions/bbugyi200.athena.sase-14s.6.md) (session · 3) | sase-14s hood | dismissed 1, failed 2 |
+| [sase-14s.7](../bbugyi200.athena.sase-14s.7/README.md) | sase-14s hood | dismissed |
+| [sase-14s.8](../bbugyi200.athena.sase-14s.8/README.md) | sase-14s hood | dismissed |
+| [sase-14s.9](../bbugyi200.athena.sase-14s.9/README.md) | sase-14s hood | dismissed |
+| [sase-14s.land](../bbugyi200.athena.sase-14s.land/README.md) | sase-14s hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-14s](../../users/bbugyi200/machines/athena/hoods/sase-14s/README.md) / [sase-14s.6](../../sessions/bbugyi200.athena.sase-14s.6.md) / sase-14s.6--plan
 
-**Global name:** `bbugyi200.athena.sase-14s.6--plan` · **State:** active · **Source run:** `run-75284b0a39172623b24326ff9845a9aa`
+**Global name:** `bbugyi200.athena.sase-14s.6--plan` · **State:** dismissed · **Source run:** `run-75284b0a39172623b24326ff9845a9aa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-14s
 
@@ -12,7 +12,7 @@
 - Epic: [sase-14s](https://github.com/sase-org/sase--beads/blob/main/pages/sase-14s/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-21T04:27:52.496161+00:00
+- Timing: 2026-09-21T00:27:52.496161 → 2026-09-21T01:15:26.359456
 - Commits: 0
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-14s.1](../bbugyi200.athena.sase-14s.1/README.md) | sase-14s hood | active |
-| [sase-14s.10](../bbugyi200.athena.sase-14s.10/README.md) | sase-14s hood | active |
-| [sase-14s.2](../bbugyi200.athena.sase-14s.2/README.md) | sase-14s hood | active |
-| [sase-14s.3](../bbugyi200.athena.sase-14s.3/README.md) | sase-14s hood | active |
-| [sase-14s.4](../bbugyi200.athena.sase-14s.4/README.md) | sase-14s hood | active |
-| [sase-14s.5](../bbugyi200.athena.sase-14s.5/README.md) | sase-14s hood | active |
-| [sase-14s.7](../bbugyi200.athena.sase-14s.7/README.md) | sase-14s hood | active |
-| [sase-14s.8](../bbugyi200.athena.sase-14s.8/README.md) | sase-14s hood | active |
-| [sase-14s.9](../bbugyi200.athena.sase-14s.9/README.md) | sase-14s hood | active |
-| [sase-14s.land](../bbugyi200.athena.sase-14s.land/README.md) | sase-14s hood | active |
+| [sase-14s.1](../bbugyi200.athena.sase-14s.1/README.md) | sase-14s hood | dismissed |
+| [sase-14s.10](../bbugyi200.athena.sase-14s.10/README.md) | sase-14s hood | dismissed |
+| [sase-14s.2](../bbugyi200.athena.sase-14s.2/README.md) | sase-14s hood | dismissed |
+| [sase-14s.3](../bbugyi200.athena.sase-14s.3/README.md) | sase-14s hood | dismissed |
+| [sase-14s.4](../bbugyi200.athena.sase-14s.4/README.md) | sase-14s hood | dismissed |
+| [sase-14s.5](../bbugyi200.athena.sase-14s.5/README.md) | sase-14s hood | dismissed |
+| [sase-14s.7](../bbugyi200.athena.sase-14s.7/README.md) | sase-14s hood | dismissed |
+| [sase-14s.8](../bbugyi200.athena.sase-14s.8/README.md) | sase-14s hood | dismissed |
+| [sase-14s.9](../bbugyi200.athena.sase-14s.9/README.md) | sase-14s hood | dismissed |
+| [sase-14s.land](../bbugyi200.athena.sase-14s.land/README.md) | sase-14s hood | dismissed |

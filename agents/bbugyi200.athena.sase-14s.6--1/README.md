@@ -22,13 +22,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-14s.1](../bbugyi200.athena.sase-14s.1/README.md) | sase-14s hood | active |
-| [sase-14s.10](../bbugyi200.athena.sase-14s.10/README.md) | sase-14s hood | active |
-| [sase-14s.2](../bbugyi200.athena.sase-14s.2/README.md) | sase-14s hood | active |
-| [sase-14s.3](../bbugyi200.athena.sase-14s.3/README.md) | sase-14s hood | active |
-| [sase-14s.4](../bbugyi200.athena.sase-14s.4/README.md) | sase-14s hood | active |
-| [sase-14s.5](../bbugyi200.athena.sase-14s.5/README.md) | sase-14s hood | active |
-| [sase-14s.7](../bbugyi200.athena.sase-14s.7/README.md) | sase-14s hood | active |
-| [sase-14s.8](../bbugyi200.athena.sase-14s.8/README.md) | sase-14s hood | active |
-| [sase-14s.9](../bbugyi200.athena.sase-14s.9/README.md) | sase-14s hood | active |
-| [sase-14s.land](../bbugyi200.athena.sase-14s.land/README.md) | sase-14s hood | active |
+| [sase-14s.1](../bbugyi200.athena.sase-14s.1/README.md) | sase-14s hood | dismissed |
+| [sase-14s.10](../bbugyi200.athena.sase-14s.10/README.md) | sase-14s hood | dismissed |
+| [sase-14s.2](../bbugyi200.athena.sase-14s.2/README.md) | sase-14s hood | dismissed |
+| [sase-14s.3](../bbugyi200.athena.sase-14s.3/README.md) | sase-14s hood | dismissed |
+| [sase-14s.4](../bbugyi200.athena.sase-14s.4/README.md) | sase-14s hood | dismissed |
+| [sase-14s.5](../bbugyi200.athena.sase-14s.5/README.md) | sase-14s hood | dismissed |
+| [sase-14s.7](../bbugyi200.athena.sase-14s.7/README.md) | sase-14s hood | dismissed |
+| [sase-14s.8](../bbugyi200.athena.sase-14s.8/README.md) | sase-14s hood | dismissed |
+| [sase-14s.9](../bbugyi200.athena.sase-14s.9/README.md) | sase-14s hood | dismissed |
+| [sase-14s.land](../bbugyi200.athena.sase-14s.land/README.md) | sase-14s hood | dismissed |
