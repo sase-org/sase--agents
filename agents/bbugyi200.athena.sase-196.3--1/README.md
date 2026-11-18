@@ -26,7 +26,7 @@
 | [sase-196.2](../bbugyi200.athena.sase-196.2/README.md) | sase-196 hood | completed |
 | [sase-196.4](../bbugyi200.athena.sase-196.4/README.md) | sase-196 hood | completed |
 | [sase-196.5](../bbugyi200.athena.sase-196.5/README.md) | sase-196 hood | completed |
-| [sase-196.6.1](../bbugyi200.athena.sase-196.6.1/README.md) | sase-196 hood | active |
+| [sase-196.6.1](../bbugyi200.athena.sase-196.6.1/README.md) | sase-196 hood | dismissed |
 | [sase-196.6.2](../bbugyi200.athena.sase-196.6.2/README.md) | sase-196 hood | completed |
-| [sase-196.6.land](../bbugyi200.athena.sase-196.6.land/README.md) | sase-196 hood | waiting |
+| [sase-196.6.land](../bbugyi200.athena.sase-196.6.land/README.md) | sase-196 hood | dismissed |
 | [sase-196.land](../../sessions/bbugyi200.athena.sase-196.land.md) (session · 3) | sase-196 hood | failed 3 |

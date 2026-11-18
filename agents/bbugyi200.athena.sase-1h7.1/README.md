@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`997b9e2`](https://github.com/sase-org/sase/commit/997b9e26ff9b1315e0ab0c386f4ecf8e7052f454) | feat(record): track created epics via locked agent-meta updates | 2026-10-06 21:05:13 EDT |
+| — | `997b9e2` | feat(record): track created epics via locked agent-meta updates | 2026-10-06 21:05:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1h7.10](../../sessions/bbugyi200.athena.sase-1h7.10.md) (session · 3) | sase-1h7 hood | active 1, completed 1, failed 1 |
+| [sase-1h7.10](../../sessions/bbugyi200.athena.sase-1h7.10.md) (session · 3) | sase-1h7 hood | completed 1, dismissed 1, failed 1 |
 | [sase-1h7.2](../bbugyi200.athena.sase-1h7.2/README.md) | sase-1h7 hood | completed |
 | [sase-1h7.3](../../sessions/bbugyi200.athena.sase-1h7.3.md) (session · 3) | sase-1h7 hood | completed 2, failed 1 |
 | [sase-1h7.4](../../sessions/bbugyi200.athena.sase-1h7.4.md) (session · 5) | sase-1h7 hood | completed 3, failed 2 |
@@ -38,4 +38,4 @@
 | [sase-1h7.7](../../sessions/bbugyi200.athena.sase-1h7.7.md) (session · 3) | sase-1h7 hood | completed 2, failed 1 |
 | [sase-1h7.8](../bbugyi200.athena.sase-1h7.8/README.md) | sase-1h7 hood | completed |
 | [sase-1h7.9](../bbugyi200.athena.sase-1h7.9/README.md) | sase-1h7 hood | completed |
-| [sase-1h7.land](../bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | waiting |
+| [sase-1h7.land](../bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | dismissed |

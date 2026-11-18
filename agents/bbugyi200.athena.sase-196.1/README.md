@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f648e88`](https://github.com/sase-org/sase/commit/f648e88e4870bc7024a49d873a1ef08f8382b427) | fix(agents-sync): commit prompt-archive objects with their prompts (sase-196.1) | 2026-09-25 10:22:50 EDT |
+| — | `f648e88` | fix(agents-sync): commit prompt-archive objects with their prompts (sase-196.1) | 2026-09-25 10:22:50 EDT |
 
 ## Neighbors
 
@@ -33,7 +33,7 @@
 | [sase-196.3](../../sessions/bbugyi200.athena.sase-196.3.md) (session · 3) | sase-196 hood | completed 2, failed 1 |
 | [sase-196.4](../bbugyi200.athena.sase-196.4/README.md) | sase-196 hood | completed |
 | [sase-196.5](../bbugyi200.athena.sase-196.5/README.md) | sase-196 hood | completed |
-| [sase-196.6.1](../bbugyi200.athena.sase-196.6.1/README.md) | sase-196 hood | active |
+| [sase-196.6.1](../bbugyi200.athena.sase-196.6.1/README.md) | sase-196 hood | dismissed |
 | [sase-196.6.2](../bbugyi200.athena.sase-196.6.2/README.md) | sase-196 hood | completed |
-| [sase-196.6.land](../bbugyi200.athena.sase-196.6.land/README.md) | sase-196 hood | waiting |
+| [sase-196.6.land](../bbugyi200.athena.sase-196.6.land/README.md) | sase-196 hood | dismissed |
 | [sase-196.land](../../sessions/bbugyi200.athena.sase-196.land.md) (session · 3) | sase-196 hood | failed 3 |

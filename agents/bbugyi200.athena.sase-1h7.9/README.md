@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3df340f`](https://github.com/sase-org/sase/commit/3df340f909add7d326e2901b475e206009dbca06) | feat(agent): record launch provenance, gate caller, and human-text gatherer | 2026-10-07 19:30:04 EDT |
+| — | `3df340f` | feat(agent): record launch provenance, gate caller, and human-text gatherer | 2026-10-07 19:30:04 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1h7.1](../bbugyi200.athena.sase-1h7.1/README.md) | sase-1h7 hood | completed |
-| [sase-1h7.10](../../sessions/bbugyi200.athena.sase-1h7.10.md) (session · 3) | sase-1h7 hood | active 1, completed 1, failed 1 |
+| [sase-1h7.10](../../sessions/bbugyi200.athena.sase-1h7.10.md) (session · 3) | sase-1h7 hood | completed 1, dismissed 1, failed 1 |
 | [sase-1h7.2](../bbugyi200.athena.sase-1h7.2/README.md) | sase-1h7 hood | completed |
 | [sase-1h7.3](../../sessions/bbugyi200.athena.sase-1h7.3.md) (session · 3) | sase-1h7 hood | completed 2, failed 1 |
 | [sase-1h7.4](../../sessions/bbugyi200.athena.sase-1h7.4.md) (session · 5) | sase-1h7 hood | completed 3, failed 2 |
@@ -38,4 +38,4 @@
 | [sase-1h7.6](../bbugyi200.athena.sase-1h7.6/README.md) | sase-1h7 hood | completed |
 | [sase-1h7.7](../../sessions/bbugyi200.athena.sase-1h7.7.md) (session · 3) | sase-1h7 hood | completed 2, failed 1 |
 | [sase-1h7.8](../bbugyi200.athena.sase-1h7.8/README.md) | sase-1h7 hood | completed |
-| [sase-1h7.land](../bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | waiting |
+| [sase-1h7.land](../bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | dismissed |

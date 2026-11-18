@@ -33,14 +33,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`313aa2c`](https://github.com/sase-org/sase/commit/313aa2c9930455835f3c29dd50ff2e279ea6a1f8) | feat(wait): add epic-follow reducer and fact collector (sase-1h7.4) | 2026-10-06 23:29:44 EDT |
+| 1 | — | `313aa2c` | feat(wait): add epic-follow reducer and fact collector (sase-1h7.4) | 2026-10-06 23:29:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1h7.1](../agents/bbugyi200.athena.sase-1h7.1/README.md) | sase-1h7 hood | completed |
-| [sase-1h7.10](bbugyi200.athena.sase-1h7.10.md) (session · 3) | sase-1h7 hood | active 1, completed 1, failed 1 |
+| [sase-1h7.10](bbugyi200.athena.sase-1h7.10.md) (session · 3) | sase-1h7 hood | completed 1, dismissed 1, failed 1 |
 | [sase-1h7.2](../agents/bbugyi200.athena.sase-1h7.2/README.md) | sase-1h7 hood | completed |
 | [sase-1h7.3](bbugyi200.athena.sase-1h7.3.md) (session · 3) | sase-1h7 hood | completed 2, failed 1 |
 | [sase-1h7.5](bbugyi200.athena.sase-1h7.5.md) (session · 9) | sase-1h7 hood | completed 5, failed 4 |
@@ -48,4 +48,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1h7.7](bbugyi200.athena.sase-1h7.7.md) (session · 3) | sase-1h7 hood | completed 2, failed 1 |
 | [sase-1h7.8](../agents/bbugyi200.athena.sase-1h7.8/README.md) | sase-1h7 hood | completed |
 | [sase-1h7.9](../agents/bbugyi200.athena.sase-1h7.9/README.md) | sase-1h7 hood | completed |
-| [sase-1h7.land](../agents/bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | waiting |
+| [sase-1h7.land](../agents/bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | dismissed |

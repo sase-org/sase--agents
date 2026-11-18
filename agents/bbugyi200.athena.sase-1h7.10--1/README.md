@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1h7](../../users/bbugyi200/machines/athena/hoods/sase-1h7/README.md) / [sase-1h7.10](../../sessions/bbugyi200.athena.sase-1h7.10.md) / sase-1h7.10--1
 
-**Global name:** `bbugyi200.athena.sase-1h7.10--1` · **State:** active · **Source run:** `run-0a78e8d5bee24bec9bd853bf15183fb0`
+**Global name:** `bbugyi200.athena.sase-1h7.10--1` · **State:** dismissed · **Source run:** `run-0a78e8d5bee24bec9bd853bf15183fb0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1h7
 
@@ -11,7 +11,7 @@
 - Bead: [sase-1h7.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1h7/sase-1h7.10.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-08T01:38:05.597093+00:00
+- Timing: 2026-10-07T21:38:05.597093 → 2026-10-07T22:10:21.925277
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c7190fb`](https://github.com/sase-org/sase/commit/c7190fb99a93a71e66dee4f0576e5e67760c5050) | feat(wait): default WAIT\_FOR\_EPIC to true with for\_epic=false phase sequencing | 2026-10-07 21:57:40 EDT |
+| — | `c7190fb` | feat(wait): default WAIT\_FOR\_EPIC to true with for\_epic=false phase sequencing | 2026-10-07 21:57:40 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [sase-1h7.7](../../sessions/bbugyi200.athena.sase-1h7.7.md) (session · 3) | sase-1h7 hood | completed 2, failed 1 |
 | [sase-1h7.8](../bbugyi200.athena.sase-1h7.8/README.md) | sase-1h7 hood | completed |
 | [sase-1h7.9](../bbugyi200.athena.sase-1h7.9/README.md) | sase-1h7 hood | completed |
-| [sase-1h7.land](../bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | waiting |
+| [sase-1h7.land](../bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | dismissed |

@@ -32,4 +32,4 @@
 | [sase-1h7.7](../../sessions/bbugyi200.athena.sase-1h7.7.md) (session · 3) | sase-1h7 hood | completed 2, failed 1 |
 | [sase-1h7.8](../bbugyi200.athena.sase-1h7.8/README.md) | sase-1h7 hood | completed |
 | [sase-1h7.9](../bbugyi200.athena.sase-1h7.9/README.md) | sase-1h7 hood | completed |
-| [sase-1h7.land](../bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | waiting |
+| [sase-1h7.land](../bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | dismissed |

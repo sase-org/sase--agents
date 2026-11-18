@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7d14286`](https://github.com/sase-org/sase/commit/7d14286e594de40c34f891d54eccbaacbe19d8d4) | feat(finalizers): guard the raw-submit fallback (sase-196.5) | 2026-09-25 10:33:02 EDT |
+| — | `7d14286` | feat(finalizers): guard the raw-submit fallback (sase-196.5) | 2026-09-25 10:33:02 EDT |
 
 ## Neighbors
 
@@ -33,7 +33,7 @@
 | [sase-196.2](../bbugyi200.athena.sase-196.2/README.md) | sase-196 hood | completed |
 | [sase-196.3](../../sessions/bbugyi200.athena.sase-196.3.md) (session · 3) | sase-196 hood | completed 2, failed 1 |
 | [sase-196.4](../bbugyi200.athena.sase-196.4/README.md) | sase-196 hood | completed |
-| [sase-196.6.1](../bbugyi200.athena.sase-196.6.1/README.md) | sase-196 hood | active |
+| [sase-196.6.1](../bbugyi200.athena.sase-196.6.1/README.md) | sase-196 hood | dismissed |
 | [sase-196.6.2](../bbugyi200.athena.sase-196.6.2/README.md) | sase-196 hood | completed |
-| [sase-196.6.land](../bbugyi200.athena.sase-196.6.land/README.md) | sase-196 hood | waiting |
+| [sase-196.6.land](../bbugyi200.athena.sase-196.6.land/README.md) | sase-196 hood | dismissed |
 | [sase-196.land](../../sessions/bbugyi200.athena.sase-196.land.md) (session · 3) | sase-196 hood | failed 3 |

@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1h7` · Members: 3 · Bead: [sase-1h7.1
 
 ```mermaid
 flowchart TD
-  n0["sase-1h7.10--1 [active]"]
+  n0["sase-1h7.10--1 [dismissed]"]
   n1["sase-1h7.10--mon [failed]"]
   n0 --> n1
   n2["sase-1h7.10--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1h7.10--1 | active | muse-spark-1.3-contributor / muse | 2026-10-08T01:38:05.597093+00:00 | [1](../agents/bbugyi200.athena.sase-1h7.10--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1h7.10--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1h7.10--1 | dismissed | muse-spark-1.3-contributor / muse | 2026-10-07T21:38:05.597093 → 2026-10-07T22:10:21.925277 | [1](../agents/bbugyi200.athena.sase-1h7.10--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1h7.10--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-1h7.10--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-08T00:50:15.386690+00:00 → 2026-10-08T01:35:19.904303+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1h7.10--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1h7.10--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-08T00:15:07.502562+00:00 → 2026-10-08T00:51:07.411195+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1h7.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1h7.10--plan/chat.md) |
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`c7190fb`](https://github.com/sase-org/sase/commit/c7190fb99a93a71e66dee4f0576e5e67760c5050) | feat(wait): default WAIT\_FOR\_EPIC to true with for\_epic=false phase sequencing | 2026-10-07 21:57:40 EDT |
+| 1 | — | `c7190fb` | feat(wait): default WAIT\_FOR\_EPIC to true with for\_epic=false phase sequencing | 2026-10-07 21:57:40 EDT |
 
 ## Neighbors
 
@@ -42,4 +42,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1h7.7](bbugyi200.athena.sase-1h7.7.md) (session · 3) | sase-1h7 hood | completed 2, failed 1 |
 | [sase-1h7.8](../agents/bbugyi200.athena.sase-1h7.8/README.md) | sase-1h7 hood | completed |
 | [sase-1h7.9](../agents/bbugyi200.athena.sase-1h7.9/README.md) | sase-1h7 hood | completed |
-| [sase-1h7.land](../agents/bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | waiting |
+| [sase-1h7.land](../agents/bbugyi200.athena.sase-1h7.land/README.md) | sase-1h7 hood | dismissed |
