@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-17x](../../users/bbugyi200/machines/athena/hoods/sase-17x/README.md) / sase-17x.12
 
-**Global name:** `bbugyi200.athena.sase-17x.12` · **State:** active · **Source run:** `run-59f0b70652a1bb55f53c1a4f4b08eb32`
+**Global name:** `bbugyi200.athena.sase-17x.12` · **State:** dismissed · **Source run:** `run-59f0b70652a1bb55f53c1a4f4b08eb32`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-17x
 
@@ -12,7 +12,7 @@
 - Epic: [sase-17x](https://github.com/sase-org/sase--beads/blob/main/pages/sase-17x/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-24T21:17:17.676622+00:00
+- Timing: 2026-09-24T17:17:17.676622 → 2026-09-24T19:10:01.068971
 - Commits: [1](#commits)
 
 ## Files
@@ -23,20 +23,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c83e3bd`](https://github.com/sase-org/sase/commit/c83e3bd916be309d8ffc9e4bc0b258131ea1d253) | feat(ace): flip command-line and palette keys to colon and semicolon | 2026-09-24 19:06:28 EDT |
+| — | `c83e3bd` | feat(ace): flip command-line and palette keys to colon and semicolon | 2026-09-24 19:06:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-17x.1](../bbugyi200.athena.sase-17x.1/README.md) | sase-17x hood | active |
-| [sase-17x.10](../../sessions/bbugyi200.athena.sase-17x.10.md) (session · 3) | sase-17x hood | active 3 |
-| [sase-17x.11](../bbugyi200.athena.sase-17x.11/README.md) | sase-17x hood | active |
-| [sase-17x.13.1](../bbugyi200.athena.sase-17x.13.1/README.md) | sase-17x hood | active |
+| [sase-17x.1](../bbugyi200.athena.sase-17x.1/README.md) | sase-17x hood | dismissed |
+| [sase-17x.10](../../sessions/bbugyi200.athena.sase-17x.10.md) (session · 3) | sase-17x hood | dismissed 3 |
+| [sase-17x.11](../bbugyi200.athena.sase-17x.11/README.md) | sase-17x hood | dismissed |
+| [sase-17x.13.1](../bbugyi200.athena.sase-17x.13.1/README.md) | sase-17x hood | dismissed |
 | [sase-17x.13.10.1](../../sessions/bbugyi200.athena.sase-17x.13.10.1.md) (session · 3) | sase-17x hood | completed 2, failed 1 |
 | [sase-17x.13.10.2](../../sessions/bbugyi200.athena.sase-17x.13.10.2.md) (session · 3) | sase-17x hood | completed 2, failed 1 |
 | [sase-17x.13.10.3](../bbugyi200.athena.sase-17x.13.10.3/README.md) | sase-17x hood | completed |
-| [sase-17x.13.10.4](../bbugyi200.athena.sase-17x.13.10.4/README.md) | sase-17x hood | active |
+| [sase-17x.13.10.4](../bbugyi200.athena.sase-17x.13.10.4/README.md) | sase-17x hood | dismissed |
 | [sase-17x.13.10.5](../../sessions/bbugyi200.athena.sase-17x.13.10.5.md) (session · 3) | sase-17x hood | completed 2, failed 1 |
 | [sase-17x.13.10.6](../bbugyi200.athena.sase-17x.13.10.6/README.md) | sase-17x hood | waiting |
 | [sase-17x.13.10.land](../bbugyi200.athena.sase-17x.13.10.land/README.md) | sase-17x hood | waiting |
@@ -49,12 +49,12 @@
 | [sase-17x.13.8](../bbugyi200.athena.sase-17x.13.8/README.md) | sase-17x hood | completed |
 | [sase-17x.13.9](../../sessions/bbugyi200.athena.sase-17x.13.9.md) (session · 15) | sase-17x hood | completed 8, failed 7 |
 | [sase-17x.13.land](../../sessions/bbugyi200.athena.sase-17x.13.land.md) (session · 3) | sase-17x hood | failed 3 |
-| [sase-17x.2](../bbugyi200.athena.sase-17x.2/README.md) | sase-17x hood | active |
-| [sase-17x.3](../bbugyi200.athena.sase-17x.3/README.md) | sase-17x hood | active |
-| [sase-17x.4](../bbugyi200.athena.sase-17x.4/README.md) | sase-17x hood | active |
-| [sase-17x.5](../../sessions/bbugyi200.athena.sase-17x.5.md) (session · 3) | sase-17x hood | active 2, completed 1 |
-| [sase-17x.6](../bbugyi200.athena.sase-17x.6/README.md) | sase-17x hood | active |
-| [sase-17x.7](../bbugyi200.athena.sase-17x.7/README.md) | sase-17x hood | active |
-| [sase-17x.8](../bbugyi200.athena.sase-17x.8/README.md) | sase-17x hood | active |
-| [sase-17x.9](../bbugyi200.athena.sase-17x.9/README.md) | sase-17x hood | active |
-| [sase-17x.land](../../sessions/bbugyi200.athena.sase-17x.land.md) (session · 3) | sase-17x hood | active 3 |
+| [sase-17x.2](../bbugyi200.athena.sase-17x.2/README.md) | sase-17x hood | dismissed |
+| [sase-17x.3](../bbugyi200.athena.sase-17x.3/README.md) | sase-17x hood | dismissed |
+| [sase-17x.4](../bbugyi200.athena.sase-17x.4/README.md) | sase-17x hood | dismissed |
+| [sase-17x.5](../../sessions/bbugyi200.athena.sase-17x.5.md) (session · 3) | sase-17x hood | completed 1, dismissed 2 |
+| [sase-17x.6](../bbugyi200.athena.sase-17x.6/README.md) | sase-17x hood | dismissed |
+| [sase-17x.7](../bbugyi200.athena.sase-17x.7/README.md) | sase-17x hood | dismissed |
+| [sase-17x.8](../bbugyi200.athena.sase-17x.8/README.md) | sase-17x hood | dismissed |
+| [sase-17x.9](../bbugyi200.athena.sase-17x.9/README.md) | sase-17x hood | dismissed |
+| [sase-17x.land](../../sessions/bbugyi200.athena.sase-17x.land.md) (session · 3) | sase-17x hood | dismissed 3 |

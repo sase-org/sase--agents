@@ -27,11 +27,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-17x.13.1](../agents/bbugyi200.athena.sase-17x.13.1/README.md) | sase-17x.13 hood | active |
+| [sase-17x.13.1](../agents/bbugyi200.athena.sase-17x.13.1/README.md) | sase-17x.13 hood | dismissed |
 | [sase-17x.13.10.1](bbugyi200.athena.sase-17x.13.10.1.md) (session · 3) | sase-17x.13 hood | completed 2, failed 1 |
 | [sase-17x.13.10.2](bbugyi200.athena.sase-17x.13.10.2.md) (session · 3) | sase-17x.13 hood | completed 2, failed 1 |
 | [sase-17x.13.10.3](../agents/bbugyi200.athena.sase-17x.13.10.3/README.md) | sase-17x.13 hood | completed |
-| [sase-17x.13.10.4](../agents/bbugyi200.athena.sase-17x.13.10.4/README.md) | sase-17x.13 hood | active |
+| [sase-17x.13.10.4](../agents/bbugyi200.athena.sase-17x.13.10.4/README.md) | sase-17x.13 hood | dismissed |
 | [sase-17x.13.10.5](bbugyi200.athena.sase-17x.13.10.5.md) (session · 3) | sase-17x.13 hood | completed 2, failed 1 |
 | [sase-17x.13.10.6](../agents/bbugyi200.athena.sase-17x.13.10.6/README.md) | sase-17x.13 hood | waiting |
 | [sase-17x.13.10.land](../agents/bbugyi200.athena.sase-17x.13.10.land/README.md) | sase-17x.13 hood | waiting |
@@ -43,16 +43,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-17x.13.7](../agents/bbugyi200.athena.sase-17x.13.7/README.md) | sase-17x.13 hood | completed |
 | [sase-17x.13.8](../agents/bbugyi200.athena.sase-17x.13.8/README.md) | sase-17x.13 hood | completed |
 | [sase-17x.13.9](bbugyi200.athena.sase-17x.13.9.md) (session · 15) | sase-17x.13 hood | completed 8, failed 7 |
-| [sase-17x.1](../agents/bbugyi200.athena.sase-17x.1/README.md) | sase-17x hood | active |
-| [sase-17x.10](bbugyi200.athena.sase-17x.10.md) (session · 3) | sase-17x hood | active 3 |
-| [sase-17x.11](../agents/bbugyi200.athena.sase-17x.11/README.md) | sase-17x hood | active |
-| [sase-17x.12](../agents/bbugyi200.athena.sase-17x.12/README.md) | sase-17x hood | active |
-| [sase-17x.2](../agents/bbugyi200.athena.sase-17x.2/README.md) | sase-17x hood | active |
-| [sase-17x.3](../agents/bbugyi200.athena.sase-17x.3/README.md) | sase-17x hood | active |
-| [sase-17x.4](../agents/bbugyi200.athena.sase-17x.4/README.md) | sase-17x hood | active |
-| [sase-17x.5](bbugyi200.athena.sase-17x.5.md) (session · 3) | sase-17x hood | active 2, completed 1 |
-| [sase-17x.6](../agents/bbugyi200.athena.sase-17x.6/README.md) | sase-17x hood | active |
-| [sase-17x.7](../agents/bbugyi200.athena.sase-17x.7/README.md) | sase-17x hood | active |
-| [sase-17x.8](../agents/bbugyi200.athena.sase-17x.8/README.md) | sase-17x hood | active |
-| [sase-17x.9](../agents/bbugyi200.athena.sase-17x.9/README.md) | sase-17x hood | active |
-| [sase-17x.land](bbugyi200.athena.sase-17x.land.md) (session · 3) | sase-17x hood | active 3 |
+| [sase-17x.1](../agents/bbugyi200.athena.sase-17x.1/README.md) | sase-17x hood | dismissed |
+| [sase-17x.10](bbugyi200.athena.sase-17x.10.md) (session · 3) | sase-17x hood | dismissed 3 |
+| [sase-17x.11](../agents/bbugyi200.athena.sase-17x.11/README.md) | sase-17x hood | dismissed |
+| [sase-17x.12](../agents/bbugyi200.athena.sase-17x.12/README.md) | sase-17x hood | dismissed |
+| [sase-17x.2](../agents/bbugyi200.athena.sase-17x.2/README.md) | sase-17x hood | dismissed |
+| [sase-17x.3](../agents/bbugyi200.athena.sase-17x.3/README.md) | sase-17x hood | dismissed |
+| [sase-17x.4](../agents/bbugyi200.athena.sase-17x.4/README.md) | sase-17x hood | dismissed |
+| [sase-17x.5](bbugyi200.athena.sase-17x.5.md) (session · 3) | sase-17x hood | completed 1, dismissed 2 |
+| [sase-17x.6](../agents/bbugyi200.athena.sase-17x.6/README.md) | sase-17x hood | dismissed |
+| [sase-17x.7](../agents/bbugyi200.athena.sase-17x.7/README.md) | sase-17x hood | dismissed |
+| [sase-17x.8](../agents/bbugyi200.athena.sase-17x.8/README.md) | sase-17x hood | dismissed |
+| [sase-17x.9](../agents/bbugyi200.athena.sase-17x.9/README.md) | sase-17x hood | dismissed |
+| [sase-17x.land](bbugyi200.athena.sase-17x.land.md) (session · 3) | sase-17x hood | dismissed 3 |

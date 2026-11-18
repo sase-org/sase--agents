@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-18d](../../users/bbugyi200/machines/athena/hoods/sase-18d/README.md) / sase-18d.6
 
-**Global name:** `bbugyi200.athena.sase-18d.6` · **State:** active · **Source run:** `run-f3d53297a0c7688079c2f02e6e0a5208`
+**Global name:** `bbugyi200.athena.sase-18d.6` · **State:** dismissed · **Source run:** `run-f3d53297a0c7688079c2f02e6e0a5208`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-18d
 
@@ -12,7 +12,7 @@
 - Epic: [sase-18d](https://github.com/sase-org/sase--beads/blob/main/pages/sase-18d/README.md)
 - Model: gpt-5.6-terra
 - Provider: codex
-- Timing: 2026-09-25T01:32:14.618618+00:00
+- Timing: 2026-09-24T21:32:14.618618 → 2026-09-24T21:51:19.963829
 - Commits: 0
 
 ## Files
@@ -23,12 +23,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-18d.1](../bbugyi200.athena.sase-18d.1/README.md) | sase-18d hood | active |
-| [sase-18d.2](../bbugyi200.athena.sase-18d.2/README.md) | sase-18d hood | active |
-| [sase-18d.3](../bbugyi200.athena.sase-18d.3/README.md) | sase-18d hood | active |
-| [sase-18d.4](../bbugyi200.athena.sase-18d.4/README.md) | sase-18d hood | active |
-| [sase-18d.5](../bbugyi200.athena.sase-18d.5/README.md) | sase-18d hood | active |
-| [sase-18d.7.1](../bbugyi200.athena.sase-18d.7.1/README.md) | sase-18d hood | active |
-| [sase-18d.7.2](../../sessions/bbugyi200.athena.sase-18d.7.2.md) (session · 3) | sase-18d hood | active 3 |
-| [sase-18d.7.land](../bbugyi200.athena.sase-18d.7.land/README.md) | sase-18d hood | active |
-| [sase-18d.land](../../sessions/bbugyi200.athena.sase-18d.land.md) (session · 3) | sase-18d hood | active 3 |
+| [sase-18d.1](../bbugyi200.athena.sase-18d.1/README.md) | sase-18d hood | dismissed |
+| [sase-18d.2](../bbugyi200.athena.sase-18d.2/README.md) | sase-18d hood | dismissed |
+| [sase-18d.3](../bbugyi200.athena.sase-18d.3/README.md) | sase-18d hood | dismissed |
+| [sase-18d.4](../bbugyi200.athena.sase-18d.4/README.md) | sase-18d hood | dismissed |
+| [sase-18d.5](../bbugyi200.athena.sase-18d.5/README.md) | sase-18d hood | dismissed |
+| [sase-18d.7.1](../bbugyi200.athena.sase-18d.7.1/README.md) | sase-18d hood | dismissed |
+| [sase-18d.7.2](../../sessions/bbugyi200.athena.sase-18d.7.2.md) (session · 3) | sase-18d hood | dismissed 3 |
+| [sase-18d.7.land](../bbugyi200.athena.sase-18d.7.land/README.md) | sase-18d hood | dismissed |
+| [sase-18d.land](../../sessions/bbugyi200.athena.sase-18d.land.md) (session · 3) | sase-18d hood | dismissed 3 |

@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-17x` · Members: 3 · Bead: [sase-17x.1
 
 ```mermaid
 flowchart TD
-  n0["sase-17x.10--1 [active]"]
-  n1["sase-17x.10--mon [active]"]
+  n0["sase-17x.10--1 [dismissed]"]
+  n1["sase-17x.10--mon [dismissed]"]
   n0 --> n1
-  n2["sase-17x.10--plan [active]"]
+  n2["sase-17x.10--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,28 +19,28 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-17x.10--1 | active | muse-spark-1.3-contributor / muse | 2026-09-24T20:22:10.722435+00:00 | [1](../agents/bbugyi200.athena.sase-17x.10--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-17x.10--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17x.10--1/chat.md) |
-| <a id="member-mon"></a>mon | sase-17x.10--mon | active | muse-spark-1.3-contributor / muse | 2026-09-24T20:15:33.558744+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17x.10--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-17x.10--plan | active | muse-spark-1.3-contributor / muse | 2026-09-24T19:45:03.819766+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17x.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17x.10--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-17x.10--1 | dismissed | muse-spark-1.3-contributor / muse | 2026-09-24T16:22:10.722435 → 2026-09-24T17:06:47.030764 | [1](../agents/bbugyi200.athena.sase-17x.10--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-17x.10--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17x.10--1/chat.md) |
+| <a id="member-mon"></a>mon | sase-17x.10--mon | dismissed | muse-spark-1.3-contributor / muse | 2026-09-24T16:15:33.558744 → 2026-09-24T16:20:42.960651 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17x.10--mon/chat.md) |
+| <a id="member-plan"></a>plan | sase-17x.10--plan | dismissed | muse-spark-1.3-contributor / muse | 2026-09-24T15:45:03.819766 → 2026-09-24T16:15:56.248475 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17x.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17x.10--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`c03c717`](https://github.com/sase-org/sase/commit/c03c717daebb74852c9c1f329e7aabd866cc2741) | feat(ace): command-line completion extras for sase-17x.10 | 2026-09-24 16:57:28 EDT |
+| 1 | — | `c03c717` | feat(ace): command-line completion extras for sase-17x.10 | 2026-09-24 16:57:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-17x.1](../agents/bbugyi200.athena.sase-17x.1/README.md) | sase-17x hood | active |
-| [sase-17x.11](../agents/bbugyi200.athena.sase-17x.11/README.md) | sase-17x hood | active |
-| [sase-17x.12](../agents/bbugyi200.athena.sase-17x.12/README.md) | sase-17x hood | active |
-| [sase-17x.13.1](../agents/bbugyi200.athena.sase-17x.13.1/README.md) | sase-17x hood | active |
+| [sase-17x.1](../agents/bbugyi200.athena.sase-17x.1/README.md) | sase-17x hood | dismissed |
+| [sase-17x.11](../agents/bbugyi200.athena.sase-17x.11/README.md) | sase-17x hood | dismissed |
+| [sase-17x.12](../agents/bbugyi200.athena.sase-17x.12/README.md) | sase-17x hood | dismissed |
+| [sase-17x.13.1](../agents/bbugyi200.athena.sase-17x.13.1/README.md) | sase-17x hood | dismissed |
 | [sase-17x.13.10.1](bbugyi200.athena.sase-17x.13.10.1.md) (session · 3) | sase-17x hood | completed 2, failed 1 |
 | [sase-17x.13.10.2](bbugyi200.athena.sase-17x.13.10.2.md) (session · 3) | sase-17x hood | completed 2, failed 1 |
 | [sase-17x.13.10.3](../agents/bbugyi200.athena.sase-17x.13.10.3/README.md) | sase-17x hood | completed |
-| [sase-17x.13.10.4](../agents/bbugyi200.athena.sase-17x.13.10.4/README.md) | sase-17x hood | active |
+| [sase-17x.13.10.4](../agents/bbugyi200.athena.sase-17x.13.10.4/README.md) | sase-17x hood | dismissed |
 | [sase-17x.13.10.5](bbugyi200.athena.sase-17x.13.10.5.md) (session · 3) | sase-17x hood | completed 2, failed 1 |
 | [sase-17x.13.10.6](../agents/bbugyi200.athena.sase-17x.13.10.6/README.md) | sase-17x hood | waiting |
 | [sase-17x.13.10.land](../agents/bbugyi200.athena.sase-17x.13.10.land/README.md) | sase-17x hood | waiting |
@@ -53,12 +53,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-17x.13.8](../agents/bbugyi200.athena.sase-17x.13.8/README.md) | sase-17x hood | completed |
 | [sase-17x.13.9](bbugyi200.athena.sase-17x.13.9.md) (session · 15) | sase-17x hood | completed 8, failed 7 |
 | [sase-17x.13.land](bbugyi200.athena.sase-17x.13.land.md) (session · 3) | sase-17x hood | failed 3 |
-| [sase-17x.2](../agents/bbugyi200.athena.sase-17x.2/README.md) | sase-17x hood | active |
-| [sase-17x.3](../agents/bbugyi200.athena.sase-17x.3/README.md) | sase-17x hood | active |
-| [sase-17x.4](../agents/bbugyi200.athena.sase-17x.4/README.md) | sase-17x hood | active |
-| [sase-17x.5](bbugyi200.athena.sase-17x.5.md) (session · 3) | sase-17x hood | active 2, completed 1 |
-| [sase-17x.6](../agents/bbugyi200.athena.sase-17x.6/README.md) | sase-17x hood | active |
-| [sase-17x.7](../agents/bbugyi200.athena.sase-17x.7/README.md) | sase-17x hood | active |
-| [sase-17x.8](../agents/bbugyi200.athena.sase-17x.8/README.md) | sase-17x hood | active |
-| [sase-17x.9](../agents/bbugyi200.athena.sase-17x.9/README.md) | sase-17x hood | active |
-| [sase-17x.land](bbugyi200.athena.sase-17x.land.md) (session · 3) | sase-17x hood | active 3 |
+| [sase-17x.2](../agents/bbugyi200.athena.sase-17x.2/README.md) | sase-17x hood | dismissed |
+| [sase-17x.3](../agents/bbugyi200.athena.sase-17x.3/README.md) | sase-17x hood | dismissed |
+| [sase-17x.4](../agents/bbugyi200.athena.sase-17x.4/README.md) | sase-17x hood | dismissed |
+| [sase-17x.5](bbugyi200.athena.sase-17x.5.md) (session · 3) | sase-17x hood | completed 1, dismissed 2 |
+| [sase-17x.6](../agents/bbugyi200.athena.sase-17x.6/README.md) | sase-17x hood | dismissed |
+| [sase-17x.7](../agents/bbugyi200.athena.sase-17x.7/README.md) | sase-17x hood | dismissed |
+| [sase-17x.8](../agents/bbugyi200.athena.sase-17x.8/README.md) | sase-17x hood | dismissed |
+| [sase-17x.9](../agents/bbugyi200.athena.sase-17x.9/README.md) | sase-17x hood | dismissed |
+| [sase-17x.land](bbugyi200.athena.sase-17x.land.md) (session · 3) | sase-17x hood | dismissed 3 |
