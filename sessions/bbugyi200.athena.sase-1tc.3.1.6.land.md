@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-1tc` · Members: 3 · Bead: [sase-1tc.3
 
 ```mermaid
 flowchart TD
-  n0["sase-1tc.3.1.6.land--plan [active]"]
-  n1["sase-1tc.3.1.6.land--code [active]"]
+  n0["sase-1tc.3.1.6.land--plan [completed]"]
+  n1["sase-1tc.3.1.6.land--code [completed]"]
   n0 --> n1
   n2["sase-1tc.3.1.6.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1tc.3.1.6.land--plan | active | gpt-6-astra / codex | 2026-11-18T20:29:35.734544+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tc.3.1.6.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.6.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-1tc.3.1.6.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-18T21:12:14.556272+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-1tc.3.1.6.land--plan | completed | gpt-6-astra / codex | 2026-11-18T20:29:35.734544+00:00 → 2026-11-18T22:18:03.749037+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tc.3.1.6.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.6.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1tc.3.1.6.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-18T21:12:14.556272+00:00 → 2026-11-18T22:18:03.749037+00:00 | [1](../agents/bbugyi200.athena.sase-1tc.3.1.6.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.6.land--code/chat.md) |
 | <a id="member-gate"></a>gate | sase-1tc.3.1.6.land--gate | completed | gpt-6-astra / codex | 2026-11-18T21:11:19.944616+00:00 → 2026-11-18T21:11:31.093316+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.6.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`d3fcb19`](https://github.com/sase-org/sase/commit/d3fcb19562816378011aa3ca0c3ff7b5f1f693ee) | fix(axe): finish chop recovery safety and nested landing closeout | 2026-11-18 17:15:37 EST |
 
 ## Variables
 

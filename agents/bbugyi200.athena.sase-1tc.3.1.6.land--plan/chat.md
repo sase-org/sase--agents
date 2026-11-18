@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1tc.3.1.6.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1tc_3_1_6_land__plan-261118_072226.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1tc_3_1_6_land__code-261118_072226.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/chop_recovery_closeout.md
 
 
