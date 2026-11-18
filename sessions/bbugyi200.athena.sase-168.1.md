@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-168` · Members: 3 · Bead: [sase-168.1
 
 ```mermaid
 flowchart TD
-  n0["sase-168.1--1 [active]"]
-  n1["sase-168.1--plan [active]"]
+  n0["sase-168.1--1 [dismissed]"]
+  n1["sase-168.1--plan [dismissed]"]
   n0 --> n1
-  n2["sase-168.1--mon [active]"]
+  n2["sase-168.1--mon [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,20 +19,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-168.1--1 | active | muse-spark-1.3-contributor / muse | 2026-09-22T14:45:51.101111+00:00 | [1](../agents/bbugyi200.athena.sase-168.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-168.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-168.1--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-168.1--plan | active | muse-spark-1.3-contributor / muse | 2026-09-22T14:08:19.415324+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-168.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-168.1--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-168.1--mon | active | muse-spark-1.3-contributor / muse | 2026-09-22T14:31:26.458264+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-168.1--mon/chat.md) |
+| <a id="member-1"></a>1 | sase-168.1--1 | dismissed | muse-spark-1.3-contributor / muse | 2026-09-22T10:45:51.101111 → 2026-09-22T10:55:05.977663 | [1](../agents/bbugyi200.athena.sase-168.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-168.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-168.1--1/chat.md) |
+| <a id="member-plan"></a>plan | sase-168.1--plan | dismissed | muse-spark-1.3-contributor / muse | 2026-09-22T10:08:19.415324 → 2026-09-22T10:31:47.620511 | 0 | [Prompt](../agents/bbugyi200.athena.sase-168.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-168.1--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-168.1--mon | dismissed | muse-spark-1.3-contributor / muse | 2026-09-22T10:31:26.458264 → 2026-09-22T10:44:33.556789 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-168.1--mon/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`54d19be`](https://github.com/sase-org/sase/commit/54d19bee61104cd15265ffcb0b2b89855e509a0e) | fix(dispatch): honor local dismissal in remote-attention reconciler | 2026-09-22 10:51:24 EDT |
+| 1 | — | `54d19be` | fix(dispatch): honor local dismissal in remote-attention reconciler | 2026-09-22 10:51:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-168.2](../agents/bbugyi200.athena.sase-168.2/README.md) | sase-168 hood | active |
-| [sase-168.3](../agents/bbugyi200.athena.sase-168.3/README.md) | sase-168 hood | active |
-| [sase-168.land](../agents/bbugyi200.athena.sase-168.land/README.md) | sase-168 hood | active |
+| [sase-168.2](../agents/bbugyi200.athena.sase-168.2/README.md) | sase-168 hood | dismissed |
+| [sase-168.3](../agents/bbugyi200.athena.sase-168.3/README.md) | sase-168 hood | dismissed |
+| [sase-168.land](../agents/bbugyi200.athena.sase-168.land/README.md) | sase-168 hood | dismissed |

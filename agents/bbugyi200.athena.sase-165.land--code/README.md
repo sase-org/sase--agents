@@ -22,11 +22,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-165.1](../bbugyi200.athena.sase-165.1/README.md) | sase-165 hood | active |
-| [sase-165.2](../bbugyi200.athena.sase-165.2/README.md) | sase-165 hood | active |
-| [sase-165.3](../bbugyi200.athena.sase-165.3/README.md) | sase-165 hood | active |
-| [sase-165.4](../bbugyi200.athena.sase-165.4/README.md) | sase-165 hood | active |
-| [sase-165.5](../bbugyi200.athena.sase-165.5/README.md) | sase-165 hood | active |
-| [sase-165.6](../../sessions/bbugyi200.athena.sase-165.6.md) (session · 3) | sase-165 hood | active 3 |
-| [sase-165.6.f0](../../sessions/bbugyi200.athena.sase-165.6.f0.md) (session · 3) | sase-165 hood | active 1, completed 1, failed 1 |
-| [sase-165.7](../../sessions/bbugyi200.athena.sase-165.7.md) (session · 3) | sase-165 hood | active 3 |
+| [sase-165.1](../bbugyi200.athena.sase-165.1/README.md) | sase-165 hood | dismissed |
+| [sase-165.2](../bbugyi200.athena.sase-165.2/README.md) | sase-165 hood | dismissed |
+| [sase-165.3](../bbugyi200.athena.sase-165.3/README.md) | sase-165 hood | dismissed |
+| [sase-165.4](../bbugyi200.athena.sase-165.4/README.md) | sase-165 hood | dismissed |
+| [sase-165.5](../bbugyi200.athena.sase-165.5/README.md) | sase-165 hood | dismissed |
+| [sase-165.6](../../sessions/bbugyi200.athena.sase-165.6.md) (session · 3) | sase-165 hood | dismissed 3 |
+| [sase-165.6.f0](../../sessions/bbugyi200.athena.sase-165.6.f0.md) (session · 3) | sase-165 hood | completed 1, dismissed 1, failed 1 |
+| [sase-165.7](../../sessions/bbugyi200.athena.sase-165.7.md) (session · 3) | sase-165 hood | dismissed 3 |

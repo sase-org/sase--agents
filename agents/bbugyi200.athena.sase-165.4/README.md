@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-165](../../users/bbugyi200/machines/athena/hoods/sase-165/README.md) / sase-165.4
 
-**Global name:** `bbugyi200.athena.sase-165.4` · **State:** active · **Source run:** `run-ddcc2b04e6be02956d814b38e6d48c6d`
+**Global name:** `bbugyi200.athena.sase-165.4` · **State:** dismissed · **Source run:** `run-ddcc2b04e6be02956d814b38e6d48c6d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-165
 
@@ -12,7 +12,7 @@
 - Epic: [sase-165](https://github.com/sase-org/sase--beads/blob/main/pages/sase-165/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-22T13:12:52.886375+00:00
+- Timing: 2026-09-22T09:12:52.886375 → 2026-09-22T10:00:56.744565
 - Commits: [1](#commits)
 
 ## Files
@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1404010`](https://github.com/sase-org/sase/commit/1404010b1e255bdc42711b34202c6f0c2d83a27c) | fix(core-pin): tolerate ratchet apply exit 2 so the bot reaches push and PR | 2026-09-22 09:56:50 EDT |
+| — | `1404010` | fix(core-pin): tolerate ratchet apply exit 2 so the bot reaches push and PR | 2026-09-22 09:56:50 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-165.1](../bbugyi200.athena.sase-165.1/README.md) | sase-165 hood | active |
-| [sase-165.2](../bbugyi200.athena.sase-165.2/README.md) | sase-165 hood | active |
-| [sase-165.3](../bbugyi200.athena.sase-165.3/README.md) | sase-165 hood | active |
-| [sase-165.5](../bbugyi200.athena.sase-165.5/README.md) | sase-165 hood | active |
-| [sase-165.6](../../sessions/bbugyi200.athena.sase-165.6.md) (session · 3) | sase-165 hood | active 3 |
-| [sase-165.6.f0](../../sessions/bbugyi200.athena.sase-165.6.f0.md) (session · 3) | sase-165 hood | active 1, completed 1, failed 1 |
-| [sase-165.7](../../sessions/bbugyi200.athena.sase-165.7.md) (session · 3) | sase-165 hood | active 3 |
-| [sase-165.land](../../sessions/bbugyi200.athena.sase-165.land.md) (session · 5) | sase-165 hood | active 3, completed 1, failed 1 |
+| [sase-165.1](../bbugyi200.athena.sase-165.1/README.md) | sase-165 hood | dismissed |
+| [sase-165.2](../bbugyi200.athena.sase-165.2/README.md) | sase-165 hood | dismissed |
+| [sase-165.3](../bbugyi200.athena.sase-165.3/README.md) | sase-165 hood | dismissed |
+| [sase-165.5](../bbugyi200.athena.sase-165.5/README.md) | sase-165 hood | dismissed |
+| [sase-165.6](../../sessions/bbugyi200.athena.sase-165.6.md) (session · 3) | sase-165 hood | dismissed 3 |
+| [sase-165.6.f0](../../sessions/bbugyi200.athena.sase-165.6.f0.md) (session · 3) | sase-165 hood | completed 1, dismissed 1, failed 1 |
+| [sase-165.7](../../sessions/bbugyi200.athena.sase-165.7.md) (session · 3) | sase-165 hood | dismissed 3 |
+| [sase-165.land](../../sessions/bbugyi200.athena.sase-165.land.md) (session · 5) | sase-165 hood | completed 1, dismissed 3, failed 1 |

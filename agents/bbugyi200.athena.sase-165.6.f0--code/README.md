@@ -21,17 +21,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3002ab`](https://github.com/sase-org/sase/commit/d3002aba1ad5bcde49fd6f5b030407a2767df6eb) | fix(check): resolve the ten deterministic just-check failures on master | 2026-09-22 12:40:16 EDT |
+| — | `d3002ab` | fix(check): resolve the ten deterministic just-check failures on master | 2026-09-22 12:40:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-165.6](../../sessions/bbugyi200.athena.sase-165.6.md) (session · 3) | ancestor | active 3 |
-| [sase-165.1](../bbugyi200.athena.sase-165.1/README.md) | sase-165 hood | active |
-| [sase-165.2](../bbugyi200.athena.sase-165.2/README.md) | sase-165 hood | active |
-| [sase-165.3](../bbugyi200.athena.sase-165.3/README.md) | sase-165 hood | active |
-| [sase-165.4](../bbugyi200.athena.sase-165.4/README.md) | sase-165 hood | active |
-| [sase-165.5](../bbugyi200.athena.sase-165.5/README.md) | sase-165 hood | active |
-| [sase-165.7](../../sessions/bbugyi200.athena.sase-165.7.md) (session · 3) | sase-165 hood | active 3 |
-| [sase-165.land](../../sessions/bbugyi200.athena.sase-165.land.md) (session · 5) | sase-165 hood | active 3, completed 1, failed 1 |
+| [sase-165.6](../../sessions/bbugyi200.athena.sase-165.6.md) (session · 3) | ancestor | dismissed 3 |
+| [sase-165.1](../bbugyi200.athena.sase-165.1/README.md) | sase-165 hood | dismissed |
+| [sase-165.2](../bbugyi200.athena.sase-165.2/README.md) | sase-165 hood | dismissed |
+| [sase-165.3](../bbugyi200.athena.sase-165.3/README.md) | sase-165 hood | dismissed |
+| [sase-165.4](../bbugyi200.athena.sase-165.4/README.md) | sase-165 hood | dismissed |
+| [sase-165.5](../bbugyi200.athena.sase-165.5/README.md) | sase-165 hood | dismissed |
+| [sase-165.7](../../sessions/bbugyi200.athena.sase-165.7.md) (session · 3) | sase-165 hood | dismissed 3 |
+| [sase-165.land](../../sessions/bbugyi200.athena.sase-165.land.md) (session · 5) | sase-165 hood | completed 1, dismissed 3, failed 1 |
