@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.11.1.4
 
-**Global name:** `bbugyi200.athena.sase-1t3.11.1.4` · **State:** waiting · **Source run:** `run-82b86d3aff5448b5437661cef7f878fe`
+**Global name:** `bbugyi200.athena.sase-1t3.11.1.4` · **State:** completed · **Source run:** `run-82b86d3aff5448b5437661cef7f878fe`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
@@ -10,14 +10,20 @@
 
 - Bead: [sase-1t3.11.1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.11.1.4.md)
 - Epic: [sase-1t3.11.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.11.1.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20261117123213
-- Commits: 0
+- Model: gpt-6-luna
+- Provider: codex
+- Timing: 2026-11-18T01:04:20.934243+00:00 → 2026-11-18T03:18:07.532621+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5e3931c`](https://github.com/sase-org/sase/commit/5e3931c592a59fae099d386147d94094aabe8369) | feat(artifact-reads): query audit events by agent | 2026-11-17 22:16:19 EST |
 
 ## Neighbors
 
