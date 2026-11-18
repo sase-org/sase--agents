@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`798e786`](https://github.com/sase-org/sase/commit/798e786c88c01c265748f294cc7af700d0099b3f) | feat(ace): add Agents deck view lock toggle | 2026-10-19 20:48:05 EDT |
+| — | `798e786` | feat(ace): add Agents deck view lock toggle | 2026-10-19 20:48:05 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [sase-1n7.1](../bbugyi200.athena.sase-1n7.1/README.md) | sase-1n7 hood | completed |
 | [sase-1n7.3](../bbugyi200.athena.sase-1n7.3/README.md) | sase-1n7 hood | completed |
 | [sase-1n7.4](../../sessions/bbugyi200.athena.sase-1n7.4.md) (session · 3) | sase-1n7 hood | completed 2, failed 1 |
-| [sase-1n7.land](../bbugyi200.athena.sase-1n7.land/README.md) | sase-1n7 hood | waiting |
+| [sase-1n7.land](../bbugyi200.athena.sase-1n7.land/README.md) | sase-1n7 hood | dismissed |

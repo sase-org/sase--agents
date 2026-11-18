@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| mon | sase | [`3dbe570`](https://github.com/sase-org/sase/commit/3dbe5704627fc397dee88b7e9ff9c630929237c4) | docs(tui): document tabs-mean-pages deck chrome and lock vocabulary | 2026-10-20 07:09:04 EDT |
+| mon | — | `3dbe570` | docs(tui): document tabs-mean-pages deck chrome and lock vocabulary | 2026-10-20 07:09:04 EDT |
 
 ## Neighbors
 
@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1n7.1](../agents/bbugyi200.athena.sase-1n7.1/README.md) | sase-1n7 hood | completed |
 | [sase-1n7.2](bbugyi200.athena.sase-1n7.2.md) (session · 5) | sase-1n7 hood | completed 3, failed 2 |
 | [sase-1n7.3](../agents/bbugyi200.athena.sase-1n7.3/README.md) | sase-1n7 hood | completed |
-| [sase-1n7.land](../agents/bbugyi200.athena.sase-1n7.land/README.md) | sase-1n7 hood | waiting |
+| [sase-1n7.land](../agents/bbugyi200.athena.sase-1n7.land/README.md) | sase-1n7 hood | dismissed |

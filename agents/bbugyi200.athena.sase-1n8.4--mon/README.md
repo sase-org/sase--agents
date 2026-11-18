@@ -19,9 +19,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1n8.1](../bbugyi200.athena.sase-1n8.1/README.md) | sase-1n8 hood | active |
-| [sase-1n8.2](../bbugyi200.athena.sase-1n8.2/README.md) | sase-1n8 hood | waiting |
-| [sase-1n8.3](../bbugyi200.athena.sase-1n8.3/README.md) | sase-1n8 hood | active |
-| [sase-1n8.5](../bbugyi200.athena.sase-1n8.5/README.md) | sase-1n8 hood | active |
+| [sase-1n8.1](../bbugyi200.athena.sase-1n8.1/README.md) | sase-1n8 hood | dismissed |
+| [sase-1n8.2](../bbugyi200.athena.sase-1n8.2/README.md) | sase-1n8 hood | dismissed |
+| [sase-1n8.3](../bbugyi200.athena.sase-1n8.3/README.md) | sase-1n8 hood | dismissed |
+| [sase-1n8.5](../bbugyi200.athena.sase-1n8.5/README.md) | sase-1n8 hood | dismissed |
 | [sase-1n8.6](../../sessions/bbugyi200.athena.sase-1n8.6.md) (session · 2) | sase-1n8 hood | active 1, completed 1 |
-| [sase-1n8.land](../bbugyi200.athena.sase-1n8.land/README.md) | sase-1n8 hood | waiting |
+| [sase-1n8.land](../bbugyi200.athena.sase-1n8.land/README.md) | sase-1n8 hood | dismissed |

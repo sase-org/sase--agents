@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["sase-1n6.5.1.5.2.1.2--3 [completed]"]
   n0 --> n4
-  n5["sase-1n6.5.1.5.2.1.2--1 [active]"]
+  n5["sase-1n6.5.1.5.2.1.2--1 [dismissed]"]
   n0 --> n5
   n6["sase-1n6.5.1.5.2.1.2--mon-1 [failed]"]
   n0 --> n6
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | sase-1n6.5.1.5.2.1.2--plan | dismissed | gpt-6-astra / codex | 2026-10-23T14:00:54.422830 → 2026-10-23T14:11:35.007863 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1n6.5.1.5.2.1.2--mon | dismissed | gpt-6-astra / codex | 2026-10-23T14:10:58.527884 → 2026-10-23T17:14:16.707643 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--mon/chat.md) |
 | <a id="member-3"></a>3 | sase-1n6.5.1.5.2.1.2--3 | completed | gpt-6-luna / codex | 2026-10-22T10:21:40.246645+00:00 → 2026-10-22T10:32:17.875567+00:00 | [1](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--3/chat.md) |
-| <a id="member-1"></a>1 | sase-1n6.5.1.5.2.1.2--1 | active | gpt-6-astra / codex | 2026-10-23T21:17:07.972326+00:00 | [1](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--1/chat.md) |
+| <a id="member-1"></a>1 | sase-1n6.5.1.5.2.1.2--1 | dismissed | gpt-6-astra / codex | 2026-10-23T17:17:07.972326 → 2026-10-23T17:58:27.419718 | [1](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--1/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1n6.5.1.5.2.1.2--mon-1 | failed | gpt-6-luna / codex | 2026-10-20T22:18:47.034249+00:00 → 2026-10-22T10:20:16.891745+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--mon-1/chat.md) |
 
 ## Commits
@@ -173,18 +173,18 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1n6.5.1.5.2.1.3.1](bbugyi200.athena.sase-1n6.5.1.5.2.1.3.1.md) (session · 3) | sase-1n6.5.1.5.2.1 hood | completed 2, failed 1 |
 | [sase-1n6.5.1.5.2.1.3.2](bbugyi200.athena.sase-1n6.5.1.5.2.1.3.2.md) (session · 7) | sase-1n6.5.1.5.2.1 hood | completed 4, failed 3 |
 | [sase-1n6.5.1.5.2.1.3.land](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.3.land/README.md) | sase-1n6.5.1.5.2.1 hood | completed |
-| [sase-1n6.5.1.5.2.1.land](bbugyi200.athena.sase-1n6.5.1.5.2.1.land.md) (session · 3) | sase-1n6.5.1.5.2.1 hood | active 1, dismissed 2 |
+| [sase-1n6.5.1.5.2.1.land](bbugyi200.athena.sase-1n6.5.1.5.2.1.land.md) (session · 3) | sase-1n6.5.1.5.2.1 hood | dismissed 3 |
 | [sase-1n6.5.1.5.1](../agents/bbugyi200.athena.sase-1n6.5.1.5.1/README.md) | sase-1n6.5.1.5 hood | completed |
 | [sase-1n6.5.1.5.land](bbugyi200.athena.sase-1n6.5.1.5.land.md) (session · 5) | sase-1n6.5.1.5 hood | completed 3, failed 2 |
 | [sase-1n6.5.1.1](../agents/bbugyi200.athena.sase-1n6.5.1.1/README.md) | sase-1n6.5.1 hood | dismissed |
-| [sase-1n6.5.1.2](bbugyi200.athena.sase-1n6.5.1.2.md) (session · 5) | sase-1n6.5.1 hood | active 2, dismissed 3 |
-| [sase-1n6.5.1.3](../agents/bbugyi200.athena.sase-1n6.5.1.3/README.md) | sase-1n6.5.1 hood | active |
+| [sase-1n6.5.1.2](bbugyi200.athena.sase-1n6.5.1.2.md) (session · 5) | sase-1n6.5.1 hood | dismissed 5 |
+| [sase-1n6.5.1.3](../agents/bbugyi200.athena.sase-1n6.5.1.3/README.md) | sase-1n6.5.1 hood | dismissed |
 | [sase-1n6.5.1.4](../agents/bbugyi200.athena.sase-1n6.5.1.4/README.md) | sase-1n6.5.1 hood | dismissed |
-| [sase-1n6.5.1.land](bbugyi200.athena.sase-1n6.5.1.land.md) (session · 3) | sase-1n6.5.1 hood | active 3 |
+| [sase-1n6.5.1.land](bbugyi200.athena.sase-1n6.5.1.land.md) (session · 3) | sase-1n6.5.1 hood | dismissed 3 |
 | [sase-1n6.1](../agents/bbugyi200.athena.sase-1n6.1/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.10](bbugyi200.athena.sase-1n6.10.md) (session · 2) | sase-1n6 hood | completed 1, stopped 1 |
 | [sase-1n6.10](../agents/bbugyi200.athena.sase-1n6.10/README.md) | sase-1n6 hood | waiting |
-| [sase-1n6.10.f0](../agents/bbugyi200.athena.sase-1n6.10.f0/README.md) | sase-1n6 hood | active |
+| [sase-1n6.10.f0](../agents/bbugyi200.athena.sase-1n6.10.f0/README.md) | sase-1n6 hood | dismissed |
 | [sase-1n6.11.1](bbugyi200.athena.sase-1n6.11.1.md) (session · 5) | sase-1n6 hood | completed 5 |
 | [sase-1n6.11.2](../agents/bbugyi200.athena.sase-1n6.11.2/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.11.3](bbugyi200.athena.sase-1n6.11.3.md) (session · 3) | sase-1n6 hood | completed 3 |
@@ -196,11 +196,11 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1n6.6](bbugyi200.athena.sase-1n6.6.md) (session · 3) | sase-1n6 hood | completed 2, failed 1 |
 | [sase-1n6.7](bbugyi200.athena.sase-1n6.7.md) (session · 3) | sase-1n6 hood | failed 3 |
 | [sase-1n6.7.1.1](../agents/bbugyi200.athena.sase-1n6.7.1.1/README.md) | sase-1n6 hood | dismissed |
-| [sase-1n6.7.1.2](bbugyi200.athena.sase-1n6.7.1.2.md) (session · 5) | sase-1n6 hood | active 4, dismissed 1 |
-| [sase-1n6.7.1.3](../agents/bbugyi200.athena.sase-1n6.7.1.3/README.md) | sase-1n6 hood | active |
-| [sase-1n6.7.1.4](bbugyi200.athena.sase-1n6.7.1.4.md) (session · 3) | sase-1n6 hood | active 1, dismissed 2 |
-| [sase-1n6.7.1.5](bbugyi200.athena.sase-1n6.7.1.5.md) (session · 3) | sase-1n6 hood | active 1, dismissed 2 |
-| [sase-1n6.7.1.land](bbugyi200.athena.sase-1n6.7.1.land.md) (session · 15) | sase-1n6 hood | active 3, completed 1, dismissed 10, failed 1 |
+| [sase-1n6.7.1.2](bbugyi200.athena.sase-1n6.7.1.2.md) (session · 5) | sase-1n6 hood | dismissed 5 |
+| [sase-1n6.7.1.3](../agents/bbugyi200.athena.sase-1n6.7.1.3/README.md) | sase-1n6 hood | dismissed |
+| [sase-1n6.7.1.4](bbugyi200.athena.sase-1n6.7.1.4.md) (session · 3) | sase-1n6 hood | dismissed 3 |
+| [sase-1n6.7.1.5](bbugyi200.athena.sase-1n6.7.1.5.md) (session · 3) | sase-1n6 hood | dismissed 3 |
+| [sase-1n6.7.1.land](bbugyi200.athena.sase-1n6.7.1.land.md) (session · 15) | sase-1n6 hood | completed 1, dismissed 13, failed 1 |
 | [sase-1n6.8](../agents/bbugyi200.athena.sase-1n6.8/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.9](../agents/bbugyi200.athena.sase-1n6.9/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.land](bbugyi200.athena.sase-1n6.land.md) (session · 3) | sase-1n6 hood | active 1, completed 2 |

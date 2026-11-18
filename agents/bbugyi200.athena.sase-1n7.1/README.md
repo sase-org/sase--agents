@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ece19c`](https://github.com/sase-org/sase/commit/9ece19c4af9e6569769d2e9b85e99a73b71e7d46) | feat(tui): paint deck view as chip, lock, and paged tabs | 2026-10-19 19:24:26 EDT |
+| — | `9ece19c` | feat(tui): paint deck view as chip, lock, and paged tabs | 2026-10-19 19:24:26 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [sase-1n7.2](../../sessions/bbugyi200.athena.sase-1n7.2.md) (session · 5) | sase-1n7 hood | completed 3, failed 2 |
 | [sase-1n7.3](../bbugyi200.athena.sase-1n7.3/README.md) | sase-1n7 hood | completed |
 | [sase-1n7.4](../../sessions/bbugyi200.athena.sase-1n7.4.md) (session · 3) | sase-1n7 hood | completed 2, failed 1 |
-| [sase-1n7.land](../bbugyi200.athena.sase-1n7.land/README.md) | sase-1n7 hood | waiting |
+| [sase-1n7.land](../bbugyi200.athena.sase-1n7.land/README.md) | sase-1n7 hood | dismissed |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5803ddf`](https://github.com/sase-org/sase/commit/5803ddfa0b900dfbff7829e06fb71b10868cc8f5) | feat(agents-sync): add backup-first stale-replay recovery | 2026-10-21 01:26:43 EDT |
+| — | `5803ddf` | feat(agents-sync): add backup-first stale-replay recovery | 2026-10-21 01:26:43 EDT |
 
 ## Neighbors
 
@@ -39,14 +39,14 @@
 | [sase-1nf.10.1.7](../../sessions/bbugyi200.athena.sase-1nf.10.1.7.md) (session · 5) | sase-1nf.10.1 hood | completed 3, failed 2 |
 | [sase-1nf.10.1.9](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.md) (session · 3) | sase-1nf.10.1 hood | failed 3 |
 | [sase-1nf.10.1.9.1.1](../bbugyi200.athena.sase-1nf.10.1.9.1.1/README.md) | sase-1nf.10.1 hood | active |
-| [sase-1nf.10.1.9.1.2](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.2.md) (session · 3) | sase-1nf.10.1 hood | active 3 |
-| [sase-1nf.10.1.9.1.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.3.md) (session · 5) | sase-1nf.10.1 hood | active 5 |
-| [sase-1nf.10.1.9.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.4.md) (session · 5) | sase-1nf.10.1 hood | active 5 |
+| [sase-1nf.10.1.9.1.2](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.2.md) (session · 3) | sase-1nf.10.1 hood | active 1, dismissed 2 |
+| [sase-1nf.10.1.9.1.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.3.md) (session · 5) | sase-1nf.10.1 hood | active 3, dismissed 2 |
+| [sase-1nf.10.1.9.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.4.md) (session · 5) | sase-1nf.10.1 hood | active 3, dismissed 2 |
 | [sase-1nf.10.1.9.1.5](../bbugyi200.athena.sase-1nf.10.1.9.1.5/README.md) | sase-1nf.10.1 hood | active |
 | [sase-1nf.10.1.9.1.6.1](../bbugyi200.athena.sase-1nf.10.1.9.1.6.1/README.md) | sase-1nf.10.1 hood | active |
-| [sase-1nf.10.1.9.1.6.2](../bbugyi200.athena.sase-1nf.10.1.9.1.6.2/README.md) | sase-1nf.10.1 hood | active |
+| [sase-1nf.10.1.9.1.6.2](../bbugyi200.athena.sase-1nf.10.1.9.1.6.2/README.md) | sase-1nf.10.1 hood | dismissed |
 | [sase-1nf.10.1.9.1.6.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.6.3.md) (session · 3) | sase-1nf.10.1 hood | active 3 |
-| [sase-1nf.10.1.9.1.6.4](../bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | sase-1nf.10.1 hood | active |
+| [sase-1nf.10.1.9.1.6.4](../bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | sase-1nf.10.1 hood | dismissed |
 | [sase-1nf.10.1.9.1.6.5](../bbugyi200.athena.sase-1nf.10.1.9.1.6.5/README.md) | sase-1nf.10.1 hood | active |
 | [sase-1nf.10.1.9.1.6.land](../bbugyi200.athena.sase-1nf.10.1.9.1.6.land/README.md) | sase-1nf.10.1 hood | active |
 | [sase-1nf.10.1.9.1.land](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.land.md) (session · 3) | sase-1nf.10.1 hood | active 3 |

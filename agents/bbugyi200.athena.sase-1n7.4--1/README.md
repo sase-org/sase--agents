@@ -25,4 +25,4 @@
 | [sase-1n7.1](../bbugyi200.athena.sase-1n7.1/README.md) | sase-1n7 hood | completed |
 | [sase-1n7.2](../../sessions/bbugyi200.athena.sase-1n7.2.md) (session · 5) | sase-1n7 hood | completed 3, failed 2 |
 | [sase-1n7.3](../bbugyi200.athena.sase-1n7.3/README.md) | sase-1n7 hood | completed |
-| [sase-1n7.land](../bbugyi200.athena.sase-1n7.land/README.md) | sase-1n7 hood | waiting |
+| [sase-1n7.land](../bbugyi200.athena.sase-1n7.land/README.md) | sase-1n7 hood | dismissed |
