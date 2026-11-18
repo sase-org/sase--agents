@@ -32,7 +32,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1tc.1.1.3](bbugyi200.athena.sase-1tc.1.1.3.md) (session · 3) | descendant | completed 2, failed 1 |
 | [sase-1tc.1.1.land](bbugyi200.athena.sase-1tc.1.1.land.md) (session · 3) | descendant | active 2, completed 1 |
 | [sase-1tc.2](../agents/bbugyi200.athena.sase-1tc.2/README.md) | sase-1tc hood | completed |
-| [sase-1tc.3](../agents/bbugyi200.athena.sase-1tc.3/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.3](bbugyi200.athena.sase-1tc.3.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
+| [sase-1tc.3.1.1](../agents/bbugyi200.athena.sase-1tc.3.1.1/README.md) | sase-1tc hood | active |
+| [sase-1tc.3.1.2](../agents/bbugyi200.athena.sase-1tc.3.1.2/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.3.1.3](../agents/bbugyi200.athena.sase-1tc.3.1.3/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.3.1.4](../agents/bbugyi200.athena.sase-1tc.3.1.4/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.3.1.5](../agents/bbugyi200.athena.sase-1tc.3.1.5/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.3.1.land](../agents/bbugyi200.athena.sase-1tc.3.1.land/README.md) | sase-1tc hood | waiting |
 | [sase-1tc.4](../agents/bbugyi200.athena.sase-1tc.4/README.md) | sase-1tc hood | waiting |
 | [sase-1tc.5](../agents/bbugyi200.athena.sase-1tc.5/README.md) | sase-1tc hood | waiting |
 | [sase-1tc.land](../agents/bbugyi200.athena.sase-1tc.land/README.md) | sase-1tc hood | waiting |
