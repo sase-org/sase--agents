@@ -1,6 +1,6 @@
+%auto
 %id(chop_typed_admission.0, clan=toobig-a2)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/axe/chop_typed_admission.py` file into multiple files? Use your best
 %wait:toobig-a2.chop_proposal_launch_impl.0

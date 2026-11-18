@@ -22,5 +22,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-a2.chop\_batch\_recovery.0](../bbugyi200.athena.toobig-a2.chop_batch_recovery.0/README.md) | toobig-a2 hood | completed |
-| [toobig-a2.chop\_proposal\_launch\_impl.0](../bbugyi200.athena.toobig-a2.chop_proposal_launch_impl.0/README.md) | toobig-a2 hood | active |
+| [toobig-a2.chop\_proposal\_launch\_impl.0](../bbugyi200.athena.toobig-a2.chop_proposal_launch_impl.0/README.md) | toobig-a2 hood | completed |
 | [toobig-a2.test\_video\_inspect.0](../bbugyi200.athena.toobig-a2.test_video_inspect.0/README.md) | toobig-a2 hood | waiting |

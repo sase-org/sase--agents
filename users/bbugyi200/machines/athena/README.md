@@ -2424,7 +2424,7 @@
 | [toobig-9y](hoods/toobig-9y/README.md) | 1 | 0 | completed 1 |
 | [toobig-9z](hoods/toobig-9z/README.md) | 2 | 0 | completed 2 |
 | [toobig-a1](hoods/toobig-a1/README.md) | 12 | 3 | completed 9, failed 3 |
-| [toobig-a2](hoods/toobig-a2/README.md) | 4 | 0 | active 1, completed 1, waiting 2 |
+| [toobig-a2](hoods/toobig-a2/README.md) | 4 | 0 | completed 2, waiting 2 |
 | [toobig-b](hoods/toobig-b/README.md) | 6 | 0 | active 1, dismissed 5 |
 | [toobig-c](hoods/toobig-c/README.md) | 3 | 0 | active 1, dismissed 2 |
 | [toobig-d](hoods/toobig-d/README.md) | 1 | 0 | active 1 |
