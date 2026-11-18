@@ -24,4 +24,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-17o.2](../bbugyi200.athena.sase-17o.2/README.md) | sase-17o hood | completed |
-| [sase-17o.land](../bbugyi200.athena.sase-17o.land/README.md) | sase-17o hood | active |
+| [sase-17o.land](../bbugyi200.athena.sase-17o.land/README.md) | sase-17o hood | dismissed |

@@ -8,22 +8,22 @@ Owner: `bbugyi200.athena` · Hood: `sase-17p` · Members: 9 · Bead: [sase-17p.1
 
 ```mermaid
 flowchart TD
-  n0["sase-17p.1--mon-1 [active]"]
+  n0["sase-17p.1--mon-1 [dismissed]"]
   n1["sase-17p.1--mon [failed]"]
   n0 --> n1
-  n2["sase-17p.1--1 [active]"]
+  n2["sase-17p.1--1 [dismissed]"]
   n0 --> n2
   n3["sase-17p.1--code [completed]"]
   n0 --> n3
-  n4["sase-17p.1--plan [active]"]
+  n4["sase-17p.1--plan [dismissed]"]
   n0 --> n4
-  n5["sase-17p.1--2 [active]"]
+  n5["sase-17p.1--2 [dismissed]"]
   n0 --> n5
-  n6["sase-17p.1--3 [active]"]
+  n6["sase-17p.1--3 [dismissed]"]
   n0 --> n6
-  n7["sase-17p.1--gate [active]"]
+  n7["sase-17p.1--gate [dismissed]"]
   n0 --> n7
-  n8["sase-17p.1--mon-0 [active]"]
+  n8["sase-17p.1--mon-0 [dismissed]"]
   n0 --> n8
 ```
 
@@ -31,30 +31,30 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon-1"></a>mon-1 | sase-17p.1--mon-1 | active | muse-spark-1.3-contributor / muse | 2026-09-24T14:29:10.708370+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17p.1--mon-1/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | sase-17p.1--mon-1 | dismissed | muse-spark-1.3-contributor / muse | 2026-09-24T10:29:10.708370 → 2026-09-24T10:33:50.930396 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17p.1--mon-1/chat.md) |
 | <a id="member-mon"></a>mon | sase-17p.1--mon | failed | muse-spark-1.3-contributor / muse | 2026-09-24T13:33:24.607994+00:00 → 2026-09-24T13:52:15.824105+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17p.1--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-17p.1--1 | active | muse-spark-1.3-contributor / muse | 2026-09-24T13:56:08.944127+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17p.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17p.1--1/chat.md) |
+| <a id="member-1"></a>1 | sase-17p.1--1 | dismissed | muse-spark-1.3-contributor / muse | 2026-09-24T09:56:08.944127 → 2026-09-24T10:10:40.683322 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17p.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17p.1--1/chat.md) |
 | <a id="member-code"></a>code | sase-17p.1--code | completed | muse-spark-1.3-contributor / muse | 2026-09-24T12:51:54.552044+00:00 → 2026-09-24T13:34:27.913658+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17p.1--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-17p.1--plan | active | opus / claude | 2026-09-24T12:42:21.994533+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17p.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17p.1--plan/chat.md) |
-| <a id="member-2"></a>2 | sase-17p.1--2 | active | muse-spark-1.3-contributor / muse | 2026-09-24T14:14:10.557481+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17p.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17p.1--2/chat.md) |
-| <a id="member-3"></a>3 | sase-17p.1--3 | active | muse-spark-1.3-contributor / muse | 2026-09-24T14:35:40.332446+00:00 | [1](../agents/bbugyi200.athena.sase-17p.1--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-17p.1--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17p.1--3/chat.md) |
-| <a id="member-gate"></a>gate | sase-17p.1--gate | active | opus / claude | 2026-09-24T12:51:13.240339+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17p.1--gate/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | sase-17p.1--mon-0 | active | muse-spark-1.3-contributor / muse | 2026-09-24T14:09:34.491346+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17p.1--mon-0/chat.md) |
+| <a id="member-plan"></a>plan | sase-17p.1--plan | dismissed | opus / claude | 2026-09-24T08:42:21.994533 → 2026-09-24T09:34:28.746092 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17p.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17p.1--plan/chat.md) |
+| <a id="member-2"></a>2 | sase-17p.1--2 | dismissed | muse-spark-1.3-contributor / muse | 2026-09-24T10:14:10.557481 → 2026-09-24T10:32:35.790389 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17p.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17p.1--2/chat.md) |
+| <a id="member-3"></a>3 | sase-17p.1--3 | dismissed | muse-spark-1.3-contributor / muse | 2026-09-24T10:35:40.332446 → 2026-09-24T10:48:33.659589 | [1](../agents/bbugyi200.athena.sase-17p.1--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-17p.1--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17p.1--3/chat.md) |
+| <a id="member-gate"></a>gate | sase-17p.1--gate | dismissed | opus / claude | 2026-09-24T08:51:13.240339 → 2026-09-24T08:51:33 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17p.1--gate/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-17p.1--mon-0 | dismissed | muse-spark-1.3-contributor / muse | 2026-09-24T10:09:34.491346 → 2026-09-24T10:12:34.179932 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17p.1--mon-0/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | sase | [`b6b9f4f`](https://github.com/sase-org/sase/commit/b6b9f4f59b900f74edbcd0bbea2f704c2659a128) | feat(tool): add hand-off adapters, contract probes, and finish diagnostics | 2026-09-24 10:44:13 EDT |
+| 3 | — | `b6b9f4f` | feat(tool): add hand-off adapters, contract probes, and finish diagnostics | 2026-09-24 10:44:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-17p.2](bbugyi200.athena.sase-17p.2.md) (session · 3) | sase-17p hood | active 2, failed 1 |
+| [sase-17p.2](bbugyi200.athena.sase-17p.2.md) (session · 3) | sase-17p hood | active 1, dismissed 1, failed 1 |
 | [sase-17p.2](../agents/bbugyi200.athena.sase-17p.2/README.md) | sase-17p hood | waiting |
-| [sase-17p.3](../agents/bbugyi200.athena.sase-17p.3/README.md) | sase-17p hood | active |
-| [sase-17p.4](../agents/bbugyi200.athena.sase-17p.4/README.md) | sase-17p hood | active |
-| [sase-17p.5](bbugyi200.athena.sase-17p.5.md) (session · 3) | sase-17p hood | active 2, failed 1 |
-| [sase-17p.6](../agents/bbugyi200.athena.sase-17p.6/README.md) | sase-17p hood | active |
-| [sase-17p.land](../agents/bbugyi200.athena.sase-17p.land/README.md) | sase-17p hood | active |
+| [sase-17p.3](../agents/bbugyi200.athena.sase-17p.3/README.md) | sase-17p hood | dismissed |
+| [sase-17p.4](../agents/bbugyi200.athena.sase-17p.4/README.md) | sase-17p hood | dismissed |
+| [sase-17p.5](bbugyi200.athena.sase-17p.5.md) (session · 3) | sase-17p hood | active 1, dismissed 1, failed 1 |
+| [sase-17p.6](../agents/bbugyi200.athena.sase-17p.6/README.md) | sase-17p hood | dismissed |
+| [sase-17p.land](../agents/bbugyi200.athena.sase-17p.land/README.md) | sase-17p hood | dismissed |

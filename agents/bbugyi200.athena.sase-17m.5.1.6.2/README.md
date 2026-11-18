@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d039244`](https://github.com/sase-org/sase/commit/d039244c0061f25ffe0ebcf4b19506e60e8afd67) | refactor(ace-tui): rename family test identifiers to agent-session in widget, modal, action, and visual tests | 2026-09-25 06:03:44 EDT |
+| — | `d039244` | refactor(ace-tui): rename family test identifiers to agent-session in widget, modal, action, and visual tests | 2026-09-25 06:03:44 EDT |
 
 ## Neighbors
 
@@ -36,41 +36,41 @@
 | [sase-17m.5.1.6.5.1](../../sessions/bbugyi200.athena.sase-17m.5.1.6.5.1.md) (session · 3) | sase-17m.5.1.6 hood | completed 2, failed 1 |
 | [sase-17m.5.1.6.5.land](../../sessions/bbugyi200.athena.sase-17m.5.1.6.5.land.md) (session · 3) | sase-17m.5.1.6 hood | completed 2, failed 1 |
 | [sase-17m.5.1.6.land](../../sessions/bbugyi200.athena.sase-17m.5.1.6.land.md) (session · 3) | sase-17m.5.1.6 hood | failed 3 |
-| [sase-17m.5.1.1](../bbugyi200.athena.sase-17m.5.1.1/README.md) | sase-17m.5.1 hood | active |
-| [sase-17m.5.1.2](../bbugyi200.athena.sase-17m.5.1.2/README.md) | sase-17m.5.1 hood | active |
-| [sase-17m.5.1.3](../../sessions/bbugyi200.athena.sase-17m.5.1.3.md) (session · 3) | sase-17m.5.1 hood | active 3 |
-| [sase-17m.5.1.4](../../sessions/bbugyi200.athena.sase-17m.5.1.4.md) (session · 5) | sase-17m.5.1 hood | active 5 |
-| [sase-17m.5.1.5](../bbugyi200.athena.sase-17m.5.1.5/README.md) | sase-17m.5.1 hood | active |
-| [sase-17m.5.1.land](../../sessions/bbugyi200.athena.sase-17m.5.1.land.md) (session · 3) | sase-17m.5.1 hood | active 3 |
+| [sase-17m.5.1.1](../bbugyi200.athena.sase-17m.5.1.1/README.md) | sase-17m.5.1 hood | dismissed |
+| [sase-17m.5.1.2](../bbugyi200.athena.sase-17m.5.1.2/README.md) | sase-17m.5.1 hood | dismissed |
+| [sase-17m.5.1.3](../../sessions/bbugyi200.athena.sase-17m.5.1.3.md) (session · 3) | sase-17m.5.1 hood | dismissed 3 |
+| [sase-17m.5.1.4](../../sessions/bbugyi200.athena.sase-17m.5.1.4.md) (session · 5) | sase-17m.5.1 hood | dismissed 5 |
+| [sase-17m.5.1.5](../bbugyi200.athena.sase-17m.5.1.5/README.md) | sase-17m.5.1 hood | dismissed |
+| [sase-17m.5.1.land](../../sessions/bbugyi200.athena.sase-17m.5.1.land.md) (session · 3) | sase-17m.5.1 hood | dismissed 3 |
 | [sase-17m.1](../bbugyi200.athena.sase-17m.1/README.md) | sase-17m hood | completed |
-| [sase-17m.10](../bbugyi200.athena.sase-17m.10/README.md) | sase-17m hood | waiting |
+| [sase-17m.10](../bbugyi200.athena.sase-17m.10/README.md) | sase-17m hood | dismissed |
 | [sase-17m.2](../../sessions/bbugyi200.athena.sase-17m.2.md) (session · 3) | sase-17m hood | failed 3 |
-| [sase-17m.2.1.1](../bbugyi200.athena.sase-17m.2.1.1/README.md) | sase-17m hood | active |
-| [sase-17m.2.1.2](../bbugyi200.athena.sase-17m.2.1.2/README.md) | sase-17m hood | active |
-| [sase-17m.2.1.3](../bbugyi200.athena.sase-17m.2.1.3/README.md) | sase-17m hood | active |
-| [sase-17m.2.1.4](../bbugyi200.athena.sase-17m.2.1.4/README.md) | sase-17m hood | active |
-| [sase-17m.2.1.land](../bbugyi200.athena.sase-17m.2.1.land/README.md) | sase-17m hood | active |
+| [sase-17m.2.1.1](../bbugyi200.athena.sase-17m.2.1.1/README.md) | sase-17m hood | dismissed |
+| [sase-17m.2.1.2](../bbugyi200.athena.sase-17m.2.1.2/README.md) | sase-17m hood | dismissed |
+| [sase-17m.2.1.3](../bbugyi200.athena.sase-17m.2.1.3/README.md) | sase-17m hood | dismissed |
+| [sase-17m.2.1.4](../bbugyi200.athena.sase-17m.2.1.4/README.md) | sase-17m hood | dismissed |
+| [sase-17m.2.1.land](../bbugyi200.athena.sase-17m.2.1.land/README.md) | sase-17m hood | dismissed |
 | [sase-17m.3](../../sessions/bbugyi200.athena.sase-17m.3.md) (session · 3) | sase-17m hood | failed 3 |
-| [sase-17m.3.1.1](../bbugyi200.athena.sase-17m.3.1.1/README.md) | sase-17m hood | active |
-| [sase-17m.3.1.2](../bbugyi200.athena.sase-17m.3.1.2/README.md) | sase-17m hood | active |
-| [sase-17m.3.1.3](../bbugyi200.athena.sase-17m.3.1.3/README.md) | sase-17m hood | active |
-| [sase-17m.3.1.4](../bbugyi200.athena.sase-17m.3.1.4/README.md) | sase-17m hood | active |
-| [sase-17m.3.1.5](../bbugyi200.athena.sase-17m.3.1.5/README.md) | sase-17m hood | active |
-| [sase-17m.3.1.6](../bbugyi200.athena.sase-17m.3.1.6/README.md) | sase-17m hood | active |
-| [sase-17m.3.1.7](../bbugyi200.athena.sase-17m.3.1.7/README.md) | sase-17m hood | active |
-| [sase-17m.3.1.land](../bbugyi200.athena.sase-17m.3.1.land/README.md) | sase-17m hood | active |
+| [sase-17m.3.1.1](../bbugyi200.athena.sase-17m.3.1.1/README.md) | sase-17m hood | dismissed |
+| [sase-17m.3.1.2](../bbugyi200.athena.sase-17m.3.1.2/README.md) | sase-17m hood | dismissed |
+| [sase-17m.3.1.3](../bbugyi200.athena.sase-17m.3.1.3/README.md) | sase-17m hood | dismissed |
+| [sase-17m.3.1.4](../bbugyi200.athena.sase-17m.3.1.4/README.md) | sase-17m hood | dismissed |
+| [sase-17m.3.1.5](../bbugyi200.athena.sase-17m.3.1.5/README.md) | sase-17m hood | dismissed |
+| [sase-17m.3.1.6](../bbugyi200.athena.sase-17m.3.1.6/README.md) | sase-17m hood | dismissed |
+| [sase-17m.3.1.7](../bbugyi200.athena.sase-17m.3.1.7/README.md) | sase-17m hood | dismissed |
+| [sase-17m.3.1.land](../bbugyi200.athena.sase-17m.3.1.land/README.md) | sase-17m hood | dismissed |
 | [sase-17m.4](../../sessions/bbugyi200.athena.sase-17m.4.md) (session · 3) | sase-17m hood | failed 3 |
-| [sase-17m.4.1.1](../bbugyi200.athena.sase-17m.4.1.1/README.md) | sase-17m hood | active |
-| [sase-17m.4.1.2](../bbugyi200.athena.sase-17m.4.1.2/README.md) | sase-17m hood | active |
-| [sase-17m.4.1.3](../bbugyi200.athena.sase-17m.4.1.3/README.md) | sase-17m hood | active |
-| [sase-17m.4.1.4](../bbugyi200.athena.sase-17m.4.1.4/README.md) | sase-17m hood | active |
-| [sase-17m.4.1.5](../bbugyi200.athena.sase-17m.4.1.5/README.md) | sase-17m hood | active |
-| [sase-17m.4.1.6](../bbugyi200.athena.sase-17m.4.1.6/README.md) | sase-17m hood | active |
-| [sase-17m.4.1.7](../bbugyi200.athena.sase-17m.4.1.7/README.md) | sase-17m hood | active |
-| [sase-17m.4.1.8](../bbugyi200.athena.sase-17m.4.1.8/README.md) | sase-17m hood | active |
-| [sase-17m.4.1.land](../bbugyi200.athena.sase-17m.4.1.land/README.md) | sase-17m hood | active |
+| [sase-17m.4.1.1](../bbugyi200.athena.sase-17m.4.1.1/README.md) | sase-17m hood | dismissed |
+| [sase-17m.4.1.2](../bbugyi200.athena.sase-17m.4.1.2/README.md) | sase-17m hood | dismissed |
+| [sase-17m.4.1.3](../bbugyi200.athena.sase-17m.4.1.3/README.md) | sase-17m hood | dismissed |
+| [sase-17m.4.1.4](../bbugyi200.athena.sase-17m.4.1.4/README.md) | sase-17m hood | dismissed |
+| [sase-17m.4.1.5](../bbugyi200.athena.sase-17m.4.1.5/README.md) | sase-17m hood | dismissed |
+| [sase-17m.4.1.6](../bbugyi200.athena.sase-17m.4.1.6/README.md) | sase-17m hood | dismissed |
+| [sase-17m.4.1.7](../bbugyi200.athena.sase-17m.4.1.7/README.md) | sase-17m hood | dismissed |
+| [sase-17m.4.1.8](../bbugyi200.athena.sase-17m.4.1.8/README.md) | sase-17m hood | dismissed |
+| [sase-17m.4.1.land](../bbugyi200.athena.sase-17m.4.1.land/README.md) | sase-17m hood | dismissed |
 | [sase-17m.6](../bbugyi200.athena.sase-17m.6/README.md) | sase-17m hood | completed |
 | [sase-17m.7](../../sessions/bbugyi200.athena.sase-17m.7.md) (session · 3) | sase-17m hood | completed 2, failed 1 |
 | [sase-17m.8](../bbugyi200.athena.sase-17m.8/README.md) | sase-17m hood | completed |
-| [sase-17m.9](../bbugyi200.athena.sase-17m.9/README.md) | sase-17m hood | active |
-| [sase-17m.land](../bbugyi200.athena.sase-17m.land/README.md) | sase-17m hood | waiting |
+| [sase-17m.9](../bbugyi200.athena.sase-17m.9/README.md) | sase-17m hood | dismissed |
+| [sase-17m.land](../bbugyi200.athena.sase-17m.land/README.md) | sase-17m hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-17p](../../users/bbugyi200/machines/athena/hoods/sase-17p/README.md) / [sase-17p.1](../../sessions/bbugyi200.athena.sase-17p.1.md) / sase-17p.1--gate
 
-**Global name:** `bbugyi200.athena.sase-17p.1--gate` · **State:** active · **Source run:** `run-b3ec4066ec1bcadfe1af6228f168983f`
+**Global name:** `bbugyi200.athena.sase-17p.1--gate` · **State:** dismissed · **Source run:** `run-b3ec4066ec1bcadfe1af6228f168983f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-17p
 
@@ -12,7 +12,7 @@
 - Epic: [sase-17p](https://github.com/sase-org/sase--beads/blob/main/pages/sase-17p/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-24T12:51:13.240339+00:00
+- Timing: 2026-09-24T08:51:13.240339 → 2026-09-24T08:51:33
 - Commits: 0
 
 ## Files
@@ -23,10 +23,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-17p.2](../../sessions/bbugyi200.athena.sase-17p.2.md) (session · 3) | sase-17p hood | active 2, failed 1 |
+| [sase-17p.2](../../sessions/bbugyi200.athena.sase-17p.2.md) (session · 3) | sase-17p hood | active 1, dismissed 1, failed 1 |
 | [sase-17p.2](../bbugyi200.athena.sase-17p.2/README.md) | sase-17p hood | waiting |
-| [sase-17p.3](../bbugyi200.athena.sase-17p.3/README.md) | sase-17p hood | active |
-| [sase-17p.4](../bbugyi200.athena.sase-17p.4/README.md) | sase-17p hood | active |
-| [sase-17p.5](../../sessions/bbugyi200.athena.sase-17p.5.md) (session · 3) | sase-17p hood | active 2, failed 1 |
-| [sase-17p.6](../bbugyi200.athena.sase-17p.6/README.md) | sase-17p hood | active |
-| [sase-17p.land](../bbugyi200.athena.sase-17p.land/README.md) | sase-17p hood | active |
+| [sase-17p.3](../bbugyi200.athena.sase-17p.3/README.md) | sase-17p hood | dismissed |
+| [sase-17p.4](../bbugyi200.athena.sase-17p.4/README.md) | sase-17p hood | dismissed |
+| [sase-17p.5](../../sessions/bbugyi200.athena.sase-17p.5.md) (session · 3) | sase-17p hood | active 1, dismissed 1, failed 1 |
+| [sase-17p.6](../bbugyi200.athena.sase-17p.6/README.md) | sase-17p hood | dismissed |
+| [sase-17p.land](../bbugyi200.athena.sase-17p.land/README.md) | sase-17p hood | dismissed |

@@ -23,10 +23,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-17p.2](../../sessions/bbugyi200.athena.sase-17p.2.md) (session · 3) | sase-17p hood | active 2, failed 1 |
+| [sase-17p.2](../../sessions/bbugyi200.athena.sase-17p.2.md) (session · 3) | sase-17p hood | active 1, dismissed 1, failed 1 |
 | [sase-17p.2](../bbugyi200.athena.sase-17p.2/README.md) | sase-17p hood | waiting |
-| [sase-17p.3](../bbugyi200.athena.sase-17p.3/README.md) | sase-17p hood | active |
-| [sase-17p.4](../bbugyi200.athena.sase-17p.4/README.md) | sase-17p hood | active |
-| [sase-17p.5](../../sessions/bbugyi200.athena.sase-17p.5.md) (session · 3) | sase-17p hood | active 2, failed 1 |
-| [sase-17p.6](../bbugyi200.athena.sase-17p.6/README.md) | sase-17p hood | active |
-| [sase-17p.land](../bbugyi200.athena.sase-17p.land/README.md) | sase-17p hood | active |
+| [sase-17p.3](../bbugyi200.athena.sase-17p.3/README.md) | sase-17p hood | dismissed |
+| [sase-17p.4](../bbugyi200.athena.sase-17p.4/README.md) | sase-17p hood | dismissed |
+| [sase-17p.5](../../sessions/bbugyi200.athena.sase-17p.5.md) (session · 3) | sase-17p hood | active 1, dismissed 1, failed 1 |
+| [sase-17p.6](../bbugyi200.athena.sase-17p.6/README.md) | sase-17p hood | dismissed |
+| [sase-17p.land](../bbugyi200.athena.sase-17p.land/README.md) | sase-17p hood | dismissed |

@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8d97ef7`](https://github.com/sase-org/sase/commit/8d97ef7661de6b7aa42cf979d166606c7ee1d815) | feat(wait-links): publish wait\_for\_beads and project agent awaits bead links (sase-17o.2) | 2026-09-24 09:16:17 EDT |
+| — | `8d97ef7` | feat(wait-links): publish wait\_for\_beads and project agent awaits bead links (sase-17o.2) | 2026-09-24 09:16:17 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-17o.1](../bbugyi200.athena.sase-17o.1/README.md) | sase-17o hood | completed |
-| [sase-17o.land](../bbugyi200.athena.sase-17o.land/README.md) | sase-17o hood | active |
+| [sase-17o.land](../bbugyi200.athena.sase-17o.land/README.md) | sase-17o hood | dismissed |
