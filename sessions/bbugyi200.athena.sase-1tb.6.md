@@ -40,4 +40,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1tb.4](bbugyi200.athena.sase-1tb.4.md) (session · 3) | sase-1tb hood | completed 3 |
 | [sase-1tb.5](bbugyi200.athena.sase-1tb.5.md) (session · 3) | sase-1tb hood | completed 3 |
 | [sase-1tb.7](bbugyi200.athena.sase-1tb.7.md) (session · 3) | sase-1tb hood | completed 3 |
-| [sase-1tb.land](bbugyi200.athena.sase-1tb.land.md) (session · 5) | sase-1tb hood | active 3, completed 1, failed 1 |
+| [sase-1tb.land](bbugyi200.athena.sase-1tb.land.md) (session · 8) | sase-1tb hood | completed 5, failed 3 |
