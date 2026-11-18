@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tc](../../users/bbugyi200/machines/athena/hoods/sase-1tc/README.md) / sase-1tc.3.1.6.3
 
-**Global name:** `bbugyi200.athena.sase-1tc.3.1.6.3` · **State:** waiting · **Source run:** `run-c7098a044e8b45095353839225fc1c2b`
+**Global name:** `bbugyi200.athena.sase-1tc.3.1.6.3` · **State:** completed · **Source run:** `run-c7098a044e8b45095353839225fc1c2b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tc
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tc.3.1.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tc/sase-1tc.3.1.6.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261118072224
-- Commits: 0
+- Timing: 2026-11-18T17:14:07.892052+00:00 → 2026-11-18T18:53:48.638491+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3c6e3a0`](https://github.com/sase-org/sase/commit/3c6e3a06c039d1032cf6043f28a7b83ff6e63ba0) | fix(axe): make batch recovery visible and durable | 2026-11-18 13:52:42 EST |
 
 ## Neighbors
 
