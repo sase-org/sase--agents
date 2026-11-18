@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-10h` · Members: 3 · Bead: [sase-10h.3
 ```mermaid
 flowchart TD
   n0["sase-10h.3--1 [failed]"]
-  n1["sase-10h.3--plan [active]"]
+  n1["sase-10h.3--plan [dismissed]"]
   n0 --> n1
   n2["sase-10h.3--mon [failed]"]
   n0 --> n2
@@ -20,13 +20,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-10h.3--1 | failed | gpt-5.5 / codex | 20260913231046 → 2026-09-14T03:11:25.658916+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-10h.3--1/prompt.md) | — |
-| <a id="member-plan"></a>plan | sase-10h.3--plan | active | sonnet / claude | 2026-09-14T00:03:35.143356+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-10h.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-10h.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-10h.3--plan | dismissed | sonnet / claude | 2026-09-13T20:03:35.143356 → 2026-09-13T22:28:48.583288 | 0 | [Prompt](../agents/bbugyi200.athena.sase-10h.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-10h.3--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-10h.3--mon | failed | sonnet / claude | 2026-09-14T02:25:29.785198+00:00 → 2026-09-14T03:11:26.097661+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-10h.3--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-10h.1](../agents/bbugyi200.athena.sase-10h.1/README.md) | sase-10h hood | active |
-| [sase-10h.2](../agents/bbugyi200.athena.sase-10h.2/README.md) | sase-10h hood | active |
-| [sase-10h.land](bbugyi200.athena.sase-10h.land.md) (session · 3) | sase-10h hood | active 2, completed 1 |
+| [sase-10h.1](../agents/bbugyi200.athena.sase-10h.1/README.md) | sase-10h hood | dismissed |
+| [sase-10h.2](../agents/bbugyi200.athena.sase-10h.2/README.md) | sase-10h hood | dismissed |
+| [sase-10h.land](bbugyi200.athena.sase-10h.land.md) (session · 3) | sase-10h hood | completed 1, dismissed 2 |

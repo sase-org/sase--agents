@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8bd8fb8`](https://github.com/sase-org/sase/commit/8bd8fb891dd95d776dd06a712864de23d48d4c34) | fix(monitor): preserve explicit zero queue weight through capacity and fleet projections | 2026-09-14 07:56:24 EDT |
+| — | `8bd8fb8` | fix(monitor): preserve explicit zero queue weight through capacity and fleet projections | 2026-09-14 07:56:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-10h.1](../bbugyi200.athena.sase-10h.1/README.md) | sase-10h hood | active |
-| [sase-10h.2](../bbugyi200.athena.sase-10h.2/README.md) | sase-10h hood | active |
-| [sase-10h.3](../../sessions/bbugyi200.athena.sase-10h.3.md) (session · 3) | sase-10h hood | active 1, failed 2 |
+| [sase-10h.1](../bbugyi200.athena.sase-10h.1/README.md) | sase-10h hood | dismissed |
+| [sase-10h.2](../bbugyi200.athena.sase-10h.2/README.md) | sase-10h hood | dismissed |
+| [sase-10h.3](../../sessions/bbugyi200.athena.sase-10h.3.md) (session · 3) | sase-10h hood | dismissed 1, failed 2 |
