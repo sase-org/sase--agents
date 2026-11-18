@@ -22,37 +22,37 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0e5ab63`](https://github.com/sase-org/sase/commit/0e5ab634be4ca470a0d08c866bc393902f7a1e40) | feat(axe): unify routine job evidence and editor writes | 2026-09-17 11:34:39 EDT |
+| — | `0e5ab63` | feat(axe): unify routine job evidence and editor writes | 2026-09-17 11:34:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-11e.8.6.5.4.1](../bbugyi200.athena.sase-11e.8.6.5.4.1/README.md) | sase-11e.8.6.5.4 hood | active |
-| [sase-11e.8.6.5.4.2](../../sessions/bbugyi200.athena.sase-11e.8.6.5.4.2.md) (session · 3) | sase-11e.8.6.5.4 hood | active 3 |
-| [sase-11e.8.6.5.4.3](../bbugyi200.athena.sase-11e.8.6.5.4.3/README.md) | sase-11e.8.6.5.4 hood | active |
-| [sase-11e.8.6.5.4.4](../bbugyi200.athena.sase-11e.8.6.5.4.4/README.md) | sase-11e.8.6.5.4 hood | active |
-| [sase-11e.8.6.5.4.5](../../sessions/bbugyi200.athena.sase-11e.8.6.5.4.5.md) (session · 3) | sase-11e.8.6.5.4 hood | active 3 |
-| [sase-11e.8.6.5.1](../bbugyi200.athena.sase-11e.8.6.5.1/README.md) | sase-11e.8.6.5 hood | active |
-| [sase-11e.8.6.5.2](../bbugyi200.athena.sase-11e.8.6.5.2/README.md) | sase-11e.8.6.5 hood | active |
-| [sase-11e.8.6.5.3](../bbugyi200.athena.sase-11e.8.6.5.3/README.md) | sase-11e.8.6.5 hood | active |
-| [sase-11e.8.6.5.land](../../sessions/bbugyi200.athena.sase-11e.8.6.5.land.md) (session · 3) | sase-11e.8.6.5 hood | active 3 |
-| [sase-11e.8.6.1](../bbugyi200.athena.sase-11e.8.6.1/README.md) | sase-11e.8.6 hood | active |
-| [sase-11e.8.6.2](../bbugyi200.athena.sase-11e.8.6.2/README.md) | sase-11e.8.6 hood | active |
-| [sase-11e.8.6.3](../bbugyi200.athena.sase-11e.8.6.3/README.md) | sase-11e.8.6 hood | active |
-| [sase-11e.8.6.4](../bbugyi200.athena.sase-11e.8.6.4/README.md) | sase-11e.8.6 hood | active |
-| [sase-11e.8.6.land](../../sessions/bbugyi200.athena.sase-11e.8.6.land.md) (session · 3) | sase-11e.8.6 hood | active 3 |
-| [sase-11e.8.1](../bbugyi200.athena.sase-11e.8.1/README.md) | sase-11e.8 hood | active |
-| [sase-11e.8.2](../bbugyi200.athena.sase-11e.8.2/README.md) | sase-11e.8 hood | active |
-| [sase-11e.8.3](../bbugyi200.athena.sase-11e.8.3/README.md) | sase-11e.8 hood | active |
-| [sase-11e.8.4](../bbugyi200.athena.sase-11e.8.4/README.md) | sase-11e.8 hood | active |
-| [sase-11e.8.5](../../sessions/bbugyi200.athena.sase-11e.8.5.md) (session · 3) | sase-11e.8 hood | active 3 |
-| [sase-11e.8.land](../../sessions/bbugyi200.athena.sase-11e.8.land.md) (session · 3) | sase-11e.8 hood | active 3 |
-| [sase-11e.1](../bbugyi200.athena.sase-11e.1/README.md) | sase-11e hood | active |
-| [sase-11e.2](../bbugyi200.athena.sase-11e.2/README.md) | sase-11e hood | active |
-| [sase-11e.3](../bbugyi200.athena.sase-11e.3/README.md) | sase-11e hood | active |
-| [sase-11e.4](../bbugyi200.athena.sase-11e.4/README.md) | sase-11e hood | active |
-| [sase-11e.5](../bbugyi200.athena.sase-11e.5/README.md) | sase-11e hood | active |
-| [sase-11e.6](../bbugyi200.athena.sase-11e.6/README.md) | sase-11e hood | active |
-| [sase-11e.7](../bbugyi200.athena.sase-11e.7/README.md) | sase-11e hood | active |
-| [sase-11e.land](../../sessions/bbugyi200.athena.sase-11e.land.md) (session · 3) | sase-11e hood | active 3 |
+| [sase-11e.8.6.5.4.1](../bbugyi200.athena.sase-11e.8.6.5.4.1/README.md) | sase-11e.8.6.5.4 hood | dismissed |
+| [sase-11e.8.6.5.4.2](../../sessions/bbugyi200.athena.sase-11e.8.6.5.4.2.md) (session · 3) | sase-11e.8.6.5.4 hood | dismissed 3 |
+| [sase-11e.8.6.5.4.3](../bbugyi200.athena.sase-11e.8.6.5.4.3/README.md) | sase-11e.8.6.5.4 hood | dismissed |
+| [sase-11e.8.6.5.4.4](../bbugyi200.athena.sase-11e.8.6.5.4.4/README.md) | sase-11e.8.6.5.4 hood | dismissed |
+| [sase-11e.8.6.5.4.5](../../sessions/bbugyi200.athena.sase-11e.8.6.5.4.5.md) (session · 3) | sase-11e.8.6.5.4 hood | dismissed 3 |
+| [sase-11e.8.6.5.1](../bbugyi200.athena.sase-11e.8.6.5.1/README.md) | sase-11e.8.6.5 hood | dismissed |
+| [sase-11e.8.6.5.2](../bbugyi200.athena.sase-11e.8.6.5.2/README.md) | sase-11e.8.6.5 hood | dismissed |
+| [sase-11e.8.6.5.3](../bbugyi200.athena.sase-11e.8.6.5.3/README.md) | sase-11e.8.6.5 hood | dismissed |
+| [sase-11e.8.6.5.land](../../sessions/bbugyi200.athena.sase-11e.8.6.5.land.md) (session · 3) | sase-11e.8.6.5 hood | dismissed 3 |
+| [sase-11e.8.6.1](../bbugyi200.athena.sase-11e.8.6.1/README.md) | sase-11e.8.6 hood | dismissed |
+| [sase-11e.8.6.2](../bbugyi200.athena.sase-11e.8.6.2/README.md) | sase-11e.8.6 hood | dismissed |
+| [sase-11e.8.6.3](../bbugyi200.athena.sase-11e.8.6.3/README.md) | sase-11e.8.6 hood | dismissed |
+| [sase-11e.8.6.4](../bbugyi200.athena.sase-11e.8.6.4/README.md) | sase-11e.8.6 hood | dismissed |
+| [sase-11e.8.6.land](../../sessions/bbugyi200.athena.sase-11e.8.6.land.md) (session · 3) | sase-11e.8.6 hood | dismissed 3 |
+| [sase-11e.8.1](../bbugyi200.athena.sase-11e.8.1/README.md) | sase-11e.8 hood | dismissed |
+| [sase-11e.8.2](../bbugyi200.athena.sase-11e.8.2/README.md) | sase-11e.8 hood | dismissed |
+| [sase-11e.8.3](../bbugyi200.athena.sase-11e.8.3/README.md) | sase-11e.8 hood | dismissed |
+| [sase-11e.8.4](../bbugyi200.athena.sase-11e.8.4/README.md) | sase-11e.8 hood | dismissed |
+| [sase-11e.8.5](../../sessions/bbugyi200.athena.sase-11e.8.5.md) (session · 3) | sase-11e.8 hood | dismissed 3 |
+| [sase-11e.8.land](../../sessions/bbugyi200.athena.sase-11e.8.land.md) (session · 3) | sase-11e.8 hood | dismissed 3 |
+| [sase-11e.1](../bbugyi200.athena.sase-11e.1/README.md) | sase-11e hood | dismissed |
+| [sase-11e.2](../bbugyi200.athena.sase-11e.2/README.md) | sase-11e hood | dismissed |
+| [sase-11e.3](../bbugyi200.athena.sase-11e.3/README.md) | sase-11e hood | dismissed |
+| [sase-11e.4](../bbugyi200.athena.sase-11e.4/README.md) | sase-11e hood | dismissed |
+| [sase-11e.5](../bbugyi200.athena.sase-11e.5/README.md) | sase-11e hood | dismissed |
+| [sase-11e.6](../bbugyi200.athena.sase-11e.6/README.md) | sase-11e hood | dismissed |
+| [sase-11e.7](../bbugyi200.athena.sase-11e.7/README.md) | sase-11e hood | dismissed |
+| [sase-11e.land](../../sessions/bbugyi200.athena.sase-11e.land.md) (session · 3) | sase-11e hood | dismissed 3 |

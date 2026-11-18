@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`824ef83`](https://github.com/sase-org/sase/commit/824ef831c88a5c78f33b3ae2cd0d308f5afd41b2) | fix(epic-launch): recover monitor completion handoff | 2026-09-15 15:17:16 EDT |
+| — | `824ef83` | fix(epic-launch): recover monitor completion handoff | 2026-09-15 15:17:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-117.5.1](../bbugyi200.athena.sase-117.5.1/README.md) | sase-117.5 hood | active |
-| [sase-117.5.2](../bbugyi200.athena.sase-117.5.2/README.md) | sase-117.5 hood | active |
-| [sase-117.1](../bbugyi200.athena.sase-117.1/README.md) | sase-117 hood | active |
-| [sase-117.2](../bbugyi200.athena.sase-117.2/README.md) | sase-117 hood | active |
-| [sase-117.3](../bbugyi200.athena.sase-117.3/README.md) | sase-117 hood | active |
-| [sase-117.4](../bbugyi200.athena.sase-117.4/README.md) | sase-117 hood | active |
-| [sase-117.land](../../sessions/bbugyi200.athena.sase-117.land.md) (session · 3) | sase-117 hood | active 3 |
+| [sase-117.5.1](../bbugyi200.athena.sase-117.5.1/README.md) | sase-117.5 hood | dismissed |
+| [sase-117.5.2](../bbugyi200.athena.sase-117.5.2/README.md) | sase-117.5 hood | dismissed |
+| [sase-117.1](../bbugyi200.athena.sase-117.1/README.md) | sase-117 hood | dismissed |
+| [sase-117.2](../bbugyi200.athena.sase-117.2/README.md) | sase-117 hood | dismissed |
+| [sase-117.3](../bbugyi200.athena.sase-117.3/README.md) | sase-117 hood | dismissed |
+| [sase-117.4](../bbugyi200.athena.sase-117.4/README.md) | sase-117 hood | dismissed |
+| [sase-117.land](../../sessions/bbugyi200.athena.sase-117.land.md) (session · 3) | sase-117 hood | dismissed 3 |

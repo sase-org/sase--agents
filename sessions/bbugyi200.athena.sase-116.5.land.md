@@ -8,14 +8,14 @@ Owner: `bbugyi200.athena` · Hood: `sase-116` · Members: 5 · Bead: [sase-116.5
 
 ```mermaid
 flowchart TD
-  n0["sase-116.5.land--1 [active]"]
-  n1["sase-116.5.land--code [active]"]
+  n0["sase-116.5.land--1 [dismissed]"]
+  n1["sase-116.5.land--code [dismissed]"]
   n0 --> n1
-  n2["sase-116.5.land--gate [active]"]
+  n2["sase-116.5.land--gate [dismissed]"]
   n0 --> n2
-  n3["sase-116.5.land--plan [active]"]
+  n3["sase-116.5.land--plan [dismissed]"]
   n0 --> n3
-  n4["sase-116.5.land--mon [active]"]
+  n4["sase-116.5.land--mon [dismissed]"]
   n0 --> n4
 ```
 
@@ -23,26 +23,26 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-116.5.land--1 | active | gpt-5.6-sol / codex | 2026-09-15T19:58:44.434470+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-116.5.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-116.5.land--1/chat.md) |
-| <a id="member-code"></a>code | sase-116.5.land--code | active | gpt-5.5 / codex | 2026-09-15T20:06:55.046558+00:00 | [1](../agents/bbugyi200.athena.sase-116.5.land--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-116.5.land--code/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-116.5.land--code/chat.md) |
-| <a id="member-gate"></a>gate | sase-116.5.land--gate | active | gpt-5.6-sol / codex | 2026-09-15T20:05:44.753579+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-116.5.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | sase-116.5.land--plan | active | gpt-5.6-sol / codex | 2026-09-15T19:23:16.421877+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-116.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-116.5.land--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-116.5.land--mon | active | gpt-5.6-sol / codex | 2026-09-15T19:28:54.469959+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-116.5.land--mon/chat.md) |
+| <a id="member-1"></a>1 | sase-116.5.land--1 | dismissed | gpt-5.6-sol / codex | 2026-09-15T15:58:44.434470 → 2026-09-15T16:04:42.644310 | 0 | [Prompt](../agents/bbugyi200.athena.sase-116.5.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-116.5.land--1/chat.md) |
+| <a id="member-code"></a>code | sase-116.5.land--code | dismissed | gpt-5.5 / codex | 2026-09-15T16:06:55.046558 → 2026-09-15T16:35:58.479804 | [1](../agents/bbugyi200.athena.sase-116.5.land--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-116.5.land--code/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-116.5.land--code/chat.md) |
+| <a id="member-gate"></a>gate | sase-116.5.land--gate | dismissed | gpt-5.6-sol / codex | 2026-09-15T16:05:44.753579 → 2026-09-15T16:06:06 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-116.5.land--gate/chat.md) |
+| <a id="member-plan"></a>plan | sase-116.5.land--plan | dismissed | gpt-5.6-sol / codex | 2026-09-15T15:23:16.421877 → 2026-09-15T15:29:12.149160 | 0 | [Prompt](../agents/bbugyi200.athena.sase-116.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-116.5.land--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-116.5.land--mon | dismissed | gpt-5.6-sol / codex | 2026-09-15T15:28:54.469959 → 2026-09-15T15:57:34.243887 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-116.5.land--mon/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`981004d`](https://github.com/sase-org/sase/commit/981004d5e3efe37590d97cdad45e247029d07ac2) | test(bead): patch claimed show read view fixture | 2026-09-15 16:33:20 EDT |
+| code | — | `981004d` | test(bead): patch claimed show read view fixture | 2026-09-15 16:33:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-116.5.1](../agents/bbugyi200.athena.sase-116.5.1/README.md) | sase-116.5 hood | active |
-| [sase-116.5.2](../agents/bbugyi200.athena.sase-116.5.2/README.md) | sase-116.5 hood | active |
-| [sase-116.1](../agents/bbugyi200.athena.sase-116.1/README.md) | sase-116 hood | active |
-| [sase-116.2](../agents/bbugyi200.athena.sase-116.2/README.md) | sase-116 hood | active |
-| [sase-116.3](../agents/bbugyi200.athena.sase-116.3/README.md) | sase-116 hood | active |
-| [sase-116.4](../agents/bbugyi200.athena.sase-116.4/README.md) | sase-116 hood | active |
-| [sase-116.land](bbugyi200.athena.sase-116.land.md) (session · 3) | sase-116 hood | active 3 |
+| [sase-116.5.1](../agents/bbugyi200.athena.sase-116.5.1/README.md) | sase-116.5 hood | dismissed |
+| [sase-116.5.2](../agents/bbugyi200.athena.sase-116.5.2/README.md) | sase-116.5 hood | dismissed |
+| [sase-116.1](../agents/bbugyi200.athena.sase-116.1/README.md) | sase-116 hood | dismissed |
+| [sase-116.2](../agents/bbugyi200.athena.sase-116.2/README.md) | sase-116 hood | dismissed |
+| [sase-116.3](../agents/bbugyi200.athena.sase-116.3/README.md) | sase-116 hood | dismissed |
+| [sase-116.4](../agents/bbugyi200.athena.sase-116.4/README.md) | sase-116 hood | dismissed |
+| [sase-116.land](bbugyi200.athena.sase-116.land.md) (session · 3) | sase-116 hood | dismissed 3 |
