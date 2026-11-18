@@ -26,5 +26,5 @@
 | [sase-1hf.1](../bbugyi200.athena.sase-1hf.1/README.md) | sase-1hf hood | completed |
 | [sase-1hf.2](../bbugyi200.athena.sase-1hf.2/README.md) | sase-1hf hood | completed |
 | [sase-1hf.4](../bbugyi200.athena.sase-1hf.4/README.md) | sase-1hf hood | completed |
-| [sase-1hf.5](../bbugyi200.athena.sase-1hf.5/README.md) | sase-1hf hood | active |
-| [sase-1hf.land](../bbugyi200.athena.sase-1hf.land/README.md) | sase-1hf hood | waiting |
+| [sase-1hf.5](../bbugyi200.athena.sase-1hf.5/README.md) | sase-1hf hood | dismissed |
+| [sase-1hf.land](../bbugyi200.athena.sase-1hf.land/README.md) | sase-1hf hood | dismissed |

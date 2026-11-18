@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`68a4e89`](https://github.com/sase-org/sase/commit/68a4e89ac48165b789729bb117fa7261dad678ee) | feat(wait): resolve only live waiters from a filesystem view | 2026-10-07 18:13:29 EDT |
+| — | `68a4e89` | feat(wait): resolve only live waiters from a filesystem view | 2026-10-07 18:13:29 EDT |
 
 ## Neighbors
 
@@ -32,5 +32,5 @@
 | [sase-1hf.1](../bbugyi200.athena.sase-1hf.1/README.md) | sase-1hf hood | completed |
 | [sase-1hf.2](../bbugyi200.athena.sase-1hf.2/README.md) | sase-1hf hood | completed |
 | [sase-1hf.3](../../sessions/bbugyi200.athena.sase-1hf.3.md) (session · 3) | sase-1hf hood | completed 2, failed 1 |
-| [sase-1hf.5](../bbugyi200.athena.sase-1hf.5/README.md) | sase-1hf hood | active |
-| [sase-1hf.land](../bbugyi200.athena.sase-1hf.land/README.md) | sase-1hf hood | waiting |
+| [sase-1hf.5](../bbugyi200.athena.sase-1hf.5/README.md) | sase-1hf hood | dismissed |
+| [sase-1hf.land](../bbugyi200.athena.sase-1hf.land/README.md) | sase-1hf hood | dismissed |

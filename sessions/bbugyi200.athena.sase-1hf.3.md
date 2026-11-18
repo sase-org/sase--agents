@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`62604c1`](https://github.com/sase-org/sase/commit/62604c10b7b01af1dd28cd43404d6728c2c3a375) | feat(wait): add release telemetry for wait dependency resolution | 2026-10-07 17:28:12 EDT |
+| 1 | — | `62604c1` | feat(wait): add release telemetry for wait dependency resolution | 2026-10-07 17:28:12 EDT |
 
 ## Neighbors
 
@@ -36,5 +36,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1hf.1](../agents/bbugyi200.athena.sase-1hf.1/README.md) | sase-1hf hood | completed |
 | [sase-1hf.2](../agents/bbugyi200.athena.sase-1hf.2/README.md) | sase-1hf hood | completed |
 | [sase-1hf.4](../agents/bbugyi200.athena.sase-1hf.4/README.md) | sase-1hf hood | completed |
-| [sase-1hf.5](../agents/bbugyi200.athena.sase-1hf.5/README.md) | sase-1hf hood | active |
-| [sase-1hf.land](../agents/bbugyi200.athena.sase-1hf.land/README.md) | sase-1hf hood | waiting |
+| [sase-1hf.5](../agents/bbugyi200.athena.sase-1hf.5/README.md) | sase-1hf hood | dismissed |
+| [sase-1hf.land](../agents/bbugyi200.athena.sase-1hf.land/README.md) | sase-1hf hood | dismissed |

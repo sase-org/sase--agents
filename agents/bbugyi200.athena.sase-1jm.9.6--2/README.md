@@ -23,37 +23,37 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1jm.9.1](../../sessions/bbugyi200.athena.sase-1jm.9.1.md) (session · 5) | sase-1jm.9 hood | completed 3, failed 2 |
-| [sase-1jm.9.2](../bbugyi200.athena.sase-1jm.9.2/README.md) | sase-1jm.9 hood | active |
+| [sase-1jm.9.2](../bbugyi200.athena.sase-1jm.9.2/README.md) | sase-1jm.9 hood | dismissed |
 | [sase-1jm.9.3](../../sessions/bbugyi200.athena.sase-1jm.9.3.md) (session · 5) | sase-1jm.9 hood | completed 3, failed 2 |
-| [sase-1jm.9.4](../../sessions/bbugyi200.athena.sase-1jm.9.4.md) (session · 4) | sase-1jm.9 hood | active 1, completed 2, failed 1 |
-| [sase-1jm.9.5](../bbugyi200.athena.sase-1jm.9.5/README.md) | sase-1jm.9 hood | waiting |
+| [sase-1jm.9.4](../../sessions/bbugyi200.athena.sase-1jm.9.4.md) (session · 4) | sase-1jm.9 hood | completed 2, dismissed 1, failed 1 |
+| [sase-1jm.9.5](../bbugyi200.athena.sase-1jm.9.5/README.md) | sase-1jm.9 hood | dismissed |
 | [sase-1jm.9.7](../bbugyi200.athena.sase-1jm.9.7/README.md) | sase-1jm.9 hood | completed |
-| [sase-1jm.9.8](../bbugyi200.athena.sase-1jm.9.8/README.md) | sase-1jm.9 hood | waiting |
+| [sase-1jm.9.8](../bbugyi200.athena.sase-1jm.9.8/README.md) | sase-1jm.9 hood | dismissed |
 | [sase-1jm.9.land](../bbugyi200.athena.sase-1jm.9.land/README.md) | sase-1jm.9 hood | waiting |
 | [sase-1jm.1](../bbugyi200.athena.sase-1jm.1/README.md) | sase-1jm hood | completed |
 | [sase-1jm.2](../../sessions/bbugyi200.athena.sase-1jm.2.md) (session · 3) | sase-1jm hood | failed 3 |
-| [sase-1jm.2.1.1](../bbugyi200.athena.sase-1jm.2.1.1/README.md) | sase-1jm hood | active |
-| [sase-1jm.2.1.2](../bbugyi200.athena.sase-1jm.2.1.2/README.md) | sase-1jm hood | active |
-| [sase-1jm.2.1.3](../bbugyi200.athena.sase-1jm.2.1.3/README.md) | sase-1jm hood | active |
-| [sase-1jm.2.1.4](../bbugyi200.athena.sase-1jm.2.1.4/README.md) | sase-1jm hood | active |
-| [sase-1jm.2.1.5](../bbugyi200.athena.sase-1jm.2.1.5/README.md) | sase-1jm hood | active |
-| [sase-1jm.2.1.6](../../sessions/bbugyi200.athena.sase-1jm.2.1.6.md) (session · 3) | sase-1jm hood | active 3 |
-| [sase-1jm.2.1.land](../../sessions/bbugyi200.athena.sase-1jm.2.1.land.md) (session · 3) | sase-1jm hood | active 2, completed 1 |
+| [sase-1jm.2.1.1](../bbugyi200.athena.sase-1jm.2.1.1/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.2.1.2](../bbugyi200.athena.sase-1jm.2.1.2/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.2.1.3](../bbugyi200.athena.sase-1jm.2.1.3/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.2.1.4](../bbugyi200.athena.sase-1jm.2.1.4/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.2.1.5](../bbugyi200.athena.sase-1jm.2.1.5/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.2.1.6](../../sessions/bbugyi200.athena.sase-1jm.2.1.6.md) (session · 3) | sase-1jm hood | dismissed 3 |
+| [sase-1jm.2.1.land](../../sessions/bbugyi200.athena.sase-1jm.2.1.land.md) (session · 3) | sase-1jm hood | completed 1, dismissed 2 |
 | [sase-1jm.3](../../sessions/bbugyi200.athena.sase-1jm.3.md) (session · 3) | sase-1jm hood | failed 3 |
-| [sase-1jm.3.1.1](../bbugyi200.athena.sase-1jm.3.1.1/README.md) | sase-1jm hood | active |
-| [sase-1jm.3.1.2](../bbugyi200.athena.sase-1jm.3.1.2/README.md) | sase-1jm hood | active |
-| [sase-1jm.3.1.3](../bbugyi200.athena.sase-1jm.3.1.3/README.md) | sase-1jm hood | active |
-| [sase-1jm.3.1.4](../bbugyi200.athena.sase-1jm.3.1.4/README.md) | sase-1jm hood | active |
-| [sase-1jm.3.1.5](../bbugyi200.athena.sase-1jm.3.1.5/README.md) | sase-1jm hood | active |
-| [sase-1jm.3.1.6](../bbugyi200.athena.sase-1jm.3.1.6/README.md) | sase-1jm hood | active |
-| [sase-1jm.3.1.7](../../sessions/bbugyi200.athena.sase-1jm.3.1.7.md) (session · 3) | sase-1jm hood | active 3 |
-| [sase-1jm.3.1.8.1](../bbugyi200.athena.sase-1jm.3.1.8.1/README.md) | sase-1jm hood | active |
-| [sase-1jm.3.1.8.2](../../sessions/bbugyi200.athena.sase-1jm.3.1.8.2.md) (session · 3) | sase-1jm hood | active 3 |
-| [sase-1jm.3.1.8.3](../bbugyi200.athena.sase-1jm.3.1.8.3/README.md) | sase-1jm hood | active |
-| [sase-1jm.3.1.8.4](../bbugyi200.athena.sase-1jm.3.1.8.4/README.md) | sase-1jm hood | active |
-| [sase-1jm.3.1.8.5](../bbugyi200.athena.sase-1jm.3.1.8.5/README.md) | sase-1jm hood | active |
-| [sase-1jm.3.1.8.land](../../sessions/bbugyi200.athena.sase-1jm.3.1.8.land.md) (session · 3) | sase-1jm hood | active 2, completed 1 |
-| [sase-1jm.3.1.land](../../sessions/bbugyi200.athena.sase-1jm.3.1.land.md) (session · 3) | sase-1jm hood | active 3 |
+| [sase-1jm.3.1.1](../bbugyi200.athena.sase-1jm.3.1.1/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.3.1.2](../bbugyi200.athena.sase-1jm.3.1.2/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.3.1.3](../bbugyi200.athena.sase-1jm.3.1.3/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.3.1.4](../bbugyi200.athena.sase-1jm.3.1.4/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.3.1.5](../bbugyi200.athena.sase-1jm.3.1.5/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.3.1.6](../bbugyi200.athena.sase-1jm.3.1.6/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.3.1.7](../../sessions/bbugyi200.athena.sase-1jm.3.1.7.md) (session · 3) | sase-1jm hood | dismissed 3 |
+| [sase-1jm.3.1.8.1](../bbugyi200.athena.sase-1jm.3.1.8.1/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.3.1.8.2](../../sessions/bbugyi200.athena.sase-1jm.3.1.8.2.md) (session · 3) | sase-1jm hood | dismissed 3 |
+| [sase-1jm.3.1.8.3](../bbugyi200.athena.sase-1jm.3.1.8.3/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.3.1.8.4](../bbugyi200.athena.sase-1jm.3.1.8.4/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.3.1.8.5](../bbugyi200.athena.sase-1jm.3.1.8.5/README.md) | sase-1jm hood | dismissed |
+| [sase-1jm.3.1.8.land](../../sessions/bbugyi200.athena.sase-1jm.3.1.8.land.md) (session · 3) | sase-1jm hood | completed 1, dismissed 2 |
+| [sase-1jm.3.1.land](../../sessions/bbugyi200.athena.sase-1jm.3.1.land.md) (session · 3) | sase-1jm hood | dismissed 3 |
 | [sase-1jm.4](../bbugyi200.athena.sase-1jm.4/README.md) | sase-1jm hood | completed |
 | [sase-1jm.4.2.1](../../sessions/bbugyi200.athena.sase-1jm.4.2.1.md) (session · 5) | sase-1jm hood | completed 3, failed 2 |
 | [sase-1jm.4.2.2](../bbugyi200.athena.sase-1jm.4.2.2/README.md) | sase-1jm hood | completed |

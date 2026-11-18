@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ea7d138`](https://github.com/sase-org/sase/commit/ea7d1388db061f2f4c0233e5a7dd650b292dcfb3) | fix(axe): fire wait fs triggers on dependency pulse, not artifact glob | 2026-10-07 15:16:35 EDT |
+| — | `ea7d138` | fix(axe): fire wait fs triggers on dependency pulse, not artifact glob | 2026-10-07 15:16:35 EDT |
 
 ## Neighbors
 
@@ -32,5 +32,5 @@
 | [sase-1hf.1](../bbugyi200.athena.sase-1hf.1/README.md) | sase-1hf hood | completed |
 | [sase-1hf.3](../../sessions/bbugyi200.athena.sase-1hf.3.md) (session · 3) | sase-1hf hood | completed 2, failed 1 |
 | [sase-1hf.4](../bbugyi200.athena.sase-1hf.4/README.md) | sase-1hf hood | completed |
-| [sase-1hf.5](../bbugyi200.athena.sase-1hf.5/README.md) | sase-1hf hood | active |
-| [sase-1hf.land](../bbugyi200.athena.sase-1hf.land/README.md) | sase-1hf hood | waiting |
+| [sase-1hf.5](../bbugyi200.athena.sase-1hf.5/README.md) | sase-1hf hood | dismissed |
+| [sase-1hf.land](../bbugyi200.athena.sase-1hf.land/README.md) | sase-1hf hood | dismissed |
