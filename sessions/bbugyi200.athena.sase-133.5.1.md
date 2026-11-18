@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["sase-133.5.1--mon [failed]"]
   n0 --> n4
-  n5["sase-133.5.1--plan [active]"]
+  n5["sase-133.5.1--plan [dismissed]"]
   n0 --> n5
   n6["sase-133.5.1--code [completed]"]
   n0 --> n6
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-2"></a>2 | sase-133.5.1--2 | dismissed | grok-4.6 / grok | 2026-09-19T11:34:25.389114 → 2026-09-19T11:45:52.659612 | [1](../agents/bbugyi200.athena.sase-133.5.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-133.5.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-133.5.1--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-133.5.1--mon-0 | failed | grok-4.6 / grok | 2026-09-19T14:18:49.799863+00:00 → 2026-09-19T14:49:34.247872+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-133.5.1--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | sase-133.5.1--mon | failed | grok-4.6 / grok | 2026-09-19T13:48:41.476253+00:00 → 2026-09-19T13:55:02.783886+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-133.5.1--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-133.5.1--plan | active | grok-4.6 / grok | 2026-09-19T12:26:30.461938+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-133.5.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-133.5.1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-133.5.1--plan | dismissed | grok-4.6 / grok | 2026-09-19T08:26:30.461938 → 2026-09-19T09:50:06.389453 | 0 | [Prompt](../agents/bbugyi200.athena.sase-133.5.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-133.5.1--plan/chat.md) |
 | <a id="member-code"></a>code | sase-133.5.1--code | completed | grok-4.6 / grok | 2026-09-19T12:57:49.106156+00:00 → 2026-09-19T13:50:06.322992+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-133.5.1--code/chat.md) |
 
 ## Commits
@@ -45,15 +45,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-133.5.2](bbugyi200.athena.sase-133.5.2.md) (session · 3) | sase-133.5 hood | active 1, completed 1, failed 1 |
+| [sase-133.5.2](bbugyi200.athena.sase-133.5.2.md) (session · 3) | sase-133.5 hood | completed 1, dismissed 1, failed 1 |
 | [sase-133.5.2](../agents/bbugyi200.athena.sase-133.5.2/README.md) | sase-133.5 hood | waiting |
 | [sase-133.5.2.f0](bbugyi200.athena.sase-133.5.2.f0.md) (session · 2) | sase-133.5 hood | active 1, dismissed 1 |
-| [sase-133.5.3](bbugyi200.athena.sase-133.5.3.md) (session · 5) | sase-133.5 hood | active 1, dismissed 2, failed 2 |
+| [sase-133.5.3](bbugyi200.athena.sase-133.5.3.md) (session · 5) | sase-133.5 hood | dismissed 3, failed 2 |
 | [sase-133.5.4](../agents/bbugyi200.athena.sase-133.5.4/README.md) | sase-133.5 hood | dismissed |
 | [sase-133.5.land](../agents/bbugyi200.athena.sase-133.5.land/README.md) | sase-133.5 hood | dismissed |
-| [sase-133.1](bbugyi200.athena.sase-133.1.md) (session · 3) | sase-133 hood | active 1, completed 1, dismissed 1 |
-| [sase-133.2](bbugyi200.athena.sase-133.2.md) (session · 3) | sase-133 hood | active 1, completed 1, dismissed 1 |
-| [sase-133.3](bbugyi200.athena.sase-133.3.md) (session · 3) | sase-133 hood | active 2, completed 1 |
+| [sase-133.1](bbugyi200.athena.sase-133.1.md) (session · 3) | sase-133 hood | completed 1, dismissed 2 |
+| [sase-133.2](bbugyi200.athena.sase-133.2.md) (session · 3) | sase-133 hood | completed 1, dismissed 2 |
+| [sase-133.3](bbugyi200.athena.sase-133.3.md) (session · 3) | sase-133 hood | completed 1, dismissed 2 |
 | [sase-133.4](../agents/bbugyi200.athena.sase-133.4/README.md) | sase-133 hood | dismissed |
-| [sase-133.land](bbugyi200.athena.sase-133.land.md) (session · 3) | sase-133 hood | active 2, dismissed 1 |
+| [sase-133.land](bbugyi200.athena.sase-133.land.md) (session · 3) | sase-133 hood | dismissed 3 |
 | [sase-133.land](../agents/bbugyi200.athena.sase-133.land/README.md) | sase-133 hood | waiting |

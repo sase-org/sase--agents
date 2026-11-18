@@ -21,9 +21,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-13i.4.f0](../../sessions/bbugyi200.athena.sase-13i.4.f0.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [sase-13i.4](../bbugyi200.athena.sase-13i.4/README.md) | ancestor | active |
-| [sase-13i.1](../bbugyi200.athena.sase-13i.1/README.md) | sase-13i hood | active |
-| [sase-13i.2](../bbugyi200.athena.sase-13i.2/README.md) | sase-13i hood | active |
-| [sase-13i.3](../bbugyi200.athena.sase-13i.3/README.md) | sase-13i hood | active |
-| [sase-13i.land](../bbugyi200.athena.sase-13i.land/README.md) | sase-13i hood | active |
+| [sase-13i.4.f0](../../sessions/bbugyi200.athena.sase-13i.4.f0.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [sase-13i.4](../bbugyi200.athena.sase-13i.4/README.md) | ancestor | dismissed |
+| [sase-13i.1](../bbugyi200.athena.sase-13i.1/README.md) | sase-13i hood | dismissed |
+| [sase-13i.2](../bbugyi200.athena.sase-13i.2/README.md) | sase-13i hood | dismissed |
+| [sase-13i.3](../bbugyi200.athena.sase-13i.3/README.md) | sase-13i hood | dismissed |
+| [sase-13i.land](../bbugyi200.athena.sase-13i.land/README.md) | sase-13i hood | dismissed |

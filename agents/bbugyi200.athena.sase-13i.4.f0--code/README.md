@@ -21,15 +21,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a8869ac`](https://github.com/sase-org/sase/commit/a8869ac679d958628f874cd16249cb34f3b7b7c0) | fix(tui): keep collapsed-clan tribe panels and fleet rows across Agents-tab applies | 2026-09-20 11:53:35 EDT |
+| — | `a8869ac` | fix(tui): keep collapsed-clan tribe panels and fleet rows across Agents-tab applies | 2026-09-20 11:53:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-13i.4](../bbugyi200.athena.sase-13i.4/README.md) | ancestor | active |
-| [sase-13i.4.f0.f0](../../sessions/bbugyi200.athena.sase-13i.4.f0.f0.md) (session · 3) | descendant | active 1, failed 2 |
-| [sase-13i.1](../bbugyi200.athena.sase-13i.1/README.md) | sase-13i hood | active |
-| [sase-13i.2](../bbugyi200.athena.sase-13i.2/README.md) | sase-13i hood | active |
-| [sase-13i.3](../bbugyi200.athena.sase-13i.3/README.md) | sase-13i hood | active |
-| [sase-13i.land](../bbugyi200.athena.sase-13i.land/README.md) | sase-13i hood | active |
+| [sase-13i.4](../bbugyi200.athena.sase-13i.4/README.md) | ancestor | dismissed |
+| [sase-13i.4.f0.f0](../../sessions/bbugyi200.athena.sase-13i.4.f0.f0.md) (session · 3) | descendant | dismissed 1, failed 2 |
+| [sase-13i.1](../bbugyi200.athena.sase-13i.1/README.md) | sase-13i hood | dismissed |
+| [sase-13i.2](../bbugyi200.athena.sase-13i.2/README.md) | sase-13i hood | dismissed |
+| [sase-13i.3](../bbugyi200.athena.sase-13i.3/README.md) | sase-13i hood | dismissed |
+| [sase-13i.land](../bbugyi200.athena.sase-13i.land/README.md) | sase-13i hood | dismissed |
