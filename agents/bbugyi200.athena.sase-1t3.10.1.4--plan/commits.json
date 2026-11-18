@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1795018055,"sha":"fbc1e34fbcc4dc7b7636bd10fc02b4f791991830","subject":"perf(tui): bound snapshot and detail retention to one compact generation"}],"schema_version":2,"source_run_id":"run-d94e2b4a43d190d07d1d6a0c4693bd33"}
