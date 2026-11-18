@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7058f16`](https://github.com/sase-org/sase/commit/7058f16ceb867bd5ea3f3d865c9fb24300cdd5dd) | fix(agents): stabilize bounded load convergence | 2026-09-17 18:55:27 EDT |
+| — | `7058f16` | fix(agents): stabilize bounded load convergence | 2026-09-17 18:55:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-127.2](../bbugyi200.athena.sase-127.2/README.md) | sase-127 hood | active |
-| [sase-127.3](../bbugyi200.athena.sase-127.3/README.md) | sase-127 hood | active |
-| [sase-127.4](../bbugyi200.athena.sase-127.4/README.md) | sase-127 hood | active |
-| [sase-127.land](../../sessions/bbugyi200.athena.sase-127.land.md) (session · 5) | sase-127 hood | active 5 |
+| [sase-127.2](../bbugyi200.athena.sase-127.2/README.md) | sase-127 hood | dismissed |
+| [sase-127.3](../bbugyi200.athena.sase-127.3/README.md) | sase-127 hood | dismissed |
+| [sase-127.4](../bbugyi200.athena.sase-127.4/README.md) | sase-127 hood | dismissed |
+| [sase-127.land](../../sessions/bbugyi200.athena.sase-127.land.md) (session · 5) | sase-127 hood | dismissed 5 |

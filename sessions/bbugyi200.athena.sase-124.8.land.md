@@ -29,18 +29,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-124.8.1](../agents/bbugyi200.athena.sase-124.8.1/README.md) | sase-124.8 hood | dismissed |
 | [sase-124.8.2](../agents/bbugyi200.athena.sase-124.8.2/README.md) | sase-124.8 hood | dismissed |
-| [sase-124.8.3](bbugyi200.athena.sase-124.8.3.md) (session · 7) | sase-124.8 hood | active 2, dismissed 5 |
-| [sase-124.8.4.1](bbugyi200.athena.sase-124.8.4.1.md) (session · 5) | sase-124.8 hood | active 1, dismissed 4 |
+| [sase-124.8.3](bbugyi200.athena.sase-124.8.3.md) (session · 7) | sase-124.8 hood | dismissed 7 |
+| [sase-124.8.4.1](bbugyi200.athena.sase-124.8.4.1.md) (session · 5) | sase-124.8 hood | dismissed 5 |
 | [sase-124.8.4.2](../agents/bbugyi200.athena.sase-124.8.4.2/README.md) | sase-124.8 hood | dismissed |
 | [sase-124.8.4.3.1](bbugyi200.athena.sase-124.8.4.3.1.md) (session · 3) | sase-124.8 hood | dismissed 3 |
-| [sase-124.8.4.3.2](bbugyi200.athena.sase-124.8.4.3.2.md) (session · 3) | sase-124.8 hood | active 2, dismissed 1 |
+| [sase-124.8.4.3.2](bbugyi200.athena.sase-124.8.4.3.2.md) (session · 3) | sase-124.8 hood | dismissed 3 |
 | [sase-124.8.4.3.land](../agents/bbugyi200.athena.sase-124.8.4.3.land/README.md) | sase-124.8 hood | dismissed |
-| [sase-124.8.4.land](bbugyi200.athena.sase-124.8.4.land.md) (session · 3) | sase-124.8 hood | active 1, dismissed 2 |
+| [sase-124.8.4.land](bbugyi200.athena.sase-124.8.4.land.md) (session · 3) | sase-124.8 hood | dismissed 3 |
 | [sase-124.1](../agents/bbugyi200.athena.sase-124.1/README.md) | sase-124 hood | dismissed |
 | [sase-124.2](../agents/bbugyi200.athena.sase-124.2/README.md) | sase-124 hood | dismissed |
 | [sase-124.3](../agents/bbugyi200.athena.sase-124.3/README.md) | sase-124 hood | dismissed |
 | [sase-124.4](bbugyi200.athena.sase-124.4.md) (session · 7) | sase-124 hood | completed 1, dismissed 5, failed 1 |
 | [sase-124.5](bbugyi200.athena.sase-124.5.md) (session · 3) | sase-124 hood | dismissed 3 |
 | [sase-124.6](../agents/bbugyi200.athena.sase-124.6/README.md) | sase-124 hood | dismissed |
-| [sase-124.7](../agents/bbugyi200.athena.sase-124.7/README.md) | sase-124 hood | active |
+| [sase-124.7](../agents/bbugyi200.athena.sase-124.7/README.md) | sase-124 hood | dismissed |
 | [sase-124.land](bbugyi200.athena.sase-124.land.md) (session · 3) | sase-124 hood | dismissed 3 |

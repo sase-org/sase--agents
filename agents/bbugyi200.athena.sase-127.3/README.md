@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-127](../../users/bbugyi200/machines/athena/hoods/sase-127/README.md) / sase-127.3
 
-**Global name:** `bbugyi200.athena.sase-127.3` · **State:** active · **Source run:** `run-b7bb65a00cbd65361500e77ec550d728`
+**Global name:** `bbugyi200.athena.sase-127.3` · **State:** dismissed · **Source run:** `run-b7bb65a00cbd65361500e77ec550d728`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-127
 
@@ -12,7 +12,7 @@
 - Epic: [sase-127](https://github.com/sase-org/sase--beads/blob/main/pages/sase-127/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-17T21:06:33.087122+00:00
+- Timing: 2026-09-17T17:06:33.087122 → 2026-09-17T19:33:37.890986
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5b7c455`](https://github.com/sase-org/sase/commit/5b7c4553ccc7ce862535435735785ebb440ed02b) | fix(tui): skip unchanged fleet reprojections | 2026-09-17 19:30:36 EDT |
+| — | `5b7c455` | fix(tui): skip unchanged fleet reprojections | 2026-09-17 19:30:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-127.1](../../sessions/bbugyi200.athena.sase-127.1.md) (session · 3) | sase-127 hood | active 2, completed 1 |
-| [sase-127.2](../bbugyi200.athena.sase-127.2/README.md) | sase-127 hood | active |
-| [sase-127.4](../bbugyi200.athena.sase-127.4/README.md) | sase-127 hood | active |
-| [sase-127.land](../../sessions/bbugyi200.athena.sase-127.land.md) (session · 5) | sase-127 hood | active 5 |
+| [sase-127.1](../../sessions/bbugyi200.athena.sase-127.1.md) (session · 3) | sase-127 hood | completed 1, dismissed 2 |
+| [sase-127.2](../bbugyi200.athena.sase-127.2/README.md) | sase-127 hood | dismissed |
+| [sase-127.4](../bbugyi200.athena.sase-127.4/README.md) | sase-127 hood | dismissed |
+| [sase-127.land](../../sessions/bbugyi200.athena.sase-127.land.md) (session · 5) | sase-127 hood | dismissed 5 |

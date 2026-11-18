@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-126](../../users/bbugyi200/machines/athena/hoods/sase-126/README.md) / [sase-126.1](../../sessions/bbugyi200.athena.sase-126.1.md) / sase-126.1--mon
 
-**Global name:** `bbugyi200.athena.sase-126.1--mon` · **State:** active · **Source run:** `run-c794608f13b78ec08a5d830347648f3e`
+**Global name:** `bbugyi200.athena.sase-126.1--mon` · **State:** dismissed · **Source run:** `run-c794608f13b78ec08a5d830347648f3e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-126
 
@@ -12,7 +12,7 @@
 - Epic: [sase-126](https://github.com/sase-org/sase--beads/blob/main/pages/sase-126/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-17T19:45:12.854111+00:00
+- Timing: 2026-09-17T15:45:12.854111 → 2026-09-17T16:03:17.299852
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-126.2](../bbugyi200.athena.sase-126.2/README.md) | sase-126 hood | active |
-| [sase-126.3](../bbugyi200.athena.sase-126.3/README.md) | sase-126 hood | active |
-| [sase-126.4](../../sessions/bbugyi200.athena.sase-126.4.md) (session · 31) | sase-126 hood | active 31 |
-| [sase-126.land](../../sessions/bbugyi200.athena.sase-126.land.md) (session · 7) | sase-126 hood | active 5, completed 1, failed 1 |
+| [sase-126.2](../bbugyi200.athena.sase-126.2/README.md) | sase-126 hood | dismissed |
+| [sase-126.3](../bbugyi200.athena.sase-126.3/README.md) | sase-126 hood | dismissed |
+| [sase-126.4](../../sessions/bbugyi200.athena.sase-126.4.md) (session · 31) | sase-126 hood | dismissed 31 |
+| [sase-126.land](../../sessions/bbugyi200.athena.sase-126.land.md) (session · 7) | sase-126 hood | completed 1, dismissed 5, failed 1 |

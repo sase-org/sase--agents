@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-126](../../users/bbugyi200/machines/athena/hoods/sase-126/README.md) / [sase-126.4](../../sessions/bbugyi200.athena.sase-126.4.md) / sase-126.4--f
 
-**Global name:** `bbugyi200.athena.sase-126.4--f` · **State:** active · **Source run:** `run-c21a5d7ffd57ed2dd209be401c2a6777`
+**Global name:** `bbugyi200.athena.sase-126.4--f` · **State:** dismissed · **Source run:** `run-c21a5d7ffd57ed2dd209be401c2a6777`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-126
 
@@ -11,7 +11,7 @@
 - Bead: [sase-126.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-126/sase-126.4.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-18T09:02:05.715300+00:00
+- Timing: 2026-09-18T05:02:05.715300 → 2026-09-18T06:22:06.511639
 - Commits: [1](#commits)
 
 ## Files
@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9f9f0d6`](https://github.com/sase-org/sase/commit/9f9f0d6f1c9c05995bba8b5966c19a5edf872f5e) | fix(tui): restore full notification backlog access | 2026-09-18 05:56:27 EDT |
+| — | `9f9f0d6` | fix(tui): restore full notification backlog access | 2026-09-18 05:56:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-126.1](../../sessions/bbugyi200.athena.sase-126.1.md) (session · 3) | sase-126 hood | active 3 |
-| [sase-126.2](../bbugyi200.athena.sase-126.2/README.md) | sase-126 hood | active |
-| [sase-126.3](../bbugyi200.athena.sase-126.3/README.md) | sase-126 hood | active |
-| [sase-126.land](../../sessions/bbugyi200.athena.sase-126.land.md) (session · 7) | sase-126 hood | active 5, completed 1, failed 1 |
+| [sase-126.1](../../sessions/bbugyi200.athena.sase-126.1.md) (session · 3) | sase-126 hood | dismissed 3 |
+| [sase-126.2](../bbugyi200.athena.sase-126.2/README.md) | sase-126 hood | dismissed |
+| [sase-126.3](../bbugyi200.athena.sase-126.3/README.md) | sase-126 hood | dismissed |
+| [sase-126.land](../../sessions/bbugyi200.athena.sase-126.land.md) (session · 7) | sase-126 hood | completed 1, dismissed 5, failed 1 |

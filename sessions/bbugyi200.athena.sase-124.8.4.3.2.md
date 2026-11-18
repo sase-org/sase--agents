@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-124` · Members: 3 · Bead: [sase-124.8
 ```mermaid
 flowchart TD
   n0["sase-124.8.4.3.2--mon [dismissed]"]
-  n1["sase-124.8.4.3.2--plan [active]"]
+  n1["sase-124.8.4.3.2--plan [dismissed]"]
   n0 --> n1
-  n2["sase-124.8.4.3.2--1 [active]"]
+  n2["sase-124.8.4.3.2--1 [dismissed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-124.8.4.3.2--mon | dismissed | gpt-5.5 / codex | 2026-09-18T01:38:53.814904 → 2026-09-18T03:08:57.177479 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-124.8.4.3.2--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-124.8.4.3.2--plan | active | gpt-5.5 / codex | 2026-09-18T05:34:20.144638+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-124.8.4.3.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-124.8.4.3.2--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-124.8.4.3.2--1 | active | gpt-5 / codex | 2026-09-18T07:10:09.536255+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-124.8.4.3.2--1/prompt.md) | — |
+| <a id="member-plan"></a>plan | sase-124.8.4.3.2--plan | dismissed | gpt-5.5 / codex | 2026-09-18T01:34:20.144638 → 2026-09-18T01:39:45.529840 | 0 | [Prompt](../agents/bbugyi200.athena.sase-124.8.4.3.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-124.8.4.3.2--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-124.8.4.3.2--1 | dismissed | gpt-5 / codex | 2026-09-18T03:10:09.536255 → 2026-09-18T03:10:47.450561 | 0 | [Prompt](../agents/bbugyi200.athena.sase-124.8.4.3.2--1/prompt.md) | — |
 
 ## Neighbors
 
@@ -29,12 +29,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-124.8.4.3.1](bbugyi200.athena.sase-124.8.4.3.1.md) (session · 3) | sase-124.8.4.3 hood | dismissed 3 |
 | [sase-124.8.4.3.land](../agents/bbugyi200.athena.sase-124.8.4.3.land/README.md) | sase-124.8.4.3 hood | dismissed |
-| [sase-124.8.4.1](bbugyi200.athena.sase-124.8.4.1.md) (session · 5) | sase-124.8.4 hood | active 1, dismissed 4 |
+| [sase-124.8.4.1](bbugyi200.athena.sase-124.8.4.1.md) (session · 5) | sase-124.8.4 hood | dismissed 5 |
 | [sase-124.8.4.2](../agents/bbugyi200.athena.sase-124.8.4.2/README.md) | sase-124.8.4 hood | dismissed |
-| [sase-124.8.4.land](bbugyi200.athena.sase-124.8.4.land.md) (session · 3) | sase-124.8.4 hood | active 1, dismissed 2 |
+| [sase-124.8.4.land](bbugyi200.athena.sase-124.8.4.land.md) (session · 3) | sase-124.8.4 hood | dismissed 3 |
 | [sase-124.8.1](../agents/bbugyi200.athena.sase-124.8.1/README.md) | sase-124.8 hood | dismissed |
 | [sase-124.8.2](../agents/bbugyi200.athena.sase-124.8.2/README.md) | sase-124.8 hood | dismissed |
-| [sase-124.8.3](bbugyi200.athena.sase-124.8.3.md) (session · 7) | sase-124.8 hood | active 2, dismissed 5 |
+| [sase-124.8.3](bbugyi200.athena.sase-124.8.3.md) (session · 7) | sase-124.8 hood | dismissed 7 |
 | [sase-124.8.land](bbugyi200.athena.sase-124.8.land.md) (session · 3) | sase-124.8 hood | dismissed 3 |
 | [sase-124.1](../agents/bbugyi200.athena.sase-124.1/README.md) | sase-124 hood | dismissed |
 | [sase-124.2](../agents/bbugyi200.athena.sase-124.2/README.md) | sase-124 hood | dismissed |
@@ -42,5 +42,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-124.4](bbugyi200.athena.sase-124.4.md) (session · 7) | sase-124 hood | completed 1, dismissed 5, failed 1 |
 | [sase-124.5](bbugyi200.athena.sase-124.5.md) (session · 3) | sase-124 hood | dismissed 3 |
 | [sase-124.6](../agents/bbugyi200.athena.sase-124.6/README.md) | sase-124 hood | dismissed |
-| [sase-124.7](../agents/bbugyi200.athena.sase-124.7/README.md) | sase-124 hood | active |
+| [sase-124.7](../agents/bbugyi200.athena.sase-124.7/README.md) | sase-124 hood | dismissed |
 | [sase-124.land](bbugyi200.athena.sase-124.land.md) (session · 3) | sase-124 hood | dismissed 3 |

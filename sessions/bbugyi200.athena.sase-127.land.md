@@ -8,14 +8,14 @@ Owner: `bbugyi200.athena` · Hood: `sase-127` · Members: 5 · Bead: [sase-127](
 
 ```mermaid
 flowchart TD
-  n0["sase-127.land--mon-0 [active]"]
-  n1["sase-127.land--2 [active]"]
+  n0["sase-127.land--mon-0 [dismissed]"]
+  n1["sase-127.land--2 [dismissed]"]
   n0 --> n1
-  n2["sase-127.land--1 [active]"]
+  n2["sase-127.land--1 [dismissed]"]
   n0 --> n2
-  n3["sase-127.land--plan [active]"]
+  n3["sase-127.land--plan [dismissed]"]
   n0 --> n3
-  n4["sase-127.land--mon [active]"]
+  n4["sase-127.land--mon [dismissed]"]
   n0 --> n4
 ```
 
@@ -23,17 +23,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon-0"></a>mon-0 | sase-127.land--mon-0 | active | gpt-5.6-sol / codex | 2026-09-18T01:48:45.058832+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-127.land--mon-0/chat.md) |
-| <a id="member-2"></a>2 | sase-127.land--2 | active | gpt-5.6-sol / codex | 2026-09-18T02:11:17.210214+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-127.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-127.land--2/chat.md) |
-| <a id="member-1"></a>1 | sase-127.land--1 | active | gpt-5.6-sol / codex | 2026-09-18T01:35:45.645288+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-127.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-127.land--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-127.land--plan | active | gpt-5.6-sol / codex | 2026-09-18T00:50:33.412049+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-127.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-127.land--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-127.land--mon | active | gpt-5.6-sol / codex | 2026-09-18T00:59:33.306379+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-127.land--mon/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-127.land--mon-0 | dismissed | gpt-5.6-sol / codex | 2026-09-17T21:48:45.058832 → 2026-09-17T21:51:55.749492 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-127.land--mon-0/chat.md) |
+| <a id="member-2"></a>2 | sase-127.land--2 | dismissed | gpt-5.6-sol / codex | 2026-09-17T22:11:17.210214 → 2026-09-17T22:16:17.959761 | 0 | [Prompt](../agents/bbugyi200.athena.sase-127.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-127.land--2/chat.md) |
+| <a id="member-1"></a>1 | sase-127.land--1 | dismissed | gpt-5.6-sol / codex | 2026-09-17T21:35:45.645288 → 2026-09-17T21:49:40.206556 | 0 | [Prompt](../agents/bbugyi200.athena.sase-127.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-127.land--1/chat.md) |
+| <a id="member-plan"></a>plan | sase-127.land--plan | dismissed | gpt-5.6-sol / codex | 2026-09-17T20:50:33.412049 → 2026-09-17T20:59:52.076288 | 0 | [Prompt](../agents/bbugyi200.athena.sase-127.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-127.land--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-127.land--mon | dismissed | gpt-5.6-sol / codex | 2026-09-17T20:59:33.306379 → 2026-09-17T21:20:59.043274 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-127.land--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-127.1](bbugyi200.athena.sase-127.1.md) (session · 3) | sase-127 hood | active 2, completed 1 |
-| [sase-127.2](../agents/bbugyi200.athena.sase-127.2/README.md) | sase-127 hood | active |
-| [sase-127.3](../agents/bbugyi200.athena.sase-127.3/README.md) | sase-127 hood | active |
-| [sase-127.4](../agents/bbugyi200.athena.sase-127.4/README.md) | sase-127 hood | active |
+| [sase-127.1](bbugyi200.athena.sase-127.1.md) (session · 3) | sase-127 hood | completed 1, dismissed 2 |
+| [sase-127.2](../agents/bbugyi200.athena.sase-127.2/README.md) | sase-127 hood | dismissed |
+| [sase-127.3](../agents/bbugyi200.athena.sase-127.3/README.md) | sase-127 hood | dismissed |
+| [sase-127.4](../agents/bbugyi200.athena.sase-127.4/README.md) | sase-127 hood | dismissed |
