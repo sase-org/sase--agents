@@ -66,7 +66,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1t3.11.1.3](../bbugyi200.athena.sase-1t3.11.1.3/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.11.1.4](../bbugyi200.athena.sase-1t3.11.1.4/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.11.1.5](../bbugyi200.athena.sase-1t3.11.1.5/README.md) | sase-1t3 hood | completed |
-| [sase-1t3.11.1.6](../bbugyi200.athena.sase-1t3.11.1.6/README.md) | sase-1t3 hood | waiting |
+| [sase-1t3.11.1.6](../../sessions/bbugyi200.athena.sase-1t3.11.1.6.md) (session · 8) | sase-1t3 hood | completed 7, failed 1 |
 | [sase-1t3.11.1.land](../bbugyi200.athena.sase-1t3.11.1.land/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.12](../../sessions/bbugyi200.athena.sase-1t3.12.md) (session · 11) | sase-1t3 hood | completed 8, failed 3 |
 | [sase-1t3.13](../bbugyi200.athena.sase-1t3.13/README.md) | sase-1t3 hood | waiting |
