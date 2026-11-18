@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tc](../../users/bbugyi200/machines/athena/hoods/sase-1tc/README.md) / sase-1tc.3.1.6.4
 
-**Global name:** `bbugyi200.athena.sase-1tc.3.1.6.4` · **State:** waiting · **Source run:** `run-80f9c7424587452bef3e2358e822dff5`
+**Global name:** `bbugyi200.athena.sase-1tc.3.1.6.4` · **State:** completed · **Source run:** `run-80f9c7424587452bef3e2358e822dff5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tc
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tc.3.1.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tc/sase-1tc.3.1.6.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261118072225
-- Commits: 0
+- Timing: 2026-11-18T18:54:11.332761+00:00 → 2026-11-18T20:28:42.747484+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5b08952`](https://github.com/sase-org/sase/commit/5b08952c6d8dd69b6b1731989a3580c61b3d660e) | feat(axe): re-prove chop batch recovery with production-shaped acceptance evidence | 2026-11-18 15:27:35 EST |
 
 ## Neighbors
 
