@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.13.1.2
 
-**Global name:** `bbugyi200.athena.sase-1t3.13.1.2` · **State:** active · **Source run:** `run-3a05b5405ecc52618581ab361804fda9`
+**Global name:** `bbugyi200.athena.sase-1t3.13.1.2` · **State:** completed · **Source run:** `run-3a05b5405ecc52618581ab361804fda9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1t3.13.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.13.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-18T20:54:15.155314+00:00
-- Commits: 0
+- Timing: 2026-11-18T20:54:15.155314+00:00 → 2026-11-18T22:52:00.453880+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`194b1a1`](https://github.com/sase-org/sase/commit/194b1a1ef4175fe5397b8f666883ac9028cbcec3) | feat(tui): bound agent detail enrichment | 2026-11-18 17:50:31 EST |
 
 ## Neighbors
 
