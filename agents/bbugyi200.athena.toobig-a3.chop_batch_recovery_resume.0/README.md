@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-a3.repository\_integration.0](../bbugyi200.athena.toobig-a3.repository_integration.0/README.md) | toobig-a3 hood | waiting |
+| [toobig-a3.repository\_integration.0](../bbugyi200.athena.toobig-a3.repository_integration.0/README.md) | toobig-a3 hood | completed |

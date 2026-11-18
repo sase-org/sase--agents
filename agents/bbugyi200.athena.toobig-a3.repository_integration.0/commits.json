@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bca47dc58e36d2ac8e6b82e627a5c50b"}
+{"commits":[{"committed_at":1795020570,"sha":"5f4807e61b158267d7578c93915e3f736fabc349","subject":"refactor(sdd): split _repository_integration into facade plus three modules"}],"schema_version":2,"source_run_id":"run-bca47dc58e36d2ac8e6b82e627a5c50b"}
