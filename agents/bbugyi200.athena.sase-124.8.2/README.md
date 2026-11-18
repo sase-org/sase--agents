@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-124](../../users/bbugyi200/machines/athena/hoods/sase-124/README.md) / sase-124.8.2
 
-**Global name:** `bbugyi200.athena.sase-124.8.2` · **State:** active · **Source run:** `run-958c989ec82fb99b82e8655eecb17cd1`
+**Global name:** `bbugyi200.athena.sase-124.8.2` · **State:** dismissed · **Source run:** `run-958c989ec82fb99b82e8655eecb17cd1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-124
 
@@ -12,7 +12,7 @@
 - Epic: [sase-124.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-124/sase-124.8.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-17T22:42:31.694503+00:00
+- Timing: 2026-09-17T18:42:31.694503 → 2026-09-17T19:38:54.946519
 - Commits: [1](#commits)
 
 ## Files
@@ -23,26 +23,26 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9a1d5d6`](https://github.com/sase-org/sase/commit/9a1d5d67a2ba99549dbd5ae5fbbc6cf533abf64a) | fix(tui): detach attention inventory polling | 2026-09-17 19:35:58 EDT |
+| — | `9a1d5d6` | fix(tui): detach attention inventory polling | 2026-09-17 19:35:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-124.8.1](../bbugyi200.athena.sase-124.8.1/README.md) | sase-124.8 hood | active |
-| [sase-124.8.3](../../sessions/bbugyi200.athena.sase-124.8.3.md) (session · 7) | sase-124.8 hood | active 7 |
-| [sase-124.8.4.1](../../sessions/bbugyi200.athena.sase-124.8.4.1.md) (session · 5) | sase-124.8 hood | active 5 |
-| [sase-124.8.4.2](../bbugyi200.athena.sase-124.8.4.2/README.md) | sase-124.8 hood | active |
-| [sase-124.8.4.3.1](../../sessions/bbugyi200.athena.sase-124.8.4.3.1.md) (session · 3) | sase-124.8 hood | active 3 |
-| [sase-124.8.4.3.2](../../sessions/bbugyi200.athena.sase-124.8.4.3.2.md) (session · 3) | sase-124.8 hood | active 3 |
-| [sase-124.8.4.3.land](../bbugyi200.athena.sase-124.8.4.3.land/README.md) | sase-124.8 hood | waiting |
-| [sase-124.8.4.land](../../sessions/bbugyi200.athena.sase-124.8.4.land.md) (session · 3) | sase-124.8 hood | active 3 |
-| [sase-124.8.land](../../sessions/bbugyi200.athena.sase-124.8.land.md) (session · 3) | sase-124.8 hood | active 3 |
-| [sase-124.1](../bbugyi200.athena.sase-124.1/README.md) | sase-124 hood | active |
-| [sase-124.2](../bbugyi200.athena.sase-124.2/README.md) | sase-124 hood | active |
-| [sase-124.3](../bbugyi200.athena.sase-124.3/README.md) | sase-124 hood | active |
-| [sase-124.4](../../sessions/bbugyi200.athena.sase-124.4.md) (session · 7) | sase-124 hood | active 5, completed 1, failed 1 |
-| [sase-124.5](../../sessions/bbugyi200.athena.sase-124.5.md) (session · 3) | sase-124 hood | active 3 |
-| [sase-124.6](../bbugyi200.athena.sase-124.6/README.md) | sase-124 hood | active |
+| [sase-124.8.1](../bbugyi200.athena.sase-124.8.1/README.md) | sase-124.8 hood | dismissed |
+| [sase-124.8.3](../../sessions/bbugyi200.athena.sase-124.8.3.md) (session · 7) | sase-124.8 hood | active 2, dismissed 5 |
+| [sase-124.8.4.1](../../sessions/bbugyi200.athena.sase-124.8.4.1.md) (session · 5) | sase-124.8 hood | active 1, dismissed 4 |
+| [sase-124.8.4.2](../bbugyi200.athena.sase-124.8.4.2/README.md) | sase-124.8 hood | dismissed |
+| [sase-124.8.4.3.1](../../sessions/bbugyi200.athena.sase-124.8.4.3.1.md) (session · 3) | sase-124.8 hood | dismissed 3 |
+| [sase-124.8.4.3.2](../../sessions/bbugyi200.athena.sase-124.8.4.3.2.md) (session · 3) | sase-124.8 hood | active 2, dismissed 1 |
+| [sase-124.8.4.3.land](../bbugyi200.athena.sase-124.8.4.3.land/README.md) | sase-124.8 hood | dismissed |
+| [sase-124.8.4.land](../../sessions/bbugyi200.athena.sase-124.8.4.land.md) (session · 3) | sase-124.8 hood | active 1, dismissed 2 |
+| [sase-124.8.land](../../sessions/bbugyi200.athena.sase-124.8.land.md) (session · 3) | sase-124.8 hood | dismissed 3 |
+| [sase-124.1](../bbugyi200.athena.sase-124.1/README.md) | sase-124 hood | dismissed |
+| [sase-124.2](../bbugyi200.athena.sase-124.2/README.md) | sase-124 hood | dismissed |
+| [sase-124.3](../bbugyi200.athena.sase-124.3/README.md) | sase-124 hood | dismissed |
+| [sase-124.4](../../sessions/bbugyi200.athena.sase-124.4.md) (session · 7) | sase-124 hood | completed 1, dismissed 5, failed 1 |
+| [sase-124.5](../../sessions/bbugyi200.athena.sase-124.5.md) (session · 3) | sase-124 hood | dismissed 3 |
+| [sase-124.6](../bbugyi200.athena.sase-124.6/README.md) | sase-124 hood | dismissed |
 | [sase-124.7](../bbugyi200.athena.sase-124.7/README.md) | sase-124 hood | active |
-| [sase-124.land](../../sessions/bbugyi200.athena.sase-124.land.md) (session · 3) | sase-124 hood | active 3 |
+| [sase-124.land](../../sessions/bbugyi200.athena.sase-124.land.md) (session · 3) | sase-124 hood | dismissed 3 |
