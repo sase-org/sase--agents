@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-17d](../../users/bbugyi200/machines/athena/hoods/sase-17d/README.md) / [sase-17d.10.1.2](../../sessions/bbugyi200.athena.sase-17d.10.1.2.md) / sase-17d.10.1.2--gate
 
-**Global name:** `bbugyi200.athena.sase-17d.10.1.2--gate` · **State:** active · **Source run:** `run-b468ef05156682fd63dbb3f5b1a3a600`
+**Global name:** `bbugyi200.athena.sase-17d.10.1.2--gate` · **State:** dismissed · **Source run:** `run-b468ef05156682fd63dbb3f5b1a3a600`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-17d
 
@@ -11,7 +11,7 @@
 - Bead: [sase-17d.10.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-17d/sase-17d.10.1.2.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-09-24T18:03:24.046445+00:00
+- Timing: 2026-09-24T14:03:24.046445 → 2026-09-24T14:03:52
 - Commits: 0
 
 ## Files
@@ -23,12 +23,12 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-17d.10](../bbugyi200.athena.sase-17d.10/README.md) | ancestor | waiting |
-| [sase-17d.10.1.1](../../sessions/bbugyi200.athena.sase-17d.10.1.1.md) (session · 7) | sase-17d.10.1 hood | active 1, completed 2, failed 4 |
-| [sase-17d.10.1.3](../../sessions/bbugyi200.athena.sase-17d.10.1.3.md) (session · 3) | sase-17d.10.1 hood | active 3 |
+| [sase-17d.10.1.1](../../sessions/bbugyi200.athena.sase-17d.10.1.1.md) (session · 7) | sase-17d.10.1 hood | completed 2, dismissed 1, failed 4 |
+| [sase-17d.10.1.3](../../sessions/bbugyi200.athena.sase-17d.10.1.3.md) (session · 3) | sase-17d.10.1 hood | dismissed 3 |
 | [sase-17d.10.1.4.1](../bbugyi200.athena.sase-17d.10.1.4.1/README.md) | sase-17d.10.1 hood | dismissed |
-| [sase-17d.10.1.4.3](../bbugyi200.athena.sase-17d.10.1.4.3/README.md) | sase-17d.10.1 hood | active |
-| [sase-17d.10.1.4.land](../bbugyi200.athena.sase-17d.10.1.4.land/README.md) | sase-17d.10.1 hood | active |
-| [sase-17d.10.1.land](../../sessions/bbugyi200.athena.sase-17d.10.1.land.md) (session · 3) | sase-17d.10.1 hood | active 3 |
+| [sase-17d.10.1.4.3](../bbugyi200.athena.sase-17d.10.1.4.3/README.md) | sase-17d.10.1 hood | dismissed |
+| [sase-17d.10.1.4.land](../bbugyi200.athena.sase-17d.10.1.4.land/README.md) | sase-17d.10.1 hood | dismissed |
+| [sase-17d.10.1.land](../../sessions/bbugyi200.athena.sase-17d.10.1.land.md) (session · 3) | sase-17d.10.1 hood | dismissed 3 |
 | [sase-17d.1](../bbugyi200.athena.sase-17d.1/README.md) | sase-17d hood | completed |
 | [sase-17d.11](../bbugyi200.athena.sase-17d.11/README.md) | sase-17d hood | completed |
 | [sase-17d.12.1](../bbugyi200.athena.sase-17d.12.1/README.md) | sase-17d hood | completed |
@@ -45,7 +45,7 @@
 | [sase-17d.7](../bbugyi200.athena.sase-17d.7/README.md) | sase-17d hood | completed |
 | [sase-17d.8](../../sessions/bbugyi200.athena.sase-17d.8.md) (session · 3) | sase-17d hood | completed 2, failed 1 |
 | [sase-17d.8](../bbugyi200.athena.sase-17d.8/README.md) | sase-17d hood | waiting |
-| [sase-17d.8.f0](../bbugyi200.athena.sase-17d.8.f0/README.md) | sase-17d hood | active |
-| [sase-17d.8.f0.f0](../bbugyi200.athena.sase-17d.8.f0.f0/README.md) | sase-17d hood | active |
+| [sase-17d.8.f0](../bbugyi200.athena.sase-17d.8.f0/README.md) | sase-17d hood | dismissed |
+| [sase-17d.8.f0.f0](../bbugyi200.athena.sase-17d.8.f0.f0/README.md) | sase-17d hood | dismissed |
 | [sase-17d.9](../bbugyi200.athena.sase-17d.9/README.md) | sase-17d hood | completed |
 | [sase-17d.land](../../sessions/bbugyi200.athena.sase-17d.land.md) (session · 3) | sase-17d hood | failed 3 |

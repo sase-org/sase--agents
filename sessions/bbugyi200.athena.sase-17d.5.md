@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`075225d`](https://github.com/sase-org/sase/commit/075225d53795b20eb18dd4a8f32a421ebaa8caad) | feat(ace): implement deck splits focus layout state machine | 2026-09-24 08:27:07 EDT |
+| 1 | — | `075225d` | feat(ace): implement deck splits focus layout state machine | 2026-09-24 08:27:07 EDT |
 
 ## Neighbors
 
@@ -42,14 +42,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-17d.1](../agents/bbugyi200.athena.sase-17d.1/README.md) | sase-17d hood | completed |
 | [sase-17d.10](bbugyi200.athena.sase-17d.10.md) (session · 3) | sase-17d hood | failed 3 |
 | [sase-17d.10](../agents/bbugyi200.athena.sase-17d.10/README.md) | sase-17d hood | waiting |
-| [sase-17d.10.1.1](bbugyi200.athena.sase-17d.10.1.1.md) (session · 7) | sase-17d hood | active 1, completed 2, failed 4 |
-| [sase-17d.10.1.2](bbugyi200.athena.sase-17d.10.1.2.md) (session · 3) | sase-17d hood | active 2, completed 1 |
+| [sase-17d.10.1.1](bbugyi200.athena.sase-17d.10.1.1.md) (session · 7) | sase-17d hood | completed 2, dismissed 1, failed 4 |
+| [sase-17d.10.1.2](bbugyi200.athena.sase-17d.10.1.2.md) (session · 3) | sase-17d hood | completed 1, dismissed 2 |
 | [sase-17d.10.1.2](../agents/bbugyi200.athena.sase-17d.10.1.2/README.md) | sase-17d hood | waiting |
-| [sase-17d.10.1.3](bbugyi200.athena.sase-17d.10.1.3.md) (session · 3) | sase-17d hood | active 3 |
+| [sase-17d.10.1.3](bbugyi200.athena.sase-17d.10.1.3.md) (session · 3) | sase-17d hood | dismissed 3 |
 | [sase-17d.10.1.4.1](../agents/bbugyi200.athena.sase-17d.10.1.4.1/README.md) | sase-17d hood | dismissed |
-| [sase-17d.10.1.4.3](../agents/bbugyi200.athena.sase-17d.10.1.4.3/README.md) | sase-17d hood | active |
-| [sase-17d.10.1.4.land](../agents/bbugyi200.athena.sase-17d.10.1.4.land/README.md) | sase-17d hood | active |
-| [sase-17d.10.1.land](bbugyi200.athena.sase-17d.10.1.land.md) (session · 3) | sase-17d hood | active 3 |
+| [sase-17d.10.1.4.3](../agents/bbugyi200.athena.sase-17d.10.1.4.3/README.md) | sase-17d hood | dismissed |
+| [sase-17d.10.1.4.land](../agents/bbugyi200.athena.sase-17d.10.1.4.land/README.md) | sase-17d hood | dismissed |
+| [sase-17d.10.1.land](bbugyi200.athena.sase-17d.10.1.land.md) (session · 3) | sase-17d hood | dismissed 3 |
 | [sase-17d.11](../agents/bbugyi200.athena.sase-17d.11/README.md) | sase-17d hood | completed |
 | [sase-17d.12.1](../agents/bbugyi200.athena.sase-17d.12.1/README.md) | sase-17d hood | completed |
 | [sase-17d.12.2](bbugyi200.athena.sase-17d.12.2.md) (session · 7) | sase-17d hood | completed 4, failed 3 |
@@ -63,7 +63,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-17d.7](../agents/bbugyi200.athena.sase-17d.7/README.md) | sase-17d hood | completed |
 | [sase-17d.8](bbugyi200.athena.sase-17d.8.md) (session · 3) | sase-17d hood | completed 2, failed 1 |
 | [sase-17d.8](../agents/bbugyi200.athena.sase-17d.8/README.md) | sase-17d hood | waiting |
-| [sase-17d.8.f0](../agents/bbugyi200.athena.sase-17d.8.f0/README.md) | sase-17d hood | active |
-| [sase-17d.8.f0.f0](../agents/bbugyi200.athena.sase-17d.8.f0.f0/README.md) | sase-17d hood | active |
+| [sase-17d.8.f0](../agents/bbugyi200.athena.sase-17d.8.f0/README.md) | sase-17d hood | dismissed |
+| [sase-17d.8.f0.f0](../agents/bbugyi200.athena.sase-17d.8.f0.f0/README.md) | sase-17d hood | dismissed |
 | [sase-17d.9](../agents/bbugyi200.athena.sase-17d.9/README.md) | sase-17d hood | completed |
 | [sase-17d.land](bbugyi200.athena.sase-17d.land.md) (session · 3) | sase-17d hood | failed 3 |
