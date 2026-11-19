@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5e.cld
 
-**Global name:** `bbugyi200.apollo.research.5e.cld` · **State:** active · **Source run:** `run-0d1d81e4421b8cf88c8bea1d733668ac`
+**Global name:** `bbugyi200.apollo.research.5e.cld` · **State:** completed · **Source run:** `run-0d1d81e4421b8cf88c8bea1d733668ac`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-19T09:59:35.131963+00:00
+- Timing: 2026-11-19T09:59:35.131963+00:00 → 2026-11-19T10:33:30.274602+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/sase\_notifications\_and\_error\_logs\_audit\_apollo\_athena\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261119045814/sase\_notifications\_an… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/sase_notifications_and_error_logs_audit_apollo_athena__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261119045814/sase_notifications_and_error_logs_audit_apollo_athena__cld-135b5e81be5c.md
+  ref: file:explicit:2c8c56826063faf7c90f8c85
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/sase_notifications_and_error_logs_audit_apollo_athena__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
