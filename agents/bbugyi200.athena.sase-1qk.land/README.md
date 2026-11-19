@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1qk](../../users/bbugyi200/machines/athena/hoods/sase-1qk/README.md) / sase-1qk.land
 
-**Global name:** `bbugyi200.athena.sase-1qk.land` · **State:** waiting · **Source run:** `run-e96354b5d560b54d4d13b51a1e459950`
+**Global name:** `bbugyi200.athena.sase-1qk.land` · **State:** dismissed · **Source run:** `run-e96354b5d560b54d4d13b51a1e459950`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1qk
 
@@ -11,7 +11,7 @@
 - Bead: [sase-1qk](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qk/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261101120505
+- Timing: 2026-11-01T12:05:05
 - Commits: 0
 
 ## Files

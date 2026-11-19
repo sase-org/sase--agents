@@ -28,4 +28,4 @@
 | [sase-1qk.3](../../sessions/bbugyi200.athena.sase-1qk.3.md) (session · 17) | sase-1qk hood | completed 10, failed 7 |
 | [sase-1qk.4](../../sessions/bbugyi200.athena.sase-1qk.4.md) (session · 3) | sase-1qk hood | completed 2, failed 1 |
 | [sase-1qk.6](../../sessions/bbugyi200.athena.sase-1qk.6.md) (session · 5) | sase-1qk hood | completed 4, failed 1 |
-| [sase-1qk.land](../bbugyi200.athena.sase-1qk.land/README.md) | sase-1qk hood | waiting |
+| [sase-1qk.land](../bbugyi200.athena.sase-1qk.land/README.md) | sase-1qk hood | dismissed |

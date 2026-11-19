@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`17d8fe5`](https://github.com/sase-org/sase/commit/17d8fe593726e4691972f17b5c8aaeb8635a86d7) | feat(gate-turn): make gate entry signal-safe and withdraw lost gates | 2026-11-01 13:02:47 EST |
+| — | `17d8fe5` | feat(gate-turn): make gate entry signal-safe and withdraw lost gates | 2026-11-01 13:02:47 EST |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [sase-1qk.3](../../sessions/bbugyi200.athena.sase-1qk.3.md) (session · 17) | sase-1qk hood | completed 10, failed 7 |
 | [sase-1qk.5](../../sessions/bbugyi200.athena.sase-1qk.5.md) (session · 3) | sase-1qk hood | completed 3 |
 | [sase-1qk.6](../../sessions/bbugyi200.athena.sase-1qk.6.md) (session · 5) | sase-1qk hood | completed 4, failed 1 |
-| [sase-1qk.land](../bbugyi200.athena.sase-1qk.land/README.md) | sase-1qk hood | waiting |
+| [sase-1qk.land](../bbugyi200.athena.sase-1qk.land/README.md) | sase-1qk hood | dismissed |

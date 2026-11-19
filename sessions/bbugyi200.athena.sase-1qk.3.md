@@ -69,7 +69,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 8 | sase | [`a792079`](https://github.com/sase-org/sase/commit/a79207993c4e619c235c3325e351e8610a2a0168) | fix(staged-handoff): reclaim dead-owner reservations before monitor spawn | 2026-11-01 18:15:37 EST |
+| 8 | — | `a792079` | fix(staged-handoff): reclaim dead-owner reservations before monitor spawn | 2026-11-01 18:15:37 EST |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1qk.4](bbugyi200.athena.sase-1qk.4.md) (session · 3) | sase-1qk hood | completed 2, failed 1 |
 | [sase-1qk.5](bbugyi200.athena.sase-1qk.5.md) (session · 3) | sase-1qk hood | completed 3 |
 | [sase-1qk.6](bbugyi200.athena.sase-1qk.6.md) (session · 5) | sase-1qk hood | completed 4, failed 1 |
-| [sase-1qk.land](../agents/bbugyi200.athena.sase-1qk.land/README.md) | sase-1qk hood | waiting |
+| [sase-1qk.land](../agents/bbugyi200.athena.sase-1qk.land/README.md) | sase-1qk hood | dismissed |
