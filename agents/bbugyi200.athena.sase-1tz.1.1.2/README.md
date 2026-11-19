@@ -1,0 +1,34 @@
+# Agent: sase-1tz.1.1.2
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.1.1.2
+
+**Global name:** `bbugyi200.athena.sase-1tz.1.1.2` · **State:** active · **Source run:** `run-f77188ccca12e3b20e6500b27c7c9c90`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
+
+## Summary
+
+- Bead: [sase-1tz.1.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.1.1.2.md)
+- Epic: [sase-1tz.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.1.1.md)
+- Model: muse-spark-1.3-contributor
+- Provider: muse
+- Timing: 20261119072956
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-1tz.1](../../sessions/bbugyi200.athena.sase-1tz.1.md) (session · 3) | ancestor | active 2, completed 1 |
+| [sase-1tz.1.1.1](../bbugyi200.athena.sase-1tz.1.1.1/README.md) | sase-1tz.1.1 hood | active |
+| [sase-1tz.1.1.3](../bbugyi200.athena.sase-1tz.1.1.3/README.md) | sase-1tz.1.1 hood | active |
+| [sase-1tz.1.1.4](../bbugyi200.athena.sase-1tz.1.1.4/README.md) | sase-1tz.1.1 hood | active |
+| [sase-1tz.1.1.7](../bbugyi200.athena.sase-1tz.1.1.7/README.md) | sase-1tz.1.1 hood | active |
+| [sase-1tz.2](../bbugyi200.athena.sase-1tz.2/README.md) | sase-1tz hood | waiting |
+| [sase-1tz.3](../bbugyi200.athena.sase-1tz.3/README.md) | sase-1tz hood | waiting |
+| [sase-1tz.4](../bbugyi200.athena.sase-1tz.4/README.md) | sase-1tz hood | waiting |
+| [sase-1tz.land](../bbugyi200.athena.sase-1tz.land/README.md) | sase-1tz hood | waiting |
