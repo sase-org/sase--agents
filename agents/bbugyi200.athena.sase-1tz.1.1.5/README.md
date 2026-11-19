@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.1.1.5
 
-**Global name:** `bbugyi200.athena.sase-1tz.1.1.5` · **State:** waiting · **Source run:** `run-57ddd99d16fca531811c8d45c80f1530`
+**Global name:** `bbugyi200.athena.sase-1tz.1.1.5` · **State:** completed · **Source run:** `run-57ddd99d16fca531811c8d45c80f1530`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.1.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261119072957
-- Commits: 0
+- Timing: 2026-11-19T14:13:38.578959+00:00 → 2026-11-19T15:35:28.342124+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`6f21d01`](https://github.com/sase-org/sase/commit/6f21d01de33c0fa13f3479eaeb0091f7607dbd73) | feat(disk): prioritize workspace root measurements | 2026-11-19 10:34:30 EST |
 
 ## Neighbors
 
