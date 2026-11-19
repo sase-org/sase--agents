@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3fe8d5d`](https://github.com/sase-org/sase/commit/3fe8d5d34b7a0530860ff8f0e7922490dcbdc56f) | feat(recovery): enforce bootstrap inheritance before provider execution | 2026-11-05 12:45:56 EST |
+| — | `3fe8d5d` | feat(recovery): enforce bootstrap inheritance before provider execution | 2026-11-05 12:45:56 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | ancestor | active 1, completed 3 |
+| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | ancestor | completed 3, dismissed 1 |
 | [sase-1qz.6.1.4.1.1](../bbugyi200.athena.sase-1qz.6.1.4.1.1/README.md) | sase-1qz.6.1.4.1 hood | completed |
 | [sase-1qz.6.1.4.1.2](../bbugyi200.athena.sase-1qz.6.1.4.1.2/README.md) | sase-1qz.6.1.4.1 hood | completed |
 | [sase-1qz.6.1.4.1.3](../bbugyi200.athena.sase-1qz.6.1.4.1.3/README.md) | sase-1qz.6.1.4.1 hood | completed |

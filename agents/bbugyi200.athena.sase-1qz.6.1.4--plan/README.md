@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1qz](../../users/bbugyi200/machines/athena/hoods/sase-1qz/README.md) / [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) / sase-1qz.6.1.4--plan
 
-**Global name:** `bbugyi200.athena.sase-1qz.6.1.4--plan` · **State:** active · **Source run:** `run-b0f8871eed71bc41cdb661b7ffb24b2e`
+**Global name:** `bbugyi200.athena.sase-1qz.6.1.4--plan` · **State:** dismissed · **Source run:** `run-b0f8871eed71bc41cdb661b7ffb24b2e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1qz
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1qz.6.1.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qz/sase-1qz.6.1.4.1.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-05T14:53:44.928876+00:00 → 2026-11-05T15:12:06.521570+00:00
+- Timing: 2026-11-05T09:53:44.928876 → 2026-11-05T10:12:06.758711
 - Commits: 0
 
 ## Files

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`48d0c3e`](https://github.com/sase-org/sase/commit/48d0c3ea2d3f193b1538505d565afd681e21c45b) | fix(ci): repair Full CI visual-test drift and pin capacity hostname seam | 2026-11-07 10:38:01 EST |
+| — | `48d0c3e` | fix(ci): repair Full CI visual-test drift and pin capacity hostname seam | 2026-11-07 10:38:01 EST |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@
 | [sase-1r2.5](../../sessions/bbugyi200.athena.sase-1r2.5.md) (session · 3) | sase-1r2 hood | completed 2, failed 1 |
 | [sase-1r2.7](../../sessions/bbugyi200.athena.sase-1r2.7.md) (session · 3) | sase-1r2 hood | completed 2, failed 1 |
 | [sase-1r2.8](../bbugyi200.athena.sase-1r2.8/README.md) | sase-1r2 hood | completed |
-| [sase-1r2.land](../bbugyi200.athena.sase-1r2.land/README.md) | sase-1r2 hood | waiting |
+| [sase-1r2.land](../bbugyi200.athena.sase-1r2.land/README.md) | sase-1r2 hood | dismissed |

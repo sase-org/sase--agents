@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7896ea6`](https://github.com/sase-org/sase/commit/7896ea657b8ef77c72f16cb309ca70f100e05381) | feat(agent-recovery): persist pinned recovery admission | 2026-11-05 14:21:08 EST |
+| — | `7896ea6` | feat(agent-recovery): persist pinned recovery admission | 2026-11-05 14:21:08 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | ancestor | active 1, completed 3 |
+| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | ancestor | completed 3, dismissed 1 |
 | [sase-1qz.6.1.4.1.1](../bbugyi200.athena.sase-1qz.6.1.4.1.1/README.md) | sase-1qz.6.1.4.1 hood | completed |
 | [sase-1qz.6.1.4.1.2](../bbugyi200.athena.sase-1qz.6.1.4.1.2/README.md) | sase-1qz.6.1.4.1 hood | completed |
 | [sase-1qz.6.1.4.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.1.4.md) (session · 3) | sase-1qz.6.1.4.1 hood | completed 2, failed 1 |

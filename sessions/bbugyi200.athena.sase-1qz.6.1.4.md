@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1qz.6.1.4--1 [completed]"]
   n1["sase-1qz.6.1.4--mon [completed]"]
   n0 --> n1
-  n2["sase-1qz.6.1.4--plan [active]"]
+  n2["sase-1qz.6.1.4--plan [dismissed]"]
   n0 --> n2
   n3["sase-1qz.6.1.4--gate [completed]"]
   n0 --> n3
@@ -23,14 +23,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-1qz.6.1.4--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-04T22:25:25.662928+00:00 → 2026-11-04T22:30:26.616153+00:00 | [1](../agents/bbugyi200.athena.sase-1qz.6.1.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1qz.6.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1qz.6.1.4--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1qz.6.1.4--mon | completed | gpt-6-astra / codex | 2026-11-05T15:11:57.641886+00:00 → 2026-11-05T15:15:34.167454+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1qz.6.1.4--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-1qz.6.1.4--plan | active | gpt-6-astra / codex | 2026-11-05T14:53:44.928876+00:00 → 2026-11-05T15:12:06.521570+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1qz.6.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1qz.6.1.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1qz.6.1.4--plan | dismissed | gpt-6-astra / codex | 2026-11-05T09:53:44.928876 → 2026-11-05T10:12:06.758711 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1qz.6.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1qz.6.1.4--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1qz.6.1.4--gate | completed | gpt-6-astra / codex | 2026-11-05T15:10:40.251167+00:00 → 2026-11-05T15:11:59.518646+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1qz.6.1.4--gate/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`8462195`](https://github.com/sase-org/sase/commit/84621953144b886b80b7c36c8d26b9b0aaeb7c7b) | feat(agent): exactly-once hijack recovery launch and settlement | 2026-11-04 17:29:08 EST |
+| 1 | — | `8462195` | feat(agent): exactly-once hijack recovery launch and settlement | 2026-11-04 17:29:08 EST |
 
 ## Neighbors
 

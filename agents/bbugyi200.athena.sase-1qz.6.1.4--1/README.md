@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8462195`](https://github.com/sase-org/sase/commit/84621953144b886b80b7c36c8d26b9b0aaeb7c7b) | feat(agent): exactly-once hijack recovery launch and settlement | 2026-11-04 17:29:08 EST |
+| — | `8462195` | feat(agent): exactly-once hijack recovery launch and settlement | 2026-11-04 17:29:08 EST |
 
 ## Neighbors
 

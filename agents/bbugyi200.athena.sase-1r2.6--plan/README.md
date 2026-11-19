@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d2aa3ef`](https://github.com/sase-org/sase/commit/d2aa3ef832f8c8b620dbb9856eb016d0d79e0e09) | fix(ci): repair Full CI first-attempt reds at master tip | 2026-11-07 07:01:02 EST |
+| — | `d2aa3ef` | fix(ci): repair Full CI first-attempt reds at master tip | 2026-11-07 07:01:02 EST |
 
 ## Neighbors
 
@@ -36,4 +36,4 @@
 | [sase-1r2.5](../../sessions/bbugyi200.athena.sase-1r2.5.md) (session · 3) | sase-1r2 hood | completed 2, failed 1 |
 | [sase-1r2.7](../../sessions/bbugyi200.athena.sase-1r2.7.md) (session · 3) | sase-1r2 hood | completed 2, failed 1 |
 | [sase-1r2.8](../bbugyi200.athena.sase-1r2.8/README.md) | sase-1r2 hood | completed |
-| [sase-1r2.land](../bbugyi200.athena.sase-1r2.land/README.md) | sase-1r2 hood | waiting |
+| [sase-1r2.land](../bbugyi200.athena.sase-1r2.land/README.md) | sase-1r2 hood | dismissed |

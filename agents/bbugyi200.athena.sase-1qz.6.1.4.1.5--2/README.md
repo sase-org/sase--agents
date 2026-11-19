@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`812ddbc`](https://github.com/sase-org/sase/commit/812ddbc3aed901f77385830432216598f8843e4c) | fix(hijack): settle recovery only with verified custody | 2026-11-05 16:40:55 EST |
+| — | `812ddbc` | fix(hijack): settle recovery only with verified custody | 2026-11-05 16:40:55 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | ancestor | active 1, completed 3 |
+| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | ancestor | completed 3, dismissed 1 |
 | [sase-1qz.6.1.4.1.1](../bbugyi200.athena.sase-1qz.6.1.4.1.1/README.md) | sase-1qz.6.1.4.1 hood | completed |
 | [sase-1qz.6.1.4.1.2](../bbugyi200.athena.sase-1qz.6.1.4.1.2/README.md) | sase-1qz.6.1.4.1 hood | completed |
 | [sase-1qz.6.1.4.1.3](../bbugyi200.athena.sase-1qz.6.1.4.1.3/README.md) | sase-1qz.6.1.4.1 hood | completed |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8a9a993`](https://github.com/sase-org/sase/commit/8a9a993e0808570e5102b20fb91b2ac5c6499177) | fix(agent-hijack): land epic integration fixes and protect held runs from prune | 2026-11-07 05:39:43 EST |
+| — | `8a9a993` | fix(agent-hijack): land epic integration fixes and protect held runs from prune | 2026-11-07 05:39:43 EST |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 | [sase-1qz.10](../bbugyi200.athena.sase-1qz.10/README.md) | sase-1qz hood | completed |
 | [sase-1qz.11](../../sessions/bbugyi200.athena.sase-1qz.11.md) (session · 3) | sase-1qz hood | completed 3 |
 | [sase-1qz.6.1.2](../bbugyi200.athena.sase-1qz.6.1.2/README.md) | sase-1qz hood | completed |
-| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | sase-1qz hood | active 1, completed 3 |
+| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | sase-1qz hood | completed 3, dismissed 1 |
 | [sase-1qz.6.1.4.1.1](../bbugyi200.athena.sase-1qz.6.1.4.1.1/README.md) | sase-1qz hood | completed |
 | [sase-1qz.6.1.4.1.2](../bbugyi200.athena.sase-1qz.6.1.4.1.2/README.md) | sase-1qz hood | completed |
 | [sase-1qz.6.1.4.1.3](../bbugyi200.athena.sase-1qz.6.1.4.1.3/README.md) | sase-1qz hood | completed |

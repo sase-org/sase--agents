@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`71011e1`](https://github.com/sase-org/sase/commit/71011e1e10771c589e2c6dd8219dd6a3d32a1040) | feat(hijack-recovery): finish keep-work settlement without user action | 2026-11-06 13:50:06 EST |
+| — | `71011e1` | feat(hijack-recovery): finish keep-work settlement without user action | 2026-11-06 13:50:06 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1qz.6.1.2](../bbugyi200.athena.sase-1qz.6.1.2/README.md) | sase-1qz.6.1 hood | completed |
-| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | sase-1qz.6.1 hood | active 1, completed 3 |
+| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | sase-1qz.6.1 hood | completed 3, dismissed 1 |
 | [sase-1qz.6.1.4.1.1](../bbugyi200.athena.sase-1qz.6.1.4.1.1/README.md) | sase-1qz.6.1 hood | completed |
 | [sase-1qz.6.1.4.1.2](../bbugyi200.athena.sase-1qz.6.1.4.1.2/README.md) | sase-1qz.6.1 hood | completed |
 | [sase-1qz.6.1.4.1.3](../bbugyi200.athena.sase-1qz.6.1.4.1.3/README.md) | sase-1qz.6.1 hood | completed |

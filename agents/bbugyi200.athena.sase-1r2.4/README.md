@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3b0480`](https://github.com/sase-org/sase/commit/d3b0480636cdfbc7eb979144ea2a71702b18fae0) | fix(ci): make Full CI advisory lanes pass locally | 2026-11-03 13:55:35 EST |
+| — | `d3b0480` | fix(ci): make Full CI advisory lanes pass locally | 2026-11-03 13:55:35 EST |
 
 ## Neighbors
 
@@ -33,8 +33,8 @@
 | [sase-1r2.2](../bbugyi200.athena.sase-1r2.2/README.md) | sase-1r2 hood | completed |
 | [sase-1r2.3](../../sessions/bbugyi200.athena.sase-1r2.3.md) (session · 7) | sase-1r2 hood | completed 4, failed 3 |
 | [sase-1r2.5](../../sessions/bbugyi200.athena.sase-1r2.5.md) (session · 3) | sase-1r2 hood | completed 2, failed 1 |
-| [sase-1r2.6](../../sessions/bbugyi200.athena.sase-1r2.6.md) (session · 5) | sase-1r2 hood | active 1, completed 3, failed 1 |
+| [sase-1r2.6](../../sessions/bbugyi200.athena.sase-1r2.6.md) (session · 5) | sase-1r2 hood | completed 3, dismissed 1, failed 1 |
 | [sase-1r2.6](../bbugyi200.athena.sase-1r2.6/README.md) | sase-1r2 hood | waiting |
 | [sase-1r2.7](../../sessions/bbugyi200.athena.sase-1r2.7.md) (session · 3) | sase-1r2 hood | completed 2, failed 1 |
 | [sase-1r2.8](../bbugyi200.athena.sase-1r2.8/README.md) | sase-1r2 hood | completed |
-| [sase-1r2.land](../bbugyi200.athena.sase-1r2.land/README.md) | sase-1r2 hood | waiting |
+| [sase-1r2.land](../bbugyi200.athena.sase-1r2.land/README.md) | sase-1r2 hood | dismissed |

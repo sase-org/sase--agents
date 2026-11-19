@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`039c4a8`](https://github.com/sase-org/sase/commit/039c4a858d7ced67bbb89699dcb3d737d9095b85) | feat(ace): wire hijack recovery panel Instruct and Edit through the prompt bar | 2026-11-06 16:57:29 EST |
+| — | `039c4a8` | feat(ace): wire hijack recovery panel Instruct and Edit through the prompt bar | 2026-11-06 16:57:29 EST |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-1qz.11](../../sessions/bbugyi200.athena.sase-1qz.11.md) (session · 3) | sase-1qz hood | completed 3 |
 | [sase-1qz.6.1.2](../bbugyi200.athena.sase-1qz.6.1.2/README.md) | sase-1qz hood | completed |
-| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | sase-1qz hood | active 1, completed 3 |
+| [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) (session · 4) | sase-1qz hood | completed 3, dismissed 1 |
 | [sase-1qz.6.1.4.1.1](../bbugyi200.athena.sase-1qz.6.1.4.1.1/README.md) | sase-1qz hood | completed |
 | [sase-1qz.6.1.4.1.2](../bbugyi200.athena.sase-1qz.6.1.4.1.2/README.md) | sase-1qz hood | completed |
 | [sase-1qz.6.1.4.1.3](../bbugyi200.athena.sase-1qz.6.1.4.1.3/README.md) | sase-1qz hood | completed |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`26b50ca`](https://github.com/sase-org/sase/commit/26b50ca5251945db4d9ca3efe804cd843f36bed9) | fix(flakes): de-flake blocking Master Gate and Full CI test lanes | 2026-11-03 15:18:23 EST |
+| — | `26b50ca` | fix(flakes): de-flake blocking Master Gate and Full CI test lanes | 2026-11-03 15:18:23 EST |
 
 ## Neighbors
 
@@ -32,8 +32,8 @@
 | [sase-1r2.2](../bbugyi200.athena.sase-1r2.2/README.md) | sase-1r2 hood | completed |
 | [sase-1r2.4](../bbugyi200.athena.sase-1r2.4/README.md) | sase-1r2 hood | completed |
 | [sase-1r2.5](../../sessions/bbugyi200.athena.sase-1r2.5.md) (session · 3) | sase-1r2 hood | completed 2, failed 1 |
-| [sase-1r2.6](../../sessions/bbugyi200.athena.sase-1r2.6.md) (session · 5) | sase-1r2 hood | active 1, completed 3, failed 1 |
+| [sase-1r2.6](../../sessions/bbugyi200.athena.sase-1r2.6.md) (session · 5) | sase-1r2 hood | completed 3, dismissed 1, failed 1 |
 | [sase-1r2.6](../bbugyi200.athena.sase-1r2.6/README.md) | sase-1r2 hood | waiting |
 | [sase-1r2.7](../../sessions/bbugyi200.athena.sase-1r2.7.md) (session · 3) | sase-1r2 hood | completed 2, failed 1 |
 | [sase-1r2.8](../bbugyi200.athena.sase-1r2.8/README.md) | sase-1r2 hood | completed |
-| [sase-1r2.land](../bbugyi200.athena.sase-1r2.land/README.md) | sase-1r2 hood | waiting |
+| [sase-1r2.land](../bbugyi200.athena.sase-1r2.land/README.md) | sase-1r2 hood | dismissed |
