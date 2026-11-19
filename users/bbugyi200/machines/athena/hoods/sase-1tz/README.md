@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-1tz
 
-**Global hood:** `bbugyi200.athena.sase-1tz` · **Runs:** 37 · **Sessions:** 4 · **States:** active 3, completed 23, failed 1, waiting 10
+**Global hood:** `bbugyi200.athena.sase-1tz` · **Runs:** 37 · **Sessions:** 4 · **States:** active 3, completed 24, failed 1, waiting 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -13,7 +13,7 @@
 | [sase-1tz.2.1.land](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.land/README.md) | waiting | opus / claude | 20261119144814 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.land/prompt.md) |
 | [sase-1tz.1.1.3--1](../../../../../../sessions/bbugyi200.athena.sase-1tz.1.1.3.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-11-19T13:00:38.417396+00:00 → 2026-11-19T13:03:27.363259+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1tz.1.1.3--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1tz.1.1.3--1/chat.md) |
 | [sase-1tz.2.1.6](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.6/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261119144809 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.6/prompt.md) |
-| [sase-1tz.2.1.9](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.9/README.md) | waiting | gpt-6-luna / codex | 20261119144810 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.9/prompt.md) |
+| [sase-1tz.2.1.9](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.9/README.md) | completed | gpt-6-luna / codex | 2026-11-19T19:59:48.514822+00:00 → 2026-11-19T22:05:31.033895+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.9/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.9/chat.md) |
 | [sase-1tz.2.1.4--mon](../../../../../../sessions/bbugyi200.athena.sase-1tz.2.1.4.md#member-mon) | failed | muse-spark-1.3-contributor / muse | 2026-11-19T20:52:55.080482+00:00 → 2026-11-19T21:05:49.068302+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.4--mon/chat.md) |
 | [sase-1tz.1--gate](../../../../../../sessions/bbugyi200.athena.sase-1tz.1.md#member-gate) | completed | opus / claude | 2026-11-19T12:28:13.291019+00:00 → 2026-11-19T12:28:35.204281+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1tz.1--gate/chat.md) |
 | [sase-1tz.2.1.4](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.4/README.md) | completed | — | 2026-11-19T17:51:37+00:00 → 2026-11-19T17:51:37+00:00 | 1 | — |
