@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tc](../../users/bbugyi200/machines/athena/hoods/sase-1tc/README.md) / sase-1tc.5.1.land
 
-**Global name:** `bbugyi200.athena.sase-1tc.5.1.land` · **State:** waiting · **Source run:** `run-ebdf04d679807527f75f2953764adcfd`
+**Global name:** `bbugyi200.athena.sase-1tc.5.1.land` · **State:** completed · **Source run:** `run-ebdf04d679807527f75f2953764adcfd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tc
 
@@ -11,12 +11,32 @@
 - Bead: [sase-1tc.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tc/sase-1tc.5.1.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261119091658
+- Timing: 2026-11-19T19:56:34.539996+00:00 → 2026-11-19T20:28:20.863847+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: sase-1tc.5.1, kind: file, label: Triage-owner epic landing follow-up evidence, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261119091658/sase-1tc-5-1-followup-evidence-1b3f71d… |
+
+#### artifacts
+
+```yaml
+- bead: sase-1tc.5.1
+  kind: file
+  label: Triage-owner epic landing follow-up evidence
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261119091658/sase-1tc-5-1-followup-evidence-1b3f71d35439.json
+  ref: file:explicit:d35dea9eedbf5dc21c83df1d
+  source_path: /tmp/sase-1tc-5-1-followup-evidence.json
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
