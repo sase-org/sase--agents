@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.1.1.6
 
-**Global name:** `bbugyi200.athena.sase-1tz.1.1.6` · **State:** waiting · **Source run:** `run-b21a7ef2de8640f766588fc17d9bb12c`
+**Global name:** `bbugyi200.athena.sase-1tz.1.1.6` · **State:** completed · **Source run:** `run-b21a7ef2de8640f766588fc17d9bb12c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.1.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261119072958
-- Commits: 0
+- Timing: 2026-11-19T14:13:39.983113+00:00 → 2026-11-19T15:27:13.262259+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7b6a44a`](https://github.com/sase-org/sase/commit/7b6a44a100e5090d8cc98481377d01af40c54aca) | feat(disk): recover under pressure before attributing owners | 2026-11-19 10:26:11 EST |
 
 ## Neighbors
 
