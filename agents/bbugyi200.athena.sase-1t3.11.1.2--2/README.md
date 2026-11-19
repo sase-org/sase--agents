@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cd0b9c5`](https://github.com/sase-org/sase/commit/cd0b9c52733af177af29cadf61c6cde474b6340c) | fix(memory-reads): privatize audit row per symvision unused-public hierarchy | 2026-11-17 17:23:59 EST |
+| — | `cd0b9c5` | fix(memory-reads): privatize audit row per symvision unused-public hierarchy | 2026-11-17 17:23:59 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1t3.11](../../sessions/bbugyi200.athena.sase-1t3.11.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1t3.11](../../sessions/bbugyi200.athena.sase-1t3.11.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [sase-1t3.11.1.1](../bbugyi200.athena.sase-1t3.11.1.1/README.md) | sase-1t3.11.1 hood | completed |
 | [sase-1t3.11.1.3](../bbugyi200.athena.sase-1t3.11.1.3/README.md) | sase-1t3.11.1 hood | completed |
 | [sase-1t3.11.1.4](../bbugyi200.athena.sase-1t3.11.1.4/README.md) | sase-1t3.11.1 hood | completed |
@@ -65,7 +65,7 @@
 | [sase-1t3.6.1.3](../../sessions/bbugyi200.athena.sase-1t3.6.1.3.md) (session · 15) | sase-1t3 hood | completed 11, failed 4 |
 | [sase-1t3.6.1.land](../../sessions/bbugyi200.athena.sase-1t3.6.1.land.md) (session · 5) | sase-1t3 hood | completed 4, failed 1 |
 | [sase-1t3.6.1.land](../bbugyi200.athena.sase-1t3.6.1.land/README.md) | sase-1t3 hood | completed |
-| [sase-1t3.7](../../sessions/bbugyi200.athena.sase-1t3.7.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
+| [sase-1t3.7](../../sessions/bbugyi200.athena.sase-1t3.7.md) (session · 3) | sase-1t3 hood | completed 2, dismissed 1 |
 | [sase-1t3.7.1.1](../../sessions/bbugyi200.athena.sase-1t3.7.1.1.md) (session · 15) | sase-1t3 hood | completed 8, failed 7 |
 | [sase-1t3.7.1.2](../../sessions/bbugyi200.athena.sase-1t3.7.1.2.md) (session · 3) | sase-1t3 hood | completed 2, failed 1 |
 | [sase-1t3.7.1.land](../../sessions/bbugyi200.athena.sase-1t3.7.1.land.md) (session · 3) | sase-1t3 hood | completed 3 |

@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1t2` · Members: 3 · Bead: [sase-1t2.8
 
 ```mermaid
 flowchart TD
-  n0["sase-1t2.8--plan [active]"]
+  n0["sase-1t2.8--plan [dismissed]"]
   n1["sase-1t2.8--gate [completed]"]
   n0 --> n1
   n2["sase-1t2.8--mon [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1t2.8--plan | active | gpt-6-astra / codex | 2026-11-16T08:56:56.740667+00:00 → 2026-11-16T09:09:08.157700+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t2.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t2.8--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1t2.8--plan | dismissed | gpt-6-astra / codex | 2026-11-16T03:56:56.740667 → 2026-11-16T04:09:08.468907 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t2.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t2.8--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1t2.8--gate | completed | gpt-6-astra / codex | 2026-11-16T09:08:32.295006+00:00 → 2026-11-16T09:08:59.647136+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t2.8--gate/chat.md) |
 | <a id="member-mon"></a>mon | sase-1t2.8--mon | completed | gpt-6-astra / codex | 2026-11-16T09:08:57.046814+00:00 → 2026-11-16T09:12:43.665449+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t2.8--mon/chat.md) |
 
@@ -37,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1t2.8.1.land](../agents/bbugyi200.athena.sase-1t2.8.1.land/README.md) | descendant | completed |
 | [sase-1t2.1](../agents/bbugyi200.athena.sase-1t2.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.10](../agents/bbugyi200.athena.sase-1t2.10/README.md) | sase-1t2 hood | completed |
-| [sase-1t2.11](bbugyi200.athena.sase-1t2.11.md) (session · 3) | sase-1t2 hood | active 1, completed 2 |
+| [sase-1t2.11](bbugyi200.athena.sase-1t2.11.md) (session · 3) | sase-1t2 hood | completed 2, dismissed 1 |
 | [sase-1t2.11.1.1](../agents/bbugyi200.athena.sase-1t2.11.1.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.11.1.2](../agents/bbugyi200.athena.sase-1t2.11.1.2/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.11.1.3](bbugyi200.athena.sase-1t2.11.1.3.md) (session · 3) | sase-1t2 hood | completed 3 |

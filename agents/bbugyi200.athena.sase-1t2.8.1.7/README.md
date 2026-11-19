@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8a1b84b`](https://github.com/sase-org/sase/commit/8a1b84b096401ced7f1ec2f8b4c3d937ae5ab135) | fix(hijack): complete staged latch recovery | 2026-11-16 13:56:51 EST |
+| — | `8a1b84b` | fix(hijack): complete staged latch recovery | 2026-11-16 13:56:51 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1t2.8](../../sessions/bbugyi200.athena.sase-1t2.8.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1t2.8](../../sessions/bbugyi200.athena.sase-1t2.8.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [sase-1t2.8.1.1](../bbugyi200.athena.sase-1t2.8.1.1/README.md) | sase-1t2.8.1 hood | completed |
 | [sase-1t2.8.1.2](../../sessions/bbugyi200.athena.sase-1t2.8.1.2.md) (session · 4) | sase-1t2.8.1 hood | completed 3, failed 1 |
 | [sase-1t2.8.1.3](../bbugyi200.athena.sase-1t2.8.1.3/README.md) | sase-1t2.8.1 hood | completed |
@@ -39,7 +39,7 @@
 | [sase-1t2.8.1.land](../bbugyi200.athena.sase-1t2.8.1.land/README.md) | sase-1t2.8.1 hood | completed |
 | [sase-1t2.1](../bbugyi200.athena.sase-1t2.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.10](../bbugyi200.athena.sase-1t2.10/README.md) | sase-1t2 hood | completed |
-| [sase-1t2.11](../../sessions/bbugyi200.athena.sase-1t2.11.md) (session · 3) | sase-1t2 hood | active 1, completed 2 |
+| [sase-1t2.11](../../sessions/bbugyi200.athena.sase-1t2.11.md) (session · 3) | sase-1t2 hood | completed 2, dismissed 1 |
 | [sase-1t2.11.1.1](../bbugyi200.athena.sase-1t2.11.1.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.11.1.2](../bbugyi200.athena.sase-1t2.11.1.2/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.11.1.3](../../sessions/bbugyi200.athena.sase-1t2.11.1.3.md) (session · 3) | sase-1t2 hood | completed 3 |

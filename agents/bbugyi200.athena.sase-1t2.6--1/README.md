@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dcae086`](https://github.com/sase-org/sase/commit/dcae0865684a74cf837c8189b5a481f6229b9ab5) | test(agent-hijack): review \_promote\_sessionless\_predecessor marker path passing | 2026-11-16 00:49:14 EST |
+| — | `dcae086` | test(agent-hijack): review \_promote\_sessionless\_predecessor marker path passing | 2026-11-16 00:49:14 EST |
 
 ## Neighbors
 
@@ -30,7 +30,7 @@
 |---|---|---|
 | [sase-1t2.1](../bbugyi200.athena.sase-1t2.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.10](../bbugyi200.athena.sase-1t2.10/README.md) | sase-1t2 hood | completed |
-| [sase-1t2.11](../../sessions/bbugyi200.athena.sase-1t2.11.md) (session · 3) | sase-1t2 hood | active 1, completed 2 |
+| [sase-1t2.11](../../sessions/bbugyi200.athena.sase-1t2.11.md) (session · 3) | sase-1t2 hood | completed 2, dismissed 1 |
 | [sase-1t2.11.1.1](../bbugyi200.athena.sase-1t2.11.1.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.11.1.2](../bbugyi200.athena.sase-1t2.11.1.2/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.11.1.3](../../sessions/bbugyi200.athena.sase-1t2.11.1.3.md) (session · 3) | sase-1t2 hood | completed 3 |
@@ -47,7 +47,7 @@
 | [sase-1t2.4](../../sessions/bbugyi200.athena.sase-1t2.4.md) (session · 5) | sase-1t2 hood | completed 4, failed 1 |
 | [sase-1t2.5](../bbugyi200.athena.sase-1t2.5/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.7](../../sessions/bbugyi200.athena.sase-1t2.7.md) (session · 5) | sase-1t2 hood | completed 4, failed 1 |
-| [sase-1t2.8](../../sessions/bbugyi200.athena.sase-1t2.8.md) (session · 3) | sase-1t2 hood | active 1, completed 2 |
+| [sase-1t2.8](../../sessions/bbugyi200.athena.sase-1t2.8.md) (session · 3) | sase-1t2 hood | completed 2, dismissed 1 |
 | [sase-1t2.8.1.1](../bbugyi200.athena.sase-1t2.8.1.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.8.1.2](../../sessions/bbugyi200.athena.sase-1t2.8.1.2.md) (session · 4) | sase-1t2 hood | completed 3, failed 1 |
 | [sase-1t2.8.1.3](../bbugyi200.athena.sase-1t2.8.1.3/README.md) | sase-1t2 hood | completed |

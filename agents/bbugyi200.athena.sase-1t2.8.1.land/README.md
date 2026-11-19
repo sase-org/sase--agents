@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`81dfe57`](https://github.com/sase-org/sase/commit/81dfe5710ea123542f9426a1abafe7bd01c17bbb) | fix(ace): tolerate duck-typed rows when mirroring hijack overlays | 2026-11-16 15:19:07 EST |
+| — | `81dfe57` | fix(ace): tolerate duck-typed rows when mirroring hijack overlays | 2026-11-16 15:19:07 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1t2.8](../../sessions/bbugyi200.athena.sase-1t2.8.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1t2.8](../../sessions/bbugyi200.athena.sase-1t2.8.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [sase-1t2.8.1.1](../bbugyi200.athena.sase-1t2.8.1.1/README.md) | sase-1t2.8.1 hood | completed |
 | [sase-1t2.8.1.2](../../sessions/bbugyi200.athena.sase-1t2.8.1.2.md) (session · 4) | sase-1t2.8.1 hood | completed 3, failed 1 |
 | [sase-1t2.8.1.3](../bbugyi200.athena.sase-1t2.8.1.3/README.md) | sase-1t2.8.1 hood | completed |
@@ -38,7 +38,7 @@
 | [sase-1t2.8.1.7](../bbugyi200.athena.sase-1t2.8.1.7/README.md) | sase-1t2.8.1 hood | completed |
 | [sase-1t2.1](../bbugyi200.athena.sase-1t2.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.10](../bbugyi200.athena.sase-1t2.10/README.md) | sase-1t2 hood | completed |
-| [sase-1t2.11](../../sessions/bbugyi200.athena.sase-1t2.11.md) (session · 3) | sase-1t2 hood | active 1, completed 2 |
+| [sase-1t2.11](../../sessions/bbugyi200.athena.sase-1t2.11.md) (session · 3) | sase-1t2 hood | completed 2, dismissed 1 |
 | [sase-1t2.11.1.1](../bbugyi200.athena.sase-1t2.11.1.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.11.1.2](../bbugyi200.athena.sase-1t2.11.1.2/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.11.1.3](../../sessions/bbugyi200.athena.sase-1t2.11.1.3.md) (session · 3) | sase-1t2 hood | completed 3 |

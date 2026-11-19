@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`73718c7`](https://github.com/sase-org/sase/commit/73718c77e13940f99ca42f2fdda49bb9aec3d6a7) | feat(agent-hijack): add durable latch request and application primitives | 2026-11-16 06:07:37 EST |
+| — | `73718c7` | feat(agent-hijack): add durable latch request and application primitives | 2026-11-16 06:07:37 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1t2.8](../../sessions/bbugyi200.athena.sase-1t2.8.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1t2.8](../../sessions/bbugyi200.athena.sase-1t2.8.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [sase-1t2.8.1.2](../../sessions/bbugyi200.athena.sase-1t2.8.1.2.md) (session · 4) | sase-1t2.8.1 hood | completed 3, failed 1 |
 | [sase-1t2.8.1.3](../bbugyi200.athena.sase-1t2.8.1.3/README.md) | sase-1t2.8.1 hood | completed |
 | [sase-1t2.8.1.4](../bbugyi200.athena.sase-1t2.8.1.4/README.md) | sase-1t2.8.1 hood | completed |
@@ -39,7 +39,7 @@
 | [sase-1t2.8.1.land](../bbugyi200.athena.sase-1t2.8.1.land/README.md) | sase-1t2.8.1 hood | completed |
 | [sase-1t2.1](../bbugyi200.athena.sase-1t2.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.10](../bbugyi200.athena.sase-1t2.10/README.md) | sase-1t2 hood | completed |
-| [sase-1t2.11](../../sessions/bbugyi200.athena.sase-1t2.11.md) (session · 3) | sase-1t2 hood | active 1, completed 2 |
+| [sase-1t2.11](../../sessions/bbugyi200.athena.sase-1t2.11.md) (session · 3) | sase-1t2 hood | completed 2, dismissed 1 |
 | [sase-1t2.11.1.1](../bbugyi200.athena.sase-1t2.11.1.1/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.11.1.2](../bbugyi200.athena.sase-1t2.11.1.2/README.md) | sase-1t2 hood | completed |
 | [sase-1t2.11.1.3](../../sessions/bbugyi200.athena.sase-1t2.11.1.3.md) (session · 3) | sase-1t2 hood | completed 3 |

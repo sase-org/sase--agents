@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1t3` · Members: 3 · Bead: [sase-1t3.1
 
 ```mermaid
 flowchart TD
-  n0["sase-1t3.11--plan [active]"]
+  n0["sase-1t3.11--plan [dismissed]"]
   n1["sase-1t3.11--mon [completed]"]
   n0 --> n1
   n2["sase-1t3.11--gate [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1t3.11--plan | active | gpt-6-astra / codex | 2026-11-17T17:19:37.481801+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.11--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.11--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1t3.11--plan | dismissed | gpt-6-astra / codex | 2026-11-17T12:19:37.481801 → 2026-11-17T12:30:50.601037 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1t3.11--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1t3.11--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1t3.11--mon | completed | gpt-6-astra / codex | 2026-11-17T17:30:42.735621+00:00 → 2026-11-17T17:33:31.398687+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.11--mon/chat.md) |
 | <a id="member-gate"></a>gate | sase-1t3.11--gate | completed | gpt-6-astra / codex | 2026-11-17T17:28:31.221391+00:00 → 2026-11-17T17:30:43.975626+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1t3.11--gate/chat.md) |
 
@@ -64,7 +64,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1t3.6.1.3](bbugyi200.athena.sase-1t3.6.1.3.md) (session · 15) | sase-1t3 hood | completed 11, failed 4 |
 | [sase-1t3.6.1.land](bbugyi200.athena.sase-1t3.6.1.land.md) (session · 5) | sase-1t3 hood | completed 4, failed 1 |
 | [sase-1t3.6.1.land](../agents/bbugyi200.athena.sase-1t3.6.1.land/README.md) | sase-1t3 hood | completed |
-| [sase-1t3.7](bbugyi200.athena.sase-1t3.7.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
+| [sase-1t3.7](bbugyi200.athena.sase-1t3.7.md) (session · 3) | sase-1t3 hood | completed 2, dismissed 1 |
 | [sase-1t3.7.1.1](bbugyi200.athena.sase-1t3.7.1.1.md) (session · 15) | sase-1t3 hood | completed 8, failed 7 |
 | [sase-1t3.7.1.2](bbugyi200.athena.sase-1t3.7.1.2.md) (session · 3) | sase-1t3 hood | completed 2, failed 1 |
 | [sase-1t3.7.1.land](bbugyi200.athena.sase-1t3.7.1.land.md) (session · 3) | sase-1t3 hood | completed 3 |

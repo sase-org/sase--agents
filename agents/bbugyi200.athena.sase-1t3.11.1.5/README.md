@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`88431ca`](https://github.com/sase-org/sase/commit/88431cab7190cf5bb3b78c6e629c4a33958d5d10) | perf(bead): read stranded report from single slim snapshot | 2026-11-18 00:20:52 EST |
+| — | `88431ca` | perf(bead): read stranded report from single slim snapshot | 2026-11-18 00:20:52 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1t3.11](../../sessions/bbugyi200.athena.sase-1t3.11.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1t3.11](../../sessions/bbugyi200.athena.sase-1t3.11.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [sase-1t3.11.1.1](../bbugyi200.athena.sase-1t3.11.1.1/README.md) | sase-1t3.11.1 hood | completed |
 | [sase-1t3.11.1.2](../../sessions/bbugyi200.athena.sase-1t3.11.1.2.md) (session · 5) | sase-1t3.11.1 hood | completed 3, failed 2 |
 | [sase-1t3.11.1.3](../bbugyi200.athena.sase-1t3.11.1.3/README.md) | sase-1t3.11.1 hood | completed |
@@ -66,7 +66,7 @@
 | [sase-1t3.6.1.3](../../sessions/bbugyi200.athena.sase-1t3.6.1.3.md) (session · 15) | sase-1t3 hood | completed 11, failed 4 |
 | [sase-1t3.6.1.land](../../sessions/bbugyi200.athena.sase-1t3.6.1.land.md) (session · 5) | sase-1t3 hood | completed 4, failed 1 |
 | [sase-1t3.6.1.land](../bbugyi200.athena.sase-1t3.6.1.land/README.md) | sase-1t3 hood | completed |
-| [sase-1t3.7](../../sessions/bbugyi200.athena.sase-1t3.7.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |
+| [sase-1t3.7](../../sessions/bbugyi200.athena.sase-1t3.7.md) (session · 3) | sase-1t3 hood | completed 2, dismissed 1 |
 | [sase-1t3.7.1.1](../../sessions/bbugyi200.athena.sase-1t3.7.1.1.md) (session · 15) | sase-1t3 hood | completed 8, failed 7 |
 | [sase-1t3.7.1.2](../../sessions/bbugyi200.athena.sase-1t3.7.1.2.md) (session · 3) | sase-1t3 hood | completed 2, failed 1 |
 | [sase-1t3.7.1.land](../../sessions/bbugyi200.athena.sase-1t3.7.1.land.md) (session · 3) | sase-1t3 hood | completed 3 |
