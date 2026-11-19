@@ -32,15 +32,15 @@
 | [sase-1tz.2](../../sessions/bbugyi200.athena.sase-1tz.2.md) (session · 3) | ancestor | active 1, completed 2 |
 | [sase-1tz.2.1.1](../bbugyi200.athena.sase-1tz.2.1.1/README.md) | sase-1tz.2.1 hood | completed |
 | [sase-1tz.2.1.10](../bbugyi200.athena.sase-1tz.2.1.10/README.md) | sase-1tz.2.1 hood | waiting |
-| [sase-1tz.2.1.11](../bbugyi200.athena.sase-1tz.2.1.11/README.md) | sase-1tz.2.1 hood | failed |
+| [sase-1tz.2.1.11](../bbugyi200.athena.sase-1tz.2.1.11/README.md) | sase-1tz.2.1 hood | completed |
 | [sase-1tz.2.1.12](../bbugyi200.athena.sase-1tz.2.1.12/README.md) | sase-1tz.2.1 hood | completed |
 | [sase-1tz.2.1.13](../bbugyi200.athena.sase-1tz.2.1.13/README.md) | sase-1tz.2.1 hood | waiting |
-| [sase-1tz.2.1.2](../bbugyi200.athena.sase-1tz.2.1.2/README.md) | sase-1tz.2.1 hood | active |
+| [sase-1tz.2.1.2](../bbugyi200.athena.sase-1tz.2.1.2/README.md) | sase-1tz.2.1 hood | completed |
 | [sase-1tz.2.1.3](../bbugyi200.athena.sase-1tz.2.1.3/README.md) | sase-1tz.2.1 hood | active |
 | [sase-1tz.2.1.5](../bbugyi200.athena.sase-1tz.2.1.5/README.md) | sase-1tz.2.1 hood | waiting |
 | [sase-1tz.2.1.6](../bbugyi200.athena.sase-1tz.2.1.6/README.md) | sase-1tz.2.1 hood | waiting |
 | [sase-1tz.2.1.7](../bbugyi200.athena.sase-1tz.2.1.7/README.md) | sase-1tz.2.1 hood | waiting |
-| [sase-1tz.2.1.8](../bbugyi200.athena.sase-1tz.2.1.8/README.md) | sase-1tz.2.1 hood | failed |
+| [sase-1tz.2.1.8](../bbugyi200.athena.sase-1tz.2.1.8/README.md) | sase-1tz.2.1 hood | active |
 | [sase-1tz.2.1.9](../bbugyi200.athena.sase-1tz.2.1.9/README.md) | sase-1tz.2.1 hood | waiting |
 | [sase-1tz.2.1.land](../bbugyi200.athena.sase-1tz.2.1.land/README.md) | sase-1tz.2.1 hood | waiting |
 | [sase-1tz.1](../../sessions/bbugyi200.athena.sase-1tz.1.md) (session · 3) | sase-1tz hood | active 1, completed 2 |

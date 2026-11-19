@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-aee53f1b6697db229b57b86320b2c3ed"}
+{"commits":[{"committed_at":1795118283,"sha":"afb070580a159fc383b8b5f52e29ea649328c096","subject":"feat(tui): rotate tui_stalls.jsonl, tolerate torn lines, and spool fault logs"}],"schema_version":2,"source_run_id":"run-915b1079ebceca48801e1a745ee57280"}

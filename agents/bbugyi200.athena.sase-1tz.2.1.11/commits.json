@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d47f7d267c4e7ae7a5d3a31d59f8cf4d"}
+{"commits":[{"committed_at":1795118111,"sha":"238ef42df90900ae0cb78c900de9b55a23439de2","subject":"perf(ace): move sampled main-thread filesystem work off the TUI loop"}],"schema_version":2,"source_run_id":"run-e8284af5a938c0bf99488e00c333b346"}
