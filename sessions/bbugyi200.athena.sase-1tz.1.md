@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1tz.1--gate [completed]"]
   n1["sase-1tz.1--plan [active]"]
   n0 --> n1
-  n2["sase-1tz.1--mon [active]"]
+  n2["sase-1tz.1--mon [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1tz.1--gate | completed | opus / claude | 2026-11-19T12:28:13.291019+00:00 → 2026-11-19T12:28:35.204281+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.1--gate/chat.md) |
 | <a id="member-plan"></a>plan | sase-1tz.1--plan | active | opus / claude | 2026-11-19T12:11:24.374381+00:00 → 2026-11-19T12:28:43.181841+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.1--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-1tz.1--mon | active | opus / claude | 2026-11-19T12:28:34.001028+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1tz.1--mon | completed | opus / claude | 2026-11-19T12:28:34.001028+00:00 → 2026-11-19T12:32:02.424407+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.1--mon/chat.md) |
 
 ## Neighbors
 
@@ -29,9 +29,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1tz.1.1.1](../agents/bbugyi200.athena.sase-1tz.1.1.1/README.md) | descendant | active |
 | [sase-1tz.1.1.2](../agents/bbugyi200.athena.sase-1tz.1.1.2/README.md) | descendant | active |
-| [sase-1tz.1.1.3](../agents/bbugyi200.athena.sase-1tz.1.1.3/README.md) | descendant | active |
+| [sase-1tz.1.1.3](bbugyi200.athena.sase-1tz.1.1.3.md) (session · 3) | descendant | completed 3 |
 | [sase-1tz.1.1.4](../agents/bbugyi200.athena.sase-1tz.1.1.4/README.md) | descendant | active |
+| [sase-1tz.1.1.5](../agents/bbugyi200.athena.sase-1tz.1.1.5/README.md) | descendant | waiting |
+| [sase-1tz.1.1.6](../agents/bbugyi200.athena.sase-1tz.1.1.6/README.md) | descendant | waiting |
 | [sase-1tz.1.1.7](../agents/bbugyi200.athena.sase-1tz.1.1.7/README.md) | descendant | active |
+| [sase-1tz.1.1.land](../agents/bbugyi200.athena.sase-1tz.1.1.land/README.md) | descendant | waiting |
 | [sase-1tz.2](../agents/bbugyi200.athena.sase-1tz.2/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.3](../agents/bbugyi200.athena.sase-1tz.3/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.4](../agents/bbugyi200.athena.sase-1tz.4/README.md) | sase-1tz hood | waiting |
