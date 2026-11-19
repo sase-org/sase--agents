@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-a7.test\_agents\_tab\_delta\_copy\_fast\_path.0](../agents/bbugyi200.athena.toobig-a7.test_agents_tab_delta_copy_fast_path.0/README.md) | toobig-a7 hood | active |
+| [toobig-a7.test\_agents\_tab\_delta\_copy\_fast\_path.0](../agents/bbugyi200.athena.toobig-a7.test_agents_tab_delta_copy_fast_path.0/README.md) | toobig-a7 hood | completed |
