@@ -27,7 +27,7 @@
 | [sase-1tz.1.1.1](../bbugyi200.athena.sase-1tz.1.1.1/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.2](../bbugyi200.athena.sase-1tz.1.1.2/README.md) | sase-1tz.1.1 hood | active |
 | [sase-1tz.1.1.3](../../sessions/bbugyi200.athena.sase-1tz.1.1.3.md) (session · 3) | sase-1tz.1.1 hood | completed 3 |
-| [sase-1tz.1.1.4](../bbugyi200.athena.sase-1tz.1.1.4/README.md) | sase-1tz.1.1 hood | active |
+| [sase-1tz.1.1.4](../bbugyi200.athena.sase-1tz.1.1.4/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.6](../bbugyi200.athena.sase-1tz.1.1.6/README.md) | sase-1tz.1.1 hood | waiting |
 | [sase-1tz.1.1.7](../bbugyi200.athena.sase-1tz.1.1.7/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.land](../bbugyi200.athena.sase-1tz.1.1.land/README.md) | sase-1tz.1.1 hood | waiting |

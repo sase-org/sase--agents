@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.1.1.4
 
-**Global name:** `bbugyi200.athena.sase-1tz.1.1.4` · **State:** active · **Source run:** `run-e260dcccf23baf46950a68e453127459`
+**Global name:** `bbugyi200.athena.sase-1tz.1.1.4` · **State:** completed · **Source run:** `run-e260dcccf23baf46950a68e453127459`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.1.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-19T12:31:09.235518+00:00
-- Commits: 0
+- Timing: 2026-11-19T12:31:09.235518+00:00 → 2026-11-19T14:13:00.596913+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`6ee5f85`](https://github.com/sase-org/sase/commit/6ee5f8560caa8ec689349a3b5767954e5d99e4d6) | feat(disk): render unmeasured owners instead of 0 B complete | 2026-11-19 09:12:00 EST |
 
 ## Neighbors
 
