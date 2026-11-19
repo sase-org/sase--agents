@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.2.1.6
 
-**Global name:** `bbugyi200.athena.sase-1tz.2.1.6` · **State:** waiting · **Source run:** `run-2427a459cc8d6f84b99767769d489293`
+**Global name:** `bbugyi200.athena.sase-1tz.2.1.6` · **State:** completed · **Source run:** `run-2427a459cc8d6f84b99767769d489293`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.2.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261119144809
-- Commits: 0
+- Timing: 2026-11-19T21:26:08.608034+00:00 → 2026-11-19T22:52:45.330550+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3d3d0f5`](https://github.com/sase-org/sase/commit/3d3d0f583d0790aa9ebab3af08d4fe2f32cb9904) | feat(agents-sync): retire terminal deferred prompts as unrecoverable | 2026-11-19 17:51:28 EST |
 
 ## Neighbors
 
@@ -33,7 +39,7 @@
 | [sase-1tz.2.1.3](../bbugyi200.athena.sase-1tz.2.1.3/README.md) | sase-1tz.2.1 hood | completed |
 | [sase-1tz.2.1.4](../../sessions/bbugyi200.athena.sase-1tz.2.1.4.md) (session · 4) | sase-1tz.2.1 hood | active 1, completed 2, failed 1 |
 | [sase-1tz.2.1.4](../bbugyi200.athena.sase-1tz.2.1.4/README.md) | sase-1tz.2.1 hood | completed |
-| [sase-1tz.2.1.5](../bbugyi200.athena.sase-1tz.2.1.5/README.md) | sase-1tz.2.1 hood | waiting |
+| [sase-1tz.2.1.5](../../sessions/bbugyi200.athena.sase-1tz.2.1.5.md) (session · 2) | sase-1tz.2.1 hood | active 1, completed 1 |
 | [sase-1tz.2.1.7](../bbugyi200.athena.sase-1tz.2.1.7/README.md) | sase-1tz.2.1 hood | waiting |
 | [sase-1tz.2.1.8](../bbugyi200.athena.sase-1tz.2.1.8/README.md) | sase-1tz.2.1 hood | completed |
 | [sase-1tz.2.1.9](../bbugyi200.athena.sase-1tz.2.1.9/README.md) | sase-1tz.2.1 hood | completed |

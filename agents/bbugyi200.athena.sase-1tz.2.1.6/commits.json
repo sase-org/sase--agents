@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2427a459cc8d6f84b99767769d489293"}
+{"commits":[{"committed_at":1795128688,"sha":"3d3d0f583d0790aa9ebab3af08d4fe2f32cb9904","subject":"feat(agents-sync): retire terminal deferred prompts as unrecoverable"}],"schema_version":2,"source_run_id":"run-2427a459cc8d6f84b99767769d489293"}
