@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4a7ce0f`](https://github.com/sase-org/sase/commit/4a7ce0f3302c558a595c5c907c1e9c0a01864d74) | fix(tests): repair the 94 failures the completed contention repeat exposed | 2026-11-07 19:01:16 EST |
+| — | `4a7ce0f` | fix(tests): repair the 94 failures the completed contention repeat exposed | 2026-11-07 19:01:16 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1rq.2.1.4](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.md) (session · 3) | ancestor | active 1, completed 2 |
-| [sase-1rq.2](../../sessions/bbugyi200.athena.sase-1rq.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1rq.2.1.4](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.md) (session · 3) | ancestor | completed 2, dismissed 1 |
+| [sase-1rq.2](../../sessions/bbugyi200.athena.sase-1rq.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [sase-1rq.2.1.4.1.1](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.1.md) (session · 5) | sase-1rq.2.1.4.1 hood | completed 4, failed 1 |
 | [sase-1rq.2.1.4.1.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.2.md) (session · 3) | sase-1rq.2.1.4.1 hood | completed 2, failed 1 |
 | [sase-1rq.2.1.4.1.4](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.4.md) (session · 3) | sase-1rq.2.1.4.1 hood | completed 2, failed 1 |
@@ -41,12 +41,12 @@
 | [sase-1rq.2.1.4.1.5.3.1.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.5.3.1.2.md) (session · 31) | sase-1rq.2.1.4.1 hood | completed 21, failed 10 |
 | [sase-1rq.2.1.4.1.5.3.1.3](../bbugyi200.athena.sase-1rq.2.1.4.1.5.3.1.3/README.md) | sase-1rq.2.1.4.1 hood | waiting |
 | [sase-1rq.2.1.4.1.5.3.1.land](../bbugyi200.athena.sase-1rq.2.1.4.1.5.3.1.land/README.md) | sase-1rq.2.1.4.1 hood | waiting |
-| [sase-1rq.2.1.4.1.5.land](../bbugyi200.athena.sase-1rq.2.1.4.1.5.land/README.md) | sase-1rq.2.1.4.1 hood | waiting |
+| [sase-1rq.2.1.4.1.5.land](../bbugyi200.athena.sase-1rq.2.1.4.1.5.land/README.md) | sase-1rq.2.1.4.1 hood | dismissed |
 | [sase-1rq.2.1.4.1.land](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.land.md) (session · 3) | sase-1rq.2.1.4.1 hood | active 1, completed 2 |
 | [sase-1rq.2.1.1](../../sessions/bbugyi200.athena.sase-1rq.2.1.1.md) (session · 3) | sase-1rq.2.1 hood | completed 3 |
 | [sase-1rq.2.1.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.2.md) (session · 3) | sase-1rq.2.1 hood | completed 3 |
 | [sase-1rq.2.1.3](../../sessions/bbugyi200.athena.sase-1rq.2.1.3.md) (session · 5) | sase-1rq.2.1 hood | completed 4, failed 1 |
-| [sase-1rq.2.1.5](../../sessions/bbugyi200.athena.sase-1rq.2.1.5.md) (session · 3) | sase-1rq.2.1 hood | active 1, completed 2 |
+| [sase-1rq.2.1.5](../../sessions/bbugyi200.athena.sase-1rq.2.1.5.md) (session · 3) | sase-1rq.2.1 hood | completed 2, dismissed 1 |
 | [sase-1rq.2.1.5.1.1](../bbugyi200.athena.sase-1rq.2.1.5.1.1/README.md) | sase-1rq.2.1 hood | completed |
 | [sase-1rq.2.1.5.1.2](../bbugyi200.athena.sase-1rq.2.1.5.1.2/README.md) | sase-1rq.2.1 hood | completed |
 | [sase-1rq.2.1.5.1.3](../bbugyi200.athena.sase-1rq.2.1.5.1.3/README.md) | sase-1rq.2.1 hood | completed |
@@ -56,7 +56,7 @@
 | [sase-1rq.2.1.7](../bbugyi200.athena.sase-1rq.2.1.7/README.md) | sase-1rq.2.1 hood | waiting |
 | [sase-1rq.2.1.land](../bbugyi200.athena.sase-1rq.2.1.land/README.md) | sase-1rq.2.1 hood | waiting |
 | [sase-1rq.1](../../sessions/bbugyi200.athena.sase-1rq.1.md) (session · 9) | sase-1rq hood | completed 9 |
-| [sase-1rq.3](../../sessions/bbugyi200.athena.sase-1rq.3.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
+| [sase-1rq.3](../../sessions/bbugyi200.athena.sase-1rq.3.md) (session · 3) | sase-1rq hood | completed 2, dismissed 1 |
 | [sase-1rq.3.1.1](../bbugyi200.athena.sase-1rq.3.1.1/README.md) | sase-1rq hood | completed |
 | [sase-1rq.3.1.2](../bbugyi200.athena.sase-1rq.3.1.2/README.md) | sase-1rq hood | completed |
 | [sase-1rq.3.1.3](../../sessions/bbugyi200.athena.sase-1rq.3.1.3.md) (session · 5) | sase-1rq hood | completed 5 |

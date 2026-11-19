@@ -87,30 +87,30 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`dde1ada`](https://github.com/sase-org/sase/commit/dde1ada139e5698b8723b2166fab97d65d3d0f7c) | fix(test): isolate contention hang guards and nested soak records | 2026-11-08 04:31:55 EST |
-| 2 | sase | [`2400e61`](https://github.com/sase-org/sase/commit/2400e61e938c0535ca3de61e83f63f698c8b25c2) | fix(test): keep contended TUI waits off the event loop | 2026-11-08 06:12:38 EST |
-| 3 | sase | [`229f85a`](https://github.com/sase-org/sase/commit/229f85a998cb8fade8a4331f3ac4877b5104adf9) | fix(test): keep contended subprocess waits load-tolerant | 2026-11-08 08:33:25 EST |
-| 4 | sase | [`6a6cc2b`](https://github.com/sase-org/sase/commit/6a6cc2b4268eb6c14f70d20f58d1a5e3cbc43580) | fix(test): keep contended nested and TUI waits load-tolerant | 2026-11-08 10:36:05 EST |
-| 5 | sase | [`11de7c8`](https://github.com/sase-org/sase/commit/11de7c8591e506af66ae7029480e0e64a86011a0) | fix(test): bound TUI settle and zsh PTY waits under contention | 2026-11-08 12:40:57 EST |
-| 6 | sase | [`8f82a88`](https://github.com/sase-org/sase/commit/8f82a88607750ed1c87156b0656220b30a96b19d) | fix(test): pin post-update toast timeout under contention | 2026-11-08 14:20:39 EST |
-| 7 | sase | [`7190490`](https://github.com/sase-org/sase/commit/719049003053750ddf089d7eab53af5eee6a294c) | fix(tui): keep stitches first-paint coverage exact under contention | 2026-11-08 16:08:03 EST |
-| 8 | sase | [`9c4cebe`](https://github.com/sase-org/sase/commit/9c4cebea9820b5917f9027f70aa2a0409edb6ba9) | fix: stabilize bump microbench and provider timer under contention | 2026-11-08 18:06:48 EST |
-| 9 | sase | [`d1c6a2c`](https://github.com/sase-org/sase/commit/d1c6a2c10b3473020df6831b71d2d21096156a9f) | fix: skip same-key highlight echo and wait for group-kill reaping under contention | 2026-11-08 21:09:04 EST |
-| a | sase | [`7a7ecd6`](https://github.com/sase-org/sase/commit/7a7ecd6885b32ea969d462881673e96d776a37d1) | fix(tui): return archive pulse Enter to inbox and drop paused stalls | 2026-11-09 00:09:40 EST |
+| 1 | — | `dde1ada` | fix(test): isolate contention hang guards and nested soak records | 2026-11-08 04:31:55 EST |
+| 2 | — | `2400e61` | fix(test): keep contended TUI waits off the event loop | 2026-11-08 06:12:38 EST |
+| 3 | — | `229f85a` | fix(test): keep contended subprocess waits load-tolerant | 2026-11-08 08:33:25 EST |
+| 4 | — | `6a6cc2b` | fix(test): keep contended nested and TUI waits load-tolerant | 2026-11-08 10:36:05 EST |
+| 5 | — | `11de7c8` | fix(test): bound TUI settle and zsh PTY waits under contention | 2026-11-08 12:40:57 EST |
+| 6 | — | `8f82a88` | fix(test): pin post-update toast timeout under contention | 2026-11-08 14:20:39 EST |
+| 7 | — | `7190490` | fix(tui): keep stitches first-paint coverage exact under contention | 2026-11-08 16:08:03 EST |
+| 8 | — | `9c4cebe` | fix: stabilize bump microbench and provider timer under contention | 2026-11-08 18:06:48 EST |
+| 9 | — | `d1c6a2c` | fix: skip same-key highlight echo and wait for group-kill reaping under contention | 2026-11-08 21:09:04 EST |
+| a | — | `7a7ecd6` | fix(tui): return archive pulse Enter to inbox and drop paused stalls | 2026-11-09 00:09:40 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1rq.2.1.4](bbugyi200.athena.sase-1rq.2.1.4.md) (session · 3) | ancestor | active 1, completed 2 |
-| [sase-1rq.2](bbugyi200.athena.sase-1rq.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1rq.2.1.4](bbugyi200.athena.sase-1rq.2.1.4.md) (session · 3) | ancestor | completed 2, dismissed 1 |
+| [sase-1rq.2](bbugyi200.athena.sase-1rq.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [sase-1rq.2.1.4.1.5.1](bbugyi200.athena.sase-1rq.2.1.4.1.5.1.md) (session · 5) | sase-1rq.2.1.4.1.5 hood | completed 4, failed 1 |
 | [sase-1rq.2.1.4.1.5.3](bbugyi200.athena.sase-1rq.2.1.4.1.5.3.md) (session · 5) | sase-1rq.2.1.4.1.5 hood | completed 5 |
 | [sase-1rq.2.1.4.1.5.3.1.1](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.3.1.1/README.md) | sase-1rq.2.1.4.1.5 hood | completed |
 | [sase-1rq.2.1.4.1.5.3.1.2](bbugyi200.athena.sase-1rq.2.1.4.1.5.3.1.2.md) (session · 31) | sase-1rq.2.1.4.1.5 hood | completed 21, failed 10 |
 | [sase-1rq.2.1.4.1.5.3.1.3](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.3.1.3/README.md) | sase-1rq.2.1.4.1.5 hood | waiting |
 | [sase-1rq.2.1.4.1.5.3.1.land](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.3.1.land/README.md) | sase-1rq.2.1.4.1.5 hood | waiting |
-| [sase-1rq.2.1.4.1.5.land](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.land/README.md) | sase-1rq.2.1.4.1.5 hood | waiting |
+| [sase-1rq.2.1.4.1.5.land](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.land/README.md) | sase-1rq.2.1.4.1.5 hood | dismissed |
 | [sase-1rq.2.1.4.1.1](bbugyi200.athena.sase-1rq.2.1.4.1.1.md) (session · 5) | sase-1rq.2.1.4.1 hood | completed 4, failed 1 |
 | [sase-1rq.2.1.4.1.2](bbugyi200.athena.sase-1rq.2.1.4.1.2.md) (session · 3) | sase-1rq.2.1.4.1 hood | completed 2, failed 1 |
 | [sase-1rq.2.1.4.1.3](bbugyi200.athena.sase-1rq.2.1.4.1.3.md) (session · 3) | sase-1rq.2.1.4.1 hood | completed 2, failed 1 |
@@ -119,7 +119,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1rq.2.1.1](bbugyi200.athena.sase-1rq.2.1.1.md) (session · 3) | sase-1rq.2.1 hood | completed 3 |
 | [sase-1rq.2.1.2](bbugyi200.athena.sase-1rq.2.1.2.md) (session · 3) | sase-1rq.2.1 hood | completed 3 |
 | [sase-1rq.2.1.3](bbugyi200.athena.sase-1rq.2.1.3.md) (session · 5) | sase-1rq.2.1 hood | completed 4, failed 1 |
-| [sase-1rq.2.1.5](bbugyi200.athena.sase-1rq.2.1.5.md) (session · 3) | sase-1rq.2.1 hood | active 1, completed 2 |
+| [sase-1rq.2.1.5](bbugyi200.athena.sase-1rq.2.1.5.md) (session · 3) | sase-1rq.2.1 hood | completed 2, dismissed 1 |
 | [sase-1rq.2.1.5.1.1](../agents/bbugyi200.athena.sase-1rq.2.1.5.1.1/README.md) | sase-1rq.2.1 hood | completed |
 | [sase-1rq.2.1.5.1.2](../agents/bbugyi200.athena.sase-1rq.2.1.5.1.2/README.md) | sase-1rq.2.1 hood | completed |
 | [sase-1rq.2.1.5.1.3](../agents/bbugyi200.athena.sase-1rq.2.1.5.1.3/README.md) | sase-1rq.2.1 hood | completed |
@@ -129,7 +129,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1rq.2.1.7](../agents/bbugyi200.athena.sase-1rq.2.1.7/README.md) | sase-1rq.2.1 hood | waiting |
 | [sase-1rq.2.1.land](../agents/bbugyi200.athena.sase-1rq.2.1.land/README.md) | sase-1rq.2.1 hood | waiting |
 | [sase-1rq.1](bbugyi200.athena.sase-1rq.1.md) (session · 9) | sase-1rq hood | completed 9 |
-| [sase-1rq.3](bbugyi200.athena.sase-1rq.3.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
+| [sase-1rq.3](bbugyi200.athena.sase-1rq.3.md) (session · 3) | sase-1rq hood | completed 2, dismissed 1 |
 | [sase-1rq.3.1.1](../agents/bbugyi200.athena.sase-1rq.3.1.1/README.md) | sase-1rq hood | completed |
 | [sase-1rq.3.1.2](../agents/bbugyi200.athena.sase-1rq.3.1.2/README.md) | sase-1rq hood | completed |
 | [sase-1rq.3.1.3](bbugyi200.athena.sase-1rq.3.1.3.md) (session · 5) | sase-1rq hood | completed 5 |
