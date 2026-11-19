@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-00ef480fcb9ea953b132675daade7a13"}
+{"commits":[{"committed_at":1795131953,"sha":"77c0f23375e70c2b684050a3267366f1e6dbdd40","subject":"feat(doctor): group publication outbox by cause, settle terminal rows, calm stale-only protection"}],"schema_version":2,"source_run_id":"run-00ef480fcb9ea953b132675daade7a13"}
