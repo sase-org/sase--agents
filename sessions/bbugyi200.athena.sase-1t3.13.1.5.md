@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1t3.13.1.2](../agents/bbugyi200.athena.sase-1t3.13.1.2/README.md) | sase-1t3.13.1 hood | completed |
 | [sase-1t3.13.1.3](bbugyi200.athena.sase-1t3.13.1.3.md) (session · 3) | sase-1t3.13.1 hood | completed 3 |
 | [sase-1t3.13.1.4](bbugyi200.athena.sase-1t3.13.1.4.md) (session · 3) | sase-1t3.13.1 hood | completed 3 |
-| [sase-1t3.13.1.land](bbugyi200.athena.sase-1t3.13.1.land.md) (session · 3) | sase-1t3.13.1 hood | active 2, completed 1 |
+| [sase-1t3.13.1.land](bbugyi200.athena.sase-1t3.13.1.land.md) (session · 3) | sase-1t3.13.1 hood | completed 3 |
 | [sase-1t3.1](bbugyi200.athena.sase-1t3.1.md) (session · 2) | sase-1t3 hood | completed 2 |
 | [sase-1t3.1](../agents/bbugyi200.athena.sase-1t3.1/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.10](bbugyi200.athena.sase-1t3.10.md) (session · 3) | sase-1t3 hood | active 1, completed 2 |

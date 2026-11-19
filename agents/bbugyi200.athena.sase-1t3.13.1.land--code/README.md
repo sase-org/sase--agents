@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / [sase-1t3.13.1.land](../../sessions/bbugyi200.athena.sase-1t3.13.1.land.md) / sase-1t3.13.1.land--code
 
-**Global name:** `bbugyi200.athena.sase-1t3.13.1.land--code` · **State:** active · **Source run:** `run-eead0d46444293c6e56a03d0de22b47c`
+**Global name:** `bbugyi200.athena.sase-1t3.13.1.land--code` · **State:** completed · **Source run:** `run-eead0d46444293c6e56a03d0de22b47c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
@@ -11,8 +11,18 @@
 - Bead: [sase-1t3.13.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/sase-1t3.13.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-18T23:50:38.752230+00:00
-- Commits: 0
+- Timing: 2026-11-18T23:50:38.752230+00:00 → 2026-11-19T01:04:54.043863+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d152f20`](https://github.com/sase-org/sase/commit/d152f200b294deabb84cac52b2e5d606a2017837) | fix(ace): move exact-delta share-back off the UI loop | 2026-11-18 20:01:38 EST |
 
 ## Neighbors
 

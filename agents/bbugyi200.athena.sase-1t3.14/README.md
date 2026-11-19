@@ -49,7 +49,7 @@
 | [sase-1t3.13.1.3](../../sessions/bbugyi200.athena.sase-1t3.13.1.3.md) (session · 3) | sase-1t3 hood | completed 3 |
 | [sase-1t3.13.1.4](../../sessions/bbugyi200.athena.sase-1t3.13.1.4.md) (session · 3) | sase-1t3 hood | completed 3 |
 | [sase-1t3.13.1.5](../../sessions/bbugyi200.athena.sase-1t3.13.1.5.md) (session · 3) | sase-1t3 hood | completed 3 |
-| [sase-1t3.13.1.land](../../sessions/bbugyi200.athena.sase-1t3.13.1.land.md) (session · 3) | sase-1t3 hood | active 2, completed 1 |
+| [sase-1t3.13.1.land](../../sessions/bbugyi200.athena.sase-1t3.13.1.land.md) (session · 3) | sase-1t3 hood | completed 3 |
 | [sase-1t3.2](../../sessions/bbugyi200.athena.sase-1t3.2.md) (session · 5) | sase-1t3 hood | completed 5 |
 | [sase-1t3.3](../bbugyi200.athena.sase-1t3.3/README.md) | sase-1t3 hood | completed |
 | [sase-1t3.4](../../sessions/bbugyi200.athena.sase-1t3.4.md) (session · 4) | sase-1t3 hood | completed 3, failed 1 |

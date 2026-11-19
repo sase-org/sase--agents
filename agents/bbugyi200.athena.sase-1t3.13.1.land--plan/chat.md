@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-1t3.13.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1t3_13_1_land__plan-261118_153904.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1t3_13_1_land__code-261118_153904.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/interaction_latency_land_fixes.md
 
 
