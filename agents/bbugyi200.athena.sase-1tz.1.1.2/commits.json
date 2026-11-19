@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f77188ccca12e3b20e6500b27c7c9c90"}
+{"commits":[{"committed_at":1795100347,"sha":"5c7b87c71a9c6c41c22d7f3e85ea71fe0b7215e7","subject":"feat(retention): settle held workspaces once per evidence fingerprint"}],"schema_version":2,"source_run_id":"run-f77188ccca12e3b20e6500b27c7c9c90"}

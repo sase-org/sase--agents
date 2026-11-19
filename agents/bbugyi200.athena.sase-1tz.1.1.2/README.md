@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.1.1.2
 
-**Global name:** `bbugyi200.athena.sase-1tz.1.1.2` · **State:** active · **Source run:** `run-f77188ccca12e3b20e6500b27c7c9c90`
+**Global name:** `bbugyi200.athena.sase-1tz.1.1.2` · **State:** completed · **Source run:** `run-f77188ccca12e3b20e6500b27c7c9c90`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.1.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261119072956
-- Commits: 0
+- Timing: 2026-11-19T13:57:14.729453+00:00 → 2026-11-19T15:00:02.481702+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5c7b87c`](https://github.com/sase-org/sase/commit/5c7b87c71a9c6c41c22d7f3e85ea71fe0b7215e7) | feat(retention): settle held workspaces once per evidence fingerprint | 2026-11-19 09:59:07 EST |
 
 ## Neighbors
 
