@@ -20,13 +20,27 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1tz.2--gate | completed | opus / claude | 2026-11-19T16:13:00.039675+00:00 → 2026-11-19T16:13:21.734354+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.2--gate/chat.md) |
-| <a id="member-mon"></a>mon | sase-1tz.2--mon | completed | opus / claude | 2026-11-19T16:13:20.558794+00:00 → 2026-11-19T16:17:15.544808+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1tz.2--mon | completed | opus / claude | 2026-11-19T16:13:20.558794+00:00 → 2026-11-19T16:17:15.544808+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1tz.2--plan | active | opus / claude | 2026-11-19T15:48:44.357018+00:00 → 2026-11-19T16:13:29.229356+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.2--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-1tz.2.1.1](../agents/bbugyi200.athena.sase-1tz.2.1.1/README.md) | descendant | completed |
+| [sase-1tz.2.1.10](../agents/bbugyi200.athena.sase-1tz.2.1.10/README.md) | descendant | waiting |
+| [sase-1tz.2.1.11](../agents/bbugyi200.athena.sase-1tz.2.1.11/README.md) | descendant | failed |
+| [sase-1tz.2.1.12](../agents/bbugyi200.athena.sase-1tz.2.1.12/README.md) | descendant | completed |
+| [sase-1tz.2.1.13](../agents/bbugyi200.athena.sase-1tz.2.1.13/README.md) | descendant | waiting |
+| [sase-1tz.2.1.2](../agents/bbugyi200.athena.sase-1tz.2.1.2/README.md) | descendant | active |
+| [sase-1tz.2.1.3](../agents/bbugyi200.athena.sase-1tz.2.1.3/README.md) | descendant | active |
+| [sase-1tz.2.1.4](bbugyi200.athena.sase-1tz.2.1.4.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-1tz.2.1.5](../agents/bbugyi200.athena.sase-1tz.2.1.5/README.md) | descendant | waiting |
+| [sase-1tz.2.1.6](../agents/bbugyi200.athena.sase-1tz.2.1.6/README.md) | descendant | waiting |
+| [sase-1tz.2.1.7](../agents/bbugyi200.athena.sase-1tz.2.1.7/README.md) | descendant | waiting |
+| [sase-1tz.2.1.8](../agents/bbugyi200.athena.sase-1tz.2.1.8/README.md) | descendant | failed |
+| [sase-1tz.2.1.9](../agents/bbugyi200.athena.sase-1tz.2.1.9/README.md) | descendant | waiting |
+| [sase-1tz.2.1.land](../agents/bbugyi200.athena.sase-1tz.2.1.land/README.md) | descendant | waiting |
 | [sase-1tz.1](bbugyi200.athena.sase-1tz.1.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
 | [sase-1tz.1.1.1](../agents/bbugyi200.athena.sase-1tz.1.1.1/README.md) | sase-1tz hood | completed |
 | [sase-1tz.1.1.2](../agents/bbugyi200.athena.sase-1tz.1.1.2/README.md) | sase-1tz hood | completed |

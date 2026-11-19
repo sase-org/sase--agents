@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1795110469,"sha":"ffb7d33edb8ae72b9bc2f2ee2af9d2f426174fe6","subject":"perf(ace): memoize built-in query profiles and clan runtime wire payloads"}],"schema_version":2,"source_run_id":"run-698a5d54344fcb557181feaac27f38cd"}
