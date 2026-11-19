@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dd56fe2`](https://github.com/sase-org/sase/commit/dd56fe20753dff263a9aef53f99a8474bfa2f429) | fix(tui): survive gate-fit teardown and keep first-paint import budget | 2026-11-17 20:17:26 EST |
+| — | `dd56fe2` | fix(tui): survive gate-fit teardown and keep first-paint import budget | 2026-11-17 20:17:26 EST |
 
 ## Neighbors
 
@@ -44,7 +44,7 @@
 | [sase-1tc.3.1.6.3](../bbugyi200.athena.sase-1tc.3.1.6.3/README.md) | sase-1tc hood | completed |
 | [sase-1tc.3.1.6.4](../bbugyi200.athena.sase-1tc.3.1.6.4/README.md) | sase-1tc hood | completed |
 | [sase-1tc.3.1.6.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.6.land.md) (session · 3) | sase-1tc hood | completed 3 |
-| [sase-1tc.3.1.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
+| [sase-1tc.3.1.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc hood | completed 2, dismissed 1 |
 | [sase-1tc.4](../../sessions/bbugyi200.athena.sase-1tc.4.md) (session · 6) | sase-1tc hood | completed 5, failed 1 |
 | [sase-1tc.5](../../sessions/bbugyi200.athena.sase-1tc.5.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.5.1.1](../../sessions/bbugyi200.athena.sase-1tc.5.1.1.md) (session · 3) | sase-1tc hood | completed 3 |

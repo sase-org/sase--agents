@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ed5cb12`](https://github.com/sase-org/sase/commit/ed5cb12ef9ccd656302dbacf045a856e9e77f6c2) | feat(notifications): coalesce repeated plus-ones | 2026-11-19 08:55:52 EST |
+| — | `ed5cb12` | feat(notifications): coalesce repeated plus-ones | 2026-11-19 08:55:52 EST |
 
 ## Neighbors
 
@@ -37,7 +37,7 @@
 | [sase-1tz.1.1.6](../bbugyi200.athena.sase-1tz.1.1.6/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.7](../bbugyi200.athena.sase-1tz.1.1.7/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.land](../bbugyi200.athena.sase-1tz.1.1.land/README.md) | sase-1tz.1.1 hood | completed |
-| [sase-1tz.2](../../sessions/bbugyi200.athena.sase-1tz.2.md) (session · 3) | sase-1tz hood | active 2, completed 1 |
+| [sase-1tz.2](../../sessions/bbugyi200.athena.sase-1tz.2.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
 | [sase-1tz.3](../bbugyi200.athena.sase-1tz.3/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.4](../bbugyi200.athena.sase-1tz.4/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.land](../bbugyi200.athena.sase-1tz.land/README.md) | sase-1tz hood | waiting |

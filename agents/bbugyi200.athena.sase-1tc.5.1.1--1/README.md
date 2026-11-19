@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d9cb9cf`](https://github.com/sase-org/sase/commit/d9cb9cf4a3d8c620464e27f32a882d42580b9b14) | test(triage): add settle owner-enrichment binding regression | 2026-11-19 11:29:42 EST |
+| — | `d9cb9cf` | test(triage): add settle owner-enrichment binding regression | 2026-11-19 11:29:42 EST |
 
 ## Neighbors
 
@@ -48,6 +48,6 @@
 | [sase-1tc.3.1.6.3](../bbugyi200.athena.sase-1tc.3.1.6.3/README.md) | sase-1tc hood | completed |
 | [sase-1tc.3.1.6.4](../bbugyi200.athena.sase-1tc.3.1.6.4/README.md) | sase-1tc hood | completed |
 | [sase-1tc.3.1.6.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.6.land.md) (session · 3) | sase-1tc hood | completed 3 |
-| [sase-1tc.3.1.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
+| [sase-1tc.3.1.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc hood | completed 2, dismissed 1 |
 | [sase-1tc.4](../../sessions/bbugyi200.athena.sase-1tc.4.md) (session · 6) | sase-1tc hood | completed 5, failed 1 |
 | [sase-1tc.land](../bbugyi200.athena.sase-1tc.land/README.md) | sase-1tc hood | waiting |

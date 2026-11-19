@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6f21d01`](https://github.com/sase-org/sase/commit/6f21d01de33c0fa13f3479eaeb0091f7607dbd73) | feat(disk): prioritize workspace root measurements | 2026-11-19 10:34:30 EST |
+| — | `6f21d01` | feat(disk): prioritize workspace root measurements | 2026-11-19 10:34:30 EST |
 
 ## Neighbors
 
@@ -37,7 +37,7 @@
 | [sase-1tz.1.1.6](../bbugyi200.athena.sase-1tz.1.1.6/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.7](../bbugyi200.athena.sase-1tz.1.1.7/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.land](../bbugyi200.athena.sase-1tz.1.1.land/README.md) | sase-1tz.1.1 hood | completed |
-| [sase-1tz.2](../../sessions/bbugyi200.athena.sase-1tz.2.md) (session · 3) | sase-1tz hood | active 2, completed 1 |
+| [sase-1tz.2](../../sessions/bbugyi200.athena.sase-1tz.2.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
 | [sase-1tz.3](../bbugyi200.athena.sase-1tz.3/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.4](../bbugyi200.athena.sase-1tz.4/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.land](../bbugyi200.athena.sase-1tz.land/README.md) | sase-1tz hood | waiting |

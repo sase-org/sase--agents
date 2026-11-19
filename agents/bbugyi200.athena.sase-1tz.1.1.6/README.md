@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7b6a44a`](https://github.com/sase-org/sase/commit/7b6a44a100e5090d8cc98481377d01af40c54aca) | feat(disk): recover under pressure before attributing owners | 2026-11-19 10:26:11 EST |
+| — | `7b6a44a` | feat(disk): recover under pressure before attributing owners | 2026-11-19 10:26:11 EST |
 
 ## Neighbors
 
@@ -37,7 +37,7 @@
 | [sase-1tz.1.1.5](../bbugyi200.athena.sase-1tz.1.1.5/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.7](../bbugyi200.athena.sase-1tz.1.1.7/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.land](../bbugyi200.athena.sase-1tz.1.1.land/README.md) | sase-1tz.1.1 hood | completed |
-| [sase-1tz.2](../../sessions/bbugyi200.athena.sase-1tz.2.md) (session · 3) | sase-1tz hood | active 2, completed 1 |
+| [sase-1tz.2](../../sessions/bbugyi200.athena.sase-1tz.2.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
 | [sase-1tz.3](../bbugyi200.athena.sase-1tz.3/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.4](../bbugyi200.athena.sase-1tz.4/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.land](../bbugyi200.athena.sase-1tz.land/README.md) | sase-1tz hood | waiting |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1tz` · Members: 3 · Bead: [sase-1tz.2
 ```mermaid
 flowchart TD
   n0["sase-1tz.2--gate [completed]"]
-  n1["sase-1tz.2--mon [active]"]
+  n1["sase-1tz.2--mon [completed]"]
   n0 --> n1
   n2["sase-1tz.2--plan [active]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1tz.2--gate | completed | opus / claude | 2026-11-19T16:13:00.039675+00:00 → 2026-11-19T16:13:21.734354+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.2--gate/chat.md) |
-| <a id="member-mon"></a>mon | sase-1tz.2--mon | active | opus / claude | 2026-11-19T16:13:20.558794+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1tz.2--mon | completed | opus / claude | 2026-11-19T16:13:20.558794+00:00 → 2026-11-19T16:17:15.544808+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | sase-1tz.2--plan | active | opus / claude | 2026-11-19T15:48:44.357018+00:00 → 2026-11-19T16:13:29.229356+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.2--plan/chat.md) |
 
 ## Neighbors

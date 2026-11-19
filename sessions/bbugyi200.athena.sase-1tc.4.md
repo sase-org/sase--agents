@@ -36,8 +36,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`5b79f0f`](https://github.com/sase-org/sase/commit/5b79f0f5e37237e07b48088c4079dc04082453e1) | feat(beads): retire Python beads.db SQLite mirror | 2026-11-19 06:27:33 EST |
-| 1 | sase | [`c4cb77b`](https://github.com/sase-org/sase/commit/c4cb77b3b88a86554a9f980f6f0e3e5f38449ccf) | test(beads): single-owner WAL-mirror adoption and exact SQLite owner guard | 2026-11-19 09:05:22 EST |
+| — | — | `5b79f0f` | feat(beads): retire Python beads.db SQLite mirror | 2026-11-19 06:27:33 EST |
+| 1 | — | `c4cb77b` | test(beads): single-owner WAL-mirror adoption and exact SQLite owner guard | 2026-11-19 09:05:22 EST |
 
 ## Neighbors
 
@@ -60,7 +60,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1tc.3.1.6.3](../agents/bbugyi200.athena.sase-1tc.3.1.6.3/README.md) | sase-1tc hood | completed |
 | [sase-1tc.3.1.6.4](../agents/bbugyi200.athena.sase-1tc.3.1.6.4/README.md) | sase-1tc hood | completed |
 | [sase-1tc.3.1.6.land](bbugyi200.athena.sase-1tc.3.1.6.land.md) (session · 3) | sase-1tc hood | completed 3 |
-| [sase-1tc.3.1.land](bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
+| [sase-1tc.3.1.land](bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc hood | completed 2, dismissed 1 |
 | [sase-1tc.5](bbugyi200.athena.sase-1tc.5.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.5.1.1](bbugyi200.athena.sase-1tc.5.1.1.md) (session · 3) | sase-1tc hood | completed 3 |
 | [sase-1tc.5.1.2](../agents/bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | waiting |

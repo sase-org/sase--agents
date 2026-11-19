@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1tc.3.1.land--gate [completed]"]
   n1["sase-1tc.3.1.land--mon [completed]"]
   n0 --> n1
-  n2["sase-1tc.3.1.land--plan [active]"]
+  n2["sase-1tc.3.1.land--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1tc.3.1.land--gate | completed | opus / claude | 2026-11-18T12:18:30.435780+00:00 → 2026-11-18T12:18:56.123235+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.land--gate/chat.md) |
 | <a id="member-mon"></a>mon | sase-1tc.3.1.land--mon | completed | opus / claude | 2026-11-18T12:18:54.619347+00:00 → 2026-11-18T12:23:48.359905+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.land--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-1tc.3.1.land--plan | active | opus / claude | 2026-11-18T11:59:37.677542+00:00 → 2026-11-18T12:19:05.374761+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tc.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1tc.3.1.land--plan | dismissed | opus / claude | 2026-11-18T06:59:37.677542 → 2026-11-18T07:19:05.709961 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tc.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tc.3.1.land--plan/chat.md) |
 
 ## Neighbors
 

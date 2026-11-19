@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tc](../../users/bbugyi200/machines/athena/hoods/sase-1tc/README.md) / [sase-1tc.3.1.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.land.md) / sase-1tc.3.1.land--plan
 
-**Global name:** `bbugyi200.athena.sase-1tc.3.1.land--plan` · **State:** active · **Source run:** `run-bcb8f7b2df3a605af73436698edf21ee`
+**Global name:** `bbugyi200.athena.sase-1tc.3.1.land--plan` · **State:** dismissed · **Source run:** `run-bcb8f7b2df3a605af73436698edf21ee`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tc
 
@@ -11,7 +11,7 @@
 - Bead: [sase-1tc.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tc/sase-1tc.3.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-18T11:59:37.677542+00:00 → 2026-11-18T12:19:05.374761+00:00
+- Timing: 2026-11-18T06:59:37.677542 → 2026-11-18T07:19:05.709961
 - Commits: 0
 
 ## Files

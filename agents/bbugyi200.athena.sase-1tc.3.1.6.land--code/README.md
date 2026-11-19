@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3fcb19`](https://github.com/sase-org/sase/commit/d3fcb19562816378011aa3ca0c3ff7b5f1f693ee) | fix(axe): finish chop recovery safety and nested landing closeout | 2026-11-18 17:15:37 EST |
+| — | `d3fcb19` | fix(axe): finish chop recovery safety and nested landing closeout | 2026-11-18 17:15:37 EST |
 
 ## Neighbors
 
@@ -38,7 +38,7 @@
 | [sase-1tc.3.1.3](../../sessions/bbugyi200.athena.sase-1tc.3.1.3.md) (session · 8) | sase-1tc.3.1 hood | completed 5, failed 3 |
 | [sase-1tc.3.1.4](../../sessions/bbugyi200.athena.sase-1tc.3.1.4.md) (session · 3) | sase-1tc.3.1 hood | completed 3 |
 | [sase-1tc.3.1.5](../bbugyi200.athena.sase-1tc.3.1.5/README.md) | sase-1tc.3.1 hood | completed |
-| [sase-1tc.3.1.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc.3.1 hood | active 1, completed 2 |
+| [sase-1tc.3.1.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc.3.1 hood | completed 2, dismissed 1 |
 | [sase-1tc.1](../../sessions/bbugyi200.athena.sase-1tc.1.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.1.1.1](../bbugyi200.athena.sase-1tc.1.1.1/README.md) | sase-1tc hood | completed |
 | [sase-1tc.1.1.2](../../sessions/bbugyi200.athena.sase-1tc.1.1.2.md) (session · 3) | sase-1tc hood | completed 2, failed 1 |

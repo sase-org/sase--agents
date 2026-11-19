@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`06ae058`](https://github.com/sase-org/sase/commit/06ae058b5fff147bfb39ec81f58a6788141071a5) | feat(axe): report managed tmp skips as standing state | 2026-11-19 08:33:03 EST |
+| — | `06ae058` | feat(axe): report managed tmp skips as standing state | 2026-11-19 08:33:03 EST |
 
 ## Neighbors
 
@@ -37,7 +37,7 @@
 | [sase-1tz.1.1.5](../bbugyi200.athena.sase-1tz.1.1.5/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.6](../bbugyi200.athena.sase-1tz.1.1.6/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.land](../bbugyi200.athena.sase-1tz.1.1.land/README.md) | sase-1tz.1.1 hood | completed |
-| [sase-1tz.2](../../sessions/bbugyi200.athena.sase-1tz.2.md) (session · 3) | sase-1tz hood | active 2, completed 1 |
+| [sase-1tz.2](../../sessions/bbugyi200.athena.sase-1tz.2.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
 | [sase-1tz.3](../bbugyi200.athena.sase-1tz.3/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.4](../bbugyi200.athena.sase-1tz.4/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.land](../bbugyi200.athena.sase-1tz.land/README.md) | sase-1tz hood | waiting |

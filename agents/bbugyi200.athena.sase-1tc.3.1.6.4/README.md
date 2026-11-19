@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5b08952`](https://github.com/sase-org/sase/commit/5b08952c6d8dd69b6b1731989a3580c61b3d660e) | feat(axe): re-prove chop batch recovery with production-shaped acceptance evidence | 2026-11-18 15:27:35 EST |
+| — | `5b08952` | feat(axe): re-prove chop batch recovery with production-shaped acceptance evidence | 2026-11-18 15:27:35 EST |
 
 ## Neighbors
 
@@ -39,7 +39,7 @@
 | [sase-1tc.3.1.3](../../sessions/bbugyi200.athena.sase-1tc.3.1.3.md) (session · 8) | sase-1tc.3.1 hood | completed 5, failed 3 |
 | [sase-1tc.3.1.4](../../sessions/bbugyi200.athena.sase-1tc.3.1.4.md) (session · 3) | sase-1tc.3.1 hood | completed 3 |
 | [sase-1tc.3.1.5](../bbugyi200.athena.sase-1tc.3.1.5/README.md) | sase-1tc.3.1 hood | completed |
-| [sase-1tc.3.1.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc.3.1 hood | active 1, completed 2 |
+| [sase-1tc.3.1.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc.3.1 hood | completed 2, dismissed 1 |
 | [sase-1tc.1](../../sessions/bbugyi200.athena.sase-1tc.1.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.1.1.1](../bbugyi200.athena.sase-1tc.1.1.1/README.md) | sase-1tc hood | completed |
 | [sase-1tc.1.1.2](../../sessions/bbugyi200.athena.sase-1tc.1.1.2.md) (session · 3) | sase-1tc hood | completed 2, failed 1 |
