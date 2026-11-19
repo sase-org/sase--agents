@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-a6.test\_agents\_bead\_warmup.0](../bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0/README.md) | toobig-a6 hood | active |
+| [toobig-a6.test\_agents\_bead\_warmup.0](../../sessions/bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0.md) (session · 5) | toobig-a6 hood | active 1, completed 2, failed 2 |
 | [toobig-a6.test\_projected\_detail\_retention.0](../bbugyi200.athena.toobig-a6.test_projected_detail_retention.0/README.md) | toobig-a6 hood | completed |
