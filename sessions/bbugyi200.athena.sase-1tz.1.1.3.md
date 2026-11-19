@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1tz.1](bbugyi200.athena.sase-1tz.1.md) (session · 3) | ancestor | active 1, completed 2 |
-| [sase-1tz.1.1.1](../agents/bbugyi200.athena.sase-1tz.1.1.1/README.md) | sase-1tz.1.1 hood | active |
+| [sase-1tz.1.1.1](../agents/bbugyi200.athena.sase-1tz.1.1.1/README.md) | sase-1tz.1.1 hood | completed |
 | [sase-1tz.1.1.2](../agents/bbugyi200.athena.sase-1tz.1.1.2/README.md) | sase-1tz.1.1 hood | active |
 | [sase-1tz.1.1.4](../agents/bbugyi200.athena.sase-1tz.1.1.4/README.md) | sase-1tz.1.1 hood | active |
 | [sase-1tz.1.1.5](../agents/bbugyi200.athena.sase-1tz.1.1.5/README.md) | sase-1tz.1.1 hood | waiting |
