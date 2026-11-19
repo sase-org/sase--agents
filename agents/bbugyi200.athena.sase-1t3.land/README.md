@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1t3](../../users/bbugyi200/machines/athena/hoods/sase-1t3/README.md) / sase-1t3.land
 
-**Global name:** `bbugyi200.athena.sase-1t3.land` · **State:** waiting · **Source run:** `run-f2b3a0d73eff3fc4de29ce893f12a8be`
+**Global name:** `bbugyi200.athena.sase-1t3.land` · **State:** completed · **Source run:** `run-f2b3a0d73eff3fc4de29ce893f12a8be`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1t3
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1t3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1t3/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261117060254
-- Commits: 0
+- Timing: 2026-11-19T03:16:23.454089+00:00 → 2026-11-19T03:47:08.662767+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`44af73e`](https://github.com/sase-org/sase/commit/44af73eea844375ce9f1004f46d9207a0e380324) | docs(perf): regrade sase-1t3 soak on untraced live-TUI telemetry | 2026-11-18 22:44:24 EST |
 
 ## Neighbors
 

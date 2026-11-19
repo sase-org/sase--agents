@@ -102,4 +102,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1t3.8](../../sessions/bbugyi200.athena.sase-1t3.8.md) (session · 9) | sase-1t3 hood | completed 7, failed 2 |
 | [sase-1t3.8](../bbugyi200.athena.sase-1t3.8/README.md) | sase-1t3 hood | waiting |
 | [sase-1t3.9](../../sessions/bbugyi200.athena.sase-1t3.9.md) (session · 5) | sase-1t3 hood | completed 5 |
-| [sase-1t3.land](../bbugyi200.athena.sase-1t3.land/README.md) | sase-1t3 hood | waiting |
+| [sase-1t3.land](../bbugyi200.athena.sase-1t3.land/README.md) | sase-1t3 hood | completed |
