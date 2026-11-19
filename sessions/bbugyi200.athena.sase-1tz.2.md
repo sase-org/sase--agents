@@ -1,0 +1,41 @@
+# Session: sase-1tz.2
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.2
+
+Owner: `bbugyi200.athena` · Hood: `sase-1tz` · Members: 3 · Bead: [sase-1tz.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.2.md)
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["sase-1tz.2--gate [completed]"]
+  n1["sase-1tz.2--mon [active]"]
+  n0 --> n1
+  n2["sase-1tz.2--plan [active]"]
+  n0 --> n2
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-gate"></a>gate | sase-1tz.2--gate | completed | opus / claude | 2026-11-19T16:13:00.039675+00:00 → 2026-11-19T16:13:21.734354+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.2--gate/chat.md) |
+| <a id="member-mon"></a>mon | sase-1tz.2--mon | active | opus / claude | 2026-11-19T16:13:20.558794+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-1tz.2--plan | active | opus / claude | 2026-11-19T15:48:44.357018+00:00 → 2026-11-19T16:13:29.229356+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.2--plan/chat.md) |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-1tz.1](bbugyi200.athena.sase-1tz.1.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
+| [sase-1tz.1.1.1](../agents/bbugyi200.athena.sase-1tz.1.1.1/README.md) | sase-1tz hood | completed |
+| [sase-1tz.1.1.2](../agents/bbugyi200.athena.sase-1tz.1.1.2/README.md) | sase-1tz hood | completed |
+| [sase-1tz.1.1.3](bbugyi200.athena.sase-1tz.1.1.3.md) (session · 3) | sase-1tz hood | completed 3 |
+| [sase-1tz.1.1.4](../agents/bbugyi200.athena.sase-1tz.1.1.4/README.md) | sase-1tz hood | completed |
+| [sase-1tz.1.1.5](../agents/bbugyi200.athena.sase-1tz.1.1.5/README.md) | sase-1tz hood | completed |
+| [sase-1tz.1.1.6](../agents/bbugyi200.athena.sase-1tz.1.1.6/README.md) | sase-1tz hood | completed |
+| [sase-1tz.1.1.7](../agents/bbugyi200.athena.sase-1tz.1.1.7/README.md) | sase-1tz hood | completed |
+| [sase-1tz.1.1.land](../agents/bbugyi200.athena.sase-1tz.1.1.land/README.md) | sase-1tz hood | completed |
+| [sase-1tz.3](../agents/bbugyi200.athena.sase-1tz.3/README.md) | sase-1tz hood | waiting |
+| [sase-1tz.4](../agents/bbugyi200.athena.sase-1tz.4/README.md) | sase-1tz hood | waiting |
+| [sase-1tz.land](../agents/bbugyi200.athena.sase-1tz.land/README.md) | sase-1tz hood | waiting |
