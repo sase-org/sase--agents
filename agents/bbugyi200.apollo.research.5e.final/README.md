@@ -23,8 +23,8 @@
 |---|---|---|
 | [research.5e.cdx](../bbugyi200.apollo.research.5e.cdx/README.md) | research.5e hood | completed |
 | [research.5e.cld](../bbugyi200.apollo.research.5e.cld/README.md) | research.5e hood | active |
-| [research.5e.gem](../bbugyi200.apollo.research.5e.gem/README.md) | research.5e hood | active |
-| [research.5e.grk](../bbugyi200.apollo.research.5e.grk/README.md) | research.5e hood | active |
+| [research.5e.gem](../bbugyi200.apollo.research.5e.gem/README.md) | research.5e hood | completed |
+| [research.5e.grk](../bbugyi200.apollo.research.5e.grk/README.md) | research.5e hood | completed |
 | [research.5e.image](../bbugyi200.apollo.research.5e.image/README.md) | research.5e hood | waiting |
 | [research.5e.linker](../bbugyi200.apollo.research.5e.linker/README.md) | research.5e hood | waiting |
 | [research.5e.mus](../bbugyi200.apollo.research.5e.mus/README.md) | research.5e hood | completed |
