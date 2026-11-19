@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`260b9ca`](https://github.com/sase-org/sase/commit/260b9caa3fccf9e9be33fb04bdb7c48d9bfc2473) | feat(muse-provider): add 1.4.13 live-capture fixtures and replay test | 2026-10-27 00:26:26 EDT |
+| 1 | — | `260b9ca` | feat(muse-provider): add 1.4.13 live-capture fixtures and replay test | 2026-10-27 00:26:26 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1oi.1](../agents/bbugyi200.athena.sase-1oi.1/README.md) | sase-1oi hood | completed |
 | [sase-1oi.2](../agents/bbugyi200.athena.sase-1oi.2/README.md) | sase-1oi hood | completed |
-| [sase-1oi.land](../agents/bbugyi200.athena.sase-1oi.land/README.md) | sase-1oi hood | active |
+| [sase-1oi.land](../agents/bbugyi200.athena.sase-1oi.land/README.md) | sase-1oi hood | dismissed |

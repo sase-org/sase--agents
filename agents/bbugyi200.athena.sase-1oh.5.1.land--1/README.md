@@ -34,8 +34,8 @@
 | [sase-1oh.2](../bbugyi200.athena.sase-1oh.2/README.md) | sase-1oh hood | completed |
 | [sase-1oh.3](../../sessions/bbugyi200.athena.sase-1oh.3.md) (session · 3) | sase-1oh hood | completed 2, failed 1 |
 | [sase-1oh.4](../../sessions/bbugyi200.athena.sase-1oh.4.md) (session · 3) | sase-1oh hood | failed 3 |
-| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.2](../bbugyi200.athena.sase-1oh.4.1.2/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh hood | active 2, completed 1 |
+| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.2](../bbugyi200.athena.sase-1oh.4.1.2/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh hood | completed 1, dismissed 2 |
 | [sase-1oh.land](../../sessions/bbugyi200.athena.sase-1oh.land.md) (session · 5) | sase-1oh hood | completed 1, failed 4 |

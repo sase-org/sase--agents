@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7c9bfa8`](https://github.com/sase-org/sase/commit/7c9bfa89f78f79df699327904d578dea02034e4f) | fix(ci): catch shard timing drift before gate breaks | 2026-10-26 15:11:20 EDT |
+| — | `7c9bfa8` | fix(ci): catch shard timing drift before gate breaks | 2026-10-26 15:11:20 EDT |
 
 ## Neighbors
 
@@ -32,10 +32,10 @@
 | [sase-1oh.1](../bbugyi200.athena.sase-1oh.1/README.md) | sase-1oh hood | completed |
 | [sase-1oh.3](../../sessions/bbugyi200.athena.sase-1oh.3.md) (session · 3) | sase-1oh hood | completed 2, failed 1 |
 | [sase-1oh.4](../../sessions/bbugyi200.athena.sase-1oh.4.md) (session · 3) | sase-1oh hood | failed 3 |
-| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.2](../bbugyi200.athena.sase-1oh.4.1.2/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh hood | active 2, completed 1 |
+| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.2](../bbugyi200.athena.sase-1oh.4.1.2/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh hood | completed 1, dismissed 2 |
 | [sase-1oh.5](../../sessions/bbugyi200.athena.sase-1oh.5.md) (session · 3) | sase-1oh hood | failed 3 |
 | [sase-1oh.5.1.1](../bbugyi200.athena.sase-1oh.5.1.1/README.md) | sase-1oh hood | completed |
 | [sase-1oh.5.1.2](../bbugyi200.athena.sase-1oh.5.1.2/README.md) | sase-1oh hood | completed |

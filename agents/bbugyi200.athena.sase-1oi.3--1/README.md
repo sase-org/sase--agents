@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`260b9ca`](https://github.com/sase-org/sase/commit/260b9caa3fccf9e9be33fb04bdb7c48d9bfc2473) | feat(muse-provider): add 1.4.13 live-capture fixtures and replay test | 2026-10-27 00:26:26 EDT |
+| — | `260b9ca` | feat(muse-provider): add 1.4.13 live-capture fixtures and replay test | 2026-10-27 00:26:26 EDT |
 
 ## Neighbors
 
@@ -30,4 +30,4 @@
 |---|---|---|
 | [sase-1oi.1](../bbugyi200.athena.sase-1oi.1/README.md) | sase-1oi hood | completed |
 | [sase-1oi.2](../bbugyi200.athena.sase-1oi.2/README.md) | sase-1oi hood | completed |
-| [sase-1oi.land](../bbugyi200.athena.sase-1oi.land/README.md) | sase-1oi hood | active |
+| [sase-1oi.land](../bbugyi200.athena.sase-1oi.land/README.md) | sase-1oi hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1oh](../../users/bbugyi200/machines/athena/hoods/sase-1oh/README.md) / sase-1oh.4.1.2
 
-**Global name:** `bbugyi200.athena.sase-1oh.4.1.2` · **State:** active · **Source run:** `run-155f1eb9365da634c85ba57b8fffaa1f`
+**Global name:** `bbugyi200.athena.sase-1oh.4.1.2` · **State:** dismissed · **Source run:** `run-155f1eb9365da634c85ba57b8fffaa1f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1oh
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1oh.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1oh/sase-1oh.4.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-26T19:45:06.130034+00:00
+- Timing: 2026-10-26T15:45:06.130034 → 2026-10-26T20:24:38.244971
 - Commits: [1](#commits)
 
 ## Files
@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eb365af`](https://github.com/sase-org/sase/commit/eb365afe30ba8a1b8c5c291f6e0e1be26c999a12) | fix(finalizers): resolve symvision items for failed-close recovery | 2026-10-26 20:18:19 EDT |
+| — | `eb365af` | fix(finalizers): resolve symvision items for failed-close recovery | 2026-10-26 20:18:19 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1oh.4](../../sessions/bbugyi200.athena.sase-1oh.4.md) (session · 3) | ancestor | failed 3 |
-| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh.4.1 hood | active |
-| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh.4.1 hood | active |
-| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh.4.1 hood | active 2, completed 1 |
+| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh.4.1 hood | dismissed |
+| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh.4.1 hood | dismissed |
+| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh.4.1 hood | completed 1, dismissed 2 |
 | [sase-1oh.1](../bbugyi200.athena.sase-1oh.1/README.md) | sase-1oh hood | completed |
 | [sase-1oh.2](../bbugyi200.athena.sase-1oh.2/README.md) | sase-1oh hood | completed |
 | [sase-1oh.3](../../sessions/bbugyi200.athena.sase-1oh.3.md) (session · 3) | sase-1oh hood | completed 2, failed 1 |

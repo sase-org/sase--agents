@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c687d8b`](https://github.com/sase-org/sase/commit/c687d8b6ebba66fc41a3ba600ba789af9cfcdc93) | fix(agents-sync): park withheld publications without charging quarantine | 2026-10-27 07:33:19 EDT |
+| — | `c687d8b` | fix(agents-sync): park withheld publications without charging quarantine | 2026-10-27 07:33:19 EDT |
 
 ## Neighbors
 
@@ -36,8 +36,8 @@
 | [sase-1oh.2](../bbugyi200.athena.sase-1oh.2/README.md) | sase-1oh hood | completed |
 | [sase-1oh.3](../../sessions/bbugyi200.athena.sase-1oh.3.md) (session · 3) | sase-1oh hood | completed 2, failed 1 |
 | [sase-1oh.4](../../sessions/bbugyi200.athena.sase-1oh.4.md) (session · 3) | sase-1oh hood | failed 3 |
-| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.2](../bbugyi200.athena.sase-1oh.4.1.2/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh hood | active 2, completed 1 |
+| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.2](../bbugyi200.athena.sase-1oh.4.1.2/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh hood | completed 1, dismissed 2 |
 | [sase-1oh.land](../../sessions/bbugyi200.athena.sase-1oh.land.md) (session · 5) | sase-1oh hood | completed 1, failed 4 |

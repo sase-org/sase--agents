@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f4591e9`](https://github.com/sase-org/sase/commit/f4591e9106830fb5e558d71f506b4a2d9fe9791b) | feat(agents-sync): add publication protection state | 2026-10-26 17:10:06 EDT |
+| — | `f4591e9` | feat(agents-sync): add publication protection state | 2026-10-26 17:10:06 EDT |
 
 ## Neighbors
 
@@ -42,8 +42,8 @@
 | [sase-1oh.2](../bbugyi200.athena.sase-1oh.2/README.md) | sase-1oh hood | completed |
 | [sase-1oh.3](../../sessions/bbugyi200.athena.sase-1oh.3.md) (session · 3) | sase-1oh hood | completed 2, failed 1 |
 | [sase-1oh.4](../../sessions/bbugyi200.athena.sase-1oh.4.md) (session · 3) | sase-1oh hood | failed 3 |
-| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.2](../bbugyi200.athena.sase-1oh.4.1.2/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh hood | active |
-| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh hood | active 2, completed 1 |
+| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.2](../bbugyi200.athena.sase-1oh.4.1.2/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh hood | dismissed |
+| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh hood | completed 1, dismissed 2 |
 | [sase-1oh.land](../../sessions/bbugyi200.athena.sase-1oh.land.md) (session · 5) | sase-1oh hood | completed 1, failed 4 |

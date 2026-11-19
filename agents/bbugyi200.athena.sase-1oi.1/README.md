@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cf9b9db`](https://github.com/sase-org/sase/commit/cf9b9dbf39737dfc7bf924bd9979b9f3273985b3) | feat(llm-provider): tail Muse session-log commentary into live\_reply.md | 2026-10-26 23:09:56 EDT |
+| — | `cf9b9db` | feat(llm-provider): tail Muse session-log commentary into live\_reply.md | 2026-10-26 23:09:56 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-1oi.2](../bbugyi200.athena.sase-1oi.2/README.md) | sase-1oi hood | completed |
 | [sase-1oi.3](../../sessions/bbugyi200.athena.sase-1oi.3.md) (session · 3) | sase-1oi hood | completed 2, failed 1 |
-| [sase-1oi.land](../bbugyi200.athena.sase-1oi.land/README.md) | sase-1oi hood | active |
+| [sase-1oi.land](../bbugyi200.athena.sase-1oi.land/README.md) | sase-1oi hood | dismissed |

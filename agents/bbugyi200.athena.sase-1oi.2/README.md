@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`027125d`](https://github.com/sase-org/sase/commit/027125d57b651d99cdd31d6f294476395bef7e85) | test(tui): mount production-shaped Muse commentary fixture in live-reply follow tests | 2026-10-27 00:23:57 EDT |
+| — | `027125d` | test(tui): mount production-shaped Muse commentary fixture in live-reply follow tests | 2026-10-27 00:23:57 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-1oi.1](../bbugyi200.athena.sase-1oi.1/README.md) | sase-1oi hood | completed |
 | [sase-1oi.3](../../sessions/bbugyi200.athena.sase-1oi.3.md) (session · 3) | sase-1oi hood | completed 2, failed 1 |
-| [sase-1oi.land](../bbugyi200.athena.sase-1oi.land/README.md) | sase-1oi hood | active |
+| [sase-1oi.land](../bbugyi200.athena.sase-1oi.land/README.md) | sase-1oi hood | dismissed |
