@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-a6
 
-**Global hood:** `bbugyi200.athena.toobig-a6` · **Runs:** 7 · **Sessions:** 1 · **States:** completed 4, failed 2, waiting 1
+**Global hood:** `bbugyi200.athena.toobig-a6` · **Runs:** 7 · **Sessions:** 1 · **States:** completed 5, failed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [toobig-a6.test\_agents\_bead\_warmup.0--mon-0](../../../../../../sessions/bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0.md#member-mon-0) | failed | grok-4.6 / grok | 2026-11-19T00:13:39.693705+00:00 → 2026-11-19T00:30:09.342177+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0--mon-0/chat.md) |
-| [toobig-a6.test\_axe\_chop\_batch\_recovery.0](../../../../../../agents/bbugyi200.athena.toobig-a6.test_axe_chop_batch_recovery.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261118184305 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-a6.test_axe_chop_batch_recovery.0/prompt.md) |
+| [toobig-a6.test\_axe\_chop\_batch\_recovery.0](../../../../../../agents/bbugyi200.athena.toobig-a6.test_axe_chop_batch_recovery.0/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-19T02:17:16.789911+00:00 → 2026-11-19T02:48:31.306838+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-a6.test_axe_chop_batch_recovery.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-a6.test_axe_chop_batch_recovery.0/chat.md) |
 | [toobig-a6.test\_agents\_bead\_warmup.0--mon](../../../../../../sessions/bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0.md#member-mon) | failed | grok-4.6 / grok | 2026-11-19T00:04:15.004747+00:00 → 2026-11-19T00:08:15.157179+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0--mon/chat.md) |
 | [toobig-a6.test\_agents\_bead\_warmup.0--2](../../../../../../sessions/bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0.md#member-2) | completed | grok-4.6 / grok | 2026-11-19T00:30:09.034697+00:00 → 2026-11-19T02:16:55.358016+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0--2/chat.md) |
 | [toobig-a6.test\_agents\_bead\_warmup.0--plan](../../../../../../sessions/bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0.md#member-plan) | completed | grok-4.6 / grok | 2026-11-18T23:56:18.306915+00:00 → 2026-11-19T00:06:12.808601+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-a6.test_agents_bead_warmup.0--plan/chat.md) |
