@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1tc.5--gate [completed]"]
   n1["sase-1tc.5--plan [active]"]
   n0 --> n1
-  n2["sase-1tc.5--mon [active]"]
+  n2["sase-1tc.5--mon [completed]"]
   n0 --> n2
 ```
 
@@ -21,12 +21,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1tc.5--gate | completed | gpt-6-astra / codex | 2026-11-19T14:15:02.147080+00:00 → 2026-11-19T14:15:25.060586+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tc.5--gate/chat.md) |
 | <a id="member-plan"></a>plan | sase-1tc.5--plan | active | gpt-6-astra / codex | 2026-11-19T14:07:24.349281+00:00 → 2026-11-19T14:15:31.377416+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tc.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tc.5--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-1tc.5--mon | active | gpt-6-astra / codex | 2026-11-19T14:15:23.667455+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1tc.5--mon | completed | gpt-6-astra / codex | 2026-11-19T14:15:23.667455+00:00 → 2026-11-19T14:17:48.913096+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tc.5--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-1tc.5.1.1](bbugyi200.athena.sase-1tc.5.1.1.md) (session · 3) | descendant | completed 3 |
+| [sase-1tc.5.1.2](../agents/bbugyi200.athena.sase-1tc.5.1.2/README.md) | descendant | waiting |
+| [sase-1tc.5.1.land](../agents/bbugyi200.athena.sase-1tc.5.1.land/README.md) | descendant | waiting |
 | [sase-1tc.1](bbugyi200.athena.sase-1tc.1.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.1.1.1](../agents/bbugyi200.athena.sase-1tc.1.1.1/README.md) | sase-1tc hood | completed |
 | [sase-1tc.1.1.2](bbugyi200.athena.sase-1tc.1.1.2.md) (session · 3) | sase-1tc hood | completed 2, failed 1 |
