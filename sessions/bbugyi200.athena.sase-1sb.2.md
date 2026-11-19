@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1sb.2--gate [completed]"]
   n1["sase-1sb.2--mon [completed]"]
   n0 --> n1
-  n2["sase-1sb.2--plan [active]"]
+  n2["sase-1sb.2--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1sb.2--gate | completed | gpt-6-astra / codex | 2026-11-12T01:30:56.432227+00:00 → 2026-11-12T01:34:30.260675+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1sb.2--gate/chat.md) |
 | <a id="member-mon"></a>mon | sase-1sb.2--mon | completed | gpt-6-astra / codex | 2026-11-12T01:34:25.667879+00:00 → 2026-11-12T01:40:41.428201+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1sb.2--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-1sb.2--plan | active | gpt-6-astra / codex | 2026-11-12T01:20:40.250745+00:00 → 2026-11-12T01:34:39.961749+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1sb.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1sb.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1sb.2--plan | dismissed | gpt-6-astra / codex | 2026-11-11T20:20:40.250745 → 2026-11-11T20:34:40.317326 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1sb.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1sb.2--plan/chat.md) |
 
 ## Neighbors
 

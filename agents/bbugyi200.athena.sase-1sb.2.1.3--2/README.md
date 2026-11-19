@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`021cd73`](https://github.com/sase-org/sase/commit/021cd73021b62e9f92ccd6829c9ded59c80ed7cd) | feat(config): enforce trust for merged config and file hooks | 2026-11-12 04:21:44 EST |
+| — | `021cd73` | feat(config): enforce trust for merged config and file hooks | 2026-11-12 04:21:44 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1sb.2](../../sessions/bbugyi200.athena.sase-1sb.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1sb.2](../../sessions/bbugyi200.athena.sase-1sb.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [sase-1sb.2.1.1](../../sessions/bbugyi200.athena.sase-1sb.2.1.1.md) (session · 5) | sase-1sb.2.1 hood | completed 4, failed 1 |
 | [sase-1sb.2.1.2](../bbugyi200.athena.sase-1sb.2.1.2/README.md) | sase-1sb.2.1 hood | completed |
 | [sase-1sb.2.1.4](../bbugyi200.athena.sase-1sb.2.1.4/README.md) | sase-1sb.2.1 hood | completed |

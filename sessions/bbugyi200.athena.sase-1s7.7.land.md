@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["sase-1s7.7.land--gate [completed]"]
   n0 --> n2
-  n3["sase-1s7.7.land--mon [active]"]
+  n3["sase-1s7.7.land--mon [completed]"]
   n0 --> n3
 ```
 
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-1s7.7.land--code | completed | gpt-6-luna / codex | 2026-11-11T20:54:14.180103+00:00 → 2026-11-11T21:05:19.350208+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1s7.7.land--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-1s7.7.land--plan | completed | gpt-6-astra / codex | 2026-11-11T20:37:22.498629+00:00 → 2026-11-11T21:05:19.350208+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1s7.7.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1s7.7.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1s7.7.land--gate | completed | gpt-6-astra / codex | 2026-11-11T20:51:55.305459+00:00 → 2026-11-11T20:53:35.460073+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1s7.7.land--gate/chat.md) |
-| <a id="member-mon"></a>mon | sase-1s7.7.land--mon | active | gpt-6-luna / codex | 2026-11-11T21:04:09.431298+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1s7.7.land--mon | completed | gpt-6-luna / codex | 2026-11-11T21:04:09.431298+00:00 → 2026-11-11T21:08:16.870041+00:00 | 0 | — | — |
 
 ## Variables
 

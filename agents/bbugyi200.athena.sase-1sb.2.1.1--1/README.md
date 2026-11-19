@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`181b213`](https://github.com/sase-org/sase/commit/181b213e8c58f8c90357d1e56cf910b5c727c0ea) | fix(trust-policy): whitelist local-trust adapter in symvision and terminology guard | 2026-11-11 22:53:14 EST |
+| — | `181b213` | fix(trust-policy): whitelist local-trust adapter in symvision and terminology guard | 2026-11-11 22:53:14 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1sb.2](../../sessions/bbugyi200.athena.sase-1sb.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1sb.2](../../sessions/bbugyi200.athena.sase-1sb.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [sase-1sb.2.1.2](../bbugyi200.athena.sase-1sb.2.1.2/README.md) | sase-1sb.2.1 hood | completed |
 | [sase-1sb.2.1.3](../../sessions/bbugyi200.athena.sase-1sb.2.1.3.md) (session · 5) | sase-1sb.2.1 hood | completed 4, failed 1 |
 | [sase-1sb.2.1.4](../bbugyi200.athena.sase-1sb.2.1.4/README.md) | sase-1sb.2.1 hood | completed |

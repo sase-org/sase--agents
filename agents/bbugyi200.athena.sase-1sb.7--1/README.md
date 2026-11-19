@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b9572a8`](https://github.com/sase-org/sase/commit/b9572a8d59b73123199c256c7da7be473bf41ccb) | fix(history): keep catalog cache on lock and make bead type migration restartable | 2026-11-11 21:18:13 EST |
+| — | `b9572a8` | fix(history): keep catalog cache on lock and make bead type migration restartable | 2026-11-11 21:18:13 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1sb.1](../bbugyi200.athena.sase-1sb.1/README.md) | sase-1sb hood | completed |
-| [sase-1sb.2](../../sessions/bbugyi200.athena.sase-1sb.2.md) (session · 3) | sase-1sb hood | active 1, completed 2 |
+| [sase-1sb.2](../../sessions/bbugyi200.athena.sase-1sb.2.md) (session · 3) | sase-1sb hood | completed 2, dismissed 1 |
 | [sase-1sb.2.1.1](../../sessions/bbugyi200.athena.sase-1sb.2.1.1.md) (session · 5) | sase-1sb hood | completed 4, failed 1 |
 | [sase-1sb.2.1.2](../bbugyi200.athena.sase-1sb.2.1.2/README.md) | sase-1sb hood | completed |
 | [sase-1sb.2.1.3](../../sessions/bbugyi200.athena.sase-1sb.2.1.3.md) (session · 5) | sase-1sb hood | completed 4, failed 1 |

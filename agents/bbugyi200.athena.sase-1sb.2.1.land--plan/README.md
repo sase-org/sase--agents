@@ -42,7 +42,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1sb.2](../../sessions/bbugyi200.athena.sase-1sb.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1sb.2](../../sessions/bbugyi200.athena.sase-1sb.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [sase-1sb.2.1.1](../../sessions/bbugyi200.athena.sase-1sb.2.1.1.md) (session · 5) | sase-1sb.2.1 hood | completed 4, failed 1 |
 | [sase-1sb.2.1.2](../bbugyi200.athena.sase-1sb.2.1.2/README.md) | sase-1sb.2.1 hood | completed |
 | [sase-1sb.2.1.3](../../sessions/bbugyi200.athena.sase-1sb.2.1.3.md) (session · 5) | sase-1sb.2.1 hood | completed 4, failed 1 |

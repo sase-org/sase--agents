@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`681de35`](https://github.com/sase-org/sase/commit/681de3542bdd024f8aa3ccfe247a9f1aa4b42ef2) | fix(config): enforce local command trust provenance | 2026-11-12 11:06:29 EST |
+| — | `681de35` | fix(config): enforce local command trust provenance | 2026-11-12 11:06:29 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1sb.2](../../sessions/bbugyi200.athena.sase-1sb.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1sb.2](../../sessions/bbugyi200.athena.sase-1sb.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [sase-1sb.2.1.1](../../sessions/bbugyi200.athena.sase-1sb.2.1.1.md) (session · 5) | sase-1sb.2.1 hood | completed 4, failed 1 |
 | [sase-1sb.2.1.2](../bbugyi200.athena.sase-1sb.2.1.2/README.md) | sase-1sb.2.1 hood | completed |
 | [sase-1sb.2.1.3](../../sessions/bbugyi200.athena.sase-1sb.2.1.3.md) (session · 5) | sase-1sb.2.1 hood | completed 4, failed 1 |

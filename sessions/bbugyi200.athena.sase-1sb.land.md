@@ -42,14 +42,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`4a4ee98`](https://github.com/sase-org/sase/commit/4a4ee98c651bbbb1e1c6e8417891de83dd827777) | fix(sase-1sb): atomic edit-lock publish and replace-all placeholder rendering with regression tests | 2026-11-12 20:31:39 EST |
+| 2 | — | `4a4ee98` | fix(sase-1sb): atomic edit-lock publish and replace-all placeholder rendering with regression tests | 2026-11-12 20:31:39 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1sb.1](../agents/bbugyi200.athena.sase-1sb.1/README.md) | sase-1sb hood | completed |
-| [sase-1sb.2](bbugyi200.athena.sase-1sb.2.md) (session · 3) | sase-1sb hood | active 1, completed 2 |
+| [sase-1sb.2](bbugyi200.athena.sase-1sb.2.md) (session · 3) | sase-1sb hood | completed 2, dismissed 1 |
 | [sase-1sb.2.1.1](bbugyi200.athena.sase-1sb.2.1.1.md) (session · 5) | sase-1sb hood | completed 4, failed 1 |
 | [sase-1sb.2.1.2](../agents/bbugyi200.athena.sase-1sb.2.1.2/README.md) | sase-1sb hood | completed |
 | [sase-1sb.2.1.3](bbugyi200.athena.sase-1sb.2.1.3.md) (session · 5) | sase-1sb hood | completed 4, failed 1 |
