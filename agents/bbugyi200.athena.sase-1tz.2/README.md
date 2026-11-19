@@ -30,7 +30,7 @@
 | [sase-1tz.1.1.4](../bbugyi200.athena.sase-1tz.1.1.4/README.md) | sase-1tz hood | active |
 | [sase-1tz.1.1.5](../bbugyi200.athena.sase-1tz.1.1.5/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.1.1.6](../bbugyi200.athena.sase-1tz.1.1.6/README.md) | sase-1tz hood | waiting |
-| [sase-1tz.1.1.7](../bbugyi200.athena.sase-1tz.1.1.7/README.md) | sase-1tz hood | active |
+| [sase-1tz.1.1.7](../bbugyi200.athena.sase-1tz.1.1.7/README.md) | sase-1tz hood | completed |
 | [sase-1tz.1.1.land](../bbugyi200.athena.sase-1tz.1.1.land/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.3](../bbugyi200.athena.sase-1tz.3/README.md) | sase-1tz hood | waiting |
 | [sase-1tz.4](../bbugyi200.athena.sase-1tz.4/README.md) | sase-1tz hood | waiting |
