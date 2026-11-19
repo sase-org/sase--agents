@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`393430d`](https://github.com/sase-org/sase/commit/393430da551e6a981ebb0e3cf0f821eb2bf8cc60) | feat(ace): rich text presenter for question gates with GATE-phase swap | 2026-10-24 22:14:40 EDT |
+| — | `393430d` | feat(ace): rich text presenter for question gates with GATE-phase swap | 2026-10-24 22:14:40 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-1o5.4](../../sessions/bbugyi200.athena.sase-1o5.4.md) (session · 3) | sase-1o5 hood | completed 2, failed 1 |
 | [sase-1o5.5](../bbugyi200.athena.sase-1o5.5/README.md) | sase-1o5 hood | completed |
 | [sase-1o5.6](../bbugyi200.athena.sase-1o5.6/README.md) | sase-1o5 hood | completed |
-| [sase-1o5.land](../bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | active |
+| [sase-1o5.land](../bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | dismissed |

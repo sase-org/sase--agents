@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`113d799`](https://github.com/sase-org/sase/commit/113d799b2c29f0ad49c46bf57ad55876bc5e9856) | docs(questions): document QUESTIONS section and skill sentence | 2026-10-25 00:03:18 EDT |
+| — | `113d799` | docs(questions): document QUESTIONS section and skill sentence | 2026-10-25 00:03:18 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-1o5.3](../bbugyi200.athena.sase-1o5.3/README.md) | sase-1o5 hood | completed |
 | [sase-1o5.4](../../sessions/bbugyi200.athena.sase-1o5.4.md) (session · 3) | sase-1o5 hood | completed 2, failed 1 |
 | [sase-1o5.5](../bbugyi200.athena.sase-1o5.5/README.md) | sase-1o5 hood | completed |
-| [sase-1o5.land](../bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | active |
+| [sase-1o5.land](../bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | dismissed |

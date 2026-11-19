@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2066212`](https://github.com/sase-org/sase/commit/2066212dfa5de8c57020bd604cd33f5f96196f33) | feat(ace): mount QUESTIONS section on Context card | 2026-10-24 23:44:30 EDT |
+| — | `2066212` | feat(ace): mount QUESTIONS section on Context card | 2026-10-24 23:44:30 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-1o5.3](../bbugyi200.athena.sase-1o5.3/README.md) | sase-1o5 hood | completed |
 | [sase-1o5.4](../../sessions/bbugyi200.athena.sase-1o5.4.md) (session · 3) | sase-1o5 hood | completed 2, failed 1 |
 | [sase-1o5.6](../bbugyi200.athena.sase-1o5.6/README.md) | sase-1o5 hood | completed |
-| [sase-1o5.land](../bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | active |
+| [sase-1o5.land](../bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | dismissed |

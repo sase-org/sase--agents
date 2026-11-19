@@ -27,4 +27,4 @@
 | [sase-1o5.4](../../sessions/bbugyi200.athena.sase-1o5.4.md) (session · 3) | sase-1o5 hood | completed 2, failed 1 |
 | [sase-1o5.5](../bbugyi200.athena.sase-1o5.5/README.md) | sase-1o5 hood | completed |
 | [sase-1o5.6](../bbugyi200.athena.sase-1o5.6/README.md) | sase-1o5 hood | completed |
-| [sase-1o5.land](../bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | active |
+| [sase-1o5.land](../bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | dismissed |

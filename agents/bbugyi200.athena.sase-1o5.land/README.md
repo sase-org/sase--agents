@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1o5](../../users/bbugyi200/machines/athena/hoods/sase-1o5/README.md) / sase-1o5.land
 
-**Global name:** `bbugyi200.athena.sase-1o5.land` · **State:** active · **Source run:** `run-5e9d160bb7f49bfe0acf7209fff8a8b4`
+**Global name:** `bbugyi200.athena.sase-1o5.land` · **State:** dismissed · **Source run:** `run-5e9d160bb7f49bfe0acf7209fff8a8b4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1o5
 
@@ -11,7 +11,7 @@
 - Bead: [sase-1o5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1o5/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-25T04:06:55.507482+00:00
+- Timing: 2026-10-25T00:06:55.507482 → 2026-10-25T01:00:32.934260
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`369ac34`](https://github.com/sase-org/sase/commit/369ac34168e6ee3787c40f42dc015422141b2286) | chore(questions): land sase-1o5 and retire its epic-symbol rows | 2026-10-25 00:55:29 EDT |
+| — | `369ac34` | chore(questions): land sase-1o5 and retire its epic-symbol rows | 2026-10-25 00:55:29 EDT |
 
 ## Neighbors
 

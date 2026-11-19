@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b76183e`](https://github.com/sase-org/sase/commit/b76183e9382941b325c46be867f71089b7bc8127) | fix(gates): render free-text answers and park option-less auto rounds as manual gates | 2026-10-24 20:14:43 EDT |
+| — | `b76183e` | fix(gates): render free-text answers and park option-less auto rounds as manual gates | 2026-10-24 20:14:43 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [sase-1o5.4](../../sessions/bbugyi200.athena.sase-1o5.4.md) (session · 3) | sase-1o5 hood | completed 2, failed 1 |
 | [sase-1o5.5](../bbugyi200.athena.sase-1o5.5/README.md) | sase-1o5 hood | completed |
 | [sase-1o5.6](../bbugyi200.athena.sase-1o5.6/README.md) | sase-1o5 hood | completed |
-| [sase-1o5.land](../bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | active |
+| [sase-1o5.land](../bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | dismissed |

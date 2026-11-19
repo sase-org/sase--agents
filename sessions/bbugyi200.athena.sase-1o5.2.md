@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`5497b59`](https://github.com/sase-org/sase/commit/5497b59c5ddac82c20cf92bd0f63394a1f5e2d82) | feat(questions): add question-round facade, projection loader, and core binding validation | 2026-10-24 21:06:42 EDT |
+| 2 | — | `5497b59` | feat(questions): add question-round facade, projection loader, and core binding validation | 2026-10-24 21:06:42 EDT |
 
 ## Neighbors
 
@@ -44,4 +44,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1o5.4](bbugyi200.athena.sase-1o5.4.md) (session · 3) | sase-1o5 hood | completed 2, failed 1 |
 | [sase-1o5.5](../agents/bbugyi200.athena.sase-1o5.5/README.md) | sase-1o5 hood | completed |
 | [sase-1o5.6](../agents/bbugyi200.athena.sase-1o5.6/README.md) | sase-1o5 hood | completed |
-| [sase-1o5.land](../agents/bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | active |
+| [sase-1o5.land](../agents/bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | dismissed |

@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`518717c`](https://github.com/sase-org/sase/commit/518717cdaca4b05ed19427ceab4371987c60d16f) | feat(questions): add question-round scoping and questions summary lane | 2026-10-24 22:42:58 EDT |
+| 1 | — | `518717c` | feat(questions): add question-round scoping and questions summary lane | 2026-10-24 22:42:58 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1o5.3](../agents/bbugyi200.athena.sase-1o5.3/README.md) | sase-1o5 hood | completed |
 | [sase-1o5.5](../agents/bbugyi200.athena.sase-1o5.5/README.md) | sase-1o5 hood | completed |
 | [sase-1o5.6](../agents/bbugyi200.athena.sase-1o5.6/README.md) | sase-1o5 hood | completed |
-| [sase-1o5.land](../agents/bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | active |
+| [sase-1o5.land](../agents/bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | dismissed |
