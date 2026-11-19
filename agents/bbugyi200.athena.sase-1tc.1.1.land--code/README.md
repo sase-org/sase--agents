@@ -46,5 +46,5 @@
 | [sase-1tc.3.1.6.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.6.land.md) (session · 3) | sase-1tc hood | completed 3 |
 | [sase-1tc.3.1.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.4](../../sessions/bbugyi200.athena.sase-1tc.4.md) (session · 6) | sase-1tc hood | completed 5, failed 1 |
-| [sase-1tc.5](../bbugyi200.athena.sase-1tc.5/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.5](../../sessions/bbugyi200.athena.sase-1tc.5.md) (session · 3) | sase-1tc hood | active 2, completed 1 |
 | [sase-1tc.land](../bbugyi200.athena.sase-1tc.land/README.md) | sase-1tc hood | waiting |
