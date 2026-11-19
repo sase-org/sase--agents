@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | — | `efc66a4` | feat(macro): evaluate authored commands before interpolating data | 2026-11-17 15:12:16 EST |
+| 1 | sase | [`efc66a4`](https://github.com/sase-org/sase/commit/efc66a420b8c738e52cefa4f04bc28eec0031132) | feat(macro): evaluate authored commands before interpolating data | 2026-11-17 15:12:16 EST |
 
 ## Neighbors
 
@@ -53,6 +53,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1tc.4](bbugyi200.athena.sase-1tc.4.md) (session · 6) | sase-1tc hood | completed 5, failed 1 |
 | [sase-1tc.5](bbugyi200.athena.sase-1tc.5.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.5.1.1](bbugyi200.athena.sase-1tc.5.1.1.md) (session · 3) | sase-1tc hood | completed 3 |
-| [sase-1tc.5.1.2](../agents/bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.5.1.2](../agents/bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | completed |
 | [sase-1tc.5.1.land](../agents/bbugyi200.athena.sase-1tc.5.1.land/README.md) | sase-1tc hood | waiting |
 | [sase-1tc.land](../agents/bbugyi200.athena.sase-1tc.land/README.md) | sase-1tc hood | waiting |

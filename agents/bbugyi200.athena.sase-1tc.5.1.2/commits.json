@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ce79a8608b57af8fc96eac91b0fc6c91"}
+{"commits":[{"committed_at":1795117600,"sha":"179495b93a9650f8f18ae1d8511af8e4bdb7e5a3","subject":"feat(triage): load owner candidates through the Rust bead projection"}],"schema_version":2,"source_run_id":"run-e2ca29e0be197fdddf1943a58a56b3a0"}

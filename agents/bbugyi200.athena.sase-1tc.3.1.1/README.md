@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `c6b6da1` | feat(axe): crash-safe chop batch store and facade | 2026-11-17 21:19:41 EST |
+| sase | [`c6b6da1`](https://github.com/sase-org/sase/commit/c6b6da1d2ca5dcbeebae8fab0beacb4f180ca345) | feat(axe): crash-safe chop batch store and facade | 2026-11-17 21:19:41 EST |
 
 ## Neighbors
 
@@ -49,6 +49,6 @@
 | [sase-1tc.4](../../sessions/bbugyi200.athena.sase-1tc.4.md) (session · 6) | sase-1tc hood | completed 5, failed 1 |
 | [sase-1tc.5](../../sessions/bbugyi200.athena.sase-1tc.5.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.5.1.1](../../sessions/bbugyi200.athena.sase-1tc.5.1.1.md) (session · 3) | sase-1tc hood | completed 3 |
-| [sase-1tc.5.1.2](../bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.5.1.2](../bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | completed |
 | [sase-1tc.5.1.land](../bbugyi200.athena.sase-1tc.5.1.land/README.md) | sase-1tc hood | waiting |
 | [sase-1tc.land](../bbugyi200.athena.sase-1tc.land/README.md) | sase-1tc hood | waiting |

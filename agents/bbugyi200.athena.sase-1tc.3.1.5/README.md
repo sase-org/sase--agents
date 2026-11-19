@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `0747964` | feat(axe): recover interrupted chop batches | 2026-11-18 06:57:37 EST |
+| sase | [`0747964`](https://github.com/sase-org/sase/commit/07479640e2f1949fbc787892920f0bf2955a203a) | feat(axe): recover interrupted chop batches | 2026-11-18 06:57:37 EST |
 
 ## Neighbors
 
@@ -49,6 +49,6 @@
 | [sase-1tc.4](../../sessions/bbugyi200.athena.sase-1tc.4.md) (session · 6) | sase-1tc hood | completed 5, failed 1 |
 | [sase-1tc.5](../../sessions/bbugyi200.athena.sase-1tc.5.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.5.1.1](../../sessions/bbugyi200.athena.sase-1tc.5.1.1.md) (session · 3) | sase-1tc hood | completed 3 |
-| [sase-1tc.5.1.2](../bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.5.1.2](../bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | completed |
 | [sase-1tc.5.1.land](../bbugyi200.athena.sase-1tc.5.1.land/README.md) | sase-1tc hood | waiting |
 | [sase-1tc.land](../bbugyi200.athena.sase-1tc.land/README.md) | sase-1tc hood | waiting |

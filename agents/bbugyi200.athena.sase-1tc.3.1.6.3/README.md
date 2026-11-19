@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `3c6e3a0` | fix(axe): make batch recovery visible and durable | 2026-11-18 13:52:42 EST |
+| sase | [`3c6e3a0`](https://github.com/sase-org/sase/commit/3c6e3a06c039d1032cf6043f28a7b83ff6e63ba0) | fix(axe): make batch recovery visible and durable | 2026-11-18 13:52:42 EST |
 
 ## Neighbors
 
@@ -49,6 +49,6 @@
 | [sase-1tc.4](../../sessions/bbugyi200.athena.sase-1tc.4.md) (session · 6) | sase-1tc hood | completed 5, failed 1 |
 | [sase-1tc.5](../../sessions/bbugyi200.athena.sase-1tc.5.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.5.1.1](../../sessions/bbugyi200.athena.sase-1tc.5.1.1.md) (session · 3) | sase-1tc hood | completed 3 |
-| [sase-1tc.5.1.2](../bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.5.1.2](../bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | completed |
 | [sase-1tc.5.1.land](../bbugyi200.athena.sase-1tc.5.1.land/README.md) | sase-1tc hood | waiting |
 | [sase-1tc.land](../bbugyi200.athena.sase-1tc.land/README.md) | sase-1tc hood | waiting |

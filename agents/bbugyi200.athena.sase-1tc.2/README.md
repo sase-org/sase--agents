@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `07aedfc` | fix(llm\_provider): skip agent retry on host finalizer failures | 2026-11-17 19:03:29 EST |
+| sase | [`07aedfc`](https://github.com/sase-org/sase/commit/07aedfc8ca479b7142c05610eebfab193e352137) | fix(llm\_provider): skip agent retry on host finalizer failures | 2026-11-17 19:03:29 EST |
 
 ## Neighbors
 
@@ -49,6 +49,6 @@
 | [sase-1tc.4](../../sessions/bbugyi200.athena.sase-1tc.4.md) (session · 6) | sase-1tc hood | completed 5, failed 1 |
 | [sase-1tc.5](../../sessions/bbugyi200.athena.sase-1tc.5.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.5.1.1](../../sessions/bbugyi200.athena.sase-1tc.5.1.1.md) (session · 3) | sase-1tc hood | completed 3 |
-| [sase-1tc.5.1.2](../bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.5.1.2](../bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | completed |
 | [sase-1tc.5.1.land](../bbugyi200.athena.sase-1tc.5.1.land/README.md) | sase-1tc hood | waiting |
 | [sase-1tc.land](../bbugyi200.athena.sase-1tc.land/README.md) | sase-1tc hood | waiting |

@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | — | `d3fcb19` | fix(axe): finish chop recovery safety and nested landing closeout | 2026-11-18 17:15:37 EST |
+| code | sase | [`d3fcb19`](https://github.com/sase-org/sase/commit/d3fcb19562816378011aa3ca0c3ff7b5f1f693ee) | fix(axe): finish chop recovery safety and nested landing closeout | 2026-11-18 17:15:37 EST |
 
 ## Variables
 
@@ -98,6 +98,6 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1tc.4](bbugyi200.athena.sase-1tc.4.md) (session · 6) | sase-1tc hood | completed 5, failed 1 |
 | [sase-1tc.5](bbugyi200.athena.sase-1tc.5.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.5.1.1](bbugyi200.athena.sase-1tc.5.1.1.md) (session · 3) | sase-1tc hood | completed 3 |
-| [sase-1tc.5.1.2](../agents/bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.5.1.2](../agents/bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | completed |
 | [sase-1tc.5.1.land](../agents/bbugyi200.athena.sase-1tc.5.1.land/README.md) | sase-1tc hood | waiting |
 | [sase-1tc.land](../agents/bbugyi200.athena.sase-1tc.land/README.md) | sase-1tc hood | waiting |

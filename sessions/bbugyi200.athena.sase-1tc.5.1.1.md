@@ -27,14 +27,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | — | `d9cb9cf` | test(triage): add settle owner-enrichment binding regression | 2026-11-19 11:29:42 EST |
+| 1 | sase | [`d9cb9cf`](https://github.com/sase-org/sase/commit/d9cb9cf4a3d8c620464e27f32a882d42580b9b14) | test(triage): add settle owner-enrichment binding regression | 2026-11-19 11:29:42 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1tc.5](bbugyi200.athena.sase-1tc.5.md) (session · 3) | ancestor | active 1, completed 2 |
-| [sase-1tc.5.1.2](../agents/bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc.5.1 hood | waiting |
+| [sase-1tc.5.1.2](../agents/bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc.5.1 hood | completed |
 | [sase-1tc.5.1.land](../agents/bbugyi200.athena.sase-1tc.5.1.land/README.md) | sase-1tc.5.1 hood | waiting |
 | [sase-1tc.1](bbugyi200.athena.sase-1tc.1.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.1.1.1](../agents/bbugyi200.athena.sase-1tc.1.1.1/README.md) | sase-1tc hood | completed |

@@ -2,22 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tc](../../users/bbugyi200/machines/athena/hoods/sase-1tc/README.md) / sase-1tc.5.1.2
 
-**Global name:** `bbugyi200.athena.sase-1tc.5.1.2` · **State:** waiting · **Source run:** `run-ce79a8608b57af8fc96eac91b0fc6c91`
+**Global name:** `bbugyi200.athena.sase-1tc.5.1.2` · **State:** completed · **Source run:** `run-e2ca29e0be197fdddf1943a58a56b3a0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tc
 
 ## Summary
 
 - Bead: [sase-1tc.5.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tc/sase-1tc.5.1.2.md)
-- Epic: [sase-1tc.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tc/sase-1tc.5.1.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20261119091657
-- Commits: 0
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-19T18:04:21.877519+00:00 → 2026-11-19T19:48:28.759205+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`179495b`](https://github.com/sase-org/sase/commit/179495b93a9650f8f18ae1d8511af8e4bdb7e5a3) | feat(triage): load owner candidates through the Rust bead projection | 2026-11-19 14:46:40 EST |
 
 ## Neighbors
 

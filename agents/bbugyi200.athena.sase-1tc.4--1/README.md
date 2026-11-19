@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `c4cb77b` | test(beads): single-owner WAL-mirror adoption and exact SQLite owner guard | 2026-11-19 09:05:22 EST |
+| sase | [`c4cb77b`](https://github.com/sase-org/sase/commit/c4cb77b3b88a86554a9f980f6f0e3e5f38449ccf) | test(beads): single-owner WAL-mirror adoption and exact SQLite owner guard | 2026-11-19 09:05:22 EST |
 
 ## Neighbors
 
@@ -48,6 +48,6 @@
 | [sase-1tc.3.1.land](../../sessions/bbugyi200.athena.sase-1tc.3.1.land.md) (session · 3) | sase-1tc hood | completed 2, dismissed 1 |
 | [sase-1tc.5](../../sessions/bbugyi200.athena.sase-1tc.5.md) (session · 3) | sase-1tc hood | active 1, completed 2 |
 | [sase-1tc.5.1.1](../../sessions/bbugyi200.athena.sase-1tc.5.1.1.md) (session · 3) | sase-1tc hood | completed 3 |
-| [sase-1tc.5.1.2](../bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | waiting |
+| [sase-1tc.5.1.2](../bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | completed |
 | [sase-1tc.5.1.land](../bbugyi200.athena.sase-1tc.5.1.land/README.md) | sase-1tc hood | waiting |
 | [sase-1tc.land](../bbugyi200.athena.sase-1tc.land/README.md) | sase-1tc hood | waiting |
