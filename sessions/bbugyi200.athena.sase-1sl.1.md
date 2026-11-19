@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1sl` · Members: 3 · Bead: [sase-1sl.1
 
 ```mermaid
 flowchart TD
-  n0["sase-1sl.1--plan [active]"]
+  n0["sase-1sl.1--plan [dismissed]"]
   n1["sase-1sl.1--mon [completed]"]
   n0 --> n1
   n2["sase-1sl.1--gate [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1sl.1--plan | active | gpt-6-astra / codex | 2026-11-12T21:51:31.053202+00:00 → 2026-11-12T22:02:09.321845+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1sl.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1sl.1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1sl.1--plan | dismissed | gpt-6-astra / codex | 2026-11-12T16:51:31.053202 → 2026-11-12T17:02:09.652133 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1sl.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1sl.1--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1sl.1--mon | completed | gpt-6-astra / codex | 2026-11-12T22:01:58.235241+00:00 → 2026-11-12T22:05:54.313888+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1sl.1--mon/chat.md) |
 | <a id="member-gate"></a>gate | sase-1sl.1--gate | completed | gpt-6-astra / codex | 2026-11-12T22:00:08.070701+00:00 → 2026-11-12T22:02:01.351903+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1sl.1--gate/chat.md) |
 
@@ -34,4 +34,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1sl.2](../agents/bbugyi200.athena.sase-1sl.2/README.md) | sase-1sl hood | completed |
 | [sase-1sl.3](bbugyi200.athena.sase-1sl.3.md) (session · 3) | sase-1sl hood | completed 3 |
 | [sase-1sl.4](../agents/bbugyi200.athena.sase-1sl.4/README.md) | sase-1sl hood | waiting |
-| [sase-1sl.land](../agents/bbugyi200.athena.sase-1sl.land/README.md) | sase-1sl hood | waiting |
+| [sase-1sl.land](../agents/bbugyi200.athena.sase-1sl.land/README.md) | sase-1sl hood | dismissed |

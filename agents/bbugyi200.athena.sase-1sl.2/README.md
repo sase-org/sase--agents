@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9285c4f`](https://github.com/sase-org/sase/commit/9285c4f55eec790693c7bcae9dc88e87a847a21f) | chore(rust): ratchet capacity scan core revision | 2026-11-13 01:23:18 EST |
+| — | `9285c4f` | chore(rust): ratchet capacity scan core revision | 2026-11-13 01:23:18 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1sl.1](../../sessions/bbugyi200.athena.sase-1sl.1.md) (session · 3) | sase-1sl hood | active 1, completed 2 |
+| [sase-1sl.1](../../sessions/bbugyi200.athena.sase-1sl.1.md) (session · 3) | sase-1sl hood | completed 2, dismissed 1 |
 | [sase-1sl.1.1.1](../../sessions/bbugyi200.athena.sase-1sl.1.1.1.md) (session · 7) | sase-1sl hood | completed 5, failed 2 |
 | [sase-1sl.1.1.2](../bbugyi200.athena.sase-1sl.1.1.2/README.md) | sase-1sl hood | completed |
 | [sase-1sl.1.1.3](../../sessions/bbugyi200.athena.sase-1sl.1.1.3.md) (session · 9) | sase-1sl hood | completed 7, failed 2 |
 | [sase-1sl.1.1.land](../../sessions/bbugyi200.athena.sase-1sl.1.1.land.md) (session · 3) | sase-1sl hood | completed 3 |
 | [sase-1sl.3](../../sessions/bbugyi200.athena.sase-1sl.3.md) (session · 3) | sase-1sl hood | completed 3 |
 | [sase-1sl.4](../bbugyi200.athena.sase-1sl.4/README.md) | sase-1sl hood | waiting |
-| [sase-1sl.land](../bbugyi200.athena.sase-1sl.land/README.md) | sase-1sl hood | waiting |
+| [sase-1sl.land](../bbugyi200.athena.sase-1sl.land/README.md) | sase-1sl hood | dismissed |
