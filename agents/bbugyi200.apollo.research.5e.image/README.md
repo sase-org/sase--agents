@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5e.image
 
-**Global name:** `bbugyi200.apollo.research.5e.image` · **State:** waiting · **Source run:** `run-acf645c1527d5e863ad3737d70f27a51`
+**Global name:** `bbugyi200.apollo.research.5e.image` · **State:** completed · **Source run:** `run-acf645c1527d5e863ad3737d70f27a51`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261119045819
+- Timing: 2026-11-19T10:46:41.075658+00:00 → 2026-11-19T11:00:16.902205+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/apollo\_athena\_sase\_notification\_and\_log\_audit/apollo\_athena\_sase\_notification\_and\_log\_audit\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_s… |
+| `diagrams` | {considered: 18, count: 3, manifest: 202611/apollo\_athena\_sase\_notification\_and\_log\_audit/apollo\_athena\_sase\_notification\_and\_log\_audit.diagrams.md, source\_ref: file:explicit:f5b192e3e75d1fdc5deac1e0… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/apollo_athena_sase_notification_and_log_audit/apollo_athena_sase_notification_and_log_audit_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261119045819/apollo_athena_sase_notification_and_log_audit_infographic-444344e696ec.png
+  ref: file:explicit:a94a10326ed9a05327f66784
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202611/apollo_athena_sase_notification_and_log_audit/apollo_athena_sase_notification_and_log_audit_infographic.png
+- kind: markdown
+  label: diagrams:202611/apollo_athena_sase_notification_and_log_audit/apollo_athena_sase_notification_and_log_audit.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261119045819/apollo_athena_sase_notification_and_log_audit.diagrams-fe19bcc482a4.md
+  ref: file:explicit:dfbc516f7c39e070ed79ad88
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202611/apollo_athena_sase_notification_and_log_audit/apollo_athena_sase_notification_and_log_audit.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 18
+count: 3
+manifest: 202611/apollo_athena_sase_notification_and_log_audit/apollo_athena_sase_notification_and_log_audit.diagrams.md
+source_ref: file:explicit:f5b192e3e75d1fdc5deac1e0
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
