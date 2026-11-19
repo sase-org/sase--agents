@@ -22,27 +22,27 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`02e93fd`](https://github.com/sase-org/sase/commit/02e93fd261505a8ff00342f48a1f4f8501786470) | test(ace): prebuild command-line grammar for panel pilot tests | 2026-11-04 19:18:03 EST |
+| — | `02e93fd` | test(ace): prebuild command-line grammar for panel pilot tests | 2026-11-04 19:18:03 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1ra.1](../../sessions/bbugyi200.athena.sase-1ra.1.md) (session · 2) | sase-1ra hood | active 1, failed 1 |
-| [sase-1ra.10](../bbugyi200.athena.sase-1ra.10/README.md) | sase-1ra hood | waiting |
-| [sase-1ra.11](../../sessions/bbugyi200.athena.sase-1ra.11.md) (session · 3) | sase-1ra hood | active 1, completed 2 |
-| [sase-1ra.11.1.1](../../sessions/bbugyi200.athena.sase-1ra.11.1.1.md) (session · 2) | sase-1ra hood | active 1, completed 1 |
-| [sase-1ra.11.1.2](../bbugyi200.athena.sase-1ra.11.1.2/README.md) | sase-1ra hood | waiting |
-| [sase-1ra.11.1.3](../bbugyi200.athena.sase-1ra.11.1.3/README.md) | sase-1ra hood | waiting |
-| [sase-1ra.11.1.4](../bbugyi200.athena.sase-1ra.11.1.4/README.md) | sase-1ra hood | waiting |
-| [sase-1ra.11.1.5](../bbugyi200.athena.sase-1ra.11.1.5/README.md) | sase-1ra hood | waiting |
-| [sase-1ra.11.1.land](../bbugyi200.athena.sase-1ra.11.1.land/README.md) | sase-1ra hood | waiting |
-| [sase-1ra.12](../bbugyi200.athena.sase-1ra.12/README.md) | sase-1ra hood | waiting |
+| [sase-1ra.1](../../sessions/bbugyi200.athena.sase-1ra.1.md) (session · 2) | sase-1ra hood | dismissed 1, failed 1 |
+| [sase-1ra.10](../bbugyi200.athena.sase-1ra.10/README.md) | sase-1ra hood | dismissed |
+| [sase-1ra.11](../../sessions/bbugyi200.athena.sase-1ra.11.md) (session · 3) | sase-1ra hood | completed 2, dismissed 1 |
+| [sase-1ra.11.1.1](../../sessions/bbugyi200.athena.sase-1ra.11.1.1.md) (session · 2) | sase-1ra hood | completed 1, dismissed 1 |
+| [sase-1ra.11.1.2](../bbugyi200.athena.sase-1ra.11.1.2/README.md) | sase-1ra hood | dismissed |
+| [sase-1ra.11.1.3](../bbugyi200.athena.sase-1ra.11.1.3/README.md) | sase-1ra hood | dismissed |
+| [sase-1ra.11.1.4](../bbugyi200.athena.sase-1ra.11.1.4/README.md) | sase-1ra hood | dismissed |
+| [sase-1ra.11.1.5](../bbugyi200.athena.sase-1ra.11.1.5/README.md) | sase-1ra hood | dismissed |
+| [sase-1ra.11.1.land](../bbugyi200.athena.sase-1ra.11.1.land/README.md) | sase-1ra hood | dismissed |
+| [sase-1ra.12](../bbugyi200.athena.sase-1ra.12/README.md) | sase-1ra hood | dismissed |
 | [sase-1ra.2](../bbugyi200.athena.sase-1ra.2/README.md) | sase-1ra hood | completed |
 | [sase-1ra.3](../bbugyi200.athena.sase-1ra.3/README.md) | sase-1ra hood | completed |
 | [sase-1ra.4](../../sessions/bbugyi200.athena.sase-1ra.4.md) (session · 3) | sase-1ra hood | completed 3 |
 | [sase-1ra.5](../bbugyi200.athena.sase-1ra.5/README.md) | sase-1ra hood | completed |
-| [sase-1ra.7](../../sessions/bbugyi200.athena.sase-1ra.7.md) (session · 2) | sase-1ra hood | active 1, failed 1 |
-| [sase-1ra.8](../bbugyi200.athena.sase-1ra.8/README.md) | sase-1ra hood | waiting |
-| [sase-1ra.9](../bbugyi200.athena.sase-1ra.9/README.md) | sase-1ra hood | waiting |
-| [sase-1ra.land](../bbugyi200.athena.sase-1ra.land/README.md) | sase-1ra hood | waiting |
+| [sase-1ra.7](../../sessions/bbugyi200.athena.sase-1ra.7.md) (session · 2) | sase-1ra hood | dismissed 1, failed 1 |
+| [sase-1ra.8](../bbugyi200.athena.sase-1ra.8/README.md) | sase-1ra hood | dismissed |
+| [sase-1ra.9](../bbugyi200.athena.sase-1ra.9/README.md) | sase-1ra hood | dismissed |
+| [sase-1ra.land](../bbugyi200.athena.sase-1ra.land/README.md) | sase-1ra hood | dismissed |
