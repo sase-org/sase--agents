@@ -1169,7 +1169,7 @@
 | [ce](hoods/ce/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [cf](hoods/cf/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [cg](hoods/cg/README.md) | 2 | 1 | completed 1, dismissed 1 |
-| [chop](hoods/chop/README.md) | 235 | 6 | active 6, completed 18, dismissed 203, failed 6, waiting 2 |
+| [chop](hoods/chop/README.md) | 235 | 6 | active 5, completed 19, dismissed 203, failed 6, waiting 2 |
 | [ci\_fix](hoods/ci_fix/README.md) | 35 | 0 | dismissed 35 |
 | [cj](hoods/cj/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [cl](hoods/cl/README.md) | 2 | 1 | completed 1, dismissed 1 |
@@ -1583,7 +1583,7 @@
 | [sase-1oi](hoods/sase-1oi/README.md) | 6 | 1 | completed 4, dismissed 1, failed 1 |
 | [sase-1ok](hoods/sase-1ok/README.md) | 7 | 1 | completed 6, failed 1 |
 | [sase-1om](hoods/sase-1om/README.md) | 32 | 7 | completed 22, failed 9, waiting 1 |
-| [sase-1ou](hoods/sase-1ou/README.md) | 52 | 10 | active 11, completed 21, failed 20 |
+| [sase-1ou](hoods/sase-1ou/README.md) | 52 | 10 | completed 21, dismissed 11, failed 20 |
 | [sase-1ox](hoods/sase-1ox/README.md) | 16 | 3 | completed 10, failed 6 |
 | [sase-1p1](hoods/sase-1p1/README.md) | 56 | 5 | completed 35, failed 21 |
 | [sase-1ph](hoods/sase-1ph/README.md) | 6 | 0 | active 1, completed 5 |
