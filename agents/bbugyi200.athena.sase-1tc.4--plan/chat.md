@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1tc.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1tc_4__plan-261117_112114.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1tc_4__code-261117_112114.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/retire_bead_sqlite_mirror.md
 
 
