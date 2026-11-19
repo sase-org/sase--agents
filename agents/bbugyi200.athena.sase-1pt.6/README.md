@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4356cff`](https://github.com/sase-org/sase/commit/4356cffaa1678646cab8a2d9c40375a90186a5fa) | feat(agents-sync): add background publication job | 2026-10-30 01:19:13 EDT |
+| — | `4356cff` | feat(agents-sync): add background publication job | 2026-10-30 01:19:13 EDT |
 
 ## Neighbors
 
@@ -39,7 +39,7 @@
 | [sase-1pt.9.1](../bbugyi200.athena.sase-1pt.9.1/README.md) | sase-1pt hood | completed |
 | [sase-1pt.9.2](../../sessions/bbugyi200.athena.sase-1pt.9.2.md) (session · 2) | sase-1pt hood | completed 1, stopped 1 |
 | [sase-1pt.9.2](../bbugyi200.athena.sase-1pt.9.2/README.md) | sase-1pt hood | waiting |
-| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt hood | active |
+| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt hood | dismissed |
 | [sase-1pt.9.land](../../sessions/bbugyi200.athena.sase-1pt.9.land.md) (session · 3) | sase-1pt hood | completed 3 |
 | [sase-1pt.9.land](../bbugyi200.athena.sase-1pt.9.land/README.md) | sase-1pt hood | waiting |
 | [sase-1pt.land](../../sessions/bbugyi200.athena.sase-1pt.land.md) (session · 3) | sase-1pt hood | failed 3 |

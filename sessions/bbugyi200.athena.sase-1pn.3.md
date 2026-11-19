@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pn.1](../agents/bbugyi200.athena.sase-1pn.1/README.md) | sase-1pn hood | completed |
 | [sase-1pn.2](../agents/bbugyi200.athena.sase-1pn.2/README.md) | sase-1pn hood | completed |
 | [sase-1pn.4](../agents/bbugyi200.athena.sase-1pn.4/README.md) | sase-1pn hood | completed |
-| [sase-1pn.land](bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | active 1, completed 1, failed 1 |
+| [sase-1pn.land](bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | completed 1, dismissed 1, failed 1 |

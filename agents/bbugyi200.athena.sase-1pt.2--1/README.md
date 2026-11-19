@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4f1a5e0`](https://github.com/sase-org/sase/commit/4f1a5e0760aae7904372148fb4fbf3f041a1a30f) | feat(finalizers): report commit publication timings | 2026-10-29 20:22:44 EDT |
+| — | `4f1a5e0` | feat(finalizers): report commit publication timings | 2026-10-29 20:22:44 EDT |
 
 ## Neighbors
 
@@ -38,7 +38,7 @@
 | [sase-1pt.9.1](../bbugyi200.athena.sase-1pt.9.1/README.md) | sase-1pt hood | completed |
 | [sase-1pt.9.2](../../sessions/bbugyi200.athena.sase-1pt.9.2.md) (session · 2) | sase-1pt hood | completed 1, stopped 1 |
 | [sase-1pt.9.2](../bbugyi200.athena.sase-1pt.9.2/README.md) | sase-1pt hood | waiting |
-| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt hood | active |
+| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt hood | dismissed |
 | [sase-1pt.9.land](../../sessions/bbugyi200.athena.sase-1pt.9.land.md) (session · 3) | sase-1pt hood | completed 3 |
 | [sase-1pt.9.land](../bbugyi200.athena.sase-1pt.9.land/README.md) | sase-1pt hood | waiting |
 | [sase-1pt.land](../../sessions/bbugyi200.athena.sase-1pt.land.md) (session · 3) | sase-1pt hood | failed 3 |

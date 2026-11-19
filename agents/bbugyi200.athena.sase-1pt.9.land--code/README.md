@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ce7d60a`](https://github.com/sase-org/sase/commit/ce7d60a6666401567a0071945070c6f8c844031e) | chore(justfile): drop stale sase-1pt.6 publisher\_is\_live comment | 2026-11-02 17:04:13 EST |
+| — | `ce7d60a` | chore(justfile): drop stale sase-1pt.6 publisher\_is\_live comment | 2026-11-02 17:04:13 EST |
 
 ## Variables
 
@@ -51,7 +51,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1pt.9.1](../bbugyi200.athena.sase-1pt.9.1/README.md) | sase-1pt.9 hood | completed |
 | [sase-1pt.9.2](../../sessions/bbugyi200.athena.sase-1pt.9.2.md) (session · 2) | sase-1pt.9 hood | completed 1, stopped 1 |
 | [sase-1pt.9.2](../bbugyi200.athena.sase-1pt.9.2/README.md) | sase-1pt.9 hood | waiting |
-| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt.9 hood | active |
+| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt.9 hood | dismissed |
 | [sase-1pt.1](../bbugyi200.athena.sase-1pt.1/README.md) | sase-1pt hood | completed |
 | [sase-1pt.2](../../sessions/bbugyi200.athena.sase-1pt.2.md) (session · 3) | sase-1pt hood | completed 2, failed 1 |
 | [sase-1pt.3](../bbugyi200.athena.sase-1pt.3/README.md) | sase-1pt hood | completed |

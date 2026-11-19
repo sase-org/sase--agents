@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e69360f`](https://github.com/sase-org/sase/commit/e69360f49d60b2657f7c509fec937d2b10866a09) | feat(commit): enqueue agent publication in background | 2026-10-30 02:15:51 EDT |
+| — | `e69360f` | feat(commit): enqueue agent publication in background | 2026-10-30 02:15:51 EDT |
 
 ## Neighbors
 
@@ -39,7 +39,7 @@
 | [sase-1pt.9.1](../bbugyi200.athena.sase-1pt.9.1/README.md) | sase-1pt hood | completed |
 | [sase-1pt.9.2](../../sessions/bbugyi200.athena.sase-1pt.9.2.md) (session · 2) | sase-1pt hood | completed 1, stopped 1 |
 | [sase-1pt.9.2](../bbugyi200.athena.sase-1pt.9.2/README.md) | sase-1pt hood | waiting |
-| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt hood | active |
+| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt hood | dismissed |
 | [sase-1pt.9.land](../../sessions/bbugyi200.athena.sase-1pt.9.land.md) (session · 3) | sase-1pt hood | completed 3 |
 | [sase-1pt.9.land](../bbugyi200.athena.sase-1pt.9.land/README.md) | sase-1pt hood | waiting |
 | [sase-1pt.land](../../sessions/bbugyi200.athena.sase-1pt.land.md) (session · 3) | sase-1pt hood | failed 3 |

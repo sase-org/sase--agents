@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6d61568`](https://github.com/sase-org/sase/commit/6d615680b8eae2a87d2881002ad28b8ff590db72) | fix(agents-sync): stop stale publication retries | 2026-10-30 06:13:01 EDT |
+| — | `6d61568` | fix(agents-sync): stop stale publication retries | 2026-10-30 06:13:01 EDT |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-1pt.9.2](../../sessions/bbugyi200.athena.sase-1pt.9.2.md) (session · 2) | sase-1pt.9 hood | completed 1, stopped 1 |
 | [sase-1pt.9.2](../bbugyi200.athena.sase-1pt.9.2/README.md) | sase-1pt.9 hood | waiting |
-| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt.9 hood | active |
+| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt.9 hood | dismissed |
 | [sase-1pt.9.land](../../sessions/bbugyi200.athena.sase-1pt.9.land.md) (session · 3) | sase-1pt.9 hood | completed 3 |
 | [sase-1pt.9.land](../bbugyi200.athena.sase-1pt.9.land/README.md) | sase-1pt.9 hood | waiting |
 | [sase-1pt.1](../bbugyi200.athena.sase-1pt.1/README.md) | sase-1pt hood | completed |
