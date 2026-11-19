@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b0f947b`](https://github.com/sase-org/sase/commit/b0f947b91df1ea054d6f52818af92895e5e4880e) | fix(tests): drain config-token refresh before leak snapshots | 2026-11-11 00:29:29 EST |
+| — | `b0f947b` | fix(tests): drain config-token refresh before leak snapshots | 2026-11-11 00:29:29 EST |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [sase-1s7.7.2](../../sessions/bbugyi200.athena.sase-1s7.7.2.md) (session · 3) | sase-1s7 hood | completed 3 |
 | [sase-1s7.7.3](../../sessions/bbugyi200.athena.sase-1s7.7.3.md) (session · 9) | sase-1s7 hood | completed 8, failed 1 |
 | [sase-1s7.7.land](../../sessions/bbugyi200.athena.sase-1s7.7.land.md) (session · 4) | sase-1s7 hood | active 1, completed 3 |
-| [sase-1s7.land](../../sessions/bbugyi200.athena.sase-1s7.land.md) (session · 3) | sase-1s7 hood | active 1, completed 2 |
+| [sase-1s7.land](../../sessions/bbugyi200.athena.sase-1s7.land.md) (session · 3) | sase-1s7 hood | completed 2, dismissed 1 |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8105ca2`](https://github.com/sase-org/sase/commit/8105ca28185279299951b9e743649800edf68cba) | feat(release-watch): retry transient GitHub reads | 2026-11-10 15:04:33 EST |
+| — | `8105ca2` | feat(release-watch): retry transient GitHub reads | 2026-11-10 15:04:33 EST |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-1s7.7.2](../../sessions/bbugyi200.athena.sase-1s7.7.2.md) (session · 3) | sase-1s7 hood | completed 3 |
 | [sase-1s7.7.3](../../sessions/bbugyi200.athena.sase-1s7.7.3.md) (session · 9) | sase-1s7 hood | completed 8, failed 1 |
 | [sase-1s7.7.land](../../sessions/bbugyi200.athena.sase-1s7.7.land.md) (session · 4) | sase-1s7 hood | active 1, completed 3 |
-| [sase-1s7.land](../../sessions/bbugyi200.athena.sase-1s7.land.md) (session · 3) | sase-1s7 hood | active 1, completed 2 |
+| [sase-1s7.land](../../sessions/bbugyi200.athena.sase-1s7.land.md) (session · 3) | sase-1s7 hood | completed 2, dismissed 1 |

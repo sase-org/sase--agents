@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1s5](../../users/bbugyi200/machines/athena/hoods/sase-1s5/README.md) / sase-1s5.land
 
-**Global name:** `bbugyi200.athena.sase-1s5.land` · **State:** waiting · **Source run:** `run-0d4d32427ea5fecb3920cb17d41707f6`
+**Global name:** `bbugyi200.athena.sase-1s5.land` · **State:** dismissed · **Source run:** `run-0d4d32427ea5fecb3920cb17d41707f6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1s5
 
@@ -11,7 +11,7 @@
 - Bead: [sase-1s5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1s5/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261108070207
+- Timing: 2026-11-08T07:02:07
 - Commits: 0
 
 ## Files
@@ -24,4 +24,4 @@
 |---|---|---|
 | [sase-1s5.1](../bbugyi200.athena.sase-1s5.1/README.md) | sase-1s5 hood | completed |
 | [sase-1s5.2](../../sessions/bbugyi200.athena.sase-1s5.2.md) (session · 2) | sase-1s5 hood | active 1, completed 1 |
-| [sase-1s5.3](../bbugyi200.athena.sase-1s5.3/README.md) | sase-1s5 hood | active |
+| [sase-1s5.3](../bbugyi200.athena.sase-1s5.3/README.md) | sase-1s5 hood | dismissed |

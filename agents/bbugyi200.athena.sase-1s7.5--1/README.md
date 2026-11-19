@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`39cdbd5`](https://github.com/sase-org/sase/commit/39cdbd548aa4f46e23083058d52c8f66cb59e53d) | fix(release-watch): match exact PR core-smoke check name | 2026-11-10 19:58:00 EST |
+| — | `39cdbd5` | fix(release-watch): match exact PR core-smoke check name | 2026-11-10 19:58:00 EST |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [sase-1s7.7.2](../../sessions/bbugyi200.athena.sase-1s7.7.2.md) (session · 3) | sase-1s7 hood | completed 3 |
 | [sase-1s7.7.3](../../sessions/bbugyi200.athena.sase-1s7.7.3.md) (session · 9) | sase-1s7 hood | completed 8, failed 1 |
 | [sase-1s7.7.land](../../sessions/bbugyi200.athena.sase-1s7.7.land.md) (session · 4) | sase-1s7 hood | active 1, completed 3 |
-| [sase-1s7.land](../../sessions/bbugyi200.athena.sase-1s7.land.md) (session · 3) | sase-1s7 hood | active 1, completed 2 |
+| [sase-1s7.land](../../sessions/bbugyi200.athena.sase-1s7.land.md) (session · 3) | sase-1s7 hood | completed 2, dismissed 1 |

@@ -45,9 +45,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`39cdbd5`](https://github.com/sase-org/sase/commit/39cdbd548aa4f46e23083058d52c8f66cb59e53d) | fix(release-watch): match exact PR core-smoke check name | 2026-11-10 19:58:00 EST |
-| 2 | sase | [`1a5bb80`](https://github.com/sase-org/sase/commit/1a5bb8097b4c4252c788e6af0038c73f1d00c6f2) | fix(ci): publish Telemetry leak-detector nodeids | 2026-11-10 21:56:34 EST |
-| 3 | sase | [`b0f947b`](https://github.com/sase-org/sase/commit/b0f947b91df1ea054d6f52818af92895e5e4880e) | fix(tests): drain config-token refresh before leak snapshots | 2026-11-11 00:29:29 EST |
+| 1 | — | `39cdbd5` | fix(release-watch): match exact PR core-smoke check name | 2026-11-10 19:58:00 EST |
+| 2 | — | `1a5bb80` | fix(ci): publish Telemetry leak-detector nodeids | 2026-11-10 21:56:34 EST |
+| 3 | — | `b0f947b` | fix(tests): drain config-token refresh before leak snapshots | 2026-11-11 00:29:29 EST |
 
 ## Neighbors
 
@@ -62,4 +62,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1s7.7.2](bbugyi200.athena.sase-1s7.7.2.md) (session · 3) | sase-1s7 hood | completed 3 |
 | [sase-1s7.7.3](bbugyi200.athena.sase-1s7.7.3.md) (session · 9) | sase-1s7 hood | completed 8, failed 1 |
 | [sase-1s7.7.land](bbugyi200.athena.sase-1s7.7.land.md) (session · 4) | sase-1s7 hood | active 1, completed 3 |
-| [sase-1s7.land](bbugyi200.athena.sase-1s7.land.md) (session · 3) | sase-1s7 hood | active 1, completed 2 |
+| [sase-1s7.land](bbugyi200.athena.sase-1s7.land.md) (session · 3) | sase-1s7 hood | completed 2, dismissed 1 |

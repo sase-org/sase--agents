@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1rs](../../users/bbugyi200/machines/athena/hoods/sase-1rs/README.md) / sase-1rs.11
 
-**Global name:** `bbugyi200.athena.sase-1rs.11` · **State:** waiting · **Source run:** `run-933a8250e59a7e548b5f22e47eb6d99a`
+**Global name:** `bbugyi200.athena.sase-1rs.11` · **State:** dismissed · **Source run:** `run-933a8250e59a7e548b5f22e47eb6d99a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1rs
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1rs](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rs/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261107105844
+- Timing: 2026-11-07T16:50:43.660572 → 2026-11-07T17:03:48.875014
 - Commits: 0
 
 ## Files
@@ -33,4 +33,4 @@
 | [sase-1rs.7](../bbugyi200.athena.sase-1rs.7/README.md) | sase-1rs hood | completed |
 | [sase-1rs.8](../bbugyi200.athena.sase-1rs.8/README.md) | sase-1rs hood | completed |
 | [sase-1rs.9](../bbugyi200.athena.sase-1rs.9/README.md) | sase-1rs hood | completed |
-| [sase-1rs.land](../bbugyi200.athena.sase-1rs.land/README.md) | sase-1rs hood | waiting |
+| [sase-1rs.land](../bbugyi200.athena.sase-1rs.land/README.md) | sase-1rs hood | dismissed |

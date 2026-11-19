@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1s7` · Members: 3 · Bead: [sase-1s7](
 
 ```mermaid
 flowchart TD
-  n0["sase-1s7.land--plan [active]"]
+  n0["sase-1s7.land--plan [dismissed]"]
   n1["sase-1s7.land--mon [completed]"]
   n0 --> n1
   n2["sase-1s7.land--gate [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1s7.land--plan | active | opus / claude | 2026-11-11T07:54:54.273378+00:00 → 2026-11-11T08:22:31.646480+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1s7.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1s7.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1s7.land--plan | dismissed | opus / claude | 2026-11-11T02:54:54.273378 → 2026-11-11T03:22:31.937267 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1s7.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1s7.land--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1s7.land--mon | completed | opus / claude | 2026-11-11T08:22:23.517880+00:00 → 2026-11-11T08:25:13.548309+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1s7.land--mon/chat.md) |
 | <a id="member-gate"></a>gate | sase-1s7.land--gate | completed | opus / claude | 2026-11-11T08:21:27.644261+00:00 → 2026-11-11T08:22:25.478223+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1s7.land--gate/chat.md) |
 

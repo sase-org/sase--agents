@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`474b11f`](https://github.com/sase-org/sase/commit/474b11f90de686290cecdef95644fbea247c736d) | fix(release-train): steward pin check, release-branch docs, and train uv setup | 2026-11-11 03:44:47 EST |
+| — | `474b11f` | fix(release-train): steward pin check, release-branch docs, and train uv setup | 2026-11-11 03:44:47 EST |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-1s7.4](../../sessions/bbugyi200.athena.sase-1s7.4.md) (session · 5) | sase-1s7 hood | completed 5 |
 | [sase-1s7.5](../../sessions/bbugyi200.athena.sase-1s7.5.md) (session · 9) | sase-1s7 hood | completed 9 |
 | [sase-1s7.6](../../sessions/bbugyi200.athena.sase-1s7.6.md) (session · 3) | sase-1s7 hood | completed 3 |
-| [sase-1s7.land](../../sessions/bbugyi200.athena.sase-1s7.land.md) (session · 3) | sase-1s7 hood | active 1, completed 2 |
+| [sase-1s7.land](../../sessions/bbugyi200.athena.sase-1s7.land.md) (session · 3) | sase-1s7 hood | completed 2, dismissed 1 |

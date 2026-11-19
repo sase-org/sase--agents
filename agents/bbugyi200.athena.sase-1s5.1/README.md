@@ -23,12 +23,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ed534b0`](https://github.com/sase-org/sase/commit/ed534b0a9f681842997bb07e38a02e0dcf478e1f) | fix(wait-checks): name waiter from agent\_meta and close silent-waiter gap | 2026-11-08 07:25:44 EST |
+| — | `ed534b0` | fix(wait-checks): name waiter from agent\_meta and close silent-waiter gap | 2026-11-08 07:25:44 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1s5.2](../../sessions/bbugyi200.athena.sase-1s5.2.md) (session · 2) | sase-1s5 hood | active 1, completed 1 |
-| [sase-1s5.3](../bbugyi200.athena.sase-1s5.3/README.md) | sase-1s5 hood | active |
-| [sase-1s5.land](../bbugyi200.athena.sase-1s5.land/README.md) | sase-1s5 hood | waiting |
+| [sase-1s5.3](../bbugyi200.athena.sase-1s5.3/README.md) | sase-1s5 hood | dismissed |
+| [sase-1s5.land](../bbugyi200.athena.sase-1s5.land/README.md) | sase-1s5 hood | dismissed |
