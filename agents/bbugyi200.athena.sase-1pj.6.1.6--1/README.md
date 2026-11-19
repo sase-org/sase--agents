@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`406c57f`](https://github.com/sase-org/sase/commit/406c57f12614114a40310a0a075d22fcabadca77) | feat(axe): add staged-handoff recovery service entry point | 2026-10-31 15:06:44 EDT |
+| — | `406c57f` | feat(axe): add staged-handoff recovery service entry point | 2026-10-31 15:06:44 EDT |
 
 ## Neighbors
 
@@ -39,12 +39,12 @@
 | [sase-1pj.6.1.8](../bbugyi200.athena.sase-1pj.6.1.8/README.md) | sase-1pj.6.1 hood | active |
 | [sase-1pj.6.1.land](../../sessions/bbugyi200.athena.sase-1pj.6.1.land.md) (session · 5) | sase-1pj.6.1 hood | completed 5 |
 | [sase-1pj.1](../../sessions/bbugyi200.athena.sase-1pj.1.md) (session · 3) | sase-1pj hood | failed 3 |
-| [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | active |
-| [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | active |
-| [sase-1pj.1.1.3](../../sessions/bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj hood | active 3 |
-| [sase-1pj.1.1.4](../../sessions/bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj hood | active 3 |
+| [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | dismissed |
+| [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | dismissed |
+| [sase-1pj.1.1.3](../../sessions/bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj hood | active 2, dismissed 1 |
+| [sase-1pj.1.1.4](../../sessions/bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj hood | active 2, dismissed 1 |
 | [sase-1pj.1.1.5](../bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj hood | active |
-| [sase-1pj.1.1.land](../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj hood | active 2, completed 1 |
+| [sase-1pj.1.1.land](../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj hood | completed 1, dismissed 2 |
 | [sase-1pj.2](../../sessions/bbugyi200.athena.sase-1pj.2.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.2.1.1](../../sessions/bbugyi200.athena.sase-1pj.2.1.1.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |
 | [sase-1pj.2.1.2](../bbugyi200.athena.sase-1pj.2.1.2/README.md) | sase-1pj hood | completed |

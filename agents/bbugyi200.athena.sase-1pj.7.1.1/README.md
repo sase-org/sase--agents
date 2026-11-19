@@ -23,8 +23,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b050bfe`](https://github.com/sase-org/sase/commit/b050bfe9274e5f6db1bbd487c66085301125a848) | refactor(axe): split run\_agent\_exec\_pipe below the 500-line cap | 2026-10-31 15:24:29 EDT |
-| sase | [`17f5aa3`](https://github.com/sase-org/sase/commit/17f5aa3ca17c9575403505c83f091b803e0dc407) | feat(turns): add workspace retention adapter and guarded claim settlement | 2026-10-31 15:49:48 EDT |
+| — | `b050bfe` | refactor(axe): split run\_agent\_exec\_pipe below the 500-line cap | 2026-10-31 15:24:29 EDT |
+| — | `17f5aa3` | feat(turns): add workspace retention adapter and guarded claim settlement | 2026-10-31 15:49:48 EDT |
 
 ## Neighbors
 
@@ -40,12 +40,12 @@
 | [sase-1pj.7.1.5.land](../../sessions/bbugyi200.athena.sase-1pj.7.1.5.land.md) (session · 3) | sase-1pj.7.1 hood | completed 3 |
 | [sase-1pj.7.1.land](../../sessions/bbugyi200.athena.sase-1pj.7.1.land.md) (session · 3) | sase-1pj.7.1 hood | active 1, completed 2 |
 | [sase-1pj.1](../../sessions/bbugyi200.athena.sase-1pj.1.md) (session · 3) | sase-1pj hood | failed 3 |
-| [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | active |
-| [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | active |
-| [sase-1pj.1.1.3](../../sessions/bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj hood | active 3 |
-| [sase-1pj.1.1.4](../../sessions/bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj hood | active 3 |
+| [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | dismissed |
+| [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | dismissed |
+| [sase-1pj.1.1.3](../../sessions/bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj hood | active 2, dismissed 1 |
+| [sase-1pj.1.1.4](../../sessions/bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj hood | active 2, dismissed 1 |
 | [sase-1pj.1.1.5](../bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj hood | active |
-| [sase-1pj.1.1.land](../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj hood | active 2, completed 1 |
+| [sase-1pj.1.1.land](../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj hood | completed 1, dismissed 2 |
 | [sase-1pj.2](../../sessions/bbugyi200.athena.sase-1pj.2.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.2.1.1](../../sessions/bbugyi200.athena.sase-1pj.2.1.1.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |
 | [sase-1pj.2.1.2](../bbugyi200.athena.sase-1pj.2.1.2/README.md) | sase-1pj hood | completed |

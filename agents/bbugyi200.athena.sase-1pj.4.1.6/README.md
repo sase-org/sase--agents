@@ -23,8 +23,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3ba58ec`](https://github.com/sase-org/sase/commit/3ba58ec222fa6e884dde1fce6b4b681b68254a7b) | feat(workflow): stage HITL reviews before cleanup settlement | 2026-10-30 03:20:14 EDT |
-| sase | [`c85ceb0`](https://github.com/sase-org/sase/commit/c85ceb0c3b28dced3d8ef7afc00b265f194b60c9) | fix(symvision): track workflow symbols on open parent epic | 2026-10-30 03:57:25 EDT |
+| — | `3ba58ec` | feat(workflow): stage HITL reviews before cleanup settlement | 2026-10-30 03:20:14 EDT |
+| — | `c85ceb0` | fix(symvision): track workflow symbols on open parent epic | 2026-10-30 03:57:25 EDT |
 
 ## Neighbors
 
@@ -38,12 +38,12 @@
 | [sase-1pj.4.1.5](../../sessions/bbugyi200.athena.sase-1pj.4.1.5.md) (session · 3) | sase-1pj.4.1 hood | completed 2, failed 1 |
 | [sase-1pj.4.1.land](../bbugyi200.athena.sase-1pj.4.1.land/README.md) | sase-1pj.4.1 hood | completed |
 | [sase-1pj.1](../../sessions/bbugyi200.athena.sase-1pj.1.md) (session · 3) | sase-1pj hood | failed 3 |
-| [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | active |
-| [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | active |
-| [sase-1pj.1.1.3](../../sessions/bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj hood | active 3 |
-| [sase-1pj.1.1.4](../../sessions/bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj hood | active 3 |
+| [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | dismissed |
+| [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | dismissed |
+| [sase-1pj.1.1.3](../../sessions/bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj hood | active 2, dismissed 1 |
+| [sase-1pj.1.1.4](../../sessions/bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj hood | active 2, dismissed 1 |
 | [sase-1pj.1.1.5](../bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj hood | active |
-| [sase-1pj.1.1.land](../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj hood | active 2, completed 1 |
+| [sase-1pj.1.1.land](../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj hood | completed 1, dismissed 2 |
 | [sase-1pj.2](../../sessions/bbugyi200.athena.sase-1pj.2.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.2.1.1](../../sessions/bbugyi200.athena.sase-1pj.2.1.1.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |
 | [sase-1pj.2.1.2](../bbugyi200.athena.sase-1pj.2.1.2/README.md) | sase-1pj hood | completed |

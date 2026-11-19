@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60a4fe8`](https://github.com/sase-org/sase/commit/60a4fe8a927234bec6b40210215f1ea9831c76bc) | fix(sdd): resolve nested checkout plan roots | 2026-10-28 21:44:44 EDT |
+| — | `60a4fe8` | fix(sdd): resolve nested checkout plan roots | 2026-10-28 21:44:44 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [sase-1ph.2](../bbugyi200.athena.sase-1ph.2/README.md) | sase-1ph hood | completed |
 | [sase-1ph.4](../bbugyi200.athena.sase-1ph.4/README.md) | sase-1ph hood | completed |
 | [sase-1ph.5](../bbugyi200.athena.sase-1ph.5/README.md) | sase-1ph hood | completed |
-| [sase-1ph.land](../bbugyi200.athena.sase-1ph.land/README.md) | sase-1ph hood | active |
+| [sase-1ph.land](../bbugyi200.athena.sase-1ph.land/README.md) | sase-1ph hood | dismissed |

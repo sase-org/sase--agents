@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 3 · Bead: [sase-1pj.1
 
 ```mermaid
 flowchart TD
-  n0["sase-1pj.1.1.4--plan [active]"]
+  n0["sase-1pj.1.1.4--plan [dismissed]"]
   n1["sase-1pj.1.1.4--1 [active]"]
   n0 --> n1
   n2["sase-1pj.1.1.4--mon [active]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1pj.1.1.4--plan | active | gpt-6-luna / codex | 2026-10-29T06:04:37.257408+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.1.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1pj.1.1.4--plan | dismissed | gpt-6-luna / codex | 2026-10-29T02:04:37.257408 → 2026-10-29T02:11:48.453327 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.1.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.4--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-1pj.1.1.4--1 | active | gpt-6-luna / codex | 2026-10-29T06:32:17.594672+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.1.1.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.1.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.4--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pj.1.1.4--mon | active | gpt-6-luna / codex | 2026-10-29T06:11:05.916434+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.4--mon/chat.md) |
 
@@ -27,18 +27,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`9f88875`](https://github.com/sase-org/sase/commit/9f88875b989530ff8ed8171bcab2c891cc4e1323) | feat(plan): stage proposals after host finalization | 2026-10-29 03:29:31 EDT |
+| 1 | — | `9f88875` | feat(plan): stage proposals after host finalization | 2026-10-29 03:29:31 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1pj.1](bbugyi200.athena.sase-1pj.1.md) (session · 3) | ancestor | failed 3 |
-| [sase-1pj.1.1.1](../agents/bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj.1.1 hood | active |
-| [sase-1pj.1.1.2](../agents/bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj.1.1 hood | active |
-| [sase-1pj.1.1.3](bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj.1.1 hood | active 3 |
+| [sase-1pj.1.1.1](../agents/bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj.1.1 hood | dismissed |
+| [sase-1pj.1.1.2](../agents/bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj.1.1 hood | dismissed |
+| [sase-1pj.1.1.3](bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj.1.1 hood | active 2, dismissed 1 |
 | [sase-1pj.1.1.5](../agents/bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj.1.1 hood | active |
-| [sase-1pj.1.1.land](bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj.1.1 hood | active 2, completed 1 |
+| [sase-1pj.1.1.land](bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj.1.1 hood | completed 1, dismissed 2 |
 | [sase-1pj.2](bbugyi200.athena.sase-1pj.2.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.2.1.1](bbugyi200.athena.sase-1pj.2.1.1.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |
 | [sase-1pj.2.1.2](../agents/bbugyi200.athena.sase-1pj.2.1.2/README.md) | sase-1pj hood | completed |
