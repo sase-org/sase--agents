@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`bb5653c`](https://github.com/sase-org/sase/commit/bb5653cb7dcd7c75cab77ccaf9b6c3144db10ca2) | feat(commit): add configurable rebase gate runner with hard deadline | 2026-10-29 05:13:42 EDT |
+| 1 | — | `bb5653c` | feat(commit): add configurable rebase gate runner with hard deadline | 2026-10-29 05:13:42 EDT |
 
 ## Neighbors
 
@@ -35,11 +35,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1pm.5](bbugyi200.athena.sase-1pm.5.md) (session · 3) | ancestor | active 3 |
 | [sase-1pm.5.1.1](../agents/bbugyi200.athena.sase-1pm.5.1.1/README.md) | sase-1pm.5.1 hood | active |
-| [sase-1pm.5.1.3](bbugyi200.athena.sase-1pm.5.1.3.md) (session · 9) | sase-1pm.5.1 hood | active 9 |
+| [sase-1pm.5.1.3](bbugyi200.athena.sase-1pm.5.1.3.md) (session · 9) | sase-1pm.5.1 hood | active 7, dismissed 2 |
 | [sase-1pm.5.1.4](../agents/bbugyi200.athena.sase-1pm.5.1.4/README.md) | sase-1pm.5.1 hood | active |
-| [sase-1pm.5.1.land](bbugyi200.athena.sase-1pm.5.1.land.md) (session · 13) | sase-1pm.5.1 hood | active 11, completed 1, failed 1 |
+| [sase-1pm.5.1.land](bbugyi200.athena.sase-1pm.5.1.land.md) (session · 13) | sase-1pm.5.1 hood | active 9, completed 1, dismissed 2, failed 1 |
 | [sase-1pm.1](../agents/bbugyi200.athena.sase-1pm.1/README.md) | sase-1pm hood | active |
 | [sase-1pm.2](bbugyi200.athena.sase-1pm.2.md) (session · 9) | sase-1pm hood | active 9 |
 | [sase-1pm.3](../agents/bbugyi200.athena.sase-1pm.3/README.md) | sase-1pm hood | active |
-| [sase-1pm.4](bbugyi200.athena.sase-1pm.4.md) (session · 3) | sase-1pm hood | active 3 |
+| [sase-1pm.4](bbugyi200.athena.sase-1pm.4.md) (session · 3) | sase-1pm hood | active 1, dismissed 2 |
 | [sase-1pm.land](bbugyi200.athena.sase-1pm.land.md) (session · 3) | sase-1pm hood | active 3 |

@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pm` · Members: 13 · Bead: [sase-1pm.
 
 ```mermaid
 flowchart TD
-  n0["sase-1pm.5.1.land--5 [active]"]
+  n0["sase-1pm.5.1.land--5 [dismissed]"]
   n1["sase-1pm.5.1.land--mon [failed]"]
   n0 --> n1
-  n2["sase-1pm.5.1.land--1 [active]"]
+  n2["sase-1pm.5.1.land--1 [dismissed]"]
   n0 --> n2
   n3["sase-1pm.5.1.land--plan [active]"]
   n0 --> n3
@@ -39,9 +39,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-5"></a>5 | sase-1pm.5.1.land--5 | active | gpt-6-luna / codex | 2026-10-29T13:24:17.683104+00:00 | [1](../agents/bbugyi200.athena.sase-1pm.5.1.land--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.land--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--5/chat.md) |
+| <a id="member-5"></a>5 | sase-1pm.5.1.land--5 | dismissed | gpt-6-luna / codex | 2026-10-29T09:24:17.683104 → 2026-10-29T10:27:00.009789 | [1](../agents/bbugyi200.athena.sase-1pm.5.1.land--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.land--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--5/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pm.5.1.land--mon | failed | gpt-6-luna / codex | 2026-10-29T11:19:33.955360+00:00 → 2026-10-29T11:41:37.991234+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1pm.5.1.land--1 | active | gpt-6-luna / codex | 2026-10-29T11:43:30.855858+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--1/chat.md) |
+| <a id="member-1"></a>1 | sase-1pm.5.1.land--1 | dismissed | gpt-6-luna / codex | 2026-10-29T07:43:30.855858 → 2026-10-29T07:49:49.308976 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pm.5.1.land--plan | active | gpt-6-astra / codex | 2026-10-29T10:39:36.153201+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--plan/chat.md) |
 | <a id="member-3"></a>3 | sase-1pm.5.1.land--3 | active | gpt-6-luna / codex | 2026-10-29T12:18:13.341647+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.land--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--3/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1pm.5.1.land--mon-0 | active | gpt-6-luna / codex | 2026-10-29T11:49:10.740457+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--mon-0/chat.md) |
@@ -57,7 +57,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 5 | sase | [`cddea47`](https://github.com/sase-org/sase/commit/cddea47cc6a684aa50c0eb564af3f672cf9aea5e) | fix(vcs): block broken imports after rebase | 2026-10-29 10:22:41 EDT |
+| 5 | — | `cddea47` | fix(vcs): block broken imports after rebase | 2026-10-29 10:22:41 EDT |
 
 ## Variables
 
@@ -87,10 +87,10 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1pm.5](bbugyi200.athena.sase-1pm.5.md) (session · 3) | ancestor | active 3 |
 | [sase-1pm.5.1.1](../agents/bbugyi200.athena.sase-1pm.5.1.1/README.md) | sase-1pm.5.1 hood | active |
 | [sase-1pm.5.1.2](bbugyi200.athena.sase-1pm.5.1.2.md) (session · 3) | sase-1pm.5.1 hood | active 3 |
-| [sase-1pm.5.1.3](bbugyi200.athena.sase-1pm.5.1.3.md) (session · 9) | sase-1pm.5.1 hood | active 9 |
+| [sase-1pm.5.1.3](bbugyi200.athena.sase-1pm.5.1.3.md) (session · 9) | sase-1pm.5.1 hood | active 7, dismissed 2 |
 | [sase-1pm.5.1.4](../agents/bbugyi200.athena.sase-1pm.5.1.4/README.md) | sase-1pm.5.1 hood | active |
 | [sase-1pm.1](../agents/bbugyi200.athena.sase-1pm.1/README.md) | sase-1pm hood | active |
 | [sase-1pm.2](bbugyi200.athena.sase-1pm.2.md) (session · 9) | sase-1pm hood | active 9 |
 | [sase-1pm.3](../agents/bbugyi200.athena.sase-1pm.3/README.md) | sase-1pm hood | active |
-| [sase-1pm.4](bbugyi200.athena.sase-1pm.4.md) (session · 3) | sase-1pm hood | active 3 |
+| [sase-1pm.4](bbugyi200.athena.sase-1pm.4.md) (session · 3) | sase-1pm hood | active 1, dismissed 2 |
 | [sase-1pm.land](bbugyi200.athena.sase-1pm.land.md) (session · 3) | sase-1pm hood | active 3 |

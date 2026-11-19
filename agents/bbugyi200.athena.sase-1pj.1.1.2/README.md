@@ -31,9 +31,9 @@
 |---|---|---|
 | [sase-1pj.1](../../sessions/bbugyi200.athena.sase-1pj.1.md) (session · 3) | ancestor | failed 3 |
 | [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj.1.1 hood | dismissed |
-| [sase-1pj.1.1.3](../../sessions/bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj.1.1 hood | active 2, dismissed 1 |
-| [sase-1pj.1.1.4](../../sessions/bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj.1.1 hood | active 2, dismissed 1 |
-| [sase-1pj.1.1.5](../bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj.1.1 hood | active |
+| [sase-1pj.1.1.3](../../sessions/bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj.1.1 hood | dismissed 3 |
+| [sase-1pj.1.1.4](../../sessions/bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj.1.1 hood | dismissed 3 |
+| [sase-1pj.1.1.5](../bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj.1.1 hood | dismissed |
 | [sase-1pj.1.1.land](../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj.1.1 hood | completed 1, dismissed 2 |
 | [sase-1pj.2](../../sessions/bbugyi200.athena.sase-1pj.2.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.2.1.1](../../sessions/bbugyi200.athena.sase-1pj.2.1.1.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |

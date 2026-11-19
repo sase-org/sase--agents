@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 3 · Bead: [sase-1pj.1
 ```mermaid
 flowchart TD
   n0["sase-1pj.1.1.3--1 [dismissed]"]
-  n1["sase-1pj.1.1.3--mon [active]"]
+  n1["sase-1pj.1.1.3--mon [dismissed]"]
   n0 --> n1
-  n2["sase-1pj.1.1.3--plan [active]"]
+  n2["sase-1pj.1.1.3--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-1pj.1.1.3--1 | dismissed | muse-spark-1.3-contributor / muse | 2026-10-29T01:24:33.833072 → 2026-10-29T02:02:42.842869 | [1](../agents/bbugyi200.athena.sase-1pj.1.1.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.1.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.3--1/chat.md) |
-| <a id="member-mon"></a>mon | sase-1pj.1.1.3--mon | active | muse-spark-1.3-contributor / muse | 2026-10-29T05:15:20.569310+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.3--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-1pj.1.1.3--plan | active | muse-spark-1.3-contributor / muse | 2026-10-29T04:45:04.854479+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.1.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.3--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-1pj.1.1.3--mon | dismissed | muse-spark-1.3-contributor / muse | 2026-10-29T01:15:20.569310 → 2026-10-29T01:20:21.518276 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.3--mon/chat.md) |
+| <a id="member-plan"></a>plan | sase-1pj.1.1.3--plan | dismissed | muse-spark-1.3-contributor / muse | 2026-10-29T00:45:04.854479 → 2026-10-29T01:16:11.918626 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.1.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.3--plan/chat.md) |
 
 ## Commits
 
@@ -36,8 +36,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pj.1](bbugyi200.athena.sase-1pj.1.md) (session · 3) | ancestor | failed 3 |
 | [sase-1pj.1.1.1](../agents/bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj.1.1 hood | dismissed |
 | [sase-1pj.1.1.2](../agents/bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj.1.1 hood | dismissed |
-| [sase-1pj.1.1.4](bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj.1.1 hood | active 2, dismissed 1 |
-| [sase-1pj.1.1.5](../agents/bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj.1.1 hood | active |
+| [sase-1pj.1.1.4](bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj.1.1 hood | dismissed 3 |
+| [sase-1pj.1.1.5](../agents/bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj.1.1 hood | dismissed |
 | [sase-1pj.1.1.land](bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj.1.1 hood | completed 1, dismissed 2 |
 | [sase-1pj.2](bbugyi200.athena.sase-1pj.2.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.2.1.1](bbugyi200.athena.sase-1pj.2.1.1.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |

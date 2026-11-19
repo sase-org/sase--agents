@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.1.1.3](../../sessions/bbugyi200.athena.sase-1pj.1.1.3.md) / sase-1pj.1.1.3--plan
 
-**Global name:** `bbugyi200.athena.sase-1pj.1.1.3--plan` · **State:** active · **Source run:** `run-f84ad33d78b0db8bbe3aa4dd1dc66bfc`
+**Global name:** `bbugyi200.athena.sase-1pj.1.1.3--plan` · **State:** dismissed · **Source run:** `run-f84ad33d78b0db8bbe3aa4dd1dc66bfc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1pj.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.1.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-29T04:45:04.854479+00:00
+- Timing: 2026-10-29T00:45:04.854479 → 2026-10-29T01:16:11.918626
 - Commits: 0
 
 ## Files
@@ -26,8 +26,8 @@
 | [sase-1pj.1](../../sessions/bbugyi200.athena.sase-1pj.1.md) (session · 3) | ancestor | failed 3 |
 | [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj.1.1 hood | dismissed |
 | [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj.1.1 hood | dismissed |
-| [sase-1pj.1.1.4](../../sessions/bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj.1.1 hood | active 2, dismissed 1 |
-| [sase-1pj.1.1.5](../bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj.1.1 hood | active |
+| [sase-1pj.1.1.4](../../sessions/bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj.1.1 hood | dismissed 3 |
+| [sase-1pj.1.1.5](../bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj.1.1 hood | dismissed |
 | [sase-1pj.1.1.land](../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj.1.1 hood | completed 1, dismissed 2 |
 | [sase-1pj.2](../../sessions/bbugyi200.athena.sase-1pj.2.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.2.1.1](../../sessions/bbugyi200.athena.sase-1pj.2.1.1.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |

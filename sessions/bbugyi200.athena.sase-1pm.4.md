@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pm` · Members: 3 · Bead: [sase-1pm.4
 
 ```mermaid
 flowchart TD
-  n0["sase-1pm.4--1 [active]"]
-  n1["sase-1pm.4--plan [active]"]
+  n0["sase-1pm.4--1 [dismissed]"]
+  n1["sase-1pm.4--plan [dismissed]"]
   n0 --> n1
   n2["sase-1pm.4--mon [active]"]
   n0 --> n2
@@ -19,15 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1pm.4--1 | active | grok-4.6 / grok | 2026-10-29T06:35:02.281600+00:00 | [1](../agents/bbugyi200.athena.sase-1pm.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pm.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.4--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-1pm.4--plan | active | grok-4.6 / grok | 2026-10-29T05:50:58.844923+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.4--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-1pm.4--1 | dismissed | grok-4.6 / grok | 2026-10-29T02:35:02.281600 → 2026-10-29T02:57:51.664329 | [1](../agents/bbugyi200.athena.sase-1pm.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pm.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.4--1/chat.md) |
+| <a id="member-plan"></a>plan | sase-1pm.4--plan | dismissed | grok-4.6 / grok | 2026-10-29T01:50:58.844923 → 2026-10-29T02:05:51.783030 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.4--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pm.4--mon | active | grok-4.6 / grok | 2026-10-29T06:04:55.754920+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pm.4--mon/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`2456160`](https://github.com/sase-org/sase/commit/24561602cc26a699f7994496006e7fefa4fbf176) | fix(tui): ratchet first-party TUI import budget instead of total modules | 2026-10-29 02:51:48 EDT |
+| 1 | — | `2456160` | fix(tui): ratchet first-party TUI import budget instead of total modules | 2026-10-29 02:51:48 EDT |
 
 ## Neighbors
 
@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pm.5](bbugyi200.athena.sase-1pm.5.md) (session · 3) | sase-1pm hood | active 3 |
 | [sase-1pm.5.1.1](../agents/bbugyi200.athena.sase-1pm.5.1.1/README.md) | sase-1pm hood | active |
 | [sase-1pm.5.1.2](bbugyi200.athena.sase-1pm.5.1.2.md) (session · 3) | sase-1pm hood | active 3 |
-| [sase-1pm.5.1.3](bbugyi200.athena.sase-1pm.5.1.3.md) (session · 9) | sase-1pm hood | active 9 |
+| [sase-1pm.5.1.3](bbugyi200.athena.sase-1pm.5.1.3.md) (session · 9) | sase-1pm hood | active 7, dismissed 2 |
 | [sase-1pm.5.1.4](../agents/bbugyi200.athena.sase-1pm.5.1.4/README.md) | sase-1pm hood | active |
-| [sase-1pm.5.1.land](bbugyi200.athena.sase-1pm.5.1.land.md) (session · 13) | sase-1pm hood | active 11, completed 1, failed 1 |
+| [sase-1pm.5.1.land](bbugyi200.athena.sase-1pm.5.1.land.md) (session · 13) | sase-1pm hood | active 9, completed 1, dismissed 2, failed 1 |
 | [sase-1pm.land](bbugyi200.athena.sase-1pm.land.md) (session · 3) | sase-1pm hood | active 3 |
