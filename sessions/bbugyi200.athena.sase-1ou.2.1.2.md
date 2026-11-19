@@ -8,18 +8,18 @@ Owner: `bbugyi200.athena` · Hood: `sase-1ou` · Members: 7 · Bead: [sase-1ou.2
 
 ```mermaid
 flowchart TD
-  n0["sase-1ou.2.1.2--mon-0 [active]"]
-  n1["sase-1ou.2.1.2--3 [active]"]
+  n0["sase-1ou.2.1.2--mon-0 [dismissed]"]
+  n1["sase-1ou.2.1.2--3 [dismissed]"]
   n0 --> n1
-  n2["sase-1ou.2.1.2--mon [active]"]
+  n2["sase-1ou.2.1.2--mon [dismissed]"]
   n0 --> n2
-  n3["sase-1ou.2.1.2--1 [active]"]
+  n3["sase-1ou.2.1.2--1 [dismissed]"]
   n0 --> n3
-  n4["sase-1ou.2.1.2--mon-1 [active]"]
+  n4["sase-1ou.2.1.2--mon-1 [dismissed]"]
   n0 --> n4
-  n5["sase-1ou.2.1.2--plan [active]"]
+  n5["sase-1ou.2.1.2--plan [dismissed]"]
   n0 --> n5
-  n6["sase-1ou.2.1.2--2 [active]"]
+  n6["sase-1ou.2.1.2--2 [dismissed]"]
   n0 --> n6
 ```
 
@@ -27,19 +27,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon-0"></a>mon-0 | sase-1ou.2.1.2--mon-0 | active | gpt-6-astra / codex | 2026-10-27T19:19:27.384779+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon-0/chat.md) |
-| <a id="member-3"></a>3 | sase-1ou.2.1.2--3 | active | gpt-6-astra / codex | 2026-10-27T21:27:26.869294+00:00 | [1](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/chat.md) |
-| <a id="member-mon"></a>mon | sase-1ou.2.1.2--mon | active | gpt-6-astra / codex | 2026-10-27T18:50:46.745381+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1ou.2.1.2--1 | active | gpt-6-astra / codex | 2026-10-27T19:02:54.103609+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--1/chat.md) |
-| <a id="member-mon-1"></a>mon-1 | sase-1ou.2.1.2--mon-1 | active | gpt-6-astra / codex | 2026-10-27T20:23:52.246269+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon-1/chat.md) |
-| <a id="member-plan"></a>plan | sase-1ou.2.1.2--plan | active | gpt-6-astra / codex | 2026-10-27T18:37:56.080151+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--plan/chat.md) |
-| <a id="member-2"></a>2 | sase-1ou.2.1.2--2 | active | gpt-6-astra / codex | 2026-10-27T19:33:05.138708+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--2/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-1ou.2.1.2--mon-0 | dismissed | gpt-6-astra / codex | 2026-10-27T15:19:27.384779 → 2026-10-27T15:30:03.311296 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon-0/chat.md) |
+| <a id="member-3"></a>3 | sase-1ou.2.1.2--3 | dismissed | gpt-6-astra / codex | 2026-10-27T17:27:26.869294 → 2026-10-27T17:43:35.482390 | [1](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/chat.md) |
+| <a id="member-mon"></a>mon | sase-1ou.2.1.2--mon | dismissed | gpt-6-astra / codex | 2026-10-27T14:50:46.745381 → 2026-10-27T14:59:57.481502 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon/chat.md) |
+| <a id="member-1"></a>1 | sase-1ou.2.1.2--1 | dismissed | gpt-6-astra / codex | 2026-10-27T15:02:54.103609 → 2026-10-27T15:20:04.780893 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--1/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | sase-1ou.2.1.2--mon-1 | dismissed | gpt-6-astra / codex | 2026-10-27T16:23:52.246269 → 2026-10-27T17:24:15.461671 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon-1/chat.md) |
+| <a id="member-plan"></a>plan | sase-1ou.2.1.2--plan | dismissed | gpt-6-astra / codex | 2026-10-27T14:37:56.080151 → 2026-10-27T14:51:22.207205 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--plan/chat.md) |
+| <a id="member-2"></a>2 | sase-1ou.2.1.2--2 | dismissed | gpt-6-astra / codex | 2026-10-27T15:33:05.138708 → 2026-10-27T16:25:22.932170 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--2/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | sase | [`57d5f41`](https://github.com/sase-org/sase/commit/57d5f411e41e543ffa10d9a91ab45fd66f62ebb6) | fix(tool): delegate default contention budgets to Rust | 2026-10-27 17:40:35 EDT |
+| 3 | — | `57d5f41` | fix(tool): delegate default contention budgets to Rust | 2026-10-27 17:40:35 EDT |
 
 ## Variables
 
@@ -151,8 +151,8 @@ Values are truncated for display; see each member's agent meta.json for the full
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1ou.2](bbugyi200.athena.sase-1ou.2.md) (session · 3) | ancestor | failed 3 |
-| [sase-1ou.2.1.1](../agents/bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou.2.1 hood | active |
-| [sase-1ou.2.1.land](bbugyi200.athena.sase-1ou.2.1.land.md) (session · 3) | sase-1ou.2.1 hood | active 3 |
+| [sase-1ou.2.1.1](../agents/bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou.2.1 hood | dismissed |
+| [sase-1ou.2.1.land](bbugyi200.athena.sase-1ou.2.1.land.md) (session · 3) | sase-1ou.2.1 hood | dismissed 3 |
 | [sase-1ou.1](../agents/bbugyi200.athena.sase-1ou.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.3](bbugyi200.athena.sase-1ou.3.md) (session · 7) | sase-1ou hood | completed 4, failed 3 |
 | [sase-1ou.4](bbugyi200.athena.sase-1ou.4.md) (session · 5) | sase-1ou hood | completed 3, failed 2 |

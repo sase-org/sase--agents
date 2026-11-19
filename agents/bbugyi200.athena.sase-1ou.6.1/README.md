@@ -23,8 +23,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aaa88b0`](https://github.com/sase-org/sase/commit/aaa88b002679ac9b12a5cdc4244426daa469011a) | fix(ace-tui): resume stalled Files spread navigation on scroll-extent growth | 2026-10-28 19:11:09 EDT |
-| sase | [`2e68053`](https://github.com/sase-org/sase/commit/2e68053dab2fc560107a882a99f747e6de28761f) | fix(tui): remeasure Files spread reserve when already enabled | 2026-10-29 16:20:28 EDT |
+| — | `aaa88b0` | fix(ace-tui): resume stalled Files spread navigation on scroll-extent growth | 2026-10-28 19:11:09 EDT |
+| — | `2e68053` | fix(tui): remeasure Files spread reserve when already enabled | 2026-10-29 16:20:28 EDT |
 
 ## Neighbors
 
@@ -33,9 +33,9 @@
 | [sase-1ou.6.land](../../sessions/bbugyi200.athena.sase-1ou.6.land.md) (session · 7) | sase-1ou.6 hood | completed 4, failed 3 |
 | [sase-1ou.1](../bbugyi200.athena.sase-1ou.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.2](../../sessions/bbugyi200.athena.sase-1ou.2.md) (session · 3) | sase-1ou hood | failed 3 |
-| [sase-1ou.2.1.1](../bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou hood | active |
-| [sase-1ou.2.1.2](../../sessions/bbugyi200.athena.sase-1ou.2.1.2.md) (session · 7) | sase-1ou hood | active 7 |
-| [sase-1ou.2.1.land](../../sessions/bbugyi200.athena.sase-1ou.2.1.land.md) (session · 3) | sase-1ou hood | active 3 |
+| [sase-1ou.2.1.1](../bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou hood | dismissed |
+| [sase-1ou.2.1.2](../../sessions/bbugyi200.athena.sase-1ou.2.1.2.md) (session · 7) | sase-1ou hood | dismissed 7 |
+| [sase-1ou.2.1.land](../../sessions/bbugyi200.athena.sase-1ou.2.1.land.md) (session · 3) | sase-1ou hood | dismissed 3 |
 | [sase-1ou.3](../../sessions/bbugyi200.athena.sase-1ou.3.md) (session · 7) | sase-1ou hood | completed 4, failed 3 |
 | [sase-1ou.4](../../sessions/bbugyi200.athena.sase-1ou.4.md) (session · 5) | sase-1ou hood | completed 3, failed 2 |
 | [sase-1ou.5](../../sessions/bbugyi200.athena.sase-1ou.5.md) (session · 3) | sase-1ou hood | failed 3 |

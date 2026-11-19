@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1ou](../../users/bbugyi200/machines/athena/hoods/sase-1ou/README.md) / [sase-1ou.2.1.land](../../sessions/bbugyi200.athena.sase-1ou.2.1.land.md) / sase-1ou.2.1.land--1
 
-**Global name:** `bbugyi200.athena.sase-1ou.2.1.land--1` · **State:** active · **Source run:** `run-9ad8aa22d6f7719978a8244eb1f2ebe3`
+**Global name:** `bbugyi200.athena.sase-1ou.2.1.land--1` · **State:** dismissed · **Source run:** `run-9ad8aa22d6f7719978a8244eb1f2ebe3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1ou
 
@@ -11,7 +11,7 @@
 - Bead: [sase-1ou.2.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ou/sase-1ou.2.1.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-27T22:01:54.073043+00:00
+- Timing: 2026-10-27T18:01:54.073043 → 2026-10-27T18:16:13.132833
 - Commits: 0
 
 ## Files
@@ -23,8 +23,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1ou.2](../../sessions/bbugyi200.athena.sase-1ou.2.md) (session · 3) | ancestor | failed 3 |
-| [sase-1ou.2.1.1](../bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou.2.1 hood | active |
-| [sase-1ou.2.1.2](../../sessions/bbugyi200.athena.sase-1ou.2.1.2.md) (session · 7) | sase-1ou.2.1 hood | active 7 |
+| [sase-1ou.2.1.1](../bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou.2.1 hood | dismissed |
+| [sase-1ou.2.1.2](../../sessions/bbugyi200.athena.sase-1ou.2.1.2.md) (session · 7) | sase-1ou.2.1 hood | dismissed 7 |
 | [sase-1ou.1](../bbugyi200.athena.sase-1ou.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.3](../../sessions/bbugyi200.athena.sase-1ou.3.md) (session · 7) | sase-1ou hood | completed 4, failed 3 |
 | [sase-1ou.4](../../sessions/bbugyi200.athena.sase-1ou.4.md) (session · 5) | sase-1ou hood | completed 3, failed 2 |

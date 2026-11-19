@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-1ou` · Members: 3 · Bead: [sase-1ou.2
 
 ```mermaid
 flowchart TD
-  n0["sase-1ou.2.1.land--1 [active]"]
-  n1["sase-1ou.2.1.land--plan [active]"]
+  n0["sase-1ou.2.1.land--1 [dismissed]"]
+  n1["sase-1ou.2.1.land--plan [dismissed]"]
   n0 --> n1
-  n2["sase-1ou.2.1.land--mon [active]"]
+  n2["sase-1ou.2.1.land--mon [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,17 +19,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1ou.2.1.land--1 | active | gpt-6-astra / codex | 2026-10-27T22:01:54.073043+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.land--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-1ou.2.1.land--plan | active | gpt-6-astra / codex | 2026-10-27T21:44:54.103409+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.land--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-1ou.2.1.land--mon | active | gpt-6-astra / codex | 2026-10-27T21:54:53.983073+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.land--mon/chat.md) |
+| <a id="member-1"></a>1 | sase-1ou.2.1.land--1 | dismissed | gpt-6-astra / codex | 2026-10-27T18:01:54.073043 → 2026-10-27T18:16:13.132833 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.land--1/chat.md) |
+| <a id="member-plan"></a>plan | sase-1ou.2.1.land--plan | dismissed | gpt-6-astra / codex | 2026-10-27T17:44:54.103409 → 2026-10-27T17:55:45.142221 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.land--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-1ou.2.1.land--mon | dismissed | gpt-6-astra / codex | 2026-10-27T17:54:53.983073 → 2026-10-27T17:58:31.788506 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.land--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1ou.2](bbugyi200.athena.sase-1ou.2.md) (session · 3) | ancestor | failed 3 |
-| [sase-1ou.2.1.1](../agents/bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou.2.1 hood | active |
-| [sase-1ou.2.1.2](bbugyi200.athena.sase-1ou.2.1.2.md) (session · 7) | sase-1ou.2.1 hood | active 7 |
+| [sase-1ou.2.1.1](../agents/bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou.2.1 hood | dismissed |
+| [sase-1ou.2.1.2](bbugyi200.athena.sase-1ou.2.1.2.md) (session · 7) | sase-1ou.2.1 hood | dismissed 7 |
 | [sase-1ou.1](../agents/bbugyi200.athena.sase-1ou.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.3](bbugyi200.athena.sase-1ou.3.md) (session · 7) | sase-1ou hood | completed 4, failed 3 |
 | [sase-1ou.4](bbugyi200.athena.sase-1ou.4.md) (session · 5) | sase-1ou hood | completed 3, failed 2 |
