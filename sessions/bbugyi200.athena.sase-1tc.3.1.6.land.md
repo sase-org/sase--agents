@@ -95,6 +95,6 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1tc.1.1.3](bbugyi200.athena.sase-1tc.1.1.3.md) (session · 3) | sase-1tc hood | completed 2, failed 1 |
 | [sase-1tc.1.1.land](bbugyi200.athena.sase-1tc.1.1.land.md) (session · 3) | sase-1tc hood | completed 3 |
 | [sase-1tc.2](../agents/bbugyi200.athena.sase-1tc.2/README.md) | sase-1tc hood | completed |
-| [sase-1tc.4](bbugyi200.athena.sase-1tc.4.md) (session · 5) | sase-1tc hood | completed 3, failed 2 |
+| [sase-1tc.4](bbugyi200.athena.sase-1tc.4.md) (session · 5) | sase-1tc hood | active 2, completed 1, failed 2 |
 | [sase-1tc.5](../agents/bbugyi200.athena.sase-1tc.5/README.md) | sase-1tc hood | waiting |
 | [sase-1tc.land](../agents/bbugyi200.athena.sase-1tc.land/README.md) | sase-1tc hood | waiting |

@@ -1,43 +1,37 @@
 # Chat History - ace-run (sase-1tc.4--plan)
 
-- **TIMESTAMP:** 2026-11-19 05:29:40 EST
+- **TIMESTAMP:** 2026-11-19 08:05:00 EST
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1tc.4--plan
 
-## Linked Chats
-
-- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1tc_4__plan-261117_112114.md`
-- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1tc_4__code-261117_112114.md`
-
-**Plan:** /home/bryan/.sase/plans/202611/retire_bead_sqlite_mirror.md
+**Plan:** /home/bryan/.sase/plans/202611/finish_bead_sqlite_owner_verification.md
 
 
 ## Proposed Plan Preview
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202611/retire_bead_sqlite_mirror.md`
+**Plan file:** `/home/bryan/.sase/plans/202611/finish_bead_sqlite_owner_verification.md`
 
 > - **PARENT:**
 >   [202611/backlog_epic_cmdsub_retries_launches.md](202611/backlog_epic_cmdsub_retries_launches.md)
 > - **BEAD:** sase-1tc.4
-> # Retire Python's beads.db mirror for sase-1tc.4
-> Complete phase `sase-1tc.4` of `sase-1tc`, resolving the defect tracked by `sase-1kp`.
-> Python must never open the bead store's `beads.db` with stdlib SQLite. Rust retains its
-> existing mutation lock on that file; canonical events and Rust's separate read-model
-> database continue to serve reads and mutations.
-> ## Scope and accepted decision
-> The parent design is `plan:202611/backlog_epic_cmdsub_retries_launches.md`. Its final
+> # Finish the single-owner proof and verification for sase-1tc.4
+> Complete the remaining work for phase `sase-1tc.4` of `sase-1tc`. The production mirror
+> retirement already landed in `5b79f0f5e37237e07b48088c4079dc04082453e1`. Keep that
+> implementation and finish its missing legacy-mirror regression and verification. The
+> accepted epic decision is **mirror_fix = retire_mirror**.
+> The governing designs are `plan:202611/backlog_epic_cmdsub_retries_launches.md` and
+> `plan:202611/retire_bead_sqlite_mirror.md`; the underlying task is `sase-1kp`. No new
 
 *See full plan file for details.*
 
 ## Prompt
 
-%auto
 #gh:gh_sase-org__sase
 %id(4, clan=sase-1tc, bead=sase-1tc.4)
 %model:@large
-%w(sase-1tc.3, for_epic=false)
+%auto
 %w(bead=sase-1tc.3)
 Can you complete the work for bead sase-1tc.4? The bead is already reserved for you and assigned to your agent
 name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
@@ -73,20 +67,21 @@ before making any file changes.
 
 ## Response
 
-I’ll read the bead, its prior notes, and the planning instructions, then submit a validated plan before changing any files.
+I’ll read the bead’s scope, decisions, and prior notes, then use `/sase_plan` to prepare and submit the required plan before changing files. I’ll also use `/sase_memory_read` for the project’s bead workflow rules.
 
-The phase calls for retiring Python’s WAL mirror so Rust is the sole owner of `beads.db`. There are no prior work notes on this phase. I’m using `/sase_plan` and `/sase_memory_read` to check the design and current code; the plan skill requires a handoff after submission, so this turn will finish with the plan staged for implementation.
 
-The fix has not landed: Python still opens the mirror during project initialization and legacy reads, and Rust still uses `beads.db` as its mutation lock file. I also found tests and benchmarks that create the mirror directly. The plan will cover those callers so the ownership guard can enforce the change.
+The mirror retirement already landed in commit `5b79f0f5e3`. The prior agent left the bead open for verification, so I’ll inspect that check’s result and plan the remaining work. A single-agent tale should suffice unless the result reveals a larger gap.
 
-I reproduced the lock loss in a disposable store: a second process was blocked from acquiring the database lock before the Rust mutation, then acquired it afterward while Python’s WAL connection remained open.
 
-A single medium-sized implementation plan should cover this. Rust already handles child-ID allocation and exports, so the remaining work is to remove the mirror paths, move needed legacy test helpers out of production code, and add ownership regressions.
+The old check was stopped before its test stage finished; it is not a passing result. I also found a specific coverage gap: the “legacy adoption” test creates only JSONL, not an existing SQLite mirror. I’ll plan that missing regression plus completion of verification. I’m using `/sase_agents_status` to check for overlapping work.
 
-The medium-sized tale plan passes validation with no warnings. I’m submitting it now. It follows the approved mirror-retirement decision and includes the reproduction, fixture migration, regression tests, and phase-closing checks.
 
-The [`/sase_plan` skill](/home/bryan/.codex/skills/sase_plan/SKILL.md) says that after submission reports “Staged,” I must “finish through `/sase_final`.” That hands implementation to the approved coder; the bead remains open until the work is verified.
+The draft is a medium tale covering the existing-mirror regression, a guard assertion fix, and verification of the landed change. It includes a monitored completion path because the earlier check outlasted its agent turn. I’m validating it before submitting the proposal.
 
-Reproduced the lock loss and submitted a validated implementation plan. `sase-1tc.4` remains in progress; implementation is pending.
 
-The [`sase_plan` skill](/home/bryan/.codex/skills/sase_plan/SKILL.md) requires staged proposals to “finish through `/sase_final`.” That handoff is complete.
+The plan passed validation with zero warnings, and the proposal is staged. I’m using `/sase_final` to finish the handoff. The bead remains open until the regression work and verification are complete.
+
+
+Validated and staged the completion plan for approval. The implementation already landed in `5b79f0f5e3`; remaining work is legacy-mirror regression coverage and completed verification. `sase-1tc.4` remains open.
+
+The required [planning skill](/home/bryan/.codex/skills/sase_plan/SKILL.md) says to “finish through `/sase_final`” after staging. This turn ends at that handoff; approval launches the coder.
