@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-1tc` · Members: 3 · Bead: [sase-1tc](
 ```mermaid
 flowchart TD
   n0["sase-1tc.land--gate [completed]"]
-  n1["sase-1tc.land--code [active]"]
+  n1["sase-1tc.land--code [completed]"]
   n0 --> n1
-  n2["sase-1tc.land--plan [active]"]
+  n2["sase-1tc.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1tc.land--gate | completed | opus / claude | 2026-11-19T20:46:55.318441+00:00 → 2026-11-19T20:47:05.390141+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tc.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1tc.land--code | active | gpt-6-luna / codex | 2026-11-19T20:47:45.321352+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1tc.land--plan | active | opus / claude | 2026-11-19T20:24:21.056993+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tc.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tc.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1tc.land--code | completed | gpt-6-luna / codex | 2026-11-19T20:47:45.321352+00:00 → 2026-11-19T21:22:48.366644+00:00 | [1](../agents/bbugyi200.athena.sase-1tc.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1tc.land--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-1tc.land--plan | completed | opus / claude | 2026-11-19T20:24:21.056993+00:00 → 2026-11-19T21:22:48.366644+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tc.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tc.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`1910892`](https://github.com/sase-org/sase/commit/1910892d92a399a780c4d5e19a6efcdff59a8605) | fix(axe): preserve launcher cwd during workspace entry | 2026-11-19 16:20:18 EST |
 
 ## Neighbors
 

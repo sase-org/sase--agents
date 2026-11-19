@@ -56,4 +56,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1tc.5.1.1](bbugyi200.athena.sase-1tc.5.1.1.md) (session · 3) | sase-1tc hood | completed 3 |
 | [sase-1tc.5.1.2](../agents/bbugyi200.athena.sase-1tc.5.1.2/README.md) | sase-1tc hood | completed |
 | [sase-1tc.5.1.land](../agents/bbugyi200.athena.sase-1tc.5.1.land/README.md) | sase-1tc hood | completed |
-| [sase-1tc.land](bbugyi200.athena.sase-1tc.land.md) (session · 3) | sase-1tc hood | active 2, completed 1 |
+| [sase-1tc.land](bbugyi200.athena.sase-1tc.land.md) (session · 3) | sase-1tc hood | completed 3 |

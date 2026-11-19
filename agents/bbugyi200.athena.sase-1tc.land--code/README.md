@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tc](../../users/bbugyi200/machines/athena/hoods/sase-1tc/README.md) / [sase-1tc.land](../../sessions/bbugyi200.athena.sase-1tc.land.md) / sase-1tc.land--code
 
-**Global name:** `bbugyi200.athena.sase-1tc.land--code` · **State:** active · **Source run:** `run-e418bad840c9956ee6aa51c26f8b07f4`
+**Global name:** `bbugyi200.athena.sase-1tc.land--code` · **State:** completed · **Source run:** `run-e418bad840c9956ee6aa51c26f8b07f4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tc
 
@@ -11,8 +11,18 @@
 - Bead: [sase-1tc](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tc/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-19T20:47:45.321352+00:00
-- Commits: 0
+- Timing: 2026-11-19T20:47:45.321352+00:00 → 2026-11-19T21:22:48.366644+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`1910892`](https://github.com/sase-org/sase/commit/1910892d92a399a780c4d5e19a6efcdff59a8605) | fix(axe): preserve launcher cwd during workspace entry | 2026-11-19 16:20:18 EST |
 
 ## Neighbors
 

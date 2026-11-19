@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-1tc.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1tc_land__plan-261119_075735.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1tc_land__code-261119_075735.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/launch_cmdsub_workspace_cwd.md
 
 
