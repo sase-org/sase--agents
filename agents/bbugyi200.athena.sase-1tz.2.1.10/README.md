@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.2.1.10
 
-**Global name:** `bbugyi200.athena.sase-1tz.2.1.10` · **State:** waiting · **Source run:** `run-ab177de3b99edaedfb63efac56b67f9f`
+**Global name:** `bbugyi200.athena.sase-1tz.2.1.10` · **State:** completed · **Source run:** `run-ab177de3b99edaedfb63efac56b67f9f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.2.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261119144812
-- Commits: 0
+- Timing: 2026-11-19T22:06:02.129823+00:00 → 2026-11-19T22:36:02.417996+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`225bfb7`](https://github.com/sase-org/sase/commit/225bfb7ff24084ad4ffe3e9ba962d6d8c478784a) | perf(tui): replace skill-use whole-file snapshot cache with targeted scans | 2026-11-19 17:34:31 EST |
 
 ## Neighbors
 

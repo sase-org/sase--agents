@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ab177de3b99edaedfb63efac56b67f9f"}
+{"commits":[{"committed_at":1795127671,"sha":"225bfb7ff24084ad4ffe3e9ba962d6d8c478784a","subject":"perf(tui): replace skill-use whole-file snapshot cache with targeted scans"}],"schema_version":2,"source_run_id":"run-ab177de3b99edaedfb63efac56b67f9f"}
