@@ -1,8 +1,31 @@
 # Chat History - ace-run (sase-1tz.2.1.4--plan)
 
-- **TIMESTAMP:** 2026-11-19 12:52:58 EST
-- **MODEL:** grok/grok-4.6
+- **TIMESTAMP:** 2026-11-19 15:53:47 EST
+- **MODEL:** muse/muse-spark-1.3-contributor
 - **AGENT:** sase-1tz.2.1.4--plan
+
+# Monitor handoff
+
+This agent delegated the remaining work to a monitor turn.
+Monitor ID: yswha8vwcmpt
+Inspect with: sase monitor show yswha8vwcmpt
+Monitor turn: sase-1tz.2.1.4--mon
+Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_17
+
+Command:
+
+```sh
+sase tool run check
+```
+
+Reason:
+
+finish check (joined run)
+
+Next action:
+
+Bead sase-1tz.2.1.4 (pub_cleanup) work already landed as commit c756511c11 on master; tree is clean, no file changes this turn. Already verified: 41 targeted tests green (test_publication_cleanup_policy, test_publication_scratch, test_commit_publication_bounded_drain, test_workspace_retention_agents_scratch, test_commit_finalizer_git_status), sase_core_rs default_publication_cleanup_timeout()==15.0, sase bead epic-symbols clean. If the joined check run is green, close the bead with: sase bead close sase-1tz.2.1.4 --note <what verified>. If red, triage: failure reproducing on the clean base tree or environmental (Rust rebuild/wheel) goes as PROPOSED FOLLOW-UP via sase bead note and close anyway; a real regression in pub_cleanup scope stays open with a note. Never close ancestor beads.
+
 
 ## Prompt
 
@@ -40,4 +63,13 @@ single-agent tale unless one coder can clearly finish everything left.
 
 ## Response
 
+Done for this turn: the `pub_cleanup` work for bead `sase-1tz.2.1.4` already landed (commit `c756511c11` on master), the tree is clean with no file changes from me, and I verified the landed implementation instead of redoing it.
 
+Verified this turn:
+
+- All five required changes are present in the tree: drain alarm leaves a 15s cleanup reserve (`_drain_work_timeout`), ledger records `cleanup_result` (`completed`/`deferred`/`failed`) with deferred completion on the next pass, root-level `.sase-v2-stage-*`/`.sase-v2-backup-*` swept under the publisher lock after family restore, retention treats agents-sidecar scratch as non-session dirt while still claiming Q&A snapshots, and the baseline/dir-listing mismatch is fixed at its root.
+- 41 targeted tests pass: `test_publication_cleanup_policy.py`, `test_publication_scratch.py`, `test_commit_publication_bounded_drain.py`, plus `test_workspace_retention_agents_scratch.py` and `test_commit_finalizer_git_status.py`.
+- `sase_core_rs.default_publication_cleanup_timeout()` returns `15.0` (I refreshed the stale `.venv` wheel from `0.43.3` to `0.44.2` to match the `5ad60139` core change; environment-only, no repo files touched).
+- `sase bead epic-symbols sase-1tz.2.1.4` is clean — no leftover symbols.
+
+Not finished: full `just check` (run `1ac91db4452a98c814355d0c83545ed3`) is still rebuilding the Rust extension after its setup fast-forwarded the linked sase-core checkout, exceeding this turn's ceiling. I staged monitor `yswha8` to join that run; its follow-up closes `sase-1tz.2.1.4` if green, or triages red (base-tree/environmental failure → `PROPOSED FOLLOW-UP` + close; real `pub_cleanup` regression → stays open). The bead is intentionally left `in_progress` for that follow-up.

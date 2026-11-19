@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7f5f6d4f9c0c26b8875c490284f0b5d3"}
+{"commits":[{"committed_at":1795124340,"sha":"5f719a5361c407086763f5f2dd71282755cc1713","subject":"feat(agents-sync): report repeated publication failures as standing alerts with backoff"}],"schema_version":2,"source_run_id":"run-7f5f6d4f9c0c26b8875c490284f0b5d3"}
