@@ -23,29 +23,29 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`de816e0`](https://github.com/sase-org/sase/commit/de816e064b19a40f4490f4aa1407e0e8093de614) | feat(identity): expose owner-aware agent facade (sase-8v.1) | 2026-07-23 14:07:30 EDT |
+| — | `de816e0` | feat(identity): expose owner-aware agent facade (sase-8v.1) | 2026-07-23 14:07:30 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8v.10](../bbugyi200.athena.sase-8v.10/README.md) | sase-8v hood | active |
+| [sase-8v.10](../bbugyi200.athena.sase-8v.10/README.md) | sase-8v hood | dismissed |
 | [sase-8v.2](../../sessions/bbugyi200.athena.sase-8v.2.md) (session · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.2](../bbugyi200.athena.sase-8v.2/README.md) | sase-8v hood | completed |
 | [sase-8v.3](../../sessions/bbugyi200.athena.sase-8v.3.md) (session · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.3](../bbugyi200.athena.sase-8v.3/README.md) | sase-8v hood | completed |
-| [sase-8v.4](../../sessions/bbugyi200.athena.sase-8v.4.md) (session · 2) | sase-8v hood | active 1, completed 1 |
-| [sase-8v.5](../../sessions/bbugyi200.athena.sase-8v.5.md) (session · 2) | sase-8v hood | active 1, completed 1 |
+| [sase-8v.4](../../sessions/bbugyi200.athena.sase-8v.4.md) (session · 2) | sase-8v hood | completed 1, dismissed 1 |
+| [sase-8v.5](../../sessions/bbugyi200.athena.sase-8v.5.md) (session · 2) | sase-8v hood | completed 1, dismissed 1 |
 | [sase-8v.5](../bbugyi200.athena.sase-8v.5/README.md) | sase-8v hood | completed |
-| [sase-8v.6](../bbugyi200.athena.sase-8v.6/README.md) | sase-8v hood | active |
-| [sase-8v.7](../../sessions/bbugyi200.athena.sase-8v.7.md) (session · 2) | sase-8v hood | active 1, completed 1 |
+| [sase-8v.6](../bbugyi200.athena.sase-8v.6/README.md) | sase-8v hood | dismissed |
+| [sase-8v.7](../../sessions/bbugyi200.athena.sase-8v.7.md) (session · 2) | sase-8v hood | completed 1, dismissed 1 |
 | [sase-8v.7](../bbugyi200.athena.sase-8v.7/README.md) | sase-8v hood | completed |
-| [sase-8v.8](../bbugyi200.athena.sase-8v.8/README.md) | sase-8v hood | active |
+| [sase-8v.8](../bbugyi200.athena.sase-8v.8/README.md) | sase-8v hood | dismissed |
 | [sase-8v.9](../bbugyi200.athena.sase-8v.9/README.md) | sase-8v hood | active |
-| [sase-8v.land](../bbugyi200.athena.sase-8v.land/README.md) | sase-8v hood | active |
+| [sase-8v.land](../bbugyi200.athena.sase-8v.land/README.md) | sase-8v hood | dismissed |
 | [sase-8v.land.f0](../bbugyi200.athena.sase-8v.land.f0/README.md) | sase-8v hood | dismissed |
 | [sase-8v.land.f1](../bbugyi200.athena.sase-8v.land.f1/README.md) | sase-8v hood | dismissed |
 | [sase-8v.land.f2](../bbugyi200.athena.sase-8v.land.f2/README.md) | sase-8v hood | waiting |
-| [sase-8v.land.f3](../bbugyi200.athena.sase-8v.land.f3/README.md) | sase-8v hood | waiting |
+| [sase-8v.land.f3](../bbugyi200.athena.sase-8v.land.f3/README.md) | sase-8v hood | dismissed |
 | [sase-8v.land.w0](../bbugyi200.athena.sase-8v.land.w0/README.md) | sase-8v hood | dismissed |
 | [sase-8v.land.w2](../bbugyi200.athena.sase-8v.land.w2/README.md) | sase-8v hood | dismissed |

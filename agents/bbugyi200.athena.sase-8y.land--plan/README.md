@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-8y](../../users/bbugyi200/machines/athena/hoods/sase-8y/README.md) / [sase-8y.land](../../sessions/bbugyi200.athena.sase-8y.land.md) / sase-8y.land--plan
 
-**Global name:** `bbugyi200.athena.sase-8y.land--plan` · **State:** active · **Source run:** `run-73def10800fdc01f9e56c63845211eba`
+**Global name:** `bbugyi200.athena.sase-8y.land--plan` · **State:** dismissed · **Source run:** `run-73def10800fdc01f9e56c63845211eba`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-8y
 
@@ -11,7 +11,7 @@
 - Bead: [sase-8y](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8y/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-24T22:07:00.207735+00:00
+- Timing: 2026-07-24T18:07:00.207735 → 2026-07-24T19:13:25.962493
 - Commits: 0
 
 ## Files
@@ -22,10 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8y.1](../bbugyi200.athena.sase-8y.1/README.md) | sase-8y hood | active |
-| [sase-8y.2](../bbugyi200.athena.sase-8y.2/README.md) | sase-8y hood | active |
-| [sase-8y.3](../bbugyi200.athena.sase-8y.3/README.md) | sase-8y hood | active |
-| [sase-8y.4](../bbugyi200.athena.sase-8y.4/README.md) | sase-8y hood | active |
-| [sase-8y.5](../bbugyi200.athena.sase-8y.5/README.md) | sase-8y hood | active |
-| [sase-8y.6](../bbugyi200.athena.sase-8y.6/README.md) | sase-8y hood | active |
-| [sase-8y.7](../bbugyi200.athena.sase-8y.7/README.md) | sase-8y hood | active |
+| [sase-8y.1](../bbugyi200.athena.sase-8y.1/README.md) | sase-8y hood | dismissed |
+| [sase-8y.2](../bbugyi200.athena.sase-8y.2/README.md) | sase-8y hood | dismissed |
+| [sase-8y.3](../bbugyi200.athena.sase-8y.3/README.md) | sase-8y hood | dismissed |
+| [sase-8y.4](../bbugyi200.athena.sase-8y.4/README.md) | sase-8y hood | dismissed |
+| [sase-8y.5](../bbugyi200.athena.sase-8y.5/README.md) | sase-8y hood | dismissed |
+| [sase-8y.6](../bbugyi200.athena.sase-8y.6/README.md) | sase-8y hood | dismissed |
+| [sase-8y.7](../bbugyi200.athena.sase-8y.7/README.md) | sase-8y hood | dismissed |
