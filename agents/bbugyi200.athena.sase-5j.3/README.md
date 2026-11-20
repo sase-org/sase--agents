@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5568489`](https://github.com/sase-org/sase/commit/556848902da6b636b3c46e55cc6377852350f894) | feat: add SDD companion repo config (sase-5j.3) | 2026-07-08 00:37:11 EDT |
+| — | `5568489` | feat: add SDD companion repo config (sase-5j.3) | 2026-07-08 00:37:11 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5j](../../sessions/bbugyi200.athena.sase-5j.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5j](../../sessions/bbugyi200.athena.sase-5j.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5j.1](../bbugyi200.athena.sase-5j.1/README.md) | sase-5j hood | dismissed |
 | [sase-5j.2](../bbugyi200.athena.sase-5j.2/README.md) | sase-5j hood | dismissed |
 | [sase-5j.4](../bbugyi200.athena.sase-5j.4/README.md) | sase-5j hood | dismissed |

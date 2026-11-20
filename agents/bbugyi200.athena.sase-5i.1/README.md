@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`52349bd`](https://github.com/sase-org/sase/commit/52349bdf0c64920942ee50d885c87f158e895111) | feat: add VCS ref completion foundations (sase-5i.1) | 2026-07-07 16:47:07 EDT |
-| sase | [`0fcf8a2`](https://github.com/sase-org/sase/commit/0fcf8a203584482ea474d9479e9a80839177bc46) | test: update agent detail fake for tools footer | 2026-07-07 16:52:27 EDT |
+| — | `52349bd` | feat: add VCS ref completion foundations (sase-5i.1) | 2026-07-07 16:47:07 EDT |
+| — | `0fcf8a2` | test: update agent detail fake for tools footer | 2026-07-07 16:52:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5i](../../sessions/bbugyi200.athena.sase-5i.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5i](../../sessions/bbugyi200.athena.sase-5i.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5i.2](../bbugyi200.athena.sase-5i.2/README.md) | sase-5i hood | dismissed |
 | [sase-5i.3](../bbugyi200.athena.sase-5i.3/README.md) | sase-5i hood | dismissed |
 | [sase-5i.4](../bbugyi200.athena.sase-5i.4/README.md) | sase-5i hood | dismissed |

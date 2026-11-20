@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d105287`](https://github.com/sase-org/sase/commit/d1052879babb499661ae4fd9873974cbcb44e5c2) | feat(sdd): add provider SDD materialization plumbing (sase-5j.2) | 2026-07-08 00:17:34 EDT |
+| — | `d105287` | feat(sdd): add provider SDD materialization plumbing (sase-5j.2) | 2026-07-08 00:17:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5j](../../sessions/bbugyi200.athena.sase-5j.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5j](../../sessions/bbugyi200.athena.sase-5j.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5j.1](../bbugyi200.athena.sase-5j.1/README.md) | sase-5j hood | dismissed |
 | [sase-5j.3](../bbugyi200.athena.sase-5j.3/README.md) | sase-5j hood | dismissed |
 | [sase-5j.4](../bbugyi200.athena.sase-5j.4/README.md) | sase-5j hood | dismissed |

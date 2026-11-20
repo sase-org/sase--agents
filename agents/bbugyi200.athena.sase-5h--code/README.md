@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5449f87`](https://github.com/sase-org/sase/commit/5449f871cdad3c2c1bc80a1feafe1cd7359120d1) | test: close repo completion verification gaps (sase-5h) | 2026-07-07 15:24:45 EDT |
+| — | `5449f87` | test: close repo completion verification gaps (sase-5h) | 2026-07-07 15:24:45 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@
 | [sase-5h.5](../bbugyi200.athena.sase-5h.5/README.md) | descendant | dismissed |
 | [sase-5h.6](../bbugyi200.athena.sase-5h.6/README.md) | descendant | dismissed |
 | [sase-5h.6.f1](../bbugyi200.athena.sase-5h.6.f1/README.md) | descendant | dismissed |
-| [sase-5h.w1](../../sessions/bbugyi200.athena.sase-5h.w1.md) (session · 2) | descendant | active 2 |
+| [sase-5h.w1](../../sessions/bbugyi200.athena.sase-5h.w1.md) (session · 2) | descendant | active 1, dismissed 1 |

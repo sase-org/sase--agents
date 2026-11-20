@@ -22,17 +22,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6405eac`](https://github.com/sase-org/sase/commit/6405eac1a3d3df9a29fd95e44c941e3d10734119) | feat(ace): add VCS repo completion menu (sase-5h.3) | 2026-07-07 14:16:52 EDT |
+| — | `6405eac` | feat(ace): add VCS repo completion menu (sase-5h.3) | 2026-07-07 14:16:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5h](../../sessions/bbugyi200.athena.sase-5h.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5h](../../sessions/bbugyi200.athena.sase-5h.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5h.1](../bbugyi200.athena.sase-5h.1/README.md) | sase-5h hood | dismissed |
 | [sase-5h.2](../bbugyi200.athena.sase-5h.2/README.md) | sase-5h hood | dismissed |
 | [sase-5h.4](../bbugyi200.athena.sase-5h.4/README.md) | sase-5h hood | dismissed |
 | [sase-5h.5](../bbugyi200.athena.sase-5h.5/README.md) | sase-5h hood | dismissed |
 | [sase-5h.6](../bbugyi200.athena.sase-5h.6/README.md) | sase-5h hood | dismissed |
 | [sase-5h.6.f1](../bbugyi200.athena.sase-5h.6.f1/README.md) | sase-5h hood | dismissed |
-| [sase-5h.w1](../../sessions/bbugyi200.athena.sase-5h.w1.md) (session · 2) | sase-5h hood | active 2 |
+| [sase-5h.w1](../../sessions/bbugyi200.athena.sase-5h.w1.md) (session · 2) | sase-5h hood | active 1, dismissed 1 |

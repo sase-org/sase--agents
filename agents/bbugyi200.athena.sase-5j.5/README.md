@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ee106e0`](https://github.com/sase-org/sase/commit/ee106e0b398465119898e01836584d95f709c7a7) | feat: add SDD path discovery for agents (sase-5j.5) | 2026-07-08 00:23:25 EDT |
+| — | `ee106e0` | feat: add SDD path discovery for agents (sase-5j.5) | 2026-07-08 00:23:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5j](../../sessions/bbugyi200.athena.sase-5j.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5j](../../sessions/bbugyi200.athena.sase-5j.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5j.1](../bbugyi200.athena.sase-5j.1/README.md) | sase-5j hood | dismissed |
 | [sase-5j.2](../bbugyi200.athena.sase-5j.2/README.md) | sase-5j hood | dismissed |
 | [sase-5j.3](../bbugyi200.athena.sase-5j.3/README.md) | sase-5j hood | dismissed |

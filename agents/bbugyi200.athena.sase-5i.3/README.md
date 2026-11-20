@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`461aae3`](https://github.com/sase-org/sase/commit/461aae3b8384187ac4df208a117a81e55a6db4ea) | feat: wire VCS ref completion into TUI (sase-5i.3) | 2026-07-07 17:22:38 EDT |
+| — | `461aae3` | feat: wire VCS ref completion into TUI (sase-5i.3) | 2026-07-07 17:22:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5i](../../sessions/bbugyi200.athena.sase-5i.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5i](../../sessions/bbugyi200.athena.sase-5i.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5i.1](../bbugyi200.athena.sase-5i.1/README.md) | sase-5i hood | dismissed |
 | [sase-5i.2](../bbugyi200.athena.sase-5i.2/README.md) | sase-5i hood | dismissed |
 | [sase-5i.4](../bbugyi200.athena.sase-5i.4/README.md) | sase-5i hood | dismissed |

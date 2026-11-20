@@ -22,17 +22,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c906720`](https://github.com/sase-org/sase/commit/c9067204dbdde01167a94a700e628c111d621bca) | chore(beads): close sase-5h.4 | 2026-07-07 14:07:44 EDT |
+| — | `c906720` | chore(beads): close sase-5h.4 | 2026-07-07 14:07:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5h](../../sessions/bbugyi200.athena.sase-5h.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5h](../../sessions/bbugyi200.athena.sase-5h.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5h.1](../bbugyi200.athena.sase-5h.1/README.md) | sase-5h hood | dismissed |
 | [sase-5h.2](../bbugyi200.athena.sase-5h.2/README.md) | sase-5h hood | dismissed |
 | [sase-5h.3](../bbugyi200.athena.sase-5h.3/README.md) | sase-5h hood | dismissed |
 | [sase-5h.5](../bbugyi200.athena.sase-5h.5/README.md) | sase-5h hood | dismissed |
 | [sase-5h.6](../bbugyi200.athena.sase-5h.6/README.md) | sase-5h hood | dismissed |
 | [sase-5h.6.f1](../bbugyi200.athena.sase-5h.6.f1/README.md) | sase-5h hood | dismissed |
-| [sase-5h.w1](../../sessions/bbugyi200.athena.sase-5h.w1.md) (session · 2) | sase-5h hood | active 2 |
+| [sase-5h.w1](../../sessions/bbugyi200.athena.sase-5h.w1.md) (session · 2) | sase-5h hood | active 1, dismissed 1 |

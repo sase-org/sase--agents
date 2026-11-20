@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-5i](../../users/bbugyi200/machines/athena/hoods/sase-5i/README.md) / [sase-5i](../../sessions/bbugyi200.athena.sase-5i.md) / sase-5i
 
-**Global name:** `bbugyi200.athena.sase-5i` · **State:** active · **Source run:** `run-6973fb065e832853cbaea1d444742701`
+**Global name:** `bbugyi200.athena.sase-5i` · **State:** dismissed · **Source run:** `run-6973fb065e832853cbaea1d444742701`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-5i
 
@@ -11,7 +11,7 @@
 - Bead: [sase-5i](https://github.com/sase-org/sase--beads/blob/main/pages/sase-5i/README.md)
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-07-07T21:48:16.774820+00:00
+- Timing: 2026-07-07T17:48:16.774820 → 2026-07-07T18:23:50.724502
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1a73a30`](https://github.com/sase-org/sase/commit/1a73a30c9b5e805d4ba4e834878f4b3fc3ecf02b) | chore: Add SDD prompt and plan for close\_sase\_5i\_parity\_and\_test\_gaps (sase-5i) | 2026-07-07 18:01:45 EDT |
+| — | `1a73a30` | chore: Add SDD prompt and plan for close\_sase\_5i\_parity\_and\_test\_gaps (sase-5i) | 2026-07-07 18:01:45 EDT |
 
 ## Neighbors
 

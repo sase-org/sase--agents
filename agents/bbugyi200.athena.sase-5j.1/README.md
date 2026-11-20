@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4637a8a`](https://github.com/sase-org/sase/commit/4637a8aa15539c4955eb696fb9a83d1c4362013a) | refactor(sdd): introduce storage policy resolver (sase-5j.1) | 2026-07-07 23:55:25 EDT |
+| — | `4637a8a` | refactor(sdd): introduce storage policy resolver (sase-5j.1) | 2026-07-07 23:55:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5j](../../sessions/bbugyi200.athena.sase-5j.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5j](../../sessions/bbugyi200.athena.sase-5j.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5j.2](../bbugyi200.athena.sase-5j.2/README.md) | sase-5j hood | dismissed |
 | [sase-5j.3](../bbugyi200.athena.sase-5j.3/README.md) | sase-5j hood | dismissed |
 | [sase-5j.4](../bbugyi200.athena.sase-5j.4/README.md) | sase-5j hood | dismissed |

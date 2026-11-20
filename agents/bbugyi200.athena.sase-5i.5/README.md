@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e34b9f5`](https://github.com/sase-org/sase/commit/e34b9f5d35e58eb1f49631a407255f4e5b8a002d) | chore(beads): close sase-5i.5 | 2026-07-07 17:32:33 EDT |
+| — | `e34b9f5` | chore(beads): close sase-5i.5 | 2026-07-07 17:32:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5i](../../sessions/bbugyi200.athena.sase-5i.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5i](../../sessions/bbugyi200.athena.sase-5i.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5i.1](../bbugyi200.athena.sase-5i.1/README.md) | sase-5i hood | dismissed |
 | [sase-5i.2](../bbugyi200.athena.sase-5i.2/README.md) | sase-5i hood | dismissed |
 | [sase-5i.3](../bbugyi200.athena.sase-5i.3/README.md) | sase-5i hood | dismissed |

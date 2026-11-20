@@ -21,17 +21,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f71fb6f`](https://github.com/sase-org/sase/commit/f71fb6f9cca5bd9f7718953ef650c6704f2d18e4) | docs: require user permission for memory edits | 2026-07-07 15:16:59 EDT |
+| — | `f71fb6f` | docs: require user permission for memory edits | 2026-07-07 15:16:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-5h.6](../bbugyi200.athena.sase-5h.6/README.md) | ancestor | dismissed |
-| [sase-5h](../../sessions/bbugyi200.athena.sase-5h.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5h](../../sessions/bbugyi200.athena.sase-5h.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5h.1](../bbugyi200.athena.sase-5h.1/README.md) | sase-5h hood | dismissed |
 | [sase-5h.2](../bbugyi200.athena.sase-5h.2/README.md) | sase-5h hood | dismissed |
 | [sase-5h.3](../bbugyi200.athena.sase-5h.3/README.md) | sase-5h hood | dismissed |
 | [sase-5h.4](../bbugyi200.athena.sase-5h.4/README.md) | sase-5h hood | dismissed |
 | [sase-5h.5](../bbugyi200.athena.sase-5h.5/README.md) | sase-5h hood | dismissed |
-| [sase-5h.w1](../../sessions/bbugyi200.athena.sase-5h.w1.md) (session · 2) | sase-5h hood | active 2 |
+| [sase-5h.w1](../../sessions/bbugyi200.athena.sase-5h.w1.md) (session · 2) | sase-5h hood | active 1, dismissed 1 |

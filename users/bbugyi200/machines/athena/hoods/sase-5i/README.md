@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-5i
 
-**Global hood:** `bbugyi200.athena.sase-5i` · **Runs:** 8 · **Sessions:** 1 · **States:** active 1, completed 1, dismissed 6
+**Global hood:** `bbugyi200.athena.sase-5i` · **Runs:** 8 · **Sessions:** 1 · **States:** completed 1, dismissed 7
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -11,6 +11,6 @@
 | [sase-5i.3](../../../../../../agents/bbugyi200.athena.sase-5i.3/README.md) | dismissed | gpt-5.5 / codex | 2026-07-07T16:53:07.005203 → 2026-07-07T17:23:33.713089 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5i.3/chat.md) |
 | [sase-5i.5](../../../../../../agents/bbugyi200.athena.sase-5i.5/README.md) | dismissed | gpt-5.5 / codex | 2026-07-07T17:12:56.797530 → 2026-07-07T17:33:35.641220 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5i.5/chat.md) |
 | [sase-5i--code](../../../../../../sessions/bbugyi200.athena.sase-5i.md#member-code) | completed | gpt-5.5 / codex | 2026-07-07T22:01:47.854404+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5i--code/chat.md) |
-| [sase-5i](../../../../../../agents/bbugyi200.athena.sase-5i/README.md) | active | claude-fable-5 / claude | 2026-07-07T21:48:16.774820+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5i/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-5i/prompt.md) |
+| [sase-5i](../../../../../../agents/bbugyi200.athena.sase-5i/README.md) | dismissed | claude-fable-5 / claude | 2026-07-07T17:48:16.774820 → 2026-07-07T18:23:50.724502 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5i/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-5i/prompt.md) |
 | [sase-5i.6](../../../../../../agents/bbugyi200.athena.sase-5i.6/README.md) | dismissed | gpt-5.5 / codex | 2026-07-07T17:33:49.165187 → 2026-07-07T17:48:06.637826 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5i.6/chat.md) |
 | [sase-5i.4](../../../../../../agents/bbugyi200.athena.sase-5i.4/README.md) | dismissed | gpt-5.5 / codex | 2026-07-07T16:53:07.075972 → 2026-07-07T17:12:45.142476 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5i.4/chat.md) |

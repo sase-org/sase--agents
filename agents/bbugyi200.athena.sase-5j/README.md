@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-5j](../../users/bbugyi200/machines/athena/hoods/sase-5j/README.md) / [sase-5j](../../sessions/bbugyi200.athena.sase-5j.md) / sase-5j
 
-**Global name:** `bbugyi200.athena.sase-5j` · **State:** active · **Source run:** `run-6f1e91feb2111491d4283fc0dd3fb906`
+**Global name:** `bbugyi200.athena.sase-5j` · **State:** dismissed · **Source run:** `run-6f1e91feb2111491d4283fc0dd3fb906`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-5j
 
@@ -11,7 +11,7 @@
 - Bead: [sase-5j](https://github.com/sase-org/sase--beads/blob/main/pages/sase-5j/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-08T06:35:32.287566+00:00
+- Timing: 2026-07-08T02:35:32.287566 → 2026-07-08T02:59:14.984667
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bb46c64`](https://github.com/sase-org/sase/commit/bb46c640baa116f6e8732cfd7ec4718dfd45cc32) | chore: Add SDD prompt and plan for sase\_5j\_finish | 2026-07-08 02:47:11 EDT |
+| — | `bb46c64` | chore: Add SDD prompt and plan for sase\_5j\_finish | 2026-07-08 02:47:11 EDT |
 
 ## Neighbors
 
