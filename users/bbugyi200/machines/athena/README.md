@@ -1676,9 +1676,9 @@
 | [sase-5e](hoods/sase-5e/README.md) | 6 | 0 | completed 6 |
 | [sase-5f](hoods/sase-5f/README.md) | 7 | 0 | completed 7 |
 | [sase-5g](hoods/sase-5g/README.md) | 13 | 0 | active 1, completed 12 |
-| [sase-5h](hoods/sase-5h/README.md) | 11 | 2 | active 3, completed 1, dismissed 7 |
-| [sase-5i](hoods/sase-5i/README.md) | 8 | 1 | active 1, completed 1, dismissed 6 |
-| [sase-5j](hoods/sase-5j/README.md) | 10 | 1 | active 1, completed 1, dismissed 6, waiting 2 |
+| [sase-5h](hoods/sase-5h/README.md) | 11 | 2 | active 1, completed 1, dismissed 9 |
+| [sase-5i](hoods/sase-5i/README.md) | 8 | 1 | completed 1, dismissed 7 |
+| [sase-5j](hoods/sase-5j/README.md) | 10 | 1 | completed 1, dismissed 7, waiting 2 |
 | [sase-5k](hoods/sase-5k/README.md) | 5 | 0 | dismissed 5 |
 | [sase-5l](hoods/sase-5l/README.md) | 16 | 0 | dismissed 16 |
 | [sase-5m](hoods/sase-5m/README.md) | 6 | 0 | dismissed 6 |
