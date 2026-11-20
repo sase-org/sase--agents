@@ -18,13 +18,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a643a86`](https://github.com/sase-org/sase/commit/a643a864c33b1eb864f570c9e009ff89d313a69f) | fix(sdd): keep published core integration commit-safe (sase-af) | 2026-07-28 12:18:15 EDT |
+| — | `a643a86` | fix(sdd): keep published core integration commit-safe (sase-af) | 2026-07-28 12:18:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-af.land.f0](../bbugyi200.athena.sase-af.land.f0/README.md) | descendant | waiting |
-| [sase-af.1](../bbugyi200.athena.sase-af.1/README.md) | sase-af hood | active |
-| [sase-af.2](../bbugyi200.athena.sase-af.2/README.md) | sase-af hood | active |
-| [sase-af.3](../bbugyi200.athena.sase-af.3/README.md) | sase-af hood | active |
+| [sase-af.land.f0](../bbugyi200.athena.sase-af.land.f0/README.md) | descendant | dismissed |
+| [sase-af.1](../bbugyi200.athena.sase-af.1/README.md) | sase-af hood | dismissed |
+| [sase-af.2](../bbugyi200.athena.sase-af.2/README.md) | sase-af hood | dismissed |
+| [sase-af.3](../bbugyi200.athena.sase-af.3/README.md) | sase-af hood | dismissed |

@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7d85188`](https://github.com/sase-org/sase/commit/7d85188c18080e4e986e8fd65394144c8ae9ce2f) | test(skills): cover backwards manifest ABA refusal (sase-ae) | 2026-07-28 10:11:00 EDT |
+| — | `7d85188` | test(skills): cover backwards manifest ABA refusal (sase-ae) | 2026-07-28 10:11:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ae.1](../bbugyi200.athena.sase-ae.1/README.md) | sase-ae hood | active |
-| [sase-ae.2](../bbugyi200.athena.sase-ae.2/README.md) | sase-ae hood | active |
-| [sase-ae.3](../bbugyi200.athena.sase-ae.3/README.md) | sase-ae hood | active |
-| [sase-ae.4](../bbugyi200.athena.sase-ae.4/README.md) | sase-ae hood | active |
-| [sase-ae.5](../bbugyi200.athena.sase-ae.5/README.md) | sase-ae hood | active |
-| [sase-ae.6](../../sessions/bbugyi200.athena.sase-ae.6.md) (session · 2) | sase-ae hood | active 1, completed 1 |
+| [sase-ae.1](../bbugyi200.athena.sase-ae.1/README.md) | sase-ae hood | dismissed |
+| [sase-ae.2](../bbugyi200.athena.sase-ae.2/README.md) | sase-ae hood | dismissed |
+| [sase-ae.3](../bbugyi200.athena.sase-ae.3/README.md) | sase-ae hood | dismissed |
+| [sase-ae.4](../bbugyi200.athena.sase-ae.4/README.md) | sase-ae hood | dismissed |
+| [sase-ae.5](../bbugyi200.athena.sase-ae.5/README.md) | sase-ae hood | dismissed |
+| [sase-ae.6](../../sessions/bbugyi200.athena.sase-ae.6.md) (session · 2) | sase-ae hood | completed 1, dismissed 1 |

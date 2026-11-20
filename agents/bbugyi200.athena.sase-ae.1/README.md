@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ae](../../users/bbugyi200/machines/athena/hoods/sase-ae/README.md) / sase-ae.1
 
-**Global name:** `bbugyi200.athena.sase-ae.1` · **State:** active · **Source run:** `run-d590d01f996c2a6ae9753850c1348a9f`
+**Global name:** `bbugyi200.athena.sase-ae.1` · **State:** dismissed · **Source run:** `run-d590d01f996c2a6ae9753850c1348a9f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ae
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ae](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ae/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-28T11:58:44.642263+00:00
+- Timing: 2026-07-28T07:58:44.642263 → 2026-07-28T08:25:12.165735
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3537aa1`](https://github.com/sase-org/sase/commit/3537aa141d844123c02fbca3552dbcc669673b3d) | feat(skills): guard chezmoi deploy source integrity (sase-ae.1) | 2026-07-28 08:24:10 EDT |
+| — | `3537aa1` | feat(skills): guard chezmoi deploy source integrity (sase-ae.1) | 2026-07-28 08:24:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ae.2](../bbugyi200.athena.sase-ae.2/README.md) | sase-ae hood | active |
-| [sase-ae.3](../bbugyi200.athena.sase-ae.3/README.md) | sase-ae hood | active |
-| [sase-ae.4](../bbugyi200.athena.sase-ae.4/README.md) | sase-ae hood | active |
-| [sase-ae.5](../bbugyi200.athena.sase-ae.5/README.md) | sase-ae hood | active |
-| [sase-ae.6](../../sessions/bbugyi200.athena.sase-ae.6.md) (session · 2) | sase-ae hood | active 1, completed 1 |
-| [sase-ae.land](../../sessions/bbugyi200.athena.sase-ae.land.md) (session · 2) | sase-ae hood | active 1, completed 1 |
+| [sase-ae.2](../bbugyi200.athena.sase-ae.2/README.md) | sase-ae hood | dismissed |
+| [sase-ae.3](../bbugyi200.athena.sase-ae.3/README.md) | sase-ae hood | dismissed |
+| [sase-ae.4](../bbugyi200.athena.sase-ae.4/README.md) | sase-ae hood | dismissed |
+| [sase-ae.5](../bbugyi200.athena.sase-ae.5/README.md) | sase-ae hood | dismissed |
+| [sase-ae.6](../../sessions/bbugyi200.athena.sase-ae.6.md) (session · 2) | sase-ae hood | completed 1, dismissed 1 |
+| [sase-ae.land](../../sessions/bbugyi200.athena.sase-ae.land.md) (session · 2) | sase-ae hood | completed 1, dismissed 1 |

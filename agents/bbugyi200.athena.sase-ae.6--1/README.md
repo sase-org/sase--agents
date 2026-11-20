@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`53d732f`](https://github.com/sase-org/sase/commit/53d732f30e91839e58eee9047d6e6b5a18cd248f) | docs: document the commit-then-deploy skill workflow (sase-ae.6) | 2026-07-28 09:48:41 EDT |
+| — | `53d732f` | docs: document the commit-then-deploy skill workflow (sase-ae.6) | 2026-07-28 09:48:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ae.1](../bbugyi200.athena.sase-ae.1/README.md) | sase-ae hood | active |
-| [sase-ae.2](../bbugyi200.athena.sase-ae.2/README.md) | sase-ae hood | active |
-| [sase-ae.3](../bbugyi200.athena.sase-ae.3/README.md) | sase-ae hood | active |
-| [sase-ae.4](../bbugyi200.athena.sase-ae.4/README.md) | sase-ae hood | active |
-| [sase-ae.5](../bbugyi200.athena.sase-ae.5/README.md) | sase-ae hood | active |
-| [sase-ae.land](../../sessions/bbugyi200.athena.sase-ae.land.md) (session · 2) | sase-ae hood | active 1, completed 1 |
+| [sase-ae.1](../bbugyi200.athena.sase-ae.1/README.md) | sase-ae hood | dismissed |
+| [sase-ae.2](../bbugyi200.athena.sase-ae.2/README.md) | sase-ae hood | dismissed |
+| [sase-ae.3](../bbugyi200.athena.sase-ae.3/README.md) | sase-ae hood | dismissed |
+| [sase-ae.4](../bbugyi200.athena.sase-ae.4/README.md) | sase-ae hood | dismissed |
+| [sase-ae.5](../bbugyi200.athena.sase-ae.5/README.md) | sase-ae hood | dismissed |
+| [sase-ae.land](../../sessions/bbugyi200.athena.sase-ae.land.md) (session · 2) | sase-ae hood | completed 1, dismissed 1 |
