@@ -22,11 +22,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9292056`](https://github.com/sase-org/sase/commit/9292056356591c4c58558300dafe03dfb0082fa7) | fix(ace): deduplicate selected wait clauses | 2026-07-19 14:58:39 EDT |
+| — | `9292056` | fix(ace): deduplicate selected wait clauses | 2026-07-19 14:58:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7h.1](../bbugyi200.athena.sase-7h.1/README.md) | sase-7h hood | active |
-| [sase-7h.2](../bbugyi200.athena.sase-7h.2/README.md) | sase-7h hood | active |
+| [sase-7h.1](../bbugyi200.athena.sase-7h.1/README.md) | sase-7h hood | dismissed |
+| [sase-7h.2](../bbugyi200.athena.sase-7h.2/README.md) | sase-7h hood | dismissed |

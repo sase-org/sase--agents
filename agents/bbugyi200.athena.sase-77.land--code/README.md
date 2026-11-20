@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bd7f969`](https://github.com/sase-org/sase/commit/bd7f969711101f08a5867fa6821933f29f4f5f2b) | fix(sdd): expose the shared lock retry schedule (sase-77) | 2026-07-19 13:16:40 EDT |
+| — | `bd7f969` | fix(sdd): expose the shared lock retry schedule (sase-77) | 2026-07-19 13:16:40 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-77.1](../bbugyi200.athena.sase-77.1/README.md) | sase-77 hood | active |
-| [sase-77.2](../bbugyi200.athena.sase-77.2/README.md) | sase-77 hood | active |
-| [sase-77.3](../bbugyi200.athena.sase-77.3/README.md) | sase-77 hood | active |
-| [sase-77.4](../bbugyi200.athena.sase-77.4/README.md) | sase-77 hood | active |
+| [sase-77.1](../bbugyi200.athena.sase-77.1/README.md) | sase-77 hood | dismissed |
+| [sase-77.2](../bbugyi200.athena.sase-77.2/README.md) | sase-77 hood | dismissed |
+| [sase-77.3](../bbugyi200.athena.sase-77.3/README.md) | sase-77 hood | dismissed |
+| [sase-77.4](../bbugyi200.athena.sase-77.4/README.md) | sase-77 hood | dismissed |
