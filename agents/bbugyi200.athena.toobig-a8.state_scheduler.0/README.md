@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-a8.test\_launchable\_mru.0](../bbugyi200.athena.toobig-a8.test_launchable_mru.0/README.md) | toobig-a8 hood | active |
+| [toobig-a8.test\_launchable\_mru.0](../bbugyi200.athena.toobig-a8.test_launchable_mru.0/README.md) | toobig-a8 hood | completed |
