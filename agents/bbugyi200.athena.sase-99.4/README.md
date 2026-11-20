@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`23c0061`](https://github.com/sase-org/sase/commit/23c0061450fdeeb83dc6644ea1918391c6aef9e8) | feat(ace): add digit jumps for lane neighbors (sase-99.4) | 2026-07-25 11:58:58 EDT |
+| — | `23c0061` | feat(ace): add digit jumps for lane neighbors (sase-99.4) | 2026-07-25 11:58:58 EDT |
 
 ## Neighbors
 
@@ -34,7 +34,7 @@
 | [sase-99.3](../bbugyi200.athena.sase-99.3/README.md) | sase-99 hood | active |
 | [sase-99.5](../bbugyi200.athena.sase-99.5/README.md) | sase-99 hood | active |
 | [sase-99.land](../bbugyi200.athena.sase-99.land/README.md) | sase-99 hood | active |
-| [sase-99.land.f2](../../sessions/bbugyi200.athena.sase-99.land.f2.md) (session · 2) | sase-99 hood | active 1, completed 1 |
+| [sase-99.land.f2](../../sessions/bbugyi200.athena.sase-99.land.f2.md) (session · 2) | sase-99 hood | completed 1, dismissed 1 |
 | [sase-99.land.f2](../bbugyi200.athena.sase-99.land.f2/README.md) | sase-99 hood | completed |
-| [sase-99.land.f3](../../sessions/bbugyi200.athena.sase-99.land.f3.md) (session · 2) | sase-99 hood | active 1, completed 1 |
+| [sase-99.land.f3](../../sessions/bbugyi200.athena.sase-99.land.f3.md) (session · 2) | sase-99 hood | completed 1, dismissed 1 |
 | [sase-99.land.f3](../bbugyi200.athena.sase-99.land.f3/README.md) | sase-99 hood | completed |

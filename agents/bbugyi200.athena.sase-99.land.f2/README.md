@@ -17,14 +17,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ea6edc`](https://github.com/sase-org/sase/commit/9ea6edc3ec5de0c221223ec61b7f508ec73ea146) | fix(ace): key agent lanes by the name they present | 2026-07-25 16:16:43 EDT |
+| — | `9ea6edc` | fix(ace): key agent lanes by the name they present | 2026-07-25 16:16:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-99.land](../bbugyi200.athena.sase-99.land/README.md) | ancestor | active |
-| [sase-99.land.f3](../../sessions/bbugyi200.athena.sase-99.land.f3.md) (session · 2) | sase-99.land hood | active 1, completed 1 |
+| [sase-99.land.f3](../../sessions/bbugyi200.athena.sase-99.land.f3.md) (session · 2) | sase-99.land hood | completed 1, dismissed 1 |
 | [sase-99.land.f3](../bbugyi200.athena.sase-99.land.f3/README.md) | sase-99.land hood | completed |
 | [sase-99.1](../bbugyi200.athena.sase-99.1/README.md) | sase-99 hood | active |
 | [sase-99.2](../bbugyi200.athena.sase-99.2/README.md) | sase-99 hood | active |

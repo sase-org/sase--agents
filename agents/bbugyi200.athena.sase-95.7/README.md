@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-95](../../users/bbugyi200/machines/athena/hoods/sase-95/README.md) / sase-95.7
 
-**Global name:** `bbugyi200.athena.sase-95.7` · **State:** active · **Source run:** `run-cb60184a1a075738820156af1dbb1ca5`
+**Global name:** `bbugyi200.athena.sase-95.7` · **State:** dismissed · **Source run:** `run-cb60184a1a075738820156af1dbb1ca5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-95
 
@@ -12,7 +12,7 @@
 - Epic: [sase-95](https://github.com/sase-org/sase--beads/blob/main/pages/sase-95/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-07-25T15:06:01.160988+00:00
+- Timing: 2026-07-25T11:06:01.160988 → 2026-07-25T11:27:44.077324
 - Commits: [1](#commits)
 
 ## Files
@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`441882d`](https://github.com/sase-org/sase/commit/441882db9949c7f057bd7e68a2be0aaeffc986bd) | feat(beads): route approved epic launch through the task runner (sase-95.7) | 2026-07-25 11:27:04 EDT |
+| — | `441882d` | feat(beads): route approved epic launch through the task runner (sase-95.7) | 2026-07-25 11:27:04 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-95.1](../bbugyi200.athena.sase-95.1/README.md) | sase-95 hood | active |
-| [sase-95.2](../bbugyi200.athena.sase-95.2/README.md) | sase-95 hood | active |
-| [sase-95.3](../bbugyi200.athena.sase-95.3/README.md) | sase-95 hood | active |
-| [sase-95.4](../bbugyi200.athena.sase-95.4/README.md) | sase-95 hood | active |
-| [sase-95.5](../bbugyi200.athena.sase-95.5/README.md) | sase-95 hood | active |
-| [sase-95.6](../bbugyi200.athena.sase-95.6/README.md) | sase-95 hood | active |
-| [sase-95.8](../bbugyi200.athena.sase-95.8/README.md) | sase-95 hood | active |
-| [sase-95.land](../bbugyi200.athena.sase-95.land/README.md) | sase-95 hood | active |
+| [sase-95.1](../bbugyi200.athena.sase-95.1/README.md) | sase-95 hood | dismissed |
+| [sase-95.2](../bbugyi200.athena.sase-95.2/README.md) | sase-95 hood | dismissed |
+| [sase-95.3](../bbugyi200.athena.sase-95.3/README.md) | sase-95 hood | dismissed |
+| [sase-95.4](../bbugyi200.athena.sase-95.4/README.md) | sase-95 hood | dismissed |
+| [sase-95.5](../bbugyi200.athena.sase-95.5/README.md) | sase-95 hood | dismissed |
+| [sase-95.6](../bbugyi200.athena.sase-95.6/README.md) | sase-95 hood | dismissed |
+| [sase-95.8](../bbugyi200.athena.sase-95.8/README.md) | sase-95 hood | dismissed |
+| [sase-95.land](../bbugyi200.athena.sase-95.land/README.md) | sase-95 hood | dismissed |

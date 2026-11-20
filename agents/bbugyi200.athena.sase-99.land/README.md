@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ffc7aa8`](https://github.com/sase-org/sase/commit/ffc7aa874735fb008fa5a489fa254e36c02092ae) | docs(ace): describe lane fold behavior in help and agent docs (sase-99) | 2026-07-25 13:22:56 EDT |
+| — | `ffc7aa8` | docs(ace): describe lane fold behavior in help and agent docs (sase-99) | 2026-07-25 13:22:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-99.land.f2](../../sessions/bbugyi200.athena.sase-99.land.f2.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-99.land.f2](../../sessions/bbugyi200.athena.sase-99.land.f2.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [sase-99.land.f2](../bbugyi200.athena.sase-99.land.f2/README.md) | descendant | completed |
-| [sase-99.land.f3](../../sessions/bbugyi200.athena.sase-99.land.f3.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-99.land.f3](../../sessions/bbugyi200.athena.sase-99.land.f3.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [sase-99.land.f3](../bbugyi200.athena.sase-99.land.f3/README.md) | descendant | completed |
 | [sase-99.1](../bbugyi200.athena.sase-99.1/README.md) | sase-99 hood | active |
 | [sase-99.2](../bbugyi200.athena.sase-99.2/README.md) | sase-99 hood | active |

@@ -22,26 +22,26 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`396c9a9`](https://github.com/sase-org/sase/commit/396c9a908196141725d1bf12bf8ae33f793fd217) | test: guard against system-temp leakage (sase-96.6) | 2026-07-25 13:35:48 EDT |
+| — | `396c9a9` | test: guard against system-temp leakage (sase-96.6) | 2026-07-25 13:35:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-96.1](../bbugyi200.athena.sase-96.1/README.md) | sase-96 hood | active |
-| [sase-96.2](../bbugyi200.athena.sase-96.2/README.md) | sase-96 hood | active |
-| [sase-96.3](../bbugyi200.athena.sase-96.3/README.md) | sase-96 hood | active |
-| [sase-96.4](../bbugyi200.athena.sase-96.4/README.md) | sase-96 hood | active |
-| [sase-96.5](../bbugyi200.athena.sase-96.5/README.md) | sase-96 hood | active |
-| [sase-96.7](../bbugyi200.athena.sase-96.7/README.md) | sase-96 hood | active |
-| [sase-96.8.1](../bbugyi200.athena.sase-96.8.1/README.md) | sase-96 hood | active |
-| [sase-96.8.2](../bbugyi200.athena.sase-96.8.2/README.md) | sase-96 hood | active |
-| [sase-96.8.3](../bbugyi200.athena.sase-96.8.3/README.md) | sase-96 hood | active |
-| [sase-96.8.4](../bbugyi200.athena.sase-96.8.4/README.md) | sase-96 hood | active |
-| [sase-96.8.5](../bbugyi200.athena.sase-96.8.5/README.md) | sase-96 hood | active |
-| [sase-96.8.6](../bbugyi200.athena.sase-96.8.6/README.md) | sase-96 hood | active |
-| [sase-96.8.7](../bbugyi200.athena.sase-96.8.7/README.md) | sase-96 hood | active |
-| [sase-96.8.8](../bbugyi200.athena.sase-96.8.8/README.md) | sase-96 hood | active |
-| [sase-96.8.9](../bbugyi200.athena.sase-96.8.9/README.md) | sase-96 hood | active |
-| [sase-96.8.land](../bbugyi200.athena.sase-96.8.land/README.md) | sase-96 hood | active |
-| [sase-96.land](../bbugyi200.athena.sase-96.land/README.md) | sase-96 hood | active |
+| [sase-96.1](../bbugyi200.athena.sase-96.1/README.md) | sase-96 hood | dismissed |
+| [sase-96.2](../bbugyi200.athena.sase-96.2/README.md) | sase-96 hood | dismissed |
+| [sase-96.3](../bbugyi200.athena.sase-96.3/README.md) | sase-96 hood | dismissed |
+| [sase-96.4](../bbugyi200.athena.sase-96.4/README.md) | sase-96 hood | dismissed |
+| [sase-96.5](../bbugyi200.athena.sase-96.5/README.md) | sase-96 hood | dismissed |
+| [sase-96.7](../bbugyi200.athena.sase-96.7/README.md) | sase-96 hood | dismissed |
+| [sase-96.8.1](../bbugyi200.athena.sase-96.8.1/README.md) | sase-96 hood | dismissed |
+| [sase-96.8.2](../bbugyi200.athena.sase-96.8.2/README.md) | sase-96 hood | dismissed |
+| [sase-96.8.3](../bbugyi200.athena.sase-96.8.3/README.md) | sase-96 hood | dismissed |
+| [sase-96.8.4](../bbugyi200.athena.sase-96.8.4/README.md) | sase-96 hood | dismissed |
+| [sase-96.8.5](../bbugyi200.athena.sase-96.8.5/README.md) | sase-96 hood | dismissed |
+| [sase-96.8.6](../bbugyi200.athena.sase-96.8.6/README.md) | sase-96 hood | dismissed |
+| [sase-96.8.7](../bbugyi200.athena.sase-96.8.7/README.md) | sase-96 hood | dismissed |
+| [sase-96.8.8](../bbugyi200.athena.sase-96.8.8/README.md) | sase-96 hood | dismissed |
+| [sase-96.8.9](../bbugyi200.athena.sase-96.8.9/README.md) | sase-96 hood | dismissed |
+| [sase-96.8.land](../bbugyi200.athena.sase-96.8.land/README.md) | sase-96 hood | dismissed |
+| [sase-96.land](../bbugyi200.athena.sase-96.land/README.md) | sase-96 hood | dismissed |

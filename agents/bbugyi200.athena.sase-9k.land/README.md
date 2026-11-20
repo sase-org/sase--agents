@@ -18,13 +18,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4b9281d`](https://github.com/sase-org/sase/commit/4b9281d3d7d92f0de8a03c8bdea802d28eea6901) | docs: document bounded runner-slot deference (sase-9k) | 2026-07-25 12:53:09 EDT |
+| — | `4b9281d` | docs: document bounded runner-slot deference (sase-9k) | 2026-07-25 12:53:09 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9k.1](../bbugyi200.athena.sase-9k.1/README.md) | sase-9k hood | active |
-| [sase-9k.2](../bbugyi200.athena.sase-9k.2/README.md) | sase-9k hood | active |
-| [sase-9k.3](../bbugyi200.athena.sase-9k.3/README.md) | sase-9k hood | active |
-| [sase-9k.4](../bbugyi200.athena.sase-9k.4/README.md) | sase-9k hood | active |
+| [sase-9k.1](../bbugyi200.athena.sase-9k.1/README.md) | sase-9k hood | dismissed |
+| [sase-9k.2](../bbugyi200.athena.sase-9k.2/README.md) | sase-9k hood | dismissed |
+| [sase-9k.3](../bbugyi200.athena.sase-9k.3/README.md) | sase-9k hood | dismissed |
+| [sase-9k.4](../bbugyi200.athena.sase-9k.4/README.md) | sase-9k hood | dismissed |

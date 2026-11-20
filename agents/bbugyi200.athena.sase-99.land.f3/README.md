@@ -17,14 +17,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c917bc0`](https://github.com/sase-org/sase/commit/c917bc04d341885ec11fdf4285288cc846fa4469) | feat(ace): move the lane NEIGHBORS section above SASE CONTEXT | 2026-07-25 15:24:15 EDT |
+| — | `c917bc0` | feat(ace): move the lane NEIGHBORS section above SASE CONTEXT | 2026-07-25 15:24:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-99.land](../bbugyi200.athena.sase-99.land/README.md) | ancestor | active |
-| [sase-99.land.f2](../../sessions/bbugyi200.athena.sase-99.land.f2.md) (session · 2) | sase-99.land hood | active 1, completed 1 |
+| [sase-99.land.f2](../../sessions/bbugyi200.athena.sase-99.land.f2.md) (session · 2) | sase-99.land hood | completed 1, dismissed 1 |
 | [sase-99.land.f2](../bbugyi200.athena.sase-99.land.f2/README.md) | sase-99.land hood | completed |
 | [sase-99.1](../bbugyi200.athena.sase-99.1/README.md) | sase-99 hood | active |
 | [sase-99.2](../bbugyi200.athena.sase-99.2/README.md) | sase-99 hood | active |

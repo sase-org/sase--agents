@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-94](../../users/bbugyi200/machines/athena/hoods/sase-94/README.md) / sase-94.land
 
-**Global name:** `bbugyi200.athena.sase-94.land` · **State:** active · **Source run:** `run-7893c37cc4e3a58a05daa8a4016a7a15`
+**Global name:** `bbugyi200.athena.sase-94.land` · **State:** dismissed · **Source run:** `run-7893c37cc4e3a58a05daa8a4016a7a15`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-94
 
@@ -11,7 +11,7 @@
 - Bead: [sase-94](https://github.com/sase-org/sase--beads/blob/main/pages/sase-94/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-25T15:19:57.517296+00:00
+- Timing: 2026-07-25T11:19:57.517296 → 2026-07-25T11:48:36.054485
 - Commits: 0
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-94.1](../bbugyi200.athena.sase-94.1/README.md) | sase-94 hood | active |
-| [sase-94.2](../bbugyi200.athena.sase-94.2/README.md) | sase-94 hood | active |
-| [sase-94.3](../bbugyi200.athena.sase-94.3/README.md) | sase-94 hood | active |
-| [sase-94.4](../bbugyi200.athena.sase-94.4/README.md) | sase-94 hood | active |
+| [sase-94.1](../bbugyi200.athena.sase-94.1/README.md) | sase-94 hood | dismissed |
+| [sase-94.2](../bbugyi200.athena.sase-94.2/README.md) | sase-94 hood | dismissed |
+| [sase-94.3](../bbugyi200.athena.sase-94.3/README.md) | sase-94 hood | dismissed |
+| [sase-94.4](../bbugyi200.athena.sase-94.4/README.md) | sase-94 hood | dismissed |
