@@ -44,7 +44,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1tz.2.1.7](../agents/bbugyi200.athena.sase-1tz.2.1.7/README.md) | sase-1tz.2.1 hood | completed |
 | [sase-1tz.2.1.8](../agents/bbugyi200.athena.sase-1tz.2.1.8/README.md) | sase-1tz.2.1 hood | completed |
 | [sase-1tz.2.1.9](../agents/bbugyi200.athena.sase-1tz.2.1.9/README.md) | sase-1tz.2.1 hood | completed |
-| [sase-1tz.2.1.land](bbugyi200.athena.sase-1tz.2.1.land.md) (session · 3) | sase-1tz.2.1 hood | active 2, completed 1 |
+| [sase-1tz.2.1.land](bbugyi200.athena.sase-1tz.2.1.land.md) (session · 3) | sase-1tz.2.1 hood | completed 3 |
 | [sase-1tz.1](bbugyi200.athena.sase-1tz.1.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
 | [sase-1tz.1.1.1](../agents/bbugyi200.athena.sase-1tz.1.1.1/README.md) | sase-1tz hood | completed |
 | [sase-1tz.1.1.2](../agents/bbugyi200.athena.sase-1tz.1.1.2/README.md) | sase-1tz hood | completed |

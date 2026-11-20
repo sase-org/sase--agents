@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / [sase-1tz.2.1.land](../../sessions/bbugyi200.athena.sase-1tz.2.1.land.md) / sase-1tz.2.1.land--code
 
-**Global name:** `bbugyi200.athena.sase-1tz.2.1.land--code` · **State:** active · **Source run:** `run-3be8d3237625a417f48aaedce92276c6`
+**Global name:** `bbugyi200.athena.sase-1tz.2.1.land--code` · **State:** completed · **Source run:** `run-3be8d3237625a417f48aaedce92276c6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -11,8 +11,18 @@
 - Bead: [sase-1tz.2.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.2.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-20T13:05:45.459712+00:00
-- Commits: 0
+- Timing: 2026-11-20T13:05:45.459712+00:00 → 2026-11-20T14:09:24.697817+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d18b499`](https://github.com/sase-org/sase/commit/d18b499d4d5582e2390da8e9af1f6fb31208f582) | feat(agents-sync): finish publication de-flap, error accounting, and GC pressure gate | 2026-11-20 09:06:32 EST |
 
 ## Neighbors
 

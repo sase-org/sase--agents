@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-1tz.2.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1tz_2_1_land__plan-261119_144814.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1tz_2_1_land__code-261119_144814.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/noise_epic_remaining_work.md
 
 

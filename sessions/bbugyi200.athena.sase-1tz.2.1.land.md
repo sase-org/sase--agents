@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-1tz` · Members: 3 · Bead: [sase-1tz.2
 
 ```mermaid
 flowchart TD
-  n0["sase-1tz.2.1.land--plan [active]"]
-  n1["sase-1tz.2.1.land--code [active]"]
+  n0["sase-1tz.2.1.land--plan [completed]"]
+  n1["sase-1tz.2.1.land--code [completed]"]
   n0 --> n1
   n2["sase-1tz.2.1.land--gate [completed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1tz.2.1.land--plan | active | opus / claude | 2026-11-20T11:41:17.012455+00:00 | [1](../agents/bbugyi200.athena.sase-1tz.2.1.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1tz.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.2.1.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-1tz.2.1.land--code | active | opus / claude | 2026-11-20T13:05:45.459712+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-1tz.2.1.land--plan | completed | opus / claude | 2026-11-20T11:41:17.012455+00:00 → 2026-11-20T14:09:24.697817+00:00 | [1](../agents/bbugyi200.athena.sase-1tz.2.1.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1tz.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.2.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1tz.2.1.land--code | completed | opus / claude | 2026-11-20T13:05:45.459712+00:00 → 2026-11-20T14:09:24.697817+00:00 | [1](../agents/bbugyi200.athena.sase-1tz.2.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1tz.2.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | sase-1tz.2.1.land--gate | completed | opus / claude | 2026-11-20T13:04:49.137914+00:00 → 2026-11-20T13:04:56.955576+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.2.1.land--gate/chat.md) |
 
 ## Commits
@@ -28,6 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | plan | sase | [`8cf9d8e`](https://github.com/sase-org/sase/commit/8cf9d8e5465994f9c1a34a5075a4bb7ea0ed9d47) | fix(doctor): keep cause detail in grouped publication issues and review scratch sweep | 2026-11-20 08:03:07 EST |
+| code | sase | [`d18b499`](https://github.com/sase-org/sase/commit/d18b499d4d5582e2390da8e9af1f6fb31208f582) | feat(agents-sync): finish publication de-flap, error accounting, and GC pressure gate | 2026-11-20 09:06:32 EST |
 
 ## Neighbors
 
