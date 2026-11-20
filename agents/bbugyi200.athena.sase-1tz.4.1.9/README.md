@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 20261120140159
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`1115db9`](https://github.com/sase-org/sase/commit/1115db9e66d4ebc82114d74a7fc524eab0900b42) | feat(bead-triage): reconcile notification gates with sticky dismissal and settled-bundle reaping | 2026-11-20 16:40:14 EST |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-1tz.4](../../sessions/bbugyi200.athena.sase-1tz.4.md) (session · 3) | ancestor | active 1, completed 2 |
 | [sase-1tz.4.1.1](../bbugyi200.athena.sase-1tz.4.1.1/README.md) | sase-1tz.4.1 hood | completed |
-| [sase-1tz.4.1.10](../bbugyi200.athena.sase-1tz.4.1.10/README.md) | sase-1tz.4.1 hood | active |
+| [sase-1tz.4.1.10](../../sessions/bbugyi200.athena.sase-1tz.4.1.10.md) (session · 2) | sase-1tz.4.1 hood | active 1, completed 1 |
 | [sase-1tz.4.1.11](../bbugyi200.athena.sase-1tz.4.1.11/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.12](../bbugyi200.athena.sase-1tz.4.1.12/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.13](../bbugyi200.athena.sase-1tz.4.1.13/README.md) | sase-1tz.4.1 hood | waiting |

@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1tz.4.1.1](../bbugyi200.athena.sase-1tz.4.1.1/README.md) | descendant | completed |
-| [sase-1tz.4.1.10](../bbugyi200.athena.sase-1tz.4.1.10/README.md) | descendant | active |
+| [sase-1tz.4.1.10](../../sessions/bbugyi200.athena.sase-1tz.4.1.10.md) (session · 2) | descendant | active 1, completed 1 |
 | [sase-1tz.4.1.11](../bbugyi200.athena.sase-1tz.4.1.11/README.md) | descendant | completed |
 | [sase-1tz.4.1.12](../bbugyi200.athena.sase-1tz.4.1.12/README.md) | descendant | completed |
 | [sase-1tz.4.1.13](../bbugyi200.athena.sase-1tz.4.1.13/README.md) | descendant | waiting |
