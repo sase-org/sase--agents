@@ -18,17 +18,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9c845cb`](https://github.com/sase-org/sase/commit/9c845cb3add536e74a0ce3d850a67ec4a9748bf2) | fix(sdd): reap safe recovery residue (sase-9r.7) | 2026-07-26 08:16:13 EDT |
+| — | `9c845cb` | fix(sdd): reap safe recovery residue (sase-9r.7) | 2026-07-26 08:16:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9r.1](../bbugyi200.athena.sase-9r.1/README.md) | sase-9r hood | active |
-| [sase-9r.2](../bbugyi200.athena.sase-9r.2/README.md) | sase-9r hood | active |
-| [sase-9r.3](../bbugyi200.athena.sase-9r.3/README.md) | sase-9r hood | active |
-| [sase-9r.4](../bbugyi200.athena.sase-9r.4/README.md) | sase-9r hood | active |
-| [sase-9r.5](../bbugyi200.athena.sase-9r.5/README.md) | sase-9r hood | active |
-| [sase-9r.6](../bbugyi200.athena.sase-9r.6/README.md) | sase-9r hood | active |
-| [sase-9r.8](../bbugyi200.athena.sase-9r.8/README.md) | sase-9r hood | active |
-| [sase-9r.land](../bbugyi200.athena.sase-9r.land/README.md) | sase-9r hood | active |
+| [sase-9r.1](../bbugyi200.athena.sase-9r.1/README.md) | sase-9r hood | dismissed |
+| [sase-9r.2](../bbugyi200.athena.sase-9r.2/README.md) | sase-9r hood | dismissed |
+| [sase-9r.3](../bbugyi200.athena.sase-9r.3/README.md) | sase-9r hood | dismissed |
+| [sase-9r.4](../bbugyi200.athena.sase-9r.4/README.md) | sase-9r hood | dismissed |
+| [sase-9r.5](../bbugyi200.athena.sase-9r.5/README.md) | sase-9r hood | dismissed |
+| [sase-9r.6](../bbugyi200.athena.sase-9r.6/README.md) | sase-9r hood | dismissed |
+| [sase-9r.8](../bbugyi200.athena.sase-9r.8/README.md) | sase-9r hood | dismissed |
+| [sase-9r.land](../bbugyi200.athena.sase-9r.land/README.md) | sase-9r hood | dismissed |

@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f2c53c2`](https://github.com/sase-org/sase/commit/f2c53c28f83fd9961460f8ff7dcb4fea29424364) | feat(axe): show summary-first list descriptions (sase-9w.4) | 2026-07-27 06:31:46 EDT |
+| — | `f2c53c2` | feat(axe): show summary-first list descriptions (sase-9w.4) | 2026-07-27 06:31:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9w.1](../bbugyi200.athena.sase-9w.1/README.md) | sase-9w hood | active |
-| [sase-9w.2](../bbugyi200.athena.sase-9w.2/README.md) | sase-9w hood | active |
-| [sase-9w.3](../bbugyi200.athena.sase-9w.3/README.md) | sase-9w hood | active |
-| [sase-9w.5](../bbugyi200.athena.sase-9w.5/README.md) | sase-9w hood | active |
-| [sase-9w.6](../bbugyi200.athena.sase-9w.6/README.md) | sase-9w hood | active |
-| [sase-9w.7](../bbugyi200.athena.sase-9w.7/README.md) | sase-9w hood | active |
-| [sase-9w.land](../bbugyi200.athena.sase-9w.land/README.md) | sase-9w hood | active |
+| [sase-9w.1](../bbugyi200.athena.sase-9w.1/README.md) | sase-9w hood | dismissed |
+| [sase-9w.2](../bbugyi200.athena.sase-9w.2/README.md) | sase-9w hood | dismissed |
+| [sase-9w.3](../bbugyi200.athena.sase-9w.3/README.md) | sase-9w hood | dismissed |
+| [sase-9w.5](../bbugyi200.athena.sase-9w.5/README.md) | sase-9w hood | dismissed |
+| [sase-9w.6](../bbugyi200.athena.sase-9w.6/README.md) | sase-9w hood | dismissed |
+| [sase-9w.7](../bbugyi200.athena.sase-9w.7/README.md) | sase-9w hood | dismissed |
+| [sase-9w.land](../bbugyi200.athena.sase-9w.land/README.md) | sase-9w hood | dismissed |

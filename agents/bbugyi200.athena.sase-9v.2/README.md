@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9v](../../users/bbugyi200/machines/athena/hoods/sase-9v/README.md) / sase-9v.2
 
-**Global name:** `bbugyi200.athena.sase-9v.2` · **State:** active · **Source run:** `run-6e61d9030996d4da3f2a91974e8e1a07`
+**Global name:** `bbugyi200.athena.sase-9v.2` · **State:** dismissed · **Source run:** `run-6e61d9030996d4da3f2a91974e8e1a07`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9v
 
@@ -12,7 +12,7 @@
 - Epic: [sase-9v](https://github.com/sase-org/sase--beads/blob/main/pages/sase-9v/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-26T15:33:45.083846+00:00
+- Timing: 2026-07-26T11:33:45.083846 → 2026-07-26T12:23:12.920615
 - Commits: [1](#commits)
 
 ## Files
@@ -23,21 +23,21 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a91b71d`](https://github.com/sase-org/sase/commit/a91b71d3702a24a8dde5a1a1fb0f8c811bc4f143) | fix(beads): persist and safely release waiting claims (sase-9v.2) | 2026-07-26 12:17:13 EDT |
+| — | `a91b71d` | fix(beads): persist and safely release waiting claims (sase-9v.2) | 2026-07-26 12:17:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9v.1](../bbugyi200.athena.sase-9v.1/README.md) | sase-9v hood | active |
-| [sase-9v.10](../bbugyi200.athena.sase-9v.10/README.md) | sase-9v hood | active |
-| [sase-9v.11](../bbugyi200.athena.sase-9v.11/README.md) | sase-9v hood | active |
-| [sase-9v.3](../bbugyi200.athena.sase-9v.3/README.md) | sase-9v hood | active |
+| [sase-9v.1](../bbugyi200.athena.sase-9v.1/README.md) | sase-9v hood | dismissed |
+| [sase-9v.10](../bbugyi200.athena.sase-9v.10/README.md) | sase-9v hood | dismissed |
+| [sase-9v.11](../bbugyi200.athena.sase-9v.11/README.md) | sase-9v hood | dismissed |
+| [sase-9v.3](../bbugyi200.athena.sase-9v.3/README.md) | sase-9v hood | dismissed |
 | [sase-9v.4](../bbugyi200.athena.sase-9v.4/README.md) | sase-9v hood | dismissed |
-| [sase-9v.5](../bbugyi200.athena.sase-9v.5/README.md) | sase-9v hood | active |
-| [sase-9v.6](../bbugyi200.athena.sase-9v.6/README.md) | sase-9v hood | active |
-| [sase-9v.7](../bbugyi200.athena.sase-9v.7/README.md) | sase-9v hood | active |
-| [sase-9v.8](../bbugyi200.athena.sase-9v.8/README.md) | sase-9v hood | active |
-| [sase-9v.9](../bbugyi200.athena.sase-9v.9/README.md) | sase-9v hood | active |
-| [sase-9v.land](../../sessions/bbugyi200.athena.sase-9v.land.md) (session · 2) | sase-9v hood | active 1, completed 1 |
+| [sase-9v.5](../bbugyi200.athena.sase-9v.5/README.md) | sase-9v hood | dismissed |
+| [sase-9v.6](../bbugyi200.athena.sase-9v.6/README.md) | sase-9v hood | dismissed |
+| [sase-9v.7](../bbugyi200.athena.sase-9v.7/README.md) | sase-9v hood | dismissed |
+| [sase-9v.8](../bbugyi200.athena.sase-9v.8/README.md) | sase-9v hood | dismissed |
+| [sase-9v.9](../bbugyi200.athena.sase-9v.9/README.md) | sase-9v hood | dismissed |
+| [sase-9v.land](../../sessions/bbugyi200.athena.sase-9v.land.md) (session · 2) | sase-9v hood | completed 1, dismissed 1 |
 | [sase-9v.land](../bbugyi200.athena.sase-9v.land/README.md) | sase-9v hood | completed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9s](../../users/bbugyi200/machines/athena/hoods/sase-9s/README.md) / sase-9s.4
 
-**Global name:** `bbugyi200.athena.sase-9s.4` · **State:** active · **Source run:** `run-28b34ec0ba761af9e3a7e760d8881963`
+**Global name:** `bbugyi200.athena.sase-9s.4` · **State:** dismissed · **Source run:** `run-28b34ec0ba761af9e3a7e760d8881963`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9s
 
@@ -12,7 +12,7 @@
 - Epic: [sase-9s](https://github.com/sase-org/sase--beads/blob/main/pages/sase-9s/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-07-26T11:58:05.160137+00:00
+- Timing: 2026-07-26T07:58:05.160137 → 2026-07-26T08:29:22.965742
 - Commits: [1](#commits)
 
 ## Files
@@ -23,18 +23,18 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f49e598`](https://github.com/sase-org/sase/commit/f49e598037b7e1183e4434bc198cc39a4d72bbf4) | feat(tasks): submit, own, and filter detached tasks (sase-9s.4) | 2026-07-26 08:28:54 EDT |
+| — | `f49e598` | feat(tasks): submit, own, and filter detached tasks (sase-9s.4) | 2026-07-26 08:28:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9s.1](../bbugyi200.athena.sase-9s.1/README.md) | sase-9s hood | active |
-| [sase-9s.2](../bbugyi200.athena.sase-9s.2/README.md) | sase-9s hood | active |
-| [sase-9s.3](../bbugyi200.athena.sase-9s.3/README.md) | sase-9s hood | active |
-| [sase-9s.5](../bbugyi200.athena.sase-9s.5/README.md) | sase-9s hood | active |
-| [sase-9s.6](../bbugyi200.athena.sase-9s.6/README.md) | sase-9s hood | active |
-| [sase-9s.7](../bbugyi200.athena.sase-9s.7/README.md) | sase-9s hood | active |
-| [sase-9s.8](../bbugyi200.athena.sase-9s.8/README.md) | sase-9s hood | active |
-| [sase-9s.land](../../sessions/bbugyi200.athena.sase-9s.land.md) (session · 2) | sase-9s hood | active 1, completed 1 |
+| [sase-9s.1](../bbugyi200.athena.sase-9s.1/README.md) | sase-9s hood | dismissed |
+| [sase-9s.2](../bbugyi200.athena.sase-9s.2/README.md) | sase-9s hood | dismissed |
+| [sase-9s.3](../bbugyi200.athena.sase-9s.3/README.md) | sase-9s hood | dismissed |
+| [sase-9s.5](../bbugyi200.athena.sase-9s.5/README.md) | sase-9s hood | dismissed |
+| [sase-9s.6](../bbugyi200.athena.sase-9s.6/README.md) | sase-9s hood | dismissed |
+| [sase-9s.7](../bbugyi200.athena.sase-9s.7/README.md) | sase-9s hood | dismissed |
+| [sase-9s.8](../bbugyi200.athena.sase-9s.8/README.md) | sase-9s hood | dismissed |
+| [sase-9s.land](../../sessions/bbugyi200.athena.sase-9s.land.md) (session · 2) | sase-9s hood | completed 1, dismissed 1 |
 | [sase-9s.land](../bbugyi200.athena.sase-9s.land/README.md) | sase-9s hood | completed |

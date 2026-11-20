@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9w](../../users/bbugyi200/machines/athena/hoods/sase-9w/README.md) / sase-9w.land
 
-**Global name:** `bbugyi200.athena.sase-9w.land` · **State:** active · **Source run:** `run-12bab59c9d189f5c6486ec178819dfdd`
+**Global name:** `bbugyi200.athena.sase-9w.land` · **State:** dismissed · **Source run:** `run-12bab59c9d189f5c6486ec178819dfdd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9w
 
@@ -11,7 +11,7 @@
 - Bead: [sase-9w](https://github.com/sase-org/sase--beads/blob/main/pages/sase-9w/README.md)
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-07-27T11:10:13.537506+00:00
+- Timing: 2026-07-27T07:10:13.537506 → 2026-07-27T07:25:05.155232
 - Commits: 0
 
 ## Files
@@ -22,10 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9w.1](../bbugyi200.athena.sase-9w.1/README.md) | sase-9w hood | active |
-| [sase-9w.2](../bbugyi200.athena.sase-9w.2/README.md) | sase-9w hood | active |
-| [sase-9w.3](../bbugyi200.athena.sase-9w.3/README.md) | sase-9w hood | active |
+| [sase-9w.1](../bbugyi200.athena.sase-9w.1/README.md) | sase-9w hood | dismissed |
+| [sase-9w.2](../bbugyi200.athena.sase-9w.2/README.md) | sase-9w hood | dismissed |
+| [sase-9w.3](../bbugyi200.athena.sase-9w.3/README.md) | sase-9w hood | dismissed |
 | [sase-9w.4](../bbugyi200.athena.sase-9w.4/README.md) | sase-9w hood | dismissed |
-| [sase-9w.5](../bbugyi200.athena.sase-9w.5/README.md) | sase-9w hood | active |
-| [sase-9w.6](../bbugyi200.athena.sase-9w.6/README.md) | sase-9w hood | active |
-| [sase-9w.7](../bbugyi200.athena.sase-9w.7/README.md) | sase-9w hood | active |
+| [sase-9w.5](../bbugyi200.athena.sase-9w.5/README.md) | sase-9w hood | dismissed |
+| [sase-9w.6](../bbugyi200.athena.sase-9w.6/README.md) | sase-9w hood | dismissed |
+| [sase-9w.7](../bbugyi200.athena.sase-9w.7/README.md) | sase-9w hood | dismissed |

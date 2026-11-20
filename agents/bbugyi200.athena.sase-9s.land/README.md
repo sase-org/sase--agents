@@ -18,18 +18,18 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f499ca1`](https://github.com/sase-org/sase/commit/f499ca1db61a7f2ccef55e6d8d59f57048617d49) | feat(tasks): record detached epic launch origins (sase-9s) | 2026-07-26 13:40:57 EDT |
-| sase | [`1cb134f`](https://github.com/sase-org/sase/commit/1cb134fd1cd8e76f8427aad797844a8c681060b8) | test: stabilize post-rebase suite checks (sase-9s) | 2026-07-26 14:43:57 EDT |
+| — | `f499ca1` | feat(tasks): record detached epic launch origins (sase-9s) | 2026-07-26 13:40:57 EDT |
+| — | `1cb134f` | test: stabilize post-rebase suite checks (sase-9s) | 2026-07-26 14:43:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9s.1](../bbugyi200.athena.sase-9s.1/README.md) | sase-9s hood | active |
-| [sase-9s.2](../bbugyi200.athena.sase-9s.2/README.md) | sase-9s hood | active |
-| [sase-9s.3](../bbugyi200.athena.sase-9s.3/README.md) | sase-9s hood | active |
-| [sase-9s.4](../bbugyi200.athena.sase-9s.4/README.md) | sase-9s hood | active |
-| [sase-9s.5](../bbugyi200.athena.sase-9s.5/README.md) | sase-9s hood | active |
-| [sase-9s.6](../bbugyi200.athena.sase-9s.6/README.md) | sase-9s hood | active |
-| [sase-9s.7](../bbugyi200.athena.sase-9s.7/README.md) | sase-9s hood | active |
-| [sase-9s.8](../bbugyi200.athena.sase-9s.8/README.md) | sase-9s hood | active |
+| [sase-9s.1](../bbugyi200.athena.sase-9s.1/README.md) | sase-9s hood | dismissed |
+| [sase-9s.2](../bbugyi200.athena.sase-9s.2/README.md) | sase-9s hood | dismissed |
+| [sase-9s.3](../bbugyi200.athena.sase-9s.3/README.md) | sase-9s hood | dismissed |
+| [sase-9s.4](../bbugyi200.athena.sase-9s.4/README.md) | sase-9s hood | dismissed |
+| [sase-9s.5](../bbugyi200.athena.sase-9s.5/README.md) | sase-9s hood | dismissed |
+| [sase-9s.6](../bbugyi200.athena.sase-9s.6/README.md) | sase-9s hood | dismissed |
+| [sase-9s.7](../bbugyi200.athena.sase-9s.7/README.md) | sase-9s hood | dismissed |
+| [sase-9s.8](../bbugyi200.athena.sase-9s.8/README.md) | sase-9s hood | dismissed |

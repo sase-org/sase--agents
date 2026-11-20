@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`20c131b`](https://github.com/sase-org/sase/commit/20c131b55788ae5d07ea32fcae66328c48e748ab) | build(deps): require sase-core-rs 0.10 (sase-9t) | 2026-07-26 13:01:06 EDT |
+| — | `20c131b` | build(deps): require sase-core-rs 0.10 (sase-9t) | 2026-07-26 13:01:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-9t.land.w0](../bbugyi200.athena.sase-9t.land.w0/README.md) | descendant | dismissed |
-| [sase-9t.1](../bbugyi200.athena.sase-9t.1/README.md) | sase-9t hood | active |
-| [sase-9t.2](../bbugyi200.athena.sase-9t.2/README.md) | sase-9t hood | active |
-| [sase-9t.3](../bbugyi200.athena.sase-9t.3/README.md) | sase-9t hood | active |
-| [sase-9t.4](../bbugyi200.athena.sase-9t.4/README.md) | sase-9t hood | active |
-| [sase-9t.5](../bbugyi200.athena.sase-9t.5/README.md) | sase-9t hood | active |
-| [sase-9t.6](../bbugyi200.athena.sase-9t.6/README.md) | sase-9t hood | active |
+| [sase-9t.1](../bbugyi200.athena.sase-9t.1/README.md) | sase-9t hood | dismissed |
+| [sase-9t.2](../bbugyi200.athena.sase-9t.2/README.md) | sase-9t hood | dismissed |
+| [sase-9t.3](../bbugyi200.athena.sase-9t.3/README.md) | sase-9t hood | dismissed |
+| [sase-9t.4](../bbugyi200.athena.sase-9t.4/README.md) | sase-9t hood | dismissed |
+| [sase-9t.5](../bbugyi200.athena.sase-9t.5/README.md) | sase-9t hood | dismissed |
+| [sase-9t.6](../bbugyi200.athena.sase-9t.6/README.md) | sase-9t hood | dismissed |
