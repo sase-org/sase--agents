@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`75e2c64`](https://github.com/sase-org/sase/commit/75e2c647dfc2bbc58dc1ae54893f6a73ad3ff054) | feat(statistics): add metric legends and recovery states (sase-8a.2) | 2026-07-20 14:48:09 EDT |
+| — | `75e2c64` | feat(statistics): add metric legends and recovery states (sase-8a.2) | 2026-07-20 14:48:09 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8a.1](../../sessions/bbugyi200.athena.sase-8a.1.md) (session · 2) | sase-8a hood | active 1, completed 1 |
+| [sase-8a.1](../../sessions/bbugyi200.athena.sase-8a.1.md) (session · 2) | sase-8a hood | completed 1, dismissed 1 |
 | [sase-8a.3](../../sessions/bbugyi200.athena.sase-8a.3.md) (session · 1) | sase-8a hood | active 1 |
-| [sase-8a.4](../bbugyi200.athena.sase-8a.4/README.md) | sase-8a hood | active |
-| [sase-8a.land](../../sessions/bbugyi200.athena.sase-8a.land.md) (session · 2) | sase-8a hood | active 1, completed 1 |
+| [sase-8a.4](../bbugyi200.athena.sase-8a.4/README.md) | sase-8a hood | dismissed |
+| [sase-8a.land](../../sessions/bbugyi200.athena.sase-8a.land.md) (session · 2) | sase-8a hood | completed 1, dismissed 1 |

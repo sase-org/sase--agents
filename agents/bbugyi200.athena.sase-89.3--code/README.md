@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e3af45c`](https://github.com/sase-org/sase/commit/e3af45c7060abb9481e85c2a14c3c99cce74b20a) | fix(stats): retain project display projection helper (sase-89.3) | 2026-07-20 14:01:32 EDT |
+| — | `e3af45c` | fix(stats): retain project display projection helper (sase-89.3) | 2026-07-20 14:01:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-89.1](../../sessions/bbugyi200.athena.sase-89.1.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.2](../../sessions/bbugyi200.athena.sase-89.2.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.4](../../sessions/bbugyi200.athena.sase-89.4.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.land](../bbugyi200.athena.sase-89.land/README.md) | sase-89 hood | active |
+| [sase-89.1](../../sessions/bbugyi200.athena.sase-89.1.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.2](../../sessions/bbugyi200.athena.sase-89.2.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.4](../../sessions/bbugyi200.athena.sase-89.4.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.land](../bbugyi200.athena.sase-89.land/README.md) | sase-89 hood | dismissed |

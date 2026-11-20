@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`46c2f06`](https://github.com/sase-org/sase/commit/46c2f0622a4998cf01e997a147df5c600ee1bae7) | feat: prioritize runner-slot wait admission (sase-8c.2) | 2026-07-20 14:49:41 EDT |
+| — | `46c2f06` | feat: prioritize runner-slot wait admission (sase-8c.2) | 2026-07-20 14:49:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8c.1](../bbugyi200.athena.sase-8c.1/README.md) | sase-8c hood | active |
-| [sase-8c.3](../bbugyi200.athena.sase-8c.3/README.md) | sase-8c hood | active |
-| [sase-8c.land](../bbugyi200.athena.sase-8c.land/README.md) | sase-8c hood | active |
+| [sase-8c.1](../bbugyi200.athena.sase-8c.1/README.md) | sase-8c hood | dismissed |
+| [sase-8c.3](../bbugyi200.athena.sase-8c.3/README.md) | sase-8c hood | dismissed |
+| [sase-8c.land](../bbugyi200.athena.sase-8c.land/README.md) | sase-8c hood | dismissed |

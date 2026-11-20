@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2efe42a`](https://github.com/sase-org/sase/commit/2efe42a1583d70bd3f8c9ca56efd6c048fbb8957) | feat(projects): add immutable display snapshots (sase-89.1) | 2026-07-20 13:08:03 EDT |
+| — | `2efe42a` | feat(projects): add immutable display snapshots (sase-89.1) | 2026-07-20 13:08:03 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-89.2](../../sessions/bbugyi200.athena.sase-89.2.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.3](../../sessions/bbugyi200.athena.sase-89.3.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.4](../../sessions/bbugyi200.athena.sase-89.4.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.land](../bbugyi200.athena.sase-89.land/README.md) | sase-89 hood | active |
+| [sase-89.2](../../sessions/bbugyi200.athena.sase-89.2.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.3](../../sessions/bbugyi200.athena.sase-89.3.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.4](../../sessions/bbugyi200.athena.sase-89.4.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.land](../bbugyi200.athena.sase-89.land/README.md) | sase-89 hood | dismissed |

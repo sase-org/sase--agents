@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-89` · Members: 2 · Bead: [sase-89.2](
 ```mermaid
 flowchart TD
   n0["sase-89.2--code [completed]"]
-  n1["sase-89.2--plan [active]"]
+  n1["sase-89.2--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,19 +18,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-89.2--code | completed | gpt-5.6-sol / codex | 2026-07-20T17:12:20.245534+00:00 | [1](../agents/bbugyi200.athena.sase-89.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-89.2--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-89.2--plan | active | gpt-5.6-sol / codex | 2026-07-20T17:08:28.726560+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-89.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-89.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-89.2--plan | dismissed | gpt-5.6-sol / codex | 2026-07-20T13:08:28.726560 → 2026-07-20T13:36:25.136305 | 0 | [Prompt](../agents/bbugyi200.athena.sase-89.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-89.2--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e584c89`](https://github.com/sase-org/sase/commit/e584c89df570717429bdc477fdec0f76377d9f64) | feat(stats): render configured project labels (sase-89.2) | 2026-07-20 13:35:57 EDT |
+| code | — | `e584c89` | feat(stats): render configured project labels (sase-89.2) | 2026-07-20 13:35:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-89.1](bbugyi200.athena.sase-89.1.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.3](bbugyi200.athena.sase-89.3.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.4](bbugyi200.athena.sase-89.4.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.land](../agents/bbugyi200.athena.sase-89.land/README.md) | sase-89 hood | active |
+| [sase-89.1](bbugyi200.athena.sase-89.1.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.3](bbugyi200.athena.sase-89.3.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.4](bbugyi200.athena.sase-89.4.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.land](../agents/bbugyi200.athena.sase-89.land/README.md) | sase-89 hood | dismissed |

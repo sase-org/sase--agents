@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`00dd055`](https://github.com/sase-org/sase/commit/00dd055778bb153d2abbe622118413547f0e8969) | feat(ace): show normalized epic phase sizes (sase-8b.1) | 2026-07-20 14:43:35 EDT |
+| — | `00dd055` | feat(ace): show normalized epic phase sizes (sase-8b.1) | 2026-07-20 14:43:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-8b.2](../../sessions/bbugyi200.athena.sase-8b.2.md) (session · 1) | sase-8b hood | active 1 |
-| [sase-8b.3](../../sessions/bbugyi200.athena.sase-8b.3.md) (session · 2) | sase-8b hood | active 1, completed 1 |
-| [sase-8b.4](../bbugyi200.athena.sase-8b.4/README.md) | sase-8b hood | active |
-| [sase-8b.land](../bbugyi200.athena.sase-8b.land/README.md) | sase-8b hood | active |
+| [sase-8b.3](../../sessions/bbugyi200.athena.sase-8b.3.md) (session · 2) | sase-8b hood | completed 1, dismissed 1 |
+| [sase-8b.4](../bbugyi200.athena.sase-8b.4/README.md) | sase-8b hood | dismissed |
+| [sase-8b.land](../bbugyi200.athena.sase-8b.land/README.md) | sase-8b hood | dismissed |

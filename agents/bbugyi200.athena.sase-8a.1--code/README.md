@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`26ebac8`](https://github.com/sase-org/sase/commit/26ebac8584d0e0778ffa271deb4fd3b36a4b022d) | feat(ace): clarify statistics scope controls (sase-8a.1) | 2026-07-20 14:17:06 EDT |
+| — | `26ebac8` | feat(ace): clarify statistics scope controls (sase-8a.1) | 2026-07-20 14:17:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8a.2](../../sessions/bbugyi200.athena.sase-8a.2.md) (session · 2) | sase-8a hood | active 1, completed 1 |
+| [sase-8a.2](../../sessions/bbugyi200.athena.sase-8a.2.md) (session · 2) | sase-8a hood | completed 1, dismissed 1 |
 | [sase-8a.3](../../sessions/bbugyi200.athena.sase-8a.3.md) (session · 1) | sase-8a hood | active 1 |
-| [sase-8a.4](../bbugyi200.athena.sase-8a.4/README.md) | sase-8a hood | active |
-| [sase-8a.land](../../sessions/bbugyi200.athena.sase-8a.land.md) (session · 2) | sase-8a hood | active 1, completed 1 |
+| [sase-8a.4](../bbugyi200.athena.sase-8a.4/README.md) | sase-8a hood | dismissed |
+| [sase-8a.land](../../sessions/bbugyi200.athena.sase-8a.land.md) (session · 2) | sase-8a hood | completed 1, dismissed 1 |

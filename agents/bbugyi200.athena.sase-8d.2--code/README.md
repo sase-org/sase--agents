@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc8f7a5`](https://github.com/sase-org/sase/commit/cc8f7a50c26945cf0c3046b39098bc2e209d1ced) | feat: add generic clan plan summaries (sase-8d.2) | 2026-07-20 16:14:02 EDT |
+| — | `cc8f7a5` | feat: add generic clan plan summaries (sase-8d.2) | 2026-07-20 16:14:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-8d.1](../../sessions/bbugyi200.athena.sase-8d.1.md) (session · 1) | sase-8d hood | active 1 |
-| [sase-8d.3](../../sessions/bbugyi200.athena.sase-8d.3.md) (session · 2) | sase-8d hood | active 1, completed 1 |
-| [sase-8d.land](../../sessions/bbugyi200.athena.sase-8d.land.md) (session · 2) | sase-8d hood | active 1, completed 1 |
+| [sase-8d.3](../../sessions/bbugyi200.athena.sase-8d.3.md) (session · 2) | sase-8d hood | completed 1, dismissed 1 |
+| [sase-8d.land](../../sessions/bbugyi200.athena.sase-8d.land.md) (session · 2) | sase-8d hood | completed 1, dismissed 1 |

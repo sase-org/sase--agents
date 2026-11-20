@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c7a4ef4`](https://github.com/sase-org/sase/commit/c7a4ef42d8b624d79c8392c3a43f58af6a691106) | fix: clear empty Statistics project filters (sase-8a) | 2026-07-20 16:13:30 EDT |
+| — | `c7a4ef4` | fix: clear empty Statistics project filters (sase-8a) | 2026-07-20 16:13:30 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8a.1](../../sessions/bbugyi200.athena.sase-8a.1.md) (session · 2) | sase-8a hood | active 1, completed 1 |
-| [sase-8a.2](../../sessions/bbugyi200.athena.sase-8a.2.md) (session · 2) | sase-8a hood | active 1, completed 1 |
+| [sase-8a.1](../../sessions/bbugyi200.athena.sase-8a.1.md) (session · 2) | sase-8a hood | completed 1, dismissed 1 |
+| [sase-8a.2](../../sessions/bbugyi200.athena.sase-8a.2.md) (session · 2) | sase-8a hood | completed 1, dismissed 1 |
 | [sase-8a.3](../../sessions/bbugyi200.athena.sase-8a.3.md) (session · 1) | sase-8a hood | active 1 |
-| [sase-8a.4](../bbugyi200.athena.sase-8a.4/README.md) | sase-8a hood | active |
+| [sase-8a.4](../bbugyi200.athena.sase-8a.4/README.md) | sase-8a hood | dismissed |

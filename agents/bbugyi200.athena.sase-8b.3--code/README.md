@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8b.1](../../sessions/bbugyi200.athena.sase-8b.1.md) (session · 2) | sase-8b hood | active 1, completed 1 |
+| [sase-8b.1](../../sessions/bbugyi200.athena.sase-8b.1.md) (session · 2) | sase-8b hood | completed 1, dismissed 1 |
 | [sase-8b.2](../../sessions/bbugyi200.athena.sase-8b.2.md) (session · 1) | sase-8b hood | active 1 |
-| [sase-8b.4](../bbugyi200.athena.sase-8b.4/README.md) | sase-8b hood | active |
-| [sase-8b.land](../bbugyi200.athena.sase-8b.land/README.md) | sase-8b hood | active |
+| [sase-8b.4](../bbugyi200.athena.sase-8b.4/README.md) | sase-8b hood | dismissed |
+| [sase-8b.land](../bbugyi200.athena.sase-8b.land/README.md) | sase-8b hood | dismissed |

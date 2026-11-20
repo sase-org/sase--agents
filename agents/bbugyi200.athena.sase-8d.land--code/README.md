@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fc1c918`](https://github.com/sase-org/sase/commit/fc1c91844a8e4b1c0ad311c98d29f9c3beb61ecc) | fix(sdd): preserve plan path basenames when wrapping (sase-8d) | 2026-07-20 17:27:15 EDT |
+| — | `fc1c918` | fix(sdd): preserve plan path basenames when wrapping (sase-8d) | 2026-07-20 17:27:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-8d.1](../../sessions/bbugyi200.athena.sase-8d.1.md) (session · 1) | sase-8d hood | active 1 |
-| [sase-8d.2](../../sessions/bbugyi200.athena.sase-8d.2.md) (session · 2) | sase-8d hood | active 1, completed 1 |
-| [sase-8d.3](../../sessions/bbugyi200.athena.sase-8d.3.md) (session · 2) | sase-8d hood | active 1, completed 1 |
+| [sase-8d.2](../../sessions/bbugyi200.athena.sase-8d.2.md) (session · 2) | sase-8d hood | completed 1, dismissed 1 |
+| [sase-8d.3](../../sessions/bbugyi200.athena.sase-8d.3.md) (session · 2) | sase-8d hood | completed 1, dismissed 1 |

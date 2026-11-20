@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e584c89`](https://github.com/sase-org/sase/commit/e584c89df570717429bdc477fdec0f76377d9f64) | feat(stats): render configured project labels (sase-89.2) | 2026-07-20 13:35:57 EDT |
+| — | `e584c89` | feat(stats): render configured project labels (sase-89.2) | 2026-07-20 13:35:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-89.1](../../sessions/bbugyi200.athena.sase-89.1.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.3](../../sessions/bbugyi200.athena.sase-89.3.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.4](../../sessions/bbugyi200.athena.sase-89.4.md) (session · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.land](../bbugyi200.athena.sase-89.land/README.md) | sase-89 hood | active |
+| [sase-89.1](../../sessions/bbugyi200.athena.sase-89.1.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.3](../../sessions/bbugyi200.athena.sase-89.3.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.4](../../sessions/bbugyi200.athena.sase-89.4.md) (session · 2) | sase-89 hood | completed 1, dismissed 1 |
+| [sase-89.land](../bbugyi200.athena.sase-89.land/README.md) | sase-89 hood | dismissed |
