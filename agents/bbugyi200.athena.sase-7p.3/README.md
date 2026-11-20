@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`10eeaf7`](https://github.com/sase-org/sase/commit/10eeaf72302a97eca47272754c1cfdd91c935b20) | fix(axe): verify and journal daemon restarts (sase-7p.3) | 2026-07-19 17:48:27 EDT |
+| — | `10eeaf7` | fix(axe): verify and journal daemon restarts (sase-7p.3) | 2026-07-19 17:48:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7p.1](../bbugyi200.athena.sase-7p.1/README.md) | sase-7p hood | active |
+| [sase-7p.1](../bbugyi200.athena.sase-7p.1/README.md) | sase-7p hood | dismissed |
 | [sase-7p.2](../bbugyi200.athena.sase-7p.2/README.md) | sase-7p hood | dismissed |
 | [sase-7p.4](../bbugyi200.athena.sase-7p.4/README.md) | sase-7p hood | dismissed |
 | [sase-7p.5](../bbugyi200.athena.sase-7p.5/README.md) | sase-7p hood | dismissed |

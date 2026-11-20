@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2e89322`](https://github.com/sase-org/sase/commit/2e89322953163f8e79ec14950e557b4dbf94ad2e) | test(axe): add end-to-end outage and recovery smoke tests (sase-7p.5) | 2026-07-19 18:42:19 EDT |
+| — | `2e89322` | test(axe): add end-to-end outage and recovery smoke tests (sase-7p.5) | 2026-07-19 18:42:19 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7p.1](../bbugyi200.athena.sase-7p.1/README.md) | sase-7p hood | active |
+| [sase-7p.1](../bbugyi200.athena.sase-7p.1/README.md) | sase-7p hood | dismissed |
 | [sase-7p.2](../bbugyi200.athena.sase-7p.2/README.md) | sase-7p hood | dismissed |
 | [sase-7p.3](../bbugyi200.athena.sase-7p.3/README.md) | sase-7p hood | dismissed |
 | [sase-7p.4](../bbugyi200.athena.sase-7p.4/README.md) | sase-7p hood | dismissed |

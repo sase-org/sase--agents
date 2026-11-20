@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cd1fe6e`](https://github.com/sase-org/sase/commit/cd1fe6e842665e747b9c3c775b0b3bf13bf026c2) | fix(axe): harden lumberjack crash recovery (sase-7p.2) | 2026-07-19 17:56:05 EDT |
+| — | `cd1fe6e` | fix(axe): harden lumberjack crash recovery (sase-7p.2) | 2026-07-19 17:56:05 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7p.1](../bbugyi200.athena.sase-7p.1/README.md) | sase-7p hood | active |
+| [sase-7p.1](../bbugyi200.athena.sase-7p.1/README.md) | sase-7p hood | dismissed |
 | [sase-7p.3](../bbugyi200.athena.sase-7p.3/README.md) | sase-7p hood | dismissed |
 | [sase-7p.4](../bbugyi200.athena.sase-7p.4/README.md) | sase-7p hood | dismissed |
 | [sase-7p.5](../bbugyi200.athena.sase-7p.5/README.md) | sase-7p hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-7o](../../users/bbugyi200/machines/athena/hoods/sase-7o/README.md) / [sase-7o.4.w3](../../sessions/bbugyi200.athena.sase-7o.4.w3.md) / sase-7o.4.w3--plan
 
-**Global name:** `bbugyi200.athena.sase-7o.4.w3--plan` · **State:** active · **Source run:** `run-d0109a354b9634378a14e7b5014ba38e`
+**Global name:** `bbugyi200.athena.sase-7o.4.w3--plan` · **State:** dismissed · **Source run:** `run-d0109a354b9634378a14e7b5014ba38e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-7o
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-19T21:52:27.060013+00:00
+- Timing: 2026-07-19T17:52:27.060013 → 2026-07-19T19:03:34.746574
 - Commits: 0
 
 ## Files
@@ -23,12 +23,12 @@
 |---|---|---|
 | [sase-7o.4](../bbugyi200.athena.sase-7o.4/README.md) | ancestor | dismissed |
 | [sase-7o.4.w2](../bbugyi200.athena.sase-7o.4.w2/README.md) | sase-7o.4 hood | dismissed |
-| [sase-7o.1](../bbugyi200.athena.sase-7o.1/README.md) | sase-7o hood | active |
+| [sase-7o.1](../bbugyi200.athena.sase-7o.1/README.md) | sase-7o hood | dismissed |
 | [sase-7o.2](../bbugyi200.athena.sase-7o.2/README.md) | sase-7o hood | dismissed |
 | [sase-7o.3](../bbugyi200.athena.sase-7o.3/README.md) | sase-7o hood | dismissed |
 | [sase-7o.5](../bbugyi200.athena.sase-7o.5/README.md) | sase-7o hood | dismissed |
 | [sase-7o.land](../bbugyi200.athena.sase-7o.land/README.md) | sase-7o hood | dismissed |
-| [sase-7o.w0](../bbugyi200.athena.sase-7o.w0/README.md) | sase-7o hood | waiting |
+| [sase-7o.w0](../bbugyi200.athena.sase-7o.w0/README.md) | sase-7o hood | dismissed |
 | [sase-7o.w1](../bbugyi200.athena.sase-7o.w1/README.md) | sase-7o hood | dismissed |
 | [sase-7o.w2](../bbugyi200.athena.sase-7o.w2/README.md) | sase-7o hood | dismissed |
 | [sase-7o.w3](../bbugyi200.athena.sase-7o.w3/README.md) | sase-7o hood | dismissed |

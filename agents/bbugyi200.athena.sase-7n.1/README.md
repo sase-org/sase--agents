@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-7n](../../users/bbugyi200/machines/athena/hoods/sase-7n/README.md) / sase-7n.1
 
-**Global name:** `bbugyi200.athena.sase-7n.1` · **State:** active · **Source run:** `run-42cf91ff60fbe8b1d2bde529cdcdc2f6`
+**Global name:** `bbugyi200.athena.sase-7n.1` · **State:** dismissed · **Source run:** `run-42cf91ff60fbe8b1d2bde529cdcdc2f6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-7n
 
@@ -11,7 +11,7 @@
 - Bead: [sase-7n.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-7n/sase-7n.1.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-19T19:05:56.760068+00:00
+- Timing: 2026-07-19T15:05:56.760068 → 2026-07-19T15:19:19.428948
 - Commits: 0
 
 ## Files

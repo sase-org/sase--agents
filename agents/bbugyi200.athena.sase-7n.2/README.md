@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc5b7ea`](https://github.com/sase-org/sase/commit/dc5b7ea8b5cba5b79503068918a81ea285c90539) | refactor: remove legacy repeat planner bridge (sase-7n.2) | 2026-07-19 15:34:45 EDT |
+| — | `dc5b7ea` | refactor: remove legacy repeat planner bridge (sase-7n.2) | 2026-07-19 15:34:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7n.1](../bbugyi200.athena.sase-7n.1/README.md) | sase-7n hood | active |
+| [sase-7n.1](../bbugyi200.athena.sase-7n.1/README.md) | sase-7n hood | dismissed |
 | [sase-7n.3](../bbugyi200.athena.sase-7n.3/README.md) | sase-7n hood | dismissed |
 | [sase-7n.land](../../sessions/bbugyi200.athena.sase-7n.land.md) (session · 1) | sase-7n hood | dismissed 1 |

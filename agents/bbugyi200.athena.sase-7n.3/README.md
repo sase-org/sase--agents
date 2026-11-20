@@ -22,6 +22,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7n.1](../bbugyi200.athena.sase-7n.1/README.md) | sase-7n hood | active |
+| [sase-7n.1](../bbugyi200.athena.sase-7n.1/README.md) | sase-7n hood | dismissed |
 | [sase-7n.2](../bbugyi200.athena.sase-7n.2/README.md) | sase-7n hood | dismissed |
 | [sase-7n.land](../../sessions/bbugyi200.athena.sase-7n.land.md) (session · 1) | sase-7n hood | dismissed 1 |

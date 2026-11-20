@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0138849`](https://github.com/sase-org/sase/commit/0138849d919e0136b6eedadbcfb28e603f2b58bb) | feat(agents)!: complete tribe terminology cutover (sase-7j.4) | 2026-07-19 17:38:55 EDT |
+| — | `0138849` | feat(agents)!: complete tribe terminology cutover (sase-7j.4) | 2026-07-19 17:38:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7j.1](../bbugyi200.athena.sase-7j.1/README.md) | sase-7j hood | active |
-| [sase-7j.2](../bbugyi200.athena.sase-7j.2/README.md) | sase-7j hood | active |
+| [sase-7j.1](../bbugyi200.athena.sase-7j.1/README.md) | sase-7j hood | dismissed |
+| [sase-7j.2](../bbugyi200.athena.sase-7j.2/README.md) | sase-7j hood | dismissed |
 | [sase-7j.3](../bbugyi200.athena.sase-7j.3/README.md) | sase-7j hood | dismissed |
 | [sase-7j.land](../bbugyi200.athena.sase-7j.land/README.md) | sase-7j hood | dismissed |

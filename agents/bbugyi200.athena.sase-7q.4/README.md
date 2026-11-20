@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5360b08`](https://github.com/sase-org/sase/commit/5360b083ea1034067c2043d135ba8abedd571d1a) | fix(axe): honor clan guards before action dedupe (sase-7q.4) | 2026-07-19 20:06:32 EDT |
+| — | `5360b08` | fix(axe): honor clan guards before action dedupe (sase-7q.4) | 2026-07-19 20:06:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7q.1](../bbugyi200.athena.sase-7q.1/README.md) | sase-7q hood | active |
+| [sase-7q.1](../bbugyi200.athena.sase-7q.1/README.md) | sase-7q hood | dismissed |
 | [sase-7q.2](../bbugyi200.athena.sase-7q.2/README.md) | sase-7q hood | dismissed |
 | [sase-7q.3](../bbugyi200.athena.sase-7q.3/README.md) | sase-7q hood | dismissed |
 | [sase-7q.land](../bbugyi200.athena.sase-7q.land/README.md) | sase-7q hood | dismissed |

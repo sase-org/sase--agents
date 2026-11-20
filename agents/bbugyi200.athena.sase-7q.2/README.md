@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`24ff23f`](https://github.com/sase-org/sase/commit/24ff23f6bd1d20a0f3fd25d9482544ac96843294) | feat(axe): add clan-scoped chop launches (sase-7q.2) | 2026-07-19 19:15:38 EDT |
+| — | `24ff23f` | feat(axe): add clan-scoped chop launches (sase-7q.2) | 2026-07-19 19:15:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7q.1](../bbugyi200.athena.sase-7q.1/README.md) | sase-7q hood | active |
+| [sase-7q.1](../bbugyi200.athena.sase-7q.1/README.md) | sase-7q hood | dismissed |
 | [sase-7q.3](../bbugyi200.athena.sase-7q.3/README.md) | sase-7q hood | dismissed |
 | [sase-7q.4](../bbugyi200.athena.sase-7q.4/README.md) | sase-7q hood | dismissed |
 | [sase-7q.land](../bbugyi200.athena.sase-7q.land/README.md) | sase-7q hood | dismissed |
