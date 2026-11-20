@@ -22,7 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-5w](../bbugyi200.athena.sase-5w/README.md) | ancestor | dismissed |
-| [sase-5w.1](../bbugyi200.athena.sase-5w.1/README.md) | sase-5w hood | active |
+| [sase-5w.1](../bbugyi200.athena.sase-5w.1/README.md) | sase-5w hood | dismissed |
 | [sase-5w.2](../bbugyi200.athena.sase-5w.2/README.md) | sase-5w hood | dismissed |
 | [sase-5w.3](../bbugyi200.athena.sase-5w.3/README.md) | sase-5w hood | dismissed |
 | [sase-5w.4](../bbugyi200.athena.sase-5w.4/README.md) | sase-5w hood | dismissed |

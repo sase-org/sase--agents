@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ffcfae3`](https://github.com/sase-org/sase/commit/ffcfae364dd34df5ca2ddd5780c3a59d619caff6) | feat(cli)!: redesign repo list inventory (sase-5x.2) | 2026-07-13 14:55:56 EDT |
+| — | `ffcfae3` | feat(cli)!: redesign repo list inventory (sase-5x.2) | 2026-07-13 14:55:56 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [sase-5x.1](../bbugyi200.athena.sase-5x.1/README.md) | sase-5x hood | dismissed |
 | [sase-5x.3](../bbugyi200.athena.sase-5x.3/README.md) | sase-5x hood | dismissed |
 | [sase-5x.4](../bbugyi200.athena.sase-5x.4/README.md) | sase-5x hood | dismissed |
-| [sase-5x.w0](../../sessions/bbugyi200.athena.sase-5x.w0.md) (session · 2) | sase-5x hood | active 1, completed 1 |
+| [sase-5x.w0](../../sessions/bbugyi200.athena.sase-5x.w0.md) (session · 2) | sase-5x hood | completed 1, dismissed 1 |

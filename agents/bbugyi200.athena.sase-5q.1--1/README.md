@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5df88d7`](https://github.com/sase-org/sase/commit/5df88d7ca00e1cae07fd7033be28ed0a17f2fdb4) | fix(memory): finalize linked repository initialization (sase-5q.1) | 2026-07-11 19:47:14 EDT |
+| — | `5df88d7` | fix(memory): finalize linked repository initialization (sase-5q.1) | 2026-07-11 19:47:14 EDT |
 
 ## Neighbors
 
@@ -33,5 +33,5 @@
 | [sase-5q.3](../bbugyi200.athena.sase-5q.3/README.md) | sase-5q hood | dismissed |
 | [sase-5q.4](../bbugyi200.athena.sase-5q.4/README.md) | sase-5q hood | dismissed |
 | [sase-5q.5](../bbugyi200.athena.sase-5q.5/README.md) | sase-5q hood | dismissed |
-| [sase-5q.6](../../sessions/bbugyi200.athena.sase-5q.6.md) (session · 2) | sase-5q hood | active 1, completed 1 |
+| [sase-5q.6](../../sessions/bbugyi200.athena.sase-5q.6.md) (session · 2) | sase-5q hood | completed 1, dismissed 1 |
 | [sase-5q.7](../bbugyi200.athena.sase-5q.7/README.md) | sase-5q hood | dismissed |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1f48a86`](https://github.com/sase-org/sase/commit/1f48a86f142343b6ea38121092df590eb07b0ec5) | refactor(repo): privatize repo-open log symbols and purify open stdout (sase-5x) | 2026-07-13 16:06:38 EDT |
+| — | `1f48a86` | refactor(repo): privatize repo-open log symbols and purify open stdout (sase-5x) | 2026-07-13 16:06:38 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [sase-5x.2](../bbugyi200.athena.sase-5x.2/README.md) | descendant | dismissed |
 | [sase-5x.3](../bbugyi200.athena.sase-5x.3/README.md) | descendant | dismissed |
 | [sase-5x.4](../bbugyi200.athena.sase-5x.4/README.md) | descendant | dismissed |
-| [sase-5x.w0](../../sessions/bbugyi200.athena.sase-5x.w0.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-5x.w0](../../sessions/bbugyi200.athena.sase-5x.w0.md) (session · 2) | descendant | completed 1, dismissed 1 |

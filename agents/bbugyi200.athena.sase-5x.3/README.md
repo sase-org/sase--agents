@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1ec31b8`](https://github.com/sase-org/sase/commit/1ec31b87d4535e9f298ea22d738a171b28232f79) | feat(repo): add repository open log dashboard (sase-5x.3) | 2026-07-13 15:16:07 EDT |
+| — | `1ec31b8` | feat(repo): add repository open log dashboard (sase-5x.3) | 2026-07-13 15:16:07 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [sase-5x.1](../bbugyi200.athena.sase-5x.1/README.md) | sase-5x hood | dismissed |
 | [sase-5x.2](../bbugyi200.athena.sase-5x.2/README.md) | sase-5x hood | dismissed |
 | [sase-5x.4](../bbugyi200.athena.sase-5x.4/README.md) | sase-5x hood | dismissed |
-| [sase-5x.w0](../../sessions/bbugyi200.athena.sase-5x.w0.md) (session · 2) | sase-5x hood | active 1, completed 1 |
+| [sase-5x.w0](../../sessions/bbugyi200.athena.sase-5x.w0.md) (session · 2) | sase-5x hood | completed 1, dismissed 1 |

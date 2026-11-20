@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-5w](../../users/bbugyi200/machines/athena/hoods/sase-5w/README.md) / sase-5w.1
 
-**Global name:** `bbugyi200.athena.sase-5w.1` · **State:** active · **Source run:** `run-5191877e41236731fb6581297c29e26c`
+**Global name:** `bbugyi200.athena.sase-5w.1` · **State:** dismissed · **Source run:** `run-5191877e41236731fb6581297c29e26c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-5w
 
@@ -11,7 +11,7 @@
 - Bead: [sase-5w.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-5w/sase-5w.1.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-13T10:02:02.047316
+- Timing: 2026-07-13T10:02:02.047316 → 2026-07-13T10:59:42.980735
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f47815d`](https://github.com/sase-org/sase/commit/f47815df3109bb7708303c230d63e09c33fb4239) | feat(projects): adopt enabled and disabled lifecycle states (sase-5w.1) | 2026-07-13 10:58:47 EDT |
+| — | `f47815d` | feat(projects): adopt enabled and disabled lifecycle states (sase-5w.1) | 2026-07-13 10:58:47 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [sase-5w.f0](../bbugyi200.athena.sase-5w.f0/README.md) | sase-5w hood | waiting |
 | [sase-5w.f1](../bbugyi200.athena.sase-5w.f1/README.md) | sase-5w hood | waiting |
 | [sase-5w.f2](../bbugyi200.athena.sase-5w.f2/README.md) | sase-5w hood | dismissed |
-| [sase-5w.f3](../../sessions/bbugyi200.athena.sase-5w.f3.md) (session · 2) | sase-5w hood | active 1, completed 1 |
+| [sase-5w.f3](../../sessions/bbugyi200.athena.sase-5w.f3.md) (session · 2) | sase-5w hood | completed 1, dismissed 1 |

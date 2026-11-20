@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`185b8a4`](https://github.com/sase-org/sase/commit/185b8a45fdbb06f7c673e84e123759d6ab3ca4d0) | refactor(workspace): privatize workspace inventory project info | 2026-07-13 13:54:00 EDT |
+| — | `185b8a4` | refactor(workspace): privatize workspace inventory project info | 2026-07-13 13:54:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5w.1](../bbugyi200.athena.sase-5w.1/README.md) | descendant | active |
+| [sase-5w.1](../bbugyi200.athena.sase-5w.1/README.md) | descendant | dismissed |
 | [sase-5w.2](../bbugyi200.athena.sase-5w.2/README.md) | descendant | dismissed |
 | [sase-5w.3](../bbugyi200.athena.sase-5w.3/README.md) | descendant | dismissed |
 | [sase-5w.4](../bbugyi200.athena.sase-5w.4/README.md) | descendant | dismissed |
@@ -37,4 +37,4 @@
 | [sase-5w.f0](../bbugyi200.athena.sase-5w.f0/README.md) | descendant | waiting |
 | [sase-5w.f1](../bbugyi200.athena.sase-5w.f1/README.md) | descendant | waiting |
 | [sase-5w.f2](../bbugyi200.athena.sase-5w.f2/README.md) | descendant | dismissed |
-| [sase-5w.f3](../../sessions/bbugyi200.athena.sase-5w.f3.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-5w.f3](../../sessions/bbugyi200.athena.sase-5w.f3.md) (session · 2) | descendant | completed 1, dismissed 1 |

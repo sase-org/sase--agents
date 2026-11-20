@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`75ee0fb`](https://github.com/sase-org/sase/commit/75ee0fb6a8ec7cc1dfa00214c05d704e8383507e) | docs(sdd): add companion repository infographics (sase-5q.5) | 2026-07-11 21:02:05 EDT |
+| — | `75ee0fb` | docs(sdd): add companion repository infographics (sase-5q.5) | 2026-07-11 21:02:05 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-5q](../../sessions/bbugyi200.athena.sase-5q.md) (session · 1) | ancestor | active 1 |
-| [sase-5q.1](../../sessions/bbugyi200.athena.sase-5q.1.md) (session · 2) | sase-5q hood | active 1, completed 1 |
+| [sase-5q.1](../../sessions/bbugyi200.athena.sase-5q.1.md) (session · 2) | sase-5q hood | completed 1, dismissed 1 |
 | [sase-5q.2](../bbugyi200.athena.sase-5q.2/README.md) | sase-5q hood | dismissed |
 | [sase-5q.3](../bbugyi200.athena.sase-5q.3/README.md) | sase-5q hood | dismissed |
 | [sase-5q.4](../bbugyi200.athena.sase-5q.4/README.md) | sase-5q hood | dismissed |
-| [sase-5q.6](../../sessions/bbugyi200.athena.sase-5q.6.md) (session · 2) | sase-5q hood | active 1, completed 1 |
+| [sase-5q.6](../../sessions/bbugyi200.athena.sase-5q.6.md) (session · 2) | sase-5q hood | completed 1, dismissed 1 |
 | [sase-5q.7](../bbugyi200.athena.sase-5q.7/README.md) | sase-5q hood | dismissed |

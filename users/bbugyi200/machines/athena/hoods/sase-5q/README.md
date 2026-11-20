@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-5q
 
-**Global hood:** `bbugyi200.athena.sase-5q` · **Runs:** 10 · **Sessions:** 3 · **States:** active 3, completed 2, dismissed 5
+**Global hood:** `bbugyi200.athena.sase-5q` · **Runs:** 10 · **Sessions:** 3 · **States:** active 1, completed 2, dismissed 7
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,7 +12,7 @@
 | [sase-5q.6--1](../../../../../../sessions/bbugyi200.athena.sase-5q.6.md#member-1) | completed | gpt-5.6-sol / codex | 2026-07-12T01:26:41.512881+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-5q.6--1/chat.md) |
 | [sase-5q--code](../../../../../../sessions/bbugyi200.athena.sase-5q.md#member-code) | active | gpt-5.6-sol / codex | 2026-07-12T02:26:01.345672+00:00 | 0 | — |
 | [sase-5q.5](../../../../../../agents/bbugyi200.athena.sase-5q.5/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-11T20:39:34.974356 → 2026-07-11T21:02:25.423557 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5q.5/chat.md) |
-| [sase-5q.6](../../../../../../agents/bbugyi200.athena.sase-5q.6/README.md) | active | gpt-5.6-sol / codex | 2026-07-12T01:02:34.435853+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-5q.6/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-5q.6/prompt.md) |
+| [sase-5q.6](../../../../../../agents/bbugyi200.athena.sase-5q.6/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-11T21:02:34.435853 → 2026-07-11T21:40:49.042717 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-5q.6/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-5q.6/prompt.md) |
 | [sase-5q.2](../../../../../../agents/bbugyi200.athena.sase-5q.2/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-11T19:47:40.835750 → 2026-07-11T20:12:16.487827 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5q.2/chat.md) |
 | [sase-5q.1--1](../../../../../../sessions/bbugyi200.athena.sase-5q.1.md#member-1) | completed | gpt-5.6-sol / codex | 2026-07-11T23:31:33.544893+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5q.1--1/chat.md) |
-| [sase-5q.1](../../../../../../agents/bbugyi200.athena.sase-5q.1/README.md) | active | gpt-5.6-sol / codex | 2026-07-11T23:17:27.489280+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5q.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-5q.1/prompt.md) |
+| [sase-5q.1](../../../../../../agents/bbugyi200.athena.sase-5q.1/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-11T19:17:27.489280 → 2026-07-11T19:47:31.681500 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5q.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-5q.1/prompt.md) |

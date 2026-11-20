@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3a8eea0`](https://github.com/sase-org/sase/commit/3a8eea0c28798a597b759cb3780a3044ecd26047) | feat(cli): add audited repository open command (sase-5x.1) | 2026-07-13 14:36:16 EDT |
+| — | `3a8eea0` | feat(cli): add audited repository open command (sase-5x.1) | 2026-07-13 14:36:16 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [sase-5x.2](../bbugyi200.athena.sase-5x.2/README.md) | sase-5x hood | dismissed |
 | [sase-5x.3](../bbugyi200.athena.sase-5x.3/README.md) | sase-5x hood | dismissed |
 | [sase-5x.4](../bbugyi200.athena.sase-5x.4/README.md) | sase-5x hood | dismissed |
-| [sase-5x.w0](../../sessions/bbugyi200.athena.sase-5x.w0.md) (session · 2) | sase-5x hood | active 1, completed 1 |
+| [sase-5x.w0](../../sessions/bbugyi200.athena.sase-5x.w0.md) (session · 2) | sase-5x hood | completed 1, dismissed 1 |

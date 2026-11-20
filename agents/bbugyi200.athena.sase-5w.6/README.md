@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ac9cae`](https://github.com/sase-org/sase/commit/5ac9cae00422448957adbe9b288eb0eedb051232) | feat(doctor): diagnose stale project and workspace state | 2026-07-13 13:37:29 EDT |
+| — | `5ac9cae` | feat(doctor): diagnose stale project and workspace state | 2026-07-13 13:37:29 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-5w](../bbugyi200.athena.sase-5w/README.md) | ancestor | dismissed |
-| [sase-5w.1](../bbugyi200.athena.sase-5w.1/README.md) | sase-5w hood | active |
+| [sase-5w.1](../bbugyi200.athena.sase-5w.1/README.md) | sase-5w hood | dismissed |
 | [sase-5w.2](../bbugyi200.athena.sase-5w.2/README.md) | sase-5w hood | dismissed |
 | [sase-5w.3](../bbugyi200.athena.sase-5w.3/README.md) | sase-5w hood | dismissed |
 | [sase-5w.4](../bbugyi200.athena.sase-5w.4/README.md) | sase-5w hood | dismissed |
@@ -37,4 +37,4 @@
 | [sase-5w.f0](../bbugyi200.athena.sase-5w.f0/README.md) | sase-5w hood | waiting |
 | [sase-5w.f1](../bbugyi200.athena.sase-5w.f1/README.md) | sase-5w hood | waiting |
 | [sase-5w.f2](../bbugyi200.athena.sase-5w.f2/README.md) | sase-5w hood | dismissed |
-| [sase-5w.f3](../../sessions/bbugyi200.athena.sase-5w.f3.md) (session · 2) | sase-5w hood | active 1, completed 1 |
+| [sase-5w.f3](../../sessions/bbugyi200.athena.sase-5w.f3.md) (session · 2) | sase-5w hood | completed 1, dismissed 1 |

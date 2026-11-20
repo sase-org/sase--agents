@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-5w` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["sase-5w.f3 [active]"]
+  n0["sase-5w.f3 [dismissed]"]
   n1["sase-5w.f3--epic [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | sase-5w.f3 | active | claude-fable-5 / claude | 2026-07-13T17:55:04.379530+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-5w.f3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-5w.f3/chat.md) |
+| <a id="member-root"></a>root | sase-5w.f3 | dismissed | claude-fable-5 / claude | 2026-07-13T13:55:04.379530 → 2026-07-13T14:15:09.000339 | 0 | [Prompt](../agents/bbugyi200.athena.sase-5w.f3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-5w.f3/chat.md) |
 | <a id="member-epic"></a>epic | sase-5w.f3--epic | completed | gpt-5.6-sol / codex | 2026-07-13T18:11:09.617568+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-5w.f3--epic/chat.md) |
 
 ## Neighbors
@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-5w](../agents/bbugyi200.athena.sase-5w/README.md) | ancestor | dismissed |
-| [sase-5w.1](../agents/bbugyi200.athena.sase-5w.1/README.md) | sase-5w hood | active |
+| [sase-5w.1](../agents/bbugyi200.athena.sase-5w.1/README.md) | sase-5w hood | dismissed |
 | [sase-5w.2](../agents/bbugyi200.athena.sase-5w.2/README.md) | sase-5w hood | dismissed |
 | [sase-5w.3](../agents/bbugyi200.athena.sase-5w.3/README.md) | sase-5w hood | dismissed |
 | [sase-5w.4](../agents/bbugyi200.athena.sase-5w.4/README.md) | sase-5w hood | dismissed |

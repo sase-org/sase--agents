@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`83138f0`](https://github.com/sase-org/sase/commit/83138f0bd0baa85bd2cdbcd18c4d257d30ab0c90) | feat(ace): add repository and workspace inventory tabs | 2026-07-13 13:13:58 EDT |
+| — | `83138f0` | feat(ace): add repository and workspace inventory tabs | 2026-07-13 13:13:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-5w](../bbugyi200.athena.sase-5w/README.md) | ancestor | dismissed |
-| [sase-5w.1](../bbugyi200.athena.sase-5w.1/README.md) | sase-5w hood | active |
+| [sase-5w.1](../bbugyi200.athena.sase-5w.1/README.md) | sase-5w hood | dismissed |
 | [sase-5w.2](../bbugyi200.athena.sase-5w.2/README.md) | sase-5w hood | dismissed |
 | [sase-5w.3](../bbugyi200.athena.sase-5w.3/README.md) | sase-5w hood | dismissed |
 | [sase-5w.4](../bbugyi200.athena.sase-5w.4/README.md) | sase-5w hood | dismissed |
@@ -37,4 +37,4 @@
 | [sase-5w.f0](../bbugyi200.athena.sase-5w.f0/README.md) | sase-5w hood | waiting |
 | [sase-5w.f1](../bbugyi200.athena.sase-5w.f1/README.md) | sase-5w hood | waiting |
 | [sase-5w.f2](../bbugyi200.athena.sase-5w.f2/README.md) | sase-5w hood | dismissed |
-| [sase-5w.f3](../../sessions/bbugyi200.athena.sase-5w.f3.md) (session · 2) | sase-5w hood | active 1, completed 1 |
+| [sase-5w.f3](../../sessions/bbugyi200.athena.sase-5w.f3.md) (session · 2) | sase-5w hood | completed 1, dismissed 1 |

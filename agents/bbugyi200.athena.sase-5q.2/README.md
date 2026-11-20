@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4c40d5a`](https://github.com/sase-org/sase/commit/4c40d5af8f3f6ecdb367891483a720b68b6cd3a0) | feat(sdd): support split companion repositories (sase-5q.2) | 2026-07-11 20:09:50 EDT |
+| — | `4c40d5a` | feat(sdd): support split companion repositories (sase-5q.2) | 2026-07-11 20:09:50 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-5q](../../sessions/bbugyi200.athena.sase-5q.md) (session · 1) | ancestor | active 1 |
-| [sase-5q.1](../../sessions/bbugyi200.athena.sase-5q.1.md) (session · 2) | sase-5q hood | active 1, completed 1 |
+| [sase-5q.1](../../sessions/bbugyi200.athena.sase-5q.1.md) (session · 2) | sase-5q hood | completed 1, dismissed 1 |
 | [sase-5q.3](../bbugyi200.athena.sase-5q.3/README.md) | sase-5q hood | dismissed |
 | [sase-5q.4](../bbugyi200.athena.sase-5q.4/README.md) | sase-5q hood | dismissed |
 | [sase-5q.5](../bbugyi200.athena.sase-5q.5/README.md) | sase-5q hood | dismissed |
-| [sase-5q.6](../../sessions/bbugyi200.athena.sase-5q.6.md) (session · 2) | sase-5q hood | active 1, completed 1 |
+| [sase-5q.6](../../sessions/bbugyi200.athena.sase-5q.6.md) (session · 2) | sase-5q hood | completed 1, dismissed 1 |
 | [sase-5q.7](../bbugyi200.athena.sase-5q.7/README.md) | sase-5q hood | dismissed |

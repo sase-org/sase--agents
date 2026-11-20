@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-5v` · Members: 2 · Bead: [sase-5v.5](
 ```mermaid
 flowchart TD
   n0["sase-5v.5--1 [completed]"]
-  n1["sase-5v.5 [active]"]
+  n1["sase-5v.5 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,13 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-5v.5--1 | completed | gpt-5.6-sol / codex | 2026-07-13T10:38:16.626658+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-5v.5--1/chat.md) |
-| <a id="member-root"></a>root | sase-5v.5 | active | gpt-5.6-sol / codex | 2026-07-13T00:03:32.943841+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-5v.5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-5v.5/chat.md) |
+| <a id="member-root"></a>root | sase-5v.5 | dismissed | gpt-5.6-sol / codex | 2026-07-12T20:03:32.943841 → 2026-07-13T06:42:01.071894 | 0 | [Prompt](../agents/bbugyi200.athena.sase-5v.5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-5v.5/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5v](bbugyi200.athena.sase-5v.md) (session · 3) | ancestor | active 3 |
+| [sase-5v](bbugyi200.athena.sase-5v.md) (session · 3) | ancestor | active 2, dismissed 1 |
 | [sase-5v.1](../agents/bbugyi200.athena.sase-5v.1/README.md) | sase-5v hood | dismissed |
 | [sase-5v.2](../agents/bbugyi200.athena.sase-5v.2/README.md) | sase-5v hood | dismissed |
 | [sase-5v.3](../agents/bbugyi200.athena.sase-5v.3/README.md) | sase-5v hood | dismissed |
