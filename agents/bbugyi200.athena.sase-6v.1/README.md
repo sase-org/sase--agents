@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`59a7b71`](https://github.com/sase-org/sase/commit/59a7b717289bed998b56a0ff19f38a2565228f90) | feat: expose axe chop core facade (sase-6v.1) | 2026-07-18 16:21:39 EDT |
+| — | `59a7b71` | feat: expose axe chop core facade (sase-6v.1) | 2026-07-18 16:21:39 EDT |
 
 ## Neighbors
 
@@ -30,6 +30,6 @@
 | [sase-6v.5](../bbugyi200.athena.sase-6v.5/README.md) | sase-6v hood | dismissed |
 | [sase-6v.6](../bbugyi200.athena.sase-6v.6/README.md) | sase-6v hood | dismissed |
 | [sase-6v.7](../bbugyi200.athena.sase-6v.7/README.md) | sase-6v hood | dismissed |
-| [sase-6v.8](../bbugyi200.athena.sase-6v.8/README.md) | sase-6v hood | active |
-| [sase-6v.9](../bbugyi200.athena.sase-6v.9/README.md) | sase-6v hood | active |
-| [sase-6v.land](../bbugyi200.athena.sase-6v.land/README.md) | sase-6v hood | active |
+| [sase-6v.8](../bbugyi200.athena.sase-6v.8/README.md) | sase-6v hood | dismissed |
+| [sase-6v.9](../bbugyi200.athena.sase-6v.9/README.md) | sase-6v hood | dismissed |
+| [sase-6v.land](../bbugyi200.athena.sase-6v.land/README.md) | sase-6v hood | dismissed |

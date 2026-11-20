@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bef0744`](https://github.com/sase-org/sase/commit/bef07444d52a2263ebc050f5136cf8df37a2b7aa) | feat(tui): add live Plans filtering (sase-6t.3) | 2026-07-18 14:04:03 EDT |
+| — | `bef0744` | feat(tui): add live Plans filtering (sase-6t.3) | 2026-07-18 14:04:03 EDT |
 
 ## Neighbors
 
@@ -33,8 +33,8 @@
 | [sase-6t.4](../bbugyi200.athena.sase-6t.4/README.md) | sase-6t hood | dismissed |
 | [sase-6t.5](../bbugyi200.athena.sase-6t.5/README.md) | sase-6t hood | dismissed |
 | [sase-6t.land](../bbugyi200.athena.sase-6t.land/README.md) | sase-6t hood | dismissed |
-| [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t hood | waiting |
+| [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t hood | dismissed |
 | [sase-6t.land.w1](../bbugyi200.athena.sase-6t.land.w1/README.md) | sase-6t hood | dismissed |
 | [sase-6t.land.w1.w0](../bbugyi200.athena.sase-6t.land.w1.w0/README.md) | sase-6t hood | dismissed |
-| [sase-6t.land.w2](../../sessions/bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | sase-6t hood | active 1, completed 1 |
-| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | sase-6t hood | active 1, completed 1 |
+| [sase-6t.land.w2](../../sessions/bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | sase-6t hood | completed 1, dismissed 1 |
+| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | sase-6t hood | completed 1, dismissed 1 |

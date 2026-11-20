@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`958569b`](https://github.com/sase-org/sase/commit/958569b92c4e637d440468b2aad434dafc36f6ed) | feat(tui): render fold-aware clan summary sections (sase-6u.3) | 2026-07-18 15:03:40 EDT |
+| — | `958569b` | feat(tui): render fold-aware clan summary sections (sase-6u.3) | 2026-07-18 15:03:40 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [sase-6u.1](../bbugyi200.athena.sase-6u.1/README.md) | sase-6u hood | dismissed |
 | [sase-6u.2](../bbugyi200.athena.sase-6u.2/README.md) | sase-6u hood | dismissed |
 | [sase-6u.4](../bbugyi200.athena.sase-6u.4/README.md) | sase-6u hood | dismissed |
-| [sase-6u.land](../../sessions/bbugyi200.athena.sase-6u.land.md) (session · 2) | sase-6u hood | active 1, completed 1 |
+| [sase-6u.land](../../sessions/bbugyi200.athena.sase-6u.land.md) (session · 2) | sase-6u hood | completed 1, dismissed 1 |

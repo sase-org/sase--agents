@@ -21,15 +21,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9de151e`](https://github.com/sase-org/sase/commit/9de151eb32c233e610776ae86eb40a579518d9bf) | feat(ace): support negative artifact filters | 2026-07-18 16:09:21 EDT |
+| — | `9de151e` | feat(ace): support negative artifact filters | 2026-07-18 16:09:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-6t.land](../bbugyi200.athena.sase-6t.land/README.md) | ancestor | dismissed |
-| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t.land hood | waiting |
+| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t.land hood | dismissed |
 | [sase-6t.land.w1](../bbugyi200.athena.sase-6t.land.w1/README.md) | sase-6t.land hood | dismissed |
 | [sase-6t.land.w1.w0](../bbugyi200.athena.sase-6t.land.w1.w0/README.md) | sase-6t.land hood | dismissed |
 | [sase-6t.1](../bbugyi200.athena.sase-6t.1/README.md) | sase-6t hood | completed |

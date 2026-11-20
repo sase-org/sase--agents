@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-6t` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["sase-6t.land.w2.w1--plan [active]"]
+  n0["sase-6t.land.w2.w1--plan [dismissed]"]
   n1["sase-6t.land.w2.w1--code [completed]"]
   n0 --> n1
 ```
@@ -17,22 +17,22 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-6t.land.w2.w1--plan | active | gpt-5.6-sol / codex | 2026-07-18T20:09:51.630208+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6t.land.w2.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6t.land.w2.w1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-6t.land.w2.w1--plan | dismissed | gpt-5.6-sol / codex | 2026-07-18T16:09:51.630208 → 2026-07-18T17:00:51.404376 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6t.land.w2.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6t.land.w2.w1--plan/chat.md) |
 | <a id="member-code"></a>code | sase-6t.land.w2.w1--code | completed | gpt-5.6-sol / codex | 2026-07-18T20:26:21.243437+00:00 | [1](../agents/bbugyi200.athena.sase-6t.land.w2.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-6t.land.w2.w1--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c8abfe2`](https://github.com/sase-org/sase/commit/c8abfe29f6653fa5615051157e470c4e5dd8ddba) | feat(ace): load linked plans in artifact details | 2026-07-18 17:00:34 EDT |
+| code | — | `c8abfe2` | feat(ace): load linked plans in artifact details | 2026-07-18 17:00:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6t.land.w2](bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6t.land.w2](bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6t.land](../agents/bbugyi200.athena.sase-6t.land/README.md) | ancestor | dismissed |
-| [sase-6t.land.w0](../agents/bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t.land hood | waiting |
+| [sase-6t.land.w0](../agents/bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t.land hood | dismissed |
 | [sase-6t.land.w1](../agents/bbugyi200.athena.sase-6t.land.w1/README.md) | sase-6t.land hood | dismissed |
 | [sase-6t.land.w1.w0](../agents/bbugyi200.athena.sase-6t.land.w1.w0/README.md) | sase-6t.land hood | dismissed |
 | [sase-6t.1](../agents/bbugyi200.athena.sase-6t.1/README.md) | sase-6t hood | completed |

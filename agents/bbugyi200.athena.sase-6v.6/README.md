@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4e8b4e1`](https://github.com/sase-org/sase/commit/4e8b4e11270ebee82ec422b8a6c09b90d54c9fe0) | feat(axe): add composable targeted chops | 2026-07-18 19:34:22 EDT |
+| — | `4e8b4e1` | feat(axe): add composable targeted chops | 2026-07-18 19:34:22 EDT |
 
 ## Neighbors
 
@@ -34,6 +34,6 @@
 | [sase-6v.4](../bbugyi200.athena.sase-6v.4/README.md) | sase-6v hood | dismissed |
 | [sase-6v.5](../bbugyi200.athena.sase-6v.5/README.md) | sase-6v hood | dismissed |
 | [sase-6v.7](../bbugyi200.athena.sase-6v.7/README.md) | sase-6v hood | dismissed |
-| [sase-6v.8](../bbugyi200.athena.sase-6v.8/README.md) | sase-6v hood | active |
-| [sase-6v.9](../bbugyi200.athena.sase-6v.9/README.md) | sase-6v hood | active |
-| [sase-6v.land](../bbugyi200.athena.sase-6v.land/README.md) | sase-6v hood | active |
+| [sase-6v.8](../bbugyi200.athena.sase-6v.8/README.md) | sase-6v hood | dismissed |
+| [sase-6v.9](../bbugyi200.athena.sase-6v.9/README.md) | sase-6v hood | dismissed |
+| [sase-6v.land](../bbugyi200.athena.sase-6v.land/README.md) | sase-6v hood | dismissed |

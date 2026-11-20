@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`65f6884`](https://github.com/sase-org/sase/commit/65f68843c8885e0adeebad6ccda3d04f10e09693) | feat(tui): add clan section aggregation layer (sase-6u.2) | 2026-07-18 14:22:32 EDT |
+| — | `65f6884` | feat(tui): add clan section aggregation layer (sase-6u.2) | 2026-07-18 14:22:32 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [sase-6u.1](../bbugyi200.athena.sase-6u.1/README.md) | sase-6u hood | dismissed |
 | [sase-6u.3](../bbugyi200.athena.sase-6u.3/README.md) | sase-6u hood | dismissed |
 | [sase-6u.4](../bbugyi200.athena.sase-6u.4/README.md) | sase-6u hood | dismissed |
-| [sase-6u.land](../../sessions/bbugyi200.athena.sase-6u.land.md) (session · 2) | sase-6u hood | active 1, completed 1 |
+| [sase-6u.land](../../sessions/bbugyi200.athena.sase-6u.land.md) (session · 2) | sase-6u hood | completed 1, dismissed 1 |

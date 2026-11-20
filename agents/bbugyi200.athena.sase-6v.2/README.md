@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8e4002b`](https://github.com/sase-org/sase/commit/8e4002bb4dd62d15bf8bf604c510fc517eeb0b90) | feat(axe)!: make chops script-only (sase-6v.2) | 2026-07-18 17:08:56 EDT |
+| — | `8e4002b` | feat(axe)!: make chops script-only (sase-6v.2) | 2026-07-18 17:08:56 EDT |
 
 ## Neighbors
 
@@ -30,6 +30,6 @@
 | [sase-6v.5](../bbugyi200.athena.sase-6v.5/README.md) | sase-6v hood | dismissed |
 | [sase-6v.6](../bbugyi200.athena.sase-6v.6/README.md) | sase-6v hood | dismissed |
 | [sase-6v.7](../bbugyi200.athena.sase-6v.7/README.md) | sase-6v hood | dismissed |
-| [sase-6v.8](../bbugyi200.athena.sase-6v.8/README.md) | sase-6v hood | active |
-| [sase-6v.9](../bbugyi200.athena.sase-6v.9/README.md) | sase-6v hood | active |
-| [sase-6v.land](../bbugyi200.athena.sase-6v.land/README.md) | sase-6v hood | active |
+| [sase-6v.8](../bbugyi200.athena.sase-6v.8/README.md) | sase-6v hood | dismissed |
+| [sase-6v.9](../bbugyi200.athena.sase-6v.9/README.md) | sase-6v hood | dismissed |
+| [sase-6v.land](../bbugyi200.athena.sase-6v.land/README.md) | sase-6v hood | dismissed |

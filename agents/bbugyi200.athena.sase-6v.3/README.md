@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`02c1e4f`](https://github.com/sase-org/sase/commit/02c1e4fc095d7fddc637d087349b30f4965b0c6f) | feat(axe): implement chop result protocol | 2026-07-18 17:47:16 EDT |
+| — | `02c1e4f` | feat(axe): implement chop result protocol | 2026-07-18 17:47:16 EDT |
 
 ## Neighbors
 
@@ -30,6 +30,6 @@
 | [sase-6v.5](../bbugyi200.athena.sase-6v.5/README.md) | sase-6v hood | dismissed |
 | [sase-6v.6](../bbugyi200.athena.sase-6v.6/README.md) | sase-6v hood | dismissed |
 | [sase-6v.7](../bbugyi200.athena.sase-6v.7/README.md) | sase-6v hood | dismissed |
-| [sase-6v.8](../bbugyi200.athena.sase-6v.8/README.md) | sase-6v hood | active |
-| [sase-6v.9](../bbugyi200.athena.sase-6v.9/README.md) | sase-6v hood | active |
-| [sase-6v.land](../bbugyi200.athena.sase-6v.land/README.md) | sase-6v hood | active |
+| [sase-6v.8](../bbugyi200.athena.sase-6v.8/README.md) | sase-6v hood | dismissed |
+| [sase-6v.9](../bbugyi200.athena.sase-6v.9/README.md) | sase-6v hood | dismissed |
+| [sase-6v.land](../bbugyi200.athena.sase-6v.land/README.md) | sase-6v hood | dismissed |

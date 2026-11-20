@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`734341d`](https://github.com/sase-org/sase/commit/734341df641c2c56980c526cfa78dadc1a3e8c98) | feat(plans): reconcile filters with deep archive | 2026-07-18 14:38:57 EDT |
+| — | `734341d` | feat(plans): reconcile filters with deep archive | 2026-07-18 14:38:57 EDT |
 
 ## Neighbors
 
@@ -33,8 +33,8 @@
 | [sase-6t.3](../bbugyi200.athena.sase-6t.3/README.md) | sase-6t hood | dismissed |
 | [sase-6t.5](../bbugyi200.athena.sase-6t.5/README.md) | sase-6t hood | dismissed |
 | [sase-6t.land](../bbugyi200.athena.sase-6t.land/README.md) | sase-6t hood | dismissed |
-| [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t hood | waiting |
+| [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t hood | dismissed |
 | [sase-6t.land.w1](../bbugyi200.athena.sase-6t.land.w1/README.md) | sase-6t hood | dismissed |
 | [sase-6t.land.w1.w0](../bbugyi200.athena.sase-6t.land.w1.w0/README.md) | sase-6t hood | dismissed |
-| [sase-6t.land.w2](../../sessions/bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | sase-6t hood | active 1, completed 1 |
-| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | sase-6t hood | active 1, completed 1 |
+| [sase-6t.land.w2](../../sessions/bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | sase-6t hood | completed 1, dismissed 1 |
+| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | sase-6t hood | completed 1, dismissed 1 |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-6u` · Members: 2 · Bead: [sase-6u](ht
 ```mermaid
 flowchart TD
   n0["sase-6u.land--code [completed]"]
-  n1["sase-6u.land--plan [active]"]
+  n1["sase-6u.land--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,13 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-6u.land--code | completed | gpt-5.6-sol / codex | 2026-07-18T20:59:33.220157+00:00 | [1](../agents/bbugyi200.athena.sase-6u.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-6u.land--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-6u.land--plan | active | gpt-5.6-sol / codex | 2026-07-18T20:47:38.602420+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6u.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6u.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-6u.land--plan | dismissed | gpt-5.6-sol / codex | 2026-07-18T16:47:38.602420 → 2026-07-18T17:49:20.534526 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6u.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6u.land--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d28d297`](https://github.com/sase-org/sase/commit/d28d2976bb5cb312ea2ddc92d3b7d01c309dfe1d) | feat(ace): enrich folded clan summaries | 2026-07-18 17:48:46 EDT |
+| code | — | `d28d297` | feat(ace): enrich folded clan summaries | 2026-07-18 17:48:46 EDT |
 
 ## Neighbors
 

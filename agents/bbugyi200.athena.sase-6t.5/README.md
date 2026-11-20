@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`26dda8f`](https://github.com/sase-org/sase/commit/26dda8ff4e3dc64872cba3c287b6cffa95d527fb) | test: cover plans filter visual states | 2026-07-18 14:57:38 EDT |
+| — | `26dda8f` | test: cover plans filter visual states | 2026-07-18 14:57:38 EDT |
 
 ## Neighbors
 
@@ -33,8 +33,8 @@
 | [sase-6t.3](../bbugyi200.athena.sase-6t.3/README.md) | sase-6t hood | dismissed |
 | [sase-6t.4](../bbugyi200.athena.sase-6t.4/README.md) | sase-6t hood | dismissed |
 | [sase-6t.land](../bbugyi200.athena.sase-6t.land/README.md) | sase-6t hood | dismissed |
-| [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t hood | waiting |
+| [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t hood | dismissed |
 | [sase-6t.land.w1](../bbugyi200.athena.sase-6t.land.w1/README.md) | sase-6t hood | dismissed |
 | [sase-6t.land.w1.w0](../bbugyi200.athena.sase-6t.land.w1.w0/README.md) | sase-6t hood | dismissed |
-| [sase-6t.land.w2](../../sessions/bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | sase-6t hood | active 1, completed 1 |
-| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | sase-6t hood | active 1, completed 1 |
+| [sase-6t.land.w2](../../sessions/bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | sase-6t hood | completed 1, dismissed 1 |
+| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | sase-6t hood | completed 1, dismissed 1 |

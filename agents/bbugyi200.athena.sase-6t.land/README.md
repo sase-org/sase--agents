@@ -22,17 +22,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6a1df14`](https://github.com/sase-org/sase/commit/6a1df14b349e1e5f6bc688b43fea9ce8ff2b6543) | refactor(plans): privatize plan filter record types | 2026-07-18 15:19:52 EDT |
+| — | `6a1df14` | refactor(plans): privatize plan filter record types | 2026-07-18 15:19:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | descendant | waiting |
+| [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | descendant | dismissed |
 | [sase-6t.land.w1](../bbugyi200.athena.sase-6t.land.w1/README.md) | descendant | dismissed |
 | [sase-6t.land.w1.w0](../bbugyi200.athena.sase-6t.land.w1.w0/README.md) | descendant | dismissed |
-| [sase-6t.land.w2](../../sessions/bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | descendant | active 1, completed 1 |
-| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-6t.land.w2](../../sessions/bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [sase-6t.1](../bbugyi200.athena.sase-6t.1/README.md) | sase-6t hood | completed |
 | [sase-6t.2](../bbugyi200.athena.sase-6t.2/README.md) | sase-6t hood | completed |
 | [sase-6t.3](../bbugyi200.athena.sase-6t.3/README.md) | sase-6t hood | dismissed |

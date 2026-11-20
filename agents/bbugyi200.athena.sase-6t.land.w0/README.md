@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6t](../../users/bbugyi200/machines/athena/hoods/sase-6t/README.md) / sase-6t.land.w0
 
-**Global name:** `bbugyi200.athena.sase-6t.land.w0` · **State:** waiting · **Source run:** `run-251acc7242e123f7cbf855253cde52cc`
+**Global name:** `bbugyi200.athena.sase-6t.land.w0` · **State:** dismissed · **Source run:** `run-251acc7242e123f7cbf855253cde52cc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-6t
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260718103015
+- Timing: 2026-07-18T10:30:15
 - Commits: 0
 
 ## Files
@@ -24,8 +24,8 @@
 | [sase-6t.land](../bbugyi200.athena.sase-6t.land/README.md) | ancestor | dismissed |
 | [sase-6t.land.w1](../bbugyi200.athena.sase-6t.land.w1/README.md) | sase-6t.land hood | dismissed |
 | [sase-6t.land.w1.w0](../bbugyi200.athena.sase-6t.land.w1.w0/README.md) | sase-6t.land hood | dismissed |
-| [sase-6t.land.w2](../../sessions/bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | sase-6t.land hood | active 1, completed 1 |
-| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | sase-6t.land hood | active 1, completed 1 |
+| [sase-6t.land.w2](../../sessions/bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | sase-6t.land hood | completed 1, dismissed 1 |
+| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | sase-6t.land hood | completed 1, dismissed 1 |
 | [sase-6t.1](../bbugyi200.athena.sase-6t.1/README.md) | sase-6t hood | completed |
 | [sase-6t.2](../bbugyi200.athena.sase-6t.2/README.md) | sase-6t hood | completed |
 | [sase-6t.3](../bbugyi200.athena.sase-6t.3/README.md) | sase-6t hood | dismissed |

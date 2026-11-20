@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bf61e8a`](https://github.com/sase-org/sase/commit/bf61e8acc5403fd3b418606eb368793d9228bd7b) | docs: document clan summary folding (sase-6u.4) | 2026-07-18 16:34:58 EDT |
+| — | `bf61e8a` | docs: document clan summary folding (sase-6u.4) | 2026-07-18 16:34:58 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [sase-6u.1](../bbugyi200.athena.sase-6u.1/README.md) | sase-6u hood | dismissed |
 | [sase-6u.2](../bbugyi200.athena.sase-6u.2/README.md) | sase-6u hood | dismissed |
 | [sase-6u.3](../bbugyi200.athena.sase-6u.3/README.md) | sase-6u hood | dismissed |
-| [sase-6u.land](../../sessions/bbugyi200.athena.sase-6u.land.md) (session · 2) | sase-6u hood | active 1, completed 1 |
+| [sase-6u.land](../../sessions/bbugyi200.athena.sase-6u.land.md) (session · 2) | sase-6u hood | completed 1, dismissed 1 |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d383322`](https://github.com/sase-org/sase/commit/d383322e76729058d13805c3a1d28eb938c2b176) | feat(axe)!: replace chop workflows with builtin proposals | 2026-07-18 19:57:22 EDT |
+| — | `d383322` | feat(axe)!: replace chop workflows with builtin proposals | 2026-07-18 19:57:22 EDT |
 
 ## Neighbors
 
@@ -34,6 +34,6 @@
 | [sase-6v.4](../bbugyi200.athena.sase-6v.4/README.md) | sase-6v hood | dismissed |
 | [sase-6v.5](../bbugyi200.athena.sase-6v.5/README.md) | sase-6v hood | dismissed |
 | [sase-6v.6](../bbugyi200.athena.sase-6v.6/README.md) | sase-6v hood | dismissed |
-| [sase-6v.8](../bbugyi200.athena.sase-6v.8/README.md) | sase-6v hood | active |
-| [sase-6v.9](../bbugyi200.athena.sase-6v.9/README.md) | sase-6v hood | active |
-| [sase-6v.land](../bbugyi200.athena.sase-6v.land/README.md) | sase-6v hood | active |
+| [sase-6v.8](../bbugyi200.athena.sase-6v.8/README.md) | sase-6v hood | dismissed |
+| [sase-6v.9](../bbugyi200.athena.sase-6v.9/README.md) | sase-6v hood | dismissed |
+| [sase-6v.land](../bbugyi200.athena.sase-6v.land/README.md) | sase-6v hood | dismissed |
