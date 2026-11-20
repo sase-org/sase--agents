@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1tz.3.1.5--1 [completed]"]
   n1["sase-1tz.3.1.5--mon [failed]"]
   n0 --> n1
-  n2["sase-1tz.3.1.5--mon-0 [active]"]
+  n2["sase-1tz.3.1.5--mon-0 [completed]"]
   n0 --> n2
   n3["sase-1tz.3.1.5--plan [completed]"]
   n0 --> n3
@@ -23,8 +23,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-1tz.3.1.5--1 | completed | grok-4.6 / grok | 2026-11-20T15:31:57.330248+00:00 → 2026-11-20T15:46:21.573034+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.3.1.5--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.3.1.5--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1tz.3.1.5--mon | failed | grok-4.6 / grok | 2026-11-20T14:34:01.816343+00:00 → 2026-11-20T15:31:45.518391+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.3.1.5--mon/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | sase-1tz.3.1.5--mon-0 | active | grok-4.6 / grok | 2026-11-20T15:44:54.748535+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | sase-1tz.3.1.5--mon-0 | completed | grok-4.6 / grok | 2026-11-20T15:44:54.748535+00:00 → 2026-11-20T16:02:18.924896+00:00 | [1](../agents/bbugyi200.athena.sase-1tz.3.1.5--mon-0/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1tz.3.1.5--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | sase-1tz.3.1.5--plan | completed | grok-4.6 / grok | 2026-11-20T14:23:13.756593+00:00 → 2026-11-20T14:35:52.814196+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.3.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.3.1.5--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| mon-0 | sase | [`f9b8800`](https://github.com/sase-org/sase/commit/f9b88003413260bc1c85ecb39ea1d794a6d17db5) | fix(dev-update): treat a prebuilt Rust cache miss as a miss | 2026-11-20 11:00:46 EST |
 
 ## Neighbors
 
