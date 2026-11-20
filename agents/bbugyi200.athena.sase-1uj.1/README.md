@@ -30,4 +30,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1uj.2](../bbugyi200.athena.sase-1uj.2/README.md) | sase-1uj hood | completed |
-| [sase-1uj.land](../bbugyi200.athena.sase-1uj.land/README.md) | sase-1uj hood | waiting |
+| [sase-1uj.land](../bbugyi200.athena.sase-1uj.land/README.md) | sase-1uj hood | completed |

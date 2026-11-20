@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1uj](../../users/bbugyi200/machines/athena/hoods/sase-1uj/README.md) / sase-1uj.land
 
-**Global name:** `bbugyi200.athena.sase-1uj.land` · **State:** waiting · **Source run:** `run-d9e58a1afe49930f27fd337d921321e1`
+**Global name:** `bbugyi200.athena.sase-1uj.land` · **State:** completed · **Source run:** `run-d9e58a1afe49930f27fd337d921321e1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1uj
 
@@ -11,12 +11,32 @@
 - Bead: [sase-1uj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1uj/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261120165432
+- Timing: 2026-11-20T22:48:02.113818+00:00 → 2026-11-20T23:26:39.665152+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: sase-1uj, kind: markdown, label: sase-1uj landing follow-up evidence, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261120165432/sase-1uj-followup-evidence-518721d30389.md, ref… |
+
+#### artifacts
+
+```yaml
+- bead: sase-1uj
+  kind: markdown
+  label: sase-1uj landing follow-up evidence
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261120165432/sase-1uj-followup-evidence-518721d30389.md
+  ref: file:explicit:da2691fcb96155711373b1f0
+  source_path: /tmp/sase-1uj-followup-evidence.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
