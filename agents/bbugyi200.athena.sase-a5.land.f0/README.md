@@ -17,10 +17,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-a5.land](../bbugyi200.athena.sase-a5.land/README.md) | ancestor | active |
-| [sase-a5.1](../bbugyi200.athena.sase-a5.1/README.md) | sase-a5 hood | active |
-| [sase-a5.2](../bbugyi200.athena.sase-a5.2/README.md) | sase-a5 hood | active |
-| [sase-a5.3](../bbugyi200.athena.sase-a5.3/README.md) | sase-a5 hood | active |
-| [sase-a5.4](../bbugyi200.athena.sase-a5.4/README.md) | sase-a5 hood | active |
-| [sase-a5.5](../bbugyi200.athena.sase-a5.5/README.md) | sase-a5 hood | active |
+| [sase-a5.land](../bbugyi200.athena.sase-a5.land/README.md) | ancestor | dismissed |
+| [sase-a5.1](../bbugyi200.athena.sase-a5.1/README.md) | sase-a5 hood | dismissed |
+| [sase-a5.2](../bbugyi200.athena.sase-a5.2/README.md) | sase-a5 hood | dismissed |
+| [sase-a5.3](../bbugyi200.athena.sase-a5.3/README.md) | sase-a5 hood | dismissed |
+| [sase-a5.4](../bbugyi200.athena.sase-a5.4/README.md) | sase-a5 hood | dismissed |
+| [sase-a5.5](../bbugyi200.athena.sase-a5.5/README.md) | sase-a5 hood | dismissed |
 | [sase-a5.6](../bbugyi200.athena.sase-a5.6/README.md) | sase-a5 hood | dismissed |

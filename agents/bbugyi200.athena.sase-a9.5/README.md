@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9a7fb3f`](https://github.com/sase-org/sase/commit/9a7fb3fbe157c7c5e87bbdb35656ef0a5f18ebdd) | feat(agents-sync): stabilize sidecar page anatomy (sase-a9.5) | 2026-07-28 06:14:56 EDT |
+| — | `9a7fb3f` | feat(agents-sync): stabilize sidecar page anatomy (sase-a9.5) | 2026-07-28 06:14:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-a9.1](../bbugyi200.athena.sase-a9.1/README.md) | sase-a9 hood | active |
-| [sase-a9.2](../bbugyi200.athena.sase-a9.2/README.md) | sase-a9 hood | active |
-| [sase-a9.3](../bbugyi200.athena.sase-a9.3/README.md) | sase-a9 hood | active |
-| [sase-a9.4](../bbugyi200.athena.sase-a9.4/README.md) | sase-a9 hood | active |
+| [sase-a9.1](../bbugyi200.athena.sase-a9.1/README.md) | sase-a9 hood | dismissed |
+| [sase-a9.2](../bbugyi200.athena.sase-a9.2/README.md) | sase-a9 hood | dismissed |
+| [sase-a9.3](../bbugyi200.athena.sase-a9.3/README.md) | sase-a9 hood | dismissed |
+| [sase-a9.4](../bbugyi200.athena.sase-a9.4/README.md) | sase-a9 hood | dismissed |
 | [sase-a9.land](../bbugyi200.athena.sase-a9.land/README.md) | sase-a9 hood | dismissed |

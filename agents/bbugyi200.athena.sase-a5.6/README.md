@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a49e63e`](https://github.com/sase-org/sase/commit/a49e63e3581075d5681a3a593234ddb6462f78d1) | perf(ace): guard Agents-tab view-hints latency (sase-a5.6) | 2026-07-28 06:01:15 EDT |
+| — | `a49e63e` | perf(ace): guard Agents-tab view-hints latency (sase-a5.6) | 2026-07-28 06:01:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-a5.1](../bbugyi200.athena.sase-a5.1/README.md) | sase-a5 hood | active |
-| [sase-a5.2](../bbugyi200.athena.sase-a5.2/README.md) | sase-a5 hood | active |
-| [sase-a5.3](../bbugyi200.athena.sase-a5.3/README.md) | sase-a5 hood | active |
-| [sase-a5.4](../bbugyi200.athena.sase-a5.4/README.md) | sase-a5 hood | active |
-| [sase-a5.5](../bbugyi200.athena.sase-a5.5/README.md) | sase-a5 hood | active |
-| [sase-a5.land](../bbugyi200.athena.sase-a5.land/README.md) | sase-a5 hood | active |
+| [sase-a5.1](../bbugyi200.athena.sase-a5.1/README.md) | sase-a5 hood | dismissed |
+| [sase-a5.2](../bbugyi200.athena.sase-a5.2/README.md) | sase-a5 hood | dismissed |
+| [sase-a5.3](../bbugyi200.athena.sase-a5.3/README.md) | sase-a5 hood | dismissed |
+| [sase-a5.4](../bbugyi200.athena.sase-a5.4/README.md) | sase-a5 hood | dismissed |
+| [sase-a5.5](../bbugyi200.athena.sase-a5.5/README.md) | sase-a5 hood | dismissed |
+| [sase-a5.land](../bbugyi200.athena.sase-a5.land/README.md) | sase-a5 hood | dismissed |
 | [sase-a5.land.f0](../bbugyi200.athena.sase-a5.land.f0/README.md) | sase-a5 hood | dismissed |

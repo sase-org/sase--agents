@@ -22,19 +22,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ddd75a`](https://github.com/sase-org/sase/commit/9ddd75a3f34902c48e361942cfe9a652b37b7d49) | docs: describe the dedicated beads sidecar (sase-a8.9) | 2026-07-28 06:28:30 EDT |
+| — | `9ddd75a` | docs: describe the dedicated beads sidecar (sase-a8.9) | 2026-07-28 06:28:30 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-a8.1](../bbugyi200.athena.sase-a8.1/README.md) | sase-a8 hood | active |
-| [sase-a8.10](../../sessions/bbugyi200.athena.sase-a8.10.md) (session · 2) | sase-a8 hood | active 2 |
-| [sase-a8.2](../bbugyi200.athena.sase-a8.2/README.md) | sase-a8 hood | active |
-| [sase-a8.3](../bbugyi200.athena.sase-a8.3/README.md) | sase-a8 hood | active |
-| [sase-a8.4](../bbugyi200.athena.sase-a8.4/README.md) | sase-a8 hood | active |
-| [sase-a8.5](../bbugyi200.athena.sase-a8.5/README.md) | sase-a8 hood | active |
-| [sase-a8.6](../bbugyi200.athena.sase-a8.6/README.md) | sase-a8 hood | active |
-| [sase-a8.7](../bbugyi200.athena.sase-a8.7/README.md) | sase-a8 hood | active |
+| [sase-a8.1](../bbugyi200.athena.sase-a8.1/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.10](../../sessions/bbugyi200.athena.sase-a8.10.md) (session · 2) | sase-a8 hood | active 1, dismissed 1 |
+| [sase-a8.2](../bbugyi200.athena.sase-a8.2/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.3](../bbugyi200.athena.sase-a8.3/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.4](../bbugyi200.athena.sase-a8.4/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.5](../bbugyi200.athena.sase-a8.5/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.6](../bbugyi200.athena.sase-a8.6/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.7](../bbugyi200.athena.sase-a8.7/README.md) | sase-a8 hood | dismissed |
 | [sase-a8.8](../bbugyi200.athena.sase-a8.8/README.md) | sase-a8 hood | dismissed |
 | [sase-a8.land](../bbugyi200.athena.sase-a8.land/README.md) | sase-a8 hood | dismissed |
