@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-69` · Members: 2 · Bead: [sase-69](ht
 ```mermaid
 flowchart TD
   n0["sase-69--code [completed]"]
-  n1["sase-69 [active]"]
+  n1["sase-69 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,13 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-69--code | completed | gpt-5.6-sol / codex | 2026-07-16T03:14:27.600366+00:00 | [1](../agents/bbugyi200.athena.sase-69--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-69--code/chat.md) |
-| <a id="member-root"></a>root | sase-69 | active | claude-fable-5 / claude | 2026-07-16T03:03:27.492208+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-69/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-69/chat.md) |
+| <a id="member-root"></a>root | sase-69 | dismissed | claude-fable-5 / claude | 2026-07-15T23:03:27.492208 → 2026-07-15T23:43:15.582858 | 0 | [Prompt](../agents/bbugyi200.athena.sase-69/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-69/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`54f75ab`](https://github.com/sase-org/sase/commit/54f75ab41f768e8223b80d778169e1aea8513c88) | feat(ace): make commits actions configurable (sase-69) | 2026-07-15 23:41:19 EDT |
+| code | — | `54f75ab` | feat(ace): make commits actions configurable (sase-69) | 2026-07-15 23:41:19 EDT |
 
 ## Neighbors
 

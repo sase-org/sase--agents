@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a626470`](https://github.com/sase-org/sase/commit/a62647069c6787b1fb9a7d65c5c8fb8ed55c5ac1) | feat(ace): scaffold the Artifacts tab (sase-69.1) | 2026-07-15 21:19:45 EDT |
+| — | `a626470` | feat(ace): scaffold the Artifacts tab (sase-69.1) | 2026-07-15 21:19:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-69](../../sessions/bbugyi200.athena.sase-69.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-69](../../sessions/bbugyi200.athena.sase-69.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-69.2](../bbugyi200.athena.sase-69.2/README.md) | sase-69 hood | dismissed |
 | [sase-69.3](../bbugyi200.athena.sase-69.3/README.md) | sase-69 hood | dismissed |
 | [sase-69.4](../bbugyi200.athena.sase-69.4/README.md) | sase-69 hood | dismissed |

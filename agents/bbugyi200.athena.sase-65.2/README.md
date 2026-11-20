@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1b5b6a3`](https://github.com/sase-org/sase/commit/1b5b6a3f201881d40c9e972527863dec434f97f0) | test: make visual snapshot capture deterministic | 2026-07-15 19:34:22 EDT |
+| — | `1b5b6a3` | test: make visual snapshot capture deterministic | 2026-07-15 19:34:22 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-65](../../sessions/bbugyi200.athena.sase-65.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-65](../../sessions/bbugyi200.athena.sase-65.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-65.1](../bbugyi200.athena.sase-65.1/README.md) | sase-65 hood | dismissed |
 | [sase-65.3](../bbugyi200.athena.sase-65.3/README.md) | sase-65 hood | dismissed |
 | [sase-65.4](../bbugyi200.athena.sase-65.4/README.md) | sase-65 hood | dismissed |

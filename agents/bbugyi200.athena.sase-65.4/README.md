@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9b29ec4`](https://github.com/sase-org/sase/commit/9b29ec4115f08107100597d9473c2dfd33bf18e4) | ci: harden visual snapshot lanes (sase-65.4) | 2026-07-15 21:05:13 EDT |
+| — | `9b29ec4` | ci: harden visual snapshot lanes (sase-65.4) | 2026-07-15 21:05:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-65](../../sessions/bbugyi200.athena.sase-65.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-65](../../sessions/bbugyi200.athena.sase-65.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-65.1](../bbugyi200.athena.sase-65.1/README.md) | sase-65 hood | dismissed |
 | [sase-65.2](../bbugyi200.athena.sase-65.2/README.md) | sase-65 hood | dismissed |
 | [sase-65.3](../bbugyi200.athena.sase-65.3/README.md) | sase-65 hood | dismissed |

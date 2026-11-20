@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0233d57`](https://github.com/sase-org/sase/commit/0233d57c0ec07c67834ce50d9d29780d9f764761) | test(visual): pin renderer environment (sase-65.1) | 2026-07-15 18:17:29 EDT |
+| — | `0233d57` | test(visual): pin renderer environment (sase-65.1) | 2026-07-15 18:17:29 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-65](../../sessions/bbugyi200.athena.sase-65.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-65](../../sessions/bbugyi200.athena.sase-65.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-65.2](../bbugyi200.athena.sase-65.2/README.md) | sase-65 hood | dismissed |
 | [sase-65.3](../bbugyi200.athena.sase-65.3/README.md) | sase-65 hood | dismissed |
 | [sase-65.4](../bbugyi200.athena.sase-65.4/README.md) | sase-65 hood | dismissed |

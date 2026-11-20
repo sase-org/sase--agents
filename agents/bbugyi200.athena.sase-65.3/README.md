@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`92c8f2c`](https://github.com/sase-org/sase/commit/92c8f2c03b0c9b1d11890e33071f67f8455e0b12) | test(visual): enforce exact PNG snapshot goldens | 2026-07-15 20:40:48 EDT |
+| — | `92c8f2c` | test(visual): enforce exact PNG snapshot goldens | 2026-07-15 20:40:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-65](../../sessions/bbugyi200.athena.sase-65.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-65](../../sessions/bbugyi200.athena.sase-65.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-65.1](../bbugyi200.athena.sase-65.1/README.md) | sase-65 hood | dismissed |
 | [sase-65.2](../bbugyi200.athena.sase-65.2/README.md) | sase-65 hood | dismissed |
 | [sase-65.4](../bbugyi200.athena.sase-65.4/README.md) | sase-65 hood | dismissed |

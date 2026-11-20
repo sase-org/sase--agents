@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6bc7613`](https://github.com/sase-org/sase/commit/6bc7613fae64f1f0040d8200dcfe8773e116ce7c) | feat(ace): polish artifacts tab integration (sase-69.7) | 2026-07-15 23:02:41 EDT |
+| — | `6bc7613` | feat(ace): polish artifacts tab integration (sase-69.7) | 2026-07-15 23:02:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-69](../../sessions/bbugyi200.athena.sase-69.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-69](../../sessions/bbugyi200.athena.sase-69.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-69.1](../bbugyi200.athena.sase-69.1/README.md) | sase-69 hood | dismissed |
 | [sase-69.2](../bbugyi200.athena.sase-69.2/README.md) | sase-69 hood | dismissed |
 | [sase-69.3](../bbugyi200.athena.sase-69.3/README.md) | sase-69 hood | dismissed |

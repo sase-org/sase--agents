@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-69](../../users/bbugyi200/machines/athena/hoods/sase-69/README.md) / [sase-69](../../sessions/bbugyi200.athena.sase-69.md) / sase-69
 
-**Global name:** `bbugyi200.athena.sase-69` · **State:** active · **Source run:** `run-6ef7be66b24933d38d12480ac4c14828`
+**Global name:** `bbugyi200.athena.sase-69` · **State:** dismissed · **Source run:** `run-6ef7be66b24933d38d12480ac4c14828`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-69
 
@@ -11,7 +11,7 @@
 - Bead: [sase-69](https://github.com/sase-org/sase--beads/blob/main/pages/sase-69/README.md)
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-07-16T03:03:27.492208+00:00
+- Timing: 2026-07-15T23:03:27.492208 → 2026-07-15T23:43:15.582858
 - Commits: 0
 
 ## Files

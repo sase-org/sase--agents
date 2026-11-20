@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e5d2995`](https://github.com/sase-org/sase/commit/e5d29958205915ef9fb218fd12785861800804ad) | feat(vcs): add issue-tracker provider seam (sase-69.2) | 2026-07-15 20:50:20 EDT |
+| — | `e5d2995` | feat(vcs): add issue-tracker provider seam (sase-69.2) | 2026-07-15 20:50:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-69](../../sessions/bbugyi200.athena.sase-69.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-69](../../sessions/bbugyi200.athena.sase-69.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-69.1](../bbugyi200.athena.sase-69.1/README.md) | sase-69 hood | dismissed |
 | [sase-69.3](../bbugyi200.athena.sase-69.3/README.md) | sase-69 hood | dismissed |
 | [sase-69.4](../bbugyi200.athena.sase-69.4/README.md) | sase-69 hood | dismissed |
