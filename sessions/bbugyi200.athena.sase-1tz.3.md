@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1tz.3.1.4](../agents/bbugyi200.athena.sase-1tz.3.1.4/README.md) | descendant | waiting |
 | [sase-1tz.3.1.5](bbugyi200.athena.sase-1tz.3.1.5.md) (session · 4) | descendant | completed 3, failed 1 |
 | [sase-1tz.3.1.6](../agents/bbugyi200.athena.sase-1tz.3.1.6/README.md) | descendant | completed |
-| [sase-1tz.3.1.7](../agents/bbugyi200.athena.sase-1tz.3.1.7/README.md) | descendant | waiting |
+| [sase-1tz.3.1.7](../agents/bbugyi200.athena.sase-1tz.3.1.7/README.md) | descendant | completed |
 | [sase-1tz.3.1.8](../agents/bbugyi200.athena.sase-1tz.3.1.8/README.md) | descendant | completed |
 | [sase-1tz.3.1.9](../agents/bbugyi200.athena.sase-1tz.3.1.9/README.md) | descendant | active |
 | [sase-1tz.3.1.land](../agents/bbugyi200.athena.sase-1tz.3.1.land/README.md) | descendant | waiting |
