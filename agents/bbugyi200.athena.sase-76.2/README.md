@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-76](../../users/bbugyi200/machines/athena/hoods/sase-76/README.md) / sase-76.2
 
-**Global name:** `bbugyi200.athena.sase-76.2` · **State:** active · **Source run:** `run-0ecb4556a3e8908278b50c9cca64eb94`
+**Global name:** `bbugyi200.athena.sase-76.2` · **State:** dismissed · **Source run:** `run-0ecb4556a3e8908278b50c9cca64eb94`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-76
 
@@ -11,7 +11,7 @@
 - Bead: [sase-76.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-76/sase-76.2.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-19T13:07:30.366103+00:00
+- Timing: 2026-07-19T09:07:30.366103 → 2026-07-19T09:55:08.506495
 - Commits: [1](#commits)
 
 ## Files
@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`286b992`](https://github.com/sase-org/sase/commit/286b992e4289edf2ca1f1ced20d37d6833b80e30) | feat(ace)!: move query and help to leader chords (sase-76.2) | 2026-07-19 09:54:43 EDT |
+| — | `286b992` | feat(ace)!: move query and help to leader chords (sase-76.2) | 2026-07-19 09:54:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-76.1](../bbugyi200.athena.sase-76.1/README.md) | sase-76 hood | active |
-| [sase-76.3](../bbugyi200.athena.sase-76.3/README.md) | sase-76 hood | active |
-| [sase-76.land](../bbugyi200.athena.sase-76.land/README.md) | sase-76 hood | active |
-| [sase-76.land.f1](../../sessions/bbugyi200.athena.sase-76.land.f1.md) (session · 2) | sase-76 hood | active 1, completed 1 |
+| [sase-76.1](../bbugyi200.athena.sase-76.1/README.md) | sase-76 hood | dismissed |
+| [sase-76.3](../bbugyi200.athena.sase-76.3/README.md) | sase-76 hood | dismissed |
+| [sase-76.land](../bbugyi200.athena.sase-76.land/README.md) | sase-76 hood | dismissed |
+| [sase-76.land.f1](../../sessions/bbugyi200.athena.sase-76.land.f1.md) (session · 2) | sase-76 hood | completed 1, dismissed 1 |

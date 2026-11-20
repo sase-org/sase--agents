@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a9065c2`](https://github.com/sase-org/sase/commit/a9065c25eaaf49de3ad5f5b45bc46237e9db11d7) | docs: document clan-scoped agent cleanup (sase-74) | 2026-07-19 10:17:05 EDT |
+| — | `a9065c2` | docs: document clan-scoped agent cleanup (sase-74) | 2026-07-19 10:17:05 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-74.1](../bbugyi200.athena.sase-74.1/README.md) | sase-74 hood | active |
-| [sase-74.2](../bbugyi200.athena.sase-74.2/README.md) | sase-74 hood | active |
-| [sase-74.3](../bbugyi200.athena.sase-74.3/README.md) | sase-74 hood | active |
+| [sase-74.1](../bbugyi200.athena.sase-74.1/README.md) | sase-74 hood | dismissed |
+| [sase-74.2](../bbugyi200.athena.sase-74.2/README.md) | sase-74 hood | dismissed |
+| [sase-74.3](../bbugyi200.athena.sase-74.3/README.md) | sase-74 hood | dismissed |

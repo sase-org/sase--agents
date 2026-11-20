@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-72` · Members: 2 · Bead: [sase-72.3](
 ```mermaid
 flowchart TD
   n0["sase-72.3--1 [completed]"]
-  n1["sase-72.3--plan [active]"]
+  n1["sase-72.3--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,18 +18,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-72.3--1 | completed | gpt-5.6-sol / codex | 2026-07-19T04:54:44.633984+00:00 | [1](../agents/bbugyi200.athena.sase-72.3--1/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-72.3--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-72.3--plan | active | gpt-5.6-sol / codex | 2026-07-19T04:35:15.624216+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-72.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-72.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-72.3--plan | dismissed | gpt-5.6-sol / codex | 2026-07-19T00:35:15.624216 → 2026-07-19T01:46:00.496142 | 0 | [Prompt](../agents/bbugyi200.athena.sase-72.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-72.3--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`fae9dbb`](https://github.com/sase-org/sase/commit/fae9dbb340d7ca69ae61ffe610b29f2ed9e8dc21) | test(chop): isolate result-file contract tests (sase-72.3) | 2026-07-19 01:44:57 EDT |
+| 1 | — | `fae9dbb` | test(chop): isolate result-file contract tests (sase-72.3) | 2026-07-19 01:44:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-72.1](../agents/bbugyi200.athena.sase-72.1/README.md) | sase-72 hood | active |
-| [sase-72.2](../agents/bbugyi200.athena.sase-72.2/README.md) | sase-72 hood | active |
-| [sase-72.land](../agents/bbugyi200.athena.sase-72.land/README.md) | sase-72 hood | active |
+| [sase-72.1](../agents/bbugyi200.athena.sase-72.1/README.md) | sase-72 hood | dismissed |
+| [sase-72.2](../agents/bbugyi200.athena.sase-72.2/README.md) | sase-72 hood | dismissed |
+| [sase-72.land](../agents/bbugyi200.athena.sase-72.land/README.md) | sase-72 hood | dismissed |
