@@ -22,20 +22,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`48abe26`](https://github.com/sase-org/sase/commit/48abe26ea0fed666630122073b303f4c8f67d0f2) | fix(agent): retry family phases from base names (sase-8g.2) | 2026-07-20 16:52:38 EDT |
+| — | `48abe26` | fix(agent): retry family phases from base names (sase-8g.2) | 2026-07-20 16:52:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8g.1](../../sessions/bbugyi200.athena.sase-8g.1.md) (session · 2) | sase-8g hood | active 1, completed 1 |
-| [sase-8g.10](../../sessions/bbugyi200.athena.sase-8g.10.md) (session · 2) | sase-8g hood | active 1, completed 1 |
-| [sase-8g.11](../../sessions/bbugyi200.athena.sase-8g.11.md) (session · 2) | sase-8g hood | active 1, completed 1 |
-| [sase-8g.3](../../sessions/bbugyi200.athena.sase-8g.3.md) (session · 2) | sase-8g hood | active 1, completed 1 |
-| [sase-8g.4](../bbugyi200.athena.sase-8g.4/README.md) | sase-8g hood | active |
-| [sase-8g.5](../../sessions/bbugyi200.athena.sase-8g.5.md) (session · 2) | sase-8g hood | active 1, completed 1 |
-| [sase-8g.6](../../sessions/bbugyi200.athena.sase-8g.6.md) (session · 2) | sase-8g hood | active 1, completed 1 |
-| [sase-8g.7](../../sessions/bbugyi200.athena.sase-8g.7.md) (session · 2) | sase-8g hood | active 1, completed 1 |
-| [sase-8g.8](../../sessions/bbugyi200.athena.sase-8g.8.md) (session · 2) | sase-8g hood | active 1, completed 1 |
-| [sase-8g.9](../bbugyi200.athena.sase-8g.9/README.md) | sase-8g hood | active |
+| [sase-8g.1](../../sessions/bbugyi200.athena.sase-8g.1.md) (session · 2) | sase-8g hood | completed 1, dismissed 1 |
+| [sase-8g.10](../../sessions/bbugyi200.athena.sase-8g.10.md) (session · 2) | sase-8g hood | completed 1, dismissed 1 |
+| [sase-8g.11](../../sessions/bbugyi200.athena.sase-8g.11.md) (session · 2) | sase-8g hood | completed 1, dismissed 1 |
+| [sase-8g.3](../../sessions/bbugyi200.athena.sase-8g.3.md) (session · 2) | sase-8g hood | completed 1, dismissed 1 |
+| [sase-8g.4](../bbugyi200.athena.sase-8g.4/README.md) | sase-8g hood | dismissed |
+| [sase-8g.5](../../sessions/bbugyi200.athena.sase-8g.5.md) (session · 2) | sase-8g hood | completed 1, dismissed 1 |
+| [sase-8g.6](../../sessions/bbugyi200.athena.sase-8g.6.md) (session · 2) | sase-8g hood | completed 1, dismissed 1 |
+| [sase-8g.7](../../sessions/bbugyi200.athena.sase-8g.7.md) (session · 2) | sase-8g hood | completed 1, dismissed 1 |
+| [sase-8g.8](../../sessions/bbugyi200.athena.sase-8g.8.md) (session · 2) | sase-8g hood | completed 1, dismissed 1 |
+| [sase-8g.9](../bbugyi200.athena.sase-8g.9/README.md) | sase-8g hood | dismissed |
 | [sase-8g.land](../bbugyi200.athena.sase-8g.land/README.md) | sase-8g hood | dismissed |

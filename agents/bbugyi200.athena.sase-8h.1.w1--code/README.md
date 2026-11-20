@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3e06256`](https://github.com/sase-org/sase/commit/3e06256aa6f65243bb424b91b8ed18ab865c5e11) | fix: preserve proposal associations from agent metadata | 2026-07-21 11:12:00 EDT |
+| — | `3e06256` | fix: preserve proposal associations from agent metadata | 2026-07-21 11:12:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8h.1](../../sessions/bbugyi200.athena.sase-8h.1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [sase-8h.2](../../sessions/bbugyi200.athena.sase-8h.2.md) (session · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.3](../../sessions/bbugyi200.athena.sase-8h.3.md) (session · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.land](../bbugyi200.athena.sase-8h.land/README.md) | sase-8h hood | active |
+| [sase-8h.1](../../sessions/bbugyi200.athena.sase-8h.1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [sase-8h.2](../../sessions/bbugyi200.athena.sase-8h.2.md) (session · 2) | sase-8h hood | completed 1, dismissed 1 |
+| [sase-8h.3](../../sessions/bbugyi200.athena.sase-8h.3.md) (session · 2) | sase-8h hood | completed 1, dismissed 1 |
+| [sase-8h.land](../bbugyi200.athena.sase-8h.land/README.md) | sase-8h hood | dismissed |

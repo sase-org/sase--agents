@@ -23,12 +23,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b825a0d`](https://github.com/sase-org/sase/commit/b825a0db49967ac243be2721eef722b5612c10a9) | fix: snapshot epic plans before clan launch (sase-8i.2) | 2026-07-21 11:38:14 EDT |
+| — | `b825a0d` | fix: snapshot epic plans before clan launch (sase-8i.2) | 2026-07-21 11:38:14 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8i.1](../bbugyi200.athena.sase-8i.1/README.md) | sase-8i hood | active |
-| [sase-8i.3](../../sessions/bbugyi200.athena.sase-8i.3.md) (session · 2) | sase-8i hood | active 1, completed 1 |
-| [sase-8i.land](../bbugyi200.athena.sase-8i.land/README.md) | sase-8i hood | active |
+| [sase-8i.1](../bbugyi200.athena.sase-8i.1/README.md) | sase-8i hood | dismissed |
+| [sase-8i.3](../../sessions/bbugyi200.athena.sase-8i.3.md) (session · 2) | sase-8i hood | completed 1, dismissed 1 |
+| [sase-8i.land](../bbugyi200.athena.sase-8i.land/README.md) | sase-8i hood | dismissed |

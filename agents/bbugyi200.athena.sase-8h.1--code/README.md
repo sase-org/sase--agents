@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`08f91b4`](https://github.com/sase-org/sase/commit/08f91b43df3ccac5f40b2d7a334973ed7ddd8e85) | fix(vcs): re-anchor date filter bounds (sase-8h.1) | 2026-07-21 10:38:56 EDT |
+| — | `08f91b4` | fix(vcs): re-anchor date filter bounds (sase-8h.1) | 2026-07-21 10:38:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8h.1.w1](../../sessions/bbugyi200.athena.sase-8h.1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [sase-8h.2](../../sessions/bbugyi200.athena.sase-8h.2.md) (session · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.3](../../sessions/bbugyi200.athena.sase-8h.3.md) (session · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.land](../bbugyi200.athena.sase-8h.land/README.md) | sase-8h hood | active |
+| [sase-8h.1.w1](../../sessions/bbugyi200.athena.sase-8h.1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [sase-8h.2](../../sessions/bbugyi200.athena.sase-8h.2.md) (session · 2) | sase-8h hood | completed 1, dismissed 1 |
+| [sase-8h.3](../../sessions/bbugyi200.athena.sase-8h.3.md) (session · 2) | sase-8h hood | completed 1, dismissed 1 |
+| [sase-8h.land](../bbugyi200.athena.sase-8h.land/README.md) | sase-8h hood | dismissed |

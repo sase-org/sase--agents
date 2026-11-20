@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b935b74`](https://github.com/sase-org/sase/commit/b935b7495d3b297b376370a5ef7bf9f9db9cdc92) | feat(agent): claim beads at launch execution (sase-8f.2) | 2026-07-20 17:04:38 EDT |
+| — | `b935b74` | feat(agent): claim beads at launch execution (sase-8f.2) | 2026-07-20 17:04:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8f.1](../../sessions/bbugyi200.athena.sase-8f.1.md) (session · 2) | sase-8f hood | active 1, completed 1 |
-| [sase-8f.3](../../sessions/bbugyi200.athena.sase-8f.3.md) (session · 2) | sase-8f hood | active 1, completed 1 |
-| [sase-8f.land](../bbugyi200.athena.sase-8f.land/README.md) | sase-8f hood | active |
+| [sase-8f.1](../../sessions/bbugyi200.athena.sase-8f.1.md) (session · 2) | sase-8f hood | completed 1, dismissed 1 |
+| [sase-8f.3](../../sessions/bbugyi200.athena.sase-8f.3.md) (session · 2) | sase-8f hood | completed 1, dismissed 1 |
+| [sase-8f.land](../bbugyi200.athena.sase-8f.land/README.md) | sase-8f hood | dismissed |

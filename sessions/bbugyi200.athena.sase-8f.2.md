@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-8f` · Members: 2 · Bead: [sase-8f.2](
 ```mermaid
 flowchart TD
   n0["sase-8f.2--code [completed]"]
-  n1["sase-8f.2--plan [active]"]
+  n1["sase-8f.2--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,18 +18,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-8f.2--code | completed | gpt-5.6-sol / codex | 2026-07-20T20:27:56.843531+00:00 | [1](../agents/bbugyi200.athena.sase-8f.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-8f.2--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-8f.2--plan | active | gpt-5.6-sol / codex | 2026-07-20T20:22:21.117603+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8f.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8f.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-8f.2--plan | dismissed | gpt-5.6-sol / codex | 2026-07-20T16:22:21.117603 → 2026-07-20T17:04:56.487572 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8f.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8f.2--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`b935b74`](https://github.com/sase-org/sase/commit/b935b7495d3b297b376370a5ef7bf9f9db9cdc92) | feat(agent): claim beads at launch execution (sase-8f.2) | 2026-07-20 17:04:38 EDT |
+| code | — | `b935b74` | feat(agent): claim beads at launch execution (sase-8f.2) | 2026-07-20 17:04:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8f.1](bbugyi200.athena.sase-8f.1.md) (session · 2) | sase-8f hood | active 1, completed 1 |
-| [sase-8f.3](bbugyi200.athena.sase-8f.3.md) (session · 2) | sase-8f hood | active 1, completed 1 |
-| [sase-8f.land](../agents/bbugyi200.athena.sase-8f.land/README.md) | sase-8f hood | active |
+| [sase-8f.1](bbugyi200.athena.sase-8f.1.md) (session · 2) | sase-8f hood | completed 1, dismissed 1 |
+| [sase-8f.3](bbugyi200.athena.sase-8f.3.md) (session · 2) | sase-8f hood | completed 1, dismissed 1 |
+| [sase-8f.land](../agents/bbugyi200.athena.sase-8f.land/README.md) | sase-8f hood | dismissed |

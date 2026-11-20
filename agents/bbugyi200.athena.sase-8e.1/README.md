@@ -22,11 +22,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2f0b68b`](https://github.com/sase-org/sase/commit/2f0b68b86e8cc08efc8de48495d649ca0d39c1a9) | feat: project runner wait priorities across ACE queues | 2026-07-20 15:38:24 EDT |
+| — | `2f0b68b` | feat: project runner wait priorities across ACE queues | 2026-07-20 15:38:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8e.2](../bbugyi200.athena.sase-8e.2/README.md) | sase-8e hood | active |
-| [sase-8e.land](../bbugyi200.athena.sase-8e.land/README.md) | sase-8e hood | active |
+| [sase-8e.2](../bbugyi200.athena.sase-8e.2/README.md) | sase-8e hood | dismissed |
+| [sase-8e.land](../bbugyi200.athena.sase-8e.land/README.md) | sase-8e hood | dismissed |

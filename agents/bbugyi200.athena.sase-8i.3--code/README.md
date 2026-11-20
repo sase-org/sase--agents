@@ -23,12 +23,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`865d5c1`](https://github.com/sase-org/sase/commit/865d5c191e7fcecf6f7f96c9f1ba2732d6436d6b) | fix: refresh clan summaries after workspace preparation (sase-8i.3) | 2026-07-21 12:12:48 EDT |
+| — | `865d5c1` | fix: refresh clan summaries after workspace preparation (sase-8i.3) | 2026-07-21 12:12:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8i.1](../bbugyi200.athena.sase-8i.1/README.md) | sase-8i hood | active |
-| [sase-8i.2](../../sessions/bbugyi200.athena.sase-8i.2.md) (session · 2) | sase-8i hood | active 1, completed 1 |
-| [sase-8i.land](../bbugyi200.athena.sase-8i.land/README.md) | sase-8i hood | active |
+| [sase-8i.1](../bbugyi200.athena.sase-8i.1/README.md) | sase-8i hood | dismissed |
+| [sase-8i.2](../../sessions/bbugyi200.athena.sase-8i.2.md) (session · 2) | sase-8i hood | completed 1, dismissed 1 |
+| [sase-8i.land](../bbugyi200.athena.sase-8i.land/README.md) | sase-8i hood | dismissed |

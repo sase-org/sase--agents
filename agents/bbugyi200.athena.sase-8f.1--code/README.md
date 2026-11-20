@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0ed5505`](https://github.com/sase-org/sase/commit/0ed55056f9acfb6ec60adba4b9d4330cacc4043d) | feat(beads): expose atomic agent launch claims (sase-8f.1) | 2026-07-20 16:21:27 EDT |
+| — | `0ed5505` | feat(beads): expose atomic agent launch claims (sase-8f.1) | 2026-07-20 16:21:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8f.2](../../sessions/bbugyi200.athena.sase-8f.2.md) (session · 2) | sase-8f hood | active 1, completed 1 |
-| [sase-8f.3](../../sessions/bbugyi200.athena.sase-8f.3.md) (session · 2) | sase-8f hood | active 1, completed 1 |
-| [sase-8f.land](../bbugyi200.athena.sase-8f.land/README.md) | sase-8f hood | active |
+| [sase-8f.2](../../sessions/bbugyi200.athena.sase-8f.2.md) (session · 2) | sase-8f hood | completed 1, dismissed 1 |
+| [sase-8f.3](../../sessions/bbugyi200.athena.sase-8f.3.md) (session · 2) | sase-8f hood | completed 1, dismissed 1 |
+| [sase-8f.land](../bbugyi200.athena.sase-8f.land/README.md) | sase-8f hood | dismissed |

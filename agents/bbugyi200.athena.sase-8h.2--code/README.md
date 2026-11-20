@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f9345e7`](https://github.com/sase-org/sase/commit/f9345e7c11bedb3b947dc2e17ae65d7b2e6d6d72) | fix(vcs): make commit collection truncation-aware (sase-8h.2) | 2026-07-21 11:18:31 EDT |
+| — | `f9345e7` | fix(vcs): make commit collection truncation-aware (sase-8h.2) | 2026-07-21 11:18:31 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8h.1](../../sessions/bbugyi200.athena.sase-8h.1.md) (session · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.1.w1](../../sessions/bbugyi200.athena.sase-8h.1.w1.md) (session · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.3](../../sessions/bbugyi200.athena.sase-8h.3.md) (session · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.land](../bbugyi200.athena.sase-8h.land/README.md) | sase-8h hood | active |
+| [sase-8h.1](../../sessions/bbugyi200.athena.sase-8h.1.md) (session · 2) | sase-8h hood | completed 1, dismissed 1 |
+| [sase-8h.1.w1](../../sessions/bbugyi200.athena.sase-8h.1.w1.md) (session · 2) | sase-8h hood | completed 1, dismissed 1 |
+| [sase-8h.3](../../sessions/bbugyi200.athena.sase-8h.3.md) (session · 2) | sase-8h hood | completed 1, dismissed 1 |
+| [sase-8h.land](../bbugyi200.athena.sase-8h.land/README.md) | sase-8h hood | dismissed |
