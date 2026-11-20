@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-93](../../users/bbugyi200/machines/athena/hoods/sase-93/README.md) / sase-93.7
 
-**Global name:** `bbugyi200.athena.sase-93.7` · **State:** active · **Source run:** `run-112dfa2319fb1fd5e1f70fa8ffa44c2a`
+**Global name:** `bbugyi200.athena.sase-93.7` · **State:** dismissed · **Source run:** `run-112dfa2319fb1fd5e1f70fa8ffa44c2a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-93
 
@@ -12,7 +12,7 @@
 - Epic: [sase-93](https://github.com/sase-org/sase--beads/blob/main/pages/sase-93/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-25T12:18:49.641705+00:00
+- Timing: 2026-07-25T08:18:49.641705 → 2026-07-25T09:06:13.158570
 - Commits: [1](#commits)
 
 ## Files
@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`07e45d2`](https://github.com/sase-org/sase/commit/07e45d21e07961921fbcb95885c1b35cebffb203) | build(deps): align sase-core-rs with published release (sase-93.7) | 2026-07-25 09:05:41 EDT |
+| — | `07e45d2` | build(deps): align sase-core-rs with published release (sase-93.7) | 2026-07-25 09:05:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-93.1](../bbugyi200.athena.sase-93.1/README.md) | sase-93 hood | active |
-| [sase-93.2](../bbugyi200.athena.sase-93.2/README.md) | sase-93 hood | active |
-| [sase-93.3](../bbugyi200.athena.sase-93.3/README.md) | sase-93 hood | active |
-| [sase-93.4](../bbugyi200.athena.sase-93.4/README.md) | sase-93 hood | active |
-| [sase-93.5](../bbugyi200.athena.sase-93.5/README.md) | sase-93 hood | active |
-| [sase-93.6](../bbugyi200.athena.sase-93.6/README.md) | sase-93 hood | active |
-| [sase-93.land](../bbugyi200.athena.sase-93.land/README.md) | sase-93 hood | active |
+| [sase-93.1](../bbugyi200.athena.sase-93.1/README.md) | sase-93 hood | dismissed |
+| [sase-93.2](../bbugyi200.athena.sase-93.2/README.md) | sase-93 hood | dismissed |
+| [sase-93.3](../bbugyi200.athena.sase-93.3/README.md) | sase-93 hood | dismissed |
+| [sase-93.4](../bbugyi200.athena.sase-93.4/README.md) | sase-93 hood | dismissed |
+| [sase-93.5](../bbugyi200.athena.sase-93.5/README.md) | sase-93 hood | dismissed |
+| [sase-93.6](../bbugyi200.athena.sase-93.6/README.md) | sase-93 hood | dismissed |
+| [sase-93.land](../bbugyi200.athena.sase-93.land/README.md) | sase-93 hood | dismissed |

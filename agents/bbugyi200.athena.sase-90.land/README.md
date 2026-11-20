@@ -18,17 +18,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e5d953e`](https://github.com/sase-org/sase/commit/e5d953eadd0b66ce4c9d8806d045048943107825) | feat(chats): expose publication quarantine provenance (sase-90) | 2026-07-24 22:12:39 EDT |
+| — | `e5d953e` | feat(chats): expose publication quarantine provenance (sase-90) | 2026-07-24 22:12:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-90.1](../bbugyi200.athena.sase-90.1/README.md) | sase-90 hood | active |
-| [sase-90.2](../bbugyi200.athena.sase-90.2/README.md) | sase-90 hood | active |
-| [sase-90.3](../bbugyi200.athena.sase-90.3/README.md) | sase-90 hood | active |
-| [sase-90.4](../bbugyi200.athena.sase-90.4/README.md) | sase-90 hood | active |
-| [sase-90.5](../bbugyi200.athena.sase-90.5/README.md) | sase-90 hood | active |
-| [sase-90.6](../bbugyi200.athena.sase-90.6/README.md) | sase-90 hood | active |
-| [sase-90.7](../bbugyi200.athena.sase-90.7/README.md) | sase-90 hood | active |
-| [sase-90.8](../bbugyi200.athena.sase-90.8/README.md) | sase-90 hood | active |
+| [sase-90.1](../bbugyi200.athena.sase-90.1/README.md) | sase-90 hood | dismissed |
+| [sase-90.2](../bbugyi200.athena.sase-90.2/README.md) | sase-90 hood | dismissed |
+| [sase-90.3](../bbugyi200.athena.sase-90.3/README.md) | sase-90 hood | dismissed |
+| [sase-90.4](../bbugyi200.athena.sase-90.4/README.md) | sase-90 hood | dismissed |
+| [sase-90.5](../bbugyi200.athena.sase-90.5/README.md) | sase-90 hood | dismissed |
+| [sase-90.6](../bbugyi200.athena.sase-90.6/README.md) | sase-90 hood | dismissed |
+| [sase-90.7](../bbugyi200.athena.sase-90.7/README.md) | sase-90 hood | dismissed |
+| [sase-90.8](../bbugyi200.athena.sase-90.8/README.md) | sase-90 hood | dismissed |
