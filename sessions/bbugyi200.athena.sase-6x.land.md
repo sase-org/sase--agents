@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6x.1](../agents/bbugyi200.athena.sase-6x.1/README.md) | sase-6x hood | active |
-| [sase-6x.2](../agents/bbugyi200.athena.sase-6x.2/README.md) | sase-6x hood | active |
-| [sase-6x.3](../agents/bbugyi200.athena.sase-6x.3/README.md) | sase-6x hood | active |
-| [sase-6x.4](../agents/bbugyi200.athena.sase-6x.4/README.md) | sase-6x hood | active |
+| [sase-6x.1](../agents/bbugyi200.athena.sase-6x.1/README.md) | sase-6x hood | dismissed |
+| [sase-6x.2](../agents/bbugyi200.athena.sase-6x.2/README.md) | sase-6x hood | dismissed |
+| [sase-6x.3](../agents/bbugyi200.athena.sase-6x.3/README.md) | sase-6x hood | dismissed |
+| [sase-6x.4](../agents/bbugyi200.athena.sase-6x.4/README.md) | sase-6x hood | dismissed |
