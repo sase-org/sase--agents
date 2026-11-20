@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3a02535518469e25bc5dc21cc68fd46e"}
+{"commits":[{"committed_at":1795212975,"sha":"3025de05723e119b44418392c4a9f36b4f331785","subject":"feat(gateway): present stale fleet snapshots as revalidating"}],"schema_version":2,"source_run_id":"run-3a02535518469e25bc5dc21cc68fd46e"}

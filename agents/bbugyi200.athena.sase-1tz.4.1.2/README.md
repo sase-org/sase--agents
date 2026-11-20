@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.4.1.2
 
-**Global name:** `bbugyi200.athena.sase-1tz.4.1.2` · **State:** waiting · **Source run:** `run-3a02535518469e25bc5dc21cc68fd46e`
+**Global name:** `bbugyi200.athena.sase-1tz.4.1.2` · **State:** completed · **Source run:** `run-3a02535518469e25bc5dc21cc68fd46e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.4.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261120140156
-- Commits: 0
+- Timing: 2026-11-20T20:05:04.080430+00:00 → 2026-11-20T22:19:06.714619+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3025de0`](https://github.com/sase-org/sase/commit/3025de05723e119b44418392c4a9f36b4f331785) | feat(gateway): present stale fleet snapshots as revalidating | 2026-11-20 17:16:15 EST |
 
 ## Neighbors
 
