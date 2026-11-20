@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-aa.test\_checks\_agent\_publication.0](../bbugyi200.athena.toobig-aa.test_checks_agent_publication.0/README.md) | toobig-aa hood | waiting |
+| [toobig-aa.test\_checks\_agent\_publication.0](../bbugyi200.athena.toobig-aa.test_checks_agent_publication.0/README.md) | toobig-aa hood | completed |
 | [toobig-aa.test\_skill\_uses\_loader.0](../bbugyi200.athena.toobig-aa.test_skill_uses_loader.0/README.md) | toobig-aa hood | completed |
