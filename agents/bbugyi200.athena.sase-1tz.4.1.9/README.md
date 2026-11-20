@@ -10,8 +10,8 @@
 
 - Bead: [sase-1tz.4.1.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.4.1.9.md)
 - Epic: [sase-1tz.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.4.1.md)
-- Model: opus
-- Provider: claude
+- Model: muse-spark-1.3-contributor
+- Provider: muse
 - Timing: 20261120140159
 - Commits: 0
 
@@ -35,7 +35,7 @@
 | [sase-1tz.4.1.5](../bbugyi200.athena.sase-1tz.4.1.5/README.md) | sase-1tz.4.1 hood | waiting |
 | [sase-1tz.4.1.6](../bbugyi200.athena.sase-1tz.4.1.6/README.md) | sase-1tz.4.1 hood | active |
 | [sase-1tz.4.1.7](../bbugyi200.athena.sase-1tz.4.1.7/README.md) | sase-1tz.4.1 hood | waiting |
-| [sase-1tz.4.1.8](../bbugyi200.athena.sase-1tz.4.1.8/README.md) | sase-1tz.4.1 hood | active |
+| [sase-1tz.4.1.8](../bbugyi200.athena.sase-1tz.4.1.8/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.land](../bbugyi200.athena.sase-1tz.4.1.land/README.md) | sase-1tz.4.1 hood | waiting |
 | [sase-1tz.1](../../sessions/bbugyi200.athena.sase-1tz.1.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
 | [sase-1tz.1.1.1](../bbugyi200.athena.sase-1tz.1.1.1/README.md) | sase-1tz hood | completed |

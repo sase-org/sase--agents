@@ -13,11 +13,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-11-20T19:02:43.229280+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0386c59`](https://github.com/sase-org/sase/commit/0386c59150a9c3fa7e33a75a991e136d07672688) | feat(notifications): key remote-attention rows by stable request identity | 2026-11-20 15:31:49 EST |
 
 ## Neighbors
 
@@ -34,7 +40,7 @@
 | [sase-1tz.4.1.5](../bbugyi200.athena.sase-1tz.4.1.5/README.md) | sase-1tz.4.1 hood | waiting |
 | [sase-1tz.4.1.6](../bbugyi200.athena.sase-1tz.4.1.6/README.md) | sase-1tz.4.1 hood | active |
 | [sase-1tz.4.1.7](../bbugyi200.athena.sase-1tz.4.1.7/README.md) | sase-1tz.4.1 hood | waiting |
-| [sase-1tz.4.1.8](../bbugyi200.athena.sase-1tz.4.1.8/README.md) | sase-1tz.4.1 hood | active |
+| [sase-1tz.4.1.8](../bbugyi200.athena.sase-1tz.4.1.8/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.9](../bbugyi200.athena.sase-1tz.4.1.9/README.md) | sase-1tz.4.1 hood | waiting |
 | [sase-1tz.4.1.land](../bbugyi200.athena.sase-1tz.4.1.land/README.md) | sase-1tz.4.1 hood | waiting |
 | [sase-1tz.1](../../sessions/bbugyi200.athena.sase-1tz.1.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
