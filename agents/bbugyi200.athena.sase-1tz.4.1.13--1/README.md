@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / [sase-1tz.4.1.13](../../sessions/bbugyi200.athena.sase-1tz.4.1.13.md) / sase-1tz.4.1.13--1
 
-**Global name:** `bbugyi200.athena.sase-1tz.4.1.13--1` · **State:** active · **Source run:** `run-b50c29101fd4a3fda481f603b45040f1`
+**Global name:** `bbugyi200.athena.sase-1tz.4.1.13--1` · **State:** completed · **Source run:** `run-b50c29101fd4a3fda481f603b45040f1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1tz.4.1.13](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.4.1.13.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-20T22:04:33.394181+00:00
-- Commits: 0
+- Timing: 2026-11-20T22:04:33.394181+00:00 → 2026-11-20T22:13:43.074418+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8f5ed08`](https://github.com/sase-org/sase/commit/8f5ed0808882cc3973556088fe9440c12a451f29) | feat(retention): reap proc log-locks and registry temps, report index backups | 2026-11-20 17:11:32 EST |
 
 ## Neighbors
 

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1tz` · Members: 3 · Bead: [sase-1tz.4
 ```mermaid
 flowchart TD
   n0["sase-1tz.4.1.13--gate [completed]"]
-  n1["sase-1tz.4.1.13--1 [active]"]
+  n1["sase-1tz.4.1.13--1 [completed]"]
   n0 --> n1
   n2["sase-1tz.4.1.13--plan [completed]"]
   n0 --> n2
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1tz.4.1.13--gate | completed | muse-spark-1.3-contributor / muse | 2026-11-20T22:00:28.983920+00:00 → 2026-11-20T22:03:33.064187+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.4.1.13--gate/chat.md) |
-| <a id="member-1"></a>1 | sase-1tz.4.1.13--1 | active | muse-spark-1.3-contributor / muse | 2026-11-20T22:04:33.394181+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.4.1.13--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1tz.4.1.13--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-20T22:04:33.394181+00:00 → 2026-11-20T22:13:43.074418+00:00 | [1](../agents/bbugyi200.athena.sase-1tz.4.1.13--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1tz.4.1.13--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.4.1.13--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1tz.4.1.13--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-20T20:52:15.141901+00:00 → 2026-11-20T21:58:03.648052+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.4.1.13--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.4.1.13--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`8f5ed08`](https://github.com/sase-org/sase/commit/8f5ed0808882cc3973556088fe9440c12a451f29) | feat(retention): reap proc log-locks and registry temps, report index backups | 2026-11-20 17:11:32 EST |
 
 ## Neighbors
 
