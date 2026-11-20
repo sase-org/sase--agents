@@ -1,7 +1,7 @@
+%id(13, clan=sase-1tz.2.1, bead=sase-1tz.2.1.13)
 %auto
 #gh:gh_sase-org__sase
-%id(13, clan=sase-1tz.2.1, bead=sase-1tz.2.1.13)
-%model:@small
+%m:@xlarge 
 %w(sase-1tz.2.1.10,sase-1tz.2.1.11,sase-1tz.2.1.8,sase-1tz.2.1.9, for_epic=false)
 %w(bead=sase-1tz.2.1.10)
 %w(bead=sase-1tz.2.1.11)
