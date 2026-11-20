@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ef28cc5`](https://github.com/sase-org/sase/commit/ef28cc5ae922bca3bcad1d675b50d238ce522e68) | test(ace): cover retry rendering states (sase-5o.2) | 2026-07-10 17:32:22 EDT |
+| — | `ef28cc5` | test(ace): cover retry rendering states (sase-5o.2) | 2026-07-10 17:32:22 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5o](../../sessions/bbugyi200.athena.sase-5o.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5o](../../sessions/bbugyi200.athena.sase-5o.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5o.1](../bbugyi200.athena.sase-5o.1/README.md) | sase-5o hood | dismissed |
 | [sase-5o.3](../bbugyi200.athena.sase-5o.3/README.md) | sase-5o hood | dismissed |
 | [sase-5o.4](../bbugyi200.athena.sase-5o.4/README.md) | sase-5o hood | dismissed |

@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3648ce1`](https://github.com/sase-org/sase/commit/3648ce1d2a36fe04678b342e0fa887c62d41a9d0) | fix: honor retry fallback model overrides (sase-5o.4) | 2026-07-10 18:07:18 EDT |
+| — | `3648ce1` | fix: honor retry fallback model overrides (sase-5o.4) | 2026-07-10 18:07:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5o](../../sessions/bbugyi200.athena.sase-5o.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5o](../../sessions/bbugyi200.athena.sase-5o.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5o.1](../bbugyi200.athena.sase-5o.1/README.md) | sase-5o hood | dismissed |
 | [sase-5o.2](../bbugyi200.athena.sase-5o.2/README.md) | sase-5o hood | dismissed |
 | [sase-5o.3](../bbugyi200.athena.sase-5o.3/README.md) | sase-5o hood | dismissed |

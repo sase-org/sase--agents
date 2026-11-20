@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ad3e1eb`](https://github.com/sase-org/sase/commit/ad3e1eba20969489ebd368118019f76209fb6e5e) | feat(fakey): add deterministic scenario CLI (sase-5o.1) | 2026-07-10 17:28:27 EDT |
+| — | `ad3e1eb` | feat(fakey): add deterministic scenario CLI (sase-5o.1) | 2026-07-10 17:28:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5o](../../sessions/bbugyi200.athena.sase-5o.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5o](../../sessions/bbugyi200.athena.sase-5o.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5o.2](../bbugyi200.athena.sase-5o.2/README.md) | sase-5o hood | dismissed |
 | [sase-5o.3](../bbugyi200.athena.sase-5o.3/README.md) | sase-5o hood | dismissed |
 | [sase-5o.4](../bbugyi200.athena.sase-5o.4/README.md) | sase-5o hood | dismissed |

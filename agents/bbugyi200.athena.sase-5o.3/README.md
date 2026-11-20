@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ecc017`](https://github.com/sase-org/sase/commit/7ecc0173eff527f7ec87cfd2ceea919936d7fa93) | feat: add first-class fakey provider integration (sase-5o.3) | 2026-07-10 17:54:04 EDT |
+| — | `7ecc017` | feat: add first-class fakey provider integration (sase-5o.3) | 2026-07-10 17:54:04 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5o](../../sessions/bbugyi200.athena.sase-5o.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-5o](../../sessions/bbugyi200.athena.sase-5o.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-5o.1](../bbugyi200.athena.sase-5o.1/README.md) | sase-5o hood | dismissed |
 | [sase-5o.2](../bbugyi200.athena.sase-5o.2/README.md) | sase-5o hood | dismissed |
 | [sase-5o.4](../bbugyi200.athena.sase-5o.4/README.md) | sase-5o hood | dismissed |
