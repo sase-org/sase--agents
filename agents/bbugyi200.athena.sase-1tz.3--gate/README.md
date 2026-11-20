@@ -33,7 +33,7 @@
 | [sase-1tz.3.1.6](../bbugyi200.athena.sase-1tz.3.1.6/README.md) | descendant | completed |
 | [sase-1tz.3.1.7](../bbugyi200.athena.sase-1tz.3.1.7/README.md) | descendant | completed |
 | [sase-1tz.3.1.8](../bbugyi200.athena.sase-1tz.3.1.8/README.md) | descendant | completed |
-| [sase-1tz.3.1.9](../bbugyi200.athena.sase-1tz.3.1.9/README.md) | descendant | active |
+| [sase-1tz.3.1.9](../bbugyi200.athena.sase-1tz.3.1.9/README.md) | descendant | completed |
 | [sase-1tz.3.1.land](../bbugyi200.athena.sase-1tz.3.1.land/README.md) | descendant | waiting |
 | [sase-1tz.1](../../sessions/bbugyi200.athena.sase-1tz.1.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
 | [sase-1tz.1.1.1](../bbugyi200.athena.sase-1tz.1.1.1/README.md) | sase-1tz hood | completed |

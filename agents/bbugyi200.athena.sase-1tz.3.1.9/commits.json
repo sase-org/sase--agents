@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a5922f67897c7b1bc25bfe2cca2254d4"}
+{"commits":[{"committed_at":1795191840,"sha":"41f95c82cfdf0c24456035cf5e968184a696b374","subject":"feat(instructions): compact oversize provider root bundles to fit max_bytes"}],"schema_version":2,"source_run_id":"run-a5922f67897c7b1bc25bfe2cca2254d4"}

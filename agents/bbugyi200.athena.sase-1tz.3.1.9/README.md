@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.3.1.9
 
-**Global name:** `bbugyi200.athena.sase-1tz.3.1.9` · **State:** active · **Source run:** `run-a5922f67897c7b1bc25bfe2cca2254d4`
+**Global name:** `bbugyi200.athena.sase-1tz.3.1.9` · **State:** completed · **Source run:** `run-a5922f67897c7b1bc25bfe2cca2254d4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.3.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-20T14:26:22.871770+00:00
-- Commits: 0
+- Timing: 2026-11-20T14:26:22.871770+00:00 → 2026-11-20T16:25:50.976146+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`41f95c8`](https://github.com/sase-org/sase/commit/41f95c82cfdf0c24456035cf5e968184a696b374) | feat(instructions): compact oversize provider root bundles to fit max\_bytes | 2026-11-20 11:24:00 EST |
 
 ## Neighbors
 
