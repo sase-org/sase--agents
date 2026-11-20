@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / [sase-1tz.3.1.5](../../sessions/bbugyi200.athena.sase-1tz.3.1.5.md) / sase-1tz.3.1.5--mon
 
-**Global name:** `bbugyi200.athena.sase-1tz.3.1.5--mon` · **State:** active · **Source run:** `run-791cf0c5c6ab8ec1c3af57a8fde729d7`
+**Global name:** `bbugyi200.athena.sase-1tz.3.1.5--mon` · **State:** failed · **Source run:** `run-791cf0c5c6ab8ec1c3af57a8fde729d7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,8 +12,12 @@
 - Epic: [sase-1tz.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.3.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-20T14:34:01.816343+00:00
+- Timing: 2026-11-20T14:34:01.816343+00:00 → 2026-11-20T15:31:45.518391+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -23,7 +27,7 @@
 | [sase-1tz.3.1.1](../bbugyi200.athena.sase-1tz.3.1.1/README.md) | sase-1tz.3.1 hood | active |
 | [sase-1tz.3.1.10](../bbugyi200.athena.sase-1tz.3.1.10/README.md) | sase-1tz.3.1 hood | waiting |
 | [sase-1tz.3.1.11](../bbugyi200.athena.sase-1tz.3.1.11/README.md) | sase-1tz.3.1 hood | active |
-| [sase-1tz.3.1.2](../bbugyi200.athena.sase-1tz.3.1.2/README.md) | sase-1tz.3.1 hood | active |
+| [sase-1tz.3.1.2](../bbugyi200.athena.sase-1tz.3.1.2/README.md) | sase-1tz.3.1 hood | completed |
 | [sase-1tz.3.1.3](../bbugyi200.athena.sase-1tz.3.1.3/README.md) | sase-1tz.3.1 hood | waiting |
 | [sase-1tz.3.1.4](../bbugyi200.athena.sase-1tz.3.1.4/README.md) | sase-1tz.3.1 hood | waiting |
 | [sase-1tz.3.1.6](../bbugyi200.athena.sase-1tz.3.1.6/README.md) | sase-1tz.3.1 hood | completed |

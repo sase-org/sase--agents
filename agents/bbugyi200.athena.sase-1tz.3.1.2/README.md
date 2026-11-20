@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.3.1.2
 
-**Global name:** `bbugyi200.athena.sase-1tz.3.1.2` · **State:** active · **Source run:** `run-460e75f282fc92662d38efca185d0dd5`
+**Global name:** `bbugyi200.athena.sase-1tz.3.1.2` · **State:** completed · **Source run:** `run-460e75f282fc92662d38efca185d0dd5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.3.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-20T14:22:13.834231+00:00
-- Commits: 0
+- Timing: 2026-11-20T14:22:13.834231+00:00 → 2026-11-20T15:52:52.167341+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9bbdeec`](https://github.com/sase-org/sase/commit/9bbdeec5f45d1a8a407d03839a912c413e71de18) | test(dev\_update): add update-overlap reproducer for jobs, launches, and native code | 2026-11-20 10:50:59 EST |
 
 ## Neighbors
 
@@ -29,7 +35,7 @@
 | [sase-1tz.3.1.11](../bbugyi200.athena.sase-1tz.3.1.11/README.md) | sase-1tz.3.1 hood | active |
 | [sase-1tz.3.1.3](../bbugyi200.athena.sase-1tz.3.1.3/README.md) | sase-1tz.3.1 hood | waiting |
 | [sase-1tz.3.1.4](../bbugyi200.athena.sase-1tz.3.1.4/README.md) | sase-1tz.3.1 hood | waiting |
-| [sase-1tz.3.1.5](../../sessions/bbugyi200.athena.sase-1tz.3.1.5.md) (session · 2) | sase-1tz.3.1 hood | active 1, completed 1 |
+| [sase-1tz.3.1.5](../../sessions/bbugyi200.athena.sase-1tz.3.1.5.md) (session · 4) | sase-1tz.3.1 hood | active 1, completed 2, failed 1 |
 | [sase-1tz.3.1.6](../bbugyi200.athena.sase-1tz.3.1.6/README.md) | sase-1tz.3.1 hood | completed |
 | [sase-1tz.3.1.7](../bbugyi200.athena.sase-1tz.3.1.7/README.md) | sase-1tz.3.1 hood | waiting |
 | [sase-1tz.3.1.8](../bbugyi200.athena.sase-1tz.3.1.8/README.md) | sase-1tz.3.1 hood | completed |
