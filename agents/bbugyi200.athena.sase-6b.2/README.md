@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b74adbf`](https://github.com/sase-org/sase/commit/b74adbf4cad66da4435017a41df074965d53a694) | feat(tui): add prompt placeholder completion (sase-6b.2) | 2026-07-16 09:35:57 EDT |
+| — | `b74adbf` | feat(tui): add prompt placeholder completion (sase-6b.2) | 2026-07-16 09:35:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6b](../../sessions/bbugyi200.athena.sase-6b.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6b](../../sessions/bbugyi200.athena.sase-6b.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6b.1](../bbugyi200.athena.sase-6b.1/README.md) | sase-6b hood | dismissed |
 | [sase-6b.3](../bbugyi200.athena.sase-6b.3/README.md) | sase-6b hood | dismissed |

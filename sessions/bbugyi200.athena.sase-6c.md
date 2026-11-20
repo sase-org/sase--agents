@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-6c` · Members: 2 · Bead: [sase-6c](ht
 ```mermaid
 flowchart TD
   n0["sase-6c--code [completed]"]
-  n1["sase-6c [active]"]
+  n1["sase-6c [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,13 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-6c--code | completed | gpt-5.6-sol / codex | 2026-07-16T16:10:54.871301+00:00 | [1](../agents/bbugyi200.athena.sase-6c--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-6c--code/chat.md) |
-| <a id="member-root"></a>root | sase-6c | active | gpt-5.6-sol / codex | 2026-07-16T15:56:33.711592+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6c/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6c/chat.md) |
+| <a id="member-root"></a>root | sase-6c | dismissed | gpt-5.6-sol / codex | 2026-07-16T11:56:33.711592 → 2026-07-16T12:24:15.173809 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6c/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6c/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`b8b7d65`](https://github.com/sase-org/sase/commit/b8b7d65e1a0bb39a59ec2385416b9c8cbf5400f6) | perf(tui): keep remaining maintenance off the message pump (sase-6c) | 2026-07-16 12:22:59 EDT |
+| code | — | `b8b7d65` | perf(tui): keep remaining maintenance off the message pump (sase-6c) | 2026-07-16 12:22:59 EDT |
 
 ## Neighbors
 

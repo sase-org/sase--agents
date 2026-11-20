@@ -22,20 +22,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`01a1adb`](https://github.com/sase-org/sase/commit/01a1adbe73866475de7c068fa3637d2a0009e0c8) | feat: migrate project config and xprompt runtime paths (sase-6d.2) | 2026-07-16 13:47:19 EDT |
-| sase | [`6dbd568`](https://github.com/sase-org/sase/commit/6dbd5688ef77df23640164328b26f794e304244e) | fix: reconcile memory init config path API (sase-6d.2) | 2026-07-16 13:51:09 EDT |
+| — | `01a1adb` | feat: migrate project config and xprompt runtime paths (sase-6d.2) | 2026-07-16 13:47:19 EDT |
+| — | `6dbd568` | fix: reconcile memory init config path API (sase-6d.2) | 2026-07-16 13:51:09 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6d](../../sessions/bbugyi200.athena.sase-6d.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6d](../../sessions/bbugyi200.athena.sase-6d.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6d.1](../bbugyi200.athena.sase-6d.1/README.md) | sase-6d hood | dismissed |
 | [sase-6d.3](../bbugyi200.athena.sase-6d.3/README.md) | sase-6d hood | dismissed |
 | [sase-6d.4](../bbugyi200.athena.sase-6d.4/README.md) | sase-6d hood | dismissed |
 | [sase-6d.5](../bbugyi200.athena.sase-6d.5/README.md) | sase-6d hood | dismissed |
 | [sase-6d.6](../bbugyi200.athena.sase-6d.6/README.md) | sase-6d hood | dismissed |
-| [sase-6d.7](../../sessions/bbugyi200.athena.sase-6d.7.md) (session · 2) | sase-6d hood | active 1, completed 1 |
+| [sase-6d.7](../../sessions/bbugyi200.athena.sase-6d.7.md) (session · 2) | sase-6d hood | completed 1, dismissed 1 |
 | [sase-6d.8](../bbugyi200.athena.sase-6d.8/README.md) | sase-6d hood | dismissed |
 | [sase-6d.8.f0](../bbugyi200.athena.sase-6d.8.f0/README.md) | sase-6d hood | dismissed |
 | [sase-6d.9](../bbugyi200.athena.sase-6d.9/README.md) | sase-6d hood | dismissed |

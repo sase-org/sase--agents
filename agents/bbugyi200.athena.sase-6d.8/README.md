@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e4ed0cb`](https://github.com/sase-org/sase/commit/e4ed0cbc80fd14524a8b2895fed2c6547317f393) | chore: refresh SASE architecture diagrams (sase-6d.8) | 2026-07-16 15:50:46 EDT |
+| — | `e4ed0cb` | chore: refresh SASE architecture diagrams (sase-6d.8) | 2026-07-16 15:50:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6d](../../sessions/bbugyi200.athena.sase-6d.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6d](../../sessions/bbugyi200.athena.sase-6d.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6d.8.f0](../bbugyi200.athena.sase-6d.8.f0/README.md) | descendant | dismissed |
 | [sase-6d.1](../bbugyi200.athena.sase-6d.1/README.md) | sase-6d hood | dismissed |
 | [sase-6d.2](../bbugyi200.athena.sase-6d.2/README.md) | sase-6d hood | dismissed |
@@ -36,5 +36,5 @@
 | [sase-6d.4](../bbugyi200.athena.sase-6d.4/README.md) | sase-6d hood | dismissed |
 | [sase-6d.5](../bbugyi200.athena.sase-6d.5/README.md) | sase-6d hood | dismissed |
 | [sase-6d.6](../bbugyi200.athena.sase-6d.6/README.md) | sase-6d hood | dismissed |
-| [sase-6d.7](../../sessions/bbugyi200.athena.sase-6d.7.md) (session · 2) | sase-6d hood | active 1, completed 1 |
+| [sase-6d.7](../../sessions/bbugyi200.athena.sase-6d.7.md) (session · 2) | sase-6d hood | completed 1, dismissed 1 |
 | [sase-6d.9](../bbugyi200.athena.sase-6d.9/README.md) | sase-6d hood | dismissed |

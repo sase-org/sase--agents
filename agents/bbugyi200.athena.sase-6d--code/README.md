@@ -22,8 +22,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aa38ebf`](https://github.com/sase-org/sase/commit/aa38ebf34fc2be9484d5b06f2c79c05a4e062725) | refactor!: remove unused content layout entry points (sase-6d) | 2026-07-16 17:11:11 EDT |
-| sase | [`50809bd`](https://github.com/sase-org/sase/commit/50809bdb85382fe20e9e502e2f14b15c37490728) | test: stabilize xprompt save visual snapshots (sase-6d) | 2026-07-16 17:11:46 EDT |
+| — | `aa38ebf` | refactor!: remove unused content layout entry points (sase-6d) | 2026-07-16 17:11:11 EDT |
+| — | `50809bd` | test: stabilize xprompt save visual snapshots (sase-6d) | 2026-07-16 17:11:46 EDT |
 
 ## Neighbors
 
@@ -35,7 +35,7 @@
 | [sase-6d.4](../bbugyi200.athena.sase-6d.4/README.md) | descendant | dismissed |
 | [sase-6d.5](../bbugyi200.athena.sase-6d.5/README.md) | descendant | dismissed |
 | [sase-6d.6](../bbugyi200.athena.sase-6d.6/README.md) | descendant | dismissed |
-| [sase-6d.7](../../sessions/bbugyi200.athena.sase-6d.7.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-6d.7](../../sessions/bbugyi200.athena.sase-6d.7.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [sase-6d.8](../bbugyi200.athena.sase-6d.8/README.md) | descendant | dismissed |
 | [sase-6d.8.f0](../bbugyi200.athena.sase-6d.8.f0/README.md) | descendant | dismissed |
 | [sase-6d.9](../bbugyi200.athena.sase-6d.9/README.md) | descendant | dismissed |

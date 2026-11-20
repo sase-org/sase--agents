@@ -21,19 +21,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a800419`](https://github.com/sase-org/sase/commit/a8004197d5de182a62d55a2d5d3c45261e2cd529) | docs: remove legacy paths from xprompt infographic | 2026-07-16 16:16:34 EDT |
+| — | `a800419` | docs: remove legacy paths from xprompt infographic | 2026-07-16 16:16:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-6d.8](../bbugyi200.athena.sase-6d.8/README.md) | ancestor | dismissed |
-| [sase-6d](../../sessions/bbugyi200.athena.sase-6d.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6d](../../sessions/bbugyi200.athena.sase-6d.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6d.1](../bbugyi200.athena.sase-6d.1/README.md) | sase-6d hood | dismissed |
 | [sase-6d.2](../bbugyi200.athena.sase-6d.2/README.md) | sase-6d hood | dismissed |
 | [sase-6d.3](../bbugyi200.athena.sase-6d.3/README.md) | sase-6d hood | dismissed |
 | [sase-6d.4](../bbugyi200.athena.sase-6d.4/README.md) | sase-6d hood | dismissed |
 | [sase-6d.5](../bbugyi200.athena.sase-6d.5/README.md) | sase-6d hood | dismissed |
 | [sase-6d.6](../bbugyi200.athena.sase-6d.6/README.md) | sase-6d hood | dismissed |
-| [sase-6d.7](../../sessions/bbugyi200.athena.sase-6d.7.md) (session · 2) | sase-6d hood | active 1, completed 1 |
+| [sase-6d.7](../../sessions/bbugyi200.athena.sase-6d.7.md) (session · 2) | sase-6d hood | completed 1, dismissed 1 |
 | [sase-6d.9](../bbugyi200.athena.sase-6d.9/README.md) | sase-6d hood | dismissed |

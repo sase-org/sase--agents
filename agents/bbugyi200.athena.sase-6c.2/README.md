@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4309efb`](https://github.com/sase-org/sase/commit/4309efbf19bad8b26f33ef4e0fbb7ee6aa8c87dd) | perf(config): throttle freshness scans in render paths (sase-6c.2) | 2026-07-16 11:29:56 EDT |
+| — | `4309efb` | perf(config): throttle freshness scans in render paths (sase-6c.2) | 2026-07-16 11:29:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6c](../../sessions/bbugyi200.athena.sase-6c.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6c](../../sessions/bbugyi200.athena.sase-6c.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6c.1](../bbugyi200.athena.sase-6c.1/README.md) | sase-6c hood | dismissed |
 | [sase-6c.3](../bbugyi200.athena.sase-6c.3/README.md) | sase-6c hood | dismissed |
 | [sase-6c.4](../bbugyi200.athena.sase-6c.4/README.md) | sase-6c hood | dismissed |

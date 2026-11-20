@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a0dc62d`](https://github.com/sase-org/sase/commit/a0dc62d2fa5788eb06a5e60a7be14976c2f09eb5) | feat(notification-gates): finalize adapter-owned auto resolution (sase-6e) | 2026-07-16 20:25:16 EDT |
+| — | `a0dc62d` | feat(notification-gates): finalize adapter-owned auto resolution (sase-6e) | 2026-07-16 20:25:16 EDT |
 
 ## Neighbors
 
@@ -37,8 +37,8 @@
 | [sase-6e.7](../bbugyi200.athena.sase-6e.7/README.md) | descendant | dismissed |
 | [sase-6e.f0](../bbugyi200.athena.sase-6e.f0/README.md) | descendant | waiting |
 | [sase-6e.f1](../bbugyi200.athena.sase-6e.f1/README.md) | descendant | dismissed |
-| [sase-6e.f2](../bbugyi200.athena.sase-6e.f2/README.md) | descendant | waiting |
-| [sase-6e.f3](../bbugyi200.athena.sase-6e.f3/README.md) | descendant | waiting |
+| [sase-6e.f2](../bbugyi200.athena.sase-6e.f2/README.md) | descendant | dismissed |
+| [sase-6e.f3](../bbugyi200.athena.sase-6e.f3/README.md) | descendant | dismissed |
 | [sase-6e.f4](../bbugyi200.athena.sase-6e.f4/README.md) | descendant | dismissed |
-| [sase-6e.f5](../bbugyi200.athena.sase-6e.f5/README.md) | descendant | waiting |
+| [sase-6e.f5](../bbugyi200.athena.sase-6e.f5/README.md) | descendant | dismissed |
 | [sase-6e.f7](../bbugyi200.athena.sase-6e.f7/README.md) | descendant | dismissed |

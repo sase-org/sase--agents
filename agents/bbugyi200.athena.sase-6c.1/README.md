@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0d33d2a`](https://github.com/sase-org/sase/commit/0d33d2a8c71f0a175afb7fbc1163f7499c1ad93e) | perf(tui): move slow refresh work off the message pump (sase-6c.1) | 2026-07-16 11:49:02 EDT |
+| — | `0d33d2a` | perf(tui): move slow refresh work off the message pump (sase-6c.1) | 2026-07-16 11:49:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6c](../../sessions/bbugyi200.athena.sase-6c.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6c](../../sessions/bbugyi200.athena.sase-6c.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6c.2](../bbugyi200.athena.sase-6c.2/README.md) | sase-6c hood | dismissed |
 | [sase-6c.3](../bbugyi200.athena.sase-6c.3/README.md) | sase-6c hood | dismissed |
 | [sase-6c.4](../bbugyi200.athena.sase-6c.4/README.md) | sase-6c hood | dismissed |

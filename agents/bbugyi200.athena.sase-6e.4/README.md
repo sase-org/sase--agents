@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5c8cd12`](https://github.com/sase-org/sase/commit/5c8cd1276b472ccd65cbcfadd3dcf7ff6d3eacbe) | feat(notifications): migrate launch approvals to durable gates (sase-6e.4) | 2026-07-16 17:30:54 EDT |
+| — | `5c8cd12` | feat(notifications): migrate launch approvals to durable gates (sase-6e.4) | 2026-07-16 17:30:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6e](../../sessions/bbugyi200.athena.sase-6e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6e](../../sessions/bbugyi200.athena.sase-6e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6e.1](../bbugyi200.athena.sase-6e.1/README.md) | sase-6e hood | dismissed |
 | [sase-6e.2](../bbugyi200.athena.sase-6e.2/README.md) | sase-6e hood | dismissed |
 | [sase-6e.3](../bbugyi200.athena.sase-6e.3/README.md) | sase-6e hood | dismissed |
@@ -37,8 +37,8 @@
 | [sase-6e.7](../bbugyi200.athena.sase-6e.7/README.md) | sase-6e hood | dismissed |
 | [sase-6e.f0](../bbugyi200.athena.sase-6e.f0/README.md) | sase-6e hood | waiting |
 | [sase-6e.f1](../bbugyi200.athena.sase-6e.f1/README.md) | sase-6e hood | dismissed |
-| [sase-6e.f2](../bbugyi200.athena.sase-6e.f2/README.md) | sase-6e hood | waiting |
-| [sase-6e.f3](../bbugyi200.athena.sase-6e.f3/README.md) | sase-6e hood | waiting |
+| [sase-6e.f2](../bbugyi200.athena.sase-6e.f2/README.md) | sase-6e hood | dismissed |
+| [sase-6e.f3](../bbugyi200.athena.sase-6e.f3/README.md) | sase-6e hood | dismissed |
 | [sase-6e.f4](../bbugyi200.athena.sase-6e.f4/README.md) | sase-6e hood | dismissed |
-| [sase-6e.f5](../bbugyi200.athena.sase-6e.f5/README.md) | sase-6e hood | waiting |
+| [sase-6e.f5](../bbugyi200.athena.sase-6e.f5/README.md) | sase-6e hood | dismissed |
 | [sase-6e.f7](../bbugyi200.athena.sase-6e.f7/README.md) | sase-6e hood | dismissed |

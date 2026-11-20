@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6e](../../users/bbugyi200/machines/athena/hoods/sase-6e/README.md) / sase-6e.f3
 
-**Global name:** `bbugyi200.athena.sase-6e.f3` · **State:** waiting · **Source run:** `run-0f20b670e0da0a54ac4466022a6a3aee`
+**Global name:** `bbugyi200.athena.sase-6e.f3` · **State:** dismissed · **Source run:** `run-0f20b670e0da0a54ac4466022a6a3aee`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-6e
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20260716171611
+- Timing: 2026-07-16T17:16:11
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6e](../../sessions/bbugyi200.athena.sase-6e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6e](../../sessions/bbugyi200.athena.sase-6e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6e.1](../bbugyi200.athena.sase-6e.1/README.md) | sase-6e hood | dismissed |
 | [sase-6e.2](../bbugyi200.athena.sase-6e.2/README.md) | sase-6e hood | dismissed |
 | [sase-6e.3](../bbugyi200.athena.sase-6e.3/README.md) | sase-6e hood | dismissed |
@@ -31,7 +31,7 @@
 | [sase-6e.7](../bbugyi200.athena.sase-6e.7/README.md) | sase-6e hood | dismissed |
 | [sase-6e.f0](../bbugyi200.athena.sase-6e.f0/README.md) | sase-6e hood | waiting |
 | [sase-6e.f1](../bbugyi200.athena.sase-6e.f1/README.md) | sase-6e hood | dismissed |
-| [sase-6e.f2](../bbugyi200.athena.sase-6e.f2/README.md) | sase-6e hood | waiting |
+| [sase-6e.f2](../bbugyi200.athena.sase-6e.f2/README.md) | sase-6e hood | dismissed |
 | [sase-6e.f4](../bbugyi200.athena.sase-6e.f4/README.md) | sase-6e hood | dismissed |
-| [sase-6e.f5](../bbugyi200.athena.sase-6e.f5/README.md) | sase-6e hood | waiting |
+| [sase-6e.f5](../bbugyi200.athena.sase-6e.f5/README.md) | sase-6e hood | dismissed |
 | [sase-6e.f7](../bbugyi200.athena.sase-6e.f7/README.md) | sase-6e hood | dismissed |

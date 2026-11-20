@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f463941`](https://github.com/sase-org/sase/commit/f4639414a457e969e369078eedd71970f5402f98) | perf(tui): move stale index rebuild off startup path (sase-6c.3) | 2026-07-16 11:37:49 EDT |
+| — | `f463941` | perf(tui): move stale index rebuild off startup path (sase-6c.3) | 2026-07-16 11:37:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6c](../../sessions/bbugyi200.athena.sase-6c.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6c](../../sessions/bbugyi200.athena.sase-6c.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6c.1](../bbugyi200.athena.sase-6c.1/README.md) | sase-6c hood | dismissed |
 | [sase-6c.2](../bbugyi200.athena.sase-6c.2/README.md) | sase-6c hood | dismissed |
 | [sase-6c.4](../bbugyi200.athena.sase-6c.4/README.md) | sase-6c hood | dismissed |
