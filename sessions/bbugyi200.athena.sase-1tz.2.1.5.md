@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1tz` · Members: 5 · Bead: [sase-1tz.2
 
 ```mermaid
 flowchart TD
-  n0["sase-1tz.2.1.5--2 [active]"]
+  n0["sase-1tz.2.1.5--2 [completed]"]
   n1["sase-1tz.2.1.5--1 [completed]"]
   n0 --> n1
   n2["sase-1tz.2.1.5--mon-0 [failed]"]
@@ -23,11 +23,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | sase-1tz.2.1.5--2 | active | gpt-6-luna / codex | 2026-11-19T23:16:40.039117+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.2.1.5--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1tz.2.1.5--2 | completed | gpt-6-luna / codex | 2026-11-19T23:16:40.039117+00:00 → 2026-11-20T02:03:59.938453+00:00 | [1](../agents/bbugyi200.athena.sase-1tz.2.1.5--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1tz.2.1.5--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.2.1.5--2/chat.md) |
 | <a id="member-1"></a>1 | sase-1tz.2.1.5--1 | completed | gpt-6-luna / codex | 2026-11-19T23:06:16.193701+00:00 → 2026-11-19T23:12:46.981616+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.2.1.5--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.2.1.5--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1tz.2.1.5--mon-0 | failed | gpt-6-luna / codex | 2026-11-19T23:11:53.060633+00:00 → 2026-11-19T23:16:40.457581+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.2.1.5--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | sase-1tz.2.1.5--mon | failed | gpt-6-luna / codex | 2026-11-19T22:41:56.545526+00:00 → 2026-11-19T23:05:35.901825+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.2.1.5--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1tz.2.1.5--plan | completed | gpt-6-luna / codex | 2026-11-19T21:41:17.468839+00:00 → 2026-11-19T22:43:28.737706+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.2.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.2.1.5--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | sase | [`fb85972`](https://github.com/sase-org/sase/commit/fb85972f27438a2ceee0304862aaa3446106fb80) | perf(agents-sync): reuse scoped hood inventory | 2026-11-19 21:01:04 EST |
 
 ## Neighbors
 
