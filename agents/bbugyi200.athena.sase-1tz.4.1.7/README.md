@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.4.1.7
 
-**Global name:** `bbugyi200.athena.sase-1tz.4.1.7` · **State:** waiting · **Source run:** `run-7f5151171510aa901d60ce45a5e5fbb5`
+**Global name:** `bbugyi200.athena.sase-1tz.4.1.7` · **State:** completed · **Source run:** `run-7f5151171510aa901d60ce45a5e5fbb5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.4.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261120140158
-- Commits: 0
+- Timing: 2026-11-20T20:43:08.532370+00:00 → 2026-11-20T22:00:22.643242+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`eb54017`](https://github.com/sase-org/sase/commit/eb5401709da91f342a709c344429026db343acbe) | feat(tui): expire blocked waiters from the root-blocker notice | 2026-11-20 16:58:02 EST |
 
 ## Neighbors
 
@@ -28,7 +34,7 @@
 | [sase-1tz.4.1.10](../../sessions/bbugyi200.athena.sase-1tz.4.1.10.md) (session · 2) | sase-1tz.4.1 hood | active 1, completed 1 |
 | [sase-1tz.4.1.11](../bbugyi200.athena.sase-1tz.4.1.11/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.12](../bbugyi200.athena.sase-1tz.4.1.12/README.md) | sase-1tz.4.1 hood | completed |
-| [sase-1tz.4.1.13](../bbugyi200.athena.sase-1tz.4.1.13/README.md) | sase-1tz.4.1 hood | waiting |
+| [sase-1tz.4.1.13](../../sessions/bbugyi200.athena.sase-1tz.4.1.13.md) (session · 3) | sase-1tz.4.1 hood | active 1, completed 2 |
 | [sase-1tz.4.1.2](../bbugyi200.athena.sase-1tz.4.1.2/README.md) | sase-1tz.4.1 hood | waiting |
 | [sase-1tz.4.1.3](../bbugyi200.athena.sase-1tz.4.1.3/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.4](../bbugyi200.athena.sase-1tz.4.1.4/README.md) | sase-1tz.4.1 hood | waiting |
