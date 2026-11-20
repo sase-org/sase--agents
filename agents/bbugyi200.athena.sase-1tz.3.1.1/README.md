@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.3.1.1
 
-**Global name:** `bbugyi200.athena.sase-1tz.3.1.1` · **State:** active · **Source run:** `run-8118218b2b484d508588e47378ca2194`
+**Global name:** `bbugyi200.athena.sase-1tz.3.1.1` · **State:** completed · **Source run:** `run-8118218b2b484d508588e47378ca2194`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.3.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-20T14:22:21.290366+00:00
-- Commits: 0
+- Timing: 2026-11-20T14:22:21.290366+00:00 → 2026-11-20T16:56:39.467319+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`eca97ab`](https://github.com/sase-org/sase/commit/eca97ab5a75ec31ff224af02472c03198a21f9e3) | feat(artifact-links): add host-origin constant and prompt\_prose binding contract test | 2026-11-20 11:55:13 EST |
 
 ## Neighbors
 
