@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c716fa`](https://github.com/sase-org/sase/commit/8c716fa745b03fd9b9bed87c9ad23ae55bafea9a) | feat(repos)!: make research sidecars explicit | 2026-07-14 12:41:13 EDT |
+| — | `8c716fa` | feat(repos)!: make research sidecars explicit | 2026-07-14 12:41:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-60](../../sessions/bbugyi200.athena.sase-60.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-60](../../sessions/bbugyi200.athena.sase-60.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-60.1](../bbugyi200.athena.sase-60.1/README.md) | sase-60 hood | dismissed |
 | [sase-60.2](../bbugyi200.athena.sase-60.2/README.md) | sase-60 hood | dismissed |
 | [sase-60.3](../bbugyi200.athena.sase-60.3/README.md) | sase-60 hood | dismissed |

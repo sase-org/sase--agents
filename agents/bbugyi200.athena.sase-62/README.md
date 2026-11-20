@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7a03b9c`](https://github.com/sase-org/sase/commit/7a03b9c8a4ae8e89cf9761948e26590ee8471bac) | docs: align SDD docs with per-project research sidecars (sase-62) | 2026-07-15 09:56:26 EDT |
+| — | `7a03b9c` | docs: align SDD docs with per-project research sidecars (sase-62) | 2026-07-15 09:56:26 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [sase-62.3](../bbugyi200.athena.sase-62.3/README.md) | descendant | dismissed |
 | [sase-62.3.f0](../bbugyi200.athena.sase-62.3.f0/README.md) | descendant | dismissed |
 | [sase-62.3.f1](../bbugyi200.athena.sase-62.3.f1/README.md) | descendant | dismissed |
-| [sase-62.3.f2](../../sessions/bbugyi200.athena.sase-62.3.f2.md) (session · 2) | descendant | active 2 |
+| [sase-62.3.f2](../../sessions/bbugyi200.athena.sase-62.3.f2.md) (session · 2) | descendant | active 1, dismissed 1 |

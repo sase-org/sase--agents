@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-63` · Members: 2 · Bead: [sase-63](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-63 [active]"]
+  n0["sase-63 [dismissed]"]
   n1["sase-63--code [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | sase-63 | active | gpt-5.6-sol / codex | 2026-07-15T14:27:30.881738+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-63/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-63/chat.md) |
+| <a id="member-root"></a>root | sase-63 | dismissed | gpt-5.6-sol / codex | 2026-07-15T10:27:30.881738 | 0 | [Prompt](../agents/bbugyi200.athena.sase-63/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-63/chat.md) |
 | <a id="member-code"></a>code | sase-63--code | active | gpt-5.6-sol / codex | 2026-07-15T14:32:12.145828+00:00 | 0 | — | — |
 
 ## Neighbors
@@ -26,5 +26,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-63.1](../agents/bbugyi200.athena.sase-63.1/README.md) | descendant | dismissed |
 | [sase-63.2](../agents/bbugyi200.athena.sase-63.2/README.md) | descendant | dismissed |
-| [sase-63.3](../agents/bbugyi200.athena.sase-63.3/README.md) | descendant | waiting |
-| [sase-63.4](../agents/bbugyi200.athena.sase-63.4/README.md) | descendant | waiting |
+| [sase-63.3](../agents/bbugyi200.athena.sase-63.3/README.md) | descendant | dismissed |
+| [sase-63.4](../agents/bbugyi200.athena.sase-63.4/README.md) | descendant | dismissed |

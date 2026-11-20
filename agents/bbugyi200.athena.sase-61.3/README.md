@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d2e9613`](https://github.com/sase-org/sase/commit/d2e9613a8ad23368037fcb1c0161e4e1a6480273) | feat(plan): validate plans before proposal (sase-61.3) | 2026-07-14 13:41:47 EDT |
+| — | `d2e9613` | feat(plan): validate plans before proposal (sase-61.3) | 2026-07-14 13:41:47 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-61](../../sessions/bbugyi200.athena.sase-61.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-61](../../sessions/bbugyi200.athena.sase-61.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-61.1](../bbugyi200.athena.sase-61.1/README.md) | sase-61 hood | dismissed |
 | [sase-61.2](../bbugyi200.athena.sase-61.2/README.md) | sase-61 hood | dismissed |
 | [sase-61.4](../bbugyi200.athena.sase-61.4/README.md) | sase-61 hood | dismissed |

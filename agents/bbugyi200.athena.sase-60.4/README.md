@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`78057dd`](https://github.com/sase-org/sase/commit/78057dd22a6f8d8d55f441d12377a15bdeda3b8b) | feat(cli)!: move SDD operations under plan commands | 2026-07-14 12:12:46 EDT |
+| — | `78057dd` | feat(cli)!: move SDD operations under plan commands | 2026-07-14 12:12:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-60](../../sessions/bbugyi200.athena.sase-60.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-60](../../sessions/bbugyi200.athena.sase-60.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-60.1](../bbugyi200.athena.sase-60.1/README.md) | sase-60 hood | dismissed |
 | [sase-60.2](../bbugyi200.athena.sase-60.2/README.md) | sase-60 hood | dismissed |
 | [sase-60.3](../bbugyi200.athena.sase-60.3/README.md) | sase-60 hood | dismissed |

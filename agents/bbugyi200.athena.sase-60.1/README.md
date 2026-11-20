@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e7411b8`](https://github.com/sase-org/sase/commit/e7411b8a89e895931c1606f7c84fada9724623c4) | feat(config): generalize linked and sidecar repositories (sase-60.1) | 2026-07-14 10:51:46 EDT |
+| — | `e7411b8` | feat(config): generalize linked and sidecar repositories (sase-60.1) | 2026-07-14 10:51:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-60](../../sessions/bbugyi200.athena.sase-60.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-60](../../sessions/bbugyi200.athena.sase-60.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-60.2](../bbugyi200.athena.sase-60.2/README.md) | sase-60 hood | dismissed |
 | [sase-60.3](../bbugyi200.athena.sase-60.3/README.md) | sase-60 hood | dismissed |
 | [sase-60.4](../bbugyi200.athena.sase-60.4/README.md) | sase-60 hood | dismissed |

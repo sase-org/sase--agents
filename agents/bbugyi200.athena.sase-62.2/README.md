@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`47514b7`](https://github.com/sase-org/sase/commit/47514b77a887b7a518a7df1013c1021d9d73e498) | fix: initialize project-specific research sidecars (sase-62.2) | 2026-07-15 08:49:36 EDT |
+| — | `47514b7` | fix: initialize project-specific research sidecars (sase-62.2) | 2026-07-15 08:49:36 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [sase-62.3](../bbugyi200.athena.sase-62.3/README.md) | sase-62 hood | dismissed |
 | [sase-62.3.f0](../bbugyi200.athena.sase-62.3.f0/README.md) | sase-62 hood | dismissed |
 | [sase-62.3.f1](../bbugyi200.athena.sase-62.3.f1/README.md) | sase-62 hood | dismissed |
-| [sase-62.3.f2](../../sessions/bbugyi200.athena.sase-62.3.f2.md) (session · 2) | sase-62 hood | active 2 |
+| [sase-62.3.f2](../../sessions/bbugyi200.athena.sase-62.3.f2.md) (session · 2) | sase-62 hood | active 1, dismissed 1 |

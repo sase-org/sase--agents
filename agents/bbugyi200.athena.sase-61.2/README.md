@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4881a04`](https://github.com/sase-org/sase/commit/4881a04bfa1ede8580925fe14bae6935ca1eb620) | feat(plan): add strict plan validation command (sase-61.2) | 2026-07-14 13:25:09 EDT |
+| — | `4881a04` | feat(plan): add strict plan validation command (sase-61.2) | 2026-07-14 13:25:09 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-61](../../sessions/bbugyi200.athena.sase-61.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-61](../../sessions/bbugyi200.athena.sase-61.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-61.1](../bbugyi200.athena.sase-61.1/README.md) | sase-61 hood | dismissed |
 | [sase-61.3](../bbugyi200.athena.sase-61.3/README.md) | sase-61 hood | dismissed |
 | [sase-61.4](../bbugyi200.athena.sase-61.4/README.md) | sase-61 hood | dismissed |

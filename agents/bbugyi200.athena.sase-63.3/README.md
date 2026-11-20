@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-63](../../users/bbugyi200/machines/athena/hoods/sase-63/README.md) / sase-63.3
 
-**Global name:** `bbugyi200.athena.sase-63.3` · **State:** waiting · **Source run:** `run-ee2e74062054751d5443c77912aed831`
+**Global name:** `bbugyi200.athena.sase-63.3` · **State:** dismissed · **Source run:** `run-ee2e74062054751d5443c77912aed831`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-63
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260715092914
+- Timing: 2026-07-15T09:29:14
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-63](../../sessions/bbugyi200.athena.sase-63.md) (session · 2) | ancestor | active 2 |
+| [sase-63](../../sessions/bbugyi200.athena.sase-63.md) (session · 2) | ancestor | active 1, dismissed 1 |
 | [sase-63.1](../bbugyi200.athena.sase-63.1/README.md) | sase-63 hood | dismissed |
 | [sase-63.2](../bbugyi200.athena.sase-63.2/README.md) | sase-63 hood | dismissed |
-| [sase-63.4](../bbugyi200.athena.sase-63.4/README.md) | sase-63 hood | waiting |
+| [sase-63.4](../bbugyi200.athena.sase-63.4/README.md) | sase-63 hood | dismissed |

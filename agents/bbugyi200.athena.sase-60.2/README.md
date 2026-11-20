@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3d103bd`](https://github.com/sase-org/sase/commit/3d103bd062af0e74e69a7b75ecceec1cfc1823dd) | feat(cli): add repository path resolution | 2026-07-14 11:22:30 EDT |
+| — | `3d103bd` | feat(cli): add repository path resolution | 2026-07-14 11:22:30 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-60](../../sessions/bbugyi200.athena.sase-60.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-60](../../sessions/bbugyi200.athena.sase-60.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-60.1](../bbugyi200.athena.sase-60.1/README.md) | sase-60 hood | dismissed |
 | [sase-60.3](../bbugyi200.athena.sase-60.3/README.md) | sase-60 hood | dismissed |
 | [sase-60.4](../bbugyi200.athena.sase-60.4/README.md) | sase-60 hood | dismissed |

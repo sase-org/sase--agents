@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bc32fb8`](https://github.com/sase-org/sase/commit/bc32fb844cdc36181f824c2bfa78fcda7e9c6548) | feat: validate tiered plans before approval (sase-61.4) | 2026-07-14 13:54:36 EDT |
+| — | `bc32fb8` | feat: validate tiered plans before approval (sase-61.4) | 2026-07-14 13:54:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-61](../../sessions/bbugyi200.athena.sase-61.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-61](../../sessions/bbugyi200.athena.sase-61.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-61.1](../bbugyi200.athena.sase-61.1/README.md) | sase-61 hood | dismissed |
 | [sase-61.2](../bbugyi200.athena.sase-61.2/README.md) | sase-61 hood | dismissed |
 | [sase-61.3](../bbugyi200.athena.sase-61.3/README.md) | sase-61 hood | dismissed |

@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b33ef20`](https://github.com/sase-org/sase/commit/b33ef206cfa69408823d1b681b2b82f2eb20fe2d) | feat(sdd): enforce committed plan schema cutover (sase-61.6) | 2026-07-14 13:49:51 EDT |
+| — | `b33ef20` | feat(sdd): enforce committed plan schema cutover (sase-61.6) | 2026-07-14 13:49:51 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-61](../../sessions/bbugyi200.athena.sase-61.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-61](../../sessions/bbugyi200.athena.sase-61.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-61.1](../bbugyi200.athena.sase-61.1/README.md) | sase-61 hood | dismissed |
 | [sase-61.2](../bbugyi200.athena.sase-61.2/README.md) | sase-61 hood | dismissed |
 | [sase-61.3](../bbugyi200.athena.sase-61.3/README.md) | sase-61 hood | dismissed |

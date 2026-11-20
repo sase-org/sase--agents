@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ef9688`](https://github.com/sase-org/sase/commit/9ef9688c8bc2856466c2d57d0daa3ac132271ebd) | feat!: launch approved epics from structured plans (sase-61.5) | 2026-07-14 14:34:35 EDT |
+| — | `9ef9688` | feat!: launch approved epics from structured plans (sase-61.5) | 2026-07-14 14:34:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-61](../../sessions/bbugyi200.athena.sase-61.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-61](../../sessions/bbugyi200.athena.sase-61.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-61.1](../bbugyi200.athena.sase-61.1/README.md) | sase-61 hood | dismissed |
 | [sase-61.2](../bbugyi200.athena.sase-61.2/README.md) | sase-61 hood | dismissed |
 | [sase-61.3](../bbugyi200.athena.sase-61.3/README.md) | sase-61 hood | dismissed |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`776f69e`](https://github.com/sase-org/sase/commit/776f69eb4b9b0e996378968716682b070a8feb8b) | feat(memory): render lazy sidecar repositories (sase-62.1) | 2026-07-15 08:47:45 EDT |
+| — | `776f69e` | feat(memory): render lazy sidecar repositories (sase-62.1) | 2026-07-15 08:47:45 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [sase-62.3](../bbugyi200.athena.sase-62.3/README.md) | sase-62 hood | dismissed |
 | [sase-62.3.f0](../bbugyi200.athena.sase-62.3.f0/README.md) | sase-62 hood | dismissed |
 | [sase-62.3.f1](../bbugyi200.athena.sase-62.3.f1/README.md) | sase-62 hood | dismissed |
-| [sase-62.3.f2](../../sessions/bbugyi200.athena.sase-62.3.f2.md) (session · 2) | sase-62 hood | active 2 |
+| [sase-62.3.f2](../../sessions/bbugyi200.athena.sase-62.3.f2.md) (session · 2) | sase-62 hood | active 1, dismissed 1 |
