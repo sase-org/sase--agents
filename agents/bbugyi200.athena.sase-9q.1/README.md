@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9q](../../users/bbugyi200/machines/athena/hoods/sase-9q/README.md) / sase-9q.1
 
-**Global name:** `bbugyi200.athena.sase-9q.1` · **State:** active · **Source run:** `run-a90916ee264dd683f81910882f0d925e`
+**Global name:** `bbugyi200.athena.sase-9q.1` · **State:** dismissed · **Source run:** `run-a90916ee264dd683f81910882f0d925e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9q
 
@@ -12,7 +12,7 @@
 - Epic: [sase-9q](https://github.com/sase-org/sase--beads/blob/main/pages/sase-9q/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-26T10:08:24.308093+00:00
+- Timing: 2026-07-26T06:08:24.308093 → 2026-07-26T06:26:08.001134
 - Commits: 0
 
 ## Files
@@ -23,11 +23,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9q.2](../bbugyi200.athena.sase-9q.2/README.md) | sase-9q hood | active |
-| [sase-9q.3](../bbugyi200.athena.sase-9q.3/README.md) | sase-9q hood | active |
-| [sase-9q.4](../bbugyi200.athena.sase-9q.4/README.md) | sase-9q hood | active |
-| [sase-9q.5](../bbugyi200.athena.sase-9q.5/README.md) | sase-9q hood | active |
-| [sase-9q.6](../bbugyi200.athena.sase-9q.6/README.md) | sase-9q hood | active |
-| [sase-9q.7](../bbugyi200.athena.sase-9q.7/README.md) | sase-9q hood | active |
-| [sase-9q.land](../../sessions/bbugyi200.athena.sase-9q.land.md) (session · 2) | sase-9q hood | active 1, completed 1 |
+| [sase-9q.2](../bbugyi200.athena.sase-9q.2/README.md) | sase-9q hood | dismissed |
+| [sase-9q.3](../bbugyi200.athena.sase-9q.3/README.md) | sase-9q hood | dismissed |
+| [sase-9q.4](../bbugyi200.athena.sase-9q.4/README.md) | sase-9q hood | dismissed |
+| [sase-9q.5](../bbugyi200.athena.sase-9q.5/README.md) | sase-9q hood | dismissed |
+| [sase-9q.6](../bbugyi200.athena.sase-9q.6/README.md) | sase-9q hood | dismissed |
+| [sase-9q.7](../bbugyi200.athena.sase-9q.7/README.md) | sase-9q hood | dismissed |
+| [sase-9q.land](../../sessions/bbugyi200.athena.sase-9q.land.md) (session · 2) | sase-9q hood | completed 1, dismissed 1 |
 | [sase-9q.land](../bbugyi200.athena.sase-9q.land/README.md) | sase-9q hood | completed |

@@ -18,16 +18,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f5f30f9`](https://github.com/sase-org/sase/commit/f5f30f91e6f5c76b02d58b371d64761910448e39) | feat(ace): honor xprompt placeholder argument toggle (sase-9q) | 2026-07-26 12:28:25 EDT |
+| — | `f5f30f9` | feat(ace): honor xprompt placeholder argument toggle (sase-9q) | 2026-07-26 12:28:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9q.1](../bbugyi200.athena.sase-9q.1/README.md) | sase-9q hood | active |
-| [sase-9q.2](../bbugyi200.athena.sase-9q.2/README.md) | sase-9q hood | active |
-| [sase-9q.3](../bbugyi200.athena.sase-9q.3/README.md) | sase-9q hood | active |
-| [sase-9q.4](../bbugyi200.athena.sase-9q.4/README.md) | sase-9q hood | active |
-| [sase-9q.5](../bbugyi200.athena.sase-9q.5/README.md) | sase-9q hood | active |
-| [sase-9q.6](../bbugyi200.athena.sase-9q.6/README.md) | sase-9q hood | active |
-| [sase-9q.7](../bbugyi200.athena.sase-9q.7/README.md) | sase-9q hood | active |
+| [sase-9q.1](../bbugyi200.athena.sase-9q.1/README.md) | sase-9q hood | dismissed |
+| [sase-9q.2](../bbugyi200.athena.sase-9q.2/README.md) | sase-9q hood | dismissed |
+| [sase-9q.3](../bbugyi200.athena.sase-9q.3/README.md) | sase-9q hood | dismissed |
+| [sase-9q.4](../bbugyi200.athena.sase-9q.4/README.md) | sase-9q hood | dismissed |
+| [sase-9q.5](../bbugyi200.athena.sase-9q.5/README.md) | sase-9q hood | dismissed |
+| [sase-9q.6](../bbugyi200.athena.sase-9q.6/README.md) | sase-9q hood | dismissed |
+| [sase-9q.7](../bbugyi200.athena.sase-9q.7/README.md) | sase-9q hood | dismissed |
