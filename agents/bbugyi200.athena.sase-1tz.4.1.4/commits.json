@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a4e154eb175e1f1b64bd06565c3c4649"}
+{"commits":[{"committed_at":1795215636,"sha":"6b444fcdefd3e9807aff39a922a1ec97641f796c","subject":"feat(notifications): expose opt-in payload sidecars"}],"schema_version":2,"source_run_id":"run-a4e154eb175e1f1b64bd06565c3c4649"}

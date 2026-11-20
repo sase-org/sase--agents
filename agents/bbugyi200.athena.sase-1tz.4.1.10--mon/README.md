@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / [sase-1tz.4.1.10](../../sessions/bbugyi200.athena.sase-1tz.4.1.10.md) / sase-1tz.4.1.10--mon
 
-**Global name:** `bbugyi200.athena.sase-1tz.4.1.10--mon` · **State:** active · **Source run:** `run-d48677b22a606ce37397bc6269b4c63b`
+**Global name:** `bbugyi200.athena.sase-1tz.4.1.10--mon` · **State:** failed · **Source run:** `run-d48677b22a606ce37397bc6269b4c63b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,8 +12,12 @@
 - Epic: [sase-1tz.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.4.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-20T21:34:01.319757+00:00
+- Timing: 2026-11-20T21:34:01.319757+00:00 → 2026-11-20T22:38:30.511101+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -26,12 +30,12 @@
 | [sase-1tz.4.1.13](../../sessions/bbugyi200.athena.sase-1tz.4.1.13.md) (session · 3) | sase-1tz.4.1 hood | completed 3 |
 | [sase-1tz.4.1.2](../bbugyi200.athena.sase-1tz.4.1.2/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.3](../bbugyi200.athena.sase-1tz.4.1.3/README.md) | sase-1tz.4.1 hood | completed |
-| [sase-1tz.4.1.4](../bbugyi200.athena.sase-1tz.4.1.4/README.md) | sase-1tz.4.1 hood | waiting |
+| [sase-1tz.4.1.4](../bbugyi200.athena.sase-1tz.4.1.4/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.5](../bbugyi200.athena.sase-1tz.4.1.5/README.md) | sase-1tz.4.1 hood | waiting |
 | [sase-1tz.4.1.6](../bbugyi200.athena.sase-1tz.4.1.6/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.7](../bbugyi200.athena.sase-1tz.4.1.7/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.8](../bbugyi200.athena.sase-1tz.4.1.8/README.md) | sase-1tz.4.1 hood | completed |
-| [sase-1tz.4.1.9](../bbugyi200.athena.sase-1tz.4.1.9/README.md) | sase-1tz.4.1 hood | waiting |
+| [sase-1tz.4.1.9](../bbugyi200.athena.sase-1tz.4.1.9/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.land](../bbugyi200.athena.sase-1tz.4.1.land/README.md) | sase-1tz.4.1 hood | waiting |
 | [sase-1tz.1](../../sessions/bbugyi200.athena.sase-1tz.1.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
 | [sase-1tz.1.1.1](../bbugyi200.athena.sase-1tz.1.1.1/README.md) | sase-1tz hood | completed |

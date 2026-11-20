@@ -35,17 +35,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1tz.4](bbugyi200.athena.sase-1tz.4.md) (session · 3) | ancestor | active 1, completed 2 |
 | [sase-1tz.4.1.1](../agents/bbugyi200.athena.sase-1tz.4.1.1/README.md) | sase-1tz.4.1 hood | completed |
-| [sase-1tz.4.1.10](bbugyi200.athena.sase-1tz.4.1.10.md) (session · 2) | sase-1tz.4.1 hood | active 1, completed 1 |
+| [sase-1tz.4.1.10](bbugyi200.athena.sase-1tz.4.1.10.md) (session · 4) | sase-1tz.4.1 hood | active 1, completed 2, failed 1 |
 | [sase-1tz.4.1.11](../agents/bbugyi200.athena.sase-1tz.4.1.11/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.12](../agents/bbugyi200.athena.sase-1tz.4.1.12/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.2](../agents/bbugyi200.athena.sase-1tz.4.1.2/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.3](../agents/bbugyi200.athena.sase-1tz.4.1.3/README.md) | sase-1tz.4.1 hood | completed |
-| [sase-1tz.4.1.4](../agents/bbugyi200.athena.sase-1tz.4.1.4/README.md) | sase-1tz.4.1 hood | waiting |
+| [sase-1tz.4.1.4](../agents/bbugyi200.athena.sase-1tz.4.1.4/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.5](../agents/bbugyi200.athena.sase-1tz.4.1.5/README.md) | sase-1tz.4.1 hood | waiting |
 | [sase-1tz.4.1.6](../agents/bbugyi200.athena.sase-1tz.4.1.6/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.7](../agents/bbugyi200.athena.sase-1tz.4.1.7/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.8](../agents/bbugyi200.athena.sase-1tz.4.1.8/README.md) | sase-1tz.4.1 hood | completed |
-| [sase-1tz.4.1.9](../agents/bbugyi200.athena.sase-1tz.4.1.9/README.md) | sase-1tz.4.1 hood | waiting |
+| [sase-1tz.4.1.9](../agents/bbugyi200.athena.sase-1tz.4.1.9/README.md) | sase-1tz.4.1 hood | completed |
 | [sase-1tz.4.1.land](../agents/bbugyi200.athena.sase-1tz.4.1.land/README.md) | sase-1tz.4.1 hood | waiting |
 | [sase-1tz.1](bbugyi200.athena.sase-1tz.1.md) (session · 3) | sase-1tz hood | active 1, completed 2 |
 | [sase-1tz.1.1.1](../agents/bbugyi200.athena.sase-1tz.1.1.1/README.md) | sase-1tz hood | completed |
