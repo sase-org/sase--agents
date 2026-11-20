@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.4.1.11
 
-**Global name:** `bbugyi200.athena.sase-1tz.4.1.11` · **State:** active · **Source run:** `run-204d54fb60a0bcb3fb760dc26da3314e`
+**Global name:** `bbugyi200.athena.sase-1tz.4.1.11` · **State:** completed · **Source run:** `run-204d54fb60a0bcb3fb760dc26da3314e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.4.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-20T19:26:25.074306+00:00
-- Commits: 0
+- Timing: 2026-11-20T19:26:25.074306+00:00 → 2026-11-20T21:21:36.201249+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f960f75`](https://github.com/sase-org/sase/commit/f960f758ca9bc3b88f0a722d5c9c8df14ed1b40f) | feat(agents-sync): memoize unchanged refresh verdicts | 2026-11-20 16:19:07 EST |
 
 ## Neighbors
 
