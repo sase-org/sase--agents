@@ -18,14 +18,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ac5b91`](https://github.com/sase-org/sase/commit/7ac5b917c08ebe10f847caacdcabf2a2fcc401a6) | feat(beads): repair legacy design references (sase-9z.5) | 2026-07-27 11:18:08 EDT |
+| — | `7ac5b91` | feat(beads): repair legacy design references (sase-9z.5) | 2026-07-27 11:18:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9z.1](../bbugyi200.athena.sase-9z.1/README.md) | sase-9z hood | active |
-| [sase-9z.2](../bbugyi200.athena.sase-9z.2/README.md) | sase-9z hood | active |
-| [sase-9z.3](../bbugyi200.athena.sase-9z.3/README.md) | sase-9z hood | active |
-| [sase-9z.4](../bbugyi200.athena.sase-9z.4/README.md) | sase-9z hood | active |
-| [sase-9z.land](../bbugyi200.athena.sase-9z.land/README.md) | sase-9z hood | active |
+| [sase-9z.1](../bbugyi200.athena.sase-9z.1/README.md) | sase-9z hood | dismissed |
+| [sase-9z.2](../bbugyi200.athena.sase-9z.2/README.md) | sase-9z hood | dismissed |
+| [sase-9z.3](../bbugyi200.athena.sase-9z.3/README.md) | sase-9z hood | dismissed |
+| [sase-9z.4](../bbugyi200.athena.sase-9z.4/README.md) | sase-9z hood | dismissed |
+| [sase-9z.land](../bbugyi200.athena.sase-9z.land/README.md) | sase-9z hood | dismissed |

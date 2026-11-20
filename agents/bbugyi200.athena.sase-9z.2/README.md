@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9z](../../users/bbugyi200/machines/athena/hoods/sase-9z/README.md) / sase-9z.2
 
-**Global name:** `bbugyi200.athena.sase-9z.2` · **State:** active · **Source run:** `run-0e7c1c7a9efa0b529703d08febad699f`
+**Global name:** `bbugyi200.athena.sase-9z.2` · **State:** dismissed · **Source run:** `run-0e7c1c7a9efa0b529703d08febad699f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9z
 
@@ -12,7 +12,7 @@
 - Epic: [sase-9z](https://github.com/sase-org/sase--beads/blob/main/pages/sase-9z/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-27T13:18:42.961054+00:00
+- Timing: 2026-07-27T09:18:42.961054 → 2026-07-27T09:55:31.185682
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f593eca`](https://github.com/sase-org/sase/commit/f593eca04f2279b35c41e05472e21a3ca5cf3224) | feat: unify plan reference resolution across readers (sase-9z.2) | 2026-07-27 09:54:47 EDT |
+| — | `f593eca` | feat: unify plan reference resolution across readers (sase-9z.2) | 2026-07-27 09:54:47 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9z.1](../bbugyi200.athena.sase-9z.1/README.md) | sase-9z hood | active |
-| [sase-9z.3](../bbugyi200.athena.sase-9z.3/README.md) | sase-9z hood | active |
-| [sase-9z.4](../bbugyi200.athena.sase-9z.4/README.md) | sase-9z hood | active |
-| [sase-9z.5](../../sessions/bbugyi200.athena.sase-9z.5.md) (session · 2) | sase-9z hood | active 1, completed 1 |
+| [sase-9z.1](../bbugyi200.athena.sase-9z.1/README.md) | sase-9z hood | dismissed |
+| [sase-9z.3](../bbugyi200.athena.sase-9z.3/README.md) | sase-9z hood | dismissed |
+| [sase-9z.4](../bbugyi200.athena.sase-9z.4/README.md) | sase-9z hood | dismissed |
+| [sase-9z.5](../../sessions/bbugyi200.athena.sase-9z.5.md) (session · 2) | sase-9z hood | completed 1, dismissed 1 |
 | [sase-9z.5](../bbugyi200.athena.sase-9z.5/README.md) | sase-9z hood | completed |
-| [sase-9z.land](../bbugyi200.athena.sase-9z.land/README.md) | sase-9z hood | active |
+| [sase-9z.land](../bbugyi200.athena.sase-9z.land/README.md) | sase-9z hood | dismissed |

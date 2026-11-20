@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ad452e`](https://github.com/sase-org/sase/commit/6ad452e1e84d47bafc39eb3a2850a954a1891768) | docs(beads): document truthful completion contract (sase-a1.6) | 2026-07-27 17:17:33 EDT |
+| — | `6ad452e` | docs(beads): document truthful completion contract (sase-a1.6) | 2026-07-27 17:17:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-a1.1](../bbugyi200.athena.sase-a1.1/README.md) | sase-a1 hood | active |
-| [sase-a1.2](../bbugyi200.athena.sase-a1.2/README.md) | sase-a1 hood | active |
-| [sase-a1.3](../bbugyi200.athena.sase-a1.3/README.md) | sase-a1 hood | active |
-| [sase-a1.4](../bbugyi200.athena.sase-a1.4/README.md) | sase-a1 hood | active |
-| [sase-a1.5](../bbugyi200.athena.sase-a1.5/README.md) | sase-a1 hood | active |
-| [sase-a1.land](../bbugyi200.athena.sase-a1.land/README.md) | sase-a1 hood | active |
+| [sase-a1.1](../bbugyi200.athena.sase-a1.1/README.md) | sase-a1 hood | dismissed |
+| [sase-a1.2](../bbugyi200.athena.sase-a1.2/README.md) | sase-a1 hood | dismissed |
+| [sase-a1.3](../bbugyi200.athena.sase-a1.3/README.md) | sase-a1 hood | dismissed |
+| [sase-a1.4](../bbugyi200.athena.sase-a1.4/README.md) | sase-a1 hood | dismissed |
+| [sase-a1.5](../bbugyi200.athena.sase-a1.5/README.md) | sase-a1 hood | dismissed |
+| [sase-a1.land](../bbugyi200.athena.sase-a1.land/README.md) | sase-a1 hood | dismissed |

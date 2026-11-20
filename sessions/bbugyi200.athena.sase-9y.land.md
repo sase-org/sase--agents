@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-9y` · Members: 2 · Bead: [sase-9y](ht
 ```mermaid
 flowchart TD
   n0["sase-9y.land--code [completed]"]
-  n1["sase-9y.land--plan [active]"]
+  n1["sase-9y.land--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,19 +18,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-9y.land--code | completed | gpt-5.6-sol / codex | 2026-07-27T15:55:52.266834+00:00 | [1](../agents/bbugyi200.athena.sase-9y.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-9y.land--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-9y.land--plan | active | gpt-5.6-sol / codex | 2026-07-27T15:41:12.616470+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-9y.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-9y.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-9y.land--plan | dismissed | gpt-5.6-sol / codex | 2026-07-27T11:41:12.616470 → 2026-07-27T12:30:23.662054 | 0 | [Prompt](../agents/bbugyi200.athena.sase-9y.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-9y.land--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a947469`](https://github.com/sase-org/sase/commit/a947469eece2988bdfff48bd6ee40b5a9701172f) | docs: record final visual contention baseline (sase-9y) | 2026-07-27 12:24:46 EDT |
+| code | — | `a947469` | docs: record final visual contention baseline (sase-9y) | 2026-07-27 12:24:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9y.1](../agents/bbugyi200.athena.sase-9y.1/README.md) | sase-9y hood | active |
-| [sase-9y.2](../agents/bbugyi200.athena.sase-9y.2/README.md) | sase-9y hood | active |
-| [sase-9y.3](../agents/bbugyi200.athena.sase-9y.3/README.md) | sase-9y hood | active |
+| [sase-9y.1](../agents/bbugyi200.athena.sase-9y.1/README.md) | sase-9y hood | dismissed |
+| [sase-9y.2](../agents/bbugyi200.athena.sase-9y.2/README.md) | sase-9y hood | dismissed |
+| [sase-9y.3](../agents/bbugyi200.athena.sase-9y.3/README.md) | sase-9y hood | dismissed |
 | [sase-9y.4](../agents/bbugyi200.athena.sase-9y.4/README.md) | sase-9y hood | dismissed |
