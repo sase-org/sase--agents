@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6903e78`](https://github.com/sase-org/sase/commit/6903e78ec41cea2b98ce28c12d1db85fa5214647) | perf(test): reduce ACE pilot harness startup cost (sase-86.2) | 2026-07-20 11:53:07 EDT |
+| — | `6903e78` | perf(test): reduce ACE pilot harness startup cost (sase-86.2) | 2026-07-20 11:53:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-86.1](../../sessions/bbugyi200.athena.sase-86.1.md) (session · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.3](../../sessions/bbugyi200.athena.sase-86.3.md) (session · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.4](../../sessions/bbugyi200.athena.sase-86.4.md) (session · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.5](../bbugyi200.athena.sase-86.5/README.md) | sase-86 hood | active |
-| [sase-86.6](../bbugyi200.athena.sase-86.6/README.md) | sase-86 hood | active |
-| [sase-86.land](../bbugyi200.athena.sase-86.land/README.md) | sase-86 hood | active |
+| [sase-86.1](../../sessions/bbugyi200.athena.sase-86.1.md) (session · 2) | sase-86 hood | completed 1, dismissed 1 |
+| [sase-86.3](../../sessions/bbugyi200.athena.sase-86.3.md) (session · 2) | sase-86 hood | completed 1, dismissed 1 |
+| [sase-86.4](../../sessions/bbugyi200.athena.sase-86.4.md) (session · 2) | sase-86 hood | completed 1, dismissed 1 |
+| [sase-86.5](../bbugyi200.athena.sase-86.5/README.md) | sase-86 hood | dismissed |
+| [sase-86.6](../bbugyi200.athena.sase-86.6/README.md) | sase-86 hood | dismissed |
+| [sase-86.land](../bbugyi200.athena.sase-86.land/README.md) | sase-86 hood | dismissed |

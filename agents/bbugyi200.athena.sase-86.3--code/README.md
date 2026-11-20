@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a0a09b2`](https://github.com/sase-org/sase/commit/a0a09b22a176d4449acbead9b7b6051efc9c8f81) | perf(test): reduce top-offender suite runtime (sase-86.3) | 2026-07-20 13:20:55 EDT |
+| — | `a0a09b2` | perf(test): reduce top-offender suite runtime (sase-86.3) | 2026-07-20 13:20:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-86.1](../../sessions/bbugyi200.athena.sase-86.1.md) (session · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.2](../../sessions/bbugyi200.athena.sase-86.2.md) (session · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.4](../../sessions/bbugyi200.athena.sase-86.4.md) (session · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.5](../bbugyi200.athena.sase-86.5/README.md) | sase-86 hood | active |
-| [sase-86.6](../bbugyi200.athena.sase-86.6/README.md) | sase-86 hood | active |
-| [sase-86.land](../bbugyi200.athena.sase-86.land/README.md) | sase-86 hood | active |
+| [sase-86.1](../../sessions/bbugyi200.athena.sase-86.1.md) (session · 2) | sase-86 hood | completed 1, dismissed 1 |
+| [sase-86.2](../../sessions/bbugyi200.athena.sase-86.2.md) (session · 2) | sase-86 hood | completed 1, dismissed 1 |
+| [sase-86.4](../../sessions/bbugyi200.athena.sase-86.4.md) (session · 2) | sase-86 hood | completed 1, dismissed 1 |
+| [sase-86.5](../bbugyi200.athena.sase-86.5/README.md) | sase-86 hood | dismissed |
+| [sase-86.6](../bbugyi200.athena.sase-86.6/README.md) | sase-86 hood | dismissed |
+| [sase-86.land](../bbugyi200.athena.sase-86.land/README.md) | sase-86 hood | dismissed |

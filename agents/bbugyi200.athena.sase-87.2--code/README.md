@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e6c865e`](https://github.com/sase-org/sase/commit/e6c865e9ab838696545d21e6509a7eb5b7d612bd) | feat(xprompt): support bead waits (sase-87.2) | 2026-07-20 12:01:57 EDT |
+| — | `e6c865e` | feat(xprompt): support bead waits (sase-87.2) | 2026-07-20 12:01:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-87.1](../../sessions/bbugyi200.athena.sase-87.1.md) (session · 2) | sase-87 hood | active 1, completed 1 |
-| [sase-87.3](../../sessions/bbugyi200.athena.sase-87.3.md) (session · 2) | sase-87 hood | active 1, completed 1 |
-| [sase-87.4](../../sessions/bbugyi200.athena.sase-87.4.md) (session · 2) | sase-87 hood | active 1, completed 1 |
-| [sase-87.5](../bbugyi200.athena.sase-87.5/README.md) | sase-87 hood | active |
-| [sase-87.6](../bbugyi200.athena.sase-87.6/README.md) | sase-87 hood | active |
-| [sase-87.land](../bbugyi200.athena.sase-87.land/README.md) | sase-87 hood | active |
+| [sase-87.1](../../sessions/bbugyi200.athena.sase-87.1.md) (session · 2) | sase-87 hood | completed 1, dismissed 1 |
+| [sase-87.3](../../sessions/bbugyi200.athena.sase-87.3.md) (session · 2) | sase-87 hood | completed 1, dismissed 1 |
+| [sase-87.4](../../sessions/bbugyi200.athena.sase-87.4.md) (session · 2) | sase-87 hood | completed 1, dismissed 1 |
+| [sase-87.5](../bbugyi200.athena.sase-87.5/README.md) | sase-87 hood | dismissed |
+| [sase-87.6](../bbugyi200.athena.sase-87.6/README.md) | sase-87 hood | dismissed |
+| [sase-87.land](../bbugyi200.athena.sase-87.land/README.md) | sase-87 hood | dismissed |

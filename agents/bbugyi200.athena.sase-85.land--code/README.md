@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f87a09c`](https://github.com/sase-org/sase/commit/f87a09c423fef75701b816dbfaa67370d7a8832b) | test: cover stale epic summary clone recovery (sase-85) | 2026-07-20 12:42:58 EDT |
+| — | `f87a09c` | test: cover stale epic summary clone recovery (sase-85) | 2026-07-20 12:42:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-85.1](../../sessions/bbugyi200.athena.sase-85.1.md) (session · 2) | sase-85 hood | active 1, completed 1 |
-| [sase-85.2](../../sessions/bbugyi200.athena.sase-85.2.md) (session · 2) | sase-85 hood | active 1, completed 1 |
-| [sase-85.3](../bbugyi200.athena.sase-85.3/README.md) | sase-85 hood | active |
+| [sase-85.1](../../sessions/bbugyi200.athena.sase-85.1.md) (session · 2) | sase-85 hood | completed 1, dismissed 1 |
+| [sase-85.2](../../sessions/bbugyi200.athena.sase-85.2.md) (session · 2) | sase-85 hood | completed 1, dismissed 1 |
+| [sase-85.3](../bbugyi200.athena.sase-85.3/README.md) | sase-85 hood | dismissed |

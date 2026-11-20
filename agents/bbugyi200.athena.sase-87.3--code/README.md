@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a874efc`](https://github.com/sase-org/sase/commit/a874efce376f5886da4795610aed55e24d769c8c) | feat: resolve waits gated by closed beads (sase-87.3) | 2026-07-20 12:40:56 EDT |
+| — | `a874efc` | feat: resolve waits gated by closed beads (sase-87.3) | 2026-07-20 12:40:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-87.1](../../sessions/bbugyi200.athena.sase-87.1.md) (session · 2) | sase-87 hood | active 1, completed 1 |
-| [sase-87.2](../../sessions/bbugyi200.athena.sase-87.2.md) (session · 2) | sase-87 hood | active 1, completed 1 |
-| [sase-87.4](../../sessions/bbugyi200.athena.sase-87.4.md) (session · 2) | sase-87 hood | active 1, completed 1 |
-| [sase-87.5](../bbugyi200.athena.sase-87.5/README.md) | sase-87 hood | active |
-| [sase-87.6](../bbugyi200.athena.sase-87.6/README.md) | sase-87 hood | active |
-| [sase-87.land](../bbugyi200.athena.sase-87.land/README.md) | sase-87 hood | active |
+| [sase-87.1](../../sessions/bbugyi200.athena.sase-87.1.md) (session · 2) | sase-87 hood | completed 1, dismissed 1 |
+| [sase-87.2](../../sessions/bbugyi200.athena.sase-87.2.md) (session · 2) | sase-87 hood | completed 1, dismissed 1 |
+| [sase-87.4](../../sessions/bbugyi200.athena.sase-87.4.md) (session · 2) | sase-87 hood | completed 1, dismissed 1 |
+| [sase-87.5](../bbugyi200.athena.sase-87.5/README.md) | sase-87 hood | dismissed |
+| [sase-87.6](../bbugyi200.athena.sase-87.6/README.md) | sase-87 hood | dismissed |
+| [sase-87.land](../bbugyi200.athena.sase-87.land/README.md) | sase-87 hood | dismissed |

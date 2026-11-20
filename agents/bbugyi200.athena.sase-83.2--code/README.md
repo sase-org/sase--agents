@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c82006b`](https://github.com/sase-org/sase/commit/c82006bdca22a7c010d933923a1fcddbd4ac288a) | feat(ace): add snapshot-gated comprehensive updates (sase-83.2) | 2026-07-20 11:42:41 EDT |
+| — | `c82006b` | feat(ace): add snapshot-gated comprehensive updates (sase-83.2) | 2026-07-20 11:42:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-83.1](../../sessions/bbugyi200.athena.sase-83.1.md) (session · 2) | sase-83 hood | active 1, completed 1 |
-| [sase-83.3](../bbugyi200.athena.sase-83.3/README.md) | sase-83 hood | active |
-| [sase-83.land](../../sessions/bbugyi200.athena.sase-83.land.md) (session · 2) | sase-83 hood | active 1, completed 1 |
+| [sase-83.1](../../sessions/bbugyi200.athena.sase-83.1.md) (session · 2) | sase-83 hood | completed 1, dismissed 1 |
+| [sase-83.3](../bbugyi200.athena.sase-83.3/README.md) | sase-83 hood | dismissed |
+| [sase-83.land](../../sessions/bbugyi200.athena.sase-83.land.md) (session · 2) | sase-83 hood | completed 1, dismissed 1 |

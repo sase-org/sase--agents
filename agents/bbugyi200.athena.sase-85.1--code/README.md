@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0a1fd5f`](https://github.com/sase-org/sase/commit/0a1fd5f83e0d0bf3ed86b8638bdf266ea80c5557) | fix: refresh missing epic summaries before fallback (sase-85.1) | 2026-07-20 11:21:23 EDT |
+| — | `0a1fd5f` | fix: refresh missing epic summaries before fallback (sase-85.1) | 2026-07-20 11:21:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-85.2](../../sessions/bbugyi200.athena.sase-85.2.md) (session · 2) | sase-85 hood | active 1, completed 1 |
-| [sase-85.3](../bbugyi200.athena.sase-85.3/README.md) | sase-85 hood | active |
-| [sase-85.land](../../sessions/bbugyi200.athena.sase-85.land.md) (session · 2) | sase-85 hood | active 1, completed 1 |
+| [sase-85.2](../../sessions/bbugyi200.athena.sase-85.2.md) (session · 2) | sase-85 hood | completed 1, dismissed 1 |
+| [sase-85.3](../bbugyi200.athena.sase-85.3/README.md) | sase-85 hood | dismissed |
+| [sase-85.land](../../sessions/bbugyi200.athena.sase-85.land.md) (session · 2) | sase-85 hood | completed 1, dismissed 1 |

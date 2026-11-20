@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c0d68a4`](https://github.com/sase-org/sase/commit/c0d68a4f21a7fdac281094d8823eef4b1e08294e) | feat(updates): track provider CLI update candidates (sase-83.1) | 2026-07-20 10:57:32 EDT |
+| — | `c0d68a4` | feat(updates): track provider CLI update candidates (sase-83.1) | 2026-07-20 10:57:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-83.2](../../sessions/bbugyi200.athena.sase-83.2.md) (session · 2) | sase-83 hood | active 1, completed 1 |
-| [sase-83.3](../bbugyi200.athena.sase-83.3/README.md) | sase-83 hood | active |
-| [sase-83.land](../../sessions/bbugyi200.athena.sase-83.land.md) (session · 2) | sase-83 hood | active 1, completed 1 |
+| [sase-83.2](../../sessions/bbugyi200.athena.sase-83.2.md) (session · 2) | sase-83 hood | completed 1, dismissed 1 |
+| [sase-83.3](../bbugyi200.athena.sase-83.3/README.md) | sase-83 hood | dismissed |
+| [sase-83.land](../../sessions/bbugyi200.athena.sase-83.land.md) (session · 2) | sase-83 hood | completed 1, dismissed 1 |

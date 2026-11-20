@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`01c5b80`](https://github.com/sase-org/sase/commit/01c5b8022662bba689d147a70fd7d2cd6c8d6c48) | feat: enrich epic clan summaries (sase-85.2) | 2026-07-20 12:01:27 EDT |
+| — | `01c5b80` | feat: enrich epic clan summaries (sase-85.2) | 2026-07-20 12:01:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-85.1](../../sessions/bbugyi200.athena.sase-85.1.md) (session · 2) | sase-85 hood | active 1, completed 1 |
-| [sase-85.3](../bbugyi200.athena.sase-85.3/README.md) | sase-85 hood | active |
-| [sase-85.land](../../sessions/bbugyi200.athena.sase-85.land.md) (session · 2) | sase-85 hood | active 1, completed 1 |
+| [sase-85.1](../../sessions/bbugyi200.athena.sase-85.1.md) (session · 2) | sase-85 hood | completed 1, dismissed 1 |
+| [sase-85.3](../bbugyi200.athena.sase-85.3/README.md) | sase-85 hood | dismissed |
+| [sase-85.land](../../sessions/bbugyi200.athena.sase-85.land.md) (session · 2) | sase-85 hood | completed 1, dismissed 1 |

@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8599baa`](https://github.com/sase-org/sase/commit/8599baa3a93e6c1c4a8c1f05b6f0c014b64aa322) | feat(test): add host-global pytest worker budget (sase-86.1) | 2026-07-20 12:07:28 EDT |
+| — | `8599baa` | feat(test): add host-global pytest worker budget (sase-86.1) | 2026-07-20 12:07:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-86.2](../../sessions/bbugyi200.athena.sase-86.2.md) (session · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.3](../../sessions/bbugyi200.athena.sase-86.3.md) (session · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.4](../../sessions/bbugyi200.athena.sase-86.4.md) (session · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.5](../bbugyi200.athena.sase-86.5/README.md) | sase-86 hood | active |
-| [sase-86.6](../bbugyi200.athena.sase-86.6/README.md) | sase-86 hood | active |
-| [sase-86.land](../bbugyi200.athena.sase-86.land/README.md) | sase-86 hood | active |
+| [sase-86.2](../../sessions/bbugyi200.athena.sase-86.2.md) (session · 2) | sase-86 hood | completed 1, dismissed 1 |
+| [sase-86.3](../../sessions/bbugyi200.athena.sase-86.3.md) (session · 2) | sase-86 hood | completed 1, dismissed 1 |
+| [sase-86.4](../../sessions/bbugyi200.athena.sase-86.4.md) (session · 2) | sase-86 hood | completed 1, dismissed 1 |
+| [sase-86.5](../bbugyi200.athena.sase-86.5/README.md) | sase-86 hood | dismissed |
+| [sase-86.6](../bbugyi200.athena.sase-86.6/README.md) | sase-86 hood | dismissed |
+| [sase-86.land](../bbugyi200.athena.sase-86.land/README.md) | sase-86 hood | dismissed |

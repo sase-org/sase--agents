@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-88](../../users/bbugyi200/machines/athena/hoods/sase-88/README.md) / sase-88.1
 
-**Global name:** `bbugyi200.athena.sase-88.1` · **State:** active · **Source run:** `run-35f515426f58b0cf1645e908b6176920`
+**Global name:** `bbugyi200.athena.sase-88.1` · **State:** dismissed · **Source run:** `run-35f515426f58b0cf1645e908b6176920`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-88
 
@@ -11,7 +11,7 @@
 - Bead: [sase-88.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-88/sase-88.1.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-20T15:41:36.464485+00:00
+- Timing: 2026-07-20T11:41:36.464485 → 2026-07-20T11:53:01.445554
 - Commits: 0
 
 ## Files
@@ -22,5 +22,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-88.2](../bbugyi200.athena.sase-88.2/README.md) | sase-88 hood | active |
-| [sase-88.land](../bbugyi200.athena.sase-88.land/README.md) | sase-88 hood | active |
+| [sase-88.2](../bbugyi200.athena.sase-88.2/README.md) | sase-88 hood | dismissed |
+| [sase-88.land](../bbugyi200.athena.sase-88.land/README.md) | sase-88 hood | dismissed |

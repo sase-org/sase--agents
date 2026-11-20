@@ -22,9 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-87.2](../../sessions/bbugyi200.athena.sase-87.2.md) (session · 2) | sase-87 hood | active 1, completed 1 |
-| [sase-87.3](../../sessions/bbugyi200.athena.sase-87.3.md) (session · 2) | sase-87 hood | active 1, completed 1 |
-| [sase-87.4](../../sessions/bbugyi200.athena.sase-87.4.md) (session · 2) | sase-87 hood | active 1, completed 1 |
-| [sase-87.5](../bbugyi200.athena.sase-87.5/README.md) | sase-87 hood | active |
-| [sase-87.6](../bbugyi200.athena.sase-87.6/README.md) | sase-87 hood | active |
-| [sase-87.land](../bbugyi200.athena.sase-87.land/README.md) | sase-87 hood | active |
+| [sase-87.2](../../sessions/bbugyi200.athena.sase-87.2.md) (session · 2) | sase-87 hood | completed 1, dismissed 1 |
+| [sase-87.3](../../sessions/bbugyi200.athena.sase-87.3.md) (session · 2) | sase-87 hood | completed 1, dismissed 1 |
+| [sase-87.4](../../sessions/bbugyi200.athena.sase-87.4.md) (session · 2) | sase-87 hood | completed 1, dismissed 1 |
+| [sase-87.5](../bbugyi200.athena.sase-87.5/README.md) | sase-87 hood | dismissed |
+| [sase-87.6](../bbugyi200.athena.sase-87.6/README.md) | sase-87 hood | dismissed |
+| [sase-87.land](../bbugyi200.athena.sase-87.land/README.md) | sase-87 hood | dismissed |

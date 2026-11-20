@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-85` · Members: 2 · Bead: [sase-85.2](
 
 ```mermaid
 flowchart TD
-  n0["sase-85.2--plan [active]"]
+  n0["sase-85.2--plan [dismissed]"]
   n1["sase-85.2--code [completed]"]
   n0 --> n1
 ```
@@ -17,19 +17,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-85.2--plan | active | gpt-5.6-sol / codex | 2026-07-20T15:29:43.393369+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-85.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-85.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-85.2--plan | dismissed | gpt-5.6-sol / codex | 2026-07-20T11:29:43.393369 → 2026-07-20T12:01:45.665112 | 0 | [Prompt](../agents/bbugyi200.athena.sase-85.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-85.2--plan/chat.md) |
 | <a id="member-code"></a>code | sase-85.2--code | completed | gpt-5.6-sol / codex | 2026-07-20T15:33:17.087343+00:00 | [1](../agents/bbugyi200.athena.sase-85.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-85.2--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`01c5b80`](https://github.com/sase-org/sase/commit/01c5b8022662bba689d147a70fd7d2cd6c8d6c48) | feat: enrich epic clan summaries (sase-85.2) | 2026-07-20 12:01:27 EDT |
+| code | — | `01c5b80` | feat: enrich epic clan summaries (sase-85.2) | 2026-07-20 12:01:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-85.1](bbugyi200.athena.sase-85.1.md) (session · 2) | sase-85 hood | active 1, completed 1 |
-| [sase-85.3](../agents/bbugyi200.athena.sase-85.3/README.md) | sase-85 hood | active |
-| [sase-85.land](bbugyi200.athena.sase-85.land.md) (session · 2) | sase-85 hood | active 1, completed 1 |
+| [sase-85.1](bbugyi200.athena.sase-85.1.md) (session · 2) | sase-85 hood | completed 1, dismissed 1 |
+| [sase-85.3](../agents/bbugyi200.athena.sase-85.3/README.md) | sase-85 hood | dismissed |
+| [sase-85.land](bbugyi200.athena.sase-85.land.md) (session · 2) | sase-85 hood | completed 1, dismissed 1 |

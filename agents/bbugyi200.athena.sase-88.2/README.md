@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-88](../../users/bbugyi200/machines/athena/hoods/sase-88/README.md) / sase-88.2
 
-**Global name:** `bbugyi200.athena.sase-88.2` · **State:** active · **Source run:** `run-e30a097d5ecd6396a1452d3f8d3c927d`
+**Global name:** `bbugyi200.athena.sase-88.2` · **State:** dismissed · **Source run:** `run-e30a097d5ecd6396a1452d3f8d3c927d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-88
 
@@ -11,7 +11,7 @@
 - Bead: [sase-88.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-88/sase-88.2.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-20T15:53:12.406691+00:00
+- Timing: 2026-07-20T11:53:12.406691 → 2026-07-20T12:08:53.186425
 - Commits: [1](#commits)
 
 ## Files
@@ -22,11 +22,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87e7a3a`](https://github.com/sase-org/sase/commit/87e7a3a388a1e6205906293866d219267e202923) | feat(plans): stamp bead associations during proposal (sase-88.2) | 2026-07-20 12:08:37 EDT |
+| — | `87e7a3a` | feat(plans): stamp bead associations during proposal (sase-88.2) | 2026-07-20 12:08:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-88.1](../bbugyi200.athena.sase-88.1/README.md) | sase-88 hood | active |
-| [sase-88.land](../bbugyi200.athena.sase-88.land/README.md) | sase-88 hood | active |
+| [sase-88.1](../bbugyi200.athena.sase-88.1/README.md) | sase-88 hood | dismissed |
+| [sase-88.land](../bbugyi200.athena.sase-88.land/README.md) | sase-88 hood | dismissed |

@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1227d91`](https://github.com/sase-org/sase/commit/1227d918817639a90a291c953cc6da21e3ea3f72) | test: restore review-runner environment isolation (sase-83) | 2026-07-20 13:40:28 EDT |
+| — | `1227d91` | test: restore review-runner environment isolation (sase-83) | 2026-07-20 13:40:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-83.1](../../sessions/bbugyi200.athena.sase-83.1.md) (session · 2) | sase-83 hood | active 1, completed 1 |
-| [sase-83.2](../../sessions/bbugyi200.athena.sase-83.2.md) (session · 2) | sase-83 hood | active 1, completed 1 |
-| [sase-83.3](../bbugyi200.athena.sase-83.3/README.md) | sase-83 hood | active |
+| [sase-83.1](../../sessions/bbugyi200.athena.sase-83.1.md) (session · 2) | sase-83 hood | completed 1, dismissed 1 |
+| [sase-83.2](../../sessions/bbugyi200.athena.sase-83.2.md) (session · 2) | sase-83 hood | completed 1, dismissed 1 |
+| [sase-83.3](../bbugyi200.athena.sase-83.3/README.md) | sase-83 hood | dismissed |
