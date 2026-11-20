@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-aa.test\_checks\_agent\_publication.0](../bbugyi200.athena.toobig-aa.test_checks_agent_publication.0/README.md) | toobig-aa hood | waiting |
-| [toobig-aa.test\_commit\_publication\_bounded\_drain.0](../bbugyi200.athena.toobig-aa.test_commit_publication_bounded_drain.0/README.md) | toobig-aa hood | active |
+| [toobig-aa.test\_commit\_publication\_bounded\_drain.0](../bbugyi200.athena.toobig-aa.test_commit_publication_bounded_drain.0/README.md) | toobig-aa hood | completed |
