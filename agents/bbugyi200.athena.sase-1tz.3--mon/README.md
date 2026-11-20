@@ -30,7 +30,7 @@
 | [sase-1tz.3.1.3](../bbugyi200.athena.sase-1tz.3.1.3/README.md) | descendant | waiting |
 | [sase-1tz.3.1.4](../bbugyi200.athena.sase-1tz.3.1.4/README.md) | descendant | waiting |
 | [sase-1tz.3.1.5](../../sessions/bbugyi200.athena.sase-1tz.3.1.5.md) (session · 2) | descendant | active 1, completed 1 |
-| [sase-1tz.3.1.6](../bbugyi200.athena.sase-1tz.3.1.6/README.md) | descendant | active |
+| [sase-1tz.3.1.6](../bbugyi200.athena.sase-1tz.3.1.6/README.md) | descendant | completed |
 | [sase-1tz.3.1.7](../bbugyi200.athena.sase-1tz.3.1.7/README.md) | descendant | waiting |
 | [sase-1tz.3.1.8](../bbugyi200.athena.sase-1tz.3.1.8/README.md) | descendant | completed |
 | [sase-1tz.3.1.9](../bbugyi200.athena.sase-1tz.3.1.9/README.md) | descendant | active |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.3.1.6
 
-**Global name:** `bbugyi200.athena.sase-1tz.3.1.6` · **State:** active · **Source run:** `run-0e04d2a5c8bd9b70078288f0c05de3b2`
+**Global name:** `bbugyi200.athena.sase-1tz.3.1.6` · **State:** completed · **Source run:** `run-0e04d2a5c8bd9b70078288f0c05de3b2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,12 @@
 - Epic: [sase-1tz.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.3.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-20T14:23:20.887766+00:00
+- Timing: 2026-11-20T14:23:20.887766+00:00 → 2026-11-20T14:59:16.384525+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
