@@ -13,11 +13,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 20261120092103
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3ae6b09`](https://github.com/sase-org/sase/commit/3ae6b09b72d8efed932981077cbb2266daa631fd) | feat(axe): defer and retry scheduler jobs that overlap a code swap | 2026-11-20 11:30:49 EST |
 
 ## Neighbors
 
