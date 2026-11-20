@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e39816a`](https://github.com/sase-org/sase/commit/e39816a1f2736c1cd54c9759cd2cca7796b52051) | fix(axe): skip explicit chop name collisions (sase-7t.3) | 2026-07-19 20:31:52 EDT |
+| — | `e39816a` | fix(axe): skip explicit chop name collisions (sase-7t.3) | 2026-07-19 20:31:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7t.1](../bbugyi200.athena.sase-7t.1/README.md) | sase-7t hood | active |
+| [sase-7t.1](../bbugyi200.athena.sase-7t.1/README.md) | sase-7t hood | dismissed |
 | [sase-7t.2](../bbugyi200.athena.sase-7t.2/README.md) | sase-7t hood | dismissed |
 | [sase-7t.4](../bbugyi200.athena.sase-7t.4/README.md) | sase-7t hood | dismissed |
 | [sase-7t.5](../bbugyi200.athena.sase-7t.5/README.md) | sase-7t hood | dismissed |

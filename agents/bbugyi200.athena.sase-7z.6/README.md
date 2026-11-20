@@ -22,22 +22,22 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6f9213b`](https://github.com/sase-org/sase/commit/6f9213b5b0a866398151b4830f3c74c015494daf) | feat(beads): show phase sizes and nested lineage (sase-7z.6) | 2026-07-19 22:08:37 EDT |
+| — | `6f9213b` | feat(beads): show phase sizes and nested lineage (sase-7z.6) | 2026-07-19 22:08:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7z.1](../bbugyi200.athena.sase-7z.1/README.md) | sase-7z hood | active |
+| [sase-7z.1](../bbugyi200.athena.sase-7z.1/README.md) | sase-7z hood | dismissed |
 | [sase-7z.2](../bbugyi200.athena.sase-7z.2/README.md) | sase-7z hood | dismissed |
 | [sase-7z.3](../bbugyi200.athena.sase-7z.3/README.md) | sase-7z hood | dismissed |
 | [sase-7z.4](../bbugyi200.athena.sase-7z.4/README.md) | sase-7z hood | dismissed |
 | [sase-7z.5](../bbugyi200.athena.sase-7z.5/README.md) | sase-7z hood | dismissed |
 | [sase-7z.7](../bbugyi200.athena.sase-7z.7/README.md) | sase-7z hood | dismissed |
 | [sase-7z.8](../bbugyi200.athena.sase-7z.8/README.md) | sase-7z hood | dismissed |
-| [sase-7z.f0](../bbugyi200.athena.sase-7z.f0/README.md) | sase-7z hood | waiting |
-| [sase-7z.f1](../bbugyi200.athena.sase-7z.f1/README.md) | sase-7z hood | waiting |
+| [sase-7z.f0](../bbugyi200.athena.sase-7z.f0/README.md) | sase-7z hood | dismissed |
+| [sase-7z.f1](../bbugyi200.athena.sase-7z.f1/README.md) | sase-7z hood | dismissed |
 | [sase-7z.f2](../bbugyi200.athena.sase-7z.f2/README.md) | sase-7z hood | dismissed |
 | [sase-7z.f4](../bbugyi200.athena.sase-7z.f4/README.md) | sase-7z hood | dismissed |
-| [sase-7z.land](../../sessions/bbugyi200.athena.sase-7z.land.md) (session · 2) | sase-7z hood | active 1, completed 1 |
+| [sase-7z.land](../../sessions/bbugyi200.athena.sase-7z.land.md) (session · 2) | sase-7z hood | completed 1, dismissed 1 |
 | [sase-7z.land.f0](../bbugyi200.athena.sase-7z.land.f0/README.md) | sase-7z hood | dismissed |

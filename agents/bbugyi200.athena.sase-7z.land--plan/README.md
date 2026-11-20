@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-7z](../../users/bbugyi200/machines/athena/hoods/sase-7z/README.md) / [sase-7z.land](../../sessions/bbugyi200.athena.sase-7z.land.md) / sase-7z.land--plan
 
-**Global name:** `bbugyi200.athena.sase-7z.land--plan` · **State:** active · **Source run:** `run-eb9b9b6d32bb197ac9156808ed1ee0df`
+**Global name:** `bbugyi200.athena.sase-7z.land--plan` · **State:** dismissed · **Source run:** `run-eb9b9b6d32bb197ac9156808ed1ee0df`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-7z
 
@@ -11,7 +11,7 @@
 - Bead: [sase-7z](https://github.com/sase-org/sase--beads/blob/main/pages/sase-7z/README.md)
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-07-20T14:20:38.059174+00:00
+- Timing: 2026-07-20T10:20:38.059174 → 2026-07-20T10:40:32.253070
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-7z.land.f0](../bbugyi200.athena.sase-7z.land.f0/README.md) | descendant | dismissed |
-| [sase-7z.1](../bbugyi200.athena.sase-7z.1/README.md) | sase-7z hood | active |
+| [sase-7z.1](../bbugyi200.athena.sase-7z.1/README.md) | sase-7z hood | dismissed |
 | [sase-7z.2](../bbugyi200.athena.sase-7z.2/README.md) | sase-7z hood | dismissed |
 | [sase-7z.3](../bbugyi200.athena.sase-7z.3/README.md) | sase-7z hood | dismissed |
 | [sase-7z.4](../bbugyi200.athena.sase-7z.4/README.md) | sase-7z hood | dismissed |
@@ -31,7 +31,7 @@
 | [sase-7z.6](../bbugyi200.athena.sase-7z.6/README.md) | sase-7z hood | dismissed |
 | [sase-7z.7](../bbugyi200.athena.sase-7z.7/README.md) | sase-7z hood | dismissed |
 | [sase-7z.8](../bbugyi200.athena.sase-7z.8/README.md) | sase-7z hood | dismissed |
-| [sase-7z.f0](../bbugyi200.athena.sase-7z.f0/README.md) | sase-7z hood | waiting |
-| [sase-7z.f1](../bbugyi200.athena.sase-7z.f1/README.md) | sase-7z hood | waiting |
+| [sase-7z.f0](../bbugyi200.athena.sase-7z.f0/README.md) | sase-7z hood | dismissed |
+| [sase-7z.f1](../bbugyi200.athena.sase-7z.f1/README.md) | sase-7z hood | dismissed |
 | [sase-7z.f2](../bbugyi200.athena.sase-7z.f2/README.md) | sase-7z hood | dismissed |
 | [sase-7z.f4](../bbugyi200.athena.sase-7z.f4/README.md) | sase-7z hood | dismissed |

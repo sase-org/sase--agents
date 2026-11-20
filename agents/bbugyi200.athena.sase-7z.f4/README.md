@@ -17,7 +17,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7z.1](../bbugyi200.athena.sase-7z.1/README.md) | sase-7z hood | active |
+| [sase-7z.1](../bbugyi200.athena.sase-7z.1/README.md) | sase-7z hood | dismissed |
 | [sase-7z.2](../bbugyi200.athena.sase-7z.2/README.md) | sase-7z hood | dismissed |
 | [sase-7z.3](../bbugyi200.athena.sase-7z.3/README.md) | sase-7z hood | dismissed |
 | [sase-7z.4](../bbugyi200.athena.sase-7z.4/README.md) | sase-7z hood | dismissed |
@@ -25,8 +25,8 @@
 | [sase-7z.6](../bbugyi200.athena.sase-7z.6/README.md) | sase-7z hood | dismissed |
 | [sase-7z.7](../bbugyi200.athena.sase-7z.7/README.md) | sase-7z hood | dismissed |
 | [sase-7z.8](../bbugyi200.athena.sase-7z.8/README.md) | sase-7z hood | dismissed |
-| [sase-7z.f0](../bbugyi200.athena.sase-7z.f0/README.md) | sase-7z hood | waiting |
-| [sase-7z.f1](../bbugyi200.athena.sase-7z.f1/README.md) | sase-7z hood | waiting |
+| [sase-7z.f0](../bbugyi200.athena.sase-7z.f0/README.md) | sase-7z hood | dismissed |
+| [sase-7z.f1](../bbugyi200.athena.sase-7z.f1/README.md) | sase-7z hood | dismissed |
 | [sase-7z.f2](../bbugyi200.athena.sase-7z.f2/README.md) | sase-7z hood | dismissed |
-| [sase-7z.land](../../sessions/bbugyi200.athena.sase-7z.land.md) (session · 2) | sase-7z hood | active 1, completed 1 |
+| [sase-7z.land](../../sessions/bbugyi200.athena.sase-7z.land.md) (session · 2) | sase-7z hood | completed 1, dismissed 1 |
 | [sase-7z.land.f0](../bbugyi200.athena.sase-7z.land.f0/README.md) | sase-7z hood | dismissed |

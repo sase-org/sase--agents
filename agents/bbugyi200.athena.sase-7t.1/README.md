@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-7t](../../users/bbugyi200/machines/athena/hoods/sase-7t/README.md) / sase-7t.1
 
-**Global name:** `bbugyi200.athena.sase-7t.1` · **State:** active · **Source run:** `run-9af120980b1f765a96666b434d3f153f`
+**Global name:** `bbugyi200.athena.sase-7t.1` · **State:** dismissed · **Source run:** `run-9af120980b1f765a96666b434d3f153f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-7t
 
@@ -11,7 +11,7 @@
 - Bead: [sase-7t.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-7t/sase-7t.1.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-19T23:47:34.854970+00:00
+- Timing: 2026-07-19T19:47:34.854970 → 2026-07-19T20:35:22.221915
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1790e44`](https://github.com/sase-org/sase/commit/1790e441c2d37b2e61cdd919ca4c5106116af0e6) | fix: scope chop linkage to explicit launches (sase-7t.1) | 2026-07-19 20:35:08 EDT |
+| — | `1790e44` | fix: scope chop linkage to explicit launches (sase-7t.1) | 2026-07-19 20:35:08 EDT |
 
 ## Neighbors
 

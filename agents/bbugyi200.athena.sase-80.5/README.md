@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dae1b3e`](https://github.com/sase-org/sase/commit/dae1b3ebe6e427684b416bf10a99fc8deb3df2e0) | test: cover axe outage recovery across layers (sase-80.5) | 2026-07-20 10:25:14 EDT |
+| — | `dae1b3e` | test: cover axe outage recovery across layers (sase-80.5) | 2026-07-20 10:25:14 EDT |
 
 ## Neighbors
 
@@ -33,6 +33,6 @@
 | [sase-80.3](../bbugyi200.athena.sase-80.3/README.md) | sase-80 hood | dismissed |
 | [sase-80.4](../bbugyi200.athena.sase-80.4/README.md) | sase-80 hood | dismissed |
 | [sase-80.land](../bbugyi200.athena.sase-80.land/README.md) | sase-80 hood | dismissed |
-| [sase-80.land.w0](../bbugyi200.athena.sase-80.land.w0/README.md) | sase-80 hood | waiting |
+| [sase-80.land.w0](../bbugyi200.athena.sase-80.land.w0/README.md) | sase-80 hood | dismissed |
 | [sase-80.land.w1](../bbugyi200.athena.sase-80.land.w1/README.md) | sase-80 hood | dismissed |
 | [sase-80.land.w2](../bbugyi200.athena.sase-80.land.w2/README.md) | sase-80 hood | dismissed |

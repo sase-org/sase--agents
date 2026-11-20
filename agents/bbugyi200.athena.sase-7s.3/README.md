@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1afba63`](https://github.com/sase-org/sase/commit/1afba633d9bfe27bdfbb3fe7598b2d577d51b16f) | feat(tui): add agent CLI update browser (sase-7s.3) | 2026-07-19 21:51:22 EDT |
+| — | `1afba63` | feat(tui): add agent CLI update browser (sase-7s.3) | 2026-07-19 21:51:22 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7s.1](../bbugyi200.athena.sase-7s.1/README.md) | sase-7s hood | active |
+| [sase-7s.1](../bbugyi200.athena.sase-7s.1/README.md) | sase-7s hood | dismissed |
 | [sase-7s.2](../bbugyi200.athena.sase-7s.2/README.md) | sase-7s hood | dismissed |
 | [sase-7s.4](../bbugyi200.athena.sase-7s.4/README.md) | sase-7s hood | dismissed |
 | [sase-7s.land](../bbugyi200.athena.sase-7s.land/README.md) | sase-7s hood | dismissed |

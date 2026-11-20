@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-80](../../users/bbugyi200/machines/athena/hoods/sase-80/README.md) / sase-80.land.w0
 
-**Global name:** `bbugyi200.athena.sase-80.land.w0` · **State:** waiting · **Source run:** `run-a5714f46f36f1545e73daf2c0850808c`
+**Global name:** `bbugyi200.athena.sase-80.land.w0` · **State:** dismissed · **Source run:** `run-a5714f46f36f1545e73daf2c0850808c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-80
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20260720081047
+- Timing: 2026-07-20T08:10:47
 - Commits: 0
 
 ## Files

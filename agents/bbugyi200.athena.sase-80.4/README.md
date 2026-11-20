@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`70ed5fa`](https://github.com/sase-org/sase/commit/70ed5fa962ea3e3e69f94adeecbc643e8bd2098c) | fix(axe): re-resolve stranded wait dependencies (sase-80.4) | 2026-07-20 08:06:44 EDT |
+| — | `70ed5fa` | fix(axe): re-resolve stranded wait dependencies (sase-80.4) | 2026-07-20 08:06:44 EDT |
 
 ## Neighbors
 
@@ -33,6 +33,6 @@
 | [sase-80.3](../bbugyi200.athena.sase-80.3/README.md) | sase-80 hood | dismissed |
 | [sase-80.5](../bbugyi200.athena.sase-80.5/README.md) | sase-80 hood | dismissed |
 | [sase-80.land](../bbugyi200.athena.sase-80.land/README.md) | sase-80 hood | dismissed |
-| [sase-80.land.w0](../bbugyi200.athena.sase-80.land.w0/README.md) | sase-80 hood | waiting |
+| [sase-80.land.w0](../bbugyi200.athena.sase-80.land.w0/README.md) | sase-80 hood | dismissed |
 | [sase-80.land.w1](../bbugyi200.athena.sase-80.land.w1/README.md) | sase-80 hood | dismissed |
 | [sase-80.land.w2](../bbugyi200.athena.sase-80.land.w2/README.md) | sase-80 hood | dismissed |

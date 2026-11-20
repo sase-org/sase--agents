@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`974c014`](https://github.com/sase-org/sase/commit/974c0149526d16b233fb72679f07041a3a8a609e) | fix(xprompt): preserve clan summaries during directive edits (sase-7r) | 2026-07-19 21:41:33 EDT |
+| — | `974c014` | fix(xprompt): preserve clan summaries during directive edits (sase-7r) | 2026-07-19 21:41:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7r.1](../bbugyi200.athena.sase-7r.1/README.md) | sase-7r hood | active |
+| [sase-7r.1](../bbugyi200.athena.sase-7r.1/README.md) | sase-7r hood | dismissed |
 | [sase-7r.2](../bbugyi200.athena.sase-7r.2/README.md) | sase-7r hood | dismissed |
 | [sase-7r.3](../bbugyi200.athena.sase-7r.3/README.md) | sase-7r hood | dismissed |
 | [sase-7r.4](../bbugyi200.athena.sase-7r.4/README.md) | sase-7r hood | dismissed |

@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e37315a`](https://github.com/sase-org/sase/commit/e37315ac81ae14809117fd940b44e9fe7907ee02) | feat(xprompt): support clan summary directives (sase-7r.2) | 2026-07-19 19:30:51 EDT |
+| — | `e37315a` | feat(xprompt): support clan summary directives (sase-7r.2) | 2026-07-19 19:30:51 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7r.1](../bbugyi200.athena.sase-7r.1/README.md) | sase-7r hood | active |
+| [sase-7r.1](../bbugyi200.athena.sase-7r.1/README.md) | sase-7r hood | dismissed |
 | [sase-7r.3](../bbugyi200.athena.sase-7r.3/README.md) | sase-7r hood | dismissed |
 | [sase-7r.4](../bbugyi200.athena.sase-7r.4/README.md) | sase-7r hood | dismissed |
 | [sase-7r.5](../bbugyi200.athena.sase-7r.5/README.md) | sase-7r hood | dismissed |
 | [sase-7r.6](../bbugyi200.athena.sase-7r.6/README.md) | sase-7r hood | dismissed |
 | [sase-7r.7](../bbugyi200.athena.sase-7r.7/README.md) | sase-7r hood | dismissed |
-| [sase-7r.land](../../sessions/bbugyi200.athena.sase-7r.land.md) (session · 2) | sase-7r hood | active 1, completed 1 |
+| [sase-7r.land](../../sessions/bbugyi200.athena.sase-7r.land.md) (session · 2) | sase-7r hood | completed 1, dismissed 1 |

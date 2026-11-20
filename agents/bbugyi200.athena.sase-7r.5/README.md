@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8cfb17b`](https://github.com/sase-org/sase/commit/8cfb17b22b43ba1a3d11d4d6e5deb43a9df67a41) | feat(bead): add epic clan summary script (sase-7r.5) | 2026-07-19 20:58:01 EDT |
+| — | `8cfb17b` | feat(bead): add epic clan summary script (sase-7r.5) | 2026-07-19 20:58:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7r.1](../bbugyi200.athena.sase-7r.1/README.md) | sase-7r hood | active |
+| [sase-7r.1](../bbugyi200.athena.sase-7r.1/README.md) | sase-7r hood | dismissed |
 | [sase-7r.2](../bbugyi200.athena.sase-7r.2/README.md) | sase-7r hood | dismissed |
 | [sase-7r.3](../bbugyi200.athena.sase-7r.3/README.md) | sase-7r hood | dismissed |
 | [sase-7r.4](../bbugyi200.athena.sase-7r.4/README.md) | sase-7r hood | dismissed |
 | [sase-7r.6](../bbugyi200.athena.sase-7r.6/README.md) | sase-7r hood | dismissed |
 | [sase-7r.7](../bbugyi200.athena.sase-7r.7/README.md) | sase-7r hood | dismissed |
-| [sase-7r.land](../../sessions/bbugyi200.athena.sase-7r.land.md) (session · 2) | sase-7r hood | active 1, completed 1 |
+| [sase-7r.land](../../sessions/bbugyi200.athena.sase-7r.land.md) (session · 2) | sase-7r hood | completed 1, dismissed 1 |

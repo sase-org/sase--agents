@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-80.land.w0](../bbugyi200.athena.sase-80.land.w0/README.md) | descendant | waiting |
+| [sase-80.land.w0](../bbugyi200.athena.sase-80.land.w0/README.md) | descendant | dismissed |
 | [sase-80.land.w1](../bbugyi200.athena.sase-80.land.w1/README.md) | descendant | dismissed |
 | [sase-80.land.w2](../bbugyi200.athena.sase-80.land.w2/README.md) | descendant | dismissed |
 | [sase-80.1](../bbugyi200.athena.sase-80.1/README.md) | sase-80 hood | dismissed |

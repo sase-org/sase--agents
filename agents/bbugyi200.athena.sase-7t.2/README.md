@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d55ecbb`](https://github.com/sase-org/sase/commit/d55ecbbd276ee3810a1ad4e46dd550b2eae7a243) | fix(axe): match chop results to launched agents (sase-7t.2) | 2026-07-19 20:54:48 EDT |
+| — | `d55ecbb` | fix(axe): match chop results to launched agents (sase-7t.2) | 2026-07-19 20:54:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7t.1](../bbugyi200.athena.sase-7t.1/README.md) | sase-7t hood | active |
+| [sase-7t.1](../bbugyi200.athena.sase-7t.1/README.md) | sase-7t hood | dismissed |
 | [sase-7t.3](../bbugyi200.athena.sase-7t.3/README.md) | sase-7t hood | dismissed |
 | [sase-7t.4](../bbugyi200.athena.sase-7t.4/README.md) | sase-7t hood | dismissed |
 | [sase-7t.5](../bbugyi200.athena.sase-7t.5/README.md) | sase-7t hood | dismissed |
