@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`702ab60`](https://github.com/sase-org/sase/commit/702ab603aaad29970098aa81db003cccef85f54c) | feat(runner-slots): admit parallel family members (sase-6g.2) | 2026-07-16 19:17:36 EDT |
+| — | `702ab60` | feat(runner-slots): admit parallel family members (sase-6g.2) | 2026-07-16 19:17:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6g](../../sessions/bbugyi200.athena.sase-6g.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6g](../../sessions/bbugyi200.athena.sase-6g.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6g.1](../bbugyi200.athena.sase-6g.1/README.md) | sase-6g hood | dismissed |
 | [sase-6g.3](../bbugyi200.athena.sase-6g.3/README.md) | sase-6g hood | dismissed |
 | [sase-6g.4](../bbugyi200.athena.sase-6g.4/README.md) | sase-6g hood | dismissed |

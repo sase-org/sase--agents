@@ -18,13 +18,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`af95760`](https://github.com/sase-org/sase/commit/af95760dfa3c3ee31ed8e1202b7a4c3eb35daeff) | fix(ace): keep startup and modal handlers responsive (sase-6j.4) | 2026-07-17 08:39:44 EDT |
+| — | `af95760` | fix(ace): keep startup and modal handlers responsive (sase-6j.4) | 2026-07-17 08:39:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6j](../../sessions/bbugyi200.athena.sase-6j.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6j](../../sessions/bbugyi200.athena.sase-6j.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6j.1](../bbugyi200.athena.sase-6j.1/README.md) | sase-6j hood | completed |
 | [sase-6j.2](../bbugyi200.athena.sase-6j.2/README.md) | sase-6j hood | completed |
 | [sase-6j.3](../bbugyi200.athena.sase-6j.3/README.md) | sase-6j hood | completed |

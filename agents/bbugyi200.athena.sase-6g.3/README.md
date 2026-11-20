@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c73c22`](https://github.com/sase-org/sase/commit/8c73c22c5cf1bada5df9f7c7c97ba1f61b7b8f41) | feat: resolve parallel agent families at launch (sase-6g.3) | 2026-07-16 19:45:31 EDT |
+| — | `8c73c22` | feat: resolve parallel agent families at launch (sase-6g.3) | 2026-07-16 19:45:31 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6g](../../sessions/bbugyi200.athena.sase-6g.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6g](../../sessions/bbugyi200.athena.sase-6g.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6g.1](../bbugyi200.athena.sase-6g.1/README.md) | sase-6g hood | dismissed |
 | [sase-6g.2](../bbugyi200.athena.sase-6g.2/README.md) | sase-6g hood | dismissed |
 | [sase-6g.4](../bbugyi200.athena.sase-6g.4/README.md) | sase-6g hood | dismissed |

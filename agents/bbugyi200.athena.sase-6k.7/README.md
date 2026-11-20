@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6k](../../users/bbugyi200/machines/athena/hoods/sase-6k/README.md) / sase-6k.7
 
-**Global name:** `bbugyi200.athena.sase-6k.7` · **State:** active · **Source run:** `run-a883bd408e7f235127897d51c4785593`
+**Global name:** `bbugyi200.athena.sase-6k.7` · **State:** dismissed · **Source run:** `run-a883bd408e7f235127897d51c4785593`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-6k
 
@@ -11,7 +11,7 @@
 - Bead: [sase-6k.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-6k/sase-6k.7.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-17T18:56:08.607313+00:00
+- Timing: 2026-07-17T14:56:08.607313 → 2026-07-17T15:24:06.887704
 - Commits: [1](#commits)
 
 ## Files
@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87d7a88`](https://github.com/sase-org/sase/commit/87d7a88e8f80c4b2b46e4effb70f845916769500) | test: cover telemetry auto-refresh responsiveness (sase-6k.7) | 2026-07-17 15:23:19 EDT |
+| — | `87d7a88` | test: cover telemetry auto-refresh responsiveness (sase-6k.7) | 2026-07-17 15:23:19 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6k](../../sessions/bbugyi200.athena.sase-6k.md) (session · 2) | ancestor | active 2 |
-| [sase-6k.1](../bbugyi200.athena.sase-6k.1/README.md) | sase-6k hood | active |
-| [sase-6k.2](../bbugyi200.athena.sase-6k.2/README.md) | sase-6k hood | active |
-| [sase-6k.3](../bbugyi200.athena.sase-6k.3/README.md) | sase-6k hood | active |
-| [sase-6k.4](../bbugyi200.athena.sase-6k.4/README.md) | sase-6k hood | active |
-| [sase-6k.5](../bbugyi200.athena.sase-6k.5/README.md) | sase-6k hood | active |
-| [sase-6k.6](../bbugyi200.athena.sase-6k.6/README.md) | sase-6k hood | active |
+| [sase-6k](../../sessions/bbugyi200.athena.sase-6k.md) (session · 2) | ancestor | active 1, dismissed 1 |
+| [sase-6k.1](../bbugyi200.athena.sase-6k.1/README.md) | sase-6k hood | dismissed |
+| [sase-6k.2](../bbugyi200.athena.sase-6k.2/README.md) | sase-6k hood | dismissed |
+| [sase-6k.3](../bbugyi200.athena.sase-6k.3/README.md) | sase-6k hood | dismissed |
+| [sase-6k.4](../bbugyi200.athena.sase-6k.4/README.md) | sase-6k hood | dismissed |
+| [sase-6k.5](../bbugyi200.athena.sase-6k.5/README.md) | sase-6k hood | dismissed |
+| [sase-6k.6](../bbugyi200.athena.sase-6k.6/README.md) | sase-6k hood | dismissed |

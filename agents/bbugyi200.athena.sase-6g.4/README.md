@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c3040b9`](https://github.com/sase-org/sase/commit/c3040b945696965a2c3c35ab9ac3afcd0c6fcf23) | feat(agents): cascade cleanup across parallel families (sase-6g.4) | 2026-07-16 20:10:34 EDT |
+| — | `c3040b9` | feat(agents): cascade cleanup across parallel families (sase-6g.4) | 2026-07-16 20:10:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6g](../../sessions/bbugyi200.athena.sase-6g.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6g](../../sessions/bbugyi200.athena.sase-6g.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6g.1](../bbugyi200.athena.sase-6g.1/README.md) | sase-6g hood | dismissed |
 | [sase-6g.2](../bbugyi200.athena.sase-6g.2/README.md) | sase-6g hood | dismissed |
 | [sase-6g.3](../bbugyi200.athena.sase-6g.3/README.md) | sase-6g hood | dismissed |

@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ade59e`](https://github.com/sase-org/sase/commit/6ade59edcd93d25cc6fbb438dba51d36508bcb06) | fix(ace): keep agent refresh responsive during cleanup (sase-6j.3) | 2026-07-17 08:41:23 EDT |
+| — | `6ade59e` | fix(ace): keep agent refresh responsive during cleanup (sase-6j.3) | 2026-07-17 08:41:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6j](../../sessions/bbugyi200.athena.sase-6j.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6j](../../sessions/bbugyi200.athena.sase-6j.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6j.1](../bbugyi200.athena.sase-6j.1/README.md) | sase-6j hood | completed |
 | [sase-6j.2](../bbugyi200.athena.sase-6j.2/README.md) | sase-6j hood | completed |
 | [sase-6j.4](../bbugyi200.athena.sase-6j.4/README.md) | sase-6j hood | completed |

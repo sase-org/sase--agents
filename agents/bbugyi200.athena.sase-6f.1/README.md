@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0333dcf`](https://github.com/sase-org/sase/commit/0333dcf68aff95efb7f090b7e3d3cecb7f8092ea) | feat(config): add Telegram command configuration (sase-6f.1) | 2026-07-16 15:43:28 EDT |
+| — | `0333dcf` | feat(config): add Telegram command configuration (sase-6f.1) | 2026-07-16 15:43:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6f](../../sessions/bbugyi200.athena.sase-6f.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6f](../../sessions/bbugyi200.athena.sase-6f.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6f.2](../bbugyi200.athena.sase-6f.2/README.md) | sase-6f hood | dismissed |
 | [sase-6f.3](../bbugyi200.athena.sase-6f.3/README.md) | sase-6f hood | dismissed |
 | [sase-6f.4](../bbugyi200.athena.sase-6f.4/README.md) | sase-6f hood | dismissed |

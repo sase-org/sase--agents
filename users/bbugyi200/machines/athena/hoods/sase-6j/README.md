@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-6j
 
-**Global hood:** `bbugyi200.athena.sase-6j` · **Runs:** 7 · **Sessions:** 1 · **States:** active 1, completed 6
+**Global hood:** `bbugyi200.athena.sase-6j` · **Runs:** 7 · **Sessions:** 1 · **States:** completed 6, dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-6j.2](../../../../../../agents/bbugyi200.athena.sase-6j.2/README.md) | completed | — | 2026-07-17T12:14:20+00:00 → 2026-07-17T12:14:20+00:00 | 1 | — |
-| [sase-6j](../../../../../../agents/bbugyi200.athena.sase-6j/README.md) | active | gpt-5.6-sol / codex | 2026-07-17T13:09:13.760152+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-6j/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-6j/prompt.md) |
+| [sase-6j](../../../../../../agents/bbugyi200.athena.sase-6j/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-17T09:09:13.760152 → 2026-07-17T09:54:58.127725 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-6j/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-6j/prompt.md) |
 | [sase-6j--code](../../../../../../sessions/bbugyi200.athena.sase-6j.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-17T13:33:40.084194+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-6j--code/chat.md) |
 | [sase-6j.3](../../../../../../agents/bbugyi200.athena.sase-6j.3/README.md) | completed | gpt-5.6-sol / codex | 2026-07-17T11:53:30.759130+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-6j.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-6j.3/prompt.md) |
 | [sase-6j.4](../../../../../../agents/bbugyi200.athena.sase-6j.4/README.md) | completed | — | 2026-07-17T12:39:44+00:00 → 2026-07-17T12:39:44+00:00 | 1 | — |

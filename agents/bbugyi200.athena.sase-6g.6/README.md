@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d395776`](https://github.com/sase-org/sase/commit/d39577633017b3a19a2ade11453410a928ca8f11) | feat(tui): expose parallel agent family details (sase-6g.6) | 2026-07-16 20:43:48 EDT |
+| — | `d395776` | feat(tui): expose parallel agent family details (sase-6g.6) | 2026-07-16 20:43:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6g](../../sessions/bbugyi200.athena.sase-6g.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6g](../../sessions/bbugyi200.athena.sase-6g.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6g.1](../bbugyi200.athena.sase-6g.1/README.md) | sase-6g hood | dismissed |
 | [sase-6g.2](../bbugyi200.athena.sase-6g.2/README.md) | sase-6g hood | dismissed |
 | [sase-6g.3](../bbugyi200.athena.sase-6g.3/README.md) | sase-6g hood | dismissed |

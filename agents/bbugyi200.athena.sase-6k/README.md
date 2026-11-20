@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6k](../../users/bbugyi200/machines/athena/hoods/sase-6k/README.md) / [sase-6k](../../sessions/bbugyi200.athena.sase-6k.md) / sase-6k
 
-**Global name:** `bbugyi200.athena.sase-6k` · **State:** active · **Source run:** `run-81f64cbfe019eb1f1b8766628adb7799`
+**Global name:** `bbugyi200.athena.sase-6k` · **State:** dismissed · **Source run:** `run-81f64cbfe019eb1f1b8766628adb7799`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-6k
 
@@ -11,7 +11,7 @@
 - Bead: [sase-6k](https://github.com/sase-org/sase--beads/blob/main/pages/sase-6k/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-17T15:24:18.911999
+- Timing: 2026-07-17T15:24:18.911999 → 2026-07-17T17:33:56.249186
 - Commits: 0
 
 ## Files
@@ -22,10 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6k.1](../bbugyi200.athena.sase-6k.1/README.md) | descendant | active |
-| [sase-6k.2](../bbugyi200.athena.sase-6k.2/README.md) | descendant | active |
-| [sase-6k.3](../bbugyi200.athena.sase-6k.3/README.md) | descendant | active |
-| [sase-6k.4](../bbugyi200.athena.sase-6k.4/README.md) | descendant | active |
-| [sase-6k.5](../bbugyi200.athena.sase-6k.5/README.md) | descendant | active |
-| [sase-6k.6](../bbugyi200.athena.sase-6k.6/README.md) | descendant | active |
-| [sase-6k.7](../bbugyi200.athena.sase-6k.7/README.md) | descendant | active |
+| [sase-6k.1](../bbugyi200.athena.sase-6k.1/README.md) | descendant | dismissed |
+| [sase-6k.2](../bbugyi200.athena.sase-6k.2/README.md) | descendant | dismissed |
+| [sase-6k.3](../bbugyi200.athena.sase-6k.3/README.md) | descendant | dismissed |
+| [sase-6k.4](../bbugyi200.athena.sase-6k.4/README.md) | descendant | dismissed |
+| [sase-6k.5](../bbugyi200.athena.sase-6k.5/README.md) | descendant | dismissed |
+| [sase-6k.6](../bbugyi200.athena.sase-6k.6/README.md) | descendant | dismissed |
+| [sase-6k.7](../bbugyi200.athena.sase-6k.7/README.md) | descendant | dismissed |

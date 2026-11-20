@@ -18,13 +18,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e73d140`](https://github.com/sase-org/sase/commit/e73d1400c4097432461316e3a2fca827ab9c8f75) | feat(tui): record sub-threshold watchdog hitches (sase-6j.1) | 2026-07-17 08:24:29 EDT |
+| — | `e73d140` | feat(tui): record sub-threshold watchdog hitches (sase-6j.1) | 2026-07-17 08:24:29 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6j](../../sessions/bbugyi200.athena.sase-6j.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6j](../../sessions/bbugyi200.athena.sase-6j.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6j.2](../bbugyi200.athena.sase-6j.2/README.md) | sase-6j hood | completed |
 | [sase-6j.3](../bbugyi200.athena.sase-6j.3/README.md) | sase-6j hood | completed |
 | [sase-6j.4](../bbugyi200.athena.sase-6j.4/README.md) | sase-6j hood | completed |

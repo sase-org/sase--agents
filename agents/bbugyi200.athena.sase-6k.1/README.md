@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6k](../../users/bbugyi200/machines/athena/hoods/sase-6k/README.md) / sase-6k.1
 
-**Global name:** `bbugyi200.athena.sase-6k.1` · **State:** active · **Source run:** `run-71d15275314c6aacac2a5538332f7d63`
+**Global name:** `bbugyi200.athena.sase-6k.1` · **State:** dismissed · **Source run:** `run-71d15275314c6aacac2a5538332f7d63`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-6k
 
@@ -11,7 +11,7 @@
 - Bead: [sase-6k.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-6k/sase-6k.1.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-17T15:27:06.282772+00:00
+- Timing: 2026-07-17T11:27:06.282772 → 2026-07-17T12:16:10.369670
 - Commits: 0
 
 ## Files
@@ -22,10 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6k](../../sessions/bbugyi200.athena.sase-6k.md) (session · 2) | ancestor | active 2 |
-| [sase-6k.2](../bbugyi200.athena.sase-6k.2/README.md) | sase-6k hood | active |
-| [sase-6k.3](../bbugyi200.athena.sase-6k.3/README.md) | sase-6k hood | active |
-| [sase-6k.4](../bbugyi200.athena.sase-6k.4/README.md) | sase-6k hood | active |
-| [sase-6k.5](../bbugyi200.athena.sase-6k.5/README.md) | sase-6k hood | active |
-| [sase-6k.6](../bbugyi200.athena.sase-6k.6/README.md) | sase-6k hood | active |
-| [sase-6k.7](../bbugyi200.athena.sase-6k.7/README.md) | sase-6k hood | active |
+| [sase-6k](../../sessions/bbugyi200.athena.sase-6k.md) (session · 2) | ancestor | active 1, dismissed 1 |
+| [sase-6k.2](../bbugyi200.athena.sase-6k.2/README.md) | sase-6k hood | dismissed |
+| [sase-6k.3](../bbugyi200.athena.sase-6k.3/README.md) | sase-6k hood | dismissed |
+| [sase-6k.4](../bbugyi200.athena.sase-6k.4/README.md) | sase-6k hood | dismissed |
+| [sase-6k.5](../bbugyi200.athena.sase-6k.5/README.md) | sase-6k hood | dismissed |
+| [sase-6k.6](../bbugyi200.athena.sase-6k.6/README.md) | sase-6k hood | dismissed |
+| [sase-6k.7](../bbugyi200.athena.sase-6k.7/README.md) | sase-6k hood | dismissed |

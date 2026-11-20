@@ -18,13 +18,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e5eef71`](https://github.com/sase-org/sase/commit/e5eef716c705c6745d69bef8e6b2a4dcaa412056) | fix(tui): complete residual freeze verification (sase-6j.5) | 2026-07-17 09:08:21 EDT |
+| — | `e5eef71` | fix(tui): complete residual freeze verification (sase-6j.5) | 2026-07-17 09:08:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6j](../../sessions/bbugyi200.athena.sase-6j.md) (session · 2) | ancestor | active 1, completed 1 |
+| [sase-6j](../../sessions/bbugyi200.athena.sase-6j.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-6j.1](../bbugyi200.athena.sase-6j.1/README.md) | sase-6j hood | completed |
 | [sase-6j.2](../bbugyi200.athena.sase-6j.2/README.md) | sase-6j hood | completed |
 | [sase-6j.3](../bbugyi200.athena.sase-6j.3/README.md) | sase-6j hood | completed |
