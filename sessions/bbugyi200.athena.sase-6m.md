@@ -8,19 +8,19 @@ Owner: `bbugyi200.athena` · Hood: `sase-6m` · Members: 1 · Bead: [sase-6m](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-6m [active]"]
+  n0["sase-6m [dismissed]"]
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | sase-6m | active | gpt-5.6-sol / codex | 2026-07-17T20:54:34.945506+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6m/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6m/chat.md) |
+| <a id="member-root"></a>root | sase-6m | dismissed | gpt-5.6-sol / codex | 2026-07-17T16:54:34.945506 → 2026-07-17T17:10:25.492422 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6m/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6m/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6m.1](../agents/bbugyi200.athena.sase-6m.1/README.md) | descendant | active |
-| [sase-6m.2](../agents/bbugyi200.athena.sase-6m.2/README.md) | descendant | active |
-| [sase-6m.3](../agents/bbugyi200.athena.sase-6m.3/README.md) | descendant | active |
+| [sase-6m.1](../agents/bbugyi200.athena.sase-6m.1/README.md) | descendant | dismissed |
+| [sase-6m.2](../agents/bbugyi200.athena.sase-6m.2/README.md) | descendant | dismissed |
+| [sase-6m.3](../agents/bbugyi200.athena.sase-6m.3/README.md) | descendant | dismissed |

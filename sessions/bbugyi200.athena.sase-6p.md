@@ -8,24 +8,24 @@ Owner: `bbugyi200.athena` · Hood: `sase-6p` · Members: 1 · Bead: [sase-6p](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-6p [active]"]
+  n0["sase-6p [dismissed]"]
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | sase-6p | active | gpt-5.6-sol / codex | 20260717194412 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6p/prompt.md) | — |
+| <a id="member-root"></a>root | sase-6p | dismissed | gpt-5.6-sol / codex | 2026-07-17T19:44:12 → 2026-07-17T22:01:27.596554 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6p/prompt.md) | — |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6p.1](../agents/bbugyi200.athena.sase-6p.1/README.md) | descendant | active |
-| [sase-6p.2](../agents/bbugyi200.athena.sase-6p.2/README.md) | descendant | active |
-| [sase-6p.3](../agents/bbugyi200.athena.sase-6p.3/README.md) | descendant | active |
-| [sase-6p.4](../agents/bbugyi200.athena.sase-6p.4/README.md) | descendant | active |
-| [sase-6p.5](../agents/bbugyi200.athena.sase-6p.5/README.md) | descendant | active |
-| [sase-6p.6](../agents/bbugyi200.athena.sase-6p.6/README.md) | descendant | active |
-| [sase-6p.7](../agents/bbugyi200.athena.sase-6p.7/README.md) | descendant | active |
-| [sase-6p.8](../agents/bbugyi200.athena.sase-6p.8/README.md) | descendant | active |
+| [sase-6p.1](../agents/bbugyi200.athena.sase-6p.1/README.md) | descendant | dismissed |
+| [sase-6p.2](../agents/bbugyi200.athena.sase-6p.2/README.md) | descendant | dismissed |
+| [sase-6p.3](../agents/bbugyi200.athena.sase-6p.3/README.md) | descendant | dismissed |
+| [sase-6p.4](../agents/bbugyi200.athena.sase-6p.4/README.md) | descendant | dismissed |
+| [sase-6p.5](../agents/bbugyi200.athena.sase-6p.5/README.md) | descendant | dismissed |
+| [sase-6p.6](../agents/bbugyi200.athena.sase-6p.6/README.md) | descendant | dismissed |
+| [sase-6p.7](../agents/bbugyi200.athena.sase-6p.7/README.md) | descendant | dismissed |
+| [sase-6p.8](../agents/bbugyi200.athena.sase-6p.8/README.md) | descendant | dismissed |

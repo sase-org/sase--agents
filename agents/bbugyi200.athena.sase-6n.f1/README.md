@@ -17,14 +17,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6n](../../sessions/bbugyi200.athena.sase-6n.md) (session · 1) | ancestor | active 1 |
-| [sase-6n.1](../bbugyi200.athena.sase-6n.1/README.md) | sase-6n hood | active |
-| [sase-6n.2](../bbugyi200.athena.sase-6n.2/README.md) | sase-6n hood | active |
-| [sase-6n.3](../bbugyi200.athena.sase-6n.3/README.md) | sase-6n hood | active |
-| [sase-6n.4](../bbugyi200.athena.sase-6n.4/README.md) | sase-6n hood | active |
-| [sase-6n.5](../bbugyi200.athena.sase-6n.5/README.md) | sase-6n hood | active |
-| [sase-6n.6](../bbugyi200.athena.sase-6n.6/README.md) | sase-6n hood | active |
-| [sase-6n.7](../bbugyi200.athena.sase-6n.7/README.md) | sase-6n hood | active |
-| [sase-6n.8](../bbugyi200.athena.sase-6n.8/README.md) | sase-6n hood | active |
-| [sase-6n.9](../bbugyi200.athena.sase-6n.9/README.md) | sase-6n hood | active |
+| [sase-6n](../../sessions/bbugyi200.athena.sase-6n.md) (session · 1) | ancestor | dismissed 1 |
+| [sase-6n.1](../bbugyi200.athena.sase-6n.1/README.md) | sase-6n hood | dismissed |
+| [sase-6n.2](../bbugyi200.athena.sase-6n.2/README.md) | sase-6n hood | dismissed |
+| [sase-6n.3](../bbugyi200.athena.sase-6n.3/README.md) | sase-6n hood | dismissed |
+| [sase-6n.4](../bbugyi200.athena.sase-6n.4/README.md) | sase-6n hood | dismissed |
+| [sase-6n.5](../bbugyi200.athena.sase-6n.5/README.md) | sase-6n hood | dismissed |
+| [sase-6n.6](../bbugyi200.athena.sase-6n.6/README.md) | sase-6n hood | dismissed |
+| [sase-6n.7](../bbugyi200.athena.sase-6n.7/README.md) | sase-6n hood | dismissed |
+| [sase-6n.8](../bbugyi200.athena.sase-6n.8/README.md) | sase-6n hood | dismissed |
+| [sase-6n.9](../bbugyi200.athena.sase-6n.9/README.md) | sase-6n hood | dismissed |
 | [sase-6n.w1](../bbugyi200.athena.sase-6n.w1/README.md) | sase-6n hood | dismissed |

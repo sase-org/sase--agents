@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6p](../../users/bbugyi200/machines/athena/hoods/sase-6p/README.md) / sase-6p.2
 
-**Global name:** `bbugyi200.athena.sase-6p.2` · **State:** active · **Source run:** `run-a8b352a2da8c0150357b575223c0a0c0`
+**Global name:** `bbugyi200.athena.sase-6p.2` · **State:** dismissed · **Source run:** `run-a8b352a2da8c0150357b575223c0a0c0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-6p
 
@@ -11,7 +11,7 @@
 - Bead: [sase-6p.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-6p/sase-6p.2.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-18T00:07:26.533269+00:00
+- Timing: 2026-07-17T20:07:26.533269 → 2026-07-17T20:19:29.995395
 - Commits: [1](#commits)
 
 ## Files
@@ -22,17 +22,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fe87a8f`](https://github.com/sase-org/sase/commit/fe87a8fcef91529c72845762493cdac6c00ac624) | feat(cli)!: add first-class gate commands (sase-6p.2) | 2026-07-17 20:18:51 EDT |
+| — | `fe87a8f` | feat(cli)!: add first-class gate commands (sase-6p.2) | 2026-07-17 20:18:51 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6p](../../sessions/bbugyi200.athena.sase-6p.md) (session · 1) | ancestor | active 1 |
-| [sase-6p.1](../bbugyi200.athena.sase-6p.1/README.md) | sase-6p hood | active |
-| [sase-6p.3](../bbugyi200.athena.sase-6p.3/README.md) | sase-6p hood | active |
-| [sase-6p.4](../bbugyi200.athena.sase-6p.4/README.md) | sase-6p hood | active |
-| [sase-6p.5](../bbugyi200.athena.sase-6p.5/README.md) | sase-6p hood | active |
-| [sase-6p.6](../bbugyi200.athena.sase-6p.6/README.md) | sase-6p hood | active |
-| [sase-6p.7](../bbugyi200.athena.sase-6p.7/README.md) | sase-6p hood | active |
-| [sase-6p.8](../bbugyi200.athena.sase-6p.8/README.md) | sase-6p hood | active |
+| [sase-6p](../../sessions/bbugyi200.athena.sase-6p.md) (session · 1) | ancestor | dismissed 1 |
+| [sase-6p.1](../bbugyi200.athena.sase-6p.1/README.md) | sase-6p hood | dismissed |
+| [sase-6p.3](../bbugyi200.athena.sase-6p.3/README.md) | sase-6p hood | dismissed |
+| [sase-6p.4](../bbugyi200.athena.sase-6p.4/README.md) | sase-6p hood | dismissed |
+| [sase-6p.5](../bbugyi200.athena.sase-6p.5/README.md) | sase-6p hood | dismissed |
+| [sase-6p.6](../bbugyi200.athena.sase-6p.6/README.md) | sase-6p hood | dismissed |
+| [sase-6p.7](../bbugyi200.athena.sase-6p.7/README.md) | sase-6p hood | dismissed |
+| [sase-6p.8](../bbugyi200.athena.sase-6p.8/README.md) | sase-6p hood | dismissed |

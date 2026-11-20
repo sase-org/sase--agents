@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6l](../../users/bbugyi200/machines/athena/hoods/sase-6l/README.md) / [sase-6l](../../sessions/bbugyi200.athena.sase-6l.md) / sase-6l
 
-**Global name:** `bbugyi200.athena.sase-6l` · **State:** active · **Source run:** `run-70564dbd7bcafe55e630f8ab45f57be0`
+**Global name:** `bbugyi200.athena.sase-6l` · **State:** dismissed · **Source run:** `run-70564dbd7bcafe55e630f8ab45f57be0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-6l
 
@@ -11,7 +11,7 @@
 - Bead: [sase-6l](https://github.com/sase-org/sase--beads/blob/main/pages/sase-6l/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-17T19:05:49.839766+00:00
+- Timing: 2026-07-17T15:05:49.839766 → 2026-07-17T15:24:11.539863
 - Commits: 0
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6l.1](../bbugyi200.athena.sase-6l.1/README.md) | descendant | active |
-| [sase-6l.2](../bbugyi200.athena.sase-6l.2/README.md) | descendant | active |
-| [sase-6l.3](../bbugyi200.athena.sase-6l.3/README.md) | descendant | active |
-| [sase-6l.4](../bbugyi200.athena.sase-6l.4/README.md) | descendant | active |
+| [sase-6l.1](../bbugyi200.athena.sase-6l.1/README.md) | descendant | dismissed |
+| [sase-6l.2](../bbugyi200.athena.sase-6l.2/README.md) | descendant | dismissed |
+| [sase-6l.3](../bbugyi200.athena.sase-6l.3/README.md) | descendant | dismissed |
+| [sase-6l.4](../bbugyi200.athena.sase-6l.4/README.md) | descendant | dismissed |
