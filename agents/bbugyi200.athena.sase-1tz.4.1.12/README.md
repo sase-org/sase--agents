@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.4.1.12
 
-**Global name:** `bbugyi200.athena.sase-1tz.4.1.12` · **State:** waiting · **Source run:** `run-f9887cc39d66ee46a6645f946c04f406`
+**Global name:** `bbugyi200.athena.sase-1tz.4.1.12` · **State:** completed · **Source run:** `run-f9887cc39d66ee46a6645f946c04f406`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1tz.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.4.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261120140155
-- Commits: 0
+- Timing: 2026-11-20T19:40:44.247966+00:00 → 2026-11-20T20:51:57.464594+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`18e4f35`](https://github.com/sase-org/sase/commit/18e4f35a54d84c71e79d41d2bd74cabc8771429c) | feat(retention): schedule tool-run log horizon and age-rotate tui.log | 2026-11-20 15:50:07 EST |
 
 ## Neighbors
 
