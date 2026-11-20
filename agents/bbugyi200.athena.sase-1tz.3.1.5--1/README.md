@@ -60,5 +60,5 @@
 | [sase-1tz.2.1.8](../bbugyi200.athena.sase-1tz.2.1.8/README.md) | sase-1tz hood | completed |
 | [sase-1tz.2.1.9](../bbugyi200.athena.sase-1tz.2.1.9/README.md) | sase-1tz hood | completed |
 | [sase-1tz.2.1.land](../../sessions/bbugyi200.athena.sase-1tz.2.1.land.md) (session · 3) | sase-1tz hood | completed 3 |
-| [sase-1tz.4](../bbugyi200.athena.sase-1tz.4/README.md) | sase-1tz hood | waiting |
+| [sase-1tz.4](../../sessions/bbugyi200.athena.sase-1tz.4.md) (session · 3) | sase-1tz hood | active 2, completed 1 |
 | [sase-1tz.land](../bbugyi200.athena.sase-1tz.land/README.md) | sase-1tz hood | waiting |
