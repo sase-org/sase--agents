@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-8j](../../users/bbugyi200/machines/athena/hoods/sase-8j/README.md) / [sase-8j.3](../../sessions/bbugyi200.athena.sase-8j.3.md) / sase-8j.3--plan
 
-**Global name:** `bbugyi200.athena.sase-8j.3--plan` · **State:** active · **Source run:** `run-65f4148665d746a65b3b77c61d09e370`
+**Global name:** `bbugyi200.athena.sase-8j.3--plan` · **State:** dismissed · **Source run:** `run-65f4148665d746a65b3b77c61d09e370`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-8j
 
@@ -12,7 +12,7 @@
 - Epic: [sase-8j](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8j/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-21T21:34:47.472705+00:00
+- Timing: 2026-07-21T17:34:47.472705 → 2026-07-21T18:07:46.168768
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8j.1](../../sessions/bbugyi200.athena.sase-8j.1.md) (session · 2) | sase-8j hood | active 1, completed 1 |
-| [sase-8j.2](../bbugyi200.athena.sase-8j.2/README.md) | sase-8j hood | active |
-| [sase-8j.4](../bbugyi200.athena.sase-8j.4/README.md) | sase-8j hood | active |
-| [sase-8j.land](../bbugyi200.athena.sase-8j.land/README.md) | sase-8j hood | active |
+| [sase-8j.1](../../sessions/bbugyi200.athena.sase-8j.1.md) (session · 2) | sase-8j hood | completed 1, dismissed 1 |
+| [sase-8j.2](../bbugyi200.athena.sase-8j.2/README.md) | sase-8j hood | dismissed |
+| [sase-8j.4](../bbugyi200.athena.sase-8j.4/README.md) | sase-8j hood | dismissed |
+| [sase-8j.land](../bbugyi200.athena.sase-8j.land/README.md) | sase-8j hood | dismissed |

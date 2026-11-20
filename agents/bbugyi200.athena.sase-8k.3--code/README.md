@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e828aa9`](https://github.com/sase-org/sase/commit/e828aa927e3dff3c3c4f1f4539a3c8c5201ea83e) | feat: add machine-qualified agent hoods (sase-8k.3) | 2026-07-22 15:07:39 EDT |
+| — | `e828aa9` | feat: add machine-qualified agent hoods (sase-8k.3) | 2026-07-22 15:07:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8k.1](../../sessions/bbugyi200.athena.sase-8k.1.md) (session · 2) | sase-8k hood | active 1, completed 1 |
+| [sase-8k.1](../../sessions/bbugyi200.athena.sase-8k.1.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
 | [sase-8k.2](../bbugyi200.athena.sase-8k.2/README.md) | sase-8k hood | dismissed |
-| [sase-8k.4](../../sessions/bbugyi200.athena.sase-8k.4.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.5](../../sessions/bbugyi200.athena.sase-8k.5.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.6](../../sessions/bbugyi200.athena.sase-8k.6.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.7](../../sessions/bbugyi200.athena.sase-8k.7.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.8](../bbugyi200.athena.sase-8k.8/README.md) | sase-8k hood | active |
-| [sase-8k.land](../../sessions/bbugyi200.athena.sase-8k.land.md) (session · 2) | sase-8k hood | active 1, completed 1 |
+| [sase-8k.4](../../sessions/bbugyi200.athena.sase-8k.4.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.5](../../sessions/bbugyi200.athena.sase-8k.5.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.6](../../sessions/bbugyi200.athena.sase-8k.6.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.7](../../sessions/bbugyi200.athena.sase-8k.7.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.8](../bbugyi200.athena.sase-8k.8/README.md) | sase-8k hood | dismissed |
+| [sase-8k.land](../../sessions/bbugyi200.athena.sase-8k.land.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |

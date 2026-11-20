@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`58d1ca2`](https://github.com/sase-org/sase/commit/58d1ca2da51df1bcd9bdc2464503985de59a416c) | feat(agents): add completed agent sync engine (sase-8k.6) | 2026-07-22 16:00:45 EDT |
+| — | `58d1ca2` | feat(agents): add completed agent sync engine (sase-8k.6) | 2026-07-22 16:00:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8k.1](../../sessions/bbugyi200.athena.sase-8k.1.md) (session · 2) | sase-8k hood | active 1, completed 1 |
+| [sase-8k.1](../../sessions/bbugyi200.athena.sase-8k.1.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
 | [sase-8k.2](../bbugyi200.athena.sase-8k.2/README.md) | sase-8k hood | dismissed |
-| [sase-8k.3](../../sessions/bbugyi200.athena.sase-8k.3.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.4](../../sessions/bbugyi200.athena.sase-8k.4.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.5](../../sessions/bbugyi200.athena.sase-8k.5.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.7](../../sessions/bbugyi200.athena.sase-8k.7.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.8](../bbugyi200.athena.sase-8k.8/README.md) | sase-8k hood | active |
-| [sase-8k.land](../../sessions/bbugyi200.athena.sase-8k.land.md) (session · 2) | sase-8k hood | active 1, completed 1 |
+| [sase-8k.3](../../sessions/bbugyi200.athena.sase-8k.3.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.4](../../sessions/bbugyi200.athena.sase-8k.4.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.5](../../sessions/bbugyi200.athena.sase-8k.5.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.7](../../sessions/bbugyi200.athena.sase-8k.7.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.8](../bbugyi200.athena.sase-8k.8/README.md) | sase-8k hood | dismissed |
+| [sase-8k.land](../../sessions/bbugyi200.athena.sase-8k.land.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |

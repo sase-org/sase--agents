@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-8l` · Members: 2 · Bead: [sase-8l.1](
 ```mermaid
 flowchart TD
   n0["sase-8l.1--code [completed]"]
-  n1["sase-8l.1--plan [active]"]
+  n1["sase-8l.1--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,17 +18,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-8l.1--code | completed | gpt-5.6-sol / codex | 2026-07-22T16:04:40.052731+00:00 | [1](../agents/bbugyi200.athena.sase-8l.1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-8l.1--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-8l.1--plan | active | gpt-5.6-sol / codex | 2026-07-22T15:58:58.016056+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8l.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8l.1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-8l.1--plan | dismissed | gpt-5.6-sol / codex | 2026-07-22T11:58:58.016056 → 2026-07-22T12:44:18.391724 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8l.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8l.1--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`eaef2d7`](https://github.com/sase-org/sase/commit/eaef2d78b1faf15a0764e08b066383ee4d6a48e3) | feat(axe): carry clan summaries through chop launches (sase-8l.1) | 2026-07-22 12:42:07 EDT |
+| code | — | `eaef2d7` | feat(axe): carry clan summaries through chop launches (sase-8l.1) | 2026-07-22 12:42:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8l.2](bbugyi200.athena.sase-8l.2.md) (session · 2) | sase-8l hood | active 1, completed 1 |
-| [sase-8l.land](../agents/bbugyi200.athena.sase-8l.land/README.md) | sase-8l hood | active |
+| [sase-8l.2](bbugyi200.athena.sase-8l.2.md) (session · 2) | sase-8l hood | completed 1, dismissed 1 |
+| [sase-8l.land](../agents/bbugyi200.athena.sase-8l.land/README.md) | sase-8l hood | dismissed |

@@ -22,17 +22,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`61395b8`](https://github.com/sase-org/sase/commit/61395b8ab1fa2f2de8158f677abd2ae9017d4b6d) | fix(agents): normalize machine-hood presentation (sase-8k) | 2026-07-22 17:28:12 EDT |
+| — | `61395b8` | fix(agents): normalize machine-hood presentation (sase-8k) | 2026-07-22 17:28:12 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8k.1](../../sessions/bbugyi200.athena.sase-8k.1.md) (session · 2) | sase-8k hood | active 1, completed 1 |
+| [sase-8k.1](../../sessions/bbugyi200.athena.sase-8k.1.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
 | [sase-8k.2](../bbugyi200.athena.sase-8k.2/README.md) | sase-8k hood | dismissed |
-| [sase-8k.3](../../sessions/bbugyi200.athena.sase-8k.3.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.4](../../sessions/bbugyi200.athena.sase-8k.4.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.5](../../sessions/bbugyi200.athena.sase-8k.5.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.6](../../sessions/bbugyi200.athena.sase-8k.6.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.7](../../sessions/bbugyi200.athena.sase-8k.7.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.8](../bbugyi200.athena.sase-8k.8/README.md) | sase-8k hood | active |
+| [sase-8k.3](../../sessions/bbugyi200.athena.sase-8k.3.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.4](../../sessions/bbugyi200.athena.sase-8k.4.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.5](../../sessions/bbugyi200.athena.sase-8k.5.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.6](../../sessions/bbugyi200.athena.sase-8k.6.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.7](../../sessions/bbugyi200.athena.sase-8k.7.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.8](../bbugyi200.athena.sase-8k.8/README.md) | sase-8k hood | dismissed |

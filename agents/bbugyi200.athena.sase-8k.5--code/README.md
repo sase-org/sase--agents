@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`44ccbe8`](https://github.com/sase-org/sase/commit/44ccbe84c7c23d1ad21433b428235dc37493072e) | feat(repo-init): initialize agents sidecars with explicit consent (sase-8k.5) | 2026-07-22 13:11:53 EDT |
+| — | `44ccbe8` | feat(repo-init): initialize agents sidecars with explicit consent (sase-8k.5) | 2026-07-22 13:11:53 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8k.1](../../sessions/bbugyi200.athena.sase-8k.1.md) (session · 2) | sase-8k hood | active 1, completed 1 |
+| [sase-8k.1](../../sessions/bbugyi200.athena.sase-8k.1.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
 | [sase-8k.2](../bbugyi200.athena.sase-8k.2/README.md) | sase-8k hood | dismissed |
-| [sase-8k.3](../../sessions/bbugyi200.athena.sase-8k.3.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.4](../../sessions/bbugyi200.athena.sase-8k.4.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.6](../../sessions/bbugyi200.athena.sase-8k.6.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.7](../../sessions/bbugyi200.athena.sase-8k.7.md) (session · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.8](../bbugyi200.athena.sase-8k.8/README.md) | sase-8k hood | active |
-| [sase-8k.land](../../sessions/bbugyi200.athena.sase-8k.land.md) (session · 2) | sase-8k hood | active 1, completed 1 |
+| [sase-8k.3](../../sessions/bbugyi200.athena.sase-8k.3.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.4](../../sessions/bbugyi200.athena.sase-8k.4.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.6](../../sessions/bbugyi200.athena.sase-8k.6.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.7](../../sessions/bbugyi200.athena.sase-8k.7.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |
+| [sase-8k.8](../bbugyi200.athena.sase-8k.8/README.md) | sase-8k hood | dismissed |
+| [sase-8k.land](../../sessions/bbugyi200.athena.sase-8k.land.md) (session · 2) | sase-8k hood | completed 1, dismissed 1 |

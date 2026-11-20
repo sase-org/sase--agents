@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5a9cef8`](https://github.com/sase-org/sase/commit/5a9cef88329bc5f3323603300bc86040509530a0) | feat(axe): apply exact conflict-safe config edits (sase-8m.1) | 2026-07-22 13:23:39 EDT |
+| — | `5a9cef8` | feat(axe): apply exact conflict-safe config edits (sase-8m.1) | 2026-07-22 13:23:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8m.2](../../sessions/bbugyi200.athena.sase-8m.2.md) (session · 2) | sase-8m hood | active 2 |
-| [sase-8m.3](../../sessions/bbugyi200.athena.sase-8m.3.md) (session · 2) | sase-8m hood | active 1, completed 1 |
-| [sase-8m.4](../bbugyi200.athena.sase-8m.4/README.md) | sase-8m hood | active |
-| [sase-8m.land](../bbugyi200.athena.sase-8m.land/README.md) | sase-8m hood | active |
+| [sase-8m.2](../../sessions/bbugyi200.athena.sase-8m.2.md) (session · 2) | sase-8m hood | active 1, dismissed 1 |
+| [sase-8m.3](../../sessions/bbugyi200.athena.sase-8m.3.md) (session · 2) | sase-8m hood | completed 1, dismissed 1 |
+| [sase-8m.4](../bbugyi200.athena.sase-8m.4/README.md) | sase-8m hood | dismissed |
+| [sase-8m.land](../bbugyi200.athena.sase-8m.land/README.md) | sase-8m hood | dismissed |

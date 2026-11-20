@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eaef2d7`](https://github.com/sase-org/sase/commit/eaef2d78b1faf15a0764e08b066383ee4d6a48e3) | feat(axe): carry clan summaries through chop launches (sase-8l.1) | 2026-07-22 12:42:07 EDT |
+| — | `eaef2d7` | feat(axe): carry clan summaries through chop launches (sase-8l.1) | 2026-07-22 12:42:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8l.2](../../sessions/bbugyi200.athena.sase-8l.2.md) (session · 2) | sase-8l hood | active 1, completed 1 |
-| [sase-8l.land](../bbugyi200.athena.sase-8l.land/README.md) | sase-8l hood | active |
+| [sase-8l.2](../../sessions/bbugyi200.athena.sase-8l.2.md) (session · 2) | sase-8l hood | completed 1, dismissed 1 |
+| [sase-8l.land](../bbugyi200.athena.sase-8l.land/README.md) | sase-8l hood | dismissed |

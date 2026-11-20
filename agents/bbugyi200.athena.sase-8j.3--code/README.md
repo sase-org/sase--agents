@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6c052e8`](https://github.com/sase-org/sase/commit/6c052e8169789a0b4ffa1fd536cf642c9a9bd88f) | feat(tui): add runner statistics experience (sase-8j.3) | 2026-07-21 18:07:24 EDT |
+| — | `6c052e8` | feat(tui): add runner statistics experience (sase-8j.3) | 2026-07-21 18:07:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8j.1](../../sessions/bbugyi200.athena.sase-8j.1.md) (session · 2) | sase-8j hood | active 1, completed 1 |
-| [sase-8j.2](../bbugyi200.athena.sase-8j.2/README.md) | sase-8j hood | active |
-| [sase-8j.4](../bbugyi200.athena.sase-8j.4/README.md) | sase-8j hood | active |
-| [sase-8j.land](../bbugyi200.athena.sase-8j.land/README.md) | sase-8j hood | active |
+| [sase-8j.1](../../sessions/bbugyi200.athena.sase-8j.1.md) (session · 2) | sase-8j hood | completed 1, dismissed 1 |
+| [sase-8j.2](../bbugyi200.athena.sase-8j.2/README.md) | sase-8j hood | dismissed |
+| [sase-8j.4](../bbugyi200.athena.sase-8j.4/README.md) | sase-8j hood | dismissed |
+| [sase-8j.land](../bbugyi200.athena.sase-8j.land/README.md) | sase-8j hood | dismissed |
