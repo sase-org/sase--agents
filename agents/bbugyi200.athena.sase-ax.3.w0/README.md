@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ax](../../users/bbugyi200/machines/athena/hoods/sase-ax/README.md) / sase-ax.3.w0
 
-**Global name:** `bbugyi200.athena.sase-ax.3.w0` · **State:** active · **Source run:** `run-012f0c6e4263deccc8361578e0c62c27`
+**Global name:** `bbugyi200.athena.sase-ax.3.w0` · **State:** dismissed · **Source run:** `run-012f0c6e4263deccc8361578e0c62c27`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ax
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-07-29T22:51:51.617779+00:00
+- Timing: 2026-07-29T18:51:51.617779 → 2026-07-29T19:12:29.164990
 - Commits: 0
 
 ## Files
@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ax.3](../../sessions/bbugyi200.athena.sase-ax.3.md) (session · 2) | ancestor | active 1, completed 1 |
-| [sase-ax.1](../bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | active |
-| [sase-ax.2](../bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | active |
-| [sase-ax.4](../bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | active |
-| [sase-ax.land](../../sessions/bbugyi200.athena.sase-ax.land.md) (session · 2) | sase-ax hood | active 1, completed 1 |
+| [sase-ax.3](../../sessions/bbugyi200.athena.sase-ax.3.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [sase-ax.1](../bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | dismissed |
+| [sase-ax.2](../bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | dismissed |
+| [sase-ax.4](../bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | dismissed |
+| [sase-ax.land](../../sessions/bbugyi200.athena.sase-ax.land.md) (session · 2) | sase-ax hood | completed 1, dismissed 1 |

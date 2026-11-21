@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ay](../../users/bbugyi200/machines/athena/hoods/sase-ay/README.md) / sase-ay.4
 
-**Global name:** `bbugyi200.athena.sase-ay.4` · **State:** active · **Source run:** `run-c94d00fa08800fb33a1cc4fa0918da0d`
+**Global name:** `bbugyi200.athena.sase-ay.4` · **State:** dismissed · **Source run:** `run-c94d00fa08800fb33a1cc4fa0918da0d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ay
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ay](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ay/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-29T22:27:17.789520+00:00
+- Timing: 2026-07-29T18:27:17.789520 → 2026-07-29T18:50:54.448146
 - Commits: [1](#commits)
 
 ## Files
@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`53b3496`](https://github.com/sase-org/sase/commit/53b34965f1cf960e92935ca1ec999ff9c24ec4f7) | fix(ace): keep completion panel rows within budget | 2026-07-29 18:49:21 EDT |
+| — | `53b3496` | fix(ace): keep completion panel rows within budget | 2026-07-29 18:49:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ay.1](../bbugyi200.athena.sase-ay.1/README.md) | sase-ay hood | active |
-| [sase-ay.2](../bbugyi200.athena.sase-ay.2/README.md) | sase-ay hood | active |
-| [sase-ay.3](../bbugyi200.athena.sase-ay.3/README.md) | sase-ay hood | active |
-| [sase-ay.5](../bbugyi200.athena.sase-ay.5/README.md) | sase-ay hood | active |
-| [sase-ay.6](../bbugyi200.athena.sase-ay.6/README.md) | sase-ay hood | active |
-| [sase-ay.7](../bbugyi200.athena.sase-ay.7/README.md) | sase-ay hood | active |
-| [sase-ay.8](../bbugyi200.athena.sase-ay.8/README.md) | sase-ay hood | active |
-| [sase-ay.land](../bbugyi200.athena.sase-ay.land/README.md) | sase-ay hood | active |
+| [sase-ay.1](../bbugyi200.athena.sase-ay.1/README.md) | sase-ay hood | dismissed |
+| [sase-ay.2](../bbugyi200.athena.sase-ay.2/README.md) | sase-ay hood | dismissed |
+| [sase-ay.3](../bbugyi200.athena.sase-ay.3/README.md) | sase-ay hood | dismissed |
+| [sase-ay.5](../bbugyi200.athena.sase-ay.5/README.md) | sase-ay hood | dismissed |
+| [sase-ay.6](../bbugyi200.athena.sase-ay.6/README.md) | sase-ay hood | dismissed |
+| [sase-ay.7](../bbugyi200.athena.sase-ay.7/README.md) | sase-ay hood | dismissed |
+| [sase-ay.8](../bbugyi200.athena.sase-ay.8/README.md) | sase-ay hood | dismissed |
+| [sase-ay.land](../bbugyi200.athena.sase-ay.land/README.md) | sase-ay hood | dismissed |

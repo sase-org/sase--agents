@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`af42951`](https://github.com/sase-org/sase/commit/af42951798753ef28a2c73e75bcbef1780dbfb83) | perf: warm artifact completion through Rust query | 2026-07-29 19:46:56 EDT |
+| — | `af42951` | perf: warm artifact completion through Rust query | 2026-07-29 19:46:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ax.1](../bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | active |
-| [sase-ax.2](../bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | active |
-| [sase-ax.3](../../sessions/bbugyi200.athena.sase-ax.3.md) (session · 2) | sase-ax hood | active 1, completed 1 |
-| [sase-ax.3.w0](../bbugyi200.athena.sase-ax.3.w0/README.md) | sase-ax hood | active |
-| [sase-ax.4](../bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | active |
+| [sase-ax.1](../bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | dismissed |
+| [sase-ax.2](../bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | dismissed |
+| [sase-ax.3](../../sessions/bbugyi200.athena.sase-ax.3.md) (session · 2) | sase-ax hood | completed 1, dismissed 1 |
+| [sase-ax.3.w0](../bbugyi200.athena.sase-ax.3.w0/README.md) | sase-ax hood | dismissed |
+| [sase-ax.4](../bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | dismissed |

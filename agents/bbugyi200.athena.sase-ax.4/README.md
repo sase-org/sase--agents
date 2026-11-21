@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ax](../../users/bbugyi200/machines/athena/hoods/sase-ax/README.md) / sase-ax.4
 
-**Global name:** `bbugyi200.athena.sase-ax.4` · **State:** active · **Source run:** `run-e6ddc82ce17f80a694adb0d7a776c0b1`
+**Global name:** `bbugyi200.athena.sase-ax.4` · **State:** dismissed · **Source run:** `run-e6ddc82ce17f80a694adb0d7a776c0b1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ax
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ax](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ax/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-29T22:51:57.357852+00:00
+- Timing: 2026-07-29T18:51:57.357852 → 2026-07-29T19:23:51.115354
 - Commits: [1](#commits)
 
 ## Files
@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c40aa7f`](https://github.com/sase-org/sase/commit/c40aa7f9f5b755223e54469ee31693edc24d46f7) | docs: document the sase artifact read commands | 2026-07-29 19:22:55 EDT |
+| — | `c40aa7f` | docs: document the sase artifact read commands | 2026-07-29 19:22:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ax.1](../bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | active |
-| [sase-ax.2](../bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | active |
-| [sase-ax.3](../../sessions/bbugyi200.athena.sase-ax.3.md) (session · 2) | sase-ax hood | active 1, completed 1 |
-| [sase-ax.3.w0](../bbugyi200.athena.sase-ax.3.w0/README.md) | sase-ax hood | active |
-| [sase-ax.land](../../sessions/bbugyi200.athena.sase-ax.land.md) (session · 2) | sase-ax hood | active 1, completed 1 |
+| [sase-ax.1](../bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | dismissed |
+| [sase-ax.2](../bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | dismissed |
+| [sase-ax.3](../../sessions/bbugyi200.athena.sase-ax.3.md) (session · 2) | sase-ax hood | completed 1, dismissed 1 |
+| [sase-ax.3.w0](../bbugyi200.athena.sase-ax.3.w0/README.md) | sase-ax hood | dismissed |
+| [sase-ax.land](../../sessions/bbugyi200.athena.sase-ax.land.md) (session · 2) | sase-ax hood | completed 1, dismissed 1 |

@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3da9140`](https://github.com/sase-org/sase/commit/3da9140b4968f590f84ace1db91f21c565746381) | feat(ace): add contextual Copy as palette | 2026-07-29 21:14:52 EDT |
+| — | `3da9140` | feat(ace): add contextual Copy as palette | 2026-07-29 21:14:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-az.1](../bbugyi200.athena.sase-az.1/README.md) | sase-az hood | active |
-| [sase-az.2](../bbugyi200.athena.sase-az.2/README.md) | sase-az hood | active |
-| [sase-az.4](../bbugyi200.athena.sase-az.4/README.md) | sase-az hood | active |
-| [sase-az.land](../../sessions/bbugyi200.athena.sase-az.land.md) (session · 2) | sase-az hood | active 1, completed 1 |
+| [sase-az.1](../bbugyi200.athena.sase-az.1/README.md) | sase-az hood | dismissed |
+| [sase-az.2](../bbugyi200.athena.sase-az.2/README.md) | sase-az hood | dismissed |
+| [sase-az.4](../bbugyi200.athena.sase-az.4/README.md) | sase-az hood | dismissed |
+| [sase-az.land](../../sessions/bbugyi200.athena.sase-az.land.md) (session · 2) | sase-az hood | completed 1, dismissed 1 |

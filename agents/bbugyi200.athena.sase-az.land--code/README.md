@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86fb630`](https://github.com/sase-org/sase/commit/86fb630bb8315f86895a48ac4a9be1a9243e8612) | feat(ace): complete Files copy-as palette | 2026-07-29 22:28:02 EDT |
+| — | `86fb630` | feat(ace): complete Files copy-as palette | 2026-07-29 22:28:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-az.1](../bbugyi200.athena.sase-az.1/README.md) | sase-az hood | active |
-| [sase-az.2](../bbugyi200.athena.sase-az.2/README.md) | sase-az hood | active |
-| [sase-az.3](../../sessions/bbugyi200.athena.sase-az.3.md) (session · 2) | sase-az hood | active 1, completed 1 |
-| [sase-az.4](../bbugyi200.athena.sase-az.4/README.md) | sase-az hood | active |
+| [sase-az.1](../bbugyi200.athena.sase-az.1/README.md) | sase-az hood | dismissed |
+| [sase-az.2](../bbugyi200.athena.sase-az.2/README.md) | sase-az hood | dismissed |
+| [sase-az.3](../../sessions/bbugyi200.athena.sase-az.3.md) (session · 2) | sase-az hood | completed 1, dismissed 1 |
+| [sase-az.4](../bbugyi200.athena.sase-az.4/README.md) | sase-az hood | dismissed |

@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`30e2ed3`](https://github.com/sase-org/sase/commit/30e2ed37ed28cc2dab894e69419d206fec79ce05) | feat(cli): add artifact read commands | 2026-07-29 18:50:18 EDT |
+| — | `30e2ed3` | feat(cli): add artifact read commands | 2026-07-29 18:50:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ax.3.w0](../bbugyi200.athena.sase-ax.3.w0/README.md) | descendant | active |
-| [sase-ax.1](../bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | active |
-| [sase-ax.2](../bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | active |
-| [sase-ax.4](../bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | active |
-| [sase-ax.land](../../sessions/bbugyi200.athena.sase-ax.land.md) (session · 2) | sase-ax hood | active 1, completed 1 |
+| [sase-ax.3.w0](../bbugyi200.athena.sase-ax.3.w0/README.md) | descendant | dismissed |
+| [sase-ax.1](../bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | dismissed |
+| [sase-ax.2](../bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | dismissed |
+| [sase-ax.4](../bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | dismissed |
+| [sase-ax.land](../../sessions/bbugyi200.athena.sase-ax.land.md) (session · 2) | sase-ax hood | completed 1, dismissed 1 |
