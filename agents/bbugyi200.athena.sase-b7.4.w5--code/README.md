@@ -17,12 +17,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b7.4](../bbugyi200.athena.sase-b7.4/README.md) | ancestor | active |
-| [sase-b7.4.w4](../bbugyi200.athena.sase-b7.4.w4/README.md) | sase-b7.4 hood | active |
-| [sase-b7.4.w6](../bbugyi200.athena.sase-b7.4.w6/README.md) | sase-b7.4 hood | active |
-| [sase-b7.4.w7](../bbugyi200.athena.sase-b7.4.w7/README.md) | sase-b7.4 hood | active |
-| [sase-b7.1](../bbugyi200.athena.sase-b7.1/README.md) | sase-b7 hood | active |
-| [sase-b7.2](../bbugyi200.athena.sase-b7.2/README.md) | sase-b7 hood | active |
-| [sase-b7.3](../bbugyi200.athena.sase-b7.3/README.md) | sase-b7 hood | active |
-| [sase-b7.5](../bbugyi200.athena.sase-b7.5/README.md) | sase-b7 hood | active |
-| [sase-b7.land](../../sessions/bbugyi200.athena.sase-b7.land.md) (session · 2) | sase-b7 hood | active 2 |
+| [sase-b7.4](../bbugyi200.athena.sase-b7.4/README.md) | ancestor | dismissed |
+| [sase-b7.4.w4](../bbugyi200.athena.sase-b7.4.w4/README.md) | sase-b7.4 hood | dismissed |
+| [sase-b7.4.w6](../bbugyi200.athena.sase-b7.4.w6/README.md) | sase-b7.4 hood | dismissed |
+| [sase-b7.4.w7](../bbugyi200.athena.sase-b7.4.w7/README.md) | sase-b7.4 hood | dismissed |
+| [sase-b7.1](../bbugyi200.athena.sase-b7.1/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.2](../bbugyi200.athena.sase-b7.2/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.3](../bbugyi200.athena.sase-b7.3/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.5](../bbugyi200.athena.sase-b7.5/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.land](../../sessions/bbugyi200.athena.sase-b7.land.md) (session · 2) | sase-b7 hood | active 1, dismissed 1 |

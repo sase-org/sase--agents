@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-b3](../../users/bbugyi200/machines/athena/hoods/sase-b3/README.md) / sase-b3.7
 
-**Global name:** `bbugyi200.athena.sase-b3.7` · **State:** active · **Source run:** `run-6fa16810a6d257572ef8ed3a7ee5fffb`
+**Global name:** `bbugyi200.athena.sase-b3.7` · **State:** dismissed · **Source run:** `run-6fa16810a6d257572ef8ed3a7ee5fffb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-b3
 
@@ -12,7 +12,7 @@
 - Epic: [sase-b3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-b3/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-30T09:32:33.920144+00:00
+- Timing: 2026-07-30T05:32:33.920144 → 2026-07-30T05:54:00.747188
 - Commits: [1](#commits)
 
 ## Files
@@ -23,23 +23,23 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b6b51f2`](https://github.com/sase-org/sase/commit/b6b51f2399df191dc5a926a26a3040a74bda3b03) | feat(tui): highlight fuzzy artifact reference matches | 2026-07-30 05:53:01 EDT |
+| — | `b6b51f2` | feat(tui): highlight fuzzy artifact reference matches | 2026-07-30 05:53:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b3.1](../bbugyi200.athena.sase-b3.1/README.md) | sase-b3 hood | active |
-| [sase-b3.10.1](../bbugyi200.athena.sase-b3.10.1/README.md) | sase-b3 hood | active |
-| [sase-b3.10.2](../bbugyi200.athena.sase-b3.10.2/README.md) | sase-b3 hood | active |
-| [sase-b3.10.3](../bbugyi200.athena.sase-b3.10.3/README.md) | sase-b3 hood | active |
-| [sase-b3.10.4](../bbugyi200.athena.sase-b3.10.4/README.md) | sase-b3 hood | active |
-| [sase-b3.10.land](../../sessions/bbugyi200.athena.sase-b3.10.land.md) (session · 2) | sase-b3 hood | active 1, completed 1 |
-| [sase-b3.2](../bbugyi200.athena.sase-b3.2/README.md) | sase-b3 hood | active |
-| [sase-b3.3](../bbugyi200.athena.sase-b3.3/README.md) | sase-b3 hood | active |
-| [sase-b3.4](../bbugyi200.athena.sase-b3.4/README.md) | sase-b3 hood | active |
-| [sase-b3.5](../bbugyi200.athena.sase-b3.5/README.md) | sase-b3 hood | active |
-| [sase-b3.6](../bbugyi200.athena.sase-b3.6/README.md) | sase-b3 hood | active |
-| [sase-b3.8](../bbugyi200.athena.sase-b3.8/README.md) | sase-b3 hood | active |
-| [sase-b3.9](../bbugyi200.athena.sase-b3.9/README.md) | sase-b3 hood | active |
-| [sase-b3.land](../bbugyi200.athena.sase-b3.land/README.md) | sase-b3 hood | active |
+| [sase-b3.1](../bbugyi200.athena.sase-b3.1/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.10.1](../bbugyi200.athena.sase-b3.10.1/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.10.2](../bbugyi200.athena.sase-b3.10.2/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.10.3](../bbugyi200.athena.sase-b3.10.3/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.10.4](../bbugyi200.athena.sase-b3.10.4/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.10.land](../../sessions/bbugyi200.athena.sase-b3.10.land.md) (session · 2) | sase-b3 hood | completed 1, dismissed 1 |
+| [sase-b3.2](../bbugyi200.athena.sase-b3.2/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.3](../bbugyi200.athena.sase-b3.3/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.4](../bbugyi200.athena.sase-b3.4/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.5](../bbugyi200.athena.sase-b3.5/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.6](../bbugyi200.athena.sase-b3.6/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.8](../bbugyi200.athena.sase-b3.8/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.9](../bbugyi200.athena.sase-b3.9/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.land](../bbugyi200.athena.sase-b3.land/README.md) | sase-b3 hood | dismissed |

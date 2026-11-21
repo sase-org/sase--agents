@@ -22,19 +22,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a78894e`](https://github.com/sase-org/sase/commit/a78894e7c409ce576b873af1526570b71d367cce) | fix: resolve artifact entities for workspace projects | 2026-07-30 00:12:07 EDT |
+| — | `a78894e` | fix: resolve artifact entities for workspace projects | 2026-07-30 00:12:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b2.1](../bbugyi200.athena.sase-b2.1/README.md) | sase-b2 hood | active |
-| [sase-b2.2](../bbugyi200.athena.sase-b2.2/README.md) | sase-b2 hood | active |
-| [sase-b2.3](../bbugyi200.athena.sase-b2.3/README.md) | sase-b2 hood | active |
-| [sase-b2.4](../bbugyi200.athena.sase-b2.4/README.md) | sase-b2 hood | active |
-| [sase-b2.5](../bbugyi200.athena.sase-b2.5/README.md) | sase-b2 hood | active |
-| [sase-b2.6](../bbugyi200.athena.sase-b2.6/README.md) | sase-b2 hood | active |
-| [sase-b2.7](../bbugyi200.athena.sase-b2.7/README.md) | sase-b2 hood | active |
-| [sase-b2.8](../bbugyi200.athena.sase-b2.8/README.md) | sase-b2 hood | active |
-| [sase-b2.9](../bbugyi200.athena.sase-b2.9/README.md) | sase-b2 hood | active |
-| [sase-b2.9.w0](../bbugyi200.athena.sase-b2.9.w0/README.md) | sase-b2 hood | active |
+| [sase-b2.1](../bbugyi200.athena.sase-b2.1/README.md) | sase-b2 hood | dismissed |
+| [sase-b2.2](../bbugyi200.athena.sase-b2.2/README.md) | sase-b2 hood | dismissed |
+| [sase-b2.3](../bbugyi200.athena.sase-b2.3/README.md) | sase-b2 hood | dismissed |
+| [sase-b2.4](../bbugyi200.athena.sase-b2.4/README.md) | sase-b2 hood | dismissed |
+| [sase-b2.5](../bbugyi200.athena.sase-b2.5/README.md) | sase-b2 hood | dismissed |
+| [sase-b2.6](../bbugyi200.athena.sase-b2.6/README.md) | sase-b2 hood | dismissed |
+| [sase-b2.7](../bbugyi200.athena.sase-b2.7/README.md) | sase-b2 hood | dismissed |
+| [sase-b2.8](../bbugyi200.athena.sase-b2.8/README.md) | sase-b2 hood | dismissed |
+| [sase-b2.9](../bbugyi200.athena.sase-b2.9/README.md) | sase-b2 hood | dismissed |
+| [sase-b2.9.w0](../bbugyi200.athena.sase-b2.9.w0/README.md) | sase-b2 hood | dismissed |

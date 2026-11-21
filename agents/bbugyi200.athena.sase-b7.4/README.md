@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-b7](../../users/bbugyi200/machines/athena/hoods/sase-b7/README.md) / sase-b7.4
 
-**Global name:** `bbugyi200.athena.sase-b7.4` · **State:** active · **Source run:** `run-c51ec24f96a9f3d36ba1f7cabd444a6d`
+**Global name:** `bbugyi200.athena.sase-b7.4` · **State:** dismissed · **Source run:** `run-c51ec24f96a9f3d36ba1f7cabd444a6d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-b7
 
@@ -12,7 +12,7 @@
 - Epic: [sase-b7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-b7/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-30T13:49:55.273234+00:00
+- Timing: 2026-07-30T09:49:55.273234 → 2026-07-30T10:22:03.289394
 - Commits: [1](#commits)
 
 ## Files
@@ -23,18 +23,18 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`94daa1e`](https://github.com/sase-org/sase/commit/94daa1ebdcff2d3adf11c24599d04807f8a5a03a) | feat(artifacts): wire VCS-backed default capture | 2026-07-30 10:20:33 EDT |
+| — | `94daa1e` | feat(artifacts): wire VCS-backed default capture | 2026-07-30 10:20:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b7.4.w4](../bbugyi200.athena.sase-b7.4.w4/README.md) | descendant | active |
-| [sase-b7.4.w5](../../sessions/bbugyi200.athena.sase-b7.4.w5.md) (session · 2) | descendant | active 2 |
-| [sase-b7.4.w6](../bbugyi200.athena.sase-b7.4.w6/README.md) | descendant | active |
-| [sase-b7.4.w7](../bbugyi200.athena.sase-b7.4.w7/README.md) | descendant | active |
-| [sase-b7.1](../bbugyi200.athena.sase-b7.1/README.md) | sase-b7 hood | active |
-| [sase-b7.2](../bbugyi200.athena.sase-b7.2/README.md) | sase-b7 hood | active |
-| [sase-b7.3](../bbugyi200.athena.sase-b7.3/README.md) | sase-b7 hood | active |
-| [sase-b7.5](../bbugyi200.athena.sase-b7.5/README.md) | sase-b7 hood | active |
-| [sase-b7.land](../../sessions/bbugyi200.athena.sase-b7.land.md) (session · 2) | sase-b7 hood | active 2 |
+| [sase-b7.4.w4](../bbugyi200.athena.sase-b7.4.w4/README.md) | descendant | dismissed |
+| [sase-b7.4.w5](../../sessions/bbugyi200.athena.sase-b7.4.w5.md) (session · 2) | descendant | active 1, dismissed 1 |
+| [sase-b7.4.w6](../bbugyi200.athena.sase-b7.4.w6/README.md) | descendant | dismissed |
+| [sase-b7.4.w7](../bbugyi200.athena.sase-b7.4.w7/README.md) | descendant | dismissed |
+| [sase-b7.1](../bbugyi200.athena.sase-b7.1/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.2](../bbugyi200.athena.sase-b7.2/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.3](../bbugyi200.athena.sase-b7.3/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.5](../bbugyi200.athena.sase-b7.5/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.land](../../sessions/bbugyi200.athena.sase-b7.land.md) (session · 2) | sase-b7 hood | active 1, dismissed 1 |

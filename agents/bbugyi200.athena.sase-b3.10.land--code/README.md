@@ -22,23 +22,23 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`02de1fd`](https://github.com/sase-org/sase/commit/02de1fd2aceb105419a188fa9cd1d46c53782d7c) | build(deps): require sase-core-rs 0.12.19 | 2026-07-30 08:30:20 EDT |
+| — | `02de1fd` | build(deps): require sase-core-rs 0.12.19 | 2026-07-30 08:30:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b3.10.1](../bbugyi200.athena.sase-b3.10.1/README.md) | sase-b3.10 hood | active |
-| [sase-b3.10.2](../bbugyi200.athena.sase-b3.10.2/README.md) | sase-b3.10 hood | active |
-| [sase-b3.10.3](../bbugyi200.athena.sase-b3.10.3/README.md) | sase-b3.10 hood | active |
-| [sase-b3.10.4](../bbugyi200.athena.sase-b3.10.4/README.md) | sase-b3.10 hood | active |
-| [sase-b3.1](../bbugyi200.athena.sase-b3.1/README.md) | sase-b3 hood | active |
-| [sase-b3.2](../bbugyi200.athena.sase-b3.2/README.md) | sase-b3 hood | active |
-| [sase-b3.3](../bbugyi200.athena.sase-b3.3/README.md) | sase-b3 hood | active |
-| [sase-b3.4](../bbugyi200.athena.sase-b3.4/README.md) | sase-b3 hood | active |
-| [sase-b3.5](../bbugyi200.athena.sase-b3.5/README.md) | sase-b3 hood | active |
-| [sase-b3.6](../bbugyi200.athena.sase-b3.6/README.md) | sase-b3 hood | active |
-| [sase-b3.7](../bbugyi200.athena.sase-b3.7/README.md) | sase-b3 hood | active |
-| [sase-b3.8](../bbugyi200.athena.sase-b3.8/README.md) | sase-b3 hood | active |
-| [sase-b3.9](../bbugyi200.athena.sase-b3.9/README.md) | sase-b3 hood | active |
-| [sase-b3.land](../bbugyi200.athena.sase-b3.land/README.md) | sase-b3 hood | active |
+| [sase-b3.10.1](../bbugyi200.athena.sase-b3.10.1/README.md) | sase-b3.10 hood | dismissed |
+| [sase-b3.10.2](../bbugyi200.athena.sase-b3.10.2/README.md) | sase-b3.10 hood | dismissed |
+| [sase-b3.10.3](../bbugyi200.athena.sase-b3.10.3/README.md) | sase-b3.10 hood | dismissed |
+| [sase-b3.10.4](../bbugyi200.athena.sase-b3.10.4/README.md) | sase-b3.10 hood | dismissed |
+| [sase-b3.1](../bbugyi200.athena.sase-b3.1/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.2](../bbugyi200.athena.sase-b3.2/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.3](../bbugyi200.athena.sase-b3.3/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.4](../bbugyi200.athena.sase-b3.4/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.5](../bbugyi200.athena.sase-b3.5/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.6](../bbugyi200.athena.sase-b3.6/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.7](../bbugyi200.athena.sase-b3.7/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.8](../bbugyi200.athena.sase-b3.8/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.9](../bbugyi200.athena.sase-b3.9/README.md) | sase-b3 hood | dismissed |
+| [sase-b3.land](../bbugyi200.athena.sase-b3.land/README.md) | sase-b3 hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-b7](../../users/bbugyi200/machines/athena/hoods/sase-b7/README.md) / sase-b7.1
 
-**Global name:** `bbugyi200.athena.sase-b7.1` · **State:** active · **Source run:** `run-26294ffc2db5618cd208ba1e9dde3bac`
+**Global name:** `bbugyi200.athena.sase-b7.1` · **State:** dismissed · **Source run:** `run-26294ffc2db5618cd208ba1e9dde3bac`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-b7
 
@@ -12,7 +12,7 @@
 - Epic: [sase-b7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-b7/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-30T12:54:41.037122+00:00
+- Timing: 2026-07-30T08:54:41.037122 → 2026-07-30T09:23:28.271294
 - Commits: 0
 
 ## Files
@@ -23,12 +23,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b7.2](../bbugyi200.athena.sase-b7.2/README.md) | sase-b7 hood | active |
-| [sase-b7.3](../bbugyi200.athena.sase-b7.3/README.md) | sase-b7 hood | active |
-| [sase-b7.4](../bbugyi200.athena.sase-b7.4/README.md) | sase-b7 hood | active |
-| [sase-b7.4.w4](../bbugyi200.athena.sase-b7.4.w4/README.md) | sase-b7 hood | active |
-| [sase-b7.4.w5](../../sessions/bbugyi200.athena.sase-b7.4.w5.md) (session · 2) | sase-b7 hood | active 2 |
-| [sase-b7.4.w6](../bbugyi200.athena.sase-b7.4.w6/README.md) | sase-b7 hood | active |
-| [sase-b7.4.w7](../bbugyi200.athena.sase-b7.4.w7/README.md) | sase-b7 hood | active |
-| [sase-b7.5](../bbugyi200.athena.sase-b7.5/README.md) | sase-b7 hood | active |
-| [sase-b7.land](../../sessions/bbugyi200.athena.sase-b7.land.md) (session · 2) | sase-b7 hood | active 2 |
+| [sase-b7.2](../bbugyi200.athena.sase-b7.2/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.3](../bbugyi200.athena.sase-b7.3/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.4](../bbugyi200.athena.sase-b7.4/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.4.w4](../bbugyi200.athena.sase-b7.4.w4/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.4.w5](../../sessions/bbugyi200.athena.sase-b7.4.w5.md) (session · 2) | sase-b7 hood | active 1, dismissed 1 |
+| [sase-b7.4.w6](../bbugyi200.athena.sase-b7.4.w6/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.4.w7](../bbugyi200.athena.sase-b7.4.w7/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.5](../bbugyi200.athena.sase-b7.5/README.md) | sase-b7 hood | dismissed |
+| [sase-b7.land](../../sessions/bbugyi200.athena.sase-b7.land.md) (session · 2) | sase-b7 hood | active 1, dismissed 1 |

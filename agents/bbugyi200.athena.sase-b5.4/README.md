@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-b5](../../users/bbugyi200/machines/athena/hoods/sase-b5/README.md) / sase-b5.4
 
-**Global name:** `bbugyi200.athena.sase-b5.4` · **State:** active · **Source run:** `run-77eb20ca7a49a4e2ae359347bef8f975`
+**Global name:** `bbugyi200.athena.sase-b5.4` · **State:** dismissed · **Source run:** `run-77eb20ca7a49a4e2ae359347bef8f975`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-b5
 
@@ -12,7 +12,7 @@
 - Epic: [sase-b5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-b5/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-30T12:40:31.802399+00:00
+- Timing: 2026-07-30T08:40:31.802399 → 2026-07-30T09:14:20.347217
 - Commits: [1](#commits)
 
 ## Files
@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8e7120e`](https://github.com/sase-org/sase/commit/8e7120ebe048dca1737c71592100244c8a52dc93) | feat(bead-pages): associate commits across project repositories | 2026-07-30 09:13:45 EDT |
+| — | `8e7120e` | feat(bead-pages): associate commits across project repositories | 2026-07-30 09:13:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b5.4.w0.w0](../bbugyi200.athena.sase-b5.4.w0.w0/README.md) | descendant | active |
-| [sase-b5.4.w1](../../sessions/bbugyi200.athena.sase-b5.4.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [sase-b5.1](../bbugyi200.athena.sase-b5.1/README.md) | sase-b5 hood | active |
-| [sase-b5.2](../bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | active |
-| [sase-b5.3](../bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | active |
-| [sase-b5.5](../bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | active |
-| [sase-b5.land](../bbugyi200.athena.sase-b5.land/README.md) | sase-b5 hood | active |
+| [sase-b5.4.w0.w0](../bbugyi200.athena.sase-b5.4.w0.w0/README.md) | descendant | dismissed |
+| [sase-b5.4.w1](../../sessions/bbugyi200.athena.sase-b5.4.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [sase-b5.1](../bbugyi200.athena.sase-b5.1/README.md) | sase-b5 hood | dismissed |
+| [sase-b5.2](../bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | dismissed |
+| [sase-b5.3](../bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | dismissed |
+| [sase-b5.5](../bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | dismissed |
+| [sase-b5.land](../bbugyi200.athena.sase-b5.land/README.md) | sase-b5 hood | dismissed |

@@ -21,16 +21,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63d0ca5`](https://github.com/sase-org/sase/commit/63d0ca504d48b8daed6702e38d79443d77af44cb) | feat: show repository names in commit tables | 2026-07-30 09:44:26 EDT |
+| — | `63d0ca5` | feat: show repository names in commit tables | 2026-07-30 09:44:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b5.4](../bbugyi200.athena.sase-b5.4/README.md) | ancestor | active |
-| [sase-b5.4.w0.w0](../bbugyi200.athena.sase-b5.4.w0.w0/README.md) | sase-b5.4 hood | active |
-| [sase-b5.1](../bbugyi200.athena.sase-b5.1/README.md) | sase-b5 hood | active |
-| [sase-b5.2](../bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | active |
-| [sase-b5.3](../bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | active |
-| [sase-b5.5](../bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | active |
-| [sase-b5.land](../bbugyi200.athena.sase-b5.land/README.md) | sase-b5 hood | active |
+| [sase-b5.4](../bbugyi200.athena.sase-b5.4/README.md) | ancestor | dismissed |
+| [sase-b5.4.w0.w0](../bbugyi200.athena.sase-b5.4.w0.w0/README.md) | sase-b5.4 hood | dismissed |
+| [sase-b5.1](../bbugyi200.athena.sase-b5.1/README.md) | sase-b5 hood | dismissed |
+| [sase-b5.2](../bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | dismissed |
+| [sase-b5.3](../bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | dismissed |
+| [sase-b5.5](../bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | dismissed |
+| [sase-b5.land](../bbugyi200.athena.sase-b5.land/README.md) | sase-b5 hood | dismissed |
