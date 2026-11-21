@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5s.final
 
-**Global name:** `bbugyi200.apollo.research.5s.final` · **State:** waiting · **Source run:** `run-f4b81f70ba6d0e6aee7bc0d4ce31f4ab`
+**Global name:** `bbugyi200.apollo.research.5s.final` · **State:** completed · **Source run:** `run-f4b81f70ba6d0e6aee7bc0d4ce31f4ab`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261121172610
+- Timing: 2026-11-21T22:44:38.589233+00:00 → 2026-11-21T23:17:21.910695+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/prompt\_composer\_glossary\_term/prompt\_composer\_glossary\_term\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261121172610/prompt\_compos… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/prompt_composer_glossary_term/prompt_composer_glossary_term__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261121172610/prompt_composer_glossary_term__final-f2cd5257f828.md
+  ref: file:explicit:52396d3ccc4cfc9ff49617ae
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202611/prompt_composer_glossary_term/prompt_composer_glossary_term__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
