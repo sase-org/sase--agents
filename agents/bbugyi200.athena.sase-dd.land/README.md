@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-dd](../../users/bbugyi200/machines/athena/hoods/sase-dd/README.md) / sase-dd.land
 
-**Global name:** `bbugyi200.athena.sase-dd.land` · **State:** active · **Source run:** `run-9bcb93059171877e465861de95107a03`
+**Global name:** `bbugyi200.athena.sase-dd.land` · **State:** dismissed · **Source run:** `run-9bcb93059171877e465861de95107a03`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-dd
 
@@ -11,7 +11,7 @@
 - Bead: [sase-dd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-dd/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-01T18:21:34.792628+00:00
+- Timing: 2026-08-01T14:21:34.792628 → 2026-08-01T14:45:46.840147
 - Commits: 0
 
 ## Files
@@ -22,10 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-dd.1](../bbugyi200.athena.sase-dd.1/README.md) | sase-dd hood | active |
-| [sase-dd.2](../bbugyi200.athena.sase-dd.2/README.md) | sase-dd hood | active |
-| [sase-dd.3](../bbugyi200.athena.sase-dd.3/README.md) | sase-dd hood | active |
-| [sase-dd.4](../bbugyi200.athena.sase-dd.4/README.md) | sase-dd hood | active |
-| [sase-dd.5](../bbugyi200.athena.sase-dd.5/README.md) | sase-dd hood | active |
-| [sase-dd.6](../bbugyi200.athena.sase-dd.6/README.md) | sase-dd hood | active |
-| [sase-dd.7](../bbugyi200.athena.sase-dd.7/README.md) | sase-dd hood | active |
+| [sase-dd.1](../bbugyi200.athena.sase-dd.1/README.md) | sase-dd hood | dismissed |
+| [sase-dd.2](../bbugyi200.athena.sase-dd.2/README.md) | sase-dd hood | dismissed |
+| [sase-dd.3](../bbugyi200.athena.sase-dd.3/README.md) | sase-dd hood | dismissed |
+| [sase-dd.4](../bbugyi200.athena.sase-dd.4/README.md) | sase-dd hood | dismissed |
+| [sase-dd.5](../bbugyi200.athena.sase-dd.5/README.md) | sase-dd hood | dismissed |
+| [sase-dd.6](../bbugyi200.athena.sase-dd.6/README.md) | sase-dd hood | dismissed |
+| [sase-dd.7](../bbugyi200.athena.sase-dd.7/README.md) | sase-dd hood | dismissed |

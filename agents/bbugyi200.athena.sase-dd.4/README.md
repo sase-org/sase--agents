@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-dd](../../users/bbugyi200/machines/athena/hoods/sase-dd/README.md) / sase-dd.4
 
-**Global name:** `bbugyi200.athena.sase-dd.4` · **State:** active · **Source run:** `run-3094fb2b7249f764555ae8d722df4509`
+**Global name:** `bbugyi200.athena.sase-dd.4` · **State:** dismissed · **Source run:** `run-3094fb2b7249f764555ae8d722df4509`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-dd
 
@@ -12,7 +12,7 @@
 - Epic: [sase-dd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-dd/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-01T15:38:50.928793+00:00
+- Timing: 2026-08-01T11:38:50.928793 → 2026-08-01T12:25:45.857907
 - Commits: [1](#commits)
 
 ## Files
@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eb3433e`](https://github.com/sase-org/sase/commit/eb3433ec94119a9765beae732e8b562f0ff0aee7) | feat(tui): add Beads mutation workflows | 2026-08-01 12:25:01 EDT |
+| — | `eb3433e` | feat(tui): add Beads mutation workflows | 2026-08-01 12:25:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-dd.1](../bbugyi200.athena.sase-dd.1/README.md) | sase-dd hood | active |
-| [sase-dd.2](../bbugyi200.athena.sase-dd.2/README.md) | sase-dd hood | active |
-| [sase-dd.3](../bbugyi200.athena.sase-dd.3/README.md) | sase-dd hood | active |
-| [sase-dd.5](../bbugyi200.athena.sase-dd.5/README.md) | sase-dd hood | active |
-| [sase-dd.6](../bbugyi200.athena.sase-dd.6/README.md) | sase-dd hood | active |
-| [sase-dd.7](../bbugyi200.athena.sase-dd.7/README.md) | sase-dd hood | active |
-| [sase-dd.land](../bbugyi200.athena.sase-dd.land/README.md) | sase-dd hood | active |
+| [sase-dd.1](../bbugyi200.athena.sase-dd.1/README.md) | sase-dd hood | dismissed |
+| [sase-dd.2](../bbugyi200.athena.sase-dd.2/README.md) | sase-dd hood | dismissed |
+| [sase-dd.3](../bbugyi200.athena.sase-dd.3/README.md) | sase-dd hood | dismissed |
+| [sase-dd.5](../bbugyi200.athena.sase-dd.5/README.md) | sase-dd hood | dismissed |
+| [sase-dd.6](../bbugyi200.athena.sase-dd.6/README.md) | sase-dd hood | dismissed |
+| [sase-dd.7](../bbugyi200.athena.sase-dd.7/README.md) | sase-dd hood | dismissed |
+| [sase-dd.land](../bbugyi200.athena.sase-dd.land/README.md) | sase-dd hood | dismissed |
