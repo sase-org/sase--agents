@@ -12,17 +12,36 @@
 - Provider: grok
 - Timing: 2026-11-21T22:28:27.258030+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/prompt\_input\_widget\_naming\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261121172607/prompt\_input\_widget\_naming\_\_grk-e81ead1a9eb1.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/prompt_input_widget_naming__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261121172607/prompt_input_widget_naming__grk-e81ead1a9eb1.md
+  ref: file:explicit:b47d5b0be4dc4c3039df456c
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/prompt_input_widget_naming__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5s.cdx](../bbugyi200.apollo.research.5s.cdx/README.md) | research.5s hood | active |
-| [research.5s.cld](../bbugyi200.apollo.research.5s.cld/README.md) | research.5s hood | active |
+| [research.5s.cdx](../bbugyi200.apollo.research.5s.cdx/README.md) | research.5s hood | completed |
+| [research.5s.cld](../bbugyi200.apollo.research.5s.cld/README.md) | research.5s hood | completed |
 | [research.5s.final](../bbugyi200.apollo.research.5s.final/README.md) | research.5s hood | waiting |
 | [research.5s.gem](../bbugyi200.apollo.research.5s.gem/README.md) | research.5s hood | active |
 | [research.5s.image](../bbugyi200.apollo.research.5s.image/README.md) | research.5s hood | waiting |
