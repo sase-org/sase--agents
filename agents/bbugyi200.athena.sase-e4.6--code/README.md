@@ -19,9 +19,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-e4.1](../bbugyi200.athena.sase-e4.1/README.md) | sase-e4 hood | active |
-| [sase-e4.2](../bbugyi200.athena.sase-e4.2/README.md) | sase-e4 hood | waiting |
-| [sase-e4.3](../bbugyi200.athena.sase-e4.3/README.md) | sase-e4 hood | waiting |
-| [sase-e4.4](../bbugyi200.athena.sase-e4.4/README.md) | sase-e4 hood | waiting |
-| [sase-e4.5](../bbugyi200.athena.sase-e4.5/README.md) | sase-e4 hood | active |
-| [sase-e4.land](../bbugyi200.athena.sase-e4.land/README.md) | sase-e4 hood | waiting |
+| [sase-e4.1](../bbugyi200.athena.sase-e4.1/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.2](../bbugyi200.athena.sase-e4.2/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.3](../bbugyi200.athena.sase-e4.3/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.4](../bbugyi200.athena.sase-e4.4/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.5](../bbugyi200.athena.sase-e4.5/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.land](../bbugyi200.athena.sase-e4.land/README.md) | sase-e4 hood | dismissed |

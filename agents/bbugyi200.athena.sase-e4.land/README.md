@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-e4](../../users/bbugyi200/machines/athena/hoods/sase-e4/README.md) / sase-e4.land
 
-**Global name:** `bbugyi200.athena.sase-e4.land` · **State:** waiting · **Source run:** `run-bdf2ae27559b1094f0f4829abbf47be3`
+**Global name:** `bbugyi200.athena.sase-e4.land` · **State:** dismissed · **Source run:** `run-bdf2ae27559b1094f0f4829abbf47be3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-e4
 
@@ -11,7 +11,7 @@
 - Bead: [sase-e4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-e4/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260802091950
+- Timing: 2026-08-02T09:19:50
 - Commits: 0
 
 ## Files
@@ -22,9 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-e4.1](../bbugyi200.athena.sase-e4.1/README.md) | sase-e4 hood | active |
-| [sase-e4.2](../bbugyi200.athena.sase-e4.2/README.md) | sase-e4 hood | waiting |
-| [sase-e4.3](../bbugyi200.athena.sase-e4.3/README.md) | sase-e4 hood | waiting |
-| [sase-e4.4](../bbugyi200.athena.sase-e4.4/README.md) | sase-e4 hood | waiting |
-| [sase-e4.5](../bbugyi200.athena.sase-e4.5/README.md) | sase-e4 hood | active |
-| [sase-e4.6](../../sessions/bbugyi200.athena.sase-e4.6.md) (session · 2) | sase-e4 hood | active 2 |
+| [sase-e4.1](../bbugyi200.athena.sase-e4.1/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.2](../bbugyi200.athena.sase-e4.2/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.3](../bbugyi200.athena.sase-e4.3/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.4](../bbugyi200.athena.sase-e4.4/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.5](../bbugyi200.athena.sase-e4.5/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.6](../../sessions/bbugyi200.athena.sase-e4.6.md) (session · 2) | sase-e4 hood | active 1, dismissed 1 |

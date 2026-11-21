@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-e6](../../users/bbugyi200/machines/athena/hoods/sase-e6/README.md) / sase-e6.3
 
-**Global name:** `bbugyi200.athena.sase-e6.3` · **State:** active · **Source run:** `run-c92291f3ee9ade13e61ba778a1f0b772`
+**Global name:** `bbugyi200.athena.sase-e6.3` · **State:** dismissed · **Source run:** `run-c92291f3ee9ade13e61ba778a1f0b772`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-e6
 
@@ -12,7 +12,7 @@
 - Epic: [sase-e6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-e6/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-02T14:36:11.990178+00:00
+- Timing: 2026-08-02T10:36:11.990178 → 2026-08-02T11:19:37.537482
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e309358`](https://github.com/sase-org/sase/commit/e30935808ba50079c927c2c54130c4b155b9d0e1) | feat(xprompt): resolve hosted URLs for captured definition provenance | 2026-08-02 11:17:15 EDT |
+| — | `e309358` | feat(xprompt): resolve hosted URLs for captured definition provenance | 2026-08-02 11:17:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-e6.1](../bbugyi200.athena.sase-e6.1/README.md) | sase-e6 hood | active |
-| [sase-e6.2](../bbugyi200.athena.sase-e6.2/README.md) | sase-e6 hood | active |
-| [sase-e6.4](../bbugyi200.athena.sase-e6.4/README.md) | sase-e6 hood | active |
-| [sase-e6.5](../bbugyi200.athena.sase-e6.5/README.md) | sase-e6 hood | active |
-| [sase-e6.6](../bbugyi200.athena.sase-e6.6/README.md) | sase-e6 hood | active |
-| [sase-e6.land](../bbugyi200.athena.sase-e6.land/README.md) | sase-e6 hood | active |
+| [sase-e6.1](../bbugyi200.athena.sase-e6.1/README.md) | sase-e6 hood | dismissed |
+| [sase-e6.2](../bbugyi200.athena.sase-e6.2/README.md) | sase-e6 hood | dismissed |
+| [sase-e6.4](../bbugyi200.athena.sase-e6.4/README.md) | sase-e6 hood | dismissed |
+| [sase-e6.5](../bbugyi200.athena.sase-e6.5/README.md) | sase-e6 hood | dismissed |
+| [sase-e6.6](../bbugyi200.athena.sase-e6.6/README.md) | sase-e6 hood | dismissed |
+| [sase-e6.land](../bbugyi200.athena.sase-e6.land/README.md) | sase-e6 hood | dismissed |

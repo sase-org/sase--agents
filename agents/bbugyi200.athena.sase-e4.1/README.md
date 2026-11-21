@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-e4](../../users/bbugyi200/machines/athena/hoods/sase-e4/README.md) / sase-e4.1
 
-**Global name:** `bbugyi200.athena.sase-e4.1` · **State:** active · **Source run:** `run-8332f80b1525c576e73749a25ffdf103`
+**Global name:** `bbugyi200.athena.sase-e4.1` · **State:** dismissed · **Source run:** `run-8332f80b1525c576e73749a25ffdf103`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-e4
 
@@ -12,7 +12,7 @@
 - Epic: [sase-e4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-e4/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-02T13:20:00.220666+00:00
+- Timing: 2026-08-02T09:20:00.220666
 - Commits: 0
 
 ## Files
@@ -23,9 +23,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-e4.2](../bbugyi200.athena.sase-e4.2/README.md) | sase-e4 hood | waiting |
-| [sase-e4.3](../bbugyi200.athena.sase-e4.3/README.md) | sase-e4 hood | waiting |
-| [sase-e4.4](../bbugyi200.athena.sase-e4.4/README.md) | sase-e4 hood | waiting |
-| [sase-e4.5](../bbugyi200.athena.sase-e4.5/README.md) | sase-e4 hood | active |
-| [sase-e4.6](../../sessions/bbugyi200.athena.sase-e4.6.md) (session · 2) | sase-e4 hood | active 2 |
-| [sase-e4.land](../bbugyi200.athena.sase-e4.land/README.md) | sase-e4 hood | waiting |
+| [sase-e4.2](../bbugyi200.athena.sase-e4.2/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.3](../bbugyi200.athena.sase-e4.3/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.4](../bbugyi200.athena.sase-e4.4/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.5](../bbugyi200.athena.sase-e4.5/README.md) | sase-e4 hood | dismissed |
+| [sase-e4.6](../../sessions/bbugyi200.athena.sase-e4.6.md) (session · 2) | sase-e4 hood | active 1, dismissed 1 |
+| [sase-e4.land](../bbugyi200.athena.sase-e4.land/README.md) | sase-e4 hood | dismissed |
