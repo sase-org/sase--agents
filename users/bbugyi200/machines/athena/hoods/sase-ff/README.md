@@ -2,8 +2,8 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-ff
 
-**Global hood:** `bbugyi200.athena.sase-ff` · **Runs:** 1 · **Sessions:** 0 · **States:** active 1
+**Global hood:** `bbugyi200.athena.sase-ff` · **Runs:** 1 · **Sessions:** 0 · **States:** dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-ff](../../../../../../agents/bbugyi200.athena.sase-ff/README.md) | active | sonnet / claude | 2026-08-05T22:23:37.793511+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-ff/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ff/prompt.md) |
+| [sase-ff](../../../../../../agents/bbugyi200.athena.sase-ff/README.md) | dismissed | sonnet / claude | 2026-08-05T18:23:37.793511 → 2026-08-05T18:34:16.556933 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-ff/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ff/prompt.md) |

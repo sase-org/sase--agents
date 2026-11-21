@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fc](../../users/bbugyi200/machines/athena/hoods/sase-fc/README.md) / sase-fc.3
 
-**Global name:** `bbugyi200.athena.sase-fc.3` · **State:** active · **Source run:** `run-952f6ac402d5be6fcb67526c79dd9e6a`
+**Global name:** `bbugyi200.athena.sase-fc.3` · **State:** dismissed · **Source run:** `run-952f6ac402d5be6fcb67526c79dd9e6a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-fc
 
@@ -12,7 +12,7 @@
 - Epic: [sase-fc](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fc/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-05T20:50:41.232587+00:00
+- Timing: 2026-08-05T16:50:41.232587 → 2026-08-05T17:41:00.041162
 - Commits: [1](#commits)
 
 ## Files
@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8065b58`](https://github.com/sase-org/sase/commit/8065b58c411b2ec5bd7bbb2caa54c718d22c74c1) | feat(bead): show bead creation time on task triage gates | 2026-08-05 17:37:15 EDT |
+| — | `8065b58` | feat(bead): show bead creation time on task triage gates | 2026-08-05 17:37:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fc.1](../bbugyi200.athena.sase-fc.1/README.md) | sase-fc hood | active |
-| [sase-fc.2](../bbugyi200.athena.sase-fc.2/README.md) | sase-fc hood | active |
-| [sase-fc.4](../bbugyi200.athena.sase-fc.4/README.md) | sase-fc hood | active |
-| [sase-fc.5](../bbugyi200.athena.sase-fc.5/README.md) | sase-fc hood | active |
-| [sase-fc.6](../bbugyi200.athena.sase-fc.6/README.md) | sase-fc hood | active |
-| [sase-fc.7](../bbugyi200.athena.sase-fc.7/README.md) | sase-fc hood | active |
-| [sase-fc.land](../bbugyi200.athena.sase-fc.land/README.md) | sase-fc hood | active |
+| [sase-fc.1](../bbugyi200.athena.sase-fc.1/README.md) | sase-fc hood | dismissed |
+| [sase-fc.2](../bbugyi200.athena.sase-fc.2/README.md) | sase-fc hood | dismissed |
+| [sase-fc.4](../bbugyi200.athena.sase-fc.4/README.md) | sase-fc hood | dismissed |
+| [sase-fc.5](../bbugyi200.athena.sase-fc.5/README.md) | sase-fc hood | dismissed |
+| [sase-fc.6](../bbugyi200.athena.sase-fc.6/README.md) | sase-fc hood | dismissed |
+| [sase-fc.7](../bbugyi200.athena.sase-fc.7/README.md) | sase-fc hood | dismissed |
+| [sase-fc.land](../bbugyi200.athena.sase-fc.land/README.md) | sase-fc hood | dismissed |

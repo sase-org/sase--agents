@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fb](../../users/bbugyi200/machines/athena/hoods/sase-fb/README.md) / sase-fb.2
 
-**Global name:** `bbugyi200.athena.sase-fb.2` · **State:** active · **Source run:** `run-c0fde3617132f85a53c004d52f4823e4`
+**Global name:** `bbugyi200.athena.sase-fb.2` · **State:** dismissed · **Source run:** `run-c0fde3617132f85a53c004d52f4823e4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-fb
 
@@ -12,7 +12,7 @@
 - Epic: [sase-fb](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fb/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-05T19:47:54.075377+00:00
+- Timing: 2026-08-05T15:47:54.075377 → 2026-08-05T16:26:46.269590
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d1b6f01`](https://github.com/sase-org/sase/commit/d1b6f01a9e1ae04bb912cb17f360aaafd6b9df25) | fix(axe): refuse to evict workspace sidecar clones holding unpublished bead commits | 2026-08-05 16:25:27 EDT |
+| — | `d1b6f01` | fix(axe): refuse to evict workspace sidecar clones holding unpublished bead commits | 2026-08-05 16:25:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fb.1](../bbugyi200.athena.sase-fb.1/README.md) | sase-fb hood | active |
-| [sase-fb.3](../bbugyi200.athena.sase-fb.3/README.md) | sase-fb hood | active |
-| [sase-fb.3-1](../bbugyi200.athena.sase-fb.3-1/README.md) | sase-fb hood | active |
-| [sase-fb.land](../bbugyi200.athena.sase-fb.land/README.md) | sase-fb hood | active |
+| [sase-fb.1](../bbugyi200.athena.sase-fb.1/README.md) | sase-fb hood | dismissed |
+| [sase-fb.3](../bbugyi200.athena.sase-fb.3/README.md) | sase-fb hood | dismissed |
+| [sase-fb.3-1](../bbugyi200.athena.sase-fb.3-1/README.md) | sase-fb hood | dismissed |
+| [sase-fb.land](../bbugyi200.athena.sase-fb.land/README.md) | sase-fb hood | dismissed |
