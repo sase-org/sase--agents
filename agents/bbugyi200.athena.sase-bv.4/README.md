@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-bv](../../users/bbugyi200/machines/athena/hoods/sase-bv/README.md) / sase-bv.4
 
-**Global name:** `bbugyi200.athena.sase-bv.4` · **State:** active · **Source run:** `run-cd9df9286368262fa110a749394c828e`
+**Global name:** `bbugyi200.athena.sase-bv.4` · **State:** dismissed · **Source run:** `run-cd9df9286368262fa110a749394c828e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-bv
 
@@ -12,7 +12,7 @@
 - Epic: [sase-bv](https://github.com/sase-org/sase--beads/blob/main/pages/sase-bv/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-31T13:13:57.659718+00:00
+- Timing: 2026-07-31T09:13:57.659718 → 2026-07-31T09:52:33.508423
 - Commits: [1](#commits)
 
 ## Files
@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2c15257`](https://github.com/sase-org/sase/commit/2c152578537e50209de8b6e750d4d179182a5e44) | feat(beads): show creator attribution links | 2026-07-31 09:39:42 EDT |
+| — | `2c15257` | feat(beads): show creator attribution links | 2026-07-31 09:39:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-bv.1](../bbugyi200.athena.sase-bv.1/README.md) | sase-bv hood | active |
-| [sase-bv.2](../bbugyi200.athena.sase-bv.2/README.md) | sase-bv hood | active |
-| [sase-bv.3](../bbugyi200.athena.sase-bv.3/README.md) | sase-bv hood | active |
-| [sase-bv.5](../bbugyi200.athena.sase-bv.5/README.md) | sase-bv hood | active |
-| [sase-bv.land](../../sessions/bbugyi200.athena.sase-bv.land.md) (session · 2) | sase-bv hood | active 1, completed 1 |
+| [sase-bv.1](../bbugyi200.athena.sase-bv.1/README.md) | sase-bv hood | dismissed |
+| [sase-bv.2](../bbugyi200.athena.sase-bv.2/README.md) | sase-bv hood | dismissed |
+| [sase-bv.3](../bbugyi200.athena.sase-bv.3/README.md) | sase-bv hood | dismissed |
+| [sase-bv.5](../bbugyi200.athena.sase-bv.5/README.md) | sase-bv hood | dismissed |
+| [sase-bv.land](../../sessions/bbugyi200.athena.sase-bv.land.md) (session · 2) | sase-bv hood | completed 1, dismissed 1 |
