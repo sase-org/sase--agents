@@ -23,20 +23,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6f1a071`](https://github.com/sase-org/sase/commit/6f1a0717f1af3ee11f757a4820822427f5489670) | docs(memory): document two-speed verification contract, fix stale visual-snapshot claim | 2026-08-06 00:03:12 EDT |
+| — | `6f1a071` | docs(memory): document two-speed verification contract, fix stale visual-snapshot claim | 2026-08-06 00:03:12 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fp.1](../bbugyi200.athena.sase-fp.1/README.md) | sase-fp hood | active |
-| [sase-fp.2](../bbugyi200.athena.sase-fp.2/README.md) | sase-fp hood | active |
-| [sase-fp.3](../bbugyi200.athena.sase-fp.3/README.md) | sase-fp hood | active |
-| [sase-fp.4](../bbugyi200.athena.sase-fp.4/README.md) | sase-fp hood | active |
-| [sase-fp.5](../bbugyi200.athena.sase-fp.5/README.md) | sase-fp hood | active |
-| [sase-fp.6](../bbugyi200.athena.sase-fp.6/README.md) | sase-fp hood | active |
-| [sase-fp.8.1](../bbugyi200.athena.sase-fp.8.1/README.md) | sase-fp hood | active |
-| [sase-fp.8.2](../bbugyi200.athena.sase-fp.8.2/README.md) | sase-fp hood | active |
-| [sase-fp.8.3](../bbugyi200.athena.sase-fp.8.3/README.md) | sase-fp hood | active |
-| [sase-fp.8.land](../bbugyi200.athena.sase-fp.8.land/README.md) | sase-fp hood | active |
-| [sase-fp.land](../bbugyi200.athena.sase-fp.land/README.md) | sase-fp hood | active |
+| [sase-fp.1](../bbugyi200.athena.sase-fp.1/README.md) | sase-fp hood | dismissed |
+| [sase-fp.2](../bbugyi200.athena.sase-fp.2/README.md) | sase-fp hood | dismissed |
+| [sase-fp.3](../bbugyi200.athena.sase-fp.3/README.md) | sase-fp hood | dismissed |
+| [sase-fp.4](../bbugyi200.athena.sase-fp.4/README.md) | sase-fp hood | dismissed |
+| [sase-fp.5](../bbugyi200.athena.sase-fp.5/README.md) | sase-fp hood | dismissed |
+| [sase-fp.6](../bbugyi200.athena.sase-fp.6/README.md) | sase-fp hood | dismissed |
+| [sase-fp.8.1](../bbugyi200.athena.sase-fp.8.1/README.md) | sase-fp hood | dismissed |
+| [sase-fp.8.2](../bbugyi200.athena.sase-fp.8.2/README.md) | sase-fp hood | dismissed |
+| [sase-fp.8.3](../bbugyi200.athena.sase-fp.8.3/README.md) | sase-fp hood | dismissed |
+| [sase-fp.8.land](../bbugyi200.athena.sase-fp.8.land/README.md) | sase-fp hood | dismissed |
+| [sase-fp.land](../bbugyi200.athena.sase-fp.land/README.md) | sase-fp hood | dismissed |
