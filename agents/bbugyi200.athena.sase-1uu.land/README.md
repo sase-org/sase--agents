@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1uu](../../users/bbugyi200/machines/athena/hoods/sase-1uu/README.md) / sase-1uu.land
 
-**Global name:** `bbugyi200.athena.sase-1uu.land` · **State:** waiting · **Source run:** `run-c416334ed5d5187f12f2f0af6bd1d8c0`
+**Global name:** `bbugyi200.athena.sase-1uu.land` · **State:** completed · **Source run:** `run-c416334ed5d5187f12f2f0af6bd1d8c0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1uu
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1uu](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1uu/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261121110054
-- Commits: 0
+- Timing: 2026-11-21T18:10:07.000094+00:00 → 2026-11-21T18:47:30.611478+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`6933ac5`](https://github.com/sase-org/sase/commit/6933ac564df2fa3ba6271c7983f5354c0771fdae) | refactor(artifact-links): share the drain phase-timing renderer between both chops | 2026-11-21 13:45:04 EST |
 
 ## Neighbors
 
