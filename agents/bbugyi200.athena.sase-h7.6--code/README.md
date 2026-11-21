@@ -23,27 +23,27 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e1da6d1`](https://github.com/sase-org/sase/commit/e1da6d1b76fd1ea28bc620ab20ad63085842e932) | feat(notification-gates): collect typed gate inputs in the ACE modals | 2026-08-07 21:37:07 EDT |
+| — | `e1da6d1` | feat(notification-gates): collect typed gate inputs in the ACE modals | 2026-08-07 21:37:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-h7.1](../bbugyi200.athena.sase-h7.1/README.md) | sase-h7 hood | active |
-| [sase-h7.10](../bbugyi200.athena.sase-h7.10/README.md) | sase-h7 hood | active |
-| [sase-h7.11](../bbugyi200.athena.sase-h7.11/README.md) | sase-h7 hood | active |
-| [sase-h7.12](../bbugyi200.athena.sase-h7.12/README.md) | sase-h7 hood | active |
-| [sase-h7.13.1](../bbugyi200.athena.sase-h7.13.1/README.md) | sase-h7 hood | active |
-| [sase-h7.13.2](../bbugyi200.athena.sase-h7.13.2/README.md) | sase-h7 hood | active |
-| [sase-h7.13.3](../bbugyi200.athena.sase-h7.13.3/README.md) | sase-h7 hood | active |
-| [sase-h7.13.4](../bbugyi200.athena.sase-h7.13.4/README.md) | sase-h7 hood | active |
-| [sase-h7.13.5](../bbugyi200.athena.sase-h7.13.5/README.md) | sase-h7 hood | active |
-| [sase-h7.13.land](../bbugyi200.athena.sase-h7.13.land/README.md) | sase-h7 hood | active |
-| [sase-h7.2](../bbugyi200.athena.sase-h7.2/README.md) | sase-h7 hood | active |
-| [sase-h7.3](../../sessions/bbugyi200.athena.sase-h7.3.md) (session · 2) | sase-h7 hood | active 1, completed 1 |
-| [sase-h7.4](../bbugyi200.athena.sase-h7.4/README.md) | sase-h7 hood | active |
-| [sase-h7.5](../bbugyi200.athena.sase-h7.5/README.md) | sase-h7 hood | active |
-| [sase-h7.7](../bbugyi200.athena.sase-h7.7/README.md) | sase-h7 hood | active |
-| [sase-h7.8](../../sessions/bbugyi200.athena.sase-h7.8.md) (session · 2) | sase-h7 hood | active 1, completed 1 |
-| [sase-h7.9](../bbugyi200.athena.sase-h7.9/README.md) | sase-h7 hood | active |
-| [sase-h7.land](../bbugyi200.athena.sase-h7.land/README.md) | sase-h7 hood | active |
+| [sase-h7.1](../bbugyi200.athena.sase-h7.1/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.10](../bbugyi200.athena.sase-h7.10/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.11](../bbugyi200.athena.sase-h7.11/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.12](../bbugyi200.athena.sase-h7.12/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.13.1](../bbugyi200.athena.sase-h7.13.1/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.13.2](../bbugyi200.athena.sase-h7.13.2/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.13.3](../bbugyi200.athena.sase-h7.13.3/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.13.4](../bbugyi200.athena.sase-h7.13.4/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.13.5](../bbugyi200.athena.sase-h7.13.5/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.13.land](../bbugyi200.athena.sase-h7.13.land/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.2](../bbugyi200.athena.sase-h7.2/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.3](../../sessions/bbugyi200.athena.sase-h7.3.md) (session · 2) | sase-h7 hood | completed 1, dismissed 1 |
+| [sase-h7.4](../bbugyi200.athena.sase-h7.4/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.5](../bbugyi200.athena.sase-h7.5/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.7](../bbugyi200.athena.sase-h7.7/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.8](../../sessions/bbugyi200.athena.sase-h7.8.md) (session · 2) | sase-h7 hood | completed 1, dismissed 1 |
+| [sase-h7.9](../bbugyi200.athena.sase-h7.9/README.md) | sase-h7 hood | dismissed |
+| [sase-h7.land](../bbugyi200.athena.sase-h7.land/README.md) | sase-h7 hood | dismissed |
