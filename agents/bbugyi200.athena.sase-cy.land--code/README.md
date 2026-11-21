@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9cf08e7`](https://github.com/sase-org/sase/commit/9cf08e739663dcc62d91e5794bcaebfb6fe7d274) | build(deps): require core 0.17.5 for snoozing | 2026-08-01 09:54:28 EDT |
+| — | `9cf08e7` | build(deps): require core 0.17.5 for snoozing | 2026-08-01 09:54:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-cy.1](../bbugyi200.athena.sase-cy.1/README.md) | sase-cy hood | active |
-| [sase-cy.2](../bbugyi200.athena.sase-cy.2/README.md) | sase-cy hood | active |
-| [sase-cy.3](../bbugyi200.athena.sase-cy.3/README.md) | sase-cy hood | active |
-| [sase-cy.4](../bbugyi200.athena.sase-cy.4/README.md) | sase-cy hood | active |
+| [sase-cy.1](../bbugyi200.athena.sase-cy.1/README.md) | sase-cy hood | dismissed |
+| [sase-cy.2](../bbugyi200.athena.sase-cy.2/README.md) | sase-cy hood | dismissed |
+| [sase-cy.3](../bbugyi200.athena.sase-cy.3/README.md) | sase-cy hood | dismissed |
+| [sase-cy.4](../bbugyi200.athena.sase-cy.4/README.md) | sase-cy hood | dismissed |
