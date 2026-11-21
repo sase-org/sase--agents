@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-av](../../users/bbugyi200/machines/athena/hoods/sase-av/README.md) / [sase-av.1](../../sessions/bbugyi200.athena.sase-av.1.md) / sase-av.1--plan
 
-**Global name:** `bbugyi200.athena.sase-av.1--plan` · **State:** active · **Source run:** `run-8136717c25b11031f65db239978ac991`
+**Global name:** `bbugyi200.athena.sase-av.1--plan` · **State:** dismissed · **Source run:** `run-8136717c25b11031f65db239978ac991`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-av
 
@@ -12,7 +12,7 @@
 - Epic: [sase-av](https://github.com/sase-org/sase--beads/blob/main/pages/sase-av/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-29T16:50:56.837332+00:00
+- Timing: 2026-07-29T12:50:56.837332 → 2026-07-29T13:15:58.210816
 - Commits: 0
 
 ## Files
@@ -23,11 +23,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-av.2](../bbugyi200.athena.sase-av.2/README.md) | sase-av hood | active |
-| [sase-av.3](../bbugyi200.athena.sase-av.3/README.md) | sase-av hood | active |
-| [sase-av.4](../bbugyi200.athena.sase-av.4/README.md) | sase-av hood | active |
-| [sase-av.5](../bbugyi200.athena.sase-av.5/README.md) | sase-av hood | active |
-| [sase-av.6](../../sessions/bbugyi200.athena.sase-av.6.md) (session · 2) | sase-av hood | active 1, completed 1 |
-| [sase-av.7](../../sessions/bbugyi200.athena.sase-av.7.md) (session · 2) | sase-av hood | active 1, completed 1 |
-| [sase-av.8](../bbugyi200.athena.sase-av.8/README.md) | sase-av hood | active |
-| [sase-av.land](../bbugyi200.athena.sase-av.land/README.md) | sase-av hood | active |
+| [sase-av.2](../bbugyi200.athena.sase-av.2/README.md) | sase-av hood | dismissed |
+| [sase-av.3](../bbugyi200.athena.sase-av.3/README.md) | sase-av hood | dismissed |
+| [sase-av.4](../bbugyi200.athena.sase-av.4/README.md) | sase-av hood | dismissed |
+| [sase-av.5](../bbugyi200.athena.sase-av.5/README.md) | sase-av hood | dismissed |
+| [sase-av.6](../../sessions/bbugyi200.athena.sase-av.6.md) (session · 2) | sase-av hood | completed 1, dismissed 1 |
+| [sase-av.7](../../sessions/bbugyi200.athena.sase-av.7.md) (session · 2) | sase-av hood | completed 1, dismissed 1 |
+| [sase-av.8](../bbugyi200.athena.sase-av.8/README.md) | sase-av hood | dismissed |
+| [sase-av.land](../bbugyi200.athena.sase-av.land/README.md) | sase-av hood | dismissed |

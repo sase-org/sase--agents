@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3f6e4ea`](https://github.com/sase-org/sase/commit/3f6e4ea81a0ea13d5f0427358df02aa0c5cdde0a) | feat(editor): materialize artifact reference catalog for LSP | 2026-07-29 15:03:40 EDT |
+| — | `3f6e4ea` | feat(editor): materialize artifact reference catalog for LSP | 2026-07-29 15:03:40 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-av.1](../../sessions/bbugyi200.athena.sase-av.1.md) (session · 2) | sase-av hood | active 1, completed 1 |
-| [sase-av.2](../bbugyi200.athena.sase-av.2/README.md) | sase-av hood | active |
-| [sase-av.3](../bbugyi200.athena.sase-av.3/README.md) | sase-av hood | active |
-| [sase-av.4](../bbugyi200.athena.sase-av.4/README.md) | sase-av hood | active |
-| [sase-av.5](../bbugyi200.athena.sase-av.5/README.md) | sase-av hood | active |
-| [sase-av.6](../../sessions/bbugyi200.athena.sase-av.6.md) (session · 2) | sase-av hood | active 1, completed 1 |
-| [sase-av.8](../bbugyi200.athena.sase-av.8/README.md) | sase-av hood | active |
-| [sase-av.land](../bbugyi200.athena.sase-av.land/README.md) | sase-av hood | active |
+| [sase-av.1](../../sessions/bbugyi200.athena.sase-av.1.md) (session · 2) | sase-av hood | completed 1, dismissed 1 |
+| [sase-av.2](../bbugyi200.athena.sase-av.2/README.md) | sase-av hood | dismissed |
+| [sase-av.3](../bbugyi200.athena.sase-av.3/README.md) | sase-av hood | dismissed |
+| [sase-av.4](../bbugyi200.athena.sase-av.4/README.md) | sase-av hood | dismissed |
+| [sase-av.5](../bbugyi200.athena.sase-av.5/README.md) | sase-av hood | dismissed |
+| [sase-av.6](../../sessions/bbugyi200.athena.sase-av.6.md) (session · 2) | sase-av hood | completed 1, dismissed 1 |
+| [sase-av.8](../bbugyi200.athena.sase-av.8/README.md) | sase-av hood | dismissed |
+| [sase-av.land](../bbugyi200.athena.sase-av.land/README.md) | sase-av hood | dismissed |

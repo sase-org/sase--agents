@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-at](../../users/bbugyi200/machines/athena/hoods/sase-at/README.md) / sase-at.2
 
-**Global name:** `bbugyi200.athena.sase-at.2` · **State:** active · **Source run:** `run-3754b39df497750f5170c92377fafcbc`
+**Global name:** `bbugyi200.athena.sase-at.2` · **State:** dismissed · **Source run:** `run-3754b39df497750f5170c92377fafcbc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-at
 
@@ -12,7 +12,7 @@
 - Epic: [sase-at](https://github.com/sase-org/sase--beads/blob/main/pages/sase-at/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-29T15:14:44.614949+00:00
+- Timing: 2026-07-29T11:14:44.614949 → 2026-07-29T11:43:21.453942
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1a4ad18`](https://github.com/sase-org/sase/commit/1a4ad1828148b7ae17fd9eaca457c82793224246) | feat(tui): add notification report viewer | 2026-07-29 11:42:29 EDT |
+| — | `1a4ad18` | feat(tui): add notification report viewer | 2026-07-29 11:42:29 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-at.1](../bbugyi200.athena.sase-at.1/README.md) | sase-at hood | active |
-| [sase-at.3](../bbugyi200.athena.sase-at.3/README.md) | sase-at hood | active |
-| [sase-at.4](../bbugyi200.athena.sase-at.4/README.md) | sase-at hood | active |
-| [sase-at.land](../bbugyi200.athena.sase-at.land/README.md) | sase-at hood | active |
+| [sase-at.1](../bbugyi200.athena.sase-at.1/README.md) | sase-at hood | dismissed |
+| [sase-at.3](../bbugyi200.athena.sase-at.3/README.md) | sase-at hood | dismissed |
+| [sase-at.4](../bbugyi200.athena.sase-at.4/README.md) | sase-at hood | dismissed |
+| [sase-at.land](../bbugyi200.athena.sase-at.land/README.md) | sase-at hood | dismissed |

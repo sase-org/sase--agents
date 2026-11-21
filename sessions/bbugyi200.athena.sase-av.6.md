@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-av` · Members: 2 · Bead: [sase-av.6](
 ```mermaid
 flowchart TD
   n0["sase-av.6--code [completed]"]
-  n1["sase-av.6--plan [active]"]
+  n1["sase-av.6--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,23 +18,23 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-av.6--code | completed | gpt-5.6-sol / codex | 2026-07-29T18:39:15.064588+00:00 | [1](../agents/bbugyi200.athena.sase-av.6--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-av.6--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-av.6--plan | active | gpt-5.6-sol / codex | 2026-07-29T18:34:13.556804+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-av.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-av.6--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-av.6--plan | dismissed | gpt-5.6-sol / codex | 2026-07-29T14:34:13.556804 → 2026-07-29T15:08:58.214367 | 0 | [Prompt](../agents/bbugyi200.athena.sase-av.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-av.6--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e55aab9`](https://github.com/sase-org/sase/commit/e55aab9c92f73f5f902fa58ee39641da6a78686a) | feat(ace): add artifact reference prompt completion | 2026-07-29 15:07:54 EDT |
+| code | — | `e55aab9` | feat(ace): add artifact reference prompt completion | 2026-07-29 15:07:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-av.1](bbugyi200.athena.sase-av.1.md) (session · 2) | sase-av hood | active 1, completed 1 |
-| [sase-av.2](../agents/bbugyi200.athena.sase-av.2/README.md) | sase-av hood | active |
-| [sase-av.3](../agents/bbugyi200.athena.sase-av.3/README.md) | sase-av hood | active |
-| [sase-av.4](../agents/bbugyi200.athena.sase-av.4/README.md) | sase-av hood | active |
-| [sase-av.5](../agents/bbugyi200.athena.sase-av.5/README.md) | sase-av hood | active |
-| [sase-av.7](bbugyi200.athena.sase-av.7.md) (session · 2) | sase-av hood | active 1, completed 1 |
-| [sase-av.8](../agents/bbugyi200.athena.sase-av.8/README.md) | sase-av hood | active |
-| [sase-av.land](../agents/bbugyi200.athena.sase-av.land/README.md) | sase-av hood | active |
+| [sase-av.1](bbugyi200.athena.sase-av.1.md) (session · 2) | sase-av hood | completed 1, dismissed 1 |
+| [sase-av.2](../agents/bbugyi200.athena.sase-av.2/README.md) | sase-av hood | dismissed |
+| [sase-av.3](../agents/bbugyi200.athena.sase-av.3/README.md) | sase-av hood | dismissed |
+| [sase-av.4](../agents/bbugyi200.athena.sase-av.4/README.md) | sase-av hood | dismissed |
+| [sase-av.5](../agents/bbugyi200.athena.sase-av.5/README.md) | sase-av hood | dismissed |
+| [sase-av.7](bbugyi200.athena.sase-av.7.md) (session · 2) | sase-av hood | completed 1, dismissed 1 |
+| [sase-av.8](../agents/bbugyi200.athena.sase-av.8/README.md) | sase-av hood | dismissed |
+| [sase-av.land](../agents/bbugyi200.athena.sase-av.land/README.md) | sase-av hood | dismissed |

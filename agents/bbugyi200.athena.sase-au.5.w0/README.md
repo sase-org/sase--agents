@@ -21,11 +21,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-au.5](../bbugyi200.athena.sase-au.5/README.md) | ancestor | active |
-| [sase-au.5.w1](../../sessions/bbugyi200.athena.sase-au.5.w1.md) (session · 2) | sase-au.5 hood | active 1, completed 1 |
-| [sase-au.1](../bbugyi200.athena.sase-au.1/README.md) | sase-au hood | active |
-| [sase-au.2](../bbugyi200.athena.sase-au.2/README.md) | sase-au hood | active |
-| [sase-au.3](../bbugyi200.athena.sase-au.3/README.md) | sase-au hood | active |
-| [sase-au.4](../bbugyi200.athena.sase-au.4/README.md) | sase-au hood | active |
-| [sase-au.6](../bbugyi200.athena.sase-au.6/README.md) | sase-au hood | active |
-| [sase-au.land](../bbugyi200.athena.sase-au.land/README.md) | sase-au hood | active |
+| [sase-au.5](../bbugyi200.athena.sase-au.5/README.md) | ancestor | dismissed |
+| [sase-au.5.w1](../../sessions/bbugyi200.athena.sase-au.5.w1.md) (session · 2) | sase-au.5 hood | completed 1, dismissed 1 |
+| [sase-au.1](../bbugyi200.athena.sase-au.1/README.md) | sase-au hood | dismissed |
+| [sase-au.2](../bbugyi200.athena.sase-au.2/README.md) | sase-au hood | dismissed |
+| [sase-au.3](../bbugyi200.athena.sase-au.3/README.md) | sase-au hood | dismissed |
+| [sase-au.4](../bbugyi200.athena.sase-au.4/README.md) | sase-au hood | dismissed |
+| [sase-au.6](../bbugyi200.athena.sase-au.6/README.md) | sase-au hood | dismissed |
+| [sase-au.land](../bbugyi200.athena.sase-au.land/README.md) | sase-au hood | dismissed |

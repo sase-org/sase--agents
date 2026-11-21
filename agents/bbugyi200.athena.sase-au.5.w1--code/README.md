@@ -21,17 +21,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`216d027`](https://github.com/sase-org/sase/commit/216d027d8ba439f6156b45557750e292c029311b) | feat(ace): add numbered Statistics subtabs | 2026-07-29 14:35:55 EDT |
+| — | `216d027` | feat(ace): add numbered Statistics subtabs | 2026-07-29 14:35:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-au.5](../bbugyi200.athena.sase-au.5/README.md) | ancestor | active |
+| [sase-au.5](../bbugyi200.athena.sase-au.5/README.md) | ancestor | dismissed |
 | [sase-au.5.w0](../bbugyi200.athena.sase-au.5.w0/README.md) | sase-au.5 hood | waiting |
-| [sase-au.1](../bbugyi200.athena.sase-au.1/README.md) | sase-au hood | active |
-| [sase-au.2](../bbugyi200.athena.sase-au.2/README.md) | sase-au hood | active |
-| [sase-au.3](../bbugyi200.athena.sase-au.3/README.md) | sase-au hood | active |
-| [sase-au.4](../bbugyi200.athena.sase-au.4/README.md) | sase-au hood | active |
-| [sase-au.6](../bbugyi200.athena.sase-au.6/README.md) | sase-au hood | active |
-| [sase-au.land](../bbugyi200.athena.sase-au.land/README.md) | sase-au hood | active |
+| [sase-au.1](../bbugyi200.athena.sase-au.1/README.md) | sase-au hood | dismissed |
+| [sase-au.2](../bbugyi200.athena.sase-au.2/README.md) | sase-au hood | dismissed |
+| [sase-au.3](../bbugyi200.athena.sase-au.3/README.md) | sase-au hood | dismissed |
+| [sase-au.4](../bbugyi200.athena.sase-au.4/README.md) | sase-au hood | dismissed |
+| [sase-au.6](../bbugyi200.athena.sase-au.6/README.md) | sase-au hood | dismissed |
+| [sase-au.land](../bbugyi200.athena.sase-au.land/README.md) | sase-au hood | dismissed |

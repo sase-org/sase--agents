@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-au](../../users/bbugyi200/machines/athena/hoods/sase-au/README.md) / sase-au.4
 
-**Global name:** `bbugyi200.athena.sase-au.4` · **State:** active · **Source run:** `run-b69340f7d48a3d2abd56f8bc8f982117`
+**Global name:** `bbugyi200.athena.sase-au.4` · **State:** dismissed · **Source run:** `run-b69340f7d48a3d2abd56f8bc8f982117`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-au
 
@@ -12,7 +12,7 @@
 - Epic: [sase-au](https://github.com/sase-org/sase--beads/blob/main/pages/sase-au/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-29T16:42:00.913731+00:00
+- Timing: 2026-07-29T12:42:00.913731 → 2026-07-29T13:14:29.695622
 - Commits: [1](#commits)
 
 ## Files
@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ddfbb1`](https://github.com/sase-org/sase/commit/7ddfbb16a13bd0771d1bf3d47fc19beee3a31086) | feat(tui): add xprompt statistics view | 2026-07-29 13:13:25 EDT |
+| — | `7ddfbb1` | feat(tui): add xprompt statistics view | 2026-07-29 13:13:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-au.1](../bbugyi200.athena.sase-au.1/README.md) | sase-au hood | active |
-| [sase-au.2](../bbugyi200.athena.sase-au.2/README.md) | sase-au hood | active |
-| [sase-au.3](../bbugyi200.athena.sase-au.3/README.md) | sase-au hood | active |
-| [sase-au.5](../bbugyi200.athena.sase-au.5/README.md) | sase-au hood | active |
+| [sase-au.1](../bbugyi200.athena.sase-au.1/README.md) | sase-au hood | dismissed |
+| [sase-au.2](../bbugyi200.athena.sase-au.2/README.md) | sase-au hood | dismissed |
+| [sase-au.3](../bbugyi200.athena.sase-au.3/README.md) | sase-au hood | dismissed |
+| [sase-au.5](../bbugyi200.athena.sase-au.5/README.md) | sase-au hood | dismissed |
 | [sase-au.5.w0](../bbugyi200.athena.sase-au.5.w0/README.md) | sase-au hood | waiting |
-| [sase-au.5.w1](../../sessions/bbugyi200.athena.sase-au.5.w1.md) (session · 2) | sase-au hood | active 1, completed 1 |
-| [sase-au.6](../bbugyi200.athena.sase-au.6/README.md) | sase-au hood | active |
-| [sase-au.land](../bbugyi200.athena.sase-au.land/README.md) | sase-au hood | active |
+| [sase-au.5.w1](../../sessions/bbugyi200.athena.sase-au.5.w1.md) (session · 2) | sase-au hood | completed 1, dismissed 1 |
+| [sase-au.6](../bbugyi200.athena.sase-au.6/README.md) | sase-au hood | dismissed |
+| [sase-au.land](../bbugyi200.athena.sase-au.land/README.md) | sase-au hood | dismissed |
