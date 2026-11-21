@@ -2,18 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / sase-1tz.4.1.5
 
-**Global name:** `bbugyi200.athena.sase-1tz.4.1.5` · **State:** completed · **Source run:** `run-221107763f48c454c3b4bf55dfb509cd`
+**Global name:** `bbugyi200.athena.sase-1tz.4.1.5` · **State:** completed · **Source run:** `run-fcff5634d4fb5eac83d35dbb31b66f93`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
 ## Summary
 
 - Bead: [sase-1tz.4.1.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.4.1.5.md)
-- Epic: [sase-1tz.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.4.1.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-20T23:02:44.871111+00:00 → 2026-11-21T00:47:20.706405+00:00
-- Commits: [1](#commits)
+- Timing: 2026-11-21T11:52:21.441575+00:00 → 2026-11-21T12:27:26.203208+00:00
+- Commits: [2](#commits)
 
 ## Files
 
@@ -24,6 +23,7 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`88d3629`](https://github.com/sase-org/sase/commit/88d36297ccb8c756fcb72346c5caf18231f373fc) | feat(notifications): externalize payloads over 8 KiB | 2026-11-20 19:43:56 EST |
+| sase | [`39b594a`](https://github.com/sase-org/sase/commit/39b594a30cb42239958f2725347bc92da9c3b6d4) | fix(notifications): resolve remaining sidecar payload readers | 2026-11-21 07:24:05 EST |
 
 ## Neighbors
 
