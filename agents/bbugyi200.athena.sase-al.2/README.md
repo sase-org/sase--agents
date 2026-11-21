@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-al](../../users/bbugyi200/machines/athena/hoods/sase-al/README.md) / sase-al.2
 
-**Global name:** `bbugyi200.athena.sase-al.2` · **State:** active · **Source run:** `run-9c9447db35e7456580931ed401f68821`
+**Global name:** `bbugyi200.athena.sase-al.2` · **State:** dismissed · **Source run:** `run-9c9447db35e7456580931ed401f68821`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-al
 
@@ -12,7 +12,7 @@
 - Epic: [sase-al](https://github.com/sase-org/sase--beads/blob/main/pages/sase-al/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-07-28T22:21:08.789125+00:00
+- Timing: 2026-07-28T18:21:08.789125 → 2026-07-28T18:46:46.148255
 - Commits: [1](#commits)
 
 ## Files
@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab6f07a`](https://github.com/sase-org/sase/commit/ab6f07a68c63a7a8438942980ca20e133748dc90) | build(deps): bump published core minimum to 0.12.5 | 2026-07-28 18:45:24 EDT |
+| — | `ab6f07a` | build(deps): bump published core minimum to 0.12.5 | 2026-07-28 18:45:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-al.1](../bbugyi200.athena.sase-al.1/README.md) | sase-al hood | active |
-| [sase-al.land](../../sessions/bbugyi200.athena.sase-al.land.md) (session · 2) | sase-al hood | active 1, completed 1 |
+| [sase-al.1](../bbugyi200.athena.sase-al.1/README.md) | sase-al hood | dismissed |
+| [sase-al.land](../../sessions/bbugyi200.athena.sase-al.land.md) (session · 2) | sase-al hood | completed 1, dismissed 1 |

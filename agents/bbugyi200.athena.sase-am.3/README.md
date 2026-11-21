@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-am](../../users/bbugyi200/machines/athena/hoods/sase-am/README.md) / sase-am.3
 
-**Global name:** `bbugyi200.athena.sase-am.3` · **State:** active · **Source run:** `run-8d981acea72ab49a7ed725eb374ca20d`
+**Global name:** `bbugyi200.athena.sase-am.3` · **State:** dismissed · **Source run:** `run-8d981acea72ab49a7ed725eb374ca20d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-am
 
@@ -12,7 +12,7 @@
 - Epic: [sase-am](https://github.com/sase-org/sase--beads/blob/main/pages/sase-am/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-28T22:40:32.347343+00:00
+- Timing: 2026-07-28T18:40:32.347343 → 2026-07-28T19:04:58.988422
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`29ca9ac`](https://github.com/sase-org/sase/commit/29ca9ac511433323f872213603b1ead19db565c3) | ci: consolidate workflow lanes | 2026-07-28 19:04:01 EDT |
+| — | `29ca9ac` | ci: consolidate workflow lanes | 2026-07-28 19:04:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-am.1](../bbugyi200.athena.sase-am.1/README.md) | sase-am hood | active |
-| [sase-am.2](../bbugyi200.athena.sase-am.2/README.md) | sase-am hood | active |
-| [sase-am.4](../bbugyi200.athena.sase-am.4/README.md) | sase-am hood | active |
-| [sase-am.land](../../sessions/bbugyi200.athena.sase-am.land.md) (session · 2) | sase-am hood | active 1, completed 1 |
+| [sase-am.1](../bbugyi200.athena.sase-am.1/README.md) | sase-am hood | dismissed |
+| [sase-am.2](../bbugyi200.athena.sase-am.2/README.md) | sase-am hood | dismissed |
+| [sase-am.4](../bbugyi200.athena.sase-am.4/README.md) | sase-am hood | dismissed |
+| [sase-am.land](../../sessions/bbugyi200.athena.sase-am.land.md) (session · 2) | sase-am hood | completed 1, dismissed 1 |

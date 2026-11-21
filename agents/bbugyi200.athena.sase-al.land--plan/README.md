@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-al](../../users/bbugyi200/machines/athena/hoods/sase-al/README.md) / [sase-al.land](../../sessions/bbugyi200.athena.sase-al.land.md) / sase-al.land--plan
 
-**Global name:** `bbugyi200.athena.sase-al.land--plan` · **State:** active · **Source run:** `run-1c4ff11552811a882ceef2f30812b498`
+**Global name:** `bbugyi200.athena.sase-al.land--plan` · **State:** dismissed · **Source run:** `run-1c4ff11552811a882ceef2f30812b498`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-al
 
@@ -11,7 +11,7 @@
 - Bead: [sase-al](https://github.com/sase-org/sase--beads/blob/main/pages/sase-al/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-28T22:47:22.571184+00:00
+- Timing: 2026-07-28T18:47:22.571184 → 2026-07-29T00:52:44.937666
 - Commits: 0
 
 ## Files
@@ -22,5 +22,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-al.1](../bbugyi200.athena.sase-al.1/README.md) | sase-al hood | active |
-| [sase-al.2](../bbugyi200.athena.sase-al.2/README.md) | sase-al hood | active |
+| [sase-al.1](../bbugyi200.athena.sase-al.1/README.md) | sase-al hood | dismissed |
+| [sase-al.2](../bbugyi200.athena.sase-al.2/README.md) | sase-al hood | dismissed |

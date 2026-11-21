@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-aq](../../users/bbugyi200/machines/athena/hoods/sase-aq/README.md) / sase-aq.4
 
-**Global name:** `bbugyi200.athena.sase-aq.4` · **State:** active · **Source run:** `run-9b602f2a003495981279958d9a92de5b`
+**Global name:** `bbugyi200.athena.sase-aq.4` · **State:** dismissed · **Source run:** `run-9b602f2a003495981279958d9a92de5b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-aq
 
@@ -12,7 +12,7 @@
 - Epic: [sase-aq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-aq/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-29T14:05:38.661015+00:00
+- Timing: 2026-07-29T10:05:38.661015 → 2026-07-29T10:23:36.506507
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`62a6ba6`](https://github.com/sase-org/sase/commit/62a6ba6f7ad25c7e601ea94525b7cde3a9128e25) | feat: qualify keyed markers per xprompt invocation | 2026-07-29 10:22:42 EDT |
+| — | `62a6ba6` | feat: qualify keyed markers per xprompt invocation | 2026-07-29 10:22:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-aq.1](../bbugyi200.athena.sase-aq.1/README.md) | sase-aq hood | active |
-| [sase-aq.2](../bbugyi200.athena.sase-aq.2/README.md) | sase-aq hood | active |
-| [sase-aq.3](../bbugyi200.athena.sase-aq.3/README.md) | sase-aq hood | active |
-| [sase-aq.5](../bbugyi200.athena.sase-aq.5/README.md) | sase-aq hood | active |
-| [sase-aq.6](../bbugyi200.athena.sase-aq.6/README.md) | sase-aq hood | active |
-| [sase-aq.land](../bbugyi200.athena.sase-aq.land/README.md) | sase-aq hood | active |
+| [sase-aq.1](../bbugyi200.athena.sase-aq.1/README.md) | sase-aq hood | dismissed |
+| [sase-aq.2](../bbugyi200.athena.sase-aq.2/README.md) | sase-aq hood | dismissed |
+| [sase-aq.3](../bbugyi200.athena.sase-aq.3/README.md) | sase-aq hood | dismissed |
+| [sase-aq.5](../bbugyi200.athena.sase-aq.5/README.md) | sase-aq hood | dismissed |
+| [sase-aq.6](../bbugyi200.athena.sase-aq.6/README.md) | sase-aq hood | dismissed |
+| [sase-aq.land](../bbugyi200.athena.sase-aq.land/README.md) | sase-aq hood | dismissed |
