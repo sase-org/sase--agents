@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-cp](../../users/bbugyi200/machines/athena/hoods/sase-cp/README.md) / sase-cp.land.w0
 
-**Global name:** `bbugyi200.athena.sase-cp.land.w0` · **State:** active · **Source run:** `run-11ad3faa74097a1baf2c5ec3b1d62202`
+**Global name:** `bbugyi200.athena.sase-cp.land.w0` · **State:** dismissed · **Source run:** `run-11ad3faa74097a1baf2c5ec3b1d62202`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-cp
 
@@ -10,7 +10,7 @@
 
 - Model: gemini-3.6-flash-high
 - Provider: agy
-- Timing: 20260731162004
+- Timing: 2026-07-31T16:20:04
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-cp.land](../../sessions/bbugyi200.athena.sase-cp.land.md) (session · 2) | ancestor | active 1, completed 1 |
-| [sase-cp.1](../bbugyi200.athena.sase-cp.1/README.md) | sase-cp hood | active |
-| [sase-cp.2](../bbugyi200.athena.sase-cp.2/README.md) | sase-cp hood | active |
-| [sase-cp.3](../bbugyi200.athena.sase-cp.3/README.md) | sase-cp hood | active |
+| [sase-cp.land](../../sessions/bbugyi200.athena.sase-cp.land.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [sase-cp.1](../bbugyi200.athena.sase-cp.1/README.md) | sase-cp hood | dismissed |
+| [sase-cp.2](../bbugyi200.athena.sase-cp.2/README.md) | sase-cp hood | dismissed |
+| [sase-cp.3](../bbugyi200.athena.sase-cp.3/README.md) | sase-cp hood | dismissed |

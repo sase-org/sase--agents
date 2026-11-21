@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`33c6311`](https://github.com/sase-org/sase/commit/33c63112c911958e5a3c6111eb4f01caeb945794) | docs(memory): document bulk bead update semantics | 2026-07-31 16:25:18 EDT |
+| — | `33c6311` | docs(memory): document bulk bead update semantics | 2026-07-31 16:25:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-cp.land.w0](../bbugyi200.athena.sase-cp.land.w0/README.md) | descendant | active |
-| [sase-cp.1](../bbugyi200.athena.sase-cp.1/README.md) | sase-cp hood | active |
-| [sase-cp.2](../bbugyi200.athena.sase-cp.2/README.md) | sase-cp hood | active |
-| [sase-cp.3](../bbugyi200.athena.sase-cp.3/README.md) | sase-cp hood | active |
+| [sase-cp.land.w0](../bbugyi200.athena.sase-cp.land.w0/README.md) | descendant | dismissed |
+| [sase-cp.1](../bbugyi200.athena.sase-cp.1/README.md) | sase-cp hood | dismissed |
+| [sase-cp.2](../bbugyi200.athena.sase-cp.2/README.md) | sase-cp hood | dismissed |
+| [sase-cp.3](../bbugyi200.athena.sase-cp.3/README.md) | sase-cp hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-cn](../../users/bbugyi200/machines/athena/hoods/sase-cn/README.md) / sase-cn
 
-**Global name:** `bbugyi200.athena.sase-cn` · **State:** active · **Source run:** `run-7045740bbd6c3f95f544c714636c656e`
+**Global name:** `bbugyi200.athena.sase-cn` · **State:** dismissed · **Source run:** `run-7045740bbd6c3f95f544c714636c656e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-cn
 
@@ -11,7 +11,7 @@
 - Bead: [sase-cn](https://github.com/sase-org/sase--beads/blob/main/pages/sase-cn/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-31T18:47:39.171764+00:00
+- Timing: 2026-07-31T14:47:39.171764 → 2026-07-31T15:04:56.582868
 - Commits: [1](#commits)
 
 ## Files
@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86d820f`](https://github.com/sase-org/sase/commit/86d820f0b89700c4befb975aacc753032d7051a3) | build(deps): raise sase-core-rs floor to 0.17.3 | 2026-07-31 15:04:20 EDT |
+| — | `86d820f` | build(deps): raise sase-core-rs floor to 0.17.3 | 2026-07-31 15:04:20 EDT |
