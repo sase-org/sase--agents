@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-bf](../../users/bbugyi200/machines/athena/hoods/sase-bf/README.md) / sase-bf.5
 
-**Global name:** `bbugyi200.athena.sase-bf.5` · **State:** active · **Source run:** `run-894c840fee36492d172631052daff87a`
+**Global name:** `bbugyi200.athena.sase-bf.5` · **State:** dismissed · **Source run:** `run-894c840fee36492d172631052daff87a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-bf
 
@@ -12,7 +12,7 @@
 - Epic: [sase-bf](https://github.com/sase-org/sase--beads/blob/main/pages/sase-bf/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-30T21:34:54.806863+00:00
+- Timing: 2026-07-30T17:34:54.806863 → 2026-07-30T18:30:03.847946
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b66357e`](https://github.com/sase-org/sase/commit/b66357ee238c45291b58764504232d2397f0e872) | feat(agents-sync): publish structured output variables | 2026-07-30 18:19:33 EDT |
+| — | `b66357e` | feat(agents-sync): publish structured output variables | 2026-07-30 18:19:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-bf.1](../bbugyi200.athena.sase-bf.1/README.md) | sase-bf hood | active |
-| [sase-bf.2](../bbugyi200.athena.sase-bf.2/README.md) | sase-bf hood | active |
-| [sase-bf.3](../bbugyi200.athena.sase-bf.3/README.md) | sase-bf hood | active |
-| [sase-bf.4](../bbugyi200.athena.sase-bf.4/README.md) | sase-bf hood | active |
-| [sase-bf.6](../bbugyi200.athena.sase-bf.6/README.md) | sase-bf hood | active |
-| [sase-bf.land](../bbugyi200.athena.sase-bf.land/README.md) | sase-bf hood | active |
+| [sase-bf.1](../bbugyi200.athena.sase-bf.1/README.md) | sase-bf hood | dismissed |
+| [sase-bf.2](../bbugyi200.athena.sase-bf.2/README.md) | sase-bf hood | dismissed |
+| [sase-bf.3](../bbugyi200.athena.sase-bf.3/README.md) | sase-bf hood | dismissed |
+| [sase-bf.4](../bbugyi200.athena.sase-bf.4/README.md) | sase-bf hood | dismissed |
+| [sase-bf.6](../bbugyi200.athena.sase-bf.6/README.md) | sase-bf hood | dismissed |
+| [sase-bf.land](../bbugyi200.athena.sase-bf.land/README.md) | sase-bf hood | dismissed |

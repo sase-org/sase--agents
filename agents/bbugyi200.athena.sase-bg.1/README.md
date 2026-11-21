@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-bg](../../users/bbugyi200/machines/athena/hoods/sase-bg/README.md) / sase-bg.1
 
-**Global name:** `bbugyi200.athena.sase-bg.1` · **State:** active · **Source run:** `run-08baec1ec592cf967365a032a7283367`
+**Global name:** `bbugyi200.athena.sase-bg.1` · **State:** dismissed · **Source run:** `run-08baec1ec592cf967365a032a7283367`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-bg
 
@@ -12,7 +12,7 @@
 - Epic: [sase-bg](https://github.com/sase-org/sase--beads/blob/main/pages/sase-bg/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-30T22:57:21.959851+00:00
+- Timing: 2026-07-30T18:57:21.959851 → 2026-07-30T19:23:36.065398
 - Commits: 0
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-bg.10](../bbugyi200.athena.sase-bg.10/README.md) | sase-bg hood | active |
-| [sase-bg.2](../bbugyi200.athena.sase-bg.2/README.md) | sase-bg hood | active |
-| [sase-bg.3](../bbugyi200.athena.sase-bg.3/README.md) | sase-bg hood | active |
-| [sase-bg.4](../../sessions/bbugyi200.athena.sase-bg.4.md) (session · 2) | sase-bg hood | active 1, completed 1 |
-| [sase-bg.5](../bbugyi200.athena.sase-bg.5/README.md) | sase-bg hood | active |
-| [sase-bg.6](../bbugyi200.athena.sase-bg.6/README.md) | sase-bg hood | active |
-| [sase-bg.7](../../sessions/bbugyi200.athena.sase-bg.7.md) (session · 2) | sase-bg hood | active 1, completed 1 |
-| [sase-bg.8](../../sessions/bbugyi200.athena.sase-bg.8.md) (session · 2) | sase-bg hood | active 1, completed 1 |
-| [sase-bg.9](../bbugyi200.athena.sase-bg.9/README.md) | sase-bg hood | active |
-| [sase-bg.land](../bbugyi200.athena.sase-bg.land/README.md) | sase-bg hood | active |
+| [sase-bg.10](../bbugyi200.athena.sase-bg.10/README.md) | sase-bg hood | dismissed |
+| [sase-bg.2](../bbugyi200.athena.sase-bg.2/README.md) | sase-bg hood | dismissed |
+| [sase-bg.3](../bbugyi200.athena.sase-bg.3/README.md) | sase-bg hood | dismissed |
+| [sase-bg.4](../../sessions/bbugyi200.athena.sase-bg.4.md) (session · 2) | sase-bg hood | completed 1, dismissed 1 |
+| [sase-bg.5](../bbugyi200.athena.sase-bg.5/README.md) | sase-bg hood | dismissed |
+| [sase-bg.6](../bbugyi200.athena.sase-bg.6/README.md) | sase-bg hood | dismissed |
+| [sase-bg.7](../../sessions/bbugyi200.athena.sase-bg.7.md) (session · 2) | sase-bg hood | completed 1, dismissed 1 |
+| [sase-bg.8](../../sessions/bbugyi200.athena.sase-bg.8.md) (session · 2) | sase-bg hood | completed 1, dismissed 1 |
+| [sase-bg.9](../bbugyi200.athena.sase-bg.9/README.md) | sase-bg hood | dismissed |
+| [sase-bg.land](../bbugyi200.athena.sase-bg.land/README.md) | sase-bg hood | dismissed |

@@ -23,19 +23,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`010fe0f`](https://github.com/sase-org/sase/commit/010fe0fc067fd818302a8967197297ef5d7c1b34) | feat(gates): add TaskTriage decision workflow | 2026-07-30 21:41:42 EDT |
+| — | `010fe0f` | feat(gates): add TaskTriage decision workflow | 2026-07-30 21:41:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-bg.1](../bbugyi200.athena.sase-bg.1/README.md) | sase-bg hood | active |
-| [sase-bg.10](../bbugyi200.athena.sase-bg.10/README.md) | sase-bg hood | active |
-| [sase-bg.2](../bbugyi200.athena.sase-bg.2/README.md) | sase-bg hood | active |
-| [sase-bg.3](../bbugyi200.athena.sase-bg.3/README.md) | sase-bg hood | active |
-| [sase-bg.4](../../sessions/bbugyi200.athena.sase-bg.4.md) (session · 2) | sase-bg hood | active 1, completed 1 |
-| [sase-bg.5](../bbugyi200.athena.sase-bg.5/README.md) | sase-bg hood | active |
-| [sase-bg.6](../bbugyi200.athena.sase-bg.6/README.md) | sase-bg hood | active |
-| [sase-bg.7](../../sessions/bbugyi200.athena.sase-bg.7.md) (session · 2) | sase-bg hood | active 1, completed 1 |
-| [sase-bg.9](../bbugyi200.athena.sase-bg.9/README.md) | sase-bg hood | active |
-| [sase-bg.land](../bbugyi200.athena.sase-bg.land/README.md) | sase-bg hood | active |
+| [sase-bg.1](../bbugyi200.athena.sase-bg.1/README.md) | sase-bg hood | dismissed |
+| [sase-bg.10](../bbugyi200.athena.sase-bg.10/README.md) | sase-bg hood | dismissed |
+| [sase-bg.2](../bbugyi200.athena.sase-bg.2/README.md) | sase-bg hood | dismissed |
+| [sase-bg.3](../bbugyi200.athena.sase-bg.3/README.md) | sase-bg hood | dismissed |
+| [sase-bg.4](../../sessions/bbugyi200.athena.sase-bg.4.md) (session · 2) | sase-bg hood | completed 1, dismissed 1 |
+| [sase-bg.5](../bbugyi200.athena.sase-bg.5/README.md) | sase-bg hood | dismissed |
+| [sase-bg.6](../bbugyi200.athena.sase-bg.6/README.md) | sase-bg hood | dismissed |
+| [sase-bg.7](../../sessions/bbugyi200.athena.sase-bg.7.md) (session · 2) | sase-bg hood | completed 1, dismissed 1 |
+| [sase-bg.9](../bbugyi200.athena.sase-bg.9/README.md) | sase-bg hood | dismissed |
+| [sase-bg.land](../bbugyi200.athena.sase-bg.land/README.md) | sase-bg hood | dismissed |
