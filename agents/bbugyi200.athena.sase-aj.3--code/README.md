@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1943e18`](https://github.com/sase-org/sase/commit/1943e18a74f5f2ca3731dd051e68837574ea1c1e) | feat(beads): preassign epic work before launch | 2026-07-28 18:30:42 EDT |
+| — | `1943e18` | feat(beads): preassign epic work before launch | 2026-07-28 18:30:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-aj.1](../bbugyi200.athena.sase-aj.1/README.md) | sase-aj hood | active |
-| [sase-aj.2](../bbugyi200.athena.sase-aj.2/README.md) | sase-aj hood | active |
-| [sase-aj.4](../bbugyi200.athena.sase-aj.4/README.md) | sase-aj hood | active |
-| [sase-aj.5](../bbugyi200.athena.sase-aj.5/README.md) | sase-aj hood | active |
-| [sase-aj.6](../bbugyi200.athena.sase-aj.6/README.md) | sase-aj hood | active |
-| [sase-aj.land](../bbugyi200.athena.sase-aj.land/README.md) | sase-aj hood | active |
+| [sase-aj.1](../bbugyi200.athena.sase-aj.1/README.md) | sase-aj hood | dismissed |
+| [sase-aj.2](../bbugyi200.athena.sase-aj.2/README.md) | sase-aj hood | dismissed |
+| [sase-aj.4](../bbugyi200.athena.sase-aj.4/README.md) | sase-aj hood | dismissed |
+| [sase-aj.5](../bbugyi200.athena.sase-aj.5/README.md) | sase-aj hood | dismissed |
+| [sase-aj.6](../bbugyi200.athena.sase-aj.6/README.md) | sase-aj hood | dismissed |
+| [sase-aj.land](../bbugyi200.athena.sase-aj.land/README.md) | sase-aj hood | dismissed |

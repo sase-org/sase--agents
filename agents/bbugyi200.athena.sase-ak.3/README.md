@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ak](../../users/bbugyi200/machines/athena/hoods/sase-ak/README.md) / sase-ak.3
 
-**Global name:** `bbugyi200.athena.sase-ak.3` · **State:** active · **Source run:** `run-e0a58013657e9f9de82550f9b288ad2b`
+**Global name:** `bbugyi200.athena.sase-ak.3` · **State:** dismissed · **Source run:** `run-e0a58013657e9f9de82550f9b288ad2b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ak
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ak](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ak/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-28T21:24:28.423895+00:00
+- Timing: 2026-07-28T17:24:28.423895 → 2026-07-28T17:49:46.412271
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ed04c42`](https://github.com/sase-org/sase/commit/ed04c42f239002a2f682ca9dc0761442a140cf4c) | feat(ace): display tribe wait bindings | 2026-07-28 17:48:54 EDT |
+| — | `ed04c42` | feat(ace): display tribe wait bindings | 2026-07-28 17:48:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ak.1](../bbugyi200.athena.sase-ak.1/README.md) | sase-ak hood | active |
-| [sase-ak.2](../bbugyi200.athena.sase-ak.2/README.md) | sase-ak hood | active |
-| [sase-ak.4](../bbugyi200.athena.sase-ak.4/README.md) | sase-ak hood | active |
-| [sase-ak.land](../../sessions/bbugyi200.athena.sase-ak.land.md) (session · 2) | sase-ak hood | active 1, completed 1 |
+| [sase-ak.1](../bbugyi200.athena.sase-ak.1/README.md) | sase-ak hood | dismissed |
+| [sase-ak.2](../bbugyi200.athena.sase-ak.2/README.md) | sase-ak hood | dismissed |
+| [sase-ak.4](../bbugyi200.athena.sase-ak.4/README.md) | sase-ak hood | dismissed |
+| [sase-ak.land](../../sessions/bbugyi200.athena.sase-ak.land.md) (session · 2) | sase-ak hood | completed 1, dismissed 1 |

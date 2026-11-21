@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-aj](../../users/bbugyi200/machines/athena/hoods/sase-aj/README.md) / sase-aj.5
 
-**Global name:** `bbugyi200.athena.sase-aj.5` · **State:** active · **Source run:** `run-3815a63e9a9d08e2900ce01ff855f845`
+**Global name:** `bbugyi200.athena.sase-aj.5` · **State:** dismissed · **Source run:** `run-3815a63e9a9d08e2900ce01ff855f845`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-aj
 
@@ -12,7 +12,7 @@
 - Epic: [sase-aj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-aj/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-28T20:37:34.643880+00:00
+- Timing: 2026-07-28T16:37:34.643880 → 2026-07-28T17:14:52.265743
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c1272d1`](https://github.com/sase-org/sase/commit/c1272d19d702892d26240b50e8b518a3c142a300) | feat(beads): close with verification notes | 2026-07-28 17:09:40 EDT |
+| — | `c1272d1` | feat(beads): close with verification notes | 2026-07-28 17:09:40 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-aj.1](../bbugyi200.athena.sase-aj.1/README.md) | sase-aj hood | active |
-| [sase-aj.2](../bbugyi200.athena.sase-aj.2/README.md) | sase-aj hood | active |
-| [sase-aj.3](../../sessions/bbugyi200.athena.sase-aj.3.md) (session · 2) | sase-aj hood | active 1, completed 1 |
-| [sase-aj.4](../bbugyi200.athena.sase-aj.4/README.md) | sase-aj hood | active |
-| [sase-aj.6](../bbugyi200.athena.sase-aj.6/README.md) | sase-aj hood | active |
-| [sase-aj.land](../bbugyi200.athena.sase-aj.land/README.md) | sase-aj hood | active |
+| [sase-aj.1](../bbugyi200.athena.sase-aj.1/README.md) | sase-aj hood | dismissed |
+| [sase-aj.2](../bbugyi200.athena.sase-aj.2/README.md) | sase-aj hood | dismissed |
+| [sase-aj.3](../../sessions/bbugyi200.athena.sase-aj.3.md) (session · 2) | sase-aj hood | completed 1, dismissed 1 |
+| [sase-aj.4](../bbugyi200.athena.sase-aj.4/README.md) | sase-aj hood | dismissed |
+| [sase-aj.6](../bbugyi200.athena.sase-aj.6/README.md) | sase-aj hood | dismissed |
+| [sase-aj.land](../bbugyi200.athena.sase-aj.land/README.md) | sase-aj hood | dismissed |

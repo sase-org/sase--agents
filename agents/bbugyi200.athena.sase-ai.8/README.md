@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ai](../../users/bbugyi200/machines/athena/hoods/sase-ai/README.md) / sase-ai.8
 
-**Global name:** `bbugyi200.athena.sase-ai.8` · **State:** active · **Source run:** `run-4658cc10df34a55b97f7e4b535515c51`
+**Global name:** `bbugyi200.athena.sase-ai.8` · **State:** dismissed · **Source run:** `run-4658cc10df34a55b97f7e4b535515c51`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ai
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ai](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ai/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-28T18:38:42.520731+00:00
+- Timing: 2026-07-28T14:38:42.520731 → 2026-07-28T15:11:22.501529
 - Commits: [1](#commits)
 
 ## Files
@@ -23,19 +23,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab1c360`](https://github.com/sase-org/sase/commit/ab1c360404b7af12251a19716b0ed51b429cdbde) | feat(plan): project bead links into plan headers (sase-ai.8) | 2026-07-28 15:10:36 EDT |
+| — | `ab1c360` | feat(plan): project bead links into plan headers (sase-ai.8) | 2026-07-28 15:10:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ai.1](../bbugyi200.athena.sase-ai.1/README.md) | sase-ai hood | active |
-| [sase-ai.10](../bbugyi200.athena.sase-ai.10/README.md) | sase-ai hood | active |
-| [sase-ai.2](../bbugyi200.athena.sase-ai.2/README.md) | sase-ai hood | active |
-| [sase-ai.3](../bbugyi200.athena.sase-ai.3/README.md) | sase-ai hood | active |
-| [sase-ai.4](../bbugyi200.athena.sase-ai.4/README.md) | sase-ai hood | active |
-| [sase-ai.5](../bbugyi200.athena.sase-ai.5/README.md) | sase-ai hood | active |
-| [sase-ai.6](../bbugyi200.athena.sase-ai.6/README.md) | sase-ai hood | active |
-| [sase-ai.7](../bbugyi200.athena.sase-ai.7/README.md) | sase-ai hood | active |
-| [sase-ai.9](../bbugyi200.athena.sase-ai.9/README.md) | sase-ai hood | active |
-| [sase-ai.land](../bbugyi200.athena.sase-ai.land/README.md) | sase-ai hood | active |
+| [sase-ai.1](../bbugyi200.athena.sase-ai.1/README.md) | sase-ai hood | dismissed |
+| [sase-ai.10](../bbugyi200.athena.sase-ai.10/README.md) | sase-ai hood | dismissed |
+| [sase-ai.2](../bbugyi200.athena.sase-ai.2/README.md) | sase-ai hood | dismissed |
+| [sase-ai.3](../bbugyi200.athena.sase-ai.3/README.md) | sase-ai hood | dismissed |
+| [sase-ai.4](../bbugyi200.athena.sase-ai.4/README.md) | sase-ai hood | dismissed |
+| [sase-ai.5](../bbugyi200.athena.sase-ai.5/README.md) | sase-ai hood | dismissed |
+| [sase-ai.6](../bbugyi200.athena.sase-ai.6/README.md) | sase-ai hood | dismissed |
+| [sase-ai.7](../bbugyi200.athena.sase-ai.7/README.md) | sase-ai hood | dismissed |
+| [sase-ai.9](../bbugyi200.athena.sase-ai.9/README.md) | sase-ai hood | dismissed |
+| [sase-ai.land](../bbugyi200.athena.sase-ai.land/README.md) | sase-ai hood | dismissed |

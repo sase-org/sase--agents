@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8d34bc9`](https://github.com/sase-org/sase/commit/8d34bc9ae0f093f4170229cf78a7dafe8007a26f) | test: keep suite gate socket paths below Linux limits | 2026-07-28 16:38:40 EDT |
-| sase | [`7ba8b1c`](https://github.com/sase-org/sase/commit/7ba8b1ceab7d6652e011ac4461c1745e69f91997) | test: preserve suite-gate holder status at timeout | 2026-07-28 17:01:02 EDT |
+| — | `8d34bc9` | test: keep suite gate socket paths below Linux limits | 2026-07-28 16:38:40 EDT |
+| — | `7ba8b1c` | test: preserve suite-gate holder status at timeout | 2026-07-28 17:01:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ah.1](../bbugyi200.athena.sase-ah.1/README.md) | sase-ah hood | active |
-| [sase-ah.2](../bbugyi200.athena.sase-ah.2/README.md) | sase-ah hood | active |
-| [sase-ah.3](../bbugyi200.athena.sase-ah.3/README.md) | sase-ah hood | active |
+| [sase-ah.1](../bbugyi200.athena.sase-ah.1/README.md) | sase-ah hood | dismissed |
+| [sase-ah.2](../bbugyi200.athena.sase-ah.2/README.md) | sase-ah hood | dismissed |
+| [sase-ah.3](../bbugyi200.athena.sase-ah.3/README.md) | sase-ah hood | dismissed |

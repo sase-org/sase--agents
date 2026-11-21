@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0b3d16c`](https://github.com/sase-org/sase/commit/0b3d16ce40b7b0d20aa504d748c4147d3dfc9967) | fix(ace): finish tribe wait integration | 2026-07-28 18:36:19 EDT |
+| — | `0b3d16c` | fix(ace): finish tribe wait integration | 2026-07-28 18:36:19 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ak.1](../bbugyi200.athena.sase-ak.1/README.md) | sase-ak hood | active |
-| [sase-ak.2](../bbugyi200.athena.sase-ak.2/README.md) | sase-ak hood | active |
-| [sase-ak.3](../bbugyi200.athena.sase-ak.3/README.md) | sase-ak hood | active |
-| [sase-ak.4](../bbugyi200.athena.sase-ak.4/README.md) | sase-ak hood | active |
+| [sase-ak.1](../bbugyi200.athena.sase-ak.1/README.md) | sase-ak hood | dismissed |
+| [sase-ak.2](../bbugyi200.athena.sase-ak.2/README.md) | sase-ak hood | dismissed |
+| [sase-ak.3](../bbugyi200.athena.sase-ak.3/README.md) | sase-ak hood | dismissed |
+| [sase-ak.4](../bbugyi200.athena.sase-ak.4/README.md) | sase-ak hood | dismissed |
