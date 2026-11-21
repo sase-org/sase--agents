@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-dr](../../users/bbugyi200/machines/athena/hoods/sase-dr/README.md) / sase-dr.1
 
-**Global name:** `bbugyi200.athena.sase-dr.1` · **State:** active · **Source run:** `run-f99bbea21debb228e27e6f2f47e56bea`
+**Global name:** `bbugyi200.athena.sase-dr.1` · **State:** dismissed · **Source run:** `run-f99bbea21debb228e27e6f2f47e56bea`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-dr
 
@@ -12,7 +12,7 @@
 - Epic: [sase-dr](https://github.com/sase-org/sase--beads/blob/main/pages/sase-dr/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-01T17:12:30.297592+00:00
+- Timing: 2026-08-01T13:12:30.297592 → 2026-08-01T14:00:29.851706
 - Commits: [1](#commits)
 
 ## Files
@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c9aed8a`](https://github.com/sase-org/sase/commit/c9aed8a6fca8eeaca467f60234d5a74d05a84800) | feat(beads): integrate atomic task evidence contract | 2026-08-01 13:58:19 EDT |
+| — | `c9aed8a` | feat(beads): integrate atomic task evidence contract | 2026-08-01 13:58:19 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-dr.2](../bbugyi200.athena.sase-dr.2/README.md) | sase-dr hood | active |
-| [sase-dr.3](../bbugyi200.athena.sase-dr.3/README.md) | sase-dr hood | active |
-| [sase-dr.4](../bbugyi200.athena.sase-dr.4/README.md) | sase-dr hood | active |
-| [sase-dr.5](../bbugyi200.athena.sase-dr.5/README.md) | sase-dr hood | active |
-| [sase-dr.land](../../sessions/bbugyi200.athena.sase-dr.land.md) (session · 2) | sase-dr hood | active 1, completed 1 |
+| [sase-dr.2](../bbugyi200.athena.sase-dr.2/README.md) | sase-dr hood | dismissed |
+| [sase-dr.3](../bbugyi200.athena.sase-dr.3/README.md) | sase-dr hood | dismissed |
+| [sase-dr.4](../bbugyi200.athena.sase-dr.4/README.md) | sase-dr hood | dismissed |
+| [sase-dr.5](../bbugyi200.athena.sase-dr.5/README.md) | sase-dr hood | dismissed |
+| [sase-dr.land](../../sessions/bbugyi200.athena.sase-dr.land.md) (session · 2) | sase-dr hood | completed 1, dismissed 1 |
