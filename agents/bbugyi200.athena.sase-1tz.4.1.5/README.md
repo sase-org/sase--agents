@@ -13,11 +13,17 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 20261120140201
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`88d3629`](https://github.com/sase-org/sase/commit/88d36297ccb8c756fcb72346c5caf18231f373fc) | feat(notifications): externalize payloads over 8 KiB | 2026-11-20 19:43:56 EST |
 
 ## Neighbors
 

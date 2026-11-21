@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-221107763f48c454c3b4bf55dfb509cd"}
+{"commits":[{"committed_at":1795221836,"sha":"88d36297ccb8c756fcb72346c5caf18231f373fc","subject":"feat(notifications): externalize payloads over 8 KiB"}],"schema_version":2,"source_run_id":"run-221107763f48c454c3b4bf55dfb509cd"}
