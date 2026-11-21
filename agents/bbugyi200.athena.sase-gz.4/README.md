@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-gz](../../users/bbugyi200/machines/athena/hoods/sase-gz/README.md) / sase-gz.4
 
-**Global name:** `bbugyi200.athena.sase-gz.4` · **State:** active · **Source run:** `run-0a09b3bbcd52fbf983fc3ee267bc1932`
+**Global name:** `bbugyi200.athena.sase-gz.4` · **State:** dismissed · **Source run:** `run-0a09b3bbcd52fbf983fc3ee267bc1932`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-gz
 
@@ -12,7 +12,7 @@
 - Epic: [sase-gz](https://github.com/sase-org/sase--beads/blob/main/pages/sase-gz/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-07T15:19:01.074358+00:00
+- Timing: 2026-08-07T11:19:01.074358 → 2026-08-07T12:16:58.042405
 - Commits: [2](#commits)
 
 ## Files
@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3867fe3`](https://github.com/sase-org/sase/commit/3867fe37c8419c5e46af869a0cb7ec5d4a9b9670) | feat(ace): render notification icons in the tab strip and indicator chips | 2026-08-07 12:00:14 EDT |
-| sase | [`72a3ab9`](https://github.com/sase-org/sase/commit/72a3ab92c448eeb95131e2b0308e82df78aa5f5e) | test(ace): refresh Admin Center goldens for the notification badge | 2026-08-07 12:04:28 EDT |
+| — | `3867fe3` | feat(ace): render notification icons in the tab strip and indicator chips | 2026-08-07 12:00:14 EDT |
+| — | `72a3ab9` | test(ace): refresh Admin Center goldens for the notification badge | 2026-08-07 12:04:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-gz.1](../bbugyi200.athena.sase-gz.1/README.md) | sase-gz hood | active |
-| [sase-gz.2](../bbugyi200.athena.sase-gz.2/README.md) | sase-gz hood | active |
-| [sase-gz.3](../bbugyi200.athena.sase-gz.3/README.md) | sase-gz hood | active |
-| [sase-gz.5](../bbugyi200.athena.sase-gz.5/README.md) | sase-gz hood | active |
-| [sase-gz.6](../bbugyi200.athena.sase-gz.6/README.md) | sase-gz hood | active |
-| [sase-gz.land](../bbugyi200.athena.sase-gz.land/README.md) | sase-gz hood | active |
-| [sase-gz.land.f1](../../sessions/bbugyi200.athena.sase-gz.land.f1.md) (session · 2) | sase-gz hood | active 1, completed 1 |
+| [sase-gz.1](../bbugyi200.athena.sase-gz.1/README.md) | sase-gz hood | dismissed |
+| [sase-gz.2](../bbugyi200.athena.sase-gz.2/README.md) | sase-gz hood | dismissed |
+| [sase-gz.3](../bbugyi200.athena.sase-gz.3/README.md) | sase-gz hood | dismissed |
+| [sase-gz.5](../bbugyi200.athena.sase-gz.5/README.md) | sase-gz hood | dismissed |
+| [sase-gz.6](../bbugyi200.athena.sase-gz.6/README.md) | sase-gz hood | dismissed |
+| [sase-gz.land](../bbugyi200.athena.sase-gz.land/README.md) | sase-gz hood | dismissed |
+| [sase-gz.land.f1](../../sessions/bbugyi200.athena.sase-gz.land.f1.md) (session · 2) | sase-gz hood | completed 1, dismissed 1 |

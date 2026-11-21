@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-gv](../../users/bbugyi200/machines/athena/hoods/sase-gv/README.md) / sase-gv.8
 
-**Global name:** `bbugyi200.athena.sase-gv.8` · **State:** active · **Source run:** `run-52aa67222a83984b41a015583d0e2b62`
+**Global name:** `bbugyi200.athena.sase-gv.8` · **State:** dismissed · **Source run:** `run-52aa67222a83984b41a015583d0e2b62`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-gv
 
@@ -12,7 +12,7 @@
 - Epic: [sase-gv](https://github.com/sase-org/sase--beads/blob/main/pages/sase-gv/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-07T15:25:04.384281+00:00
+- Timing: 2026-08-07T11:25:04.384281 → 2026-08-07T11:57:14.004570
 - Commits: [1](#commits)
 
 ## Files
@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3b5c76d`](https://github.com/sase-org/sase/commit/3b5c76da4e879f22388e614d8e8a6361dbff32c8) | docs(ace): document the Admin Center-wide apostrophe entry-jump key | 2026-08-07 11:56:17 EDT |
+| — | `3b5c76d` | docs(ace): document the Admin Center-wide apostrophe entry-jump key | 2026-08-07 11:56:17 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-gv.1](../bbugyi200.athena.sase-gv.1/README.md) | sase-gv hood | active |
-| [sase-gv.2](../bbugyi200.athena.sase-gv.2/README.md) | sase-gv hood | active |
-| [sase-gv.3](../bbugyi200.athena.sase-gv.3/README.md) | sase-gv hood | active |
-| [sase-gv.4](../bbugyi200.athena.sase-gv.4/README.md) | sase-gv hood | active |
-| [sase-gv.5](../bbugyi200.athena.sase-gv.5/README.md) | sase-gv hood | active |
-| [sase-gv.6](../bbugyi200.athena.sase-gv.6/README.md) | sase-gv hood | active |
-| [sase-gv.7](../bbugyi200.athena.sase-gv.7/README.md) | sase-gv hood | active |
-| [sase-gv.land](../bbugyi200.athena.sase-gv.land/README.md) | sase-gv hood | active |
+| [sase-gv.1](../bbugyi200.athena.sase-gv.1/README.md) | sase-gv hood | dismissed |
+| [sase-gv.2](../bbugyi200.athena.sase-gv.2/README.md) | sase-gv hood | dismissed |
+| [sase-gv.3](../bbugyi200.athena.sase-gv.3/README.md) | sase-gv hood | dismissed |
+| [sase-gv.4](../bbugyi200.athena.sase-gv.4/README.md) | sase-gv hood | dismissed |
+| [sase-gv.5](../bbugyi200.athena.sase-gv.5/README.md) | sase-gv hood | dismissed |
+| [sase-gv.6](../bbugyi200.athena.sase-gv.6/README.md) | sase-gv hood | dismissed |
+| [sase-gv.7](../bbugyi200.athena.sase-gv.7/README.md) | sase-gv hood | dismissed |
+| [sase-gv.land](../bbugyi200.athena.sase-gv.land/README.md) | sase-gv hood | dismissed |
