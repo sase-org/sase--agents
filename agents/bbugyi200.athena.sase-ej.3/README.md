@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ej](../../users/bbugyi200/machines/athena/hoods/sase-ej/README.md) / sase-ej.3
 
-**Global name:** `bbugyi200.athena.sase-ej.3` · **State:** active · **Source run:** `run-1d74cedc0a9fee26b5dce1a81f556c45`
+**Global name:** `bbugyi200.athena.sase-ej.3` · **State:** dismissed · **Source run:** `run-1d74cedc0a9fee26b5dce1a81f556c45`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ej
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ej](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ej/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-03T10:54:11.763241+00:00
+- Timing: 2026-08-03T06:54:11.763241 → 2026-08-03T07:40:46.439167
 - Commits: [1](#commits)
 
 ## Files
@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0d6ed1a`](https://github.com/sase-org/sase/commit/0d6ed1a194b2cdb8c398399e82fcbcc903ee51f8) | feat(axe): drain queued sidecar publications | 2026-08-03 07:39:46 EDT |
+| — | `0d6ed1a` | feat(axe): drain queued sidecar publications | 2026-08-03 07:39:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ej.1](../bbugyi200.athena.sase-ej.1/README.md) | sase-ej hood | active |
-| [sase-ej.2](../bbugyi200.athena.sase-ej.2/README.md) | sase-ej hood | active |
-| [sase-ej.4](../bbugyi200.athena.sase-ej.4/README.md) | sase-ej hood | active |
-| [sase-ej.5](../bbugyi200.athena.sase-ej.5/README.md) | sase-ej hood | active |
-| [sase-ej.6](../bbugyi200.athena.sase-ej.6/README.md) | sase-ej hood | active |
-| [sase-ej.land](../bbugyi200.athena.sase-ej.land/README.md) | sase-ej hood | active |
-| [sase-ej.land.w0](../bbugyi200.athena.sase-ej.land.w0/README.md) | sase-ej hood | waiting |
-| [sase-ej.land.w2](../bbugyi200.athena.sase-ej.land.w2/README.md) | sase-ej hood | active |
+| [sase-ej.1](../bbugyi200.athena.sase-ej.1/README.md) | sase-ej hood | dismissed |
+| [sase-ej.2](../bbugyi200.athena.sase-ej.2/README.md) | sase-ej hood | dismissed |
+| [sase-ej.4](../bbugyi200.athena.sase-ej.4/README.md) | sase-ej hood | dismissed |
+| [sase-ej.5](../bbugyi200.athena.sase-ej.5/README.md) | sase-ej hood | dismissed |
+| [sase-ej.6](../bbugyi200.athena.sase-ej.6/README.md) | sase-ej hood | dismissed |
+| [sase-ej.land](../bbugyi200.athena.sase-ej.land/README.md) | sase-ej hood | dismissed |
+| [sase-ej.land.w0](../bbugyi200.athena.sase-ej.land.w0/README.md) | sase-ej hood | dismissed |
+| [sase-ej.land.w2](../bbugyi200.athena.sase-ej.land.w2/README.md) | sase-ej hood | dismissed |

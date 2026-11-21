@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ei` · Members: 2 · Bead: [sase-ei.4](
 
 ```mermaid
 flowchart TD
-  n0["sase-ei.4--plan [active]"]
+  n0["sase-ei.4--plan [dismissed]"]
   n1["sase-ei.4--code [active]"]
   n0 --> n1
 ```
@@ -17,15 +17,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-ei.4--plan | active | gpt-5.6-sol / codex | 2026-08-03T13:37:12.790006+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ei.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ei.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-ei.4--plan | dismissed | gpt-5.6-sol / codex | 2026-08-03T09:37:12.790006 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ei.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ei.4--plan/chat.md) |
 | <a id="member-code"></a>code | sase-ei.4--code | active | gpt-5.5 / codex | 2026-08-03T13:42:39.433528+00:00 | 0 | — | — |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ei.1](bbugyi200.athena.sase-ei.1.md) (session · 2) | sase-ei hood | active 1, completed 1 |
-| [sase-ei.2](../agents/bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | active |
-| [sase-ei.3](bbugyi200.athena.sase-ei.3.md) (session · 2) | sase-ei hood | active 1, completed 1 |
-| [sase-ei.5](../agents/bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | waiting |
-| [sase-ei.land](../agents/bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | waiting |
+| [sase-ei.1](bbugyi200.athena.sase-ei.1.md) (session · 2) | sase-ei hood | completed 1, dismissed 1 |
+| [sase-ei.2](../agents/bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | dismissed |
+| [sase-ei.3](bbugyi200.athena.sase-ei.3.md) (session · 2) | sase-ei hood | completed 1, dismissed 1 |
+| [sase-ei.5](../agents/bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | dismissed |
+| [sase-ei.land](../agents/bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | dismissed |

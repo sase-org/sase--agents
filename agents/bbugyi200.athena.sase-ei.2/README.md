@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ei](../../users/bbugyi200/machines/athena/hoods/sase-ei/README.md) / sase-ei.2
 
-**Global name:** `bbugyi200.athena.sase-ei.2` · **State:** active · **Source run:** `run-67c560844b512904e16541df114d346e`
+**Global name:** `bbugyi200.athena.sase-ei.2` · **State:** dismissed · **Source run:** `run-67c560844b512904e16541df114d346e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ei
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ei](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ei/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-03T12:01:20.055070+00:00
+- Timing: 2026-08-03T08:01:20.055070 → 2026-08-03T08:55:25.552225
 - Commits: [1](#commits)
 
 ## Files
@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f7e1fe2`](https://github.com/sase-org/sase/commit/f7e1fe2161e24e208869b1e8c64879ee3495ac94) | feat(beads): rewrite historical bead references | 2026-08-03 08:54:38 EDT |
+| — | `f7e1fe2` | feat(beads): rewrite historical bead references | 2026-08-03 08:54:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ei.1](../../sessions/bbugyi200.athena.sase-ei.1.md) (session · 2) | sase-ei hood | active 1, completed 1 |
-| [sase-ei.3](../../sessions/bbugyi200.athena.sase-ei.3.md) (session · 2) | sase-ei hood | active 1, completed 1 |
-| [sase-ei.4](../../sessions/bbugyi200.athena.sase-ei.4.md) (session · 2) | sase-ei hood | active 2 |
-| [sase-ei.5](../bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | waiting |
-| [sase-ei.land](../bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | waiting |
+| [sase-ei.1](../../sessions/bbugyi200.athena.sase-ei.1.md) (session · 2) | sase-ei hood | completed 1, dismissed 1 |
+| [sase-ei.3](../../sessions/bbugyi200.athena.sase-ei.3.md) (session · 2) | sase-ei hood | completed 1, dismissed 1 |
+| [sase-ei.4](../../sessions/bbugyi200.athena.sase-ei.4.md) (session · 2) | sase-ei hood | active 1, dismissed 1 |
+| [sase-ei.5](../bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | dismissed |
+| [sase-ei.land](../bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | dismissed |

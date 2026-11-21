@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-e9](../../users/bbugyi200/machines/athena/hoods/sase-e9/README.md) / sase-e9.land
 
-**Global name:** `bbugyi200.athena.sase-e9.land` · **State:** active · **Source run:** `run-eec6c9d2951d17dda8beabefd7efa3b3`
+**Global name:** `bbugyi200.athena.sase-e9.land` · **State:** dismissed · **Source run:** `run-eec6c9d2951d17dda8beabefd7efa3b3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-e9
 
@@ -11,7 +11,7 @@
 - Bead: [sase-e9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-e9/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-02T17:26:04.766416+00:00
+- Timing: 2026-08-02T13:26:04.766416 → 2026-08-02T14:00:13.773222
 - Commits: 0
 
 ## Files
@@ -22,6 +22,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-e9.1](../bbugyi200.athena.sase-e9.1/README.md) | sase-e9 hood | active |
-| [sase-e9.2](../bbugyi200.athena.sase-e9.2/README.md) | sase-e9 hood | active |
-| [sase-e9.3](../bbugyi200.athena.sase-e9.3/README.md) | sase-e9 hood | active |
+| [sase-e9.1](../bbugyi200.athena.sase-e9.1/README.md) | sase-e9 hood | dismissed |
+| [sase-e9.2](../bbugyi200.athena.sase-e9.2/README.md) | sase-e9 hood | dismissed |
+| [sase-e9.3](../bbugyi200.athena.sase-e9.3/README.md) | sase-e9 hood | dismissed |

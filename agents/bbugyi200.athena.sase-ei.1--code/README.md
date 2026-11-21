@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b763878`](https://github.com/sase-org/sase/commit/b763878d3dc938672722d6053737f8e706cdc180) | feat(beads): expose prefix migration facade | 2026-08-03 07:59:00 EDT |
+| — | `b763878` | feat(beads): expose prefix migration facade | 2026-08-03 07:59:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ei.2](../bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | active |
-| [sase-ei.3](../../sessions/bbugyi200.athena.sase-ei.3.md) (session · 2) | sase-ei hood | active 1, completed 1 |
-| [sase-ei.4](../../sessions/bbugyi200.athena.sase-ei.4.md) (session · 2) | sase-ei hood | active 2 |
-| [sase-ei.5](../bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | waiting |
-| [sase-ei.land](../bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | waiting |
+| [sase-ei.2](../bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | dismissed |
+| [sase-ei.3](../../sessions/bbugyi200.athena.sase-ei.3.md) (session · 2) | sase-ei hood | completed 1, dismissed 1 |
+| [sase-ei.4](../../sessions/bbugyi200.athena.sase-ei.4.md) (session · 2) | sase-ei hood | active 1, dismissed 1 |
+| [sase-ei.5](../bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | dismissed |
+| [sase-ei.land](../bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | dismissed |

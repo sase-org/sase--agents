@@ -19,8 +19,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ei.1](../../sessions/bbugyi200.athena.sase-ei.1.md) (session · 2) | sase-ei hood | active 1, completed 1 |
-| [sase-ei.2](../bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | active |
-| [sase-ei.3](../../sessions/bbugyi200.athena.sase-ei.3.md) (session · 2) | sase-ei hood | active 1, completed 1 |
-| [sase-ei.5](../bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | waiting |
-| [sase-ei.land](../bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | waiting |
+| [sase-ei.1](../../sessions/bbugyi200.athena.sase-ei.1.md) (session · 2) | sase-ei hood | completed 1, dismissed 1 |
+| [sase-ei.2](../bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | dismissed |
+| [sase-ei.3](../../sessions/bbugyi200.athena.sase-ei.3.md) (session · 2) | sase-ei hood | completed 1, dismissed 1 |
+| [sase-ei.5](../bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | dismissed |
+| [sase-ei.land](../bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | dismissed |

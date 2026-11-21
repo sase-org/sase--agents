@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b4db947`](https://github.com/sase-org/sase/commit/b4db947d2c746c1c4aebc68f3d3ecee95ae44a9f) | feat(agent-names): migrate historical agent identities | 2026-08-03 09:29:25 EDT |
+| — | `b4db947` | feat(agent-names): migrate historical agent identities | 2026-08-03 09:29:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ei.1](../../sessions/bbugyi200.athena.sase-ei.1.md) (session · 2) | sase-ei hood | active 1, completed 1 |
-| [sase-ei.2](../bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | active |
-| [sase-ei.4](../../sessions/bbugyi200.athena.sase-ei.4.md) (session · 2) | sase-ei hood | active 2 |
-| [sase-ei.5](../bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | waiting |
-| [sase-ei.land](../bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | waiting |
+| [sase-ei.1](../../sessions/bbugyi200.athena.sase-ei.1.md) (session · 2) | sase-ei hood | completed 1, dismissed 1 |
+| [sase-ei.2](../bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | dismissed |
+| [sase-ei.4](../../sessions/bbugyi200.athena.sase-ei.4.md) (session · 2) | sase-ei hood | active 1, dismissed 1 |
+| [sase-ei.5](../bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | dismissed |
+| [sase-ei.land](../bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | dismissed |
