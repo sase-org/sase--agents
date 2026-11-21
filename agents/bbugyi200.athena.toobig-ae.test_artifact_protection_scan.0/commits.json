@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f3aa206566fcb726a458d965fdda282d"}
+{"commits":[{"committed_at":1795228475,"sha":"f9fe86e1946e2f6275211aedd5c62c402fb3dfcb","subject":"test(sase): split test_artifact_protection_scan into focused modules"}],"schema_version":2,"source_run_id":"run-f3aa206566fcb726a458d965fdda282d"}

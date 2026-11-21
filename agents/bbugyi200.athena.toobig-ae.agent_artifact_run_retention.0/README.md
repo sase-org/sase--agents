@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-ae.test\_artifact\_protection\_scan.0](../bbugyi200.athena.toobig-ae.test_artifact_protection_scan.0/README.md) | toobig-ae hood | active |
+| [toobig-ae.test\_artifact\_protection\_scan.0](../bbugyi200.athena.toobig-ae.test_artifact_protection_scan.0/README.md) | toobig-ae hood | completed |

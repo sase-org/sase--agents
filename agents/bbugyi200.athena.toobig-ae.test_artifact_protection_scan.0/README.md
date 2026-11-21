@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-ae](../../users/bbugyi200/machines/athena/hoods/toobig-ae/README.md) / toobig-ae.test\_artifact\_protection\_scan.0
 
-**Global name:** `bbugyi200.athena.toobig-ae.test_artifact_protection_scan.0` · **State:** active · **Source run:** `run-f3aa206566fcb726a458d965fdda282d`
+**Global name:** `bbugyi200.athena.toobig-ae.test_artifact_protection_scan.0` · **State:** completed · **Source run:** `run-f3aa206566fcb726a458d965fdda282d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-ae
 
@@ -10,12 +10,18 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-21T02:21:46.099386+00:00
-- Commits: 0
+- Timing: 2026-11-21T02:21:46.099386+00:00 → 2026-11-21T02:34:48.502547+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f9fe86e`](https://github.com/sase-org/sase/commit/f9fe86e1946e2f6275211aedd5c62c402fb3dfcb) | test(sase): split test\_artifact\_protection\_scan into focused modules | 2026-11-20 21:34:35 EST |
 
 ## Neighbors
 
