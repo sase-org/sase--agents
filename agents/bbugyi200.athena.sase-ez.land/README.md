@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ez](../../users/bbugyi200/machines/athena/hoods/sase-ez/README.md) / sase-ez.land
 
-**Global name:** `bbugyi200.athena.sase-ez.land` · **State:** active · **Source run:** `run-87ef324b04a1f8115f75b239c33b4cef`
+**Global name:** `bbugyi200.athena.sase-ez.land` · **State:** dismissed · **Source run:** `run-87ef324b04a1f8115f75b239c33b4cef`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ez
 
@@ -11,7 +11,7 @@
 - Bead: [sase-ez](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ez/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-03T21:13:04.737497+00:00
+- Timing: 2026-08-03T17:13:04.737497 → 2026-08-03T17:43:10.415027
 - Commits: 0
 
 ## Files
@@ -22,8 +22,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ez.1](../bbugyi200.athena.sase-ez.1/README.md) | sase-ez hood | active |
-| [sase-ez.2](../../sessions/bbugyi200.athena.sase-ez.2.md) (session · 2) | sase-ez hood | active 1, completed 1 |
-| [sase-ez.3](../bbugyi200.athena.sase-ez.3/README.md) | sase-ez hood | active |
-| [sase-ez.4](../../sessions/bbugyi200.athena.sase-ez.4.md) (session · 2) | sase-ez hood | active 1, completed 1 |
-| [sase-ez.5](../bbugyi200.athena.sase-ez.5/README.md) | sase-ez hood | active |
+| [sase-ez.1](../bbugyi200.athena.sase-ez.1/README.md) | sase-ez hood | dismissed |
+| [sase-ez.2](../../sessions/bbugyi200.athena.sase-ez.2.md) (session · 2) | sase-ez hood | completed 1, dismissed 1 |
+| [sase-ez.3](../bbugyi200.athena.sase-ez.3/README.md) | sase-ez hood | dismissed |
+| [sase-ez.4](../../sessions/bbugyi200.athena.sase-ez.4.md) (session · 2) | sase-ez hood | completed 1, dismissed 1 |
+| [sase-ez.5](../bbugyi200.athena.sase-ez.5/README.md) | sase-ez hood | dismissed |

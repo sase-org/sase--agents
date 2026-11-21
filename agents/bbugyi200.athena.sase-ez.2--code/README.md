@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a33aaa1`](https://github.com/sase-org/sase/commit/a33aaa1c22940db6db74d51049d4046f10ad4a9e) | test(beads): align dep rm missing-edge expectation | 2026-08-03 16:02:43 EDT |
+| — | `a33aaa1` | test(beads): align dep rm missing-edge expectation | 2026-08-03 16:02:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ez.1](../bbugyi200.athena.sase-ez.1/README.md) | sase-ez hood | active |
-| [sase-ez.3](../bbugyi200.athena.sase-ez.3/README.md) | sase-ez hood | active |
-| [sase-ez.4](../../sessions/bbugyi200.athena.sase-ez.4.md) (session · 2) | sase-ez hood | active 1, completed 1 |
-| [sase-ez.5](../bbugyi200.athena.sase-ez.5/README.md) | sase-ez hood | active |
-| [sase-ez.land](../bbugyi200.athena.sase-ez.land/README.md) | sase-ez hood | active |
+| [sase-ez.1](../bbugyi200.athena.sase-ez.1/README.md) | sase-ez hood | dismissed |
+| [sase-ez.3](../bbugyi200.athena.sase-ez.3/README.md) | sase-ez hood | dismissed |
+| [sase-ez.4](../../sessions/bbugyi200.athena.sase-ez.4.md) (session · 2) | sase-ez hood | completed 1, dismissed 1 |
+| [sase-ez.5](../bbugyi200.athena.sase-ez.5/README.md) | sase-ez hood | dismissed |
+| [sase-ez.land](../bbugyi200.athena.sase-ez.land/README.md) | sase-ez hood | dismissed |
