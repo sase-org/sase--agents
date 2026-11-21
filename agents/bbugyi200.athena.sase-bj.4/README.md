@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-bj](../../users/bbugyi200/machines/athena/hoods/sase-bj/README.md) / sase-bj.4
 
-**Global name:** `bbugyi200.athena.sase-bj.4` · **State:** active · **Source run:** `run-66c357cd089d49bd2cda0944f991cac6`
+**Global name:** `bbugyi200.athena.sase-bj.4` · **State:** dismissed · **Source run:** `run-66c357cd089d49bd2cda0944f991cac6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-bj
 
@@ -12,7 +12,7 @@
 - Epic: [sase-bj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-bj/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-31T12:43:53.183847+00:00
+- Timing: 2026-07-31T08:43:53.183847 → 2026-07-31T09:25:57.416926
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2f565d0`](https://github.com/sase-org/sase/commit/2f565d0be3ba54489a50982aab93964990ec1df0) | docs(commit): document the conventional subject gate | 2026-07-31 09:22:37 EDT |
+| — | `2f565d0` | docs(commit): document the conventional subject gate | 2026-07-31 09:22:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-bj.1](../bbugyi200.athena.sase-bj.1/README.md) | sase-bj hood | active |
-| [sase-bj.2](../bbugyi200.athena.sase-bj.2/README.md) | sase-bj hood | active |
-| [sase-bj.3](../bbugyi200.athena.sase-bj.3/README.md) | sase-bj hood | active |
-| [sase-bj.land](../../sessions/bbugyi200.athena.sase-bj.land.md) (session · 2) | sase-bj hood | active 1, completed 1 |
+| [sase-bj.1](../bbugyi200.athena.sase-bj.1/README.md) | sase-bj hood | dismissed |
+| [sase-bj.2](../bbugyi200.athena.sase-bj.2/README.md) | sase-bj hood | dismissed |
+| [sase-bj.3](../bbugyi200.athena.sase-bj.3/README.md) | sase-bj hood | dismissed |
+| [sase-bj.land](../../sessions/bbugyi200.athena.sase-bj.land.md) (session · 2) | sase-bj hood | completed 1, dismissed 1 |

@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9a6b203`](https://github.com/sase-org/sase/commit/9a6b20390e44b2b2dec6c546d2bf241b174021f4) | fix(commit): apply conventional subject gate updates | 2026-07-31 10:19:48 EDT |
+| — | `9a6b203` | fix(commit): apply conventional subject gate updates | 2026-07-31 10:19:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-bj.1](../bbugyi200.athena.sase-bj.1/README.md) | sase-bj hood | active |
-| [sase-bj.2](../bbugyi200.athena.sase-bj.2/README.md) | sase-bj hood | active |
-| [sase-bj.3](../bbugyi200.athena.sase-bj.3/README.md) | sase-bj hood | active |
-| [sase-bj.4](../bbugyi200.athena.sase-bj.4/README.md) | sase-bj hood | active |
+| [sase-bj.1](../bbugyi200.athena.sase-bj.1/README.md) | sase-bj hood | dismissed |
+| [sase-bj.2](../bbugyi200.athena.sase-bj.2/README.md) | sase-bj hood | dismissed |
+| [sase-bj.3](../bbugyi200.athena.sase-bj.3/README.md) | sase-bj hood | dismissed |
+| [sase-bj.4](../bbugyi200.athena.sase-bj.4/README.md) | sase-bj hood | dismissed |
