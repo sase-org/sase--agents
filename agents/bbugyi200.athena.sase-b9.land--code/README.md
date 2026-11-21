@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6eb412`](https://github.com/sase-org/sase/commit/d6eb4127138b071e02e179b4cd8bf0c1da7c9948) | fix(artifact): protect consumed files from retention | 2026-07-30 13:09:26 EDT |
-| sase | [`be94f09`](https://github.com/sase-org/sase/commit/be94f098a761cee54e5e4b855374b504b92f6eb8) | fix(artifact): extend consumption protection coverage | 2026-07-30 13:52:03 EDT |
+| — | `d6eb412` | fix(artifact): protect consumed files from retention | 2026-07-30 13:09:26 EDT |
+| — | `be94f09` | fix(artifact): extend consumption protection coverage | 2026-07-30 13:52:03 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b9.1](../bbugyi200.athena.sase-b9.1/README.md) | sase-b9 hood | active |
-| [sase-b9.2](../bbugyi200.athena.sase-b9.2/README.md) | sase-b9 hood | active |
-| [sase-b9.3](../bbugyi200.athena.sase-b9.3/README.md) | sase-b9 hood | active |
-| [sase-b9.4](../bbugyi200.athena.sase-b9.4/README.md) | sase-b9 hood | active |
+| [sase-b9.1](../bbugyi200.athena.sase-b9.1/README.md) | sase-b9 hood | dismissed |
+| [sase-b9.2](../bbugyi200.athena.sase-b9.2/README.md) | sase-b9 hood | dismissed |
+| [sase-b9.3](../bbugyi200.athena.sase-b9.3/README.md) | sase-b9 hood | dismissed |
+| [sase-b9.4](../bbugyi200.athena.sase-b9.4/README.md) | sase-b9 hood | dismissed |
