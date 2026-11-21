@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-1tz
 
-**Global hood:** `bbugyi200.athena.sase-1tz` · **Runs:** 84 · **Sessions:** 12 · **States:** active 6, completed 72, failed 5, waiting 1
+**Global hood:** `bbugyi200.athena.sase-1tz` · **Runs:** 84 · **Sessions:** 12 · **States:** active 6, completed 73, failed 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -71,7 +71,7 @@
 | [sase-1tz.4.1.8](../../../../../../agents/bbugyi200.athena.sase-1tz.4.1.8/README.md) | completed | opus / claude | 2026-11-20T19:03:32.673177+00:00 → 2026-11-20T20:30:40.393251+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1tz.4.1.8/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1tz.4.1.8/chat.md) |
 | [sase-1tz.4.1.1](../../../../../../agents/bbugyi200.athena.sase-1tz.4.1.1/README.md) | completed | sonnet / claude | 2026-11-20T19:02:49.459609+00:00 → 2026-11-20T19:26:23.371839+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1tz.4.1.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1tz.4.1.1/chat.md) |
 | [sase-1tz.2.1.5--mon](../../../../../../sessions/bbugyi200.athena.sase-1tz.2.1.5.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-19T22:41:56.545526+00:00 → 2026-11-19T23:05:35.901825+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1tz.2.1.5--mon/chat.md) |
-| [sase-1tz.land](../../../../../../agents/bbugyi200.athena.sase-1tz.land/README.md) | waiting | claude-fable-5 / claude | 20261119105359 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1tz.land/prompt.md) |
+| [sase-1tz.land](../../../../../../agents/bbugyi200.athena.sase-1tz.land/README.md) | completed | claude-fable-5 / claude | 2026-11-21T12:39:18.750339+00:00 → 2026-11-21T12:58:52.463980+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1tz.land/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1tz.land/chat.md) |
 | [sase-1tz.4.1.10--mon](../../../../../../sessions/bbugyi200.athena.sase-1tz.4.1.10.md#member-mon) | failed | opus / claude | 2026-11-20T21:34:01.319757+00:00 → 2026-11-20T22:38:30.511101+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1tz.4.1.10--mon/chat.md) |
 | [sase-1tz.3.1.5--mon-0](../../../../../../sessions/bbugyi200.athena.sase-1tz.3.1.5.md#member-mon-0) | completed | grok-4.6 / grok | 2026-11-20T15:44:54.748535+00:00 → 2026-11-20T16:02:18.924896+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-1tz.3.1.5--mon-0/chat.md) |
 | [sase-1tz.2--mon](../../../../../../sessions/bbugyi200.athena.sase-1tz.2.md#member-mon) | completed | opus / claude | 2026-11-19T16:13:20.558794+00:00 → 2026-11-19T16:17:15.544808+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1tz.2--mon/chat.md) |
