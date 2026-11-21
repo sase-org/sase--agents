@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-97c747039664546b3b9196b1b7e08f0b"}
+{"commits":[{"committed_at":1795284472,"sha":"333f244b50e593996f65e34e9f5aa25cb006316f","subject":"feat(agent-publication): stream per-stage progress from project drains"}],"schema_version":2,"source_run_id":"run-97c747039664546b3b9196b1b7e08f0b"}

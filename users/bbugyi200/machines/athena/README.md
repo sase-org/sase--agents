@@ -1633,7 +1633,7 @@
 | [sase-1tz](hoods/sase-1tz/README.md) | 84 | 12 | active 6, completed 73, failed 5 |
 | [sase-1uj](hoods/sase-1uj/README.md) | 3 | 0 | completed 3 |
 | [sase-1ut](hoods/sase-1ut/README.md) | 5 | 1 | completed 5 |
-| [sase-1uu](hoods/sase-1uu/README.md) | 4 | 0 | completed 2, waiting 2 |
+| [sase-1uu](hoods/sase-1uu/README.md) | 4 | 0 | completed 3, waiting 1 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |
 | [sase-46](hoods/sase-46/README.md) | 6 | 0 | completed 6 |
