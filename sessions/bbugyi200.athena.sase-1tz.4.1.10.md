@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1tz` · Members: 5 · Bead: [sase-1tz.4
 ```mermaid
 flowchart TD
   n0["sase-1tz.4.1.10--plan [completed]"]
-  n1["sase-1tz.4.1.10--2 [active]"]
+  n1["sase-1tz.4.1.10--2 [completed]"]
   n0 --> n1
   n2["sase-1tz.4.1.10--mon-0 [completed]"]
   n0 --> n2
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1tz.4.1.10--plan | completed | opus / claude | 2026-11-20T19:03:38.607586+00:00 → 2026-11-20T21:37:05.167199+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.4.1.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.4.1.10--plan/chat.md) |
-| <a id="member-2"></a>2 | sase-1tz.4.1.10--2 | active | opus / claude | 2026-11-20T23:48:31.002535+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.4.1.10--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1tz.4.1.10--2 | completed | opus / claude | 2026-11-20T23:48:31.002535+00:00 → 2026-11-21T00:29:17.394881+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.4.1.10--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.4.1.10--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1tz.4.1.10--mon-0 | completed | opus / claude | 2026-11-20T22:41:14.107185+00:00 → 2026-11-20T23:48:31.423834+00:00 | [1](../agents/bbugyi200.athena.sase-1tz.4.1.10--mon-0/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1tz.4.1.10--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | sase-1tz.4.1.10--mon | failed | opus / claude | 2026-11-20T21:34:01.319757+00:00 → 2026-11-20T22:38:30.511101+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1tz.4.1.10--mon/chat.md) |
 | <a id="member-1"></a>1 | sase-1tz.4.1.10--1 | completed | opus / claude | 2026-11-20T22:39:00.718956+00:00 → 2026-11-20T22:42:11.184737+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1tz.4.1.10--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1tz.4.1.10--1/chat.md) |
