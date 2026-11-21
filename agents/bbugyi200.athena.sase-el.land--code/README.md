@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cd9815f`](https://github.com/sase-org/sase/commit/cd9815ff60ca70840e1530c82394ebf8c2d4e175) | test: harden agent CLI history timezone checks | 2026-08-03 11:08:15 EDT |
+| — | `cd9815f` | test: harden agent CLI history timezone checks | 2026-08-03 11:08:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-el.1](../bbugyi200.athena.sase-el.1/README.md) | sase-el hood | active |
-| [sase-el.2](../bbugyi200.athena.sase-el.2/README.md) | sase-el hood | active |
-| [sase-el.3](../bbugyi200.athena.sase-el.3/README.md) | sase-el hood | active |
-| [sase-el.4](../bbugyi200.athena.sase-el.4/README.md) | sase-el hood | active |
+| [sase-el.1](../bbugyi200.athena.sase-el.1/README.md) | sase-el hood | dismissed |
+| [sase-el.2](../bbugyi200.athena.sase-el.2/README.md) | sase-el hood | dismissed |
+| [sase-el.3](../bbugyi200.athena.sase-el.3/README.md) | sase-el hood | dismissed |
+| [sase-el.4](../bbugyi200.athena.sase-el.4/README.md) | sase-el hood | dismissed |
