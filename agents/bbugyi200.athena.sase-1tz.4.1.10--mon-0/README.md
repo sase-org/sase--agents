@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1tz](../../users/bbugyi200/machines/athena/hoods/sase-1tz/README.md) / [sase-1tz.4.1.10](../../sessions/bbugyi200.athena.sase-1tz.4.1.10.md) / sase-1tz.4.1.10--mon-0
 
-**Global name:** `bbugyi200.athena.sase-1tz.4.1.10--mon-0` · **State:** active · **Source run:** `run-b4e6bb73928f17b669d4ad5fa85a36dc`
+**Global name:** `bbugyi200.athena.sase-1tz.4.1.10--mon-0` · **State:** completed · **Source run:** `run-b4e6bb73928f17b669d4ad5fa85a36dc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1tz
 
@@ -11,8 +11,18 @@
 - Bead: [sase-1tz.4.1.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1tz/sase-1tz.4.1.10.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-20T22:41:14.107185+00:00
-- Commits: 0
+- Timing: 2026-11-20T22:41:14.107185+00:00 → 2026-11-20T23:48:31.423834+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`335170e`](https://github.com/sase-org/sase/commit/335170e1cb0b5b2d597fd43994f30eff784ac126) | feat(notifications): quiet file-hook successes, dedup rescues, floor prune nudges | 2026-11-20 18:51:15 EST |
 
 ## Neighbors
 
