@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-1ut` · Members: 3 · Bead: [sase-1ut](
 ```mermaid
 flowchart TD
   n0["sase-1ut.land--gate [completed]"]
-  n1["sase-1ut.land--code [active]"]
+  n1["sase-1ut.land--code [completed]"]
   n0 --> n1
-  n2["sase-1ut.land--plan [active]"]
+  n2["sase-1ut.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1ut.land--gate | completed | gpt-6-astra / codex | 2026-11-21T15:44:53.628561+00:00 → 2026-11-21T15:45:02.946858+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ut.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1ut.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-21T15:45:47.363167+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1ut.land--plan | active | gpt-6-astra / codex | 2026-11-21T15:34:29.245067+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ut.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ut.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1ut.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-21T15:45:47.363167+00:00 → 2026-11-21T16:51:06.189297+00:00 | [1](../agents/bbugyi200.athena.sase-1ut.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1ut.land--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-1ut.land--plan | completed | gpt-6-astra / codex | 2026-11-21T15:34:29.245067+00:00 → 2026-11-21T16:51:06.189297+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ut.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ut.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`da2165b`](https://github.com/sase-org/sase/commit/da2165b80fc181ee5f6c8e136436f12fe01ebe6a) | feat(gate-turn): share failure projection, harden dismissal timing and once-per-acceptance recovery | 2026-11-21 11:49:31 EST |
 
 ## Variables
 

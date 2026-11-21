@@ -30,4 +30,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1ut.1](../bbugyi200.athena.sase-1ut.1/README.md) | sase-1ut hood | completed |
-| [sase-1ut.land](../../sessions/bbugyi200.athena.sase-1ut.land.md) (session · 3) | sase-1ut hood | active 2, completed 1 |
+| [sase-1ut.land](../../sessions/bbugyi200.athena.sase-1ut.land.md) (session · 3) | sase-1ut hood | completed 3 |

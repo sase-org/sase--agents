@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3d082abeb219155de7ff252e827726dd"}
+{"commits":[{"committed_at":1795279771,"sha":"da2165b80fc181ee5f6c8e136436f12fe01ebe6a","subject":"feat(gate-turn): share failure projection, harden dismissal timing and once-per-acceptance recovery"}],"schema_version":2,"source_run_id":"run-3d082abeb219155de7ff252e827726dd"}
