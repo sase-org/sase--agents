@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9d9d499`](https://github.com/sase-org/sase/commit/9d9d49959146740f171753547ad32145fbcb0d3e) | build(deps): require powerful variable core release | 2026-08-15 18:56:15 EDT |
+| — | `9d9d499` | build(deps): require powerful variable core release | 2026-08-15 18:56:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mg.land.w1](../../sessions/bbugyi200.athena.sase-mg.land.w1.md) (session · 4) | descendant | active 1, completed 1, failed 2 |
-| [sase-mg.1](../bbugyi200.athena.sase-mg.1/README.md) | sase-mg hood | active |
-| [sase-mg.2](../bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | active |
-| [sase-mg.3](../bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | active |
-| [sase-mg.4](../bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | active |
+| [sase-mg.land.w1](../../sessions/bbugyi200.athena.sase-mg.land.w1.md) (session · 4) | descendant | completed 1, dismissed 1, failed 2 |
+| [sase-mg.1](../bbugyi200.athena.sase-mg.1/README.md) | sase-mg hood | dismissed |
+| [sase-mg.2](../bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | dismissed |
+| [sase-mg.3](../bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | dismissed |
+| [sase-mg.4](../bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | dismissed |

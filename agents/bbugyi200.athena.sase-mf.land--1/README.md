@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0f63a62`](https://github.com/sase-org/sase/commit/0f63a62abc8e533fb0f61196d4bc60e0999e2950) | test(ace): refresh the visual goldens stranded by the launch-default pill stub | 2026-08-16 02:05:54 EDT |
+| — | `0f63a62` | test(ace): refresh the visual goldens stranded by the launch-default pill stub | 2026-08-16 02:05:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mf.1](../bbugyi200.athena.sase-mf.1/README.md) | sase-mf hood | active |
-| [sase-mf.2](../bbugyi200.athena.sase-mf.2/README.md) | sase-mf hood | active |
+| [sase-mf.1](../bbugyi200.athena.sase-mf.1/README.md) | sase-mf hood | dismissed |
+| [sase-mf.2](../bbugyi200.athena.sase-mf.2/README.md) | sase-mf hood | dismissed |
 | [sase-mf.3](../bbugyi200.athena.sase-mf.3/README.md) | sase-mf hood | dismissed |
-| [sase-mf.4](../bbugyi200.athena.sase-mf.4/README.md) | sase-mf hood | active |
+| [sase-mf.4](../bbugyi200.athena.sase-mf.4/README.md) | sase-mf hood | dismissed |

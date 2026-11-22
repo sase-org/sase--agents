@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mg](../../users/bbugyi200/machines/athena/hoods/sase-mg/README.md) / sase-mg.1
 
-**Global name:** `bbugyi200.athena.sase-mg.1` · **State:** active · **Source run:** `run-8b08119b6bfaa04d60a17b521cde98b6`
+**Global name:** `bbugyi200.athena.sase-mg.1` · **State:** dismissed · **Source run:** `run-8b08119b6bfaa04d60a17b521cde98b6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mg
 
@@ -12,7 +12,7 @@
 - Epic: [sase-mg](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mg/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-15T19:39:13.381327+00:00
+- Timing: 2026-08-15T15:38:53
 - Commits: 0
 
 ## Files
@@ -23,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mg.2](../bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | active |
-| [sase-mg.3](../bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | active |
-| [sase-mg.4](../bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | active |
-| [sase-mg.land](../../sessions/bbugyi200.athena.sase-mg.land.md) (session · 2) | sase-mg hood | active 1, completed 1 |
-| [sase-mg.land.w1](../../sessions/bbugyi200.athena.sase-mg.land.w1.md) (session · 4) | sase-mg hood | active 1, completed 1, failed 2 |
+| [sase-mg.2](../bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | dismissed |
+| [sase-mg.3](../bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | dismissed |
+| [sase-mg.4](../bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | dismissed |
+| [sase-mg.land](../../sessions/bbugyi200.athena.sase-mg.land.md) (session · 2) | sase-mg hood | completed 1, dismissed 1 |
+| [sase-mg.land.w1](../../sessions/bbugyi200.athena.sase-mg.land.w1.md) (session · 4) | sase-mg hood | completed 1, dismissed 1, failed 2 |

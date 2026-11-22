@@ -18,13 +18,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`28da68d`](https://github.com/sase-org/sase/commit/28da68d4e325d38587c9703a5db683ee8a13af76) | feat(tui): redesign Models panel around launch settings | 2026-08-15 17:57:07 EDT |
+| — | `28da68d` | feat(tui): redesign Models panel around launch settings | 2026-08-15 17:57:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mf.1](../bbugyi200.athena.sase-mf.1/README.md) | sase-mf hood | active |
-| [sase-mf.2](../bbugyi200.athena.sase-mf.2/README.md) | sase-mf hood | active |
-| [sase-mf.4](../bbugyi200.athena.sase-mf.4/README.md) | sase-mf hood | active |
-| [sase-mf.land](../../sessions/bbugyi200.athena.sase-mf.land.md) (session · 2) | sase-mf hood | active 1, completed 1 |
+| [sase-mf.1](../bbugyi200.athena.sase-mf.1/README.md) | sase-mf hood | dismissed |
+| [sase-mf.2](../bbugyi200.athena.sase-mf.2/README.md) | sase-mf hood | dismissed |
+| [sase-mf.4](../bbugyi200.athena.sase-mf.4/README.md) | sase-mf hood | dismissed |
+| [sase-mf.land](../../sessions/bbugyi200.athena.sase-mf.land.md) (session · 2) | sase-mf hood | completed 1, dismissed 1 |

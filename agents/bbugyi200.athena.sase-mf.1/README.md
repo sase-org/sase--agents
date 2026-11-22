@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mf](../../users/bbugyi200/machines/athena/hoods/sase-mf/README.md) / sase-mf.1
 
-**Global name:** `bbugyi200.athena.sase-mf.1` · **State:** active · **Source run:** `run-910adb2e8588d8453618ec95b94bca8a`
+**Global name:** `bbugyi200.athena.sase-mf.1` · **State:** dismissed · **Source run:** `run-910adb2e8588d8453618ec95b94bca8a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mf
 
@@ -12,7 +12,7 @@
 - Epic: [sase-mf](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mf/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-15T18:33:52.782815+00:00
+- Timing: 2026-08-15T14:33:30
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mf.2](../bbugyi200.athena.sase-mf.2/README.md) | sase-mf hood | active |
+| [sase-mf.2](../bbugyi200.athena.sase-mf.2/README.md) | sase-mf hood | dismissed |
 | [sase-mf.3](../bbugyi200.athena.sase-mf.3/README.md) | sase-mf hood | dismissed |
-| [sase-mf.4](../bbugyi200.athena.sase-mf.4/README.md) | sase-mf hood | active |
-| [sase-mf.land](../../sessions/bbugyi200.athena.sase-mf.land.md) (session · 2) | sase-mf hood | active 1, completed 1 |
+| [sase-mf.4](../bbugyi200.athena.sase-mf.4/README.md) | sase-mf hood | dismissed |
+| [sase-mf.land](../../sessions/bbugyi200.athena.sase-mf.land.md) (session · 2) | sase-mf hood | completed 1, dismissed 1 |

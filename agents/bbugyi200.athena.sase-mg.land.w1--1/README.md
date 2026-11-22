@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8e06aef`](https://github.com/sase-org/sase/commit/8e06aef3f4a88b38174374faf8b60c47e263e7cf) | feat(cli)!: fold sase var show into sase var get | 2026-08-15 19:55:13 EDT |
+| — | `8e06aef` | feat(cli)!: fold sase var show into sase var get | 2026-08-15 19:55:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mg.land](../../sessions/bbugyi200.athena.sase-mg.land.md) (session · 2) | ancestor | active 1, completed 1 |
-| [sase-mg.1](../bbugyi200.athena.sase-mg.1/README.md) | sase-mg hood | active |
-| [sase-mg.2](../bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | active |
-| [sase-mg.3](../bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | active |
-| [sase-mg.4](../bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | active |
+| [sase-mg.land](../../sessions/bbugyi200.athena.sase-mg.land.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [sase-mg.1](../bbugyi200.athena.sase-mg.1/README.md) | sase-mg hood | dismissed |
+| [sase-mg.2](../bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | dismissed |
+| [sase-mg.3](../bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | dismissed |
+| [sase-mg.4](../bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | dismissed |
