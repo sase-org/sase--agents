@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-q0](../../users/bbugyi200/machines/athena/hoods/sase-q0/README.md) / [sase-q0.4](../../sessions/bbugyi200.athena.sase-q0.4.md) / sase-q0.4--plan
 
-**Global name:** `bbugyi200.athena.sase-q0.4--plan` · **State:** active · **Source run:** `run-f8fe0e95d7aab6d5af7ca7ad45da67cb`
+**Global name:** `bbugyi200.athena.sase-q0.4--plan` · **State:** dismissed · **Source run:** `run-f8fe0e95d7aab6d5af7ca7ad45da67cb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-q0
 
@@ -12,7 +12,7 @@
 - Epic: [sase-q0](https://github.com/sase-org/sase--beads/blob/main/pages/sase-q0/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-18T20:34:02.365196+00:00
+- Timing: 2026-08-18T13:45:09
 - Commits: 0
 
 ## Files
@@ -23,10 +23,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-q0.1](../../sessions/bbugyi200.athena.sase-q0.1.md) (session · 5) | sase-q0 hood | active 1, completed 2, failed 2 |
-| [sase-q0.2](../bbugyi200.athena.sase-q0.2/README.md) | sase-q0 hood | active |
-| [sase-q0.3](../bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | active |
-| [sase-q0.5.1](../bbugyi200.athena.sase-q0.5.1/README.md) | sase-q0 hood | active |
-| [sase-q0.5.2](../bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0 hood | active |
-| [sase-q0.5.land](../bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0 hood | active |
-| [sase-q0.land](../../sessions/bbugyi200.athena.sase-q0.land.md) (session · 2) | sase-q0 hood | active 1, failed 1 |
+| [sase-q0.1](../../sessions/bbugyi200.athena.sase-q0.1.md) (session · 5) | sase-q0 hood | completed 2, dismissed 1, failed 2 |
+| [sase-q0.2](../bbugyi200.athena.sase-q0.2/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.3](../bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.5.1](../bbugyi200.athena.sase-q0.5.1/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.5.2](../bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.5.land](../bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.land](../../sessions/bbugyi200.athena.sase-q0.land.md) (session · 2) | sase-q0 hood | dismissed 1, failed 1 |

@@ -23,10 +23,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-q0.1](../../sessions/bbugyi200.athena.sase-q0.1.md) (session · 5) | sase-q0 hood | active 1, completed 2, failed 2 |
-| [sase-q0.2](../bbugyi200.athena.sase-q0.2/README.md) | sase-q0 hood | active |
-| [sase-q0.3](../bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | active |
-| [sase-q0.5.1](../bbugyi200.athena.sase-q0.5.1/README.md) | sase-q0 hood | active |
-| [sase-q0.5.2](../bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0 hood | active |
-| [sase-q0.5.land](../bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0 hood | active |
-| [sase-q0.land](../../sessions/bbugyi200.athena.sase-q0.land.md) (session · 2) | sase-q0 hood | active 1, failed 1 |
+| [sase-q0.1](../../sessions/bbugyi200.athena.sase-q0.1.md) (session · 5) | sase-q0 hood | completed 2, dismissed 1, failed 2 |
+| [sase-q0.2](../bbugyi200.athena.sase-q0.2/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.3](../bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.5.1](../bbugyi200.athena.sase-q0.5.1/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.5.2](../bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.5.land](../bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.land](../../sessions/bbugyi200.athena.sase-q0.land.md) (session · 2) | sase-q0 hood | dismissed 1, failed 1 |

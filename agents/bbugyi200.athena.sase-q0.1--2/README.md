@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`725cdb1`](https://github.com/sase-org/sase/commit/725cdb11da3778e48705e5fc8e71f6f39f807d78) | feat(running-field): record every workspace claim mutation to a durable ledger | 2026-08-18 14:25:25 EDT |
+| — | `725cdb1` | feat(running-field): record every workspace claim mutation to a durable ledger | 2026-08-18 14:25:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-q0.2](../bbugyi200.athena.sase-q0.2/README.md) | sase-q0 hood | active |
-| [sase-q0.3](../bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | active |
-| [sase-q0.4](../../sessions/bbugyi200.athena.sase-q0.4.md) (session · 3) | sase-q0 hood | active 1, completed 1, failed 1 |
-| [sase-q0.5.1](../bbugyi200.athena.sase-q0.5.1/README.md) | sase-q0 hood | active |
-| [sase-q0.5.2](../bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0 hood | active |
-| [sase-q0.5.land](../bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0 hood | active |
-| [sase-q0.land](../../sessions/bbugyi200.athena.sase-q0.land.md) (session · 2) | sase-q0 hood | active 1, failed 1 |
+| [sase-q0.2](../bbugyi200.athena.sase-q0.2/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.3](../bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.4](../../sessions/bbugyi200.athena.sase-q0.4.md) (session · 3) | sase-q0 hood | completed 1, dismissed 1, failed 1 |
+| [sase-q0.5.1](../bbugyi200.athena.sase-q0.5.1/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.5.2](../bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.5.land](../bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0 hood | dismissed |
+| [sase-q0.land](../../sessions/bbugyi200.athena.sase-q0.land.md) (session · 2) | sase-q0 hood | dismissed 1, failed 1 |
