@@ -22,17 +22,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2b64c55`](https://github.com/sase-org/sase/commit/2b64c5582926243545bfa4187c0ed10f1885285f) | fix(procs): merge legacy logs into an existing procs/logs directory | 2026-08-14 00:06:26 EDT |
+| — | `2b64c55` | fix(procs): merge legacy logs into an existing procs/logs directory | 2026-08-14 00:06:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-lh.1](../bbugyi200.athena.sase-lh.1/README.md) | sase-lh hood | active |
-| [sase-lh.2](../bbugyi200.athena.sase-lh.2/README.md) | sase-lh hood | active |
-| [sase-lh.3](../../sessions/bbugyi200.athena.sase-lh.3.md) (session · 3) | sase-lh hood | active 1, completed 1, failed 1 |
-| [sase-lh.4](../bbugyi200.athena.sase-lh.4/README.md) | sase-lh hood | active |
-| [sase-lh.5](../bbugyi200.athena.sase-lh.5/README.md) | sase-lh hood | active |
-| [sase-lh.6](../bbugyi200.athena.sase-lh.6/README.md) | sase-lh hood | active |
-| [sase-lh.7](../bbugyi200.athena.sase-lh.7/README.md) | sase-lh hood | active |
-| [sase-lh.8](../bbugyi200.athena.sase-lh.8/README.md) | sase-lh hood | active |
+| [sase-lh.1](../bbugyi200.athena.sase-lh.1/README.md) | sase-lh hood | dismissed |
+| [sase-lh.2](../bbugyi200.athena.sase-lh.2/README.md) | sase-lh hood | dismissed |
+| [sase-lh.3](../../sessions/bbugyi200.athena.sase-lh.3.md) (session · 3) | sase-lh hood | completed 1, dismissed 1, failed 1 |
+| [sase-lh.4](../bbugyi200.athena.sase-lh.4/README.md) | sase-lh hood | dismissed |
+| [sase-lh.5](../bbugyi200.athena.sase-lh.5/README.md) | sase-lh hood | dismissed |
+| [sase-lh.6](../bbugyi200.athena.sase-lh.6/README.md) | sase-lh hood | dismissed |
+| [sase-lh.7](../bbugyi200.athena.sase-lh.7/README.md) | sase-lh hood | dismissed |
+| [sase-lh.8](../bbugyi200.athena.sase-lh.8/README.md) | sase-lh hood | dismissed |
