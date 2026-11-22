@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ns` · Members: 4 · Bead: [sase-ns.6.6
 ```mermaid
 flowchart TD
   n0["sase-ns.6.6.4--code [completed]"]
-  n1["sase-ns.6.6.4--plan [active]"]
+  n1["sase-ns.6.6.4--plan [dismissed]"]
   n0 --> n1
   n2["sase-ns.6.6.4--mon [failed]"]
   n0 --> n2
@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-ns.6.6.4--code | completed | gpt-5.5 / codex | 2026-08-17T08:22:46.919509+00:00 | [1](../agents/bbugyi200.athena.sase-ns.6.6.4--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-ns.6.6.4--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-ns.6.6.4--plan | active | gpt-5.6-sol / codex | 2026-08-17T08:17:53.230245+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.6.6.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.6.6.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-ns.6.6.4--plan | dismissed | gpt-5.6-sol / codex | 2026-08-17T04:03:49 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.6.6.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.6.6.4--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-ns.6.6.4--mon | failed | gpt-5.5 / codex | 2026-08-17T08:39:03.112849+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ns.6.6.4--mon/chat.md) |
 | <a id="member-1"></a>1 | sase-ns.6.6.4--1 | active | gpt-5.5 / codex | 2026-08-17T08:52:49.646691+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.6.6.4--1/prompt.md) | — |
 
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f9ab15d`](https://github.com/sase-org/sase/commit/f9ab15d9c2a271d0db6f922885803ee257299771) | test(monitor): deflake idle timeout liveness bound | 2026-08-17 04:41:25 EDT |
+| code | — | `f9ab15d` | test(monitor): deflake idle timeout liveness bound | 2026-08-17 04:41:25 EDT |
 
 ## Neighbors
 
@@ -38,27 +38,27 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-ns.6.6.1](../agents/bbugyi200.athena.sase-ns.6.6.1/README.md) | sase-ns.6.6 hood | active |
 | [sase-ns.6.6.2](../agents/bbugyi200.athena.sase-ns.6.6.2/README.md) | sase-ns.6.6 hood | active |
-| [sase-ns.6.6.3](../agents/bbugyi200.athena.sase-ns.6.6.3/README.md) | sase-ns.6.6 hood | active |
-| [sase-ns.6.6.5](bbugyi200.athena.sase-ns.6.6.5.md) (session · 4) | sase-ns.6.6 hood | active 2, completed 1, failed 1 |
-| [sase-ns.6.6.6.1](bbugyi200.athena.sase-ns.6.6.6.1.md) (session · 4) | sase-ns.6.6 hood | active 2, completed 1, failed 1 |
-| [sase-ns.6.6.6.2](../agents/bbugyi200.athena.sase-ns.6.6.6.2/README.md) | sase-ns.6.6 hood | active |
+| [sase-ns.6.6.3](../agents/bbugyi200.athena.sase-ns.6.6.3/README.md) | sase-ns.6.6 hood | dismissed |
+| [sase-ns.6.6.5](bbugyi200.athena.sase-ns.6.6.5.md) (session · 4) | sase-ns.6.6 hood | completed 1, dismissed 2, failed 1 |
+| [sase-ns.6.6.6.1](bbugyi200.athena.sase-ns.6.6.6.1.md) (session · 4) | sase-ns.6.6 hood | active 1, completed 1, dismissed 1, failed 1 |
+| [sase-ns.6.6.6.2](../agents/bbugyi200.athena.sase-ns.6.6.6.2/README.md) | sase-ns.6.6 hood | dismissed |
 | [sase-ns.6.6.6.3](bbugyi200.athena.sase-ns.6.6.6.3.md) (session · 2) | sase-ns.6.6 hood | active 1, completed 1 |
 | [sase-ns.6.6.6.4](../agents/bbugyi200.athena.sase-ns.6.6.6.4/README.md) | sase-ns.6.6 hood | active |
 | [sase-ns.6.6.6.5](../agents/bbugyi200.athena.sase-ns.6.6.6.5/README.md) | sase-ns.6.6 hood | active |
 | [sase-ns.6.6.6.land](../agents/bbugyi200.athena.sase-ns.6.6.6.land/README.md) | sase-ns.6.6 hood | active |
-| [sase-ns.6.6.land](bbugyi200.athena.sase-ns.6.6.land.md) (session · 4) | sase-ns.6.6 hood | active 2, failed 2 |
+| [sase-ns.6.6.land](bbugyi200.athena.sase-ns.6.6.land.md) (session · 4) | sase-ns.6.6 hood | active 1, dismissed 1, failed 2 |
 | [sase-ns.6.6.land](../agents/bbugyi200.athena.sase-ns.6.6.land/README.md) | sase-ns.6.6 hood | completed |
 | [sase-ns.6.1](bbugyi200.athena.sase-ns.6.1.md) (session · 2) | sase-ns.6 hood | active 1, completed 1 |
 | [sase-ns.6.2](bbugyi200.athena.sase-ns.6.2.md) (session · 2) | sase-ns.6 hood | active 1, completed 1 |
-| [sase-ns.6.3](../agents/bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | active |
-| [sase-ns.6.4](../agents/bbugyi200.athena.sase-ns.6.4/README.md) | sase-ns.6 hood | active |
+| [sase-ns.6.3](../agents/bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | dismissed |
+| [sase-ns.6.4](../agents/bbugyi200.athena.sase-ns.6.4/README.md) | sase-ns.6 hood | dismissed |
 | [sase-ns.6.5](../agents/bbugyi200.athena.sase-ns.6.5/README.md) | sase-ns.6 hood | active |
-| [sase-ns.6.land](bbugyi200.athena.sase-ns.6.land.md) (session · 4) | sase-ns.6 hood | active 2, failed 2 |
+| [sase-ns.6.land](bbugyi200.athena.sase-ns.6.land.md) (session · 4) | sase-ns.6 hood | active 1, dismissed 1, failed 2 |
 | [sase-ns.6.land](../agents/bbugyi200.athena.sase-ns.6.land/README.md) | sase-ns.6 hood | completed |
-| [sase-ns.1](bbugyi200.athena.sase-ns.1.md) (session · 4) | sase-ns hood | active 1, completed 2, failed 1 |
+| [sase-ns.1](bbugyi200.athena.sase-ns.1.md) (session · 4) | sase-ns hood | completed 2, dismissed 1, failed 1 |
 | [sase-ns.2](bbugyi200.athena.sase-ns.2.md) (session · 8) | sase-ns hood | active 1, completed 4, failed 3 |
-| [sase-ns.3](bbugyi200.athena.sase-ns.3.md) (session · 2) | sase-ns hood | active 1, completed 1 |
-| [sase-ns.4](../agents/bbugyi200.athena.sase-ns.4/README.md) | sase-ns hood | active |
-| [sase-ns.5](../agents/bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | active |
-| [sase-ns.land](bbugyi200.athena.sase-ns.land.md) (session · 4) | sase-ns hood | active 1, failed 3 |
+| [sase-ns.3](bbugyi200.athena.sase-ns.3.md) (session · 2) | sase-ns hood | completed 1, dismissed 1 |
+| [sase-ns.4](../agents/bbugyi200.athena.sase-ns.4/README.md) | sase-ns hood | dismissed |
+| [sase-ns.5](../agents/bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | dismissed |
+| [sase-ns.land](bbugyi200.athena.sase-ns.land.md) (session · 4) | sase-ns hood | dismissed 1, failed 3 |
 | [sase-ns.land](../agents/bbugyi200.athena.sase-ns.land/README.md) | sase-ns hood | completed |

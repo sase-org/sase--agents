@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ddef1f0`](https://github.com/sase-org/sase/commit/ddef1f0d42a711729b6e322a6575e47fe3046a3a) | feat(ace): share agent-family plan/bead preview across TUI and editor | 2026-08-16 13:08:14 EDT |
+| — | `ddef1f0` | feat(ace): share agent-family plan/bead preview across TUI and editor | 2026-08-16 13:08:14 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n9.2](../bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | active |
-| [sase-n9.3](../../sessions/bbugyi200.athena.sase-n9.3.md) (session · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
-| [sase-n9.4](../../sessions/bbugyi200.athena.sase-n9.4.md) (session · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
-| [sase-n9.land](../../sessions/bbugyi200.athena.sase-n9.land.md) (session · 2) | sase-n9 hood | active 1, completed 1 |
+| [sase-n9.2](../bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | dismissed |
+| [sase-n9.3](../../sessions/bbugyi200.athena.sase-n9.3.md) (session · 3) | sase-n9 hood | completed 1, dismissed 1, failed 1 |
+| [sase-n9.4](../../sessions/bbugyi200.athena.sase-n9.4.md) (session · 3) | sase-n9 hood | completed 1, dismissed 1, failed 1 |
+| [sase-n9.land](../../sessions/bbugyi200.athena.sase-n9.land.md) (session · 2) | sase-n9 hood | completed 1, dismissed 1 |

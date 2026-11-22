@@ -22,10 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ng](../../sessions/bbugyi200.athena.sase-ng.md) (session · 2) | ancestor | active 1, failed 1 |
-| [sase-ng.1.1](../../sessions/bbugyi200.athena.sase-ng.1.1.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
-| [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | active |
-| [sase-ng.1.3](../bbugyi200.athena.sase-ng.1.3/README.md) | sase-ng.1 hood | active |
-| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | active |
-| [sase-ng.1.5](../../sessions/bbugyi200.athena.sase-ng.1.5.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
-| [sase-ng.1.land](../../sessions/bbugyi200.athena.sase-ng.1.land.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
+| [sase-ng](../../sessions/bbugyi200.athena.sase-ng.md) (session · 2) | ancestor | dismissed 1, failed 1 |
+| [sase-ng.1.1](../../sessions/bbugyi200.athena.sase-ng.1.1.md) (session · 3) | sase-ng.1 hood | completed 1, dismissed 1, failed 1 |
+| [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | dismissed |
+| [sase-ng.1.3](../bbugyi200.athena.sase-ng.1.3/README.md) | sase-ng.1 hood | dismissed |
+| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | dismissed |
+| [sase-ng.1.5](../../sessions/bbugyi200.athena.sase-ng.1.5.md) (session · 3) | sase-ng.1 hood | completed 1, dismissed 1, failed 1 |
+| [sase-ng.1.land](../../sessions/bbugyi200.athena.sase-ng.1.land.md) (session · 3) | sase-ng.1 hood | completed 1, dismissed 1, failed 1 |

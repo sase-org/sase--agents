@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`65b72d4`](https://github.com/sase-org/sase/commit/65b72d43afc9c84ed313c77592744aa3de8c86ec) | refactor(tui): retire launch-body support modules orphaned by the deletion | 2026-08-17 17:51:57 EDT |
+| — | `65b72d4` | refactor(tui): retire launch-body support modules orphaned by the deletion | 2026-08-17 17:51:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ng](../../sessions/bbugyi200.athena.sase-ng.md) (session · 2) | ancestor | active 1, failed 1 |
-| [sase-ng.1.1](../../sessions/bbugyi200.athena.sase-ng.1.1.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
-| [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | active |
-| [sase-ng.1.3](../bbugyi200.athena.sase-ng.1.3/README.md) | sase-ng.1 hood | active |
-| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | active |
-| [sase-ng.1.6](../../sessions/bbugyi200.athena.sase-ng.1.6.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
-| [sase-ng.1.land](../../sessions/bbugyi200.athena.sase-ng.1.land.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
+| [sase-ng](../../sessions/bbugyi200.athena.sase-ng.md) (session · 2) | ancestor | dismissed 1, failed 1 |
+| [sase-ng.1.1](../../sessions/bbugyi200.athena.sase-ng.1.1.md) (session · 3) | sase-ng.1 hood | completed 1, dismissed 1, failed 1 |
+| [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | dismissed |
+| [sase-ng.1.3](../bbugyi200.athena.sase-ng.1.3/README.md) | sase-ng.1 hood | dismissed |
+| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | dismissed |
+| [sase-ng.1.6](../../sessions/bbugyi200.athena.sase-ng.1.6.md) (session · 3) | sase-ng.1 hood | completed 1, dismissed 1, failed 1 |
+| [sase-ng.1.land](../../sessions/bbugyi200.athena.sase-ng.1.land.md) (session · 3) | sase-ng.1 hood | completed 1, dismissed 1, failed 1 |

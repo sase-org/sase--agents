@@ -23,27 +23,27 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5703667`](https://github.com/sase-org/sase/commit/5703667f0e6c37909e82b01b52aee336661e5f11) | feat(bead): add the FlagTriage gate and generalize the bead gate reconciler | 2026-08-16 18:51:54 EDT |
+| — | `5703667` | feat(bead): add the FlagTriage gate and generalize the bead gate reconciler | 2026-08-16 18:51:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-nb.1](../bbugyi200.athena.sase-nb.1/README.md) | sase-nb hood | active |
-| [sase-nb.10](../bbugyi200.athena.sase-nb.10/README.md) | sase-nb hood | active |
-| [sase-nb.11.1](../../sessions/bbugyi200.athena.sase-nb.11.1.md) (session · 2) | sase-nb hood | active 1, completed 1 |
-| [sase-nb.11.2](../bbugyi200.athena.sase-nb.11.2/README.md) | sase-nb hood | active |
-| [sase-nb.11.3](../bbugyi200.athena.sase-nb.11.3/README.md) | sase-nb hood | active |
-| [sase-nb.11.4](../bbugyi200.athena.sase-nb.11.4/README.md) | sase-nb hood | active |
-| [sase-nb.11.5](../bbugyi200.athena.sase-nb.11.5/README.md) | sase-nb hood | active |
-| [sase-nb.11.land](../../sessions/bbugyi200.athena.sase-nb.11.land.md) (session · 3) | sase-nb hood | active 1, completed 1, failed 1 |
+| [sase-nb.1](../bbugyi200.athena.sase-nb.1/README.md) | sase-nb hood | dismissed |
+| [sase-nb.10](../bbugyi200.athena.sase-nb.10/README.md) | sase-nb hood | dismissed |
+| [sase-nb.11.1](../../sessions/bbugyi200.athena.sase-nb.11.1.md) (session · 2) | sase-nb hood | completed 1, dismissed 1 |
+| [sase-nb.11.2](../bbugyi200.athena.sase-nb.11.2/README.md) | sase-nb hood | dismissed |
+| [sase-nb.11.3](../bbugyi200.athena.sase-nb.11.3/README.md) | sase-nb hood | dismissed |
+| [sase-nb.11.4](../bbugyi200.athena.sase-nb.11.4/README.md) | sase-nb hood | dismissed |
+| [sase-nb.11.5](../bbugyi200.athena.sase-nb.11.5/README.md) | sase-nb hood | dismissed |
+| [sase-nb.11.land](../../sessions/bbugyi200.athena.sase-nb.11.land.md) (session · 3) | sase-nb hood | completed 1, dismissed 1, failed 1 |
 | [sase-nb.11.land](../bbugyi200.athena.sase-nb.11.land/README.md) | sase-nb hood | completed |
-| [sase-nb.2](../../sessions/bbugyi200.athena.sase-nb.2.md) (session · 2) | sase-nb hood | active 1, completed 1 |
-| [sase-nb.3](../bbugyi200.athena.sase-nb.3/README.md) | sase-nb hood | active |
-| [sase-nb.4](../bbugyi200.athena.sase-nb.4/README.md) | sase-nb hood | active |
-| [sase-nb.4\_1](../../sessions/bbugyi200.athena.sase-nb.4_1.md) (session · 5) | sase-nb hood | active 1, completed 2, failed 2 |
-| [sase-nb.5](../bbugyi200.athena.sase-nb.5/README.md) | sase-nb hood | active |
-| [sase-nb.7](../bbugyi200.athena.sase-nb.7/README.md) | sase-nb hood | active |
-| [sase-nb.8](../../sessions/bbugyi200.athena.sase-nb.8.md) (session · 2) | sase-nb hood | active 1, completed 1 |
-| [sase-nb.9](../bbugyi200.athena.sase-nb.9/README.md) | sase-nb hood | active |
-| [sase-nb.land](../../sessions/bbugyi200.athena.sase-nb.land.md) (session · 2) | sase-nb hood | active 1, failed 1 |
+| [sase-nb.2](../../sessions/bbugyi200.athena.sase-nb.2.md) (session · 2) | sase-nb hood | completed 1, dismissed 1 |
+| [sase-nb.3](../bbugyi200.athena.sase-nb.3/README.md) | sase-nb hood | dismissed |
+| [sase-nb.4](../bbugyi200.athena.sase-nb.4/README.md) | sase-nb hood | dismissed |
+| [sase-nb.4\_1](../../sessions/bbugyi200.athena.sase-nb.4_1.md) (session · 5) | sase-nb hood | completed 2, dismissed 1, failed 2 |
+| [sase-nb.5](../bbugyi200.athena.sase-nb.5/README.md) | sase-nb hood | dismissed |
+| [sase-nb.7](../bbugyi200.athena.sase-nb.7/README.md) | sase-nb hood | dismissed |
+| [sase-nb.8](../../sessions/bbugyi200.athena.sase-nb.8.md) (session · 2) | sase-nb hood | completed 1, dismissed 1 |
+| [sase-nb.9](../bbugyi200.athena.sase-nb.9/README.md) | sase-nb hood | dismissed |
+| [sase-nb.land](../../sessions/bbugyi200.athena.sase-nb.land.md) (session · 2) | sase-nb hood | dismissed 1, failed 1 |

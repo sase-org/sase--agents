@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-n9](../../users/bbugyi200/machines/athena/hoods/sase-n9/README.md) / [sase-n9.3](../../sessions/bbugyi200.athena.sase-n9.3.md) / sase-n9.3--plan
 
-**Global name:** `bbugyi200.athena.sase-n9.3--plan` · **State:** active · **Source run:** `run-1757894170b2a4dbdc3034bf27f37931`
+**Global name:** `bbugyi200.athena.sase-n9.3--plan` · **State:** dismissed · **Source run:** `run-1757894170b2a4dbdc3034bf27f37931`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-n9
 
@@ -12,7 +12,7 @@
 - Epic: [sase-n9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-n9/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-16T17:10:07.989252+00:00
+- Timing: 2026-08-16T12:03:56
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n9.1](../../sessions/bbugyi200.athena.sase-n9.1.md) (session · 7) | sase-n9 hood | active 1, completed 3, failed 3 |
-| [sase-n9.2](../bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | active |
-| [sase-n9.4](../../sessions/bbugyi200.athena.sase-n9.4.md) (session · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
-| [sase-n9.land](../../sessions/bbugyi200.athena.sase-n9.land.md) (session · 2) | sase-n9 hood | active 1, completed 1 |
+| [sase-n9.1](../../sessions/bbugyi200.athena.sase-n9.1.md) (session · 7) | sase-n9 hood | completed 3, dismissed 1, failed 3 |
+| [sase-n9.2](../bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | dismissed |
+| [sase-n9.4](../../sessions/bbugyi200.athena.sase-n9.4.md) (session · 3) | sase-n9 hood | completed 1, dismissed 1, failed 1 |
+| [sase-n9.land](../../sessions/bbugyi200.athena.sase-n9.land.md) (session · 2) | sase-n9 hood | completed 1, dismissed 1 |

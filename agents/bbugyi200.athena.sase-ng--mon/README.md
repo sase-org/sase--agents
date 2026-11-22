@@ -22,10 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ng.1.1](../../sessions/bbugyi200.athena.sase-ng.1.1.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | descendant | active |
-| [sase-ng.1.3](../bbugyi200.athena.sase-ng.1.3/README.md) | descendant | active |
-| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | descendant | active |
-| [sase-ng.1.5](../../sessions/bbugyi200.athena.sase-ng.1.5.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [sase-ng.1.6](../../sessions/bbugyi200.athena.sase-ng.1.6.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [sase-ng.1.land](../../sessions/bbugyi200.athena.sase-ng.1.land.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [sase-ng.1.1](../../sessions/bbugyi200.athena.sase-ng.1.1.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
+| [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | descendant | dismissed |
+| [sase-ng.1.3](../bbugyi200.athena.sase-ng.1.3/README.md) | descendant | dismissed |
+| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | descendant | dismissed |
+| [sase-ng.1.5](../../sessions/bbugyi200.athena.sase-ng.1.5.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
+| [sase-ng.1.6](../../sessions/bbugyi200.athena.sase-ng.1.6.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
+| [sase-ng.1.land](../../sessions/bbugyi200.athena.sase-ng.1.land.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |

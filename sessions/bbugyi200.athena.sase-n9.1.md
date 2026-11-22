@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-n9` · Members: 7 · Bead: [sase-n9.1](
 ```mermaid
 flowchart TD
   n0["sase-n9.1--1 [completed]"]
-  n1["sase-n9.1--plan [active]"]
+  n1["sase-n9.1--plan [dismissed]"]
   n0 --> n1
   n2["sase-n9.1--3 [completed]"]
   n0 --> n2
@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-n9.1--1 | completed | sonnet / claude | 2026-08-16T16:24:34.477049+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n9.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.1--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-n9.1--plan | active | sonnet / claude | 2026-08-16T16:04:18.078363+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n9.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-n9.1--plan | dismissed | sonnet / claude | 2026-08-16T12:03:54 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n9.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.1--plan/chat.md) |
 | <a id="member-3"></a>3 | sase-n9.1--3 | completed | sonnet / claude | 2026-08-16T16:55:22.516639+00:00 | [1](../agents/bbugyi200.athena.sase-n9.1--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-n9.1--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.1--3/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-n9.1--mon-0 | failed | sonnet / claude | 2026-08-16T16:25:21.749740+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-n9.1--mon-0/chat.md) |
 | <a id="member-2"></a>2 | sase-n9.1--2 | completed | sonnet / claude | 2026-08-16T16:35:37.595995+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n9.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.1--2/chat.md) |
@@ -39,13 +39,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | sase | [`ddef1f0`](https://github.com/sase-org/sase/commit/ddef1f0d42a711729b6e322a6575e47fe3046a3a) | feat(ace): share agent-family plan/bead preview across TUI and editor | 2026-08-16 13:08:14 EDT |
+| 3 | — | `ddef1f0` | feat(ace): share agent-family plan/bead preview across TUI and editor | 2026-08-16 13:08:14 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n9.2](../agents/bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | active |
-| [sase-n9.3](bbugyi200.athena.sase-n9.3.md) (session · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
-| [sase-n9.4](bbugyi200.athena.sase-n9.4.md) (session · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
-| [sase-n9.land](bbugyi200.athena.sase-n9.land.md) (session · 2) | sase-n9 hood | active 1, completed 1 |
+| [sase-n9.2](../agents/bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | dismissed |
+| [sase-n9.3](bbugyi200.athena.sase-n9.3.md) (session · 3) | sase-n9 hood | completed 1, dismissed 1, failed 1 |
+| [sase-n9.4](bbugyi200.athena.sase-n9.4.md) (session · 3) | sase-n9 hood | completed 1, dismissed 1, failed 1 |
+| [sase-n9.land](bbugyi200.athena.sase-n9.land.md) (session · 2) | sase-n9 hood | completed 1, dismissed 1 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ng](../../users/bbugyi200/machines/athena/hoods/sase-ng/README.md) / sase-ng.1.3
 
-**Global name:** `bbugyi200.athena.sase-ng.1.3` · **State:** active · **Source run:** `run-17dc715e4e2a5774c2860f69e55c0a86`
+**Global name:** `bbugyi200.athena.sase-ng.1.3` · **State:** dismissed · **Source run:** `run-17dc715e4e2a5774c2860f69e55c0a86`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ng
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ng.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ng/sase-ng.1.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-17T19:18:26.501659+00:00
+- Timing: 2026-08-17T15:17:42
 - Commits: [1](#commits)
 
 ## Files
@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f43358d`](https://github.com/sase-org/sase/commit/f43358dcb5444fa25696f7167bdd3ea830f77d23) | refactor(agent-cleanup): retire dead worker closures and proc\_callable seam | 2026-08-17 16:05:39 EDT |
+| — | `f43358d` | refactor(agent-cleanup): retire dead worker closures and proc\_callable seam | 2026-08-17 16:05:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ng](../../sessions/bbugyi200.athena.sase-ng.md) (session · 2) | ancestor | active 1, failed 1 |
-| [sase-ng.1.1](../../sessions/bbugyi200.athena.sase-ng.1.1.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
-| [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | active |
-| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | active |
-| [sase-ng.1.5](../../sessions/bbugyi200.athena.sase-ng.1.5.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
-| [sase-ng.1.6](../../sessions/bbugyi200.athena.sase-ng.1.6.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
-| [sase-ng.1.land](../../sessions/bbugyi200.athena.sase-ng.1.land.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
+| [sase-ng](../../sessions/bbugyi200.athena.sase-ng.md) (session · 2) | ancestor | dismissed 1, failed 1 |
+| [sase-ng.1.1](../../sessions/bbugyi200.athena.sase-ng.1.1.md) (session · 3) | sase-ng.1 hood | completed 1, dismissed 1, failed 1 |
+| [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | dismissed |
+| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | dismissed |
+| [sase-ng.1.5](../../sessions/bbugyi200.athena.sase-ng.1.5.md) (session · 3) | sase-ng.1 hood | completed 1, dismissed 1, failed 1 |
+| [sase-ng.1.6](../../sessions/bbugyi200.athena.sase-ng.1.6.md) (session · 3) | sase-ng.1 hood | completed 1, dismissed 1, failed 1 |
+| [sase-ng.1.land](../../sessions/bbugyi200.athena.sase-ng.1.land.md) (session · 3) | sase-ng.1 hood | completed 1, dismissed 1, failed 1 |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-na` · Members: 3 · Bead: [sase-na.1](
 ```mermaid
 flowchart TD
   n0["sase-na.1--mon [failed]"]
-  n1["sase-na.1--plan [active]"]
+  n1["sase-na.1--plan [dismissed]"]
   n0 --> n1
   n2["sase-na.1--1 [completed]"]
   n0 --> n2
@@ -20,20 +20,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-na.1--mon | failed | gpt-5.5 / codex | 2026-08-16T17:13:22.316548+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-na.1--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-na.1--plan | active | gpt-5.5 / codex | 2026-08-16T16:23:17.629169+00:00 | [1](../agents/bbugyi200.athena.sase-na.1--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-na.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-na.1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-na.1--plan | dismissed | gpt-5.5 / codex | 2026-08-16T12:22:56 | [1](../agents/bbugyi200.athena.sase-na.1--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-na.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-na.1--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-na.1--1 | completed | gpt-5.5 / codex | 2026-08-16T17:21:00.986245+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-na.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-na.1--1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | sase | [`ed39dd0`](https://github.com/sase-org/sase/commit/ed39dd0b886b7dcccd96a859aa856913b430787a) | feat: add prompt-word history index | 2026-08-16 13:21:31 EDT |
+| plan | — | `ed39dd0` | feat: add prompt-word history index | 2026-08-16 13:21:31 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-na.2](../agents/bbugyi200.athena.sase-na.2/README.md) | sase-na hood | active |
-| [sase-na.3](../agents/bbugyi200.athena.sase-na.3/README.md) | sase-na hood | active |
-| [sase-na.4](../agents/bbugyi200.athena.sase-na.4/README.md) | sase-na hood | active |
-| [sase-na.land](../agents/bbugyi200.athena.sase-na.land/README.md) | sase-na hood | active |
+| [sase-na.2](../agents/bbugyi200.athena.sase-na.2/README.md) | sase-na hood | dismissed |
+| [sase-na.3](../agents/bbugyi200.athena.sase-na.3/README.md) | sase-na hood | dismissed |
+| [sase-na.4](../agents/bbugyi200.athena.sase-na.4/README.md) | sase-na hood | dismissed |
+| [sase-na.land](../agents/bbugyi200.athena.sase-na.land/README.md) | sase-na hood | dismissed |
