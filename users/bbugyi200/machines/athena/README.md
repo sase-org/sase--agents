@@ -1634,7 +1634,7 @@
 | [sase-1uj](hoods/sase-1uj/README.md) | 3 | 0 | completed 3 |
 | [sase-1ut](hoods/sase-1ut/README.md) | 5 | 1 | completed 5 |
 | [sase-1uu](hoods/sase-1uu/README.md) | 4 | 0 | completed 4 |
-| [sase-1ux](hoods/sase-1ux/README.md) | 6 | 0 | active 1, completed 1, waiting 4 |
+| [sase-1ux](hoods/sase-1ux/README.md) | 6 | 0 | completed 2, waiting 4 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |
 | [sase-46](hoods/sase-46/README.md) | 6 | 0 | completed 6 |
@@ -2030,16 +2030,16 @@
 | [sase-na](hoods/sase-na/README.md) | 7 | 1 | completed 1, dismissed 5, failed 1 |
 | [sase-nb](hoods/sase-nb/README.md) | 30 | 7 | completed 8, dismissed 18, failed 4 |
 | [sase-ng](hoods/sase-ng/README.md) | 17 | 5 | completed 4, dismissed 8, failed 5 |
-| [sase-ns](hoods/sase-ns/README.md) | 59 | 12 | active 14, completed 16, dismissed 15, failed 14 |
-| [sase-o0](hoods/sase-o0/README.md) | 1 | 0 | active 1 |
+| [sase-ns](hoods/sase-ns/README.md) | 59 | 12 | active 1, completed 16, dismissed 28, failed 14 |
+| [sase-o0](hoods/sase-o0/README.md) | 1 | 0 | dismissed 1 |
 | [sase-o7](hoods/sase-o7/README.md) | 3 | 1 | completed 2, failed 1 |
-| [sase-o8](hoods/sase-o8/README.md) | 10 | 2 | active 8, failed 2 |
-| [sase-o9](hoods/sase-o9/README.md) | 10 | 1 | active 9, failed 1 |
-| [sase-ob](hoods/sase-ob/README.md) | 1 | 0 | active 1 |
-| [sase-oc](hoods/sase-oc/README.md) | 17 | 1 | active 17 |
-| [sase-on](hoods/sase-on/README.md) | 12 | 2 | active 12 |
-| [sase-oo](hoods/sase-oo/README.md) | 7 | 1 | active 7 |
-| [sase-op](hoods/sase-op/README.md) | 15 | 2 | active 15 |
+| [sase-o8](hoods/sase-o8/README.md) | 10 | 2 | dismissed 8, failed 2 |
+| [sase-o9](hoods/sase-o9/README.md) | 10 | 1 | dismissed 9, failed 1 |
+| [sase-ob](hoods/sase-ob/README.md) | 1 | 0 | dismissed 1 |
+| [sase-oc](hoods/sase-oc/README.md) | 17 | 1 | dismissed 17 |
+| [sase-on](hoods/sase-on/README.md) | 12 | 2 | dismissed 12 |
+| [sase-oo](hoods/sase-oo/README.md) | 7 | 1 | dismissed 7 |
+| [sase-op](hoods/sase-op/README.md) | 15 | 2 | dismissed 15 |
 | [sase-p1](hoods/sase-p1/README.md) | 23 | 2 | active 23 |
 | [sase-p2](hoods/sase-p2/README.md) | 23 | 4 | active 5, completed 9, failed 9 |
 | [sase-p3](hoods/sase-p3/README.md) | 34 | 4 | active 32, completed 1, failed 1 |
