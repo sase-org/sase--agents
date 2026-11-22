@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5s.image
 
-**Global name:** `bbugyi200.apollo.research.5s.image` · **State:** waiting · **Source run:** `run-56e5d135615975c0fbd7ff27b42b1e9f`
+**Global name:** `bbugyi200.apollo.research.5s.image` · **State:** completed · **Source run:** `run-56e5d135615975c0fbd7ff27b42b1e9f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,42 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261121172611
+- Timing: 2026-11-21T23:17:57.059897+00:00 → 2026-11-22T00:27:15.152417+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/prompt\_composer\_glossary\_term/prompt\_composer\_glossary\_term\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261121172611/prompt\_… |
+| `diagrams` | {considered: 11, count: 0, reason: All candidates rejected by the source/duplication rules: C1 composer anatomy repeats the layer table and ASCII sketch; C2 load versus typing repeats a compact bulle… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/prompt_composer_glossary_term/prompt_composer_glossary_term_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261121172611/prompt_composer_glossary_term_infographic-5f14c7600e80.png
+  ref: file:explicit:f8175744f3d651cf671c3043
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202611/prompt_composer_glossary_term/prompt_composer_glossary_term_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 11
+count: 0
+reason: All candidates rejected by the source/duplication rules: C1 composer anatomy repeats the layer table and ASCII sketch; C2 load versus typing repeats a compact bullet with all conditions; C3 pane order versus scheduling is answered by one sentence and the submit/wait bullet; C4 auxiliary submission is a short save-only route already fully stated; C5 property scope switch is fully explained in one sentence; C6 Composer versus Bar is comparative evidence already in a table and arguments, not a mechanism; C7 name ranking repeats the ranked list; C8 part terminology repeats the three-item mapping; C9 alias resolution is a one-sentence fan-in and short alias list; C10 rollout is a short phase chain already stated in one paragraph; C11 attribution repeats the contribution list. No candidate was rejected because the infographic covered it. None passed, so no Mermaid was drafted and no manifest or render check was required.
+source_ref: file:explicit:52396d3ccc4cfc9ff49617ae
+status: none
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
