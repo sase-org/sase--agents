@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a764618`](https://github.com/sase-org/sase/commit/a76461812e1fdf1a6661dbb790bd8fc54ed95300) | test(glossary): include display aliases in prompt fixture | 2026-08-09 09:50:01 EDT |
+| — | `a764618` | test(glossary): include display aliases in prompt fixture | 2026-08-09 09:50:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-i3.1](../bbugyi200.athena.sase-i3.1/README.md) | sase-i3 hood | active |
-| [sase-i3.2](../bbugyi200.athena.sase-i3.2/README.md) | sase-i3 hood | active |
-| [sase-i3.3](../bbugyi200.athena.sase-i3.3/README.md) | sase-i3 hood | active |
+| [sase-i3.1](../bbugyi200.athena.sase-i3.1/README.md) | sase-i3 hood | dismissed |
+| [sase-i3.2](../bbugyi200.athena.sase-i3.2/README.md) | sase-i3 hood | dismissed |
+| [sase-i3.3](../bbugyi200.athena.sase-i3.3/README.md) | sase-i3 hood | dismissed |
