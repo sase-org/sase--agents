@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ry](../../users/bbugyi200/machines/athena/hoods/sase-ry/README.md) / sase-ry.3
 
-**Global name:** `bbugyi200.athena.sase-ry.3` · **State:** active · **Source run:** `run-2fc43d2b8919ddd06fad5ad571ce6b74`
+**Global name:** `bbugyi200.athena.sase-ry.3` · **State:** dismissed · **Source run:** `run-2fc43d2b8919ddd06fad5ad571ce6b74`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ry
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ry](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ry/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260822103541
+- Timing: 2026-08-22T10:35:41
 - Commits: 0
 
 ## Files
@@ -23,11 +23,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ry.1](../../sessions/bbugyi200.athena.sase-ry.1.md) (session · 3) | sase-ry hood | active 3 |
+| [sase-ry.1](../../sessions/bbugyi200.athena.sase-ry.1.md) (session · 3) | sase-ry hood | dismissed 3 |
 | [sase-ry.1](../bbugyi200.athena.sase-ry.1/README.md) | sase-ry hood | completed |
-| [sase-ry.2](../../sessions/bbugyi200.athena.sase-ry.2.md) (session · 6) | sase-ry hood | active 1, completed 1, failed 4 |
+| [sase-ry.2](../../sessions/bbugyi200.athena.sase-ry.2.md) (session · 6) | sase-ry hood | completed 1, dismissed 1, failed 4 |
 | [sase-ry.2--2--code](../bbugyi200.athena.sase-ry.2--2--code/README.md) | sase-ry hood | completed |
 | [sase-ry.2--2--mon](../bbugyi200.athena.sase-ry.2--2--mon/README.md) | sase-ry hood | failed |
 | [sase-ry.2--2--plan](../bbugyi200.athena.sase-ry.2--2--plan/README.md) | sase-ry hood | active |
-| [sase-ry.4](../bbugyi200.athena.sase-ry.4/README.md) | sase-ry hood | active |
-| [sase-ry.land](../bbugyi200.athena.sase-ry.land/README.md) | sase-ry hood | waiting |
+| [sase-ry.4](../bbugyi200.athena.sase-ry.4/README.md) | sase-ry hood | dismissed |
+| [sase-ry.land](../bbugyi200.athena.sase-ry.land/README.md) | sase-ry hood | dismissed |

@@ -17,18 +17,18 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2647b71`](https://github.com/sase-org/sase/commit/2647b717a48d387d45092b3fe27172f598f76aa8) | fix(release): let Publish ratchet the 0.29.9 core floor | 2026-08-21 19:29:04 EDT |
-| sase | [`959a547`](https://github.com/sase-org/sase/commit/959a547709e7ed6a400494ed57a2009749ad4cdb) | test(release): keep ledger invariants off the core-floor contract set | 2026-08-21 19:44:58 EDT |
+| — | `2647b71` | fix(release): let Publish ratchet the 0.29.9 core floor | 2026-08-21 19:29:04 EDT |
+| — | `959a547` | test(release): keep ledger invariants off the core-floor contract set | 2026-08-21 19:44:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ry.1](../../sessions/bbugyi200.athena.sase-ry.1.md) (session · 3) | sase-ry hood | active 3 |
+| [sase-ry.1](../../sessions/bbugyi200.athena.sase-ry.1.md) (session · 3) | sase-ry hood | dismissed 3 |
 | [sase-ry.1](../bbugyi200.athena.sase-ry.1/README.md) | sase-ry hood | completed |
-| [sase-ry.2](../../sessions/bbugyi200.athena.sase-ry.2.md) (session · 6) | sase-ry hood | active 1, completed 1, failed 4 |
+| [sase-ry.2](../../sessions/bbugyi200.athena.sase-ry.2.md) (session · 6) | sase-ry hood | completed 1, dismissed 1, failed 4 |
 | [sase-ry.2--2--mon](../bbugyi200.athena.sase-ry.2--2--mon/README.md) | sase-ry hood | failed |
 | [sase-ry.2--2--plan](../bbugyi200.athena.sase-ry.2--2--plan/README.md) | sase-ry hood | active |
-| [sase-ry.3](../bbugyi200.athena.sase-ry.3/README.md) | sase-ry hood | active |
-| [sase-ry.4](../bbugyi200.athena.sase-ry.4/README.md) | sase-ry hood | active |
-| [sase-ry.land](../bbugyi200.athena.sase-ry.land/README.md) | sase-ry hood | waiting |
+| [sase-ry.3](../bbugyi200.athena.sase-ry.3/README.md) | sase-ry hood | dismissed |
+| [sase-ry.4](../bbugyi200.athena.sase-ry.4/README.md) | sase-ry hood | dismissed |
+| [sase-ry.land](../bbugyi200.athena.sase-ry.land/README.md) | sase-ry hood | dismissed |

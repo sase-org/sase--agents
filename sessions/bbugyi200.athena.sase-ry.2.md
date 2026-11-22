@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-ry.2--1 [completed]"]
   n1["sase-ry.2--mon-0 [failed]"]
   n0 --> n1
-  n2["sase-ry.2--plan [active]"]
+  n2["sase-ry.2--plan [dismissed]"]
   n0 --> n2
   n3["sase-ry.2--mon [failed]"]
   n0 --> n3
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-ry.2--1 | completed | grok-4.6 / grok | 2026-08-21T20:25:49.923497+00:00 → 2026-08-21T20:33:19.569690+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ry.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ry.2--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-ry.2--mon-0 | failed | grok-4.6 / grok | 2026-08-21T20:32:56.080630+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ry.2--mon-0/chat.md) |
-| <a id="member-plan"></a>plan | sase-ry.2--plan | active | grok-4.6 / grok | 2026-08-22T10:36:03.998287+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ry.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ry.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-ry.2--plan | dismissed | grok-4.6 / grok | 2026-08-22T10:35:40 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ry.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ry.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-ry.2--mon | failed | grok-4.6 / grok | 2026-08-22T10:52:46.377911+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ry.2--mon/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-ry.2--mon-1 | failed | grok-4.6 / grok | 2026-08-21T23:37:02.973070+00:00 | 0 | — | — |
 | <a id="member-mon-2"></a>mon-2 | sase-ry.2--mon-2 | failed | grok-4.6 / grok | 2026-08-21T23:38:05.289506+00:00 | 0 | — | — |
@@ -36,11 +36,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ry.1](bbugyi200.athena.sase-ry.1.md) (session · 3) | sase-ry hood | active 3 |
+| [sase-ry.1](bbugyi200.athena.sase-ry.1.md) (session · 3) | sase-ry hood | dismissed 3 |
 | [sase-ry.1](../agents/bbugyi200.athena.sase-ry.1/README.md) | sase-ry hood | completed |
 | [sase-ry.2--2--code](../agents/bbugyi200.athena.sase-ry.2--2--code/README.md) | sase-ry hood | completed |
 | [sase-ry.2--2--mon](../agents/bbugyi200.athena.sase-ry.2--2--mon/README.md) | sase-ry hood | failed |
 | [sase-ry.2--2--plan](../agents/bbugyi200.athena.sase-ry.2--2--plan/README.md) | sase-ry hood | active |
-| [sase-ry.3](../agents/bbugyi200.athena.sase-ry.3/README.md) | sase-ry hood | active |
-| [sase-ry.4](../agents/bbugyi200.athena.sase-ry.4/README.md) | sase-ry hood | active |
-| [sase-ry.land](../agents/bbugyi200.athena.sase-ry.land/README.md) | sase-ry hood | waiting |
+| [sase-ry.3](../agents/bbugyi200.athena.sase-ry.3/README.md) | sase-ry hood | dismissed |
+| [sase-ry.4](../agents/bbugyi200.athena.sase-ry.4/README.md) | sase-ry hood | dismissed |
+| [sase-ry.land](../agents/bbugyi200.athena.sase-ry.land/README.md) | sase-ry hood | dismissed |

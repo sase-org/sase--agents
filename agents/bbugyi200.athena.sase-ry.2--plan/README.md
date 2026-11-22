@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ry](../../users/bbugyi200/machines/athena/hoods/sase-ry/README.md) / [sase-ry.2](../../sessions/bbugyi200.athena.sase-ry.2.md) / sase-ry.2--plan
 
-**Global name:** `bbugyi200.athena.sase-ry.2--plan` · **State:** active · **Source run:** `run-263dddbfa18333c9fa4c63dab75f1063`
+**Global name:** `bbugyi200.athena.sase-ry.2--plan` · **State:** dismissed · **Source run:** `run-263dddbfa18333c9fa4c63dab75f1063`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ry
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ry](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ry/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-22T10:36:03.998287+00:00
+- Timing: 2026-08-22T10:35:40
 - Commits: 0
 
 ## Files
@@ -23,11 +23,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ry.1](../../sessions/bbugyi200.athena.sase-ry.1.md) (session · 3) | sase-ry hood | active 3 |
+| [sase-ry.1](../../sessions/bbugyi200.athena.sase-ry.1.md) (session · 3) | sase-ry hood | dismissed 3 |
 | [sase-ry.1](../bbugyi200.athena.sase-ry.1/README.md) | sase-ry hood | completed |
 | [sase-ry.2--2--code](../bbugyi200.athena.sase-ry.2--2--code/README.md) | sase-ry hood | completed |
 | [sase-ry.2--2--mon](../bbugyi200.athena.sase-ry.2--2--mon/README.md) | sase-ry hood | failed |
 | [sase-ry.2--2--plan](../bbugyi200.athena.sase-ry.2--2--plan/README.md) | sase-ry hood | active |
-| [sase-ry.3](../bbugyi200.athena.sase-ry.3/README.md) | sase-ry hood | active |
-| [sase-ry.4](../bbugyi200.athena.sase-ry.4/README.md) | sase-ry hood | active |
-| [sase-ry.land](../bbugyi200.athena.sase-ry.land/README.md) | sase-ry hood | waiting |
+| [sase-ry.3](../bbugyi200.athena.sase-ry.3/README.md) | sase-ry hood | dismissed |
+| [sase-ry.4](../bbugyi200.athena.sase-ry.4/README.md) | sase-ry hood | dismissed |
+| [sase-ry.land](../bbugyi200.athena.sase-ry.land/README.md) | sase-ry hood | dismissed |

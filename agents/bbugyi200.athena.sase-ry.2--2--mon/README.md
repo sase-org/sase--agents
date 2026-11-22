@@ -17,11 +17,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ry.1](../../sessions/bbugyi200.athena.sase-ry.1.md) (session · 3) | sase-ry hood | active 3 |
+| [sase-ry.1](../../sessions/bbugyi200.athena.sase-ry.1.md) (session · 3) | sase-ry hood | dismissed 3 |
 | [sase-ry.1](../bbugyi200.athena.sase-ry.1/README.md) | sase-ry hood | completed |
-| [sase-ry.2](../../sessions/bbugyi200.athena.sase-ry.2.md) (session · 6) | sase-ry hood | active 1, completed 1, failed 4 |
+| [sase-ry.2](../../sessions/bbugyi200.athena.sase-ry.2.md) (session · 6) | sase-ry hood | completed 1, dismissed 1, failed 4 |
 | [sase-ry.2--2--code](../bbugyi200.athena.sase-ry.2--2--code/README.md) | sase-ry hood | completed |
 | [sase-ry.2--2--plan](../bbugyi200.athena.sase-ry.2--2--plan/README.md) | sase-ry hood | active |
-| [sase-ry.3](../bbugyi200.athena.sase-ry.3/README.md) | sase-ry hood | active |
-| [sase-ry.4](../bbugyi200.athena.sase-ry.4/README.md) | sase-ry hood | active |
-| [sase-ry.land](../bbugyi200.athena.sase-ry.land/README.md) | sase-ry hood | waiting |
+| [sase-ry.3](../bbugyi200.athena.sase-ry.3/README.md) | sase-ry hood | dismissed |
+| [sase-ry.4](../bbugyi200.athena.sase-ry.4/README.md) | sase-ry hood | dismissed |
+| [sase-ry.land](../bbugyi200.athena.sase-ry.land/README.md) | sase-ry hood | dismissed |

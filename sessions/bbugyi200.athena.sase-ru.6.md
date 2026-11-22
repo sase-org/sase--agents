@@ -8,16 +8,16 @@ Owner: `bbugyi200.athena` · Hood: `sase-ru` · Members: 6 · Bead: [sase-ru.6](
 
 ```mermaid
 flowchart TD
-  n0["sase-ru.6--mon [active]"]
+  n0["sase-ru.6--mon [dismissed]"]
   n1["sase-ru.6--mon-1 [failed]"]
   n0 --> n1
-  n2["sase-ru.6--plan [active]"]
+  n2["sase-ru.6--plan [dismissed]"]
   n0 --> n2
-  n3["sase-ru.6--2 [active]"]
+  n3["sase-ru.6--2 [dismissed]"]
   n0 --> n3
-  n4["sase-ru.6--1 [active]"]
+  n4["sase-ru.6--1 [dismissed]"]
   n0 --> n4
-  n5["sase-ru.6--mon-0 [active]"]
+  n5["sase-ru.6--mon-0 [dismissed]"]
   n0 --> n5
 ```
 
@@ -25,26 +25,26 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-ru.6--mon | active | grok-4.6 / grok | 2026-08-21T16:36:43.619326+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-ru.6--mon | dismissed | grok-4.6 / grok | 2026-08-21T12:36:43 | 0 | — | — |
 | <a id="member-mon-1"></a>mon-1 | sase-ru.6--mon-1 | failed | grok-4.6 / grok | 2026-08-22T04:45:09.796670+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ru.6--mon-1/chat.md) |
-| <a id="member-plan"></a>plan | sase-ru.6--plan | active | grok-4.6 / grok | 2026-08-21T16:21:45.430146+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ru.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ru.6--plan/chat.md) |
-| <a id="member-2"></a>2 | sase-ru.6--2 | active | grok-4.6 / grok | 2026-08-22T04:41:22.004996+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ru.6--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ru.6--2/chat.md) |
-| <a id="member-1"></a>1 | sase-ru.6--1 | active | grok-4.6 / grok | 2026-08-22T04:37:08.762838+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ru.6--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ru.6--1/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | sase-ru.6--mon-0 | active | grok-4.6 / grok | 2026-08-22T04:40:48.506627+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-ru.6--plan | dismissed | grok-4.6 / grok | 2026-08-21T12:21:24 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ru.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ru.6--plan/chat.md) |
+| <a id="member-2"></a>2 | sase-ru.6--2 | dismissed | grok-4.6 / grok | 2026-08-22T04:41:05 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ru.6--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ru.6--2/chat.md) |
+| <a id="member-1"></a>1 | sase-ru.6--1 | dismissed | grok-4.6 / grok | 2026-08-22T04:36:52 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ru.6--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ru.6--1/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-ru.6--mon-0 | dismissed | grok-4.6 / grok | 2026-08-22T04:40:48 | 0 | — | — |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ru.1](bbugyi200.athena.sase-ru.1.md) (session · 5) | sase-ru hood | active 5 |
-| [sase-ru.10](../agents/bbugyi200.athena.sase-ru.10/README.md) | sase-ru hood | active |
-| [sase-ru.11](../agents/bbugyi200.athena.sase-ru.11/README.md) | sase-ru hood | waiting |
-| [sase-ru.12](../agents/bbugyi200.athena.sase-ru.12/README.md) | sase-ru hood | waiting |
-| [sase-ru.2](../agents/bbugyi200.athena.sase-ru.2/README.md) | sase-ru hood | active |
-| [sase-ru.3](../agents/bbugyi200.athena.sase-ru.3/README.md) | sase-ru hood | active |
-| [sase-ru.4](../agents/bbugyi200.athena.sase-ru.4/README.md) | sase-ru hood | active |
-| [sase-ru.5](../agents/bbugyi200.athena.sase-ru.5/README.md) | sase-ru hood | active |
-| [sase-ru.7](../agents/bbugyi200.athena.sase-ru.7/README.md) | sase-ru hood | active |
-| [sase-ru.8](../agents/bbugyi200.athena.sase-ru.8/README.md) | sase-ru hood | active |
-| [sase-ru.9](../agents/bbugyi200.athena.sase-ru.9/README.md) | sase-ru hood | active |
-| [sase-ru.land](../agents/bbugyi200.athena.sase-ru.land/README.md) | sase-ru hood | waiting |
+| [sase-ru.1](bbugyi200.athena.sase-ru.1.md) (session · 5) | sase-ru hood | dismissed 5 |
+| [sase-ru.10](../agents/bbugyi200.athena.sase-ru.10/README.md) | sase-ru hood | dismissed |
+| [sase-ru.11](../agents/bbugyi200.athena.sase-ru.11/README.md) | sase-ru hood | dismissed |
+| [sase-ru.12](../agents/bbugyi200.athena.sase-ru.12/README.md) | sase-ru hood | dismissed |
+| [sase-ru.2](../agents/bbugyi200.athena.sase-ru.2/README.md) | sase-ru hood | dismissed |
+| [sase-ru.3](../agents/bbugyi200.athena.sase-ru.3/README.md) | sase-ru hood | dismissed |
+| [sase-ru.4](../agents/bbugyi200.athena.sase-ru.4/README.md) | sase-ru hood | dismissed |
+| [sase-ru.5](../agents/bbugyi200.athena.sase-ru.5/README.md) | sase-ru hood | dismissed |
+| [sase-ru.7](../agents/bbugyi200.athena.sase-ru.7/README.md) | sase-ru hood | dismissed |
+| [sase-ru.8](../agents/bbugyi200.athena.sase-ru.8/README.md) | sase-ru hood | dismissed |
+| [sase-ru.9](../agents/bbugyi200.athena.sase-ru.9/README.md) | sase-ru hood | dismissed |
+| [sase-ru.land](../agents/bbugyi200.athena.sase-ru.land/README.md) | sase-ru hood | dismissed |
