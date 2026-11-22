@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0808a0ede902dfea9b25789e792ee319"}
+{"commits":[{"committed_at":1795382176,"sha":"fc397c469c9806db05fc396a5ab640bd8d69e16a","subject":"feat(tui): recompute failed-clan cause-chip drop on resize"}],"schema_version":2,"source_run_id":"run-0808a0ede902dfea9b25789e792ee319"}
