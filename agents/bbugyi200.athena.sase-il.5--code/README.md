@@ -23,21 +23,21 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`344a0b8`](https://github.com/sase-org/sase/commit/344a0b8ff2da71bc53123f008fde5ab08c1bef3a) | feat!: retire implicit coder model aliases | 2026-08-10 10:35:10 EDT |
+| — | `344a0b8` | feat!: retire implicit coder model aliases | 2026-08-10 10:35:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-il.1](../bbugyi200.athena.sase-il.1/README.md) | sase-il hood | active |
-| [sase-il.2](../bbugyi200.athena.sase-il.2/README.md) | sase-il hood | active |
-| [sase-il.3](../bbugyi200.athena.sase-il.3/README.md) | sase-il hood | active |
-| [sase-il.4](../bbugyi200.athena.sase-il.4/README.md) | sase-il hood | active |
-| [sase-il.6](../bbugyi200.athena.sase-il.6/README.md) | sase-il hood | active |
-| [sase-il.7.1](../bbugyi200.athena.sase-il.7.1/README.md) | sase-il hood | active |
-| [sase-il.7.2](../bbugyi200.athena.sase-il.7.2/README.md) | sase-il hood | active |
-| [sase-il.7.3](../bbugyi200.athena.sase-il.7.3/README.md) | sase-il hood | active |
-| [sase-il.7.land](../bbugyi200.athena.sase-il.7.land/README.md) | sase-il hood | active |
-| [sase-il.land](../bbugyi200.athena.sase-il.land/README.md) | sase-il hood | active |
-| [sase-il.land.f1](../../sessions/bbugyi200.athena.sase-il.land.f1.md) (session · 2) | sase-il hood | active 1, completed 1 |
-| [sase-il.land.w1](../../sessions/bbugyi200.athena.sase-il.land.w1.md) (session · 3) | sase-il hood | active 3 |
+| [sase-il.1](../bbugyi200.athena.sase-il.1/README.md) | sase-il hood | dismissed |
+| [sase-il.2](../bbugyi200.athena.sase-il.2/README.md) | sase-il hood | dismissed |
+| [sase-il.3](../bbugyi200.athena.sase-il.3/README.md) | sase-il hood | dismissed |
+| [sase-il.4](../bbugyi200.athena.sase-il.4/README.md) | sase-il hood | dismissed |
+| [sase-il.6](../bbugyi200.athena.sase-il.6/README.md) | sase-il hood | dismissed |
+| [sase-il.7.1](../bbugyi200.athena.sase-il.7.1/README.md) | sase-il hood | dismissed |
+| [sase-il.7.2](../bbugyi200.athena.sase-il.7.2/README.md) | sase-il hood | dismissed |
+| [sase-il.7.3](../bbugyi200.athena.sase-il.7.3/README.md) | sase-il hood | dismissed |
+| [sase-il.7.land](../bbugyi200.athena.sase-il.7.land/README.md) | sase-il hood | dismissed |
+| [sase-il.land](../bbugyi200.athena.sase-il.land/README.md) | sase-il hood | dismissed |
+| [sase-il.land.f1](../../sessions/bbugyi200.athena.sase-il.land.f1.md) (session · 2) | sase-il hood | completed 1, dismissed 1 |
+| [sase-il.land.w1](../../sessions/bbugyi200.athena.sase-il.land.w1.md) (session · 3) | sase-il hood | active 2, dismissed 1 |
