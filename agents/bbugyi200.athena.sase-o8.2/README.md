@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-o8](../../users/bbugyi200/machines/athena/hoods/sase-o8/README.md) / sase-o8.2
 
-**Global name:** `bbugyi200.athena.sase-o8.2` · **State:** active · **Source run:** `run-ef4b81a269966b2f942eceb5e232af71`
+**Global name:** `bbugyi200.athena.sase-o8.2` · **State:** dismissed · **Source run:** `run-ef4b81a269966b2f942eceb5e232af71`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-o8
 
@@ -12,7 +12,7 @@
 - Epic: [sase-o8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-o8/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-17T10:22:00.093678+00:00
+- Timing: 2026-08-17T06:21:39
 - Commits: [1](#commits)
 
 ## Files
@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ded7f1a`](https://github.com/sase-org/sase/commit/ded7f1a5f05e4d2c1554cd75677f874b7eac6b1f) | feat(history): persist placeholder context bags and corpus stats | 2026-08-17 06:58:24 EDT |
+| — | `ded7f1a` | feat(history): persist placeholder context bags and corpus stats | 2026-08-17 06:58:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-o8.1](../bbugyi200.athena.sase-o8.1/README.md) | sase-o8 hood | active |
-| [sase-o8.3](../../sessions/bbugyi200.athena.sase-o8.3.md) (session · 3) | sase-o8 hood | active 2, failed 1 |
-| [sase-o8.4](../bbugyi200.athena.sase-o8.4/README.md) | sase-o8 hood | active |
-| [sase-o8.5](../bbugyi200.athena.sase-o8.5/README.md) | sase-o8 hood | active |
-| [sase-o8.land](../../sessions/bbugyi200.athena.sase-o8.land.md) (session · 3) | sase-o8 hood | active 2, failed 1 |
+| [sase-o8.1](../bbugyi200.athena.sase-o8.1/README.md) | sase-o8 hood | dismissed |
+| [sase-o8.3](../../sessions/bbugyi200.athena.sase-o8.3.md) (session · 3) | sase-o8 hood | dismissed 2, failed 1 |
+| [sase-o8.4](../bbugyi200.athena.sase-o8.4/README.md) | sase-o8 hood | dismissed |
+| [sase-o8.5](../bbugyi200.athena.sase-o8.5/README.md) | sase-o8 hood | dismissed |
+| [sase-o8.land](../../sessions/bbugyi200.athena.sase-o8.land.md) (session · 3) | sase-o8 hood | dismissed 2, failed 1 |
