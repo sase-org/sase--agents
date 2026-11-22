@@ -20,4 +20,4 @@
 |---|---|---|
 | [sase-jz.1](../bbugyi200.athena.sase-jz.1/README.md) | sase-jz hood | completed |
 | [sase-jz.3](../bbugyi200.athena.sase-jz.3/README.md) | sase-jz hood | completed |
-| [sase-jz.land](../bbugyi200.athena.sase-jz.land/README.md) | sase-jz hood | active |
+| [sase-jz.land](../bbugyi200.athena.sase-jz.land/README.md) | sase-jz hood | dismissed |

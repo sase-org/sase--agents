@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4139e9`](https://github.com/sase-org/sase/commit/d4139e96e2ac263f7a8af15ddcf4bc74d3f66edc) | fix: repair duplicate ProjectSpec patch blocks | 2026-08-12 12:34:55 EDT |
+| — | `d4139e9` | fix: repair duplicate ProjectSpec patch blocks | 2026-08-12 12:34:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-k2.2](../../sessions/bbugyi200.athena.sase-k2.2.md) (session · 2) | sase-k2 hood | active 1, completed 1 |
-| [sase-k2.3](../bbugyi200.athena.sase-k2.3/README.md) | sase-k2 hood | active |
-| [sase-k2.4](../../sessions/bbugyi200.athena.sase-k2.4.md) (session · 2) | sase-k2 hood | active 1, completed 1 |
-| [sase-k2.5](../../sessions/bbugyi200.athena.sase-k2.5.md) (session · 2) | sase-k2 hood | active 1, dismissed 1 |
+| [sase-k2.2](../../sessions/bbugyi200.athena.sase-k2.2.md) (session · 2) | sase-k2 hood | completed 1, dismissed 1 |
+| [sase-k2.3](../bbugyi200.athena.sase-k2.3/README.md) | sase-k2 hood | dismissed |
+| [sase-k2.4](../../sessions/bbugyi200.athena.sase-k2.4.md) (session · 2) | sase-k2 hood | completed 1, dismissed 1 |
+| [sase-k2.5](../../sessions/bbugyi200.athena.sase-k2.5.md) (session · 2) | sase-k2 hood | dismissed 2 |
 | [sase-k2.5](../bbugyi200.athena.sase-k2.5/README.md) | sase-k2 hood | completed |
-| [sase-k2.6](../bbugyi200.athena.sase-k2.6/README.md) | sase-k2 hood | active |
-| [sase-k2.land](../bbugyi200.athena.sase-k2.land/README.md) | sase-k2 hood | active |
+| [sase-k2.6](../bbugyi200.athena.sase-k2.6/README.md) | sase-k2 hood | dismissed |
+| [sase-k2.land](../bbugyi200.athena.sase-k2.land/README.md) | sase-k2 hood | dismissed |

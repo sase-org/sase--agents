@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-jz](../../users/bbugyi200/machines/athena/hoods/sase-jz/README.md) / sase-jz.land
 
-**Global name:** `bbugyi200.athena.sase-jz.land` · **State:** active · **Source run:** `run-a3e866144412e6a1bfeee383ddfca989`
+**Global name:** `bbugyi200.athena.sase-jz.land` · **State:** dismissed · **Source run:** `run-a3e866144412e6a1bfeee383ddfca989`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-jz
 
@@ -11,7 +11,7 @@
 - Bead: [sase-jz](https://github.com/sase-org/sase--beads/blob/main/pages/sase-jz/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-12T15:31:35.355758+00:00
+- Timing: 2026-08-12T11:31:35.355758 → 2026-08-12T11:56:33.504120
 - Commits: 0
 
 ## Files

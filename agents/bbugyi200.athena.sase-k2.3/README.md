@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-k2](../../users/bbugyi200/machines/athena/hoods/sase-k2/README.md) / sase-k2.3
 
-**Global name:** `bbugyi200.athena.sase-k2.3` · **State:** active · **Source run:** `run-1b71a1d1a91ed5286908e18070fbe673`
+**Global name:** `bbugyi200.athena.sase-k2.3` · **State:** dismissed · **Source run:** `run-1b71a1d1a91ed5286908e18070fbe673`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-k2
 
@@ -12,7 +12,7 @@
 - Epic: [sase-k2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-k2/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-12T15:35:34.963786+00:00
+- Timing: 2026-08-12T11:35:34.963786 → 2026-08-12T12:15:31.544871
 - Commits: [1](#commits)
 
 ## Files
@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fb33e3c`](https://github.com/sase-org/sase/commit/fb33e3c1f9ba8122392eeec67aee1b05874c0e88) | feat(external-mirror): dedicated lumberjack lane with lane-independent state | 2026-08-12 12:09:53 EDT |
+| — | `fb33e3c` | feat(external-mirror): dedicated lumberjack lane with lane-independent state | 2026-08-12 12:09:53 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-k2.1](../../sessions/bbugyi200.athena.sase-k2.1.md) (session · 2) | sase-k2 hood | active 1, completed 1 |
-| [sase-k2.2](../../sessions/bbugyi200.athena.sase-k2.2.md) (session · 2) | sase-k2 hood | active 1, completed 1 |
-| [sase-k2.4](../../sessions/bbugyi200.athena.sase-k2.4.md) (session · 2) | sase-k2 hood | active 1, completed 1 |
-| [sase-k2.5](../../sessions/bbugyi200.athena.sase-k2.5.md) (session · 2) | sase-k2 hood | active 1, dismissed 1 |
+| [sase-k2.1](../../sessions/bbugyi200.athena.sase-k2.1.md) (session · 2) | sase-k2 hood | completed 1, dismissed 1 |
+| [sase-k2.2](../../sessions/bbugyi200.athena.sase-k2.2.md) (session · 2) | sase-k2 hood | completed 1, dismissed 1 |
+| [sase-k2.4](../../sessions/bbugyi200.athena.sase-k2.4.md) (session · 2) | sase-k2 hood | completed 1, dismissed 1 |
+| [sase-k2.5](../../sessions/bbugyi200.athena.sase-k2.5.md) (session · 2) | sase-k2 hood | dismissed 2 |
 | [sase-k2.5](../bbugyi200.athena.sase-k2.5/README.md) | sase-k2 hood | completed |
-| [sase-k2.6](../bbugyi200.athena.sase-k2.6/README.md) | sase-k2 hood | active |
-| [sase-k2.land](../bbugyi200.athena.sase-k2.land/README.md) | sase-k2 hood | active |
+| [sase-k2.6](../bbugyi200.athena.sase-k2.6/README.md) | sase-k2 hood | dismissed |
+| [sase-k2.land](../bbugyi200.athena.sase-k2.land/README.md) | sase-k2 hood | dismissed |

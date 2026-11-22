@@ -22,21 +22,21 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2ba70f0`](https://github.com/sase-org/sase/commit/2ba70f07f2c33352a8454da1188b5365ba5c0dcd) | test(axe): rebaseline compact layout goldens | 2026-08-12 15:35:25 EDT |
+| — | `2ba70f0` | test(axe): rebaseline compact layout goldens | 2026-08-12 15:35:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-jx.5.5.1](../bbugyi200.athena.sase-jx.5.5.1/README.md) | sase-jx.5.5 hood | active |
-| [sase-jx.5.5.2](../bbugyi200.athena.sase-jx.5.5.2/README.md) | sase-jx.5.5 hood | active |
-| [sase-jx.5.1](../bbugyi200.athena.sase-jx.5.1/README.md) | sase-jx.5 hood | active |
-| [sase-jx.5.2](../bbugyi200.athena.sase-jx.5.2/README.md) | sase-jx.5 hood | active |
-| [sase-jx.5.3](../bbugyi200.athena.sase-jx.5.3/README.md) | sase-jx.5 hood | active |
-| [sase-jx.5.4](../bbugyi200.athena.sase-jx.5.4/README.md) | sase-jx.5 hood | active |
-| [sase-jx.5.land](../bbugyi200.athena.sase-jx.5.land/README.md) | sase-jx.5 hood | active |
-| [sase-jx.1](../bbugyi200.athena.sase-jx.1/README.md) | sase-jx hood | active |
-| [sase-jx.2](../bbugyi200.athena.sase-jx.2/README.md) | sase-jx hood | active |
-| [sase-jx.3](../bbugyi200.athena.sase-jx.3/README.md) | sase-jx hood | active |
-| [sase-jx.4](../bbugyi200.athena.sase-jx.4/README.md) | sase-jx hood | active |
-| [sase-jx.land](../bbugyi200.athena.sase-jx.land/README.md) | sase-jx hood | active |
+| [sase-jx.5.5.1](../bbugyi200.athena.sase-jx.5.5.1/README.md) | sase-jx.5.5 hood | dismissed |
+| [sase-jx.5.5.2](../bbugyi200.athena.sase-jx.5.5.2/README.md) | sase-jx.5.5 hood | dismissed |
+| [sase-jx.5.1](../bbugyi200.athena.sase-jx.5.1/README.md) | sase-jx.5 hood | dismissed |
+| [sase-jx.5.2](../bbugyi200.athena.sase-jx.5.2/README.md) | sase-jx.5 hood | dismissed |
+| [sase-jx.5.3](../bbugyi200.athena.sase-jx.5.3/README.md) | sase-jx.5 hood | dismissed |
+| [sase-jx.5.4](../bbugyi200.athena.sase-jx.5.4/README.md) | sase-jx.5 hood | dismissed |
+| [sase-jx.5.land](../bbugyi200.athena.sase-jx.5.land/README.md) | sase-jx.5 hood | dismissed |
+| [sase-jx.1](../bbugyi200.athena.sase-jx.1/README.md) | sase-jx hood | dismissed |
+| [sase-jx.2](../bbugyi200.athena.sase-jx.2/README.md) | sase-jx hood | dismissed |
+| [sase-jx.3](../bbugyi200.athena.sase-jx.3/README.md) | sase-jx hood | dismissed |
+| [sase-jx.4](../bbugyi200.athena.sase-jx.4/README.md) | sase-jx hood | dismissed |
+| [sase-jx.land](../bbugyi200.athena.sase-jx.land/README.md) | sase-jx hood | dismissed |
