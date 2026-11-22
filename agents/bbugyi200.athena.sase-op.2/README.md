@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-op](../../users/bbugyi200/machines/athena/hoods/sase-op/README.md) / sase-op.2
 
-**Global name:** `bbugyi200.athena.sase-op.2` · **State:** active · **Source run:** `run-237342059416045ef84b65ddf1af549a`
+**Global name:** `bbugyi200.athena.sase-op.2` · **State:** dismissed · **Source run:** `run-237342059416045ef84b65ddf1af549a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-op
 
@@ -12,7 +12,7 @@
 - Epic: [sase-op](https://github.com/sase-org/sase--beads/blob/main/pages/sase-op/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-17T16:08:29.276544+00:00
+- Timing: 2026-08-17T12:04:16
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eaafcbe`](https://github.com/sase-org/sase/commit/eaafcbe7253899bce21637194ba6424a5a3e4f2c) | feat(init)!: retire generated glossary note for a Tier 2 instruction block | 2026-08-17 13:06:54 EDT |
+| — | `eaafcbe` | feat(init)!: retire generated glossary note for a Tier 2 instruction block | 2026-08-17 13:06:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-op.1](../bbugyi200.athena.sase-op.1/README.md) | sase-op hood | active |
-| [sase-op.3](../bbugyi200.athena.sase-op.3/README.md) | sase-op hood | active |
-| [sase-op.4](../bbugyi200.athena.sase-op.4/README.md) | sase-op hood | active |
-| [sase-op.5](../../sessions/bbugyi200.athena.sase-op.5.md) (session · 7) | sase-op hood | active 7 |
-| [sase-op.6](../bbugyi200.athena.sase-op.6/README.md) | sase-op hood | active |
-| [sase-op.land](../../sessions/bbugyi200.athena.sase-op.land.md) (session · 3) | sase-op hood | active 3 |
+| [sase-op.1](../bbugyi200.athena.sase-op.1/README.md) | sase-op hood | dismissed |
+| [sase-op.3](../bbugyi200.athena.sase-op.3/README.md) | sase-op hood | dismissed |
+| [sase-op.4](../bbugyi200.athena.sase-op.4/README.md) | sase-op hood | dismissed |
+| [sase-op.5](../../sessions/bbugyi200.athena.sase-op.5.md) (session · 7) | sase-op hood | dismissed 7 |
+| [sase-op.6](../bbugyi200.athena.sase-op.6/README.md) | sase-op hood | dismissed |
+| [sase-op.land](../../sessions/bbugyi200.athena.sase-op.land.md) (session · 3) | sase-op hood | dismissed 3 |

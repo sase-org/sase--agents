@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-on](../../users/bbugyi200/machines/athena/hoods/sase-on/README.md) / [sase-on.land](../../sessions/bbugyi200.athena.sase-on.land.md) / sase-on.land--2
 
-**Global name:** `bbugyi200.athena.sase-on.land--2` · **State:** active · **Source run:** `run-f778ace7ffa6d353c663aba7a7dbaade`
+**Global name:** `bbugyi200.athena.sase-on.land--2` · **State:** dismissed · **Source run:** `run-f778ace7ffa6d353c663aba7a7dbaade`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-on
 
@@ -11,7 +11,7 @@
 - Bead: [sase-on](https://github.com/sase-org/sase--beads/blob/main/pages/sase-on/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-17T19:55:35.598689+00:00
+- Timing: 2026-08-17T15:55:24
 - Commits: 0
 
 ## Files
@@ -22,8 +22,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-on.1](../bbugyi200.athena.sase-on.1/README.md) | sase-on hood | active |
-| [sase-on.2](../bbugyi200.athena.sase-on.2/README.md) | sase-on hood | active |
-| [sase-on.3](../bbugyi200.athena.sase-on.3/README.md) | sase-on hood | active |
-| [sase-on.4](../bbugyi200.athena.sase-on.4/README.md) | sase-on hood | active |
-| [sase-on.5](../../sessions/bbugyi200.athena.sase-on.5.md) (session · 3) | sase-on hood | active 3 |
+| [sase-on.1](../bbugyi200.athena.sase-on.1/README.md) | sase-on hood | dismissed |
+| [sase-on.2](../bbugyi200.athena.sase-on.2/README.md) | sase-on hood | dismissed |
+| [sase-on.3](../bbugyi200.athena.sase-on.3/README.md) | sase-on hood | dismissed |
+| [sase-on.4](../bbugyi200.athena.sase-on.4/README.md) | sase-on hood | dismissed |
+| [sase-on.5](../../sessions/bbugyi200.athena.sase-on.5.md) (session · 3) | sase-on hood | dismissed 3 |

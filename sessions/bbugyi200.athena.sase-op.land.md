@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-op` · Members: 3 · Bead: [sase-op](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-op.land--1 [active]"]
-  n1["sase-op.land--plan [active]"]
+  n0["sase-op.land--1 [dismissed]"]
+  n1["sase-op.land--plan [dismissed]"]
   n0 --> n1
-  n2["sase-op.land--mon [active]"]
+  n2["sase-op.land--mon [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,23 +19,23 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-op.land--1 | active | opus / claude | 2026-08-17T20:37:30.895210+00:00 | [1](../agents/bbugyi200.athena.sase-op.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-op.land--1/prompt.md) | — |
-| <a id="member-plan"></a>plan | sase-op.land--plan | active | opus / claude | 2026-08-17T20:00:33.708548+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-op.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-op.land--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-op.land--mon | active | opus / claude | 2026-08-17T20:23:24.207506+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | sase-op.land--1 | dismissed | opus / claude | 2026-08-17T16:37:20 | [1](../agents/bbugyi200.athena.sase-op.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-op.land--1/prompt.md) | — |
+| <a id="member-plan"></a>plan | sase-op.land--plan | dismissed | opus / claude | 2026-08-17T13:19:01 | 0 | [Prompt](../agents/bbugyi200.athena.sase-op.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-op.land--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-op.land--mon | dismissed | opus / claude | 2026-08-17T16:23:24 | 0 | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`d5ac426`](https://github.com/sase-org/sase/commit/d5ac4269303f6b098aa6e242b8a3185e334a4b71) | refactor(glossary): retire the epic-symbol exemptions for sase-op | 2026-08-17 16:55:47 EDT |
+| 1 | — | `d5ac426` | refactor(glossary): retire the epic-symbol exemptions for sase-op | 2026-08-17 16:55:47 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-op.1](../agents/bbugyi200.athena.sase-op.1/README.md) | sase-op hood | active |
-| [sase-op.2](../agents/bbugyi200.athena.sase-op.2/README.md) | sase-op hood | active |
-| [sase-op.3](../agents/bbugyi200.athena.sase-op.3/README.md) | sase-op hood | active |
-| [sase-op.4](../agents/bbugyi200.athena.sase-op.4/README.md) | sase-op hood | active |
-| [sase-op.5](bbugyi200.athena.sase-op.5.md) (session · 7) | sase-op hood | active 7 |
-| [sase-op.6](../agents/bbugyi200.athena.sase-op.6/README.md) | sase-op hood | active |
+| [sase-op.1](../agents/bbugyi200.athena.sase-op.1/README.md) | sase-op hood | dismissed |
+| [sase-op.2](../agents/bbugyi200.athena.sase-op.2/README.md) | sase-op hood | dismissed |
+| [sase-op.3](../agents/bbugyi200.athena.sase-op.3/README.md) | sase-op hood | dismissed |
+| [sase-op.4](../agents/bbugyi200.athena.sase-op.4/README.md) | sase-op hood | dismissed |
+| [sase-op.5](bbugyi200.athena.sase-op.5.md) (session · 7) | sase-op hood | dismissed 7 |
+| [sase-op.6](../agents/bbugyi200.athena.sase-op.6/README.md) | sase-op hood | dismissed |
