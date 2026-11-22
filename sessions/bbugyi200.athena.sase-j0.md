@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-j0` · Members: 2 · Bead: [sase-j0](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-j0--plan [active]"]
+  n0["sase-j0--plan [dismissed]"]
   n1["sase-j0--code [completed]"]
   n0 --> n1
 ```
@@ -17,19 +17,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-j0--plan | active | gpt-5.6-sol / codex | 2026-08-11T15:46:53.002335+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j0--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-j0--plan | dismissed | gpt-5.6-sol / codex | 2026-08-11T11:46:53.002335 → 2026-08-11T12:41:01.044580 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j0--plan/chat.md) |
 | <a id="member-code"></a>code | sase-j0--code | completed | sonnet / claude | 2026-08-11T16:02:18.748527+00:00 | [1](../agents/bbugyi200.athena.sase-j0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-j0--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`c8e4016`](https://github.com/sase-org/sase/commit/c8e4016c7c5e169b77fd4bfadd9170e71c2a1ca2) | fix(test-cost): recalibrate suite-cost budgets against real recorded history | 2026-08-10 14:58:48 EDT |
-| code | sase | [`9cb81b3`](https://github.com/sase-org/sase/commit/9cb81b3b0dde3af6c4bd66260e9d382785feec65) | feat(test-cost): add width-invariant worker-RSS summary keys | 2026-08-11 12:39:33 EDT |
+| — | — | `c8e4016` | fix(test-cost): recalibrate suite-cost budgets against real recorded history | 2026-08-10 14:58:48 EDT |
+| code | — | `9cb81b3` | feat(test-cost): add width-invariant worker-RSS summary keys | 2026-08-11 12:39:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j0.w1](bbugyi200.athena.sase-j0.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [sase-j0.w1.f0](../agents/bbugyi200.athena.sase-j0.w1.f0/README.md) | descendant | active |
+| [sase-j0.w1](bbugyi200.athena.sase-j0.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [sase-j0.w1.f0](../agents/bbugyi200.athena.sase-j0.w1.f0/README.md) | descendant | dismissed |

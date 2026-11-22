@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-j0` · Members: 2
 ```mermaid
 flowchart TD
   n0["sase-j0.w1--code [completed]"]
-  n1["sase-j0.w1--plan [active]"]
+  n1["sase-j0.w1--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,17 +18,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-j0.w1--code | completed | sonnet / claude | 2026-08-10T19:10:37.643537+00:00 | [1](../agents/bbugyi200.athena.sase-j0.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-j0.w1--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-j0.w1--plan | active | opus / claude | 2026-08-10T19:00:23.438739+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j0.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j0.w1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-j0.w1--plan | dismissed | opus / claude | 2026-08-10T15:00:23.438739 → 2026-08-10T15:24:23.034265 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j0.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j0.w1--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`83bb8a6`](https://github.com/sase-org/sase/commit/83bb8a6f775b6e762de4a3fd2ad9e4e577b5a786) | test: bump flake-baseline cutoff past sase-iy mechanism fixes | 2026-08-10 15:12:44 EDT |
+| code | — | `83bb8a6` | test: bump flake-baseline cutoff past sase-iy mechanism fixes | 2026-08-10 15:12:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j0](bbugyi200.athena.sase-j0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [sase-j0.w1.f0](../agents/bbugyi200.athena.sase-j0.w1.f0/README.md) | descendant | active |
+| [sase-j0](bbugyi200.athena.sase-j0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [sase-j0.w1.f0](../agents/bbugyi200.athena.sase-j0.w1.f0/README.md) | descendant | dismissed |

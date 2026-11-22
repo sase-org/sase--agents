@@ -22,11 +22,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5b97f27`](https://github.com/sase-org/sase/commit/5b97f275518a5990068a8bc13f671f04e2e80170) | test: finish epic sase-j2's isolation terminology cleanup and stale goldens | 2026-08-10 16:16:43 EDT |
+| — | `5b97f27` | test: finish epic sase-j2's isolation terminology cleanup and stale goldens | 2026-08-10 16:16:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j2.1](../bbugyi200.athena.sase-j2.1/README.md) | sase-j2 hood | active |
-| [sase-j2.2](../bbugyi200.athena.sase-j2.2/README.md) | sase-j2 hood | active |
+| [sase-j2.1](../bbugyi200.athena.sase-j2.1/README.md) | sase-j2 hood | dismissed |
+| [sase-j2.2](../bbugyi200.athena.sase-j2.2/README.md) | sase-j2 hood | dismissed |

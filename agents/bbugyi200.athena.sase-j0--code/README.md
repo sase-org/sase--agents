@@ -22,11 +22,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9cb81b3`](https://github.com/sase-org/sase/commit/9cb81b3b0dde3af6c4bd66260e9d382785feec65) | feat(test-cost): add width-invariant worker-RSS summary keys | 2026-08-11 12:39:33 EDT |
+| — | `9cb81b3` | feat(test-cost): add width-invariant worker-RSS summary keys | 2026-08-11 12:39:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j0.w1](../../sessions/bbugyi200.athena.sase-j0.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [sase-j0.w1.f0](../bbugyi200.athena.sase-j0.w1.f0/README.md) | descendant | active |
+| [sase-j0.w1](../../sessions/bbugyi200.athena.sase-j0.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [sase-j0.w1.f0](../bbugyi200.athena.sase-j0.w1.f0/README.md) | descendant | dismissed |
