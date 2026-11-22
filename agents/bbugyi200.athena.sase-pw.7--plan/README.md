@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pw](../../users/bbugyi200/machines/athena/hoods/sase-pw/README.md) / [sase-pw.7](../../sessions/bbugyi200.athena.sase-pw.7.md) / sase-pw.7--plan
 
-**Global name:** `bbugyi200.athena.sase-pw.7--plan` · **State:** active · **Source run:** `run-ebb7dbae7b9989a87b998980730610c5`
+**Global name:** `bbugyi200.athena.sase-pw.7--plan` · **State:** dismissed · **Source run:** `run-ebb7dbae7b9989a87b998980730610c5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-pw
 
@@ -12,7 +12,7 @@
 - Epic: [sase-pw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pw/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-18T18:22:16.130570+00:00
+- Timing: 2026-08-18T13:17:46
 - Commits: 0
 
 ## Files
@@ -23,12 +23,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-pw.1](../bbugyi200.athena.sase-pw.1/README.md) | sase-pw hood | active |
-| [sase-pw.2](../bbugyi200.athena.sase-pw.2/README.md) | sase-pw hood | active |
-| [sase-pw.3](../bbugyi200.athena.sase-pw.3/README.md) | sase-pw hood | active |
-| [sase-pw.4](../bbugyi200.athena.sase-pw.4/README.md) | sase-pw hood | active |
-| [sase-pw.5](../../sessions/bbugyi200.athena.sase-pw.5.md) (session · 7) | sase-pw hood | active 1, completed 3, failed 3 |
-| [sase-pw.6](../bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | active |
-| [sase-pw.8](../../sessions/bbugyi200.athena.sase-pw.8.md) (session · 5) | sase-pw hood | active 1, completed 2, failed 2 |
-| [sase-pw.9](../../sessions/bbugyi200.athena.sase-pw.9.md) (session · 3) | sase-pw hood | active 1, completed 1, failed 1 |
-| [sase-pw.land](../bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | active |
+| [sase-pw.1](../bbugyi200.athena.sase-pw.1/README.md) | sase-pw hood | dismissed |
+| [sase-pw.2](../bbugyi200.athena.sase-pw.2/README.md) | sase-pw hood | dismissed |
+| [sase-pw.3](../bbugyi200.athena.sase-pw.3/README.md) | sase-pw hood | dismissed |
+| [sase-pw.4](../bbugyi200.athena.sase-pw.4/README.md) | sase-pw hood | dismissed |
+| [sase-pw.5](../../sessions/bbugyi200.athena.sase-pw.5.md) (session · 7) | sase-pw hood | completed 3, dismissed 1, failed 3 |
+| [sase-pw.6](../bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | dismissed |
+| [sase-pw.8](../../sessions/bbugyi200.athena.sase-pw.8.md) (session · 5) | sase-pw hood | completed 2, dismissed 1, failed 2 |
+| [sase-pw.9](../../sessions/bbugyi200.athena.sase-pw.9.md) (session · 3) | sase-pw hood | completed 1, dismissed 1, failed 1 |
+| [sase-pw.land](../bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | dismissed |

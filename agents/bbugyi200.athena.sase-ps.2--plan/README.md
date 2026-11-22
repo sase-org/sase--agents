@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ps](../../users/bbugyi200/machines/athena/hoods/sase-ps/README.md) / [sase-ps.2](../../sessions/bbugyi200.athena.sase-ps.2.md) / sase-ps.2--plan
 
-**Global name:** `bbugyi200.athena.sase-ps.2--plan` · **State:** active · **Source run:** `run-c46da40e84974ce1f6f0760baccbd157`
+**Global name:** `bbugyi200.athena.sase-ps.2--plan` · **State:** dismissed · **Source run:** `run-c46da40e84974ce1f6f0760baccbd157`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ps
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ps](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ps/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-18T15:04:38.428262+00:00
+- Timing: 2026-08-18T10:20:51
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ps.1](../bbugyi200.athena.sase-ps.1/README.md) | sase-ps hood | active |
-| [sase-ps.3](../bbugyi200.athena.sase-ps.3/README.md) | sase-ps hood | active |
-| [sase-ps.4](../bbugyi200.athena.sase-ps.4/README.md) | sase-ps hood | active |
-| [sase-ps.land](../bbugyi200.athena.sase-ps.land/README.md) | sase-ps hood | active |
+| [sase-ps.1](../bbugyi200.athena.sase-ps.1/README.md) | sase-ps hood | dismissed |
+| [sase-ps.3](../bbugyi200.athena.sase-ps.3/README.md) | sase-ps hood | dismissed |
+| [sase-ps.4](../bbugyi200.athena.sase-ps.4/README.md) | sase-ps hood | dismissed |
+| [sase-ps.land](../bbugyi200.athena.sase-ps.land/README.md) | sase-ps hood | dismissed |

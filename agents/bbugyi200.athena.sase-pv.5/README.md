@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pv](../../users/bbugyi200/machines/athena/hoods/sase-pv/README.md) / sase-pv.5
 
-**Global name:** `bbugyi200.athena.sase-pv.5` · **State:** active · **Source run:** `run-f7f1cd4d2d443a9ebe510c84e4d83841`
+**Global name:** `bbugyi200.athena.sase-pv.5` · **State:** dismissed · **Source run:** `run-f7f1cd4d2d443a9ebe510c84e4d83841`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-pv
 
@@ -12,7 +12,7 @@
 - Epic: [sase-pv](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pv/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-18T18:39:08.404279+00:00
+- Timing: 2026-08-18T13:27:44
 - Commits: [1](#commits)
 
 ## Files
@@ -23,19 +23,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`65a34b9`](https://github.com/sase-org/sase/commit/65a34b9096c0ab8a301725697495d4bb340bcf64) | feat(flags): treat FlagTriage as a task-bead gate | 2026-08-18 15:32:29 EDT |
+| — | `65a34b9` | feat(flags): treat FlagTriage as a task-bead gate | 2026-08-18 15:32:29 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-pv.1](../../sessions/bbugyi200.athena.sase-pv.1.md) (session · 5) | sase-pv hood | active 1, completed 2, failed 2 |
-| [sase-pv.2](../bbugyi200.athena.sase-pv.2/README.md) | sase-pv hood | active |
-| [sase-pv.3](../bbugyi200.athena.sase-pv.3/README.md) | sase-pv hood | active |
-| [sase-pv.4](../bbugyi200.athena.sase-pv.4/README.md) | sase-pv hood | active |
-| [sase-pv.6](../bbugyi200.athena.sase-pv.6/README.md) | sase-pv hood | active |
-| [sase-pv.7](../bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | active |
-| [sase-pv.7.f0](../bbugyi200.athena.sase-pv.7.f0/README.md) | sase-pv hood | active |
-| [sase-pv.8](../../sessions/bbugyi200.athena.sase-pv.8.md) (session · 3) | sase-pv hood | active 1, completed 1, failed 1 |
-| [sase-pv.9](../bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | active |
-| [sase-pv.land](../../sessions/bbugyi200.athena.sase-pv.land.md) (session · 7) | sase-pv hood | active 1, completed 3, failed 3 |
+| [sase-pv.1](../../sessions/bbugyi200.athena.sase-pv.1.md) (session · 5) | sase-pv hood | completed 2, dismissed 1, failed 2 |
+| [sase-pv.2](../bbugyi200.athena.sase-pv.2/README.md) | sase-pv hood | dismissed |
+| [sase-pv.3](../bbugyi200.athena.sase-pv.3/README.md) | sase-pv hood | dismissed |
+| [sase-pv.4](../bbugyi200.athena.sase-pv.4/README.md) | sase-pv hood | dismissed |
+| [sase-pv.6](../bbugyi200.athena.sase-pv.6/README.md) | sase-pv hood | dismissed |
+| [sase-pv.7](../bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | dismissed |
+| [sase-pv.7.f0](../bbugyi200.athena.sase-pv.7.f0/README.md) | sase-pv hood | dismissed |
+| [sase-pv.8](../../sessions/bbugyi200.athena.sase-pv.8.md) (session · 3) | sase-pv hood | completed 1, dismissed 1, failed 1 |
+| [sase-pv.9](../bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | dismissed |
+| [sase-pv.land](../../sessions/bbugyi200.athena.sase-pv.land.md) (session · 7) | sase-pv hood | completed 3, dismissed 1, failed 3 |

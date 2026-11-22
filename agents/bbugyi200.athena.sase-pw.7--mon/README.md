@@ -23,12 +23,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-pw.1](../bbugyi200.athena.sase-pw.1/README.md) | sase-pw hood | active |
-| [sase-pw.2](../bbugyi200.athena.sase-pw.2/README.md) | sase-pw hood | active |
-| [sase-pw.3](../bbugyi200.athena.sase-pw.3/README.md) | sase-pw hood | active |
-| [sase-pw.4](../bbugyi200.athena.sase-pw.4/README.md) | sase-pw hood | active |
-| [sase-pw.5](../../sessions/bbugyi200.athena.sase-pw.5.md) (session · 7) | sase-pw hood | active 1, completed 3, failed 3 |
-| [sase-pw.6](../bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | active |
-| [sase-pw.8](../../sessions/bbugyi200.athena.sase-pw.8.md) (session · 5) | sase-pw hood | active 1, completed 2, failed 2 |
-| [sase-pw.9](../../sessions/bbugyi200.athena.sase-pw.9.md) (session · 3) | sase-pw hood | active 1, completed 1, failed 1 |
-| [sase-pw.land](../bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | active |
+| [sase-pw.1](../bbugyi200.athena.sase-pw.1/README.md) | sase-pw hood | dismissed |
+| [sase-pw.2](../bbugyi200.athena.sase-pw.2/README.md) | sase-pw hood | dismissed |
+| [sase-pw.3](../bbugyi200.athena.sase-pw.3/README.md) | sase-pw hood | dismissed |
+| [sase-pw.4](../bbugyi200.athena.sase-pw.4/README.md) | sase-pw hood | dismissed |
+| [sase-pw.5](../../sessions/bbugyi200.athena.sase-pw.5.md) (session · 7) | sase-pw hood | completed 3, dismissed 1, failed 3 |
+| [sase-pw.6](../bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | dismissed |
+| [sase-pw.8](../../sessions/bbugyi200.athena.sase-pw.8.md) (session · 5) | sase-pw hood | completed 2, dismissed 1, failed 2 |
+| [sase-pw.9](../../sessions/bbugyi200.athena.sase-pw.9.md) (session · 3) | sase-pw hood | completed 1, dismissed 1, failed 1 |
+| [sase-pw.land](../bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | dismissed |

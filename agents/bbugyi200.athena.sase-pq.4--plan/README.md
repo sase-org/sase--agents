@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pq](../../users/bbugyi200/machines/athena/hoods/sase-pq/README.md) / [sase-pq.4](../../sessions/bbugyi200.athena.sase-pq.4.md) / sase-pq.4--plan
 
-**Global name:** `bbugyi200.athena.sase-pq.4--plan` · **State:** active · **Source run:** `run-807984163a6d9d1b1830f5287379ee56`
+**Global name:** `bbugyi200.athena.sase-pq.4--plan` · **State:** dismissed · **Source run:** `run-807984163a6d9d1b1830f5287379ee56`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-pq
 
@@ -12,7 +12,7 @@
 - Epic: [sase-pq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pq/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-18T14:16:40.665873+00:00
+- Timing: 2026-08-18T09:38:53
 - Commits: 0
 
 ## Files
@@ -23,10 +23,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-pq.1](../bbugyi200.athena.sase-pq.1/README.md) | sase-pq hood | active |
-| [sase-pq.2](../bbugyi200.athena.sase-pq.2/README.md) | sase-pq hood | active |
-| [sase-pq.3](../bbugyi200.athena.sase-pq.3/README.md) | sase-pq hood | active |
-| [sase-pq.5](../bbugyi200.athena.sase-pq.5/README.md) | sase-pq hood | active |
-| [sase-pq.6](../bbugyi200.athena.sase-pq.6/README.md) | sase-pq hood | active |
-| [sase-pq.7](../../sessions/bbugyi200.athena.sase-pq.7.md) (session · 3) | sase-pq hood | active 1, completed 1, failed 1 |
-| [sase-pq.land](../../sessions/bbugyi200.athena.sase-pq.land.md) (session · 9) | sase-pq hood | active 1, completed 4, failed 4 |
+| [sase-pq.1](../bbugyi200.athena.sase-pq.1/README.md) | sase-pq hood | dismissed |
+| [sase-pq.2](../bbugyi200.athena.sase-pq.2/README.md) | sase-pq hood | dismissed |
+| [sase-pq.3](../bbugyi200.athena.sase-pq.3/README.md) | sase-pq hood | dismissed |
+| [sase-pq.5](../bbugyi200.athena.sase-pq.5/README.md) | sase-pq hood | dismissed |
+| [sase-pq.6](../bbugyi200.athena.sase-pq.6/README.md) | sase-pq hood | dismissed |
+| [sase-pq.7](../../sessions/bbugyi200.athena.sase-pq.7.md) (session · 3) | sase-pq hood | completed 1, dismissed 1, failed 1 |
+| [sase-pq.land](../../sessions/bbugyi200.athena.sase-pq.land.md) (session · 9) | sase-pq hood | completed 4, dismissed 1, failed 4 |

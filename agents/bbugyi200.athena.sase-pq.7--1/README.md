@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`50d837a`](https://github.com/sase-org/sase/commit/50d837afa887139b745b9758d8ebe66e5f311111) | test: prove typed task-bead gate chips on every surface | 2026-08-18 12:46:45 EDT |
+| — | `50d837a` | test: prove typed task-bead gate chips on every surface | 2026-08-18 12:46:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-pq.1](../bbugyi200.athena.sase-pq.1/README.md) | sase-pq hood | active |
-| [sase-pq.2](../bbugyi200.athena.sase-pq.2/README.md) | sase-pq hood | active |
-| [sase-pq.3](../bbugyi200.athena.sase-pq.3/README.md) | sase-pq hood | active |
-| [sase-pq.4](../../sessions/bbugyi200.athena.sase-pq.4.md) (session · 3) | sase-pq hood | active 1, completed 1, failed 1 |
-| [sase-pq.5](../bbugyi200.athena.sase-pq.5/README.md) | sase-pq hood | active |
-| [sase-pq.6](../bbugyi200.athena.sase-pq.6/README.md) | sase-pq hood | active |
-| [sase-pq.land](../../sessions/bbugyi200.athena.sase-pq.land.md) (session · 9) | sase-pq hood | active 1, completed 4, failed 4 |
+| [sase-pq.1](../bbugyi200.athena.sase-pq.1/README.md) | sase-pq hood | dismissed |
+| [sase-pq.2](../bbugyi200.athena.sase-pq.2/README.md) | sase-pq hood | dismissed |
+| [sase-pq.3](../bbugyi200.athena.sase-pq.3/README.md) | sase-pq hood | dismissed |
+| [sase-pq.4](../../sessions/bbugyi200.athena.sase-pq.4.md) (session · 3) | sase-pq hood | completed 1, dismissed 1, failed 1 |
+| [sase-pq.5](../bbugyi200.athena.sase-pq.5/README.md) | sase-pq hood | dismissed |
+| [sase-pq.6](../bbugyi200.athena.sase-pq.6/README.md) | sase-pq hood | dismissed |
+| [sase-pq.land](../../sessions/bbugyi200.athena.sase-pq.land.md) (session · 9) | sase-pq hood | completed 4, dismissed 1, failed 4 |

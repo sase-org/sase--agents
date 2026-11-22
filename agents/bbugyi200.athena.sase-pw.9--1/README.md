@@ -22,18 +22,18 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`00e396b`](https://github.com/sase-org/sase/commit/00e396be82b664e06a817d7ee9116a559fa89c59) | feat(ace): document current-project seed in help, docs, and snapshots | 2026-08-18 16:39:16 EDT |
+| — | `00e396b` | feat(ace): document current-project seed in help, docs, and snapshots | 2026-08-18 16:39:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-pw.1](../bbugyi200.athena.sase-pw.1/README.md) | sase-pw hood | active |
-| [sase-pw.2](../bbugyi200.athena.sase-pw.2/README.md) | sase-pw hood | active |
-| [sase-pw.3](../bbugyi200.athena.sase-pw.3/README.md) | sase-pw hood | active |
-| [sase-pw.4](../bbugyi200.athena.sase-pw.4/README.md) | sase-pw hood | active |
-| [sase-pw.5](../../sessions/bbugyi200.athena.sase-pw.5.md) (session · 7) | sase-pw hood | active 1, completed 3, failed 3 |
-| [sase-pw.6](../bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | active |
-| [sase-pw.7](../../sessions/bbugyi200.athena.sase-pw.7.md) (session · 5) | sase-pw hood | active 1, completed 2, failed 2 |
-| [sase-pw.8](../../sessions/bbugyi200.athena.sase-pw.8.md) (session · 5) | sase-pw hood | active 1, completed 2, failed 2 |
-| [sase-pw.land](../bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | active |
+| [sase-pw.1](../bbugyi200.athena.sase-pw.1/README.md) | sase-pw hood | dismissed |
+| [sase-pw.2](../bbugyi200.athena.sase-pw.2/README.md) | sase-pw hood | dismissed |
+| [sase-pw.3](../bbugyi200.athena.sase-pw.3/README.md) | sase-pw hood | dismissed |
+| [sase-pw.4](../bbugyi200.athena.sase-pw.4/README.md) | sase-pw hood | dismissed |
+| [sase-pw.5](../../sessions/bbugyi200.athena.sase-pw.5.md) (session · 7) | sase-pw hood | completed 3, dismissed 1, failed 3 |
+| [sase-pw.6](../bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | dismissed |
+| [sase-pw.7](../../sessions/bbugyi200.athena.sase-pw.7.md) (session · 5) | sase-pw hood | completed 2, dismissed 1, failed 2 |
+| [sase-pw.8](../../sessions/bbugyi200.athena.sase-pw.8.md) (session · 5) | sase-pw hood | completed 2, dismissed 1, failed 2 |
+| [sase-pw.land](../bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | dismissed |
