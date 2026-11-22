@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ce5ddf1`](https://github.com/sase-org/sase/commit/ce5ddf13cd8030b385c430da1a5909b07849a3c1) | perf(plugins): enforce catalog-scale budgets and keep lazy latest | 2026-08-18 23:02:02 EDT |
-| sase | [`0e36971`](https://github.com/sase-org/sase/commit/0e36971e0ba2b75ffa9cc09d33ff2a00c6bcce65) | chore(perf): ignore plugin catalog scale floor-check report | 2026-08-18 23:06:15 EDT |
+| — | `ce5ddf1` | perf(plugins): enforce catalog-scale budgets and keep lazy latest | 2026-08-18 23:02:02 EDT |
+| — | `0e36971` | chore(perf): ignore plugin catalog scale floor-check report | 2026-08-18 23:06:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qn.1](../bbugyi200.athena.sase-qn.1/README.md) | sase-qn hood | active |
-| [sase-qn.2](../bbugyi200.athena.sase-qn.2/README.md) | sase-qn hood | active |
-| [sase-qn.3](../bbugyi200.athena.sase-qn.3/README.md) | sase-qn hood | active |
-| [sase-qn.4](../bbugyi200.athena.sase-qn.4/README.md) | sase-qn hood | active |
-| [sase-qn.land](../bbugyi200.athena.sase-qn.land/README.md) | sase-qn hood | active |
+| [sase-qn.1](../bbugyi200.athena.sase-qn.1/README.md) | sase-qn hood | dismissed |
+| [sase-qn.2](../bbugyi200.athena.sase-qn.2/README.md) | sase-qn hood | dismissed |
+| [sase-qn.3](../bbugyi200.athena.sase-qn.3/README.md) | sase-qn hood | dismissed |
+| [sase-qn.4](../bbugyi200.athena.sase-qn.4/README.md) | sase-qn hood | dismissed |
+| [sase-qn.land](../bbugyi200.athena.sase-qn.land/README.md) | sase-qn hood | dismissed |

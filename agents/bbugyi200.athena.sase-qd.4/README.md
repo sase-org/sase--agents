@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qd](../../users/bbugyi200/machines/athena/hoods/sase-qd/README.md) / sase-qd.4
 
-**Global name:** `bbugyi200.athena.sase-qd.4` · **State:** active · **Source run:** `run-17824f9b5f3a8f8654fde867ec5e6ce7`
+**Global name:** `bbugyi200.athena.sase-qd.4` · **State:** dismissed · **Source run:** `run-17824f9b5f3a8f8654fde867ec5e6ce7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qd
 
@@ -12,7 +12,7 @@
 - Epic: [sase-qd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qd/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-18T23:42:10.437435+00:00
+- Timing: 2026-08-18T18:15:26
 - Commits: [1](#commits)
 
 ## Files
@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5d7812a`](https://github.com/sase-org/sase/commit/5d7812a2c39260ce8aba72bfba31bac1d0c43ef5) | feat(ace): set current project from the Projects tab | 2026-08-18 20:09:18 EDT |
+| — | `5d7812a` | feat(ace): set current project from the Projects tab | 2026-08-18 20:09:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qd.1](../bbugyi200.athena.sase-qd.1/README.md) | sase-qd hood | active |
-| [sase-qd.2](../bbugyi200.athena.sase-qd.2/README.md) | sase-qd hood | active |
-| [sase-qd.3](../bbugyi200.athena.sase-qd.3/README.md) | sase-qd hood | active |
-| [sase-qd.5](../bbugyi200.athena.sase-qd.5/README.md) | sase-qd hood | active |
-| [sase-qd.land](../bbugyi200.athena.sase-qd.land/README.md) | sase-qd hood | active |
+| [sase-qd.1](../bbugyi200.athena.sase-qd.1/README.md) | sase-qd hood | dismissed |
+| [sase-qd.2](../bbugyi200.athena.sase-qd.2/README.md) | sase-qd hood | dismissed |
+| [sase-qd.3](../bbugyi200.athena.sase-qd.3/README.md) | sase-qd hood | dismissed |
+| [sase-qd.5](../bbugyi200.athena.sase-qd.5/README.md) | sase-qd hood | dismissed |
+| [sase-qd.land](../bbugyi200.athena.sase-qd.land/README.md) | sase-qd hood | dismissed |

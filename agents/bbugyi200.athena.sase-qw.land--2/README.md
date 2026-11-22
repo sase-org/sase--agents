@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4950f06`](https://github.com/sase-org/sase/commit/4950f060c8d2919ab9b21499adbba0e6e0570ea1) | test(tui): refresh footer and help goldens for the ,L leader row | 2026-08-19 14:46:59 EDT |
+| — | `4950f06` | test(tui): refresh footer and help goldens for the ,L leader row | 2026-08-19 14:46:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qw.1](../bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | active |
-| [sase-qw.2](../bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | active |
-| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | active |
-| [sase-qw.land\_2](../bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | active |
+| [sase-qw.1](../bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | dismissed |
+| [sase-qw.2](../bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | dismissed |
+| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | dismissed |
+| [sase-qw.land\_2](../bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | dismissed |

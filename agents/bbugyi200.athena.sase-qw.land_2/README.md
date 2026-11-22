@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qw](../../users/bbugyi200/machines/athena/hoods/sase-qw/README.md) / sase-qw.land\_2
 
-**Global name:** `bbugyi200.athena.sase-qw.land_2` · **State:** active · **Source run:** `run-a03f651a1d2ab54ad89d3eaa14c77d9f`
+**Global name:** `bbugyi200.athena.sase-qw.land_2` · **State:** dismissed · **Source run:** `run-a03f651a1d2ab54ad89d3eaa14c77d9f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qw
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-19T20:31:03.675356+00:00
+- Timing: 2026-08-19T16:27:21
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qw.1](../bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | active |
-| [sase-qw.2](../bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | active |
-| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | active |
-| [sase-qw.land](../../sessions/bbugyi200.athena.sase-qw.land.md) (session · 9) | sase-qw hood | active 1, completed 3, failed 5 |
+| [sase-qw.1](../bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | dismissed |
+| [sase-qw.2](../bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | dismissed |
+| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | dismissed |
+| [sase-qw.land](../../sessions/bbugyi200.athena.sase-qw.land.md) (session · 9) | sase-qw hood | completed 3, dismissed 1, failed 5 |

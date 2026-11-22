@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-qw` · Members: 9 · Bead: [sase-qw](ht
 ```mermaid
 flowchart TD
   n0["sase-qw.land--mon-0 [failed]"]
-  n1["sase-qw.land--plan [active]"]
+  n1["sase-qw.land--plan [dismissed]"]
   n0 --> n1
   n2["sase-qw.land--1 [completed]"]
   n0 --> n2
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | sase-qw.land--mon-0 | failed | opus / claude | 2026-08-19T18:26:30.280919+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-qw.land--mon-0/chat.md) |
-| <a id="member-plan"></a>plan | sase-qw.land--plan | active | opus / claude | 2026-08-19T17:42:54.800482+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qw.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qw.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-qw.land--plan | dismissed | opus / claude | 2026-08-19T11:09:09 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qw.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qw.land--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-qw.land--1 | completed | opus / claude | 2026-08-19T18:21:41.385412+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qw.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qw.land--1/chat.md) |
 | <a id="member-3"></a>3 | sase-qw.land--3 | completed | opus / claude | 2026-08-19T19:05:08.953437+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qw.land--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qw.land--3/chat.md) |
 | <a id="member-4"></a>4 | sase-qw.land--4 | failed | opus / claude | 2026-08-19T20:15:18.285522+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qw.land--4/prompt.md) | — |
@@ -45,13 +45,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`4950f06`](https://github.com/sase-org/sase/commit/4950f060c8d2919ab9b21499adbba0e6e0570ea1) | test(tui): refresh footer and help goldens for the ,L leader row | 2026-08-19 14:46:59 EDT |
+| 2 | — | `4950f06` | test(tui): refresh footer and help goldens for the ,L leader row | 2026-08-19 14:46:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qw.1](../agents/bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | active |
-| [sase-qw.2](../agents/bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | active |
-| [sase-qw.3](../agents/bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | active |
-| [sase-qw.land\_2](../agents/bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | active |
+| [sase-qw.1](../agents/bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | dismissed |
+| [sase-qw.2](../agents/bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | dismissed |
+| [sase-qw.3](../agents/bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | dismissed |
+| [sase-qw.land\_2](../agents/bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | dismissed |

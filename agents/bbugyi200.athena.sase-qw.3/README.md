@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qw](../../users/bbugyi200/machines/athena/hoods/sase-qw/README.md) / sase-qw.3
 
-**Global name:** `bbugyi200.athena.sase-qw.3` · **State:** active · **Source run:** `run-73b57901ca18607c1b13202414e1045a`
+**Global name:** `bbugyi200.athena.sase-qw.3` · **State:** dismissed · **Source run:** `run-73b57901ca18607c1b13202414e1045a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qw
 
@@ -12,7 +12,7 @@
 - Epic: [sase-qw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qw/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-19T16:46:34.101565+00:00
+- Timing: 2026-08-19T11:05:01
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3285244`](https://github.com/sase-org/sase/commit/3285244e3b1b2622a19ae76f31896e83b0f45ca6) | feat(tui): jump Logs pane to the registered error entry | 2026-08-19 13:40:49 EDT |
+| — | `3285244` | feat(tui): jump Logs pane to the registered error entry | 2026-08-19 13:40:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qw.1](../bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | active |
-| [sase-qw.2](../bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | active |
-| [sase-qw.land](../../sessions/bbugyi200.athena.sase-qw.land.md) (session · 9) | sase-qw hood | active 1, completed 3, failed 5 |
-| [sase-qw.land\_2](../bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | active |
+| [sase-qw.1](../bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | dismissed |
+| [sase-qw.2](../bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | dismissed |
+| [sase-qw.land](../../sessions/bbugyi200.athena.sase-qw.land.md) (session · 9) | sase-qw hood | completed 3, dismissed 1, failed 5 |
+| [sase-qw.land\_2](../bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | dismissed |

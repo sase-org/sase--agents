@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qw.1](../bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | active |
-| [sase-qw.2](../bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | active |
-| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | active |
-| [sase-qw.land\_2](../bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | active |
+| [sase-qw.1](../bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | dismissed |
+| [sase-qw.2](../bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | dismissed |
+| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | dismissed |
+| [sase-qw.land\_2](../bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | dismissed |

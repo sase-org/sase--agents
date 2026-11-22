@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qv](../../users/bbugyi200/machines/athena/hoods/sase-qv/README.md) / sase-qv.8.1
 
-**Global name:** `bbugyi200.athena.sase-qv.8.1` · **State:** active · **Source run:** `run-83d50e462f80b32477294154bec5b3bf`
+**Global name:** `bbugyi200.athena.sase-qv.8.1` · **State:** dismissed · **Source run:** `run-83d50e462f80b32477294154bec5b3bf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qv
 
@@ -12,7 +12,7 @@
 - Epic: [sase-qv.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qv/sase-qv.8.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-19T20:12:21.196650+00:00
+- Timing: 2026-08-19T16:11:53
 - Commits: [1](#commits)
 
 ## Files
@@ -23,21 +23,21 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3df3452`](https://github.com/sase-org/sase/commit/3df34525c0113a5cb7693c1a52c55e81be914383) | fix(core): honor recorded monitor stop status in dismissed-archive waits | 2026-08-19 17:23:56 EDT |
+| — | `3df3452` | fix(core): honor recorded monitor stop status in dismissed-archive waits | 2026-08-19 17:23:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qv.8.2](../../sessions/bbugyi200.athena.sase-qv.8.2.md) (session · 3) | sase-qv.8 hood | active 3 |
-| [sase-qv.8.land](../bbugyi200.athena.sase-qv.8.land/README.md) | sase-qv.8 hood | active |
-| [sase-qv.8.land\_2](../../sessions/bbugyi200.athena.sase-qv.8.land_2.md) (session · 3) | sase-qv.8 hood | active 3 |
-| [sase-qv.1](../bbugyi200.athena.sase-qv.1/README.md) | sase-qv hood | active |
-| [sase-qv.2](../bbugyi200.athena.sase-qv.2/README.md) | sase-qv hood | active |
-| [sase-qv.3](../bbugyi200.athena.sase-qv.3/README.md) | sase-qv hood | active |
-| [sase-qv.4](../bbugyi200.athena.sase-qv.4/README.md) | sase-qv hood | active |
-| [sase-qv.5](../bbugyi200.athena.sase-qv.5/README.md) | sase-qv hood | active |
-| [sase-qv.6](../bbugyi200.athena.sase-qv.6/README.md) | sase-qv hood | active |
-| [sase-qv.7](../bbugyi200.athena.sase-qv.7/README.md) | sase-qv hood | active |
-| [sase-qv.land](../../sessions/bbugyi200.athena.sase-qv.land.md) (session · 2) | sase-qv hood | active 2 |
+| [sase-qv.8.2](../../sessions/bbugyi200.athena.sase-qv.8.2.md) (session · 3) | sase-qv.8 hood | dismissed 3 |
+| [sase-qv.8.land](../bbugyi200.athena.sase-qv.8.land/README.md) | sase-qv.8 hood | dismissed |
+| [sase-qv.8.land\_2](../../sessions/bbugyi200.athena.sase-qv.8.land_2.md) (session · 3) | sase-qv.8 hood | dismissed 3 |
+| [sase-qv.1](../bbugyi200.athena.sase-qv.1/README.md) | sase-qv hood | dismissed |
+| [sase-qv.2](../bbugyi200.athena.sase-qv.2/README.md) | sase-qv hood | dismissed |
+| [sase-qv.3](../bbugyi200.athena.sase-qv.3/README.md) | sase-qv hood | dismissed |
+| [sase-qv.4](../bbugyi200.athena.sase-qv.4/README.md) | sase-qv hood | dismissed |
+| [sase-qv.5](../bbugyi200.athena.sase-qv.5/README.md) | sase-qv hood | dismissed |
+| [sase-qv.6](../bbugyi200.athena.sase-qv.6/README.md) | sase-qv hood | dismissed |
+| [sase-qv.7](../bbugyi200.athena.sase-qv.7/README.md) | sase-qv hood | dismissed |
+| [sase-qv.land](../../sessions/bbugyi200.athena.sase-qv.land.md) (session · 2) | sase-qv hood | dismissed 2 |
 | [sase-qv.land](../bbugyi200.athena.sase-qv.land/README.md) | sase-qv hood | active |

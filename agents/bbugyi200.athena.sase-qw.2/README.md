@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qw](../../users/bbugyi200/machines/athena/hoods/sase-qw/README.md) / sase-qw.2
 
-**Global name:** `bbugyi200.athena.sase-qw.2` · **State:** active · **Source run:** `run-39005ad6b55adf04b6075021550e26a5`
+**Global name:** `bbugyi200.athena.sase-qw.2` · **State:** dismissed · **Source run:** `run-39005ad6b55adf04b6075021550e26a5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qw
 
@@ -12,7 +12,7 @@
 - Epic: [sase-qw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qw/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-19T15:08:16.499844+00:00
+- Timing: 2026-08-19T11:05:00
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`422c8c2`](https://github.com/sase-org/sase/commit/422c8c2c57ad248a4e12e34c3e144eeb85ffb358) | feat(logs): stamp launch failures with a session error id | 2026-08-19 12:42:26 EDT |
+| — | `422c8c2` | feat(logs): stamp launch failures with a session error id | 2026-08-19 12:42:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qw.1](../bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | active |
-| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | active |
-| [sase-qw.land](../../sessions/bbugyi200.athena.sase-qw.land.md) (session · 9) | sase-qw hood | active 1, completed 3, failed 5 |
-| [sase-qw.land\_2](../bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | active |
+| [sase-qw.1](../bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | dismissed |
+| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | dismissed |
+| [sase-qw.land](../../sessions/bbugyi200.athena.sase-qw.land.md) (session · 9) | sase-qw hood | completed 3, dismissed 1, failed 5 |
+| [sase-qw.land\_2](../bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | dismissed |

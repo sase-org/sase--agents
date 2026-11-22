@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qn](../../users/bbugyi200/machines/athena/hoods/sase-qn/README.md) / [sase-qn.5](../../sessions/bbugyi200.athena.sase-qn.5.md) / sase-qn.5--plan
 
-**Global name:** `bbugyi200.athena.sase-qn.5--plan` · **State:** active · **Source run:** `run-3f09c488a09a5eb6cedc5c6bbd54bc39`
+**Global name:** `bbugyi200.athena.sase-qn.5--plan` · **State:** dismissed · **Source run:** `run-3f09c488a09a5eb6cedc5c6bbd54bc39`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qn
 
@@ -12,7 +12,7 @@
 - Epic: [sase-qn](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qn/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-19T01:55:17.353969+00:00
+- Timing: 2026-08-18T20:13:42
 - Commits: 0
 
 ## Files
@@ -23,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qn.1](../bbugyi200.athena.sase-qn.1/README.md) | sase-qn hood | active |
-| [sase-qn.2](../bbugyi200.athena.sase-qn.2/README.md) | sase-qn hood | active |
-| [sase-qn.3](../bbugyi200.athena.sase-qn.3/README.md) | sase-qn hood | active |
-| [sase-qn.4](../bbugyi200.athena.sase-qn.4/README.md) | sase-qn hood | active |
-| [sase-qn.land](../bbugyi200.athena.sase-qn.land/README.md) | sase-qn hood | active |
+| [sase-qn.1](../bbugyi200.athena.sase-qn.1/README.md) | sase-qn hood | dismissed |
+| [sase-qn.2](../bbugyi200.athena.sase-qn.2/README.md) | sase-qn hood | dismissed |
+| [sase-qn.3](../bbugyi200.athena.sase-qn.3/README.md) | sase-qn hood | dismissed |
+| [sase-qn.4](../bbugyi200.athena.sase-qn.4/README.md) | sase-qn hood | dismissed |
+| [sase-qn.land](../bbugyi200.athena.sase-qn.land/README.md) | sase-qn hood | dismissed |
