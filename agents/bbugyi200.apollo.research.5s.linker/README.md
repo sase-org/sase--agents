@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 20261121172612
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/prompt\_composer\_glossary\_term/prompt\_composer\_glossary\_term.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261121172612/prompt\_composer\_glos… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/prompt_composer_glossary_term/prompt_composer_glossary_term.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261121172612/prompt_composer_glossary_term-5b39d94af8cc.md
+  ref: file:explicit:8eca58557ab5631b6789f713
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202611/prompt_composer_glossary_term/prompt_composer_glossary_term.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
