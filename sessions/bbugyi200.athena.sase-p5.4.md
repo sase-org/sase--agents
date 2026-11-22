@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-p5` · Members: 3 · Bead: [sase-p5.4](
 
 ```mermaid
 flowchart TD
-  n0["sase-p5.4--1 [active]"]
-  n1["sase-p5.4--mon [active]"]
+  n0["sase-p5.4--1 [dismissed]"]
+  n1["sase-p5.4--mon [dismissed]"]
   n0 --> n1
-  n2["sase-p5.4--plan [active]"]
+  n2["sase-p5.4--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,22 +19,22 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-p5.4--1 | active | sonnet / claude | 2026-08-18T10:46:14.417095+00:00 | [1](../agents/bbugyi200.athena.sase-p5.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-p5.4--1/prompt.md) | — |
-| <a id="member-mon"></a>mon | sase-p5.4--mon | active | sonnet / claude | 2026-08-18T10:38:07.060711+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-p5.4--plan | active | sonnet / claude | 2026-08-18T10:14:06.760421+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p5.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p5.4--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-p5.4--1 | dismissed | sonnet / claude | 2026-08-18T06:45:58 | [1](../agents/bbugyi200.athena.sase-p5.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-p5.4--1/prompt.md) | — |
+| <a id="member-mon"></a>mon | sase-p5.4--mon | dismissed | sonnet / claude | 2026-08-18T06:38:07 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-p5.4--plan | dismissed | sonnet / claude | 2026-08-18T06:13:46 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p5.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p5.4--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`aaa09eb`](https://github.com/sase-org/sase/commit/aaa09eba9f945ac86cfd9faca2aae2e1d72159e4) | fix(llm\_provider): exempt shared-clone races from the discarded-work guard | 2026-08-18 06:48:02 EDT |
+| 1 | — | `aaa09eb` | fix(llm\_provider): exempt shared-clone races from the discarded-work guard | 2026-08-18 06:48:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p5.1](bbugyi200.athena.sase-p5.1.md) (session · 5) | sase-p5 hood | active 5 |
-| [sase-p5.2](../agents/bbugyi200.athena.sase-p5.2/README.md) | sase-p5 hood | active |
-| [sase-p5.3](../agents/bbugyi200.athena.sase-p5.3/README.md) | sase-p5 hood | active |
-| [sase-p5.5](../agents/bbugyi200.athena.sase-p5.5/README.md) | sase-p5 hood | active |
-| [sase-p5.land](../agents/bbugyi200.athena.sase-p5.land/README.md) | sase-p5 hood | active |
+| [sase-p5.1](bbugyi200.athena.sase-p5.1.md) (session · 5) | sase-p5 hood | dismissed 5 |
+| [sase-p5.2](../agents/bbugyi200.athena.sase-p5.2/README.md) | sase-p5 hood | dismissed |
+| [sase-p5.3](../agents/bbugyi200.athena.sase-p5.3/README.md) | sase-p5 hood | dismissed |
+| [sase-p5.5](../agents/bbugyi200.athena.sase-p5.5/README.md) | sase-p5 hood | dismissed |
+| [sase-p5.land](../agents/bbugyi200.athena.sase-p5.land/README.md) | sase-p5 hood | dismissed |

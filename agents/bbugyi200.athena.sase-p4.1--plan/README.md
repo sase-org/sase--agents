@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p4](../../users/bbugyi200/machines/athena/hoods/sase-p4/README.md) / [sase-p4.1](../../sessions/bbugyi200.athena.sase-p4.1.md) / sase-p4.1--plan
 
-**Global name:** `bbugyi200.athena.sase-p4.1--plan` · **State:** active · **Source run:** `run-d27c33f7096addd32164cec74f1833cc`
+**Global name:** `bbugyi200.athena.sase-p4.1--plan` · **State:** dismissed · **Source run:** `run-d27c33f7096addd32164cec74f1833cc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p4
 
@@ -12,7 +12,7 @@
 - Epic: [sase-p4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p4/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-17T22:54:54.773010+00:00
+- Timing: 2026-08-17T18:54:33
 - Commits: 0
 
 ## Files
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-p4.2](../bbugyi200.athena.sase-p4.2/README.md) | sase-p4 hood | dismissed |
-| [sase-p4.3](../../sessions/bbugyi200.athena.sase-p4.3.md) (session · 9) | sase-p4 hood | active 2, dismissed 7 |
-| [sase-p4.4](../../sessions/bbugyi200.athena.sase-p4.4.md) (session · 9) | sase-p4 hood | active 2, dismissed 7 |
-| [sase-p4.5](../bbugyi200.athena.sase-p4.5/README.md) | sase-p4 hood | active |
+| [sase-p4.3](../../sessions/bbugyi200.athena.sase-p4.3.md) (session · 9) | sase-p4 hood | dismissed 9 |
+| [sase-p4.4](../../sessions/bbugyi200.athena.sase-p4.4.md) (session · 9) | sase-p4 hood | dismissed 9 |
+| [sase-p4.5](../bbugyi200.athena.sase-p4.5/README.md) | sase-p4 hood | dismissed |
 | [sase-p4.land](../bbugyi200.athena.sase-p4.land/README.md) | sase-p4 hood | dismissed |

@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-p8` · Members: 3 · Bead: [sase-p8.6](
 
 ```mermaid
 flowchart TD
-  n0["sase-p8.6--plan [active]"]
-  n1["sase-p8.6--1 [active]"]
+  n0["sase-p8.6--plan [dismissed]"]
+  n1["sase-p8.6--1 [dismissed]"]
   n0 --> n1
-  n2["sase-p8.6--mon [active]"]
+  n2["sase-p8.6--mon [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,23 +19,23 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-p8.6--plan | active | grok-4.6 / grok | 2026-08-18T02:35:26.798231+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p8.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p8.6--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-p8.6--1 | active | grok-4.6 / grok | 2026-08-18T03:05:56.695070+00:00 | [1](../agents/bbugyi200.athena.sase-p8.6--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-p8.6--1/prompt.md) | — |
-| <a id="member-mon"></a>mon | sase-p8.6--mon | active | grok-4.6 / grok | 2026-08-18T03:03:28.625617+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-p8.6--plan | dismissed | grok-4.6 / grok | 2026-08-17T19:03:05 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p8.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p8.6--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-p8.6--1 | dismissed | grok-4.6 / grok | 2026-08-17T23:05:41 | [1](../agents/bbugyi200.athena.sase-p8.6--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-p8.6--1/prompt.md) | — |
+| <a id="member-mon"></a>mon | sase-p8.6--mon | dismissed | grok-4.6 / grok | 2026-08-17T23:03:28 | 0 | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`c033ca4`](https://github.com/sase-org/sase/commit/c033ca4c455b7afb4a0c16e3804de41f2e34c0af) | test(pipe): add end-to-end sase pipe family exercises | 2026-08-17 23:09:33 EDT |
+| 1 | — | `c033ca4` | test(pipe): add end-to-end sase pipe family exercises | 2026-08-17 23:09:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p8.1](../agents/bbugyi200.athena.sase-p8.1/README.md) | sase-p8 hood | active |
-| [sase-p8.2](bbugyi200.athena.sase-p8.2.md) (session · 5) | sase-p8 hood | active 5 |
-| [sase-p8.3](../agents/bbugyi200.athena.sase-p8.3/README.md) | sase-p8 hood | active |
-| [sase-p8.4](../agents/bbugyi200.athena.sase-p8.4/README.md) | sase-p8 hood | active |
-| [sase-p8.5](../agents/bbugyi200.athena.sase-p8.5/README.md) | sase-p8 hood | active |
-| [sase-p8.land](../agents/bbugyi200.athena.sase-p8.land/README.md) | sase-p8 hood | active |
+| [sase-p8.1](../agents/bbugyi200.athena.sase-p8.1/README.md) | sase-p8 hood | dismissed |
+| [sase-p8.2](bbugyi200.athena.sase-p8.2.md) (session · 5) | sase-p8 hood | dismissed 5 |
+| [sase-p8.3](../agents/bbugyi200.athena.sase-p8.3/README.md) | sase-p8 hood | dismissed |
+| [sase-p8.4](../agents/bbugyi200.athena.sase-p8.4/README.md) | sase-p8 hood | dismissed |
+| [sase-p8.5](../agents/bbugyi200.athena.sase-p8.5/README.md) | sase-p8 hood | dismissed |
+| [sase-p8.land](../agents/bbugyi200.athena.sase-p8.land/README.md) | sase-p8 hood | dismissed |

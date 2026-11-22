@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-p4
 
-**Global hood:** `bbugyi200.athena.sase-p4` · **Runs:** 26 · **Sessions:** 3 · **States:** active 6, dismissed 20
+**Global hood:** `bbugyi200.athena.sase-p4` · **Runs:** 26 · **Sessions:** 3 · **States:** dismissed 26
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -26,9 +26,9 @@
 | [sase-p4.4--mon-1](../../../../../../sessions/bbugyi200.athena.sase-p4.4.md#member-mon-1) | dismissed | sonnet / claude | 2026-08-17T23:44:39 | 0 | — |
 | [sase-p4.4--2](../../../../../../sessions/bbugyi200.athena.sase-p4.4.md#member-2) | dismissed | sonnet / claude | 2026-08-17T23:42:42 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.4--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.4--2/prompt.md) |
 | [sase-p4.3--3](../../../../../../sessions/bbugyi200.athena.sase-p4.3.md#member-3) | dismissed | grok-4.6 / grok | 2026-08-17T22:17:31 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.3--3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.3--3/prompt.md) |
-| [sase-p4.4--mon](../../../../../../sessions/bbugyi200.athena.sase-p4.4.md#member-mon) | active | sonnet / claude | 2026-08-18T03:37:08.621625+00:00 | 0 | — |
-| [sase-p4.3--mon-2](../../../../../../sessions/bbugyi200.athena.sase-p4.3.md#member-mon-2) | active | grok-4.6 / grok | 2026-08-18T02:27:10.860991+00:00 | 0 | — |
-| [sase-p4.4--3](../../../../../../sessions/bbugyi200.athena.sase-p4.4.md#member-3) | active | sonnet / claude | 2026-08-18T04:04:21.176010+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.4--3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.4--3/prompt.md) |
-| [sase-p4.1--plan](../../../../../../sessions/bbugyi200.athena.sase-p4.1.md#member-plan) | active | grok-4.6 / grok | 2026-08-17T22:54:54.773010+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.1--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.1--plan/prompt.md) |
-| [sase-p4.3--plan](../../../../../../sessions/bbugyi200.athena.sase-p4.3.md#member-plan) | active | grok-4.6 / grok | 2026-08-18T00:26:19.832784+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.3--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.3--plan/prompt.md) |
-| [sase-p4.5](../../../../../../agents/bbugyi200.athena.sase-p4.5/README.md) | active | sonnet / claude | 2026-08-18T05:00:16.902718+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.5/prompt.md) |
+| [sase-p4.4--mon](../../../../../../sessions/bbugyi200.athena.sase-p4.4.md#member-mon) | dismissed | sonnet / claude | 2026-08-17T23:37:08 | 0 | — |
+| [sase-p4.3--mon-2](../../../../../../sessions/bbugyi200.athena.sase-p4.3.md#member-mon-2) | dismissed | grok-4.6 / grok | 2026-08-17T22:27:10 | 0 | — |
+| [sase-p4.4--3](../../../../../../sessions/bbugyi200.athena.sase-p4.4.md#member-3) | dismissed | sonnet / claude | 2026-08-18T00:04:04 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.4--3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.4--3/prompt.md) |
+| [sase-p4.1--plan](../../../../../../sessions/bbugyi200.athena.sase-p4.1.md#member-plan) | dismissed | grok-4.6 / grok | 2026-08-17T18:54:33 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.1--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.1--plan/prompt.md) |
+| [sase-p4.3--plan](../../../../../../sessions/bbugyi200.athena.sase-p4.3.md#member-plan) | dismissed | grok-4.6 / grok | 2026-08-17T18:54:35 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.3--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.3--plan/prompt.md) |
+| [sase-p4.5](../../../../../../agents/bbugyi200.athena.sase-p4.5/README.md) | dismissed | sonnet / claude | 2026-08-17T18:54:37 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.5/prompt.md) |

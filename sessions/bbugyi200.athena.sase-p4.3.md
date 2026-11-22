@@ -21,9 +21,9 @@ flowchart TD
   n0 --> n5
   n6["sase-p4.3--3 [dismissed]"]
   n0 --> n6
-  n7["sase-p4.3--mon-2 [active]"]
+  n7["sase-p4.3--mon-2 [dismissed]"]
   n0 --> n7
-  n8["sase-p4.3--plan [active]"]
+  n8["sase-p4.3--plan [dismissed]"]
   n0 --> n8
 ```
 
@@ -38,8 +38,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-1"></a>mon-1 | sase-p4.3--mon-1 | dismissed | grok-4.6 / grok | 2026-08-17T21:54:40 | 0 | — | — |
 | <a id="member-mon"></a>mon | sase-p4.3--mon | dismissed | grok-4.6 / grok | 2026-08-17T20:46:22 | 0 | — | — |
 | <a id="member-3"></a>3 | sase-p4.3--3 | dismissed | grok-4.6 / grok | 2026-08-17T22:17:31 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p4.3--3/chat.md) |
-| <a id="member-mon-2"></a>mon-2 | sase-p4.3--mon-2 | active | grok-4.6 / grok | 2026-08-18T02:27:10.860991+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-p4.3--plan | active | grok-4.6 / grok | 2026-08-18T00:26:19.832784+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p4.3--plan/chat.md) |
+| <a id="member-mon-2"></a>mon-2 | sase-p4.3--mon-2 | dismissed | grok-4.6 / grok | 2026-08-17T22:27:10 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-p4.3--plan | dismissed | grok-4.6 / grok | 2026-08-17T18:54:35 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p4.3--plan/chat.md) |
 
 ## Commits
 
@@ -51,8 +51,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p4.1](bbugyi200.athena.sase-p4.1.md) (session · 5) | sase-p4 hood | active 1, dismissed 4 |
+| [sase-p4.1](bbugyi200.athena.sase-p4.1.md) (session · 5) | sase-p4 hood | dismissed 5 |
 | [sase-p4.2](../agents/bbugyi200.athena.sase-p4.2/README.md) | sase-p4 hood | dismissed |
-| [sase-p4.4](bbugyi200.athena.sase-p4.4.md) (session · 9) | sase-p4 hood | active 2, dismissed 7 |
-| [sase-p4.5](../agents/bbugyi200.athena.sase-p4.5/README.md) | sase-p4 hood | active |
+| [sase-p4.4](bbugyi200.athena.sase-p4.4.md) (session · 9) | sase-p4 hood | dismissed 9 |
+| [sase-p4.5](../agents/bbugyi200.athena.sase-p4.5/README.md) | sase-p4 hood | dismissed |
 | [sase-p4.land](../agents/bbugyi200.athena.sase-p4.land/README.md) | sase-p4 hood | dismissed |

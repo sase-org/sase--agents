@@ -23,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p5.1](../../sessions/bbugyi200.athena.sase-p5.1.md) (session · 5) | sase-p5 hood | active 5 |
-| [sase-p5.2](../bbugyi200.athena.sase-p5.2/README.md) | sase-p5 hood | active |
-| [sase-p5.3](../bbugyi200.athena.sase-p5.3/README.md) | sase-p5 hood | active |
-| [sase-p5.5](../bbugyi200.athena.sase-p5.5/README.md) | sase-p5 hood | active |
-| [sase-p5.land](../bbugyi200.athena.sase-p5.land/README.md) | sase-p5 hood | active |
+| [sase-p5.1](../../sessions/bbugyi200.athena.sase-p5.1.md) (session · 5) | sase-p5 hood | dismissed 5 |
+| [sase-p5.2](../bbugyi200.athena.sase-p5.2/README.md) | sase-p5 hood | dismissed |
+| [sase-p5.3](../bbugyi200.athena.sase-p5.3/README.md) | sase-p5 hood | dismissed |
+| [sase-p5.5](../bbugyi200.athena.sase-p5.5/README.md) | sase-p5 hood | dismissed |
+| [sase-p5.land](../bbugyi200.athena.sase-p5.land/README.md) | sase-p5 hood | dismissed |

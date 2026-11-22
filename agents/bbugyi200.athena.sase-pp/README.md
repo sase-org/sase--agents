@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pp](../../users/bbugyi200/machines/athena/hoods/sase-pp/README.md) / sase-pp
 
-**Global name:** `bbugyi200.athena.sase-pp` · **State:** active · **Source run:** `run-97ee7874c1c5da7001ff13b35ba4cf47`
+**Global name:** `bbugyi200.athena.sase-pp` · **State:** dismissed · **Source run:** `run-97ee7874c1c5da7001ff13b35ba4cf47`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-pp
 
@@ -11,7 +11,7 @@
 - Bead: [sase-pp](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pp/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-19T13:58:19.822506+00:00
+- Timing: 2026-08-19T09:57:49
 - Commits: [1](#commits)
 
 ## Files
@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`488995d`](https://github.com/sase-org/sase/commit/488995dd4d14fad8e3c104dbe5fdb543a54b0238) | fix(flags): treat in-flight orphan flag beads as warnings | 2026-08-19 11:07:05 EDT |
+| — | `488995d` | fix(flags): treat in-flight orphan flag beads as warnings | 2026-08-19 11:07:05 EDT |
