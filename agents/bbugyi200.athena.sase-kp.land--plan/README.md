@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-kp](../../users/bbugyi200/machines/athena/hoods/sase-kp/README.md) / [sase-kp.land](../../sessions/bbugyi200.athena.sase-kp.land.md) / sase-kp.land--plan
 
-**Global name:** `bbugyi200.athena.sase-kp.land--plan` · **State:** active · **Source run:** `run-7c69851b9522ae87ca8960cde2d0c89e`
+**Global name:** `bbugyi200.athena.sase-kp.land--plan` · **State:** dismissed · **Source run:** `run-7c69851b9522ae87ca8960cde2d0c89e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-kp
 
@@ -11,7 +11,7 @@
 - Bead: [sase-kp](https://github.com/sase-org/sase--beads/blob/main/pages/sase-kp/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-13T11:38:13.195673+00:00
+- Timing: 2026-08-13T07:38:13.195673 → 2026-08-13T08:31:20.261886
 - Commits: 0
 
 ## Files
@@ -22,18 +22,18 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-kp.land.w0](../bbugyi200.athena.sase-kp.land.w0/README.md) | descendant | waiting |
-| [sase-kp.land.w0.r0](../bbugyi200.athena.sase-kp.land.w0.r0/README.md) | descendant | active |
-| [sase-kp.land.w1](../../sessions/bbugyi200.athena.sase-kp.land.w1.md) (session · 2) | descendant | active 1, failed 1 |
-| [sase-kp.1](../bbugyi200.athena.sase-kp.1/README.md) | sase-kp hood | active |
-| [sase-kp.10](../bbugyi200.athena.sase-kp.10/README.md) | sase-kp hood | active |
-| [sase-kp.11](../bbugyi200.athena.sase-kp.11/README.md) | sase-kp hood | active |
-| [sase-kp.12](../bbugyi200.athena.sase-kp.12/README.md) | sase-kp hood | active |
-| [sase-kp.2](../bbugyi200.athena.sase-kp.2/README.md) | sase-kp hood | active |
-| [sase-kp.3](../bbugyi200.athena.sase-kp.3/README.md) | sase-kp hood | active |
-| [sase-kp.4](../bbugyi200.athena.sase-kp.4/README.md) | sase-kp hood | active |
-| [sase-kp.5](../bbugyi200.athena.sase-kp.5/README.md) | sase-kp hood | active |
-| [sase-kp.6](../bbugyi200.athena.sase-kp.6/README.md) | sase-kp hood | active |
-| [sase-kp.7](../bbugyi200.athena.sase-kp.7/README.md) | sase-kp hood | active |
-| [sase-kp.8](../bbugyi200.athena.sase-kp.8/README.md) | sase-kp hood | active |
-| [sase-kp.9](../bbugyi200.athena.sase-kp.9/README.md) | sase-kp hood | active |
+| [sase-kp.land.w0](../bbugyi200.athena.sase-kp.land.w0/README.md) | descendant | dismissed |
+| [sase-kp.land.w0.r0](../bbugyi200.athena.sase-kp.land.w0.r0/README.md) | descendant | dismissed |
+| [sase-kp.land.w1](../../sessions/bbugyi200.athena.sase-kp.land.w1.md) (session · 2) | descendant | dismissed 1, failed 1 |
+| [sase-kp.1](../bbugyi200.athena.sase-kp.1/README.md) | sase-kp hood | dismissed |
+| [sase-kp.10](../bbugyi200.athena.sase-kp.10/README.md) | sase-kp hood | dismissed |
+| [sase-kp.11](../bbugyi200.athena.sase-kp.11/README.md) | sase-kp hood | dismissed |
+| [sase-kp.12](../bbugyi200.athena.sase-kp.12/README.md) | sase-kp hood | dismissed |
+| [sase-kp.2](../bbugyi200.athena.sase-kp.2/README.md) | sase-kp hood | dismissed |
+| [sase-kp.3](../bbugyi200.athena.sase-kp.3/README.md) | sase-kp hood | dismissed |
+| [sase-kp.4](../bbugyi200.athena.sase-kp.4/README.md) | sase-kp hood | dismissed |
+| [sase-kp.5](../bbugyi200.athena.sase-kp.5/README.md) | sase-kp hood | dismissed |
+| [sase-kp.6](../bbugyi200.athena.sase-kp.6/README.md) | sase-kp hood | dismissed |
+| [sase-kp.7](../bbugyi200.athena.sase-kp.7/README.md) | sase-kp hood | dismissed |
+| [sase-kp.8](../bbugyi200.athena.sase-kp.8/README.md) | sase-kp hood | dismissed |
+| [sase-kp.9](../bbugyi200.athena.sase-kp.9/README.md) | sase-kp hood | dismissed |

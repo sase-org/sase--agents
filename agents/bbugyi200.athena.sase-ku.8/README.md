@@ -18,24 +18,24 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`df17a07`](https://github.com/sase-org/sase/commit/df17a078a430834d5113051d1712e54b139d97fd) | fix(monitor): close fidelity gaps between monitor output and reality | 2026-08-13 11:38:56 EDT |
+| — | `df17a07` | fix(monitor): close fidelity gaps between monitor output and reality | 2026-08-13 11:38:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ku.1](../bbugyi200.athena.sase-ku.1/README.md) | sase-ku hood | active |
-| [sase-ku.10](../../sessions/bbugyi200.athena.sase-ku.10.md) (session · 5) | sase-ku hood | active 1, completed 1, failed 3 |
-| [sase-ku.2](../bbugyi200.athena.sase-ku.2/README.md) | sase-ku hood | active |
-| [sase-ku.3](../bbugyi200.athena.sase-ku.3/README.md) | sase-ku hood | active |
-| [sase-ku.4](../../sessions/bbugyi200.athena.sase-ku.4.md) (session · 2) | sase-ku hood | active 1, failed 1 |
+| [sase-ku.1](../bbugyi200.athena.sase-ku.1/README.md) | sase-ku hood | dismissed |
+| [sase-ku.10](../../sessions/bbugyi200.athena.sase-ku.10.md) (session · 5) | sase-ku hood | completed 1, dismissed 1, failed 3 |
+| [sase-ku.2](../bbugyi200.athena.sase-ku.2/README.md) | sase-ku hood | dismissed |
+| [sase-ku.3](../bbugyi200.athena.sase-ku.3/README.md) | sase-ku hood | dismissed |
+| [sase-ku.4](../../sessions/bbugyi200.athena.sase-ku.4.md) (session · 2) | sase-ku hood | dismissed 1, failed 1 |
 | [sase-ku.4](../bbugyi200.athena.sase-ku.4/README.md) | sase-ku hood | completed |
-| [sase-ku.5](../../sessions/bbugyi200.athena.sase-ku.5.md) (session · 3) | sase-ku hood | active 1, completed 1, failed 1 |
+| [sase-ku.5](../../sessions/bbugyi200.athena.sase-ku.5.md) (session · 3) | sase-ku hood | completed 1, dismissed 1, failed 1 |
 | [sase-ku.5](../bbugyi200.athena.sase-ku.5/README.md) | sase-ku hood | completed |
-| [sase-ku.6](../../sessions/bbugyi200.athena.sase-ku.6.md) (session · 2) | sase-ku hood | active 1, failed 1 |
+| [sase-ku.6](../../sessions/bbugyi200.athena.sase-ku.6.md) (session · 2) | sase-ku hood | dismissed 1, failed 1 |
 | [sase-ku.6](../bbugyi200.athena.sase-ku.6/README.md) | sase-ku hood | completed |
-| [sase-ku.7](../../sessions/bbugyi200.athena.sase-ku.7.md) (session · 2) | sase-ku hood | active 1, failed 1 |
+| [sase-ku.7](../../sessions/bbugyi200.athena.sase-ku.7.md) (session · 2) | sase-ku hood | dismissed 1, failed 1 |
 | [sase-ku.7](../bbugyi200.athena.sase-ku.7/README.md) | sase-ku hood | completed |
-| [sase-ku.9](../../sessions/bbugyi200.athena.sase-ku.9.md) (session · 2) | sase-ku hood | active 1, failed 1 |
+| [sase-ku.9](../../sessions/bbugyi200.athena.sase-ku.9.md) (session · 2) | sase-ku hood | dismissed 1, failed 1 |
 | [sase-ku.9](../bbugyi200.athena.sase-ku.9/README.md) | sase-ku hood | completed |
-| [sase-ku.land](../bbugyi200.athena.sase-ku.land/README.md) | sase-ku hood | active |
+| [sase-ku.land](../bbugyi200.athena.sase-ku.land/README.md) | sase-ku hood | dismissed |

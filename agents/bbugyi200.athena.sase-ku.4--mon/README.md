@@ -22,18 +22,18 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ku.1](../bbugyi200.athena.sase-ku.1/README.md) | sase-ku hood | active |
-| [sase-ku.10](../../sessions/bbugyi200.athena.sase-ku.10.md) (session · 5) | sase-ku hood | active 1, completed 1, failed 3 |
-| [sase-ku.2](../bbugyi200.athena.sase-ku.2/README.md) | sase-ku hood | active |
-| [sase-ku.3](../bbugyi200.athena.sase-ku.3/README.md) | sase-ku hood | active |
-| [sase-ku.5](../../sessions/bbugyi200.athena.sase-ku.5.md) (session · 3) | sase-ku hood | active 1, completed 1, failed 1 |
+| [sase-ku.1](../bbugyi200.athena.sase-ku.1/README.md) | sase-ku hood | dismissed |
+| [sase-ku.10](../../sessions/bbugyi200.athena.sase-ku.10.md) (session · 5) | sase-ku hood | completed 1, dismissed 1, failed 3 |
+| [sase-ku.2](../bbugyi200.athena.sase-ku.2/README.md) | sase-ku hood | dismissed |
+| [sase-ku.3](../bbugyi200.athena.sase-ku.3/README.md) | sase-ku hood | dismissed |
+| [sase-ku.5](../../sessions/bbugyi200.athena.sase-ku.5.md) (session · 3) | sase-ku hood | completed 1, dismissed 1, failed 1 |
 | [sase-ku.5](../bbugyi200.athena.sase-ku.5/README.md) | sase-ku hood | completed |
-| [sase-ku.6](../../sessions/bbugyi200.athena.sase-ku.6.md) (session · 2) | sase-ku hood | active 1, failed 1 |
+| [sase-ku.6](../../sessions/bbugyi200.athena.sase-ku.6.md) (session · 2) | sase-ku hood | dismissed 1, failed 1 |
 | [sase-ku.6](../bbugyi200.athena.sase-ku.6/README.md) | sase-ku hood | completed |
-| [sase-ku.7](../../sessions/bbugyi200.athena.sase-ku.7.md) (session · 2) | sase-ku hood | active 1, failed 1 |
+| [sase-ku.7](../../sessions/bbugyi200.athena.sase-ku.7.md) (session · 2) | sase-ku hood | dismissed 1, failed 1 |
 | [sase-ku.7](../bbugyi200.athena.sase-ku.7/README.md) | sase-ku hood | completed |
-| [sase-ku.8](../../sessions/bbugyi200.athena.sase-ku.8.md) (session · 2) | sase-ku hood | active 1, failed 1 |
+| [sase-ku.8](../../sessions/bbugyi200.athena.sase-ku.8.md) (session · 2) | sase-ku hood | dismissed 1, failed 1 |
 | [sase-ku.8](../bbugyi200.athena.sase-ku.8/README.md) | sase-ku hood | completed |
-| [sase-ku.9](../../sessions/bbugyi200.athena.sase-ku.9.md) (session · 2) | sase-ku hood | active 1, failed 1 |
+| [sase-ku.9](../../sessions/bbugyi200.athena.sase-ku.9.md) (session · 2) | sase-ku hood | dismissed 1, failed 1 |
 | [sase-ku.9](../bbugyi200.athena.sase-ku.9/README.md) | sase-ku hood | completed |
-| [sase-ku.land](../bbugyi200.athena.sase-ku.land/README.md) | sase-ku hood | active |
+| [sase-ku.land](../bbugyi200.athena.sase-ku.land/README.md) | sase-ku hood | dismissed |
