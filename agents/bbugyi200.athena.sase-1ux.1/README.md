@@ -27,4 +27,4 @@
 | [sase-1ux.3](../bbugyi200.athena.sase-1ux.3/README.md) | sase-1ux hood | completed |
 | [sase-1ux.4](../bbugyi200.athena.sase-1ux.4/README.md) | sase-1ux hood | completed |
 | [sase-1ux.5](../bbugyi200.athena.sase-1ux.5/README.md) | sase-1ux hood | completed |
-| [sase-1ux.land](../bbugyi200.athena.sase-1ux.land/README.md) | sase-1ux hood | waiting |
+| [sase-1ux.land](../../sessions/bbugyi200.athena.sase-1ux.land.md) (session · 3) | sase-1ux hood | active 2, completed 1 |
