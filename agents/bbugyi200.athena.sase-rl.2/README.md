@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rl](../../users/bbugyi200/machines/athena/hoods/sase-rl/README.md) / sase-rl.2
 
-**Global name:** `bbugyi200.athena.sase-rl.2` · **State:** active · **Source run:** `run-25657b466ed81b36e479633de1eea75a`
+**Global name:** `bbugyi200.athena.sase-rl.2` · **State:** dismissed · **Source run:** `run-25657b466ed81b36e479633de1eea75a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rl
 
@@ -12,7 +12,7 @@
 - Epic: [sase-rl](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rl/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-21T09:07:12.158425+00:00
+- Timing: 2026-08-21T05:06:49
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dac3655`](https://github.com/sase-org/sase/commit/dac3655f3af39869019f591279ddae828e81725c) | feat(tui): add mini-xprompt pane lifecycle | 2026-08-21 05:47:03 EDT |
+| — | `dac3655` | feat(tui): add mini-xprompt pane lifecycle | 2026-08-21 05:47:03 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rl.1](../bbugyi200.athena.sase-rl.1/README.md) | sase-rl hood | active |
-| [sase-rl.3](../bbugyi200.athena.sase-rl.3/README.md) | sase-rl hood | active |
-| [sase-rl.4](../bbugyi200.athena.sase-rl.4/README.md) | sase-rl hood | active |
-| [sase-rl.land](../../sessions/bbugyi200.athena.sase-rl.land.md) (session · 2) | sase-rl hood | active 1, completed 1 |
+| [sase-rl.1](../bbugyi200.athena.sase-rl.1/README.md) | sase-rl hood | dismissed |
+| [sase-rl.3](../bbugyi200.athena.sase-rl.3/README.md) | sase-rl hood | dismissed |
+| [sase-rl.4](../bbugyi200.athena.sase-rl.4/README.md) | sase-rl hood | dismissed |
+| [sase-rl.land](../../sessions/bbugyi200.athena.sase-rl.land.md) (session · 2) | sase-rl hood | completed 1, dismissed 1 |

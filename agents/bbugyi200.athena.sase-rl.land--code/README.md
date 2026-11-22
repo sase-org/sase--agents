@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c1dabb1`](https://github.com/sase-org/sase/commit/c1dabb1b5154109bff5ca3c8397a6685b6886656) | fix(ace): harden mini-xprompt save targets | 2026-08-21 07:26:45 EDT |
+| — | `c1dabb1` | fix(ace): harden mini-xprompt save targets | 2026-08-21 07:26:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rl.1](../bbugyi200.athena.sase-rl.1/README.md) | sase-rl hood | active |
-| [sase-rl.2](../bbugyi200.athena.sase-rl.2/README.md) | sase-rl hood | active |
-| [sase-rl.3](../bbugyi200.athena.sase-rl.3/README.md) | sase-rl hood | active |
-| [sase-rl.4](../bbugyi200.athena.sase-rl.4/README.md) | sase-rl hood | active |
+| [sase-rl.1](../bbugyi200.athena.sase-rl.1/README.md) | sase-rl hood | dismissed |
+| [sase-rl.2](../bbugyi200.athena.sase-rl.2/README.md) | sase-rl hood | dismissed |
+| [sase-rl.3](../bbugyi200.athena.sase-rl.3/README.md) | sase-rl hood | dismissed |
+| [sase-rl.4](../bbugyi200.athena.sase-rl.4/README.md) | sase-rl hood | dismissed |

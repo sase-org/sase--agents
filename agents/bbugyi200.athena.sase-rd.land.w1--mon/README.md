@@ -21,9 +21,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rd.land](../bbugyi200.athena.sase-rd.land/README.md) | ancestor | active |
-| [sase-rd.1](../bbugyi200.athena.sase-rd.1/README.md) | sase-rd hood | active |
-| [sase-rd.2](../bbugyi200.athena.sase-rd.2/README.md) | sase-rd hood | active |
-| [sase-rd.3](../bbugyi200.athena.sase-rd.3/README.md) | sase-rd hood | active |
-| [sase-rd.4](../bbugyi200.athena.sase-rd.4/README.md) | sase-rd hood | active |
-| [sase-rd.5](../../sessions/bbugyi200.athena.sase-rd.5.md) (session · 3) | sase-rd hood | active 3 |
+| [sase-rd.land](../bbugyi200.athena.sase-rd.land/README.md) | ancestor | dismissed |
+| [sase-rd.1](../bbugyi200.athena.sase-rd.1/README.md) | sase-rd hood | dismissed |
+| [sase-rd.2](../bbugyi200.athena.sase-rd.2/README.md) | sase-rd hood | dismissed |
+| [sase-rd.3](../bbugyi200.athena.sase-rd.3/README.md) | sase-rd hood | dismissed |
+| [sase-rd.4](../bbugyi200.athena.sase-rd.4/README.md) | sase-rd hood | dismissed |
+| [sase-rd.5](../../sessions/bbugyi200.athena.sase-rd.5.md) (session · 3) | sase-rd hood | dismissed 3 |

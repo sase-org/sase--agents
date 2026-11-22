@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rd](../../users/bbugyi200/machines/athena/hoods/sase-rd/README.md) / sase-rd.3
 
-**Global name:** `bbugyi200.athena.sase-rd.3` · **State:** active · **Source run:** `run-1ebfb6a4b97aec8d8a1affb5322e558f`
+**Global name:** `bbugyi200.athena.sase-rd.3` · **State:** dismissed · **Source run:** `run-1ebfb6a4b97aec8d8a1affb5322e558f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rd
 
@@ -12,7 +12,7 @@
 - Epic: [sase-rd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rd/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-20T13:10:40.086852+00:00
+- Timing: 2026-08-20T07:42:05
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f3a52bc`](https://github.com/sase-org/sase/commit/f3a52bc0aa11e7939406bb5d998906087bd56254) | feat(snippet): add sase snippet CLI for catalog add/list/show/delete | 2026-08-20 09:49:43 EDT |
+| — | `f3a52bc` | feat(snippet): add sase snippet CLI for catalog add/list/show/delete | 2026-08-20 09:49:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rd.1](../bbugyi200.athena.sase-rd.1/README.md) | sase-rd hood | active |
-| [sase-rd.2](../bbugyi200.athena.sase-rd.2/README.md) | sase-rd hood | active |
-| [sase-rd.4](../bbugyi200.athena.sase-rd.4/README.md) | sase-rd hood | active |
-| [sase-rd.5](../../sessions/bbugyi200.athena.sase-rd.5.md) (session · 3) | sase-rd hood | active 3 |
-| [sase-rd.land](../bbugyi200.athena.sase-rd.land/README.md) | sase-rd hood | active |
-| [sase-rd.land.w1](../../sessions/bbugyi200.athena.sase-rd.land.w1.md) (session · 2) | sase-rd hood | active 1, failed 1 |
+| [sase-rd.1](../bbugyi200.athena.sase-rd.1/README.md) | sase-rd hood | dismissed |
+| [sase-rd.2](../bbugyi200.athena.sase-rd.2/README.md) | sase-rd hood | dismissed |
+| [sase-rd.4](../bbugyi200.athena.sase-rd.4/README.md) | sase-rd hood | dismissed |
+| [sase-rd.5](../../sessions/bbugyi200.athena.sase-rd.5.md) (session · 3) | sase-rd hood | dismissed 3 |
+| [sase-rd.land](../bbugyi200.athena.sase-rd.land/README.md) | sase-rd hood | dismissed |
+| [sase-rd.land.w1](../../sessions/bbugyi200.athena.sase-rd.land.w1.md) (session · 2) | sase-rd hood | dismissed 1, failed 1 |

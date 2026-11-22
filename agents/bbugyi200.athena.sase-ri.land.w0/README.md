@@ -21,20 +21,20 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ri.land](../bbugyi200.athena.sase-ri.land/README.md) | ancestor | active |
-| [sase-ri.land.w1.f0](../bbugyi200.athena.sase-ri.land.w1.f0/README.md) | sase-ri.land hood | active |
-| [sase-ri.land.w2](../../sessions/bbugyi200.athena.sase-ri.land.w2.md) (session · 2) | sase-ri.land hood | active 1, failed 1 |
-| [sase-ri.land.w2.f0](../bbugyi200.athena.sase-ri.land.w2.f0/README.md) | sase-ri.land hood | active |
-| [sase-ri.land.w2.f1](../bbugyi200.athena.sase-ri.land.w2.f1/README.md) | sase-ri.land hood | waiting |
-| [sase-ri.land.w2.f2.f0](../bbugyi200.athena.sase-ri.land.w2.f2.f0/README.md) | sase-ri.land hood | active |
-| [sase-ri.land.w2.f2.f1](../bbugyi200.athena.sase-ri.land.w2.f2.f1/README.md) | sase-ri.land hood | waiting |
-| [sase-ri.land.w2.f2.f3](../bbugyi200.athena.sase-ri.land.w2.f2.f3/README.md) | sase-ri.land hood | active |
-| [sase-ri.land.w2.f2.w2](../../sessions/bbugyi200.athena.sase-ri.land.w2.f2.w2.md) (session · 4) | sase-ri.land hood | active 1, completed 2, failed 1 |
-| [sase-ri.land.w2.f2.w2.f1](../../sessions/bbugyi200.athena.sase-ri.land.w2.f2.w2.f1.md) (session · 2) | sase-ri.land hood | active 1, completed 1 |
-| [sase-ri.land.w2.f2.w3](../../sessions/bbugyi200.athena.sase-ri.land.w2.f2.w3.md) (session · 4) | sase-ri.land hood | active 1, completed 2, failed 1 |
-| [sase-ri.land.w2.f3](../../sessions/bbugyi200.athena.sase-ri.land.w2.f3.md) (session · 2) | sase-ri.land hood | active 1, completed 1 |
-| [sase-ri.1](../bbugyi200.athena.sase-ri.1/README.md) | sase-ri hood | active |
-| [sase-ri.2](../bbugyi200.athena.sase-ri.2/README.md) | sase-ri hood | active |
-| [sase-ri.3](../../sessions/bbugyi200.athena.sase-ri.3.md) (session · 5) | sase-ri hood | active 5 |
-| [sase-ri.4](../bbugyi200.athena.sase-ri.4/README.md) | sase-ri hood | active |
-| [sase-ri.5](../bbugyi200.athena.sase-ri.5/README.md) | sase-ri hood | active |
+| [sase-ri.land](../bbugyi200.athena.sase-ri.land/README.md) | ancestor | dismissed |
+| [sase-ri.land.w1.f0](../bbugyi200.athena.sase-ri.land.w1.f0/README.md) | sase-ri.land hood | dismissed |
+| [sase-ri.land.w2](../../sessions/bbugyi200.athena.sase-ri.land.w2.md) (session · 2) | sase-ri.land hood | dismissed 1, failed 1 |
+| [sase-ri.land.w2.f0](../bbugyi200.athena.sase-ri.land.w2.f0/README.md) | sase-ri.land hood | dismissed |
+| [sase-ri.land.w2.f1](../bbugyi200.athena.sase-ri.land.w2.f1/README.md) | sase-ri.land hood | dismissed |
+| [sase-ri.land.w2.f2.f0](../bbugyi200.athena.sase-ri.land.w2.f2.f0/README.md) | sase-ri.land hood | dismissed |
+| [sase-ri.land.w2.f2.f1](../bbugyi200.athena.sase-ri.land.w2.f2.f1/README.md) | sase-ri.land hood | dismissed |
+| [sase-ri.land.w2.f2.f3](../bbugyi200.athena.sase-ri.land.w2.f2.f3/README.md) | sase-ri.land hood | dismissed |
+| [sase-ri.land.w2.f2.w2](../../sessions/bbugyi200.athena.sase-ri.land.w2.f2.w2.md) (session · 4) | sase-ri.land hood | completed 2, dismissed 1, failed 1 |
+| [sase-ri.land.w2.f2.w2.f1](../../sessions/bbugyi200.athena.sase-ri.land.w2.f2.w2.f1.md) (session · 2) | sase-ri.land hood | completed 1, dismissed 1 |
+| [sase-ri.land.w2.f2.w3](../../sessions/bbugyi200.athena.sase-ri.land.w2.f2.w3.md) (session · 4) | sase-ri.land hood | completed 2, dismissed 1, failed 1 |
+| [sase-ri.land.w2.f3](../../sessions/bbugyi200.athena.sase-ri.land.w2.f3.md) (session · 2) | sase-ri.land hood | completed 1, dismissed 1 |
+| [sase-ri.1](../bbugyi200.athena.sase-ri.1/README.md) | sase-ri hood | dismissed |
+| [sase-ri.2](../bbugyi200.athena.sase-ri.2/README.md) | sase-ri hood | dismissed |
+| [sase-ri.3](../../sessions/bbugyi200.athena.sase-ri.3.md) (session · 5) | sase-ri hood | dismissed 5 |
+| [sase-ri.4](../bbugyi200.athena.sase-ri.4/README.md) | sase-ri hood | dismissed |
+| [sase-ri.5](../bbugyi200.athena.sase-ri.5/README.md) | sase-ri hood | dismissed |

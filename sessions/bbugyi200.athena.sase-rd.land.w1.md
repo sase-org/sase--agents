@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-rd` · Members: 2
 ```mermaid
 flowchart TD
   n0["sase-rd.land.w1--mon [failed]"]
-  n1["sase-rd.land.w1--plan [active]"]
+  n1["sase-rd.land.w1--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,15 +18,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-rd.land.w1--mon | failed | gpt-5.6-sol / codex | 2026-08-20T16:42:55.653542+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-rd.land.w1--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-rd.land.w1--plan | active | gpt-5.6-sol / codex | 2026-08-20T16:29:14.433473+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rd.land.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rd.land.w1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-rd.land.w1--plan | dismissed | gpt-5.6-sol / codex | 2026-08-20T08:02:15 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rd.land.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rd.land.w1--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rd.land](../agents/bbugyi200.athena.sase-rd.land/README.md) | ancestor | active |
-| [sase-rd.1](../agents/bbugyi200.athena.sase-rd.1/README.md) | sase-rd hood | active |
-| [sase-rd.2](../agents/bbugyi200.athena.sase-rd.2/README.md) | sase-rd hood | active |
-| [sase-rd.3](../agents/bbugyi200.athena.sase-rd.3/README.md) | sase-rd hood | active |
-| [sase-rd.4](../agents/bbugyi200.athena.sase-rd.4/README.md) | sase-rd hood | active |
-| [sase-rd.5](bbugyi200.athena.sase-rd.5.md) (session · 3) | sase-rd hood | active 3 |
+| [sase-rd.land](../agents/bbugyi200.athena.sase-rd.land/README.md) | ancestor | dismissed |
+| [sase-rd.1](../agents/bbugyi200.athena.sase-rd.1/README.md) | sase-rd hood | dismissed |
+| [sase-rd.2](../agents/bbugyi200.athena.sase-rd.2/README.md) | sase-rd hood | dismissed |
+| [sase-rd.3](../agents/bbugyi200.athena.sase-rd.3/README.md) | sase-rd hood | dismissed |
+| [sase-rd.4](../agents/bbugyi200.athena.sase-rd.4/README.md) | sase-rd hood | dismissed |
+| [sase-rd.5](bbugyi200.athena.sase-rd.5.md) (session · 3) | sase-rd hood | dismissed 3 |

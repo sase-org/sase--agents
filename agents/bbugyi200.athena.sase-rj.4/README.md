@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rj](../../users/bbugyi200/machines/athena/hoods/sase-rj/README.md) / sase-rj.4
 
-**Global name:** `bbugyi200.athena.sase-rj.4` · **State:** active · **Source run:** `run-abb95062c640f806a4e8df5ad56349be`
+**Global name:** `bbugyi200.athena.sase-rj.4` · **State:** dismissed · **Source run:** `run-abb95062c640f806a4e8df5ad56349be`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rj
 
@@ -12,7 +12,7 @@
 - Epic: [sase-rj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rj/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-21T09:05:16.065232+00:00
+- Timing: 2026-08-21T05:04:39
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0e80b9f`](https://github.com/sase-org/sase/commit/0e80b9f96a6b4c599be747818e39894ff4319ef5) | fix(ace): omit model alias self references from completion | 2026-08-21 05:39:34 EDT |
+| — | `0e80b9f` | fix(ace): omit model alias self references from completion | 2026-08-21 05:39:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rj.1](../bbugyi200.athena.sase-rj.1/README.md) | sase-rj hood | active |
-| [sase-rj.2](../bbugyi200.athena.sase-rj.2/README.md) | sase-rj hood | active |
-| [sase-rj.3](../../sessions/bbugyi200.athena.sase-rj.3.md) (session · 5) | sase-rj hood | active 5 |
-| [sase-rj.land](../../sessions/bbugyi200.athena.sase-rj.land.md) (session · 2) | sase-rj hood | active 1, completed 1 |
+| [sase-rj.1](../bbugyi200.athena.sase-rj.1/README.md) | sase-rj hood | dismissed |
+| [sase-rj.2](../bbugyi200.athena.sase-rj.2/README.md) | sase-rj hood | dismissed |
+| [sase-rj.3](../../sessions/bbugyi200.athena.sase-rj.3.md) (session · 5) | sase-rj hood | dismissed 5 |
+| [sase-rj.land](../../sessions/bbugyi200.athena.sase-rj.land.md) (session · 2) | sase-rj hood | completed 1, dismissed 1 |

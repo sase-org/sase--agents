@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-r8](../../users/bbugyi200/machines/athena/hoods/sase-r8/README.md) / sase-r8.2
 
-**Global name:** `bbugyi200.athena.sase-r8.2` · **State:** active · **Source run:** `run-3e6cb4342a2659885905c00f0dabac81`
+**Global name:** `bbugyi200.athena.sase-r8.2` · **State:** dismissed · **Source run:** `run-3e6cb4342a2659885905c00f0dabac81`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-r8
 
@@ -12,7 +12,7 @@
 - Epic: [sase-r8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-r8/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-19T23:18:06.313271+00:00
+- Timing: 2026-08-19T19:17:34
 - Commits: 0
 
 ## Files
@@ -23,14 +23,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-r8.1](../bbugyi200.athena.sase-r8.1/README.md) | sase-r8 hood | active |
-| [sase-r8.3](../bbugyi200.athena.sase-r8.3/README.md) | sase-r8 hood | active |
-| [sase-r8.4](../bbugyi200.athena.sase-r8.4/README.md) | sase-r8 hood | active |
-| [sase-r8.5](../bbugyi200.athena.sase-r8.5/README.md) | sase-r8 hood | active |
-| [sase-r8.6](../bbugyi200.athena.sase-r8.6/README.md) | sase-r8 hood | active |
-| [sase-r8.7](../bbugyi200.athena.sase-r8.7/README.md) | sase-r8 hood | active |
-| [sase-r8.8](../bbugyi200.athena.sase-r8.8/README.md) | sase-r8 hood | active |
-| [sase-r8.9.1](../../sessions/bbugyi200.athena.sase-r8.9.1.md) (session · 3) | sase-r8 hood | active 3 |
-| [sase-r8.9.2](../../sessions/bbugyi200.athena.sase-r8.9.2.md) (session · 3) | sase-r8 hood | active 3 |
-| [sase-r8.9.land](../bbugyi200.athena.sase-r8.9.land/README.md) | sase-r8 hood | active |
-| [sase-r8.land](../../sessions/bbugyi200.athena.sase-r8.land.md) (session · 2) | sase-r8 hood | active 2 |
+| [sase-r8.1](../bbugyi200.athena.sase-r8.1/README.md) | sase-r8 hood | dismissed |
+| [sase-r8.3](../bbugyi200.athena.sase-r8.3/README.md) | sase-r8 hood | dismissed |
+| [sase-r8.4](../bbugyi200.athena.sase-r8.4/README.md) | sase-r8 hood | dismissed |
+| [sase-r8.5](../bbugyi200.athena.sase-r8.5/README.md) | sase-r8 hood | dismissed |
+| [sase-r8.6](../bbugyi200.athena.sase-r8.6/README.md) | sase-r8 hood | dismissed |
+| [sase-r8.7](../bbugyi200.athena.sase-r8.7/README.md) | sase-r8 hood | dismissed |
+| [sase-r8.8](../bbugyi200.athena.sase-r8.8/README.md) | sase-r8 hood | dismissed |
+| [sase-r8.9.1](../../sessions/bbugyi200.athena.sase-r8.9.1.md) (session · 3) | sase-r8 hood | dismissed 3 |
+| [sase-r8.9.2](../../sessions/bbugyi200.athena.sase-r8.9.2.md) (session · 3) | sase-r8 hood | dismissed 3 |
+| [sase-r8.9.land](../bbugyi200.athena.sase-r8.9.land/README.md) | sase-r8 hood | dismissed |
+| [sase-r8.land](../../sessions/bbugyi200.athena.sase-r8.land.md) (session · 2) | sase-r8 hood | dismissed 2 |
