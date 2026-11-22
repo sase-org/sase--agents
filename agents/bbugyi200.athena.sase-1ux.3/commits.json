@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-89a984870253fdcc0a6df11b8a963cfc"}
+{"commits":[{"committed_at":1795369898,"sha":"3dc72ddd4c3fe4e6b1f16746151dbaf639083ecb","subject":"feat(tui): unify failure-aware session rollups"}],"schema_version":2,"source_run_id":"run-89a984870253fdcc0a6df11b8a963cfc"}
