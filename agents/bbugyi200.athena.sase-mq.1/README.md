@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mq](../../users/bbugyi200/machines/athena/hoods/sase-mq/README.md) / sase-mq.1
 
-**Global name:** `bbugyi200.athena.sase-mq.1` · **State:** active · **Source run:** `run-61fc0dfe0e32f7603d081d18d98ce418`
+**Global name:** `bbugyi200.athena.sase-mq.1` · **State:** dismissed · **Source run:** `run-61fc0dfe0e32f7603d081d18d98ce418`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mq
 
@@ -12,7 +12,7 @@
 - Epic: [sase-mq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mq/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-16T03:44:01.403046+00:00
+- Timing: 2026-08-15T23:43:40
 - Commits: [1](#commits)
 
 ## Files
@@ -23,21 +23,21 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6f7052f`](https://github.com/sase-org/sase/commit/6f7052fc90467145c78def777622e950eeb9f0ec) | feat(workspace): add ownership contract for store mutations | 2026-08-16 00:46:58 EDT |
+| — | `6f7052f` | feat(workspace): add ownership contract for store mutations | 2026-08-16 00:46:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mq.2](../../sessions/bbugyi200.athena.sase-mq.2.md) (session · 3) | sase-mq hood | active 1, completed 1, failed 1 |
-| [sase-mq.3](../../sessions/bbugyi200.athena.sase-mq.3.md) (session · 2) | sase-mq hood | active 1, completed 1 |
-| [sase-mq.4](../../sessions/bbugyi200.athena.sase-mq.4.md) (session · 3) | sase-mq hood | active 1, completed 1, failed 1 |
-| [sase-mq.5](../bbugyi200.athena.sase-mq.5/README.md) | sase-mq hood | active |
-| [sase-mq.6](../bbugyi200.athena.sase-mq.6/README.md) | sase-mq hood | active |
-| [sase-mq.7](../bbugyi200.athena.sase-mq.7/README.md) | sase-mq hood | active |
-| [sase-mq.8.1](../bbugyi200.athena.sase-mq.8.1/README.md) | sase-mq hood | active |
-| [sase-mq.8.2](../bbugyi200.athena.sase-mq.8.2/README.md) | sase-mq hood | active |
-| [sase-mq.8.3](../bbugyi200.athena.sase-mq.8.3/README.md) | sase-mq hood | active |
-| [sase-mq.8.4](../bbugyi200.athena.sase-mq.8.4/README.md) | sase-mq hood | active |
-| [sase-mq.8.land](../../sessions/bbugyi200.athena.sase-mq.8.land.md) (session · 3) | sase-mq hood | active 1, completed 1, failed 1 |
-| [sase-mq.land](../../sessions/bbugyi200.athena.sase-mq.land.md) (session · 2) | sase-mq hood | active 1, failed 1 |
+| [sase-mq.2](../../sessions/bbugyi200.athena.sase-mq.2.md) (session · 3) | sase-mq hood | completed 1, dismissed 1, failed 1 |
+| [sase-mq.3](../../sessions/bbugyi200.athena.sase-mq.3.md) (session · 2) | sase-mq hood | completed 1, dismissed 1 |
+| [sase-mq.4](../../sessions/bbugyi200.athena.sase-mq.4.md) (session · 3) | sase-mq hood | completed 1, dismissed 1, failed 1 |
+| [sase-mq.5](../bbugyi200.athena.sase-mq.5/README.md) | sase-mq hood | dismissed |
+| [sase-mq.6](../bbugyi200.athena.sase-mq.6/README.md) | sase-mq hood | dismissed |
+| [sase-mq.7](../bbugyi200.athena.sase-mq.7/README.md) | sase-mq hood | dismissed |
+| [sase-mq.8.1](../bbugyi200.athena.sase-mq.8.1/README.md) | sase-mq hood | dismissed |
+| [sase-mq.8.2](../bbugyi200.athena.sase-mq.8.2/README.md) | sase-mq hood | dismissed |
+| [sase-mq.8.3](../bbugyi200.athena.sase-mq.8.3/README.md) | sase-mq hood | dismissed |
+| [sase-mq.8.4](../bbugyi200.athena.sase-mq.8.4/README.md) | sase-mq hood | dismissed |
+| [sase-mq.8.land](../../sessions/bbugyi200.athena.sase-mq.8.land.md) (session · 3) | sase-mq hood | completed 1, dismissed 1, failed 1 |
+| [sase-mq.land](../../sessions/bbugyi200.athena.sase-mq.land.md) (session · 2) | sase-mq hood | dismissed 1, failed 1 |

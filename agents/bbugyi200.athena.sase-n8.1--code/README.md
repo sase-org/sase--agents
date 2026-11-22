@@ -23,19 +23,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`96b48d0`](https://github.com/sase-org/sase/commit/96b48d0abbe9acec0f8037a08c388fc7c291edf8) | feat: record alias launch provenance | 2026-08-16 13:22:10 EDT |
+| — | `96b48d0` | feat: record alias launch provenance | 2026-08-16 13:22:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n8.2](../../sessions/bbugyi200.athena.sase-n8.2.md) (session · 2) | sase-n8 hood | active 1, completed 1 |
-| [sase-n8.3](../bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | active |
-| [sase-n8.4](../bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | active |
-| [sase-n8.5](../bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | active |
-| [sase-n8.6](../../sessions/bbugyi200.athena.sase-n8.6.md) (session · 2) | sase-n8 hood | active 1, completed 1 |
-| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | active |
-| [sase-n8.8](../../sessions/bbugyi200.athena.sase-n8.8.md) (session · 15) | sase-n8 hood | active 1, completed 7, failed 7 |
+| [sase-n8.2](../../sessions/bbugyi200.athena.sase-n8.2.md) (session · 2) | sase-n8 hood | completed 1, dismissed 1 |
+| [sase-n8.3](../bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.4](../bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.5](../bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.6](../../sessions/bbugyi200.athena.sase-n8.6.md) (session · 2) | sase-n8 hood | completed 1, dismissed 1 |
+| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.8](../../sessions/bbugyi200.athena.sase-n8.8.md) (session · 15) | sase-n8 hood | completed 7, dismissed 1, failed 7 |
 | [sase-n8.8](../bbugyi200.athena.sase-n8.8/README.md) | sase-n8 hood | waiting |
-| [sase-n8.9](../bbugyi200.athena.sase-n8.9/README.md) | sase-n8 hood | active |
-| [sase-n8.land](../bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | active |
+| [sase-n8.9](../bbugyi200.athena.sase-n8.9/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.land](../bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | dismissed |

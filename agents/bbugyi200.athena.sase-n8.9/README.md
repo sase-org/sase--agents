@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-n8](../../users/bbugyi200/machines/athena/hoods/sase-n8/README.md) / sase-n8.9
 
-**Global name:** `bbugyi200.athena.sase-n8.9` · **State:** active · **Source run:** `run-45bb0c35aa816263ef50d2a596e2cc74`
+**Global name:** `bbugyi200.athena.sase-n8.9` · **State:** dismissed · **Source run:** `run-45bb0c35aa816263ef50d2a596e2cc74`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-n8
 
@@ -12,7 +12,7 @@
 - Epic: [sase-n8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-n8/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-16T21:56:39.715309+00:00
+- Timing: 2026-08-16T16:08:59
 - Commits: 0
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n8.1](../../sessions/bbugyi200.athena.sase-n8.1.md) (session · 2) | sase-n8 hood | active 1, completed 1 |
-| [sase-n8.2](../../sessions/bbugyi200.athena.sase-n8.2.md) (session · 2) | sase-n8 hood | active 1, completed 1 |
-| [sase-n8.3](../bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | active |
-| [sase-n8.4](../bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | active |
-| [sase-n8.5](../bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | active |
-| [sase-n8.6](../../sessions/bbugyi200.athena.sase-n8.6.md) (session · 2) | sase-n8 hood | active 1, completed 1 |
-| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | active |
-| [sase-n8.8](../../sessions/bbugyi200.athena.sase-n8.8.md) (session · 15) | sase-n8 hood | active 1, completed 7, failed 7 |
+| [sase-n8.1](../../sessions/bbugyi200.athena.sase-n8.1.md) (session · 2) | sase-n8 hood | completed 1, dismissed 1 |
+| [sase-n8.2](../../sessions/bbugyi200.athena.sase-n8.2.md) (session · 2) | sase-n8 hood | completed 1, dismissed 1 |
+| [sase-n8.3](../bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.4](../bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.5](../bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.6](../../sessions/bbugyi200.athena.sase-n8.6.md) (session · 2) | sase-n8 hood | completed 1, dismissed 1 |
+| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.8](../../sessions/bbugyi200.athena.sase-n8.8.md) (session · 15) | sase-n8 hood | completed 7, dismissed 1, failed 7 |
 | [sase-n8.8](../bbugyi200.athena.sase-n8.8/README.md) | sase-n8 hood | waiting |
-| [sase-n8.land](../bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | active |
+| [sase-n8.land](../bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | dismissed |

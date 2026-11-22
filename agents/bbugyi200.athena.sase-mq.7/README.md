@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mq](../../users/bbugyi200/machines/athena/hoods/sase-mq/README.md) / sase-mq.7
 
-**Global name:** `bbugyi200.athena.sase-mq.7` · **State:** active · **Source run:** `run-d79230d48a788ce3fe49be27aafc6e3d`
+**Global name:** `bbugyi200.athena.sase-mq.7` · **State:** dismissed · **Source run:** `run-d79230d48a788ce3fe49be27aafc6e3d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mq
 
@@ -12,7 +12,7 @@
 - Epic: [sase-mq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mq/README.md)
 - Model: gemini-3.7-flash-high
 - Provider: agy
-- Timing: 2026-08-16T07:50:55.053975+00:00
+- Timing: 2026-08-15T23:43:46
 - Commits: [1](#commits)
 
 ## Files
@@ -23,21 +23,21 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ec390cd`](https://github.com/sase-org/sase/commit/ec390cdd451f95730a1246475c7746c5c0643190) | test(workspace): add end-to-end ownership invariant audit gates | 2026-08-16 04:18:27 EDT |
+| — | `ec390cd` | test(workspace): add end-to-end ownership invariant audit gates | 2026-08-16 04:18:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mq.1](../bbugyi200.athena.sase-mq.1/README.md) | sase-mq hood | active |
-| [sase-mq.2](../../sessions/bbugyi200.athena.sase-mq.2.md) (session · 3) | sase-mq hood | active 1, completed 1, failed 1 |
-| [sase-mq.3](../../sessions/bbugyi200.athena.sase-mq.3.md) (session · 2) | sase-mq hood | active 1, completed 1 |
-| [sase-mq.4](../../sessions/bbugyi200.athena.sase-mq.4.md) (session · 3) | sase-mq hood | active 1, completed 1, failed 1 |
-| [sase-mq.5](../bbugyi200.athena.sase-mq.5/README.md) | sase-mq hood | active |
-| [sase-mq.6](../bbugyi200.athena.sase-mq.6/README.md) | sase-mq hood | active |
-| [sase-mq.8.1](../bbugyi200.athena.sase-mq.8.1/README.md) | sase-mq hood | active |
-| [sase-mq.8.2](../bbugyi200.athena.sase-mq.8.2/README.md) | sase-mq hood | active |
-| [sase-mq.8.3](../bbugyi200.athena.sase-mq.8.3/README.md) | sase-mq hood | active |
-| [sase-mq.8.4](../bbugyi200.athena.sase-mq.8.4/README.md) | sase-mq hood | active |
-| [sase-mq.8.land](../../sessions/bbugyi200.athena.sase-mq.8.land.md) (session · 3) | sase-mq hood | active 1, completed 1, failed 1 |
-| [sase-mq.land](../../sessions/bbugyi200.athena.sase-mq.land.md) (session · 2) | sase-mq hood | active 1, failed 1 |
+| [sase-mq.1](../bbugyi200.athena.sase-mq.1/README.md) | sase-mq hood | dismissed |
+| [sase-mq.2](../../sessions/bbugyi200.athena.sase-mq.2.md) (session · 3) | sase-mq hood | completed 1, dismissed 1, failed 1 |
+| [sase-mq.3](../../sessions/bbugyi200.athena.sase-mq.3.md) (session · 2) | sase-mq hood | completed 1, dismissed 1 |
+| [sase-mq.4](../../sessions/bbugyi200.athena.sase-mq.4.md) (session · 3) | sase-mq hood | completed 1, dismissed 1, failed 1 |
+| [sase-mq.5](../bbugyi200.athena.sase-mq.5/README.md) | sase-mq hood | dismissed |
+| [sase-mq.6](../bbugyi200.athena.sase-mq.6/README.md) | sase-mq hood | dismissed |
+| [sase-mq.8.1](../bbugyi200.athena.sase-mq.8.1/README.md) | sase-mq hood | dismissed |
+| [sase-mq.8.2](../bbugyi200.athena.sase-mq.8.2/README.md) | sase-mq hood | dismissed |
+| [sase-mq.8.3](../bbugyi200.athena.sase-mq.8.3/README.md) | sase-mq hood | dismissed |
+| [sase-mq.8.4](../bbugyi200.athena.sase-mq.8.4/README.md) | sase-mq hood | dismissed |
+| [sase-mq.8.land](../../sessions/bbugyi200.athena.sase-mq.8.land.md) (session · 3) | sase-mq hood | completed 1, dismissed 1, failed 1 |
+| [sase-mq.land](../../sessions/bbugyi200.athena.sase-mq.land.md) (session · 2) | sase-mq hood | dismissed 1, failed 1 |

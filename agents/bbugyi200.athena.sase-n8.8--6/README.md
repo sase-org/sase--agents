@@ -22,18 +22,18 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e50d8a9`](https://github.com/sase-org/sase/commit/e50d8a9537a1a1baefd44bf121e1c8faf213b181) | fix: restore history-word metadata API | 2026-08-16 17:51:52 EDT |
+| — | `e50d8a9` | fix: restore history-word metadata API | 2026-08-16 17:51:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n8.1](../../sessions/bbugyi200.athena.sase-n8.1.md) (session · 2) | sase-n8 hood | active 1, completed 1 |
-| [sase-n8.2](../../sessions/bbugyi200.athena.sase-n8.2.md) (session · 2) | sase-n8 hood | active 1, completed 1 |
-| [sase-n8.3](../bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | active |
-| [sase-n8.4](../bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | active |
-| [sase-n8.5](../bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | active |
-| [sase-n8.6](../../sessions/bbugyi200.athena.sase-n8.6.md) (session · 2) | sase-n8 hood | active 1, completed 1 |
-| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | active |
-| [sase-n8.9](../bbugyi200.athena.sase-n8.9/README.md) | sase-n8 hood | active |
-| [sase-n8.land](../bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | active |
+| [sase-n8.1](../../sessions/bbugyi200.athena.sase-n8.1.md) (session · 2) | sase-n8 hood | completed 1, dismissed 1 |
+| [sase-n8.2](../../sessions/bbugyi200.athena.sase-n8.2.md) (session · 2) | sase-n8 hood | completed 1, dismissed 1 |
+| [sase-n8.3](../bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.4](../bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.5](../bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.6](../../sessions/bbugyi200.athena.sase-n8.6.md) (session · 2) | sase-n8 hood | completed 1, dismissed 1 |
+| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.9](../bbugyi200.athena.sase-n8.9/README.md) | sase-n8 hood | dismissed |
+| [sase-n8.land](../bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | dismissed |
