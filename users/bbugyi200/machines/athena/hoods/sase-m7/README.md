@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-m7
 
-**Global hood:** `bbugyi200.athena.sase-m7` · **Runs:** 6 · **Sessions:** 1 · **States:** active 1, completed 3, failed 2
+**Global hood:** `bbugyi200.athena.sase-m7` · **Runs:** 6 · **Sessions:** 1 · **States:** completed 3, dismissed 1, failed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -11,4 +11,4 @@
 | [sase-m7--mon-0](../../../../../../sessions/bbugyi200.athena.sase-m7.md#member-mon-0) | failed | gpt-5.6-sol / codex | 2026-08-15T21:17:24.579615+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-m7--mon-0/chat.md) |
 | [sase-m7--1](../../../../../../sessions/bbugyi200.athena.sase-m7.md#member-1) | completed | gpt-5.6-sol / codex | 2026-08-15T21:15:43.508909+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-m7--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-m7--1/prompt.md) |
 | [sase-m7--code](../../../../../../sessions/bbugyi200.athena.sase-m7.md#member-code) | completed | gpt-5.5 / codex | 2026-08-15T20:18:18.302417+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-m7--code/chat.md) |
-| [sase-m7--plan](../../../../../../sessions/bbugyi200.athena.sase-m7.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-15T20:08:21.229889+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-m7--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-m7--plan/prompt.md) |
+| [sase-m7--plan](../../../../../../sessions/bbugyi200.athena.sase-m7.md#member-plan) | dismissed | gpt-5.6-sol / codex | 2026-08-15T16:08:07 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-m7--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-m7--plan/prompt.md) |

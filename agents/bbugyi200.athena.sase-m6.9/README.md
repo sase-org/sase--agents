@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / sase-m6.9
 
-**Global name:** `bbugyi200.athena.sase-m6.9` · **State:** active · **Source run:** `run-e7d40c973e747338a99d7c1247b142d9`
+**Global name:** `bbugyi200.athena.sase-m6.9` · **State:** dismissed · **Source run:** `run-e7d40c973e747338a99d7c1247b142d9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
@@ -12,7 +12,7 @@
 - Epic: [sase-m6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-16T17:34:58.015770+00:00
+- Timing: 2026-08-16T09:15:16
 - Commits: [1](#commits)
 
 ## Files
@@ -29,11 +29,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-m6.1](../bbugyi200.athena.sase-m6.1/README.md) | sase-m6 hood | active |
+| [sase-m6.1](../bbugyi200.athena.sase-m6.1/README.md) | sase-m6 hood | dismissed |
 | [sase-m6.10](../../sessions/bbugyi200.athena.sase-m6.10.md) (session · 3) | sase-m6 hood | completed 1, dismissed 1, failed 1 |
 | [sase-m6.2](../bbugyi200.athena.sase-m6.2/README.md) | sase-m6 hood | dismissed |
 | [sase-m6.3](../../sessions/bbugyi200.athena.sase-m6.3.md) (session · 2) | sase-m6 hood | completed 1, dismissed 1 |
-| [sase-m6.4](../../sessions/bbugyi200.athena.sase-m6.4.md) (session · 4) | sase-m6 hood | active 1, completed 1, dismissed 1, failed 1 |
+| [sase-m6.4](../../sessions/bbugyi200.athena.sase-m6.4.md) (session · 4) | sase-m6 hood | completed 1, dismissed 2, failed 1 |
 | [sase-m6.5](../../sessions/bbugyi200.athena.sase-m6.5.md) (session · 2) | sase-m6 hood | completed 1, dismissed 1 |
 | [sase-m6.6](../../sessions/bbugyi200.athena.sase-m6.6.md) (session · 2) | sase-m6 hood | dismissed 1, failed 1 |
 | [sase-m6.6](../bbugyi200.athena.sase-m6.6/README.md) | sase-m6 hood | failed |
@@ -41,7 +41,7 @@
 | [sase-m6.6.1.2](../../sessions/bbugyi200.athena.sase-m6.6.1.2.md) (session · 2) | sase-m6 hood | completed 1, dismissed 1 |
 | [sase-m6.6.1.3](../bbugyi200.athena.sase-m6.6.1.3/README.md) | sase-m6 hood | dismissed |
 | [sase-m6.6.1.4](../bbugyi200.athena.sase-m6.6.1.4/README.md) | sase-m6 hood | dismissed |
-| [sase-m6.6.1.5](../../sessions/bbugyi200.athena.sase-m6.6.1.5.md) (session · 4) | sase-m6 hood | active 1, completed 1, dismissed 1, failed 1 |
+| [sase-m6.6.1.5](../../sessions/bbugyi200.athena.sase-m6.6.1.5.md) (session · 4) | sase-m6 hood | completed 1, dismissed 2, failed 1 |
 | [sase-m6.6.1.6](../../sessions/bbugyi200.athena.sase-m6.6.1.6.md) (session · 2) | sase-m6 hood | completed 1, dismissed 1 |
 | [sase-m6.6.1.7](../bbugyi200.athena.sase-m6.6.1.7/README.md) | sase-m6 hood | dismissed |
 | [sase-m6.6.1.land](../../sessions/bbugyi200.athena.sase-m6.6.1.land.md) (session · 2) | sase-m6 hood | completed 1, dismissed 1 |

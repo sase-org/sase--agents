@@ -23,36 +23,36 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`07e254a`](https://github.com/sase-org/sase/commit/07e254a42073f3367bba23b1beb893ad72f92635) | feat(ops): add durable operation contracts and producer inventory | 2026-08-15 16:39:31 EDT |
+| — | `07e254a` | feat(ops): add durable operation contracts and producer inventory | 2026-08-15 16:39:31 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-m9.3](../../sessions/bbugyi200.athena.sase-m9.3.md) (session · 2) | ancestor | active 1, failed 1 |
-| [sase-m9.3.1.2](../../sessions/bbugyi200.athena.sase-m9.3.1.2.md) (session · 2) | sase-m9.3.1 hood | active 2 |
-| [sase-m9.3.1.3](../../sessions/bbugyi200.athena.sase-m9.3.1.3.md) (session · 2) | sase-m9.3.1 hood | active 1, completed 1 |
+| [sase-m9.3](../../sessions/bbugyi200.athena.sase-m9.3.md) (session · 2) | ancestor | dismissed 1, failed 1 |
+| [sase-m9.3.1.2](../../sessions/bbugyi200.athena.sase-m9.3.1.2.md) (session · 2) | sase-m9.3.1 hood | active 1, dismissed 1 |
+| [sase-m9.3.1.3](../../sessions/bbugyi200.athena.sase-m9.3.1.3.md) (session · 2) | sase-m9.3.1 hood | completed 1, dismissed 1 |
 | [sase-m9.3.1.3](../bbugyi200.athena.sase-m9.3.1.3/README.md) | sase-m9.3.1 hood | waiting |
-| [sase-m9.3.1.4](../../sessions/bbugyi200.athena.sase-m9.3.1.4.md) (session · 2) | sase-m9.3.1 hood | active 2 |
+| [sase-m9.3.1.4](../../sessions/bbugyi200.athena.sase-m9.3.1.4.md) (session · 2) | sase-m9.3.1 hood | active 1, dismissed 1 |
 | [sase-m9.3.1.4](../bbugyi200.athena.sase-m9.3.1.4/README.md) | sase-m9.3.1 hood | waiting |
-| [sase-m9.3.1.5](../../sessions/bbugyi200.athena.sase-m9.3.1.5.md) (session · 2) | sase-m9.3.1 hood | active 1, completed 1 |
-| [sase-m9.3.1.land](../bbugyi200.athena.sase-m9.3.1.land/README.md) | sase-m9.3.1 hood | active |
-| [sase-m9.1](../../sessions/bbugyi200.athena.sase-m9.1.md) (session · 2) | sase-m9 hood | active 1, failed 1 |
-| [sase-m9.1.1.1](../bbugyi200.athena.sase-m9.1.1.1/README.md) | sase-m9 hood | active |
-| [sase-m9.1.1.2](../bbugyi200.athena.sase-m9.1.1.2/README.md) | sase-m9 hood | active |
-| [sase-m9.1.1.3](../bbugyi200.athena.sase-m9.1.1.3/README.md) | sase-m9 hood | active |
-| [sase-m9.1.1.land](../../sessions/bbugyi200.athena.sase-m9.1.1.land.md) (session · 6) | sase-m9 hood | active 1, completed 3, failed 2 |
-| [sase-m9.2](../../sessions/bbugyi200.athena.sase-m9.2.md) (session · 2) | sase-m9 hood | active 1, failed 1 |
+| [sase-m9.3.1.5](../../sessions/bbugyi200.athena.sase-m9.3.1.5.md) (session · 2) | sase-m9.3.1 hood | completed 1, dismissed 1 |
+| [sase-m9.3.1.land](../bbugyi200.athena.sase-m9.3.1.land/README.md) | sase-m9.3.1 hood | dismissed |
+| [sase-m9.1](../../sessions/bbugyi200.athena.sase-m9.1.md) (session · 2) | sase-m9 hood | dismissed 1, failed 1 |
+| [sase-m9.1.1.1](../bbugyi200.athena.sase-m9.1.1.1/README.md) | sase-m9 hood | dismissed |
+| [sase-m9.1.1.2](../bbugyi200.athena.sase-m9.1.1.2/README.md) | sase-m9 hood | dismissed |
+| [sase-m9.1.1.3](../bbugyi200.athena.sase-m9.1.1.3/README.md) | sase-m9 hood | dismissed |
+| [sase-m9.1.1.land](../../sessions/bbugyi200.athena.sase-m9.1.1.land.md) (session · 6) | sase-m9 hood | completed 3, dismissed 1, failed 2 |
+| [sase-m9.2](../../sessions/bbugyi200.athena.sase-m9.2.md) (session · 2) | sase-m9 hood | dismissed 1, failed 1 |
 | [sase-m9.2](../bbugyi200.athena.sase-m9.2/README.md) | sase-m9 hood | active |
-| [sase-m9.2.1.1](../bbugyi200.athena.sase-m9.2.1.1/README.md) | sase-m9 hood | active |
-| [sase-m9.2.1.2](../bbugyi200.athena.sase-m9.2.1.2/README.md) | sase-m9 hood | active |
-| [sase-m9.2.1.3](../bbugyi200.athena.sase-m9.2.1.3/README.md) | sase-m9 hood | active |
-| [sase-m9.2.1.4](../bbugyi200.athena.sase-m9.2.1.4/README.md) | sase-m9 hood | active |
-| [sase-m9.2.1.5](../../sessions/bbugyi200.athena.sase-m9.2.1.5.md) (session · 3) | sase-m9 hood | active 1, completed 1, failed 1 |
-| [sase-m9.2.1.6.1](../bbugyi200.athena.sase-m9.2.1.6.1/README.md) | sase-m9 hood | active |
-| [sase-m9.2.1.6.2](../bbugyi200.athena.sase-m9.2.1.6.2/README.md) | sase-m9 hood | active |
-| [sase-m9.2.1.6.3](../../sessions/bbugyi200.athena.sase-m9.2.1.6.3.md) (session · 3) | sase-m9 hood | active 1, completed 1, failed 1 |
-| [sase-m9.2.1.6.land](../../sessions/bbugyi200.athena.sase-m9.2.1.6.land.md) (session · 6) | sase-m9 hood | active 1, completed 3, failed 2 |
-| [sase-m9.2.1.land](../../sessions/bbugyi200.athena.sase-m9.2.1.land.md) (session · 2) | sase-m9 hood | active 1, failed 1 |
-| [sase-m9.land](../../sessions/bbugyi200.athena.sase-m9.land.md) (session · 3) | sase-m9 hood | active 1, completed 1, failed 1 |
+| [sase-m9.2.1.1](../bbugyi200.athena.sase-m9.2.1.1/README.md) | sase-m9 hood | dismissed |
+| [sase-m9.2.1.2](../bbugyi200.athena.sase-m9.2.1.2/README.md) | sase-m9 hood | dismissed |
+| [sase-m9.2.1.3](../bbugyi200.athena.sase-m9.2.1.3/README.md) | sase-m9 hood | dismissed |
+| [sase-m9.2.1.4](../bbugyi200.athena.sase-m9.2.1.4/README.md) | sase-m9 hood | dismissed |
+| [sase-m9.2.1.5](../../sessions/bbugyi200.athena.sase-m9.2.1.5.md) (session · 3) | sase-m9 hood | completed 1, dismissed 1, failed 1 |
+| [sase-m9.2.1.6.1](../bbugyi200.athena.sase-m9.2.1.6.1/README.md) | sase-m9 hood | dismissed |
+| [sase-m9.2.1.6.2](../bbugyi200.athena.sase-m9.2.1.6.2/README.md) | sase-m9 hood | dismissed |
+| [sase-m9.2.1.6.3](../../sessions/bbugyi200.athena.sase-m9.2.1.6.3.md) (session · 3) | sase-m9 hood | completed 1, dismissed 1, failed 1 |
+| [sase-m9.2.1.6.land](../../sessions/bbugyi200.athena.sase-m9.2.1.6.land.md) (session · 6) | sase-m9 hood | completed 3, dismissed 1, failed 2 |
+| [sase-m9.2.1.land](../../sessions/bbugyi200.athena.sase-m9.2.1.land.md) (session · 2) | sase-m9 hood | dismissed 1, failed 1 |
+| [sase-m9.land](../../sessions/bbugyi200.athena.sase-m9.land.md) (session · 3) | sase-m9 hood | completed 1, dismissed 1, failed 1 |
 | [sase-m9.land](../bbugyi200.athena.sase-m9.land/README.md) | sase-m9 hood | completed |

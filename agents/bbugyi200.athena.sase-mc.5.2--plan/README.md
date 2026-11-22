@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mc](../../users/bbugyi200/machines/athena/hoods/sase-mc/README.md) / [sase-mc.5.2](../../sessions/bbugyi200.athena.sase-mc.5.2.md) / sase-mc.5.2--plan
 
-**Global name:** `bbugyi200.athena.sase-mc.5.2--plan` · **State:** active · **Source run:** `run-e1281a3adb4f62db140352328b29a50a`
+**Global name:** `bbugyi200.athena.sase-mc.5.2--plan` · **State:** dismissed · **Source run:** `run-e1281a3adb4f62db140352328b29a50a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mc
 
@@ -12,7 +12,7 @@
 - Epic: [sase-mc.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mc/sase-mc.5.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-15T20:58:22.210137+00:00
+- Timing: 2026-08-15T16:58:01
 - Commits: [1](#commits)
 
 ## Files
@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6841e29`](https://github.com/sase-org/sase/commit/6841e296fc7063142ec6afc42941020c6831fb72) | test: cover provider disable completion flows | 2026-08-15 17:33:52 EDT |
+| — | `6841e29` | test: cover provider disable completion flows | 2026-08-15 17:33:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mc.5.1](../bbugyi200.athena.sase-mc.5.1/README.md) | sase-mc.5 hood | active |
-| [sase-mc.5.land](../../sessions/bbugyi200.athena.sase-mc.5.land.md) (session · 2) | sase-mc.5 hood | active 1, completed 1 |
-| [sase-mc.1](../bbugyi200.athena.sase-mc.1/README.md) | sase-mc hood | active |
-| [sase-mc.2](../bbugyi200.athena.sase-mc.2/README.md) | sase-mc hood | active |
-| [sase-mc.3](../bbugyi200.athena.sase-mc.3/README.md) | sase-mc hood | active |
-| [sase-mc.4](../bbugyi200.athena.sase-mc.4/README.md) | sase-mc hood | active |
-| [sase-mc.land](../../sessions/bbugyi200.athena.sase-mc.land.md) (session · 2) | sase-mc hood | active 1, failed 1 |
+| [sase-mc.5.1](../bbugyi200.athena.sase-mc.5.1/README.md) | sase-mc.5 hood | dismissed |
+| [sase-mc.5.land](../../sessions/bbugyi200.athena.sase-mc.5.land.md) (session · 2) | sase-mc.5 hood | completed 1, dismissed 1 |
+| [sase-mc.1](../bbugyi200.athena.sase-mc.1/README.md) | sase-mc hood | dismissed |
+| [sase-mc.2](../bbugyi200.athena.sase-mc.2/README.md) | sase-mc hood | dismissed |
+| [sase-mc.3](../bbugyi200.athena.sase-mc.3/README.md) | sase-mc hood | dismissed |
+| [sase-mc.4](../bbugyi200.athena.sase-mc.4/README.md) | sase-mc hood | dismissed |
+| [sase-mc.land](../../sessions/bbugyi200.athena.sase-mc.land.md) (session · 2) | sase-mc hood | dismissed 1, failed 1 |
