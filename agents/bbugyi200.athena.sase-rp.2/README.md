@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rp](../../users/bbugyi200/machines/athena/hoods/sase-rp/README.md) / sase-rp.2
 
-**Global name:** `bbugyi200.athena.sase-rp.2` · **State:** active · **Source run:** `run-12737f04345509e419ea666fa8f015a0`
+**Global name:** `bbugyi200.athena.sase-rp.2` · **State:** dismissed · **Source run:** `run-12737f04345509e419ea666fa8f015a0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rp
 
@@ -12,7 +12,7 @@
 - Epic: [sase-rp](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rp/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-21T11:16:40.892856+00:00
+- Timing: 2026-08-21T06:24:47
 - Commits: [1](#commits)
 
 ## Files
@@ -23,12 +23,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4421c90`](https://github.com/sase-org/sase/commit/4421c90bf1e582270386a9d2f4c781f8fddcb32b) | feat(tui): route launch settings through admin center | 2026-08-21 07:48:23 EDT |
+| — | `4421c90` | feat(tui): route launch settings through admin center | 2026-08-21 07:48:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rp.1](../bbugyi200.athena.sase-rp.1/README.md) | sase-rp hood | active |
-| [sase-rp.3](../bbugyi200.athena.sase-rp.3/README.md) | sase-rp hood | active |
-| [sase-rp.land](../../sessions/bbugyi200.athena.sase-rp.land.md) (session · 2) | sase-rp hood | active 1, completed 1 |
+| [sase-rp.1](../bbugyi200.athena.sase-rp.1/README.md) | sase-rp hood | dismissed |
+| [sase-rp.3](../bbugyi200.athena.sase-rp.3/README.md) | sase-rp hood | dismissed |
+| [sase-rp.land](../../sessions/bbugyi200.athena.sase-rp.land.md) (session · 2) | sase-rp hood | completed 1, dismissed 1 |

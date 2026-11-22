@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rs](../../users/bbugyi200/machines/athena/hoods/sase-rs/README.md) / [sase-rs.2](../../sessions/bbugyi200.athena.sase-rs.2.md) / sase-rs.2--plan
 
-**Global name:** `bbugyi200.athena.sase-rs.2--plan` · **State:** active · **Source run:** `run-59e43609a6a817b8cdcfd40341d001b7`
+**Global name:** `bbugyi200.athena.sase-rs.2--plan` · **State:** dismissed · **Source run:** `run-59e43609a6a817b8cdcfd40341d001b7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rs
 
@@ -12,7 +12,7 @@
 - Epic: [sase-rs](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rs/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-21T14:37:56.045655+00:00
+- Timing: 2026-08-21T10:16:04
 - Commits: 0
 
 ## Files
@@ -23,9 +23,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rs.1](../bbugyi200.athena.sase-rs.1/README.md) | sase-rs hood | active |
-| [sase-rs.3](../bbugyi200.athena.sase-rs.3/README.md) | sase-rs hood | active |
-| [sase-rs.4](../bbugyi200.athena.sase-rs.4/README.md) | sase-rs hood | active |
-| [sase-rs.5](../bbugyi200.athena.sase-rs.5/README.md) | sase-rs hood | active |
-| [sase-rs.6](../../sessions/bbugyi200.athena.sase-rs.6.md) (session · 7) | sase-rs hood | active 7 |
-| [sase-rs.land](../bbugyi200.athena.sase-rs.land/README.md) | sase-rs hood | active |
+| [sase-rs.1](../bbugyi200.athena.sase-rs.1/README.md) | sase-rs hood | dismissed |
+| [sase-rs.3](../bbugyi200.athena.sase-rs.3/README.md) | sase-rs hood | dismissed |
+| [sase-rs.4](../bbugyi200.athena.sase-rs.4/README.md) | sase-rs hood | dismissed |
+| [sase-rs.5](../bbugyi200.athena.sase-rs.5/README.md) | sase-rs hood | dismissed |
+| [sase-rs.6](../../sessions/bbugyi200.athena.sase-rs.6.md) (session · 7) | sase-rs hood | dismissed 7 |
+| [sase-rs.land](../bbugyi200.athena.sase-rs.land/README.md) | sase-rs hood | dismissed |

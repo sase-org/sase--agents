@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rr](../../users/bbugyi200/machines/athena/hoods/sase-rr/README.md) / [sase-rr.5.land](../../sessions/bbugyi200.athena.sase-rr.5.land.md) / sase-rr.5.land--plan
 
-**Global name:** `bbugyi200.athena.sase-rr.5.land--plan` · **State:** active · **Source run:** `run-be790c04ede673b6448b2853ba3f8398`
+**Global name:** `bbugyi200.athena.sase-rr.5.land--plan` · **State:** dismissed · **Source run:** `run-be790c04ede673b6448b2853ba3f8398`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rr
 
@@ -11,7 +11,7 @@
 - Bead: [sase-rr.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rr/sase-rr.5.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-21T23:11:34.654560+00:00
+- Timing: 2026-08-21T20:28:12
 - Commits: 0
 
 ## Files
@@ -22,14 +22,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rr.5.1](../bbugyi200.athena.sase-rr.5.1/README.md) | sase-rr.5 hood | active |
-| [sase-rr.5.2](../bbugyi200.athena.sase-rr.5.2/README.md) | sase-rr.5 hood | active |
-| [sase-rr.5.3](../bbugyi200.athena.sase-rr.5.3/README.md) | sase-rr.5 hood | active |
-| [sase-rr.5.4](../bbugyi200.athena.sase-rr.5.4/README.md) | sase-rr.5 hood | active |
-| [sase-rr.5.5](../bbugyi200.athena.sase-rr.5.5/README.md) | sase-rr.5 hood | active |
-| [sase-rr.1](../bbugyi200.athena.sase-rr.1/README.md) | sase-rr hood | active |
-| [sase-rr.2](../bbugyi200.athena.sase-rr.2/README.md) | sase-rr hood | active |
-| [sase-rr.3](../bbugyi200.athena.sase-rr.3/README.md) | sase-rr hood | active |
-| [sase-rr.4](../bbugyi200.athena.sase-rr.4/README.md) | sase-rr hood | active |
-| [sase-rr.land](../../sessions/bbugyi200.athena.sase-rr.land.md) (session · 6) | sase-rr hood | active 6 |
-| [sase-rr.land.w1](../../sessions/bbugyi200.athena.sase-rr.land.w1.md) (session · 2) | sase-rr hood | active 1, failed 1 |
+| [sase-rr.5.1](../bbugyi200.athena.sase-rr.5.1/README.md) | sase-rr.5 hood | dismissed |
+| [sase-rr.5.2](../bbugyi200.athena.sase-rr.5.2/README.md) | sase-rr.5 hood | dismissed |
+| [sase-rr.5.3](../bbugyi200.athena.sase-rr.5.3/README.md) | sase-rr.5 hood | dismissed |
+| [sase-rr.5.4](../bbugyi200.athena.sase-rr.5.4/README.md) | sase-rr.5 hood | dismissed |
+| [sase-rr.5.5](../bbugyi200.athena.sase-rr.5.5/README.md) | sase-rr.5 hood | dismissed |
+| [sase-rr.1](../bbugyi200.athena.sase-rr.1/README.md) | sase-rr hood | dismissed |
+| [sase-rr.2](../bbugyi200.athena.sase-rr.2/README.md) | sase-rr hood | dismissed |
+| [sase-rr.3](../bbugyi200.athena.sase-rr.3/README.md) | sase-rr hood | dismissed |
+| [sase-rr.4](../bbugyi200.athena.sase-rr.4/README.md) | sase-rr hood | dismissed |
+| [sase-rr.land](../../sessions/bbugyi200.athena.sase-rr.land.md) (session · 6) | sase-rr hood | dismissed 6 |
+| [sase-rr.land.w1](../../sessions/bbugyi200.athena.sase-rr.land.w1.md) (session · 2) | sase-rr hood | dismissed 1, failed 1 |

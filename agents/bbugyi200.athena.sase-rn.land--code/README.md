@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7c52152`](https://github.com/sase-org/sase/commit/7c52152832fbb4033f89d8d4cf0a690afbe1fbd1) | test(completion): sync cli\_spec.json snapshot with finalizer subcommands | 2026-08-20 19:53:57 EDT |
+| — | `7c52152` | test(completion): sync cli\_spec.json snapshot with finalizer subcommands | 2026-08-20 19:53:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rn.1](../bbugyi200.athena.sase-rn.1/README.md) | sase-rn hood | active |
-| [sase-rn.2](../bbugyi200.athena.sase-rn.2/README.md) | sase-rn hood | active |
-| [sase-rn.3](../bbugyi200.athena.sase-rn.3/README.md) | sase-rn hood | active |
-| [sase-rn.4](../bbugyi200.athena.sase-rn.4/README.md) | sase-rn hood | active |
-| [sase-rn.5](../bbugyi200.athena.sase-rn.5/README.md) | sase-rn hood | active |
-| [sase-rn.6](../bbugyi200.athena.sase-rn.6/README.md) | sase-rn hood | active |
-| [sase-rn.7](../bbugyi200.athena.sase-rn.7/README.md) | sase-rn hood | active |
+| [sase-rn.1](../bbugyi200.athena.sase-rn.1/README.md) | sase-rn hood | dismissed |
+| [sase-rn.2](../bbugyi200.athena.sase-rn.2/README.md) | sase-rn hood | dismissed |
+| [sase-rn.3](../bbugyi200.athena.sase-rn.3/README.md) | sase-rn hood | dismissed |
+| [sase-rn.4](../bbugyi200.athena.sase-rn.4/README.md) | sase-rn hood | dismissed |
+| [sase-rn.5](../bbugyi200.athena.sase-rn.5/README.md) | sase-rn hood | dismissed |
+| [sase-rn.6](../bbugyi200.athena.sase-rn.6/README.md) | sase-rn hood | dismissed |
+| [sase-rn.7](../bbugyi200.athena.sase-rn.7/README.md) | sase-rn hood | dismissed |

@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3e0bebe`](https://github.com/sase-org/sase/commit/3e0bebedd26e1be97ce3b07f0ac89f1ffd3fa4eb) | fix: dedupe embedded launch refresh callbacks | 2026-08-21 08:54:48 EDT |
+| — | `3e0bebe` | fix: dedupe embedded launch refresh callbacks | 2026-08-21 08:54:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rp.1](../bbugyi200.athena.sase-rp.1/README.md) | sase-rp hood | active |
-| [sase-rp.2](../bbugyi200.athena.sase-rp.2/README.md) | sase-rp hood | active |
-| [sase-rp.3](../bbugyi200.athena.sase-rp.3/README.md) | sase-rp hood | active |
+| [sase-rp.1](../bbugyi200.athena.sase-rp.1/README.md) | sase-rp hood | dismissed |
+| [sase-rp.2](../bbugyi200.athena.sase-rp.2/README.md) | sase-rp hood | dismissed |
+| [sase-rp.3](../bbugyi200.athena.sase-rp.3/README.md) | sase-rp hood | dismissed |

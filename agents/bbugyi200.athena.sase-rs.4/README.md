@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rs](../../users/bbugyi200/machines/athena/hoods/sase-rs/README.md) / sase-rs.4
 
-**Global name:** `bbugyi200.athena.sase-rs.4` · **State:** active · **Source run:** `run-7a147595d09fb9f4a9a3c0bd3dcf4d75`
+**Global name:** `bbugyi200.athena.sase-rs.4` · **State:** dismissed · **Source run:** `run-7a147595d09fb9f4a9a3c0bd3dcf4d75`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rs
 
@@ -12,7 +12,7 @@
 - Epic: [sase-rs](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rs/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-21T16:59:54.240143+00:00
+- Timing: 2026-08-21T10:16:06
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c3679dc`](https://github.com/sase-org/sase/commit/c3679dcf1e8118e8c2d5c5f4723b34c9469f76ce) | feat(flags): add persistent sase flag enable and disable commands | 2026-08-21 13:35:03 EDT |
+| — | `c3679dc` | feat(flags): add persistent sase flag enable and disable commands | 2026-08-21 13:35:03 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rs.1](../bbugyi200.athena.sase-rs.1/README.md) | sase-rs hood | active |
-| [sase-rs.2](../../sessions/bbugyi200.athena.sase-rs.2.md) (session · 3) | sase-rs hood | active 3 |
-| [sase-rs.3](../bbugyi200.athena.sase-rs.3/README.md) | sase-rs hood | active |
-| [sase-rs.5](../bbugyi200.athena.sase-rs.5/README.md) | sase-rs hood | active |
-| [sase-rs.6](../../sessions/bbugyi200.athena.sase-rs.6.md) (session · 7) | sase-rs hood | active 7 |
-| [sase-rs.land](../bbugyi200.athena.sase-rs.land/README.md) | sase-rs hood | active |
+| [sase-rs.1](../bbugyi200.athena.sase-rs.1/README.md) | sase-rs hood | dismissed |
+| [sase-rs.2](../../sessions/bbugyi200.athena.sase-rs.2.md) (session · 3) | sase-rs hood | dismissed 3 |
+| [sase-rs.3](../bbugyi200.athena.sase-rs.3/README.md) | sase-rs hood | dismissed |
+| [sase-rs.5](../bbugyi200.athena.sase-rs.5/README.md) | sase-rs hood | dismissed |
+| [sase-rs.6](../../sessions/bbugyi200.athena.sase-rs.6.md) (session · 7) | sase-rs hood | dismissed 7 |
+| [sase-rs.land](../bbugyi200.athena.sase-rs.land/README.md) | sase-rs hood | dismissed |

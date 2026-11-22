@@ -22,20 +22,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`959a547`](https://github.com/sase-org/sase/commit/959a547709e7ed6a400494ed57a2009749ad4cdb) | test(release): keep ledger invariants off the core-floor contract set | 2026-08-21 19:44:58 EDT |
+| — | `959a547` | test(release): keep ledger invariants off the core-floor contract set | 2026-08-21 19:44:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rr.5.1](../bbugyi200.athena.sase-rr.5.1/README.md) | sase-rr.5 hood | active |
-| [sase-rr.5.2](../bbugyi200.athena.sase-rr.5.2/README.md) | sase-rr.5 hood | active |
-| [sase-rr.5.3](../bbugyi200.athena.sase-rr.5.3/README.md) | sase-rr.5 hood | active |
-| [sase-rr.5.4](../bbugyi200.athena.sase-rr.5.4/README.md) | sase-rr.5 hood | active |
-| [sase-rr.5.5](../bbugyi200.athena.sase-rr.5.5/README.md) | sase-rr.5 hood | active |
-| [sase-rr.1](../bbugyi200.athena.sase-rr.1/README.md) | sase-rr hood | active |
-| [sase-rr.2](../bbugyi200.athena.sase-rr.2/README.md) | sase-rr hood | active |
-| [sase-rr.3](../bbugyi200.athena.sase-rr.3/README.md) | sase-rr hood | active |
-| [sase-rr.4](../bbugyi200.athena.sase-rr.4/README.md) | sase-rr hood | active |
-| [sase-rr.land](../../sessions/bbugyi200.athena.sase-rr.land.md) (session · 6) | sase-rr hood | active 6 |
-| [sase-rr.land.w1](../../sessions/bbugyi200.athena.sase-rr.land.w1.md) (session · 2) | sase-rr hood | active 1, failed 1 |
+| [sase-rr.5.1](../bbugyi200.athena.sase-rr.5.1/README.md) | sase-rr.5 hood | dismissed |
+| [sase-rr.5.2](../bbugyi200.athena.sase-rr.5.2/README.md) | sase-rr.5 hood | dismissed |
+| [sase-rr.5.3](../bbugyi200.athena.sase-rr.5.3/README.md) | sase-rr.5 hood | dismissed |
+| [sase-rr.5.4](../bbugyi200.athena.sase-rr.5.4/README.md) | sase-rr.5 hood | dismissed |
+| [sase-rr.5.5](../bbugyi200.athena.sase-rr.5.5/README.md) | sase-rr.5 hood | dismissed |
+| [sase-rr.1](../bbugyi200.athena.sase-rr.1/README.md) | sase-rr hood | dismissed |
+| [sase-rr.2](../bbugyi200.athena.sase-rr.2/README.md) | sase-rr hood | dismissed |
+| [sase-rr.3](../bbugyi200.athena.sase-rr.3/README.md) | sase-rr hood | dismissed |
+| [sase-rr.4](../bbugyi200.athena.sase-rr.4/README.md) | sase-rr hood | dismissed |
+| [sase-rr.land](../../sessions/bbugyi200.athena.sase-rr.land.md) (session · 6) | sase-rr hood | dismissed 6 |
+| [sase-rr.land.w1](../../sessions/bbugyi200.athena.sase-rr.land.w1.md) (session · 2) | sase-rr hood | dismissed 1, failed 1 |

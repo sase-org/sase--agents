@@ -42,17 +42,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rm.1](bbugyi200.athena.sase-rm.1.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.10](bbugyi200.athena.sase-rm.10.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.11](bbugyi200.athena.sase-rm.11.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.12](../agents/bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | active |
-| [sase-rm.13](bbugyi200.athena.sase-rm.13.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.2](bbugyi200.athena.sase-rm.2.md) (session · 4) | sase-rm hood | active 1, completed 1, failed 2 |
-| [sase-rm.3](bbugyi200.athena.sase-rm.3.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.4](bbugyi200.athena.sase-rm.4.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.5](bbugyi200.athena.sase-rm.5.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.7](../agents/bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | active |
-| [sase-rm.8](../agents/bbugyi200.athena.sase-rm.8/README.md) | sase-rm hood | active |
-| [sase-rm.9](bbugyi200.athena.sase-rm.9.md) (session · 3) | sase-rm hood | active 3 |
-| [sase-rm.land](bbugyi200.athena.sase-rm.land.md) (session · 2) | sase-rm hood | active 1, completed 1 |
+| [sase-rm.1](bbugyi200.athena.sase-rm.1.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.10](bbugyi200.athena.sase-rm.10.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.11](bbugyi200.athena.sase-rm.11.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.12](../agents/bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | dismissed |
+| [sase-rm.13](bbugyi200.athena.sase-rm.13.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.2](bbugyi200.athena.sase-rm.2.md) (session · 4) | sase-rm hood | completed 1, dismissed 1, failed 2 |
+| [sase-rm.3](bbugyi200.athena.sase-rm.3.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.4](bbugyi200.athena.sase-rm.4.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.5](bbugyi200.athena.sase-rm.5.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.7](../agents/bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | dismissed |
+| [sase-rm.8](../agents/bbugyi200.athena.sase-rm.8/README.md) | sase-rm hood | dismissed |
+| [sase-rm.9](bbugyi200.athena.sase-rm.9.md) (session · 3) | sase-rm hood | dismissed 3 |
+| [sase-rm.land](bbugyi200.athena.sase-rm.land.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
 | [sase-rm.land](../agents/bbugyi200.athena.sase-rm.land/README.md) | sase-rm hood | completed |

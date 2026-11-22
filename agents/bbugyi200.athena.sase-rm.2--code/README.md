@@ -23,24 +23,24 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4a3e691`](https://github.com/sase-org/sase/commit/4a3e691964b6715a8698cce29fd5a16d55d50acc) | feat(completion): add inventory and snippet candidate providers | 2026-08-21 05:48:40 EDT |
+| — | `4a3e691` | feat(completion): add inventory and snippet candidate providers | 2026-08-21 05:48:40 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rm.1](../../sessions/bbugyi200.athena.sase-rm.1.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.10](../../sessions/bbugyi200.athena.sase-rm.10.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.11](../../sessions/bbugyi200.athena.sase-rm.11.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.12](../bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | active |
-| [sase-rm.13](../../sessions/bbugyi200.athena.sase-rm.13.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.3](../../sessions/bbugyi200.athena.sase-rm.3.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.4](../../sessions/bbugyi200.athena.sase-rm.4.md) (session · 2) | sase-rm hood | active 1, completed 1 |
-| [sase-rm.5](../../sessions/bbugyi200.athena.sase-rm.5.md) (session · 2) | sase-rm hood | active 1, completed 1 |
+| [sase-rm.1](../../sessions/bbugyi200.athena.sase-rm.1.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.10](../../sessions/bbugyi200.athena.sase-rm.10.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.11](../../sessions/bbugyi200.athena.sase-rm.11.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.12](../bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | dismissed |
+| [sase-rm.13](../../sessions/bbugyi200.athena.sase-rm.13.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.3](../../sessions/bbugyi200.athena.sase-rm.3.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.4](../../sessions/bbugyi200.athena.sase-rm.4.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
+| [sase-rm.5](../../sessions/bbugyi200.athena.sase-rm.5.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
 | [sase-rm.6](../../sessions/bbugyi200.athena.sase-rm.6.md) (session · 8) | sase-rm hood | active 1, completed 4, failed 3 |
-| [sase-rm.6](../bbugyi200.athena.sase-rm.6/README.md) | sase-rm hood | active |
-| [sase-rm.7](../bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | active |
-| [sase-rm.8](../bbugyi200.athena.sase-rm.8/README.md) | sase-rm hood | active |
-| [sase-rm.9](../../sessions/bbugyi200.athena.sase-rm.9.md) (session · 3) | sase-rm hood | active 3 |
-| [sase-rm.land](../../sessions/bbugyi200.athena.sase-rm.land.md) (session · 2) | sase-rm hood | active 1, completed 1 |
+| [sase-rm.6](../bbugyi200.athena.sase-rm.6/README.md) | sase-rm hood | dismissed |
+| [sase-rm.7](../bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | dismissed |
+| [sase-rm.8](../bbugyi200.athena.sase-rm.8/README.md) | sase-rm hood | dismissed |
+| [sase-rm.9](../../sessions/bbugyi200.athena.sase-rm.9.md) (session · 3) | sase-rm hood | dismissed 3 |
+| [sase-rm.land](../../sessions/bbugyi200.athena.sase-rm.land.md) (session · 2) | sase-rm hood | completed 1, dismissed 1 |
 | [sase-rm.land](../bbugyi200.athena.sase-rm.land/README.md) | sase-rm hood | completed |
