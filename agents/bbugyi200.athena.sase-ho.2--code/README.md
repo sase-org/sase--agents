@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e007352`](https://github.com/sase-org/sase/commit/e0073528f2055f39a9d634b7c3096563c50465ed) | feat: add Python ref registry | 2026-08-08 17:00:59 EDT |
+| — | `e007352` | feat: add Python ref registry | 2026-08-08 17:00:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ho.1](../../sessions/bbugyi200.athena.sase-ho.1.md) (session · 2) | sase-ho hood | active 1, completed 1 |
-| [sase-ho.3](../bbugyi200.athena.sase-ho.3/README.md) | sase-ho hood | active |
-| [sase-ho.4](../bbugyi200.athena.sase-ho.4/README.md) | sase-ho hood | active |
-| [sase-ho.5](../bbugyi200.athena.sase-ho.5/README.md) | sase-ho hood | active |
-| [sase-ho.land](../bbugyi200.athena.sase-ho.land/README.md) | sase-ho hood | active |
+| [sase-ho.1](../../sessions/bbugyi200.athena.sase-ho.1.md) (session · 2) | sase-ho hood | completed 1, dismissed 1 |
+| [sase-ho.3](../bbugyi200.athena.sase-ho.3/README.md) | sase-ho hood | dismissed |
+| [sase-ho.4](../bbugyi200.athena.sase-ho.4/README.md) | sase-ho hood | dismissed |
+| [sase-ho.5](../bbugyi200.athena.sase-ho.5/README.md) | sase-ho hood | dismissed |
+| [sase-ho.land](../bbugyi200.athena.sase-ho.land/README.md) | sase-ho hood | dismissed |
