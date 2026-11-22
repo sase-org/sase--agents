@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-ai.test\_admission.0](../bbugyi200.athena.toobig-ai.test_admission.0/README.md) | toobig-ai hood | waiting |
-| [toobig-ai.test\_machine\_capacity\_report\_feed.0](../bbugyi200.athena.toobig-ai.test_machine_capacity_report_feed.0/README.md) | toobig-ai hood | waiting |
+| [toobig-ai.test\_machine\_capacity\_report\_feed.0](../bbugyi200.athena.toobig-ai.test_machine_capacity_report_feed.0/README.md) | toobig-ai hood | completed |

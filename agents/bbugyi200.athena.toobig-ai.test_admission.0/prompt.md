@@ -1,6 +1,6 @@
+%auto
 %id(test_admission.0, clan=toobig-ai)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/tool/test_admission.py` file into multiple files? Use your best
 %wait:toobig-ai.test_machine_capacity_report_feed.0

@@ -1,6 +1,6 @@
+%auto
 %id(test_machine_capacity_report_feed.0, clan=toobig-ai)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/ace/tui/test_machine_capacity_report_feed.py` file into multiple files? Use your best
 %wait:toobig-ai.auto_refresh.0
