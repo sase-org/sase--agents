@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8150a76`](https://github.com/sase-org/sase/commit/8150a76d46e21cc0974b763a019f1078ca671641) | fix(ace): follow live Reply for workflow agent rows via is\_agent\_entry | 2026-10-09 20:26:04 EDT |
+| — | `8150a76` | fix(ace): follow live Reply for workflow agent rows via is\_agent\_entry | 2026-10-09 20:26:04 EDT |
 
 ## Neighbors
 
