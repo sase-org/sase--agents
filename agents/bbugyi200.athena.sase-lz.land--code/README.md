@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ee3347`](https://github.com/sase-org/sase/commit/6ee334708e366715046bc7f871ca66f234794126) | fix(ace): reject typed selectors in builder members | 2026-08-14 13:09:42 EDT |
+| — | `6ee3347` | fix(ace): reject typed selectors in builder members | 2026-08-14 13:09:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-lz.1](../bbugyi200.athena.sase-lz.1/README.md) | sase-lz hood | active |
-| [sase-lz.2](../bbugyi200.athena.sase-lz.2/README.md) | sase-lz hood | active |
-| [sase-lz.3](../bbugyi200.athena.sase-lz.3/README.md) | sase-lz hood | active |
-| [sase-lz.4](../bbugyi200.athena.sase-lz.4/README.md) | sase-lz hood | active |
+| [sase-lz.1](../bbugyi200.athena.sase-lz.1/README.md) | sase-lz hood | dismissed |
+| [sase-lz.2](../bbugyi200.athena.sase-lz.2/README.md) | sase-lz hood | dismissed |
+| [sase-lz.3](../bbugyi200.athena.sase-lz.3/README.md) | sase-lz hood | dismissed |
+| [sase-lz.4](../bbugyi200.athena.sase-lz.4/README.md) | sase-lz hood | dismissed |

@@ -35,7 +35,7 @@ flowchart TD
   n0 --> n12
   n13["sase-m4.land--mon-7 [failed]"]
   n0 --> n13
-  n14["sase-m4.land--plan [active]"]
+  n14["sase-m4.land--plan [dismissed]"]
   n0 --> n14
   n15["sase-m4.land--7 [completed]"]
   n0 --> n15
@@ -69,7 +69,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-3"></a>mon-3 | sase-m4.land--mon-3 | failed | gpt-5.5 / codex | 2026-08-15T00:25:58.209532+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-m4.land--mon-3/chat.md) |
 | <a id="member-6"></a>6 | sase-m4.land--6 | completed | gpt-5.5 / codex | 2026-08-15T01:02:08.058399+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m4.land--6/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m4.land--6/chat.md) |
 | <a id="member-mon-7"></a>mon-7 | sase-m4.land--mon-7 | failed | gpt-5.5 / codex | 2026-08-15T02:34:06.980871+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-m4.land--mon-7/chat.md) |
-| <a id="member-plan"></a>plan | sase-m4.land--plan | active | opus / claude | 2026-08-14T21:50:49.051405+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m4.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m4.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-m4.land--plan | dismissed | opus / claude | 2026-08-14T17:50:49.051405 → 2026-08-14T18:22:14.950316 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m4.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m4.land--plan/chat.md) |
 | <a id="member-7"></a>7 | sase-m4.land--7 | completed | gpt-5.5 / codex | 2026-08-15T01:17:45.191927+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m4.land--7/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m4.land--7/chat.md) |
 | <a id="member-2"></a>2 | sase-m4.land--2 | completed | gpt-5.5 / codex | 2026-08-14T22:45:19.518586+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m4.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m4.land--2/chat.md) |
 | <a id="member-9"></a>9 | sase-m4.land--9 | completed | gpt-5.5 / codex | 2026-08-15T03:35:59.622888+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m4.land--9/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m4.land--9/chat.md) |
@@ -81,20 +81,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`5601920`](https://github.com/sase-org/sase/commit/5601920c9dc66259eb858dc7c851e6d4801014a8) | test: stabilize GitHub Actions checks | 2026-08-14 18:20:12 EDT |
+| code | — | `5601920` | test: stabilize GitHub Actions checks | 2026-08-14 18:20:12 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-m4.1](../agents/bbugyi200.athena.sase-m4.1/README.md) | sase-m4 hood | active |
-| [sase-m4.2](../agents/bbugyi200.athena.sase-m4.2/README.md) | sase-m4 hood | active |
-| [sase-m4.3](../agents/bbugyi200.athena.sase-m4.3/README.md) | sase-m4 hood | active |
-| [sase-m4.4](../agents/bbugyi200.athena.sase-m4.4/README.md) | sase-m4 hood | active |
-| [sase-m4.5](../agents/bbugyi200.athena.sase-m4.5/README.md) | sase-m4 hood | active |
-| [sase-m4.6](bbugyi200.athena.sase-m4.6.md) (session · 4) | sase-m4 hood | active 1, completed 1, failed 2 |
+| [sase-m4.1](../agents/bbugyi200.athena.sase-m4.1/README.md) | sase-m4 hood | dismissed |
+| [sase-m4.2](../agents/bbugyi200.athena.sase-m4.2/README.md) | sase-m4 hood | dismissed |
+| [sase-m4.3](../agents/bbugyi200.athena.sase-m4.3/README.md) | sase-m4 hood | dismissed |
+| [sase-m4.4](../agents/bbugyi200.athena.sase-m4.4/README.md) | sase-m4 hood | dismissed |
+| [sase-m4.5](../agents/bbugyi200.athena.sase-m4.5/README.md) | sase-m4 hood | dismissed |
+| [sase-m4.6](bbugyi200.athena.sase-m4.6.md) (session · 4) | sase-m4 hood | completed 1, dismissed 1, failed 2 |
 | [sase-m4.6--2--code](../agents/bbugyi200.athena.sase-m4.6--2--code/README.md) | sase-m4 hood | completed |
 | [sase-m4.6--2--plan](../agents/bbugyi200.athena.sase-m4.6--2--plan/README.md) | sase-m4 hood | completed |
-| [sase-m4.6\_1](bbugyi200.athena.sase-m4.6_1.md) (session · 3) | sase-m4 hood | active 1, completed 1, failed 1 |
+| [sase-m4.6\_1](bbugyi200.athena.sase-m4.6_1.md) (session · 3) | sase-m4 hood | completed 1, dismissed 1, failed 1 |
 | [sase-m4.land--a--code](../agents/bbugyi200.athena.sase-m4.land--a--code/README.md) | sase-m4 hood | completed |
 | [sase-m4.land--a--plan](../agents/bbugyi200.athena.sase-m4.land--a--plan/README.md) | sase-m4 hood | completed |

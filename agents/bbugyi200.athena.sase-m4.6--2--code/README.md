@@ -21,20 +21,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`357c45c`](https://github.com/sase-org/sase/commit/357c45c7235f4d8f23539787dc16f4df41955470) | test(docs): skip pypdf-dependent docs-PDF test when pypdf is absent | 2026-08-14 16:34:52 EDT |
+| — | `357c45c` | test(docs): skip pypdf-dependent docs-PDF test when pypdf is absent | 2026-08-14 16:34:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-m4.1](../bbugyi200.athena.sase-m4.1/README.md) | sase-m4 hood | active |
-| [sase-m4.2](../bbugyi200.athena.sase-m4.2/README.md) | sase-m4 hood | active |
-| [sase-m4.3](../bbugyi200.athena.sase-m4.3/README.md) | sase-m4 hood | active |
-| [sase-m4.4](../bbugyi200.athena.sase-m4.4/README.md) | sase-m4 hood | active |
-| [sase-m4.5](../bbugyi200.athena.sase-m4.5/README.md) | sase-m4 hood | active |
-| [sase-m4.6](../../sessions/bbugyi200.athena.sase-m4.6.md) (session · 4) | sase-m4 hood | active 1, completed 1, failed 2 |
+| [sase-m4.1](../bbugyi200.athena.sase-m4.1/README.md) | sase-m4 hood | dismissed |
+| [sase-m4.2](../bbugyi200.athena.sase-m4.2/README.md) | sase-m4 hood | dismissed |
+| [sase-m4.3](../bbugyi200.athena.sase-m4.3/README.md) | sase-m4 hood | dismissed |
+| [sase-m4.4](../bbugyi200.athena.sase-m4.4/README.md) | sase-m4 hood | dismissed |
+| [sase-m4.5](../bbugyi200.athena.sase-m4.5/README.md) | sase-m4 hood | dismissed |
+| [sase-m4.6](../../sessions/bbugyi200.athena.sase-m4.6.md) (session · 4) | sase-m4 hood | completed 1, dismissed 1, failed 2 |
 | [sase-m4.6--2--plan](../bbugyi200.athena.sase-m4.6--2--plan/README.md) | sase-m4 hood | completed |
-| [sase-m4.6\_1](../../sessions/bbugyi200.athena.sase-m4.6_1.md) (session · 3) | sase-m4 hood | active 1, completed 1, failed 1 |
-| [sase-m4.land](../../sessions/bbugyi200.athena.sase-m4.land.md) (session · 21) | sase-m4 hood | active 1, completed 10, failed 10 |
+| [sase-m4.6\_1](../../sessions/bbugyi200.athena.sase-m4.6_1.md) (session · 3) | sase-m4 hood | completed 1, dismissed 1, failed 1 |
+| [sase-m4.land](../../sessions/bbugyi200.athena.sase-m4.land.md) (session · 21) | sase-m4 hood | completed 10, dismissed 1, failed 10 |
 | [sase-m4.land--a--code](../bbugyi200.athena.sase-m4.land--a--code/README.md) | sase-m4 hood | completed |
 | [sase-m4.land--a--plan](../bbugyi200.athena.sase-m4.land--a--plan/README.md) | sase-m4 hood | completed |

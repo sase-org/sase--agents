@@ -2,9 +2,9 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-ly
 
-**Global hood:** `bbugyi200.athena.sase-ly` · **Runs:** 2 · **Sessions:** 1 · **States:** active 1, completed 1
+**Global hood:** `bbugyi200.athena.sase-ly` · **Runs:** 2 · **Sessions:** 1 · **States:** completed 1, dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-ly--plan](../../../../../../sessions/bbugyi200.athena.sase-ly.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-14T14:36:27.853750+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ly--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ly--plan/prompt.md) |
+| [sase-ly--plan](../../../../../../sessions/bbugyi200.athena.sase-ly.md#member-plan) | dismissed | gpt-5.6-sol / codex | 2026-08-14T10:36:27.853750 → 2026-08-14T11:22:03.397499 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ly--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ly--plan/prompt.md) |
 | [sase-ly--code](../../../../../../sessions/bbugyi200.athena.sase-ly.md#member-code) | completed | gpt-5.5 / codex | 2026-08-14T14:43:47.196139+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-ly--code/chat.md) |
