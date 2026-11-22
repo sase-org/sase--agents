@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ky](../../users/bbugyi200/machines/athena/hoods/sase-ky/README.md) / sase-ky.land
 
-**Global name:** `bbugyi200.athena.sase-ky.land` · **State:** active · **Source run:** `run-1a24e294e2bf527a642318d1de99c603`
+**Global name:** `bbugyi200.athena.sase-ky.land` · **State:** dismissed · **Source run:** `run-1a24e294e2bf527a642318d1de99c603`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ky
 
@@ -11,7 +11,7 @@
 - Bead: [sase-ky](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ky/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-13T23:29:33.866501+00:00
+- Timing: 2026-08-13T19:29:33.866501 → 2026-08-13T20:29:42.184447
 - Commits: [1](#commits)
 
 ## Files
@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aef2d8e`](https://github.com/sase-org/sase/commit/aef2d8eb5b11c46265a468fa49686c52d33cb79a) | fix(grok): recreate timer for interrupt relaunch | 2026-08-13 20:24:14 EDT |
+| — | `aef2d8e` | fix(grok): recreate timer for interrupt relaunch | 2026-08-13 20:24:14 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ky.1](../bbugyi200.athena.sase-ky.1/README.md) | sase-ky hood | active |
-| [sase-ky.2](../bbugyi200.athena.sase-ky.2/README.md) | sase-ky hood | active |
-| [sase-ky.3](../bbugyi200.athena.sase-ky.3/README.md) | sase-ky hood | active |
-| [sase-ky.4](../bbugyi200.athena.sase-ky.4/README.md) | sase-ky hood | active |
-| [sase-ky.5](../bbugyi200.athena.sase-ky.5/README.md) | sase-ky hood | active |
+| [sase-ky.1](../bbugyi200.athena.sase-ky.1/README.md) | sase-ky hood | dismissed |
+| [sase-ky.2](../bbugyi200.athena.sase-ky.2/README.md) | sase-ky hood | dismissed |
+| [sase-ky.3](../bbugyi200.athena.sase-ky.3/README.md) | sase-ky hood | dismissed |
+| [sase-ky.4](../bbugyi200.athena.sase-ky.4/README.md) | sase-ky hood | dismissed |
+| [sase-ky.5](../bbugyi200.athena.sase-ky.5/README.md) | sase-ky hood | dismissed |

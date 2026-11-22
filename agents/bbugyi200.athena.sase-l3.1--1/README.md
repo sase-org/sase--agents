@@ -22,17 +22,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ad4ae62`](https://github.com/sase-org/sase/commit/ad4ae62aef705022872998254613c72e068a6d43) | feat(llm-provider): add provider-neutral messages parser | 2026-08-13 15:23:41 EDT |
+| — | `ad4ae62` | feat(llm-provider): add provider-neutral messages parser | 2026-08-13 15:23:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-l3.2](../bbugyi200.athena.sase-l3.2/README.md) | sase-l3 hood | active |
-| [sase-l3.3](../bbugyi200.athena.sase-l3.3/README.md) | sase-l3 hood | active |
-| [sase-l3.4](../bbugyi200.athena.sase-l3.4/README.md) | sase-l3 hood | active |
-| [sase-l3.5](../bbugyi200.athena.sase-l3.5/README.md) | sase-l3 hood | active |
-| [sase-l3.6](../bbugyi200.athena.sase-l3.6/README.md) | sase-l3 hood | active |
-| [sase-l3.7](../bbugyi200.athena.sase-l3.7/README.md) | sase-l3 hood | active |
-| [sase-l3.8](../bbugyi200.athena.sase-l3.8/README.md) | sase-l3 hood | active |
-| [sase-l3.land](../bbugyi200.athena.sase-l3.land/README.md) | sase-l3 hood | active |
+| [sase-l3.2](../bbugyi200.athena.sase-l3.2/README.md) | sase-l3 hood | dismissed |
+| [sase-l3.3](../bbugyi200.athena.sase-l3.3/README.md) | sase-l3 hood | dismissed |
+| [sase-l3.4](../bbugyi200.athena.sase-l3.4/README.md) | sase-l3 hood | dismissed |
+| [sase-l3.5](../bbugyi200.athena.sase-l3.5/README.md) | sase-l3 hood | dismissed |
+| [sase-l3.6](../bbugyi200.athena.sase-l3.6/README.md) | sase-l3 hood | dismissed |
+| [sase-l3.7](../bbugyi200.athena.sase-l3.7/README.md) | sase-l3 hood | dismissed |
+| [sase-l3.8](../bbugyi200.athena.sase-l3.8/README.md) | sase-l3 hood | dismissed |
+| [sase-l3.land](../bbugyi200.athena.sase-l3.land/README.md) | sase-l3 hood | dismissed |

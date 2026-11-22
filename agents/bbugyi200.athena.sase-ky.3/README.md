@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ky](../../users/bbugyi200/machines/athena/hoods/sase-ky/README.md) / sase-ky.3
 
-**Global name:** `bbugyi200.athena.sase-ky.3` · **State:** active · **Source run:** `run-50109065df8ff7076ce171a77b02910f`
+**Global name:** `bbugyi200.athena.sase-ky.3` · **State:** dismissed · **Source run:** `run-50109065df8ff7076ce171a77b02910f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ky
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ky](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ky/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-13T18:30:53.664774+00:00
+- Timing: 2026-08-13T14:30:53.664774 → 2026-08-13T17:05:21.090042
 - Commits: [1](#commits)
 
 ## Files
@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7240436`](https://github.com/sase-org/sase/commit/7240436e83016eabe711e37c64c029cc89fc56c8) | fix(beads): repair alias-spelled design refs | 2026-08-13 17:02:21 EDT |
+| — | `7240436` | fix(beads): repair alias-spelled design refs | 2026-08-13 17:02:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ky.1](../bbugyi200.athena.sase-ky.1/README.md) | sase-ky hood | active |
-| [sase-ky.2](../bbugyi200.athena.sase-ky.2/README.md) | sase-ky hood | active |
-| [sase-ky.4](../bbugyi200.athena.sase-ky.4/README.md) | sase-ky hood | active |
-| [sase-ky.5](../bbugyi200.athena.sase-ky.5/README.md) | sase-ky hood | active |
-| [sase-ky.land](../bbugyi200.athena.sase-ky.land/README.md) | sase-ky hood | active |
+| [sase-ky.1](../bbugyi200.athena.sase-ky.1/README.md) | sase-ky hood | dismissed |
+| [sase-ky.2](../bbugyi200.athena.sase-ky.2/README.md) | sase-ky hood | dismissed |
+| [sase-ky.4](../bbugyi200.athena.sase-ky.4/README.md) | sase-ky hood | dismissed |
+| [sase-ky.5](../bbugyi200.athena.sase-ky.5/README.md) | sase-ky hood | dismissed |
+| [sase-ky.land](../bbugyi200.athena.sase-ky.land/README.md) | sase-ky hood | dismissed |
