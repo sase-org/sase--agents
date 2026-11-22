@@ -23,19 +23,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cb453a5`](https://github.com/sase-org/sase/commit/cb453a529e483d4237afdfab66fd2be9e1caadeb) | feat(artifact-ref)!: bump wire schema to 5 for stitch/patch/file-path kinds | 2026-08-11 15:16:10 EDT |
+| — | `cb453a5` | feat(artifact-ref)!: bump wire schema to 5 for stitch/patch/file-path kinds | 2026-08-11 15:16:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-js.2](../bbugyi200.athena.sase-js.2/README.md) | sase-js hood | active |
-| [sase-js.3](../../sessions/bbugyi200.athena.sase-js.3.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.4](../../sessions/bbugyi200.athena.sase-js.4.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.5](../../sessions/bbugyi200.athena.sase-js.5.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.6](../../sessions/bbugyi200.athena.sase-js.6.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.7](../../sessions/bbugyi200.athena.sase-js.7.md) (session · 2) | sase-js hood | active 1, completed 1 |
+| [sase-js.2](../bbugyi200.athena.sase-js.2/README.md) | sase-js hood | dismissed |
+| [sase-js.3](../../sessions/bbugyi200.athena.sase-js.3.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.4](../../sessions/bbugyi200.athena.sase-js.4.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.5](../../sessions/bbugyi200.athena.sase-js.5.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.6](../../sessions/bbugyi200.athena.sase-js.6.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.7](../../sessions/bbugyi200.athena.sase-js.7.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
 | [sase-js.7](../bbugyi200.athena.sase-js.7/README.md) | sase-js hood | waiting |
-| [sase-js.8](../../sessions/bbugyi200.athena.sase-js.8.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | active |
-| [sase-js.land](../../sessions/bbugyi200.athena.sase-js.land.md) (session · 2) | sase-js hood | active 2 |
+| [sase-js.8](../../sessions/bbugyi200.athena.sase-js.8.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | dismissed |
+| [sase-js.land](../../sessions/bbugyi200.athena.sase-js.land.md) (session · 2) | sase-js hood | active 1, dismissed 1 |

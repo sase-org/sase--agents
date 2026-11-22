@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`33b8861`](https://github.com/sase-org/sase/commit/33b886150b672b85f471d0e3d1a9e9de0385cb71) | fix(vcs): preserve SASE\_TYPE footer across commit amend | 2026-08-11 11:46:11 EDT |
+| — | `33b8861` | fix(vcs): preserve SASE\_TYPE footer across commit amend | 2026-08-11 11:46:11 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-jo.1](../bbugyi200.athena.sase-jo.1/README.md) | sase-jo hood | active |
-| [sase-jo.2](../bbugyi200.athena.sase-jo.2/README.md) | sase-jo hood | active |
-| [sase-jo.3](../bbugyi200.athena.sase-jo.3/README.md) | sase-jo hood | active |
-| [sase-jo.4](../bbugyi200.athena.sase-jo.4/README.md) | sase-jo hood | active |
-| [sase-jo.5](../bbugyi200.athena.sase-jo.5/README.md) | sase-jo hood | active |
-| [sase-jo.6](../bbugyi200.athena.sase-jo.6/README.md) | sase-jo hood | active |
+| [sase-jo.1](../bbugyi200.athena.sase-jo.1/README.md) | sase-jo hood | dismissed |
+| [sase-jo.2](../bbugyi200.athena.sase-jo.2/README.md) | sase-jo hood | dismissed |
+| [sase-jo.3](../bbugyi200.athena.sase-jo.3/README.md) | sase-jo hood | dismissed |
+| [sase-jo.4](../bbugyi200.athena.sase-jo.4/README.md) | sase-jo hood | dismissed |
+| [sase-jo.5](../bbugyi200.athena.sase-jo.5/README.md) | sase-jo hood | dismissed |
+| [sase-jo.6](../bbugyi200.athena.sase-jo.6/README.md) | sase-jo hood | dismissed |

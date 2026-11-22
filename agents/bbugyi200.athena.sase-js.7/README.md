@@ -23,12 +23,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-js.1](../../sessions/bbugyi200.athena.sase-js.1.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.2](../bbugyi200.athena.sase-js.2/README.md) | sase-js hood | active |
-| [sase-js.3](../../sessions/bbugyi200.athena.sase-js.3.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.4](../../sessions/bbugyi200.athena.sase-js.4.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.5](../../sessions/bbugyi200.athena.sase-js.5.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.6](../../sessions/bbugyi200.athena.sase-js.6.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.8](../../sessions/bbugyi200.athena.sase-js.8.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | active |
-| [sase-js.land](../../sessions/bbugyi200.athena.sase-js.land.md) (session · 2) | sase-js hood | active 2 |
+| [sase-js.1](../../sessions/bbugyi200.athena.sase-js.1.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.2](../bbugyi200.athena.sase-js.2/README.md) | sase-js hood | dismissed |
+| [sase-js.3](../../sessions/bbugyi200.athena.sase-js.3.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.4](../../sessions/bbugyi200.athena.sase-js.4.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.5](../../sessions/bbugyi200.athena.sase-js.5.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.6](../../sessions/bbugyi200.athena.sase-js.6.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.8](../../sessions/bbugyi200.athena.sase-js.8.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | dismissed |
+| [sase-js.land](../../sessions/bbugyi200.athena.sase-js.land.md) (session · 2) | sase-js hood | active 1, dismissed 1 |

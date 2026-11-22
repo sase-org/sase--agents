@@ -18,11 +18,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`81e7b02`](https://github.com/sase-org/sase/commit/81e7b02d69066377ca0c1f019e4d5467c3471f12) | feat(ace): restrict \`-\` panel fold sweep to lanes/clans only | 2026-08-10 21:42:59 EDT |
+| — | `81e7b02` | feat(ace): restrict \`-\` panel fold sweep to lanes/clans only | 2026-08-10 21:42:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j9.1](../bbugyi200.athena.sase-j9.1/README.md) | sase-j9 hood | active |
-| [sase-j9.2](../bbugyi200.athena.sase-j9.2/README.md) | sase-j9 hood | active |
+| [sase-j9.1](../bbugyi200.athena.sase-j9.1/README.md) | sase-j9 hood | dismissed |
+| [sase-j9.2](../bbugyi200.athena.sase-j9.2/README.md) | sase-j9 hood | dismissed |

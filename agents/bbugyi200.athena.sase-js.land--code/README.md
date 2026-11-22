@@ -18,20 +18,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ad11756`](https://github.com/sase-org/sase/commit/ad11756e6ed919d83f30c69fdb82d3c37c59b955) | fix(ace): break artifact-provider import cycle, delete retired Chats pane, drop @chat completion | 2026-08-12 11:36:27 EDT |
-| sase | [`c30bcb0`](https://github.com/sase-org/sase/commit/c30bcb012c50f36b9e6b240d146fffa2cf3d8a8c) | chore(symvision): retire epic-js whitelist, delete or wire up its five symbols | 2026-08-12 12:35:48 EDT |
+| — | `ad11756` | fix(ace): break artifact-provider import cycle, delete retired Chats pane, drop @chat completion | 2026-08-12 11:36:27 EDT |
+| — | `c30bcb0` | chore(symvision): retire epic-js whitelist, delete or wire up its five symbols | 2026-08-12 12:35:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-js.1](../../sessions/bbugyi200.athena.sase-js.1.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.2](../bbugyi200.athena.sase-js.2/README.md) | sase-js hood | active |
-| [sase-js.3](../../sessions/bbugyi200.athena.sase-js.3.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.4](../../sessions/bbugyi200.athena.sase-js.4.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.5](../../sessions/bbugyi200.athena.sase-js.5.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.6](../../sessions/bbugyi200.athena.sase-js.6.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.7](../../sessions/bbugyi200.athena.sase-js.7.md) (session · 2) | sase-js hood | active 1, completed 1 |
+| [sase-js.1](../../sessions/bbugyi200.athena.sase-js.1.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.2](../bbugyi200.athena.sase-js.2/README.md) | sase-js hood | dismissed |
+| [sase-js.3](../../sessions/bbugyi200.athena.sase-js.3.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.4](../../sessions/bbugyi200.athena.sase-js.4.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.5](../../sessions/bbugyi200.athena.sase-js.5.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.6](../../sessions/bbugyi200.athena.sase-js.6.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.7](../../sessions/bbugyi200.athena.sase-js.7.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
 | [sase-js.7](../bbugyi200.athena.sase-js.7/README.md) | sase-js hood | waiting |
-| [sase-js.8](../../sessions/bbugyi200.athena.sase-js.8.md) (session · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | active |
+| [sase-js.8](../../sessions/bbugyi200.athena.sase-js.8.md) (session · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | dismissed |

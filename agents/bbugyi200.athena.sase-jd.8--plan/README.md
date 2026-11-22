@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-jd](../../users/bbugyi200/machines/athena/hoods/sase-jd/README.md) / [sase-jd.8](../../sessions/bbugyi200.athena.sase-jd.8.md) / sase-jd.8--plan
 
-**Global name:** `bbugyi200.athena.sase-jd.8--plan` · **State:** active · **Source run:** `run-a0bb4bd69ef80c85f99456029e6294c9`
+**Global name:** `bbugyi200.athena.sase-jd.8--plan` · **State:** dismissed · **Source run:** `run-a0bb4bd69ef80c85f99456029e6294c9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-jd
 
@@ -12,7 +12,7 @@
 - Epic: [sase-jd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-jd/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-11T12:13:53.479536+00:00
+- Timing: 2026-08-11T08:13:53.479536 → 2026-08-11T11:40:00.802617
 - Commits: 0
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-jd.1](../../sessions/bbugyi200.athena.sase-jd.1.md) (session · 2) | sase-jd hood | active 1, completed 1 |
-| [sase-jd.2](../bbugyi200.athena.sase-jd.2/README.md) | sase-jd hood | active |
-| [sase-jd.3](../bbugyi200.athena.sase-jd.3/README.md) | sase-jd hood | active |
-| [sase-jd.4](../../sessions/bbugyi200.athena.sase-jd.4.md) (session · 2) | sase-jd hood | active 2 |
+| [sase-jd.1](../../sessions/bbugyi200.athena.sase-jd.1.md) (session · 2) | sase-jd hood | completed 1, dismissed 1 |
+| [sase-jd.2](../bbugyi200.athena.sase-jd.2/README.md) | sase-jd hood | dismissed |
+| [sase-jd.3](../bbugyi200.athena.sase-jd.3/README.md) | sase-jd hood | dismissed |
+| [sase-jd.4](../../sessions/bbugyi200.athena.sase-jd.4.md) (session · 2) | sase-jd hood | active 1, dismissed 1 |
 | [sase-jd.4](../bbugyi200.athena.sase-jd.4/README.md) | sase-jd hood | active |
-| [sase-jd.5](../../sessions/bbugyi200.athena.sase-jd.5.md) (session · 2) | sase-jd hood | active 1, completed 1 |
-| [sase-jd.6](../../sessions/bbugyi200.athena.sase-jd.6.md) (session · 2) | sase-jd hood | active 1, completed 1 |
+| [sase-jd.5](../../sessions/bbugyi200.athena.sase-jd.5.md) (session · 2) | sase-jd hood | completed 1, dismissed 1 |
+| [sase-jd.6](../../sessions/bbugyi200.athena.sase-jd.6.md) (session · 2) | sase-jd hood | completed 1, dismissed 1 |
 | [sase-jd.6](../bbugyi200.athena.sase-jd.6/README.md) | sase-jd hood | active |
-| [sase-jd.7](../bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | active |
-| [sase-jd.land](../bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | active |
+| [sase-jd.7](../bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | dismissed |
+| [sase-jd.land](../bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | dismissed |
