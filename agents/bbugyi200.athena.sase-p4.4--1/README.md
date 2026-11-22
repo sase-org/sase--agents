@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p4](../../users/bbugyi200/machines/athena/hoods/sase-p4/README.md) / [sase-p4.4](../../sessions/bbugyi200.athena.sase-p4.4.md) / sase-p4.4--1
 
-**Global name:** `bbugyi200.athena.sase-p4.4--1` · **State:** active · **Source run:** `run-497db250444edd0bc9a5d08545c1fde3`
+**Global name:** `bbugyi200.athena.sase-p4.4--1` · **State:** dismissed · **Source run:** `run-497db250444edd0bc9a5d08545c1fde3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p4
 
@@ -11,7 +11,7 @@
 - Bead: [sase-p4.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p4/sase-p4.4.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-18T03:38:05.435432+00:00
+- Timing: 2026-08-17T23:37:48
 - Commits: 0
 
 ## Files
@@ -22,8 +22,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p4.1](../../sessions/bbugyi200.athena.sase-p4.1.md) (session · 5) | sase-p4 hood | active 5 |
-| [sase-p4.2](../bbugyi200.athena.sase-p4.2/README.md) | sase-p4 hood | active |
-| [sase-p4.3](../../sessions/bbugyi200.athena.sase-p4.3.md) (session · 9) | sase-p4 hood | active 9 |
+| [sase-p4.1](../../sessions/bbugyi200.athena.sase-p4.1.md) (session · 5) | sase-p4 hood | active 1, dismissed 4 |
+| [sase-p4.2](../bbugyi200.athena.sase-p4.2/README.md) | sase-p4 hood | dismissed |
+| [sase-p4.3](../../sessions/bbugyi200.athena.sase-p4.3.md) (session · 9) | sase-p4 hood | active 2, dismissed 7 |
 | [sase-p4.5](../bbugyi200.athena.sase-p4.5/README.md) | sase-p4 hood | active |
-| [sase-p4.land](../bbugyi200.athena.sase-p4.land/README.md) | sase-p4 hood | active |
+| [sase-p4.land](../bbugyi200.athena.sase-p4.land/README.md) | sase-p4 hood | dismissed |

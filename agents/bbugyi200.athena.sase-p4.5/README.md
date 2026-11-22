@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d23a269`](https://github.com/sase-org/sase/commit/d23a269e0dad75cdd8d4c154d5744e079b651986) | docs: document the EpicResume gate, epic\_resume chop, and its config | 2026-08-18 01:13:30 EDT |
+| — | `d23a269` | docs: document the EpicResume gate, epic\_resume chop, and its config | 2026-08-18 01:13:30 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p4.1](../../sessions/bbugyi200.athena.sase-p4.1.md) (session · 5) | sase-p4 hood | active 5 |
-| [sase-p4.2](../bbugyi200.athena.sase-p4.2/README.md) | sase-p4 hood | active |
-| [sase-p4.3](../../sessions/bbugyi200.athena.sase-p4.3.md) (session · 9) | sase-p4 hood | active 9 |
-| [sase-p4.4](../../sessions/bbugyi200.athena.sase-p4.4.md) (session · 9) | sase-p4 hood | active 9 |
-| [sase-p4.land](../bbugyi200.athena.sase-p4.land/README.md) | sase-p4 hood | active |
+| [sase-p4.1](../../sessions/bbugyi200.athena.sase-p4.1.md) (session · 5) | sase-p4 hood | active 1, dismissed 4 |
+| [sase-p4.2](../bbugyi200.athena.sase-p4.2/README.md) | sase-p4 hood | dismissed |
+| [sase-p4.3](../../sessions/bbugyi200.athena.sase-p4.3.md) (session · 9) | sase-p4 hood | active 2, dismissed 7 |
+| [sase-p4.4](../../sessions/bbugyi200.athena.sase-p4.4.md) (session · 9) | sase-p4 hood | active 2, dismissed 7 |
+| [sase-p4.land](../bbugyi200.athena.sase-p4.land/README.md) | sase-p4 hood | dismissed |

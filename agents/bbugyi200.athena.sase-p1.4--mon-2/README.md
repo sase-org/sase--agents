@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p1](../../users/bbugyi200/machines/athena/hoods/sase-p1/README.md) / [sase-p1.4](../../sessions/bbugyi200.athena.sase-p1.4.md) / sase-p1.4--mon-2
 
-**Global name:** `bbugyi200.athena.sase-p1.4--mon-2` · **State:** active · **Source run:** `run-4f5a82fb99a228b6c614cbe4eaf8716e`
+**Global name:** `bbugyi200.athena.sase-p1.4--mon-2` · **State:** dismissed · **Source run:** `run-4f5a82fb99a228b6c614cbe4eaf8716e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p1
 
@@ -11,18 +11,18 @@
 - Bead: [sase-p1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p1/sase-p1.4.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-18T01:09:08.389687+00:00
+- Timing: 2026-08-17T21:09:08
 - Commits: 0
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p1.1](../bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | active |
-| [sase-p1.2](../bbugyi200.athena.sase-p1.2/README.md) | sase-p1 hood | active |
-| [sase-p1.3](../bbugyi200.athena.sase-p1.3/README.md) | sase-p1 hood | active |
-| [sase-p1.5](../bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | active |
-| [sase-p1.6](../../sessions/bbugyi200.athena.sase-p1.6.md) (session · 7) | sase-p1 hood | active 7 |
-| [sase-p1.7](../bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | active |
-| [sase-p1.8](../bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | active |
-| [sase-p1.land](../bbugyi200.athena.sase-p1.land/README.md) | sase-p1 hood | active |
+| [sase-p1.1](../bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.2](../bbugyi200.athena.sase-p1.2/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.3](../bbugyi200.athena.sase-p1.3/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.5](../bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.6](../../sessions/bbugyi200.athena.sase-p1.6.md) (session · 7) | sase-p1 hood | dismissed 7 |
+| [sase-p1.7](../bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.8](../bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.land](../bbugyi200.athena.sase-p1.land/README.md) | sase-p1 hood | dismissed |

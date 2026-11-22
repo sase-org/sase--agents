@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p2.1](../bbugyi200.athena.sase-p2.1/README.md) | sase-p2 hood | active |
-| [sase-p2.2](../../sessions/bbugyi200.athena.sase-p2.2.md) (session · 3) | sase-p2 hood | active 1, completed 1, failed 1 |
-| [sase-p2.3](../../sessions/bbugyi200.athena.sase-p2.3.md) (session · 11) | sase-p2 hood | active 1, completed 5, failed 5 |
-| [sase-p2.land](../../sessions/bbugyi200.athena.sase-p2.land.md) (session · 3) | sase-p2 hood | active 1, completed 1, failed 1 |
+| [sase-p2.1](../bbugyi200.athena.sase-p2.1/README.md) | sase-p2 hood | dismissed |
+| [sase-p2.2](../../sessions/bbugyi200.athena.sase-p2.2.md) (session · 3) | sase-p2 hood | completed 1, dismissed 1, failed 1 |
+| [sase-p2.3](../../sessions/bbugyi200.athena.sase-p2.3.md) (session · 11) | sase-p2 hood | completed 5, dismissed 1, failed 5 |
+| [sase-p2.land](../../sessions/bbugyi200.athena.sase-p2.land.md) (session · 3) | sase-p2 hood | completed 1, dismissed 1, failed 1 |

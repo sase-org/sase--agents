@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p1](../../users/bbugyi200/machines/athena/hoods/sase-p1/README.md) / sase-p1.land
 
-**Global name:** `bbugyi200.athena.sase-p1.land` · **State:** active · **Source run:** `run-08c1cc6a52156bdb12483ac261376ce8`
+**Global name:** `bbugyi200.athena.sase-p1.land` · **State:** dismissed · **Source run:** `run-08c1cc6a52156bdb12483ac261376ce8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p1
 
@@ -11,7 +11,7 @@
 - Bead: [sase-p1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p1/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-18T03:49:55.825731+00:00
+- Timing: 2026-08-17T18:34:43
 - Commits: [1](#commits)
 
 ## Files
@@ -22,17 +22,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aef824c`](https://github.com/sase-org/sase/commit/aef824c5c7154b63b50ac20da46bbe6bb5bad66b) | test(ace): re-record the g-prefix hint PNG golden (sase-p1) | 2026-08-18 00:48:08 EDT |
+| — | `aef824c` | test(ace): re-record the g-prefix hint PNG golden (sase-p1) | 2026-08-18 00:48:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p1.1](../bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | active |
-| [sase-p1.2](../bbugyi200.athena.sase-p1.2/README.md) | sase-p1 hood | active |
-| [sase-p1.3](../bbugyi200.athena.sase-p1.3/README.md) | sase-p1 hood | active |
-| [sase-p1.4](../../sessions/bbugyi200.athena.sase-p1.4.md) (session · 9) | sase-p1 hood | active 9 |
-| [sase-p1.5](../bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | active |
-| [sase-p1.6](../../sessions/bbugyi200.athena.sase-p1.6.md) (session · 7) | sase-p1 hood | active 7 |
-| [sase-p1.7](../bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | active |
-| [sase-p1.8](../bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | active |
+| [sase-p1.1](../bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.2](../bbugyi200.athena.sase-p1.2/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.3](../bbugyi200.athena.sase-p1.3/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.4](../../sessions/bbugyi200.athena.sase-p1.4.md) (session · 9) | sase-p1 hood | dismissed 9 |
+| [sase-p1.5](../bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.6](../../sessions/bbugyi200.athena.sase-p1.6.md) (session · 7) | sase-p1 hood | dismissed 7 |
+| [sase-p1.7](../bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.8](../bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | dismissed |

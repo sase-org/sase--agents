@@ -8,18 +8,18 @@ Owner: `bbugyi200.athena` · Hood: `sase-p4` · Members: 9 · Bead: [sase-p4.3](
 
 ```mermaid
 flowchart TD
-  n0["sase-p4.3--mon-0 [active]"]
-  n1["sase-p4.3--2 [active]"]
+  n0["sase-p4.3--mon-0 [dismissed]"]
+  n1["sase-p4.3--2 [dismissed]"]
   n0 --> n1
-  n2["sase-p4.3--4 [active]"]
+  n2["sase-p4.3--4 [dismissed]"]
   n0 --> n2
-  n3["sase-p4.3--1 [active]"]
+  n3["sase-p4.3--1 [dismissed]"]
   n0 --> n3
-  n4["sase-p4.3--mon-1 [active]"]
+  n4["sase-p4.3--mon-1 [dismissed]"]
   n0 --> n4
-  n5["sase-p4.3--mon [active]"]
+  n5["sase-p4.3--mon [dismissed]"]
   n0 --> n5
-  n6["sase-p4.3--3 [active]"]
+  n6["sase-p4.3--3 [dismissed]"]
   n0 --> n6
   n7["sase-p4.3--mon-2 [active]"]
   n0 --> n7
@@ -31,13 +31,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon-0"></a>mon-0 | sase-p4.3--mon-0 | active | grok-4.6 / grok | 2026-08-18T00:58:43.758616+00:00 | 0 | — | — |
-| <a id="member-2"></a>2 | sase-p4.3--2 | active | grok-4.6 / grok | 2026-08-18T01:34:50.659321+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p4.3--2/chat.md) |
-| <a id="member-4"></a>4 | sase-p4.3--4 | active | grok-4.6 / grok | 2026-08-18T02:50:36.684954+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--4/prompt.md) | — |
-| <a id="member-1"></a>1 | sase-p4.3--1 | active | grok-4.6 / grok | 2026-08-18T00:49:00.064206+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p4.3--1/chat.md) |
-| <a id="member-mon-1"></a>mon-1 | sase-p4.3--mon-1 | active | grok-4.6 / grok | 2026-08-18T01:54:40.763050+00:00 | 0 | — | — |
-| <a id="member-mon"></a>mon | sase-p4.3--mon | active | grok-4.6 / grok | 2026-08-18T00:46:22.159922+00:00 | 0 | — | — |
-| <a id="member-3"></a>3 | sase-p4.3--3 | active | grok-4.6 / grok | 2026-08-18T02:17:49.378001+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p4.3--3/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-p4.3--mon-0 | dismissed | grok-4.6 / grok | 2026-08-17T20:58:43 | 0 | — | — |
+| <a id="member-2"></a>2 | sase-p4.3--2 | dismissed | grok-4.6 / grok | 2026-08-17T21:34:35 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p4.3--2/chat.md) |
+| <a id="member-4"></a>4 | sase-p4.3--4 | dismissed | grok-4.6 / grok | 2026-08-17T22:50:20 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--4/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-p4.3--1 | dismissed | grok-4.6 / grok | 2026-08-17T20:48:43 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p4.3--1/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | sase-p4.3--mon-1 | dismissed | grok-4.6 / grok | 2026-08-17T21:54:40 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-p4.3--mon | dismissed | grok-4.6 / grok | 2026-08-17T20:46:22 | 0 | — | — |
+| <a id="member-3"></a>3 | sase-p4.3--3 | dismissed | grok-4.6 / grok | 2026-08-17T22:17:31 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p4.3--3/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-p4.3--mon-2 | active | grok-4.6 / grok | 2026-08-18T02:27:10.860991+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | sase-p4.3--plan | active | grok-4.6 / grok | 2026-08-18T00:26:19.832784+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p4.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p4.3--plan/chat.md) |
 
@@ -45,14 +45,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`d04a5d7`](https://github.com/sase-org/sase/commit/d04a5d7103389a147943d34b5a5453ce1f21292a) | feat(gates): register the EpicResume gate kind | 2026-08-17 23:07:38 EDT |
+| — | — | `d04a5d7` | feat(gates): register the EpicResume gate kind | 2026-08-17 23:07:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p4.1](bbugyi200.athena.sase-p4.1.md) (session · 5) | sase-p4 hood | active 5 |
-| [sase-p4.2](../agents/bbugyi200.athena.sase-p4.2/README.md) | sase-p4 hood | active |
-| [sase-p4.4](bbugyi200.athena.sase-p4.4.md) (session · 9) | sase-p4 hood | active 9 |
+| [sase-p4.1](bbugyi200.athena.sase-p4.1.md) (session · 5) | sase-p4 hood | active 1, dismissed 4 |
+| [sase-p4.2](../agents/bbugyi200.athena.sase-p4.2/README.md) | sase-p4 hood | dismissed |
+| [sase-p4.4](bbugyi200.athena.sase-p4.4.md) (session · 9) | sase-p4 hood | active 2, dismissed 7 |
 | [sase-p4.5](../agents/bbugyi200.athena.sase-p4.5/README.md) | sase-p4 hood | active |
-| [sase-p4.land](../agents/bbugyi200.athena.sase-p4.land/README.md) | sase-p4 hood | active |
+| [sase-p4.land](../agents/bbugyi200.athena.sase-p4.land/README.md) | sase-p4 hood | dismissed |

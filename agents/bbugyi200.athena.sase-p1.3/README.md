@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p1](../../users/bbugyi200/machines/athena/hoods/sase-p1/README.md) / sase-p1.3
 
-**Global name:** `bbugyi200.athena.sase-p1.3` · **State:** active · **Source run:** `run-b29cf8723f6b098ae360d7e278d4d940`
+**Global name:** `bbugyi200.athena.sase-p1.3` · **State:** dismissed · **Source run:** `run-b29cf8723f6b098ae360d7e278d4d940`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p1
 
@@ -12,7 +12,7 @@
 - Epic: [sase-p1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p1/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-17T22:35:09.234353+00:00
+- Timing: 2026-08-17T18:34:37
 - Commits: [1](#commits)
 
 ## Files
@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7275ec1`](https://github.com/sase-org/sase/commit/7275ec15a93979fdf651e39628caee54df92c65f) | feat(glossary): add TUI catalog service for the glossary panel | 2026-08-17 20:09:46 EDT |
+| — | `7275ec1` | feat(glossary): add TUI catalog service for the glossary panel | 2026-08-17 20:09:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p1.1](../bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | active |
-| [sase-p1.2](../bbugyi200.athena.sase-p1.2/README.md) | sase-p1 hood | active |
-| [sase-p1.4](../../sessions/bbugyi200.athena.sase-p1.4.md) (session · 9) | sase-p1 hood | active 9 |
-| [sase-p1.5](../bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | active |
-| [sase-p1.6](../../sessions/bbugyi200.athena.sase-p1.6.md) (session · 7) | sase-p1 hood | active 7 |
-| [sase-p1.7](../bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | active |
-| [sase-p1.8](../bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | active |
-| [sase-p1.land](../bbugyi200.athena.sase-p1.land/README.md) | sase-p1 hood | active |
+| [sase-p1.1](../bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.2](../bbugyi200.athena.sase-p1.2/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.4](../../sessions/bbugyi200.athena.sase-p1.4.md) (session · 9) | sase-p1 hood | dismissed 9 |
+| [sase-p1.5](../bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.6](../../sessions/bbugyi200.athena.sase-p1.6.md) (session · 7) | sase-p1 hood | dismissed 7 |
+| [sase-p1.7](../bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.8](../bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.land](../bbugyi200.athena.sase-p1.land/README.md) | sase-p1 hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p1](../../users/bbugyi200/machines/athena/hoods/sase-p1/README.md) / sase-p1.2
 
-**Global name:** `bbugyi200.athena.sase-p1.2` · **State:** active · **Source run:** `run-8d9dc73a77afc2fc7f61fce162dece71`
+**Global name:** `bbugyi200.athena.sase-p1.2` · **State:** dismissed · **Source run:** `run-8d9dc73a77afc2fc7f61fce162dece71`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p1
 
@@ -12,7 +12,7 @@
 - Epic: [sase-p1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p1/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-17T22:35:02.902181+00:00
+- Timing: 2026-08-17T18:34:36
 - Commits: [1](#commits)
 
 ## Files
@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`20ba691`](https://github.com/sase-org/sase/commit/20ba691616734f2f92760c5bb58cd2070afc5d13) | feat(glossary): add CLI add and del commands | 2026-08-17 19:24:26 EDT |
+| — | `20ba691` | feat(glossary): add CLI add and del commands | 2026-08-17 19:24:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p1.1](../bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | active |
-| [sase-p1.3](../bbugyi200.athena.sase-p1.3/README.md) | sase-p1 hood | active |
-| [sase-p1.4](../../sessions/bbugyi200.athena.sase-p1.4.md) (session · 9) | sase-p1 hood | active 9 |
-| [sase-p1.5](../bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | active |
-| [sase-p1.6](../../sessions/bbugyi200.athena.sase-p1.6.md) (session · 7) | sase-p1 hood | active 7 |
-| [sase-p1.7](../bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | active |
-| [sase-p1.8](../bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | active |
-| [sase-p1.land](../bbugyi200.athena.sase-p1.land/README.md) | sase-p1 hood | active |
+| [sase-p1.1](../bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.3](../bbugyi200.athena.sase-p1.3/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.4](../../sessions/bbugyi200.athena.sase-p1.4.md) (session · 9) | sase-p1 hood | dismissed 9 |
+| [sase-p1.5](../bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.6](../../sessions/bbugyi200.athena.sase-p1.6.md) (session · 7) | sase-p1 hood | dismissed 7 |
+| [sase-p1.7](../bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.8](../bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | dismissed |
+| [sase-p1.land](../bbugyi200.athena.sase-p1.land/README.md) | sase-p1 hood | dismissed |

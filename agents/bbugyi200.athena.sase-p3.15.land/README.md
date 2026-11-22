@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p3](../../users/bbugyi200/machines/athena/hoods/sase-p3/README.md) / sase-p3.15.land
 
-**Global name:** `bbugyi200.athena.sase-p3.15.land` · **State:** active · **Source run:** `run-c1e2d63370d9871c1725b92454083cdc`
+**Global name:** `bbugyi200.athena.sase-p3.15.land` · **State:** dismissed · **Source run:** `run-c1e2d63370d9871c1725b92454083cdc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p3
 
@@ -11,7 +11,7 @@
 - Bead: [sase-p3.15](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p3/sase-p3.15.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-18T23:13:54.720923+00:00
+- Timing: 2026-08-18T18:40:16
 - Commits: 0
 
 ## Files
@@ -22,21 +22,21 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p3.15.1](../bbugyi200.athena.sase-p3.15.1/README.md) | sase-p3.15 hood | active |
-| [sase-p3.15.2](../../sessions/bbugyi200.athena.sase-p3.15.2.md) (session · 9) | sase-p3.15 hood | active 9 |
-| [sase-p3.15.3](../bbugyi200.athena.sase-p3.15.3/README.md) | sase-p3.15 hood | active |
-| [sase-p3.1](../bbugyi200.athena.sase-p3.1/README.md) | sase-p3 hood | active |
-| [sase-p3.10](../bbugyi200.athena.sase-p3.10/README.md) | sase-p3 hood | active |
-| [sase-p3.11](../bbugyi200.athena.sase-p3.11/README.md) | sase-p3 hood | active |
-| [sase-p3.12](../bbugyi200.athena.sase-p3.12/README.md) | sase-p3 hood | active |
-| [sase-p3.13](../bbugyi200.athena.sase-p3.13/README.md) | sase-p3 hood | active |
-| [sase-p3.14](../../sessions/bbugyi200.athena.sase-p3.14.md) (session · 3) | sase-p3 hood | active 3 |
-| [sase-p3.2](../bbugyi200.athena.sase-p3.2/README.md) | sase-p3 hood | active |
-| [sase-p3.3](../../sessions/bbugyi200.athena.sase-p3.3.md) (session · 5) | sase-p3 hood | active 3, completed 1, failed 1 |
-| [sase-p3.4](../bbugyi200.athena.sase-p3.4/README.md) | sase-p3 hood | active |
-| [sase-p3.5](../bbugyi200.athena.sase-p3.5/README.md) | sase-p3 hood | active |
-| [sase-p3.6](../bbugyi200.athena.sase-p3.6/README.md) | sase-p3 hood | active |
-| [sase-p3.7](../bbugyi200.athena.sase-p3.7/README.md) | sase-p3 hood | active |
-| [sase-p3.8](../bbugyi200.athena.sase-p3.8/README.md) | sase-p3 hood | active |
-| [sase-p3.9](../bbugyi200.athena.sase-p3.9/README.md) | sase-p3 hood | active |
-| [sase-p3.land](../../sessions/bbugyi200.athena.sase-p3.land.md) (session · 2) | sase-p3 hood | active 2 |
+| [sase-p3.15.1](../bbugyi200.athena.sase-p3.15.1/README.md) | sase-p3.15 hood | dismissed |
+| [sase-p3.15.2](../../sessions/bbugyi200.athena.sase-p3.15.2.md) (session · 9) | sase-p3.15 hood | dismissed 9 |
+| [sase-p3.15.3](../bbugyi200.athena.sase-p3.15.3/README.md) | sase-p3.15 hood | dismissed |
+| [sase-p3.1](../bbugyi200.athena.sase-p3.1/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.10](../bbugyi200.athena.sase-p3.10/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.11](../bbugyi200.athena.sase-p3.11/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.12](../bbugyi200.athena.sase-p3.12/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.13](../bbugyi200.athena.sase-p3.13/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.14](../../sessions/bbugyi200.athena.sase-p3.14.md) (session · 3) | sase-p3 hood | dismissed 3 |
+| [sase-p3.2](../bbugyi200.athena.sase-p3.2/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.3](../../sessions/bbugyi200.athena.sase-p3.3.md) (session · 5) | sase-p3 hood | active 1, completed 1, dismissed 2, failed 1 |
+| [sase-p3.4](../bbugyi200.athena.sase-p3.4/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.5](../bbugyi200.athena.sase-p3.5/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.6](../bbugyi200.athena.sase-p3.6/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.7](../bbugyi200.athena.sase-p3.7/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.8](../bbugyi200.athena.sase-p3.8/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.9](../bbugyi200.athena.sase-p3.9/README.md) | sase-p3 hood | dismissed |
+| [sase-p3.land](../../sessions/bbugyi200.athena.sase-p3.land.md) (session · 2) | sase-p3 hood | dismissed 2 |
