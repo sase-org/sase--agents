@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-r0](../../users/bbugyi200/machines/athena/hoods/sase-r0/README.md) / sase-r0.4
 
-**Global name:** `bbugyi200.athena.sase-r0.4` · **State:** active · **Source run:** `run-84cea4796f62b49797c309138395de00`
+**Global name:** `bbugyi200.athena.sase-r0.4` · **State:** dismissed · **Source run:** `run-84cea4796f62b49797c309138395de00`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-r0
 
@@ -12,7 +12,7 @@
 - Epic: [sase-r0](https://github.com/sase-org/sase--beads/blob/main/pages/sase-r0/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-19T18:03:04.949768+00:00
+- Timing: 2026-08-19T12:00:02
 - Commits: [1](#commits)
 
 ## Files
@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`45bd0f7`](https://github.com/sase-org/sase/commit/45bd0f7c707b9b837c1579e66edd26d8b864af26) | feat(tmux-agent): add window launch, renumber, and display-menu | 2026-08-19 14:34:22 EDT |
+| — | `45bd0f7` | feat(tmux-agent): add window launch, renumber, and display-menu | 2026-08-19 14:34:22 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-r0.1](../bbugyi200.athena.sase-r0.1/README.md) | sase-r0 hood | active |
-| [sase-r0.2](../bbugyi200.athena.sase-r0.2/README.md) | sase-r0 hood | active |
-| [sase-r0.3](../../sessions/bbugyi200.athena.sase-r0.3.md) (session · 3) | sase-r0 hood | active 3 |
-| [sase-r0.5](../bbugyi200.athena.sase-r0.5/README.md) | sase-r0 hood | active |
-| [sase-r0.6](../bbugyi200.athena.sase-r0.6/README.md) | sase-r0 hood | active |
-| [sase-r0.7](../bbugyi200.athena.sase-r0.7/README.md) | sase-r0 hood | active |
-| [sase-r0.8](../../sessions/bbugyi200.athena.sase-r0.8.md) (session · 5) | sase-r0 hood | active 5 |
-| [sase-r0.land](../bbugyi200.athena.sase-r0.land/README.md) | sase-r0 hood | active |
+| [sase-r0.1](../bbugyi200.athena.sase-r0.1/README.md) | sase-r0 hood | dismissed |
+| [sase-r0.2](../bbugyi200.athena.sase-r0.2/README.md) | sase-r0 hood | dismissed |
+| [sase-r0.3](../../sessions/bbugyi200.athena.sase-r0.3.md) (session · 3) | sase-r0 hood | dismissed 3 |
+| [sase-r0.5](../bbugyi200.athena.sase-r0.5/README.md) | sase-r0 hood | dismissed |
+| [sase-r0.6](../bbugyi200.athena.sase-r0.6/README.md) | sase-r0 hood | dismissed |
+| [sase-r0.7](../bbugyi200.athena.sase-r0.7/README.md) | sase-r0 hood | dismissed |
+| [sase-r0.8](../../sessions/bbugyi200.athena.sase-r0.8.md) (session · 5) | sase-r0 hood | dismissed 5 |
+| [sase-r0.land](../bbugyi200.athena.sase-r0.land/README.md) | sase-r0 hood | dismissed |

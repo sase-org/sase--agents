@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-r1](../../users/bbugyi200/machines/athena/hoods/sase-r1/README.md) / sase-r1.5
 
-**Global name:** `bbugyi200.athena.sase-r1.5` · **State:** active · **Source run:** `run-b3443bf058fd31c9999ed71fa1cdc484`
+**Global name:** `bbugyi200.athena.sase-r1.5` · **State:** dismissed · **Source run:** `run-b3443bf058fd31c9999ed71fa1cdc484`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-r1
 
@@ -12,7 +12,7 @@
 - Epic: [sase-r1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-r1/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-19T19:24:56.566121+00:00
+- Timing: 2026-08-19T12:06:20
 - Commits: [1](#commits)
 
 ## Files
@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e9ed6a3`](https://github.com/sase-org/sase/commit/e9ed6a35011ead7e3c6f06b56a9c70b0ccc9bd05) | feat(ace): wire ,U to the Update panel and scoped preview | 2026-08-19 16:17:45 EDT |
+| — | `e9ed6a3` | feat(ace): wire ,U to the Update panel and scoped preview | 2026-08-19 16:17:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-r1.1](../bbugyi200.athena.sase-r1.1/README.md) | sase-r1 hood | active |
-| [sase-r1.2](../../sessions/bbugyi200.athena.sase-r1.2.md) (session · 3) | sase-r1 hood | active 3 |
-| [sase-r1.3](../bbugyi200.athena.sase-r1.3/README.md) | sase-r1 hood | active |
-| [sase-r1.4](../bbugyi200.athena.sase-r1.4/README.md) | sase-r1 hood | active |
-| [sase-r1.6](../bbugyi200.athena.sase-r1.6/README.md) | sase-r1 hood | active |
-| [sase-r1.7](../../sessions/bbugyi200.athena.sase-r1.7.md) (session · 5) | sase-r1 hood | active 5 |
-| [sase-r1.land](../bbugyi200.athena.sase-r1.land/README.md) | sase-r1 hood | active |
+| [sase-r1.1](../bbugyi200.athena.sase-r1.1/README.md) | sase-r1 hood | dismissed |
+| [sase-r1.2](../../sessions/bbugyi200.athena.sase-r1.2.md) (session · 3) | sase-r1 hood | dismissed 3 |
+| [sase-r1.3](../bbugyi200.athena.sase-r1.3/README.md) | sase-r1 hood | dismissed |
+| [sase-r1.4](../bbugyi200.athena.sase-r1.4/README.md) | sase-r1 hood | dismissed |
+| [sase-r1.6](../bbugyi200.athena.sase-r1.6/README.md) | sase-r1 hood | dismissed |
+| [sase-r1.7](../../sessions/bbugyi200.athena.sase-r1.7.md) (session · 5) | sase-r1 hood | dismissed 5 |
+| [sase-r1.land](../bbugyi200.athena.sase-r1.land/README.md) | sase-r1 hood | dismissed |
