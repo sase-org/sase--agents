@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6a774e519a4ab7aa52f346453ceca3bc"}
+{"commits":[{"committed_at":1795374888,"sha":"623c826812eef397bd0912d1d1002682a7570d22","subject":"feat(tui): show failure cause chips, times, and glyphs on Agents rows"}],"schema_version":2,"source_run_id":"run-6a774e519a4ab7aa52f346453ceca3bc"}
