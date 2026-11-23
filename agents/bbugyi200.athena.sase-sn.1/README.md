@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-sn](../../users/bbugyi200/machines/athena/hoods/sase-sn/README.md) / sase-sn.1
 
-**Global name:** `bbugyi200.athena.sase-sn.1` · **State:** active · **Source run:** `run-a110acaef0ca57ccaafed4ef1dce5f6b`
+**Global name:** `bbugyi200.athena.sase-sn.1` · **State:** dismissed · **Source run:** `run-a110acaef0ca57ccaafed4ef1dce5f6b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-sn
 
@@ -12,7 +12,7 @@
 - Epic: [sase-sn](https://github.com/sase-org/sase--beads/blob/main/pages/sase-sn/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-24T10:13:01.342345+00:00
+- Timing: 2026-08-24T06:12:42
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ca6e79`](https://github.com/sase-org/sase/commit/6ca6e798ed2277eab8e1741abc66b2117480f455) | fix(xprompt): honor text-block terminators in python scanners | 2026-08-24 07:06:02 EDT |
+| — | `6ca6e79` | fix(xprompt): honor text-block terminators in python scanners | 2026-08-24 07:06:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-sn.2](../../sessions/bbugyi200.athena.sase-sn.2.md) (session · 3) | sase-sn hood | active 2, failed 1 |
-| [sase-sn.3](../bbugyi200.athena.sase-sn.3/README.md) | sase-sn hood | active |
-| [sase-sn.4](../bbugyi200.athena.sase-sn.4/README.md) | sase-sn hood | active |
-| [sase-sn.5](../bbugyi200.athena.sase-sn.5/README.md) | sase-sn hood | active |
-| [sase-sn.6](../bbugyi200.athena.sase-sn.6/README.md) | sase-sn hood | active |
-| [sase-sn.land](../bbugyi200.athena.sase-sn.land/README.md) | sase-sn hood | active |
+| [sase-sn.2](../../sessions/bbugyi200.athena.sase-sn.2.md) (session · 3) | sase-sn hood | dismissed 2, failed 1 |
+| [sase-sn.3](../bbugyi200.athena.sase-sn.3/README.md) | sase-sn hood | dismissed |
+| [sase-sn.4](../bbugyi200.athena.sase-sn.4/README.md) | sase-sn hood | dismissed |
+| [sase-sn.5](../bbugyi200.athena.sase-sn.5/README.md) | sase-sn hood | dismissed |
+| [sase-sn.6](../bbugyi200.athena.sase-sn.6/README.md) | sase-sn hood | dismissed |
+| [sase-sn.land](../bbugyi200.athena.sase-sn.land/README.md) | sase-sn hood | dismissed |
