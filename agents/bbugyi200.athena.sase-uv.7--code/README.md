@@ -23,19 +23,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a615273`](https://github.com/sase-org/sase/commit/a615273b13a5e0615ddbbc6a6c3747c58c19f8f8) | feat(tui): hydrate list-shaped artifact records | 2026-08-27 16:16:41 EDT |
+| — | `a615273` | feat(tui): hydrate list-shaped artifact records | 2026-08-27 16:16:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-uv.1](../bbugyi200.athena.sase-uv.1/README.md) | sase-uv hood | active |
-| [sase-uv.2](../bbugyi200.athena.sase-uv.2/README.md) | sase-uv hood | active |
-| [sase-uv.3](../bbugyi200.athena.sase-uv.3/README.md) | sase-uv hood | active |
-| [sase-uv.4](../bbugyi200.athena.sase-uv.4/README.md) | sase-uv hood | active |
-| [sase-uv.5](../bbugyi200.athena.sase-uv.5/README.md) | sase-uv hood | active |
-| [sase-uv.6](../bbugyi200.athena.sase-uv.6/README.md) | sase-uv hood | active |
-| [sase-uv.8](../../sessions/bbugyi200.athena.sase-uv.8.md) (session · 3) | sase-uv hood | active 2, completed 1 |
+| [sase-uv.1](../bbugyi200.athena.sase-uv.1/README.md) | sase-uv hood | dismissed |
+| [sase-uv.2](../bbugyi200.athena.sase-uv.2/README.md) | sase-uv hood | dismissed |
+| [sase-uv.3](../bbugyi200.athena.sase-uv.3/README.md) | sase-uv hood | dismissed |
+| [sase-uv.4](../bbugyi200.athena.sase-uv.4/README.md) | sase-uv hood | dismissed |
+| [sase-uv.5](../bbugyi200.athena.sase-uv.5/README.md) | sase-uv hood | dismissed |
+| [sase-uv.6](../bbugyi200.athena.sase-uv.6/README.md) | sase-uv hood | dismissed |
+| [sase-uv.8](../../sessions/bbugyi200.athena.sase-uv.8.md) (session · 3) | sase-uv hood | completed 1, dismissed 2 |
 | [sase-uv.8](../bbugyi200.athena.sase-uv.8/README.md) | sase-uv hood | waiting |
-| [sase-uv.9](../bbugyi200.athena.sase-uv.9/README.md) | sase-uv hood | active |
-| [sase-uv.land](../../sessions/bbugyi200.athena.sase-uv.land.md) (session · 3) | sase-uv hood | active 2, failed 1 |
+| [sase-uv.9](../bbugyi200.athena.sase-uv.9/README.md) | sase-uv hood | dismissed |
+| [sase-uv.land](../../sessions/bbugyi200.athena.sase-uv.land.md) (session · 3) | sase-uv hood | dismissed 2, failed 1 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-um](../../users/bbugyi200/machines/athena/hoods/sase-um/README.md) / [sase-um.9.5.4](../../sessions/bbugyi200.athena.sase-um.9.5.4.md) / sase-um.9.5.4--plan
 
-**Global name:** `bbugyi200.athena.sase-um.9.5.4--plan` · **State:** active · **Source run:** `run-fe2bce65355e58dd2b3030e0fb87c68e`
+**Global name:** `bbugyi200.athena.sase-um.9.5.4--plan` · **State:** dismissed · **Source run:** `run-fe2bce65355e58dd2b3030e0fb87c68e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-um
 
@@ -12,7 +12,7 @@
 - Epic: [sase-um.9.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-um/sase-um.9.5.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-29T03:07:43.812837+00:00
+- Timing: 2026-08-28T23:07:43.812837 → 2026-08-28T23:47:48.012795
 - Commits: [1](#commits)
 
 ## Files
@@ -31,24 +31,24 @@
 |---|---|---|
 | [sase-um.9.5.1](../bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um.9.5 hood | dismissed |
 | [sase-um.9.5.2](../bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um.9.5 hood | dismissed |
-| [sase-um.9.5.3](../../sessions/bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um.9.5 hood | active 1, dismissed 2 |
-| [sase-um.9.5.5](../../sessions/bbugyi200.athena.sase-um.9.5.5.md) (session · 3) | sase-um.9.5 hood | active 1, dismissed 2 |
+| [sase-um.9.5.3](../../sessions/bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um.9.5 hood | dismissed 3 |
+| [sase-um.9.5.5](../../sessions/bbugyi200.athena.sase-um.9.5.5.md) (session · 3) | sase-um.9.5 hood | dismissed 3 |
 | [sase-um.9.5.land](../bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um.9.5 hood | dismissed |
 | [sase-um.9.1](../../sessions/bbugyi200.athena.sase-um.9.1.md) (session · 3) | sase-um.9 hood | completed 1, dismissed 2 |
 | [sase-um.9.2](../bbugyi200.athena.sase-um.9.2/README.md) | sase-um.9 hood | dismissed |
 | [sase-um.9.3](../bbugyi200.athena.sase-um.9.3/README.md) | sase-um.9 hood | dismissed |
 | [sase-um.9.4](../../sessions/bbugyi200.athena.sase-um.9.4.md) (session · 5) | sase-um.9 hood | dismissed 5 |
-| [sase-um.9.land](../../sessions/bbugyi200.athena.sase-um.9.land.md) (session · 3) | sase-um.9 hood | active 1, dismissed 2 |
+| [sase-um.9.land](../../sessions/bbugyi200.athena.sase-um.9.land.md) (session · 3) | sase-um.9 hood | dismissed 3 |
 | [sase-um.1](../../sessions/bbugyi200.athena.sase-um.1.md) (session · 2) | sase-um hood | completed 1, dismissed 1 |
-| [sase-um.2](../../sessions/bbugyi200.athena.sase-um.2.md) (session · 2) | sase-um hood | active 1, completed 1 |
+| [sase-um.2](../../sessions/bbugyi200.athena.sase-um.2.md) (session · 2) | sase-um hood | completed 1, dismissed 1 |
 | [sase-um.3](../bbugyi200.athena.sase-um.3/README.md) | sase-um hood | dismissed |
 | [sase-um.4](../bbugyi200.athena.sase-um.4/README.md) | sase-um hood | dismissed |
 | [sase-um.5](../../sessions/bbugyi200.athena.sase-um.5.md) (session · 2) | sase-um hood | dismissed 2 |
 | [sase-um.5.1.1](../bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um hood | dismissed |
 | [sase-um.5.1.2](../bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um hood | dismissed |
-| [sase-um.5.1.3](../../sessions/bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | active 15, dismissed 52 |
+| [sase-um.5.1.3](../../sessions/bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | dismissed 67 |
 | [sase-um.5.1.3](../bbugyi200.athena.sase-um.5.1.3/README.md) | sase-um hood | completed |
-| [sase-um.5.1.land](../../sessions/bbugyi200.athena.sase-um.5.1.land.md) (session · 7) | sase-um hood | active 1, dismissed 6 |
+| [sase-um.5.1.land](../../sessions/bbugyi200.athena.sase-um.5.1.land.md) (session · 7) | sase-um hood | dismissed 7 |
 | [sase-um.6](../bbugyi200.athena.sase-um.6/README.md) | sase-um hood | dismissed |
 | [sase-um.7](../bbugyi200.athena.sase-um.7/README.md) | sase-um hood | dismissed |
 | [sase-um.8](../bbugyi200.athena.sase-um.8/README.md) | sase-um hood | dismissed |

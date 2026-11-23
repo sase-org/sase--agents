@@ -22,18 +22,18 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a805b0d`](https://github.com/sase-org/sase/commit/a805b0da2f23de59d628c9c16ff4855fb68d8a02) | feat(agents): add bounded viewport loading | 2026-08-27 18:49:33 EDT |
+| — | `a805b0d` | feat(agents): add bounded viewport loading | 2026-08-27 18:49:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-uv.1](../bbugyi200.athena.sase-uv.1/README.md) | sase-uv hood | active |
-| [sase-uv.2](../bbugyi200.athena.sase-uv.2/README.md) | sase-uv hood | active |
-| [sase-uv.3](../bbugyi200.athena.sase-uv.3/README.md) | sase-uv hood | active |
-| [sase-uv.4](../bbugyi200.athena.sase-uv.4/README.md) | sase-uv hood | active |
-| [sase-uv.5](../bbugyi200.athena.sase-uv.5/README.md) | sase-uv hood | active |
-| [sase-uv.6](../bbugyi200.athena.sase-uv.6/README.md) | sase-uv hood | active |
-| [sase-uv.7](../../sessions/bbugyi200.athena.sase-uv.7.md) (session · 3) | sase-uv hood | active 2, completed 1 |
-| [sase-uv.9](../bbugyi200.athena.sase-uv.9/README.md) | sase-uv hood | active |
-| [sase-uv.land](../../sessions/bbugyi200.athena.sase-uv.land.md) (session · 3) | sase-uv hood | active 2, failed 1 |
+| [sase-uv.1](../bbugyi200.athena.sase-uv.1/README.md) | sase-uv hood | dismissed |
+| [sase-uv.2](../bbugyi200.athena.sase-uv.2/README.md) | sase-uv hood | dismissed |
+| [sase-uv.3](../bbugyi200.athena.sase-uv.3/README.md) | sase-uv hood | dismissed |
+| [sase-uv.4](../bbugyi200.athena.sase-uv.4/README.md) | sase-uv hood | dismissed |
+| [sase-uv.5](../bbugyi200.athena.sase-uv.5/README.md) | sase-uv hood | dismissed |
+| [sase-uv.6](../bbugyi200.athena.sase-uv.6/README.md) | sase-uv hood | dismissed |
+| [sase-uv.7](../../sessions/bbugyi200.athena.sase-uv.7.md) (session · 3) | sase-uv hood | completed 1, dismissed 2 |
+| [sase-uv.9](../bbugyi200.athena.sase-uv.9/README.md) | sase-uv hood | dismissed |
+| [sase-uv.land](../../sessions/bbugyi200.athena.sase-uv.land.md) (session · 3) | sase-uv hood | dismissed 2, failed 1 |

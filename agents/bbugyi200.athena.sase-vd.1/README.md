@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-vd](../../users/bbugyi200/machines/athena/hoods/sase-vd/README.md) / sase-vd.1
 
-**Global name:** `bbugyi200.athena.sase-vd.1` · **State:** active · **Source run:** `run-4b499dbe41bf530dc91c1516c0f9c31a`
+**Global name:** `bbugyi200.athena.sase-vd.1` · **State:** dismissed · **Source run:** `run-4b499dbe41bf530dc91c1516c0f9c31a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-vd
 
@@ -12,7 +12,7 @@
 - Epic: [sase-vd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-vd/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-28T22:07:59.012260+00:00
+- Timing: 2026-08-28T18:07:35
 - Commits: [1](#commits)
 
 ## Files
@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8426315`](https://github.com/sase-org/sase/commit/84263159f6499bf922e33ae58c7b4ce193e6698f) | feat(git-setup): adopt the runner's numbered workspace claim | 2026-08-28 18:44:44 EDT |
+| — | `8426315` | feat(git-setup): adopt the runner's numbered workspace claim | 2026-08-28 18:44:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-vd.2](../bbugyi200.athena.sase-vd.2/README.md) | sase-vd hood | active |
-| [sase-vd.3](../bbugyi200.athena.sase-vd.3/README.md) | sase-vd hood | active |
-| [sase-vd.4](../bbugyi200.athena.sase-vd.4/README.md) | sase-vd hood | active |
-| [sase-vd.5](../bbugyi200.athena.sase-vd.5/README.md) | sase-vd hood | active |
-| [sase-vd.land](../../sessions/bbugyi200.athena.sase-vd.land.md) (session · 3) | sase-vd hood | active 3 |
+| [sase-vd.2](../bbugyi200.athena.sase-vd.2/README.md) | sase-vd hood | dismissed |
+| [sase-vd.3](../bbugyi200.athena.sase-vd.3/README.md) | sase-vd hood | dismissed |
+| [sase-vd.4](../bbugyi200.athena.sase-vd.4/README.md) | sase-vd hood | dismissed |
+| [sase-vd.5](../bbugyi200.athena.sase-vd.5/README.md) | sase-vd hood | dismissed |
+| [sase-vd.land](../../sessions/bbugyi200.athena.sase-vd.land.md) (session · 3) | sase-vd hood | dismissed 3 |

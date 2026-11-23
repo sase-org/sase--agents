@@ -111,35 +111,35 @@ flowchart TD
   n0 --> n50
   n51["sase-um.5.1.3--mon-t [dismissed]"]
   n0 --> n51
-  n52["sase-um.5.1.3--mon-2 [active]"]
+  n52["sase-um.5.1.3--mon-2 [dismissed]"]
   n0 --> n52
-  n53["sase-um.5.1.3--mon-g [active]"]
+  n53["sase-um.5.1.3--mon-g [dismissed]"]
   n0 --> n53
-  n54["sase-um.5.1.3--3 [active]"]
+  n54["sase-um.5.1.3--3 [dismissed]"]
   n0 --> n54
-  n55["sase-um.5.1.3--mon-9 [active]"]
+  n55["sase-um.5.1.3--mon-9 [dismissed]"]
   n0 --> n55
-  n56["sase-um.5.1.3--mon-4 [active]"]
+  n56["sase-um.5.1.3--mon-4 [dismissed]"]
   n0 --> n56
-  n57["sase-um.5.1.3--x [active]"]
+  n57["sase-um.5.1.3--x [dismissed]"]
   n0 --> n57
-  n58["sase-um.5.1.3--mon-l [active]"]
+  n58["sase-um.5.1.3--mon-l [dismissed]"]
   n0 --> n58
-  n59["sase-um.5.1.3--9 [active]"]
+  n59["sase-um.5.1.3--9 [dismissed]"]
   n0 --> n59
-  n60["sase-um.5.1.3--mon-f [active]"]
+  n60["sase-um.5.1.3--mon-f [dismissed]"]
   n0 --> n60
-  n61["sase-um.5.1.3--mon-8 [active]"]
+  n61["sase-um.5.1.3--mon-8 [dismissed]"]
   n0 --> n61
-  n62["sase-um.5.1.3--5 [active]"]
+  n62["sase-um.5.1.3--5 [dismissed]"]
   n0 --> n62
-  n63["sase-um.5.1.3--mon-o [active]"]
+  n63["sase-um.5.1.3--mon-o [dismissed]"]
   n0 --> n63
-  n64["sase-um.5.1.3--h [active]"]
+  n64["sase-um.5.1.3--h [dismissed]"]
   n0 --> n64
-  n65["sase-um.5.1.3--mon-a [active]"]
+  n65["sase-um.5.1.3--mon-a [dismissed]"]
   n0 --> n65
-  n66["sase-um.5.1.3--a [active]"]
+  n66["sase-um.5.1.3--a [dismissed]"]
   n0 --> n66
 ```
 
@@ -199,21 +199,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-d"></a>d | sase-um.5.1.3--d | dismissed | gpt-5.5 / codex | 2026-08-27T22:49:54 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--d/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--d/chat.md) |
 | <a id="member-t"></a>t | sase-um.5.1.3--t | dismissed | gpt-5.5 / codex | 2026-08-28T02:12:48 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--t/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--t/chat.md) |
 | <a id="member-mon-t"></a>mon-t | sase-um.5.1.3--mon-t | dismissed | gpt-5.5 / codex | 2026-08-28T02:28:07 | 0 | — | — |
-| <a id="member-mon-2"></a>mon-2 | sase-um.5.1.3--mon-2 | active | gpt-5.5 / codex | 2026-08-28T00:44:57.301599+00:00 | 0 | — | — |
-| <a id="member-mon-g"></a>mon-g | sase-um.5.1.3--mon-g | active | gpt-5.5 / codex | 2026-08-28T03:42:38.584391+00:00 | 0 | — | — |
-| <a id="member-3"></a>3 | sase-um.5.1.3--3 | active | gpt-5.5 / codex | 2026-08-28T00:43:15.798639+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--3/chat.md) |
-| <a id="member-mon-9"></a>mon-9 | sase-um.5.1.3--mon-9 | active | gpt-5.5 / codex | 2026-08-28T02:14:18.611622+00:00 | 0 | — | — |
-| <a id="member-mon-4"></a>mon-4 | sase-um.5.1.3--mon-4 | active | gpt-5.5 / codex | 2026-08-28T01:10:29.078911+00:00 | 0 | — | — |
-| <a id="member-x"></a>x | sase-um.5.1.3--x | active | gpt-5.5 / codex | 2026-08-28T07:13:14.074375+00:00 | [1](../agents/bbugyi200.athena.sase-um.5.1.3--x/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--x/prompt.md) | — |
-| <a id="member-mon-l"></a>mon-l | sase-um.5.1.3--mon-l | active | gpt-5.5 / codex | 2026-08-28T04:45:54.823858+00:00 | 0 | — | — |
-| <a id="member-9"></a>9 | sase-um.5.1.3--9 | active | gpt-5.5 / codex | 2026-08-28T01:59:26.159162+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--9/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--9/chat.md) |
-| <a id="member-mon-f"></a>mon-f | sase-um.5.1.3--mon-f | active | gpt-5.5 / codex | 2026-08-28T03:30:06.404449+00:00 | 0 | — | — |
-| <a id="member-mon-8"></a>mon-8 | sase-um.5.1.3--mon-8 | active | gpt-5.5 / codex | 2026-08-28T02:01:20.801981+00:00 | 0 | — | — |
-| <a id="member-5"></a>5 | sase-um.5.1.3--5 | active | gpt-5.5 / codex | 2026-08-28T01:08:28.553701+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--5/chat.md) |
-| <a id="member-mon-o"></a>mon-o | sase-um.5.1.3--mon-o | active | gpt-5.5 / codex | 2026-08-28T05:24:41.429185+00:00 | 0 | — | — |
-| <a id="member-h"></a>h | sase-um.5.1.3--h | active | gpt-5.5 / codex | 2026-08-28T03:40:50.228553+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--h/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--h/chat.md) |
-| <a id="member-mon-a"></a>mon-a | sase-um.5.1.3--mon-a | active | gpt-5.5 / codex | 2026-08-28T02:26:59.684296+00:00 | 0 | — | — |
-| <a id="member-a"></a>a | sase-um.5.1.3--a | active | gpt-5.5 / codex | 2026-08-28T02:12:08.692126+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--a/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--a/chat.md) |
+| <a id="member-mon-2"></a>mon-2 | sase-um.5.1.3--mon-2 | dismissed | gpt-5.5 / codex | 2026-08-27T20:44:57 | 0 | — | — |
+| <a id="member-mon-g"></a>mon-g | sase-um.5.1.3--mon-g | dismissed | gpt-5.5 / codex | 2026-08-27T23:42:38 | 0 | — | — |
+| <a id="member-3"></a>3 | sase-um.5.1.3--3 | dismissed | gpt-5.5 / codex | 2026-08-27T20:42:39 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--3/chat.md) |
+| <a id="member-mon-9"></a>mon-9 | sase-um.5.1.3--mon-9 | dismissed | gpt-5.5 / codex | 2026-08-27T22:14:18 | 0 | — | — |
+| <a id="member-mon-4"></a>mon-4 | sase-um.5.1.3--mon-4 | dismissed | gpt-5.5 / codex | 2026-08-27T21:10:29 | 0 | — | — |
+| <a id="member-x"></a>x | sase-um.5.1.3--x | dismissed | gpt-5.5 / codex | 2026-08-28T03:12:38 | [1](../agents/bbugyi200.athena.sase-um.5.1.3--x/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--x/prompt.md) | — |
+| <a id="member-mon-l"></a>mon-l | sase-um.5.1.3--mon-l | dismissed | gpt-5.5 / codex | 2026-08-28T00:45:54 | 0 | — | — |
+| <a id="member-9"></a>9 | sase-um.5.1.3--9 | dismissed | gpt-5.5 / codex | 2026-08-27T21:58:51 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--9/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--9/chat.md) |
+| <a id="member-mon-f"></a>mon-f | sase-um.5.1.3--mon-f | dismissed | gpt-5.5 / codex | 2026-08-27T23:30:06 | 0 | — | — |
+| <a id="member-mon-8"></a>mon-8 | sase-um.5.1.3--mon-8 | dismissed | gpt-5.5 / codex | 2026-08-27T22:01:20 | 0 | — | — |
+| <a id="member-5"></a>5 | sase-um.5.1.3--5 | dismissed | gpt-5.5 / codex | 2026-08-27T21:07:51 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--5/chat.md) |
+| <a id="member-mon-o"></a>mon-o | sase-um.5.1.3--mon-o | dismissed | gpt-5.5 / codex | 2026-08-28T01:24:41 | 0 | — | — |
+| <a id="member-h"></a>h | sase-um.5.1.3--h | dismissed | gpt-5.5 / codex | 2026-08-27T23:40:14 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--h/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--h/chat.md) |
+| <a id="member-mon-a"></a>mon-a | sase-um.5.1.3--mon-a | dismissed | gpt-5.5 / codex | 2026-08-27T22:26:59 | 0 | — | — |
+| <a id="member-a"></a>a | sase-um.5.1.3--a | dismissed | gpt-5.5 / codex | 2026-08-27T22:11:29 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--a/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--a/chat.md) |
 
 ## Commits
 
@@ -235,9 +235,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-um.5](bbugyi200.athena.sase-um.5.md) (session · 2) | ancestor | dismissed 2 |
 | [sase-um.5.1.1](../agents/bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um.5.1 hood | dismissed |
 | [sase-um.5.1.2](../agents/bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um.5.1 hood | dismissed |
-| [sase-um.5.1.land](bbugyi200.athena.sase-um.5.1.land.md) (session · 7) | sase-um.5.1 hood | active 1, dismissed 6 |
+| [sase-um.5.1.land](bbugyi200.athena.sase-um.5.1.land.md) (session · 7) | sase-um.5.1 hood | dismissed 7 |
 | [sase-um.1](bbugyi200.athena.sase-um.1.md) (session · 2) | sase-um hood | completed 1, dismissed 1 |
-| [sase-um.2](bbugyi200.athena.sase-um.2.md) (session · 2) | sase-um hood | active 1, completed 1 |
+| [sase-um.2](bbugyi200.athena.sase-um.2.md) (session · 2) | sase-um hood | completed 1, dismissed 1 |
 | [sase-um.3](../agents/bbugyi200.athena.sase-um.3/README.md) | sase-um hood | dismissed |
 | [sase-um.4](../agents/bbugyi200.athena.sase-um.4/README.md) | sase-um hood | dismissed |
 | [sase-um.6](../agents/bbugyi200.athena.sase-um.6/README.md) | sase-um hood | dismissed |
@@ -249,9 +249,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-um.9.4](bbugyi200.athena.sase-um.9.4.md) (session · 5) | sase-um hood | dismissed 5 |
 | [sase-um.9.5.1](../agents/bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um hood | dismissed |
 | [sase-um.9.5.2](../agents/bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um hood | dismissed |
-| [sase-um.9.5.3](bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um hood | active 1, dismissed 2 |
-| [sase-um.9.5.4](bbugyi200.athena.sase-um.9.5.4.md) (session · 17) | sase-um hood | active 5, dismissed 12 |
-| [sase-um.9.5.5](bbugyi200.athena.sase-um.9.5.5.md) (session · 3) | sase-um hood | active 1, dismissed 2 |
+| [sase-um.9.5.3](bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um hood | dismissed 3 |
+| [sase-um.9.5.4](bbugyi200.athena.sase-um.9.5.4.md) (session · 17) | sase-um hood | dismissed 17 |
+| [sase-um.9.5.5](bbugyi200.athena.sase-um.9.5.5.md) (session · 3) | sase-um hood | dismissed 3 |
 | [sase-um.9.5.land](../agents/bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um hood | dismissed |
-| [sase-um.9.land](bbugyi200.athena.sase-um.9.land.md) (session · 3) | sase-um hood | active 1, dismissed 2 |
+| [sase-um.9.land](bbugyi200.athena.sase-um.9.land.md) (session · 3) | sase-um hood | dismissed 3 |
 | [sase-um.land](bbugyi200.athena.sase-um.land.md) (session · 3) | sase-um hood | dismissed 3 |
