@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-ug` · Members: 3 · Bead: [sase-ug.8](
 
 ```mermaid
 flowchart TD
-  n0["sase-ug.8--plan [active]"]
-  n1["sase-ug.8--1 [active]"]
+  n0["sase-ug.8--plan [dismissed]"]
+  n1["sase-ug.8--1 [dismissed]"]
   n0 --> n1
   n2["sase-ug.8--mon [failed]"]
   n0 --> n2
@@ -19,28 +19,28 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-ug.8--plan | active | sonnet / claude | 2026-08-27T03:48:16.819586+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ug.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ug.8--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-ug.8--1 | active | sonnet / claude | 2026-08-27T05:02:12.770943+00:00 | [1](../agents/bbugyi200.athena.sase-ug.8--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ug.8--1/prompt.md) | — |
+| <a id="member-plan"></a>plan | sase-ug.8--plan | dismissed | sonnet / claude | 2026-08-26T19:48:11 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ug.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ug.8--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-ug.8--1 | dismissed | sonnet / claude | 2026-08-27T01:01:33 | [1](../agents/bbugyi200.athena.sase-ug.8--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ug.8--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-ug.8--mon | failed | sonnet / claude | 2026-08-27T04:47:15.634220+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ug.8--mon/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`d8e8b5a`](https://github.com/sase-org/sase/commit/d8e8b5ab8ed264a983fd892b29d8e6f752428a93) | feat(tui): add app-level link trail for Ctrl+O/Ctrl+Shift+O across tabs | 2026-08-27 01:04:08 EDT |
+| 1 | — | `d8e8b5a` | feat(tui): add app-level link trail for Ctrl+O/Ctrl+Shift+O across tabs | 2026-08-27 01:04:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ug.1](../agents/bbugyi200.athena.sase-ug.1/README.md) | sase-ug hood | active |
-| [sase-ug.10](../agents/bbugyi200.athena.sase-ug.10/README.md) | sase-ug hood | active |
-| [sase-ug.2](../agents/bbugyi200.athena.sase-ug.2/README.md) | sase-ug hood | active |
-| [sase-ug.3](bbugyi200.athena.sase-ug.3.md) (session · 6) | sase-ug hood | active 4, completed 1, failed 1 |
-| [sase-ug.4](../agents/bbugyi200.athena.sase-ug.4/README.md) | sase-ug hood | active |
-| [sase-ug.5](../agents/bbugyi200.athena.sase-ug.5/README.md) | sase-ug hood | active |
-| [sase-ug.6](../agents/bbugyi200.athena.sase-ug.6/README.md) | sase-ug hood | active |
-| [sase-ug.7](bbugyi200.athena.sase-ug.7.md) (session · 2) | sase-ug hood | active 1, completed 1 |
-| [sase-ug.9](../agents/bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | active |
-| [sase-ug.land](bbugyi200.athena.sase-ug.land.md) (session · 9) | sase-ug hood | active 5, failed 4 |
+| [sase-ug.1](../agents/bbugyi200.athena.sase-ug.1/README.md) | sase-ug hood | dismissed |
+| [sase-ug.10](../agents/bbugyi200.athena.sase-ug.10/README.md) | sase-ug hood | dismissed |
+| [sase-ug.2](../agents/bbugyi200.athena.sase-ug.2/README.md) | sase-ug hood | dismissed |
+| [sase-ug.3](bbugyi200.athena.sase-ug.3.md) (session · 6) | sase-ug hood | completed 1, dismissed 4, failed 1 |
+| [sase-ug.4](../agents/bbugyi200.athena.sase-ug.4/README.md) | sase-ug hood | dismissed |
+| [sase-ug.5](../agents/bbugyi200.athena.sase-ug.5/README.md) | sase-ug hood | dismissed |
+| [sase-ug.6](../agents/bbugyi200.athena.sase-ug.6/README.md) | sase-ug hood | dismissed |
+| [sase-ug.7](bbugyi200.athena.sase-ug.7.md) (session · 2) | sase-ug hood | completed 1, dismissed 1 |
+| [sase-ug.9](../agents/bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | dismissed |
+| [sase-ug.land](bbugyi200.athena.sase-ug.land.md) (session · 9) | sase-ug hood | dismissed 5, failed 4 |
 | [sase-ug.land](../agents/bbugyi200.athena.sase-ug.land/README.md) | sase-ug hood | waiting |

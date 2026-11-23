@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eaf4ea8`](https://github.com/sase-org/sase/commit/eaf4ea8919058d4ae5494b56be8007d128b70b26) | test(ace-tui-visual): route Artifacts digit presses through the live seam and rebaseline PNG goldens | 2026-08-27 09:11:16 EDT |
+| — | `eaf4ea8` | test(ace-tui-visual): route Artifacts digit presses through the live seam and rebaseline PNG goldens | 2026-08-27 09:11:16 EDT |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-um.5](../../sessions/bbugyi200.athena.sase-um.5.md) (session · 2) | ancestor | active 2 |
 | [sase-um.5.1.1](../bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um.5.1 hood | active |
-| [sase-um.5.1.3](../../sessions/bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um.5.1 hood | active 67 |
+| [sase-um.5.1.3](../../sessions/bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um.5.1 hood | active 66, dismissed 1 |
 | [sase-um.5.1.3](../bbugyi200.athena.sase-um.5.1.3/README.md) | sase-um.5.1 hood | completed |
 | [sase-um.5.1.land](../../sessions/bbugyi200.athena.sase-um.5.1.land.md) (session · 7) | sase-um.5.1 hood | active 6, waiting 1 |
 | [sase-um.1](../../sessions/bbugyi200.athena.sase-um.1.md) (session · 2) | sase-um hood | active 1, completed 1 |
@@ -47,7 +47,7 @@
 | [sase-um.9.4](../../sessions/bbugyi200.athena.sase-um.9.4.md) (session · 5) | sase-um hood | active 5 |
 | [sase-um.9.5.1](../bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um hood | active |
 | [sase-um.9.5.2](../bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um hood | active |
-| [sase-um.9.5.3](../../sessions/bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um hood | active 3 |
+| [sase-um.9.5.3](../../sessions/bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um hood | active 2, dismissed 1 |
 | [sase-um.9.5.4](../../sessions/bbugyi200.athena.sase-um.9.5.4.md) (session · 17) | sase-um hood | active 17 |
 | [sase-um.9.5.5](../../sessions/bbugyi200.athena.sase-um.9.5.5.md) (session · 3) | sase-um hood | active 3 |
 | [sase-um.9.5.land](../bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um hood | active |

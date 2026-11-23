@@ -69,13 +69,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | sase | [`e856c68`](https://github.com/sase-org/sase/commit/e856c68041ecee74e0a33836a86417a6d95d0a88) | fix(ace): reflow panel tabs after layout settles | 2026-08-28 23:43:28 EDT |
-| 1 | sase | [`49d6c41`](https://github.com/sase-org/sase/commit/49d6c4188d1a282a73f600d334aca67718a7a81c) | test(agents-sync): harden cross-machine clone against auto-gc races | 2026-08-29 00:02:49 EDT |
-| 3 | sase | [`c1a5b36`](https://github.com/sase-org/sase/commit/c1a5b36f5faf6f014d9d0bddea435a4e9fc4b0ee) | fix(pipe): inherit the parent model when a successor has no %model | 2026-08-29 03:04:20 EDT |
-| 4 | sase | [`ca7692e`](https://github.com/sase-org/sase/commit/ca7692ee3329b17ef1e176e5deb95dadbc3cfc3a) | test(agent): stub pid\_is\_thread so fixture PIDs survive host TID collisions | 2026-08-29 04:57:19 EDT |
-| 5 | sase | [`4a8b835`](https://github.com/sase-org/sase/commit/4a8b8358fdb55ef9f19c397959ed364dd50ea1c9) | test(ace): wait for TUI settle in CI-flaky flags and plugin tests | 2026-08-29 07:14:17 EDT |
-| 6 | sase | [`60043de`](https://github.com/sase-org/sase/commit/60043deb95c5a2c730e278bd744462218de94d2b) | test(ace): capture only the sase-update restart poll timer | 2026-08-29 09:14:16 EDT |
-| 7 | sase | [`25565fc`](https://github.com/sase-org/sase/commit/25565fca12325aa6507a6f144b81d9add550ae71) | fix(ci): ratchet core 0.32.16 and harden archive-start waits | 2026-08-29 11:59:33 EDT |
+| plan | — | `e856c68` | fix(ace): reflow panel tabs after layout settles | 2026-08-28 23:43:28 EDT |
+| 1 | — | `49d6c41` | test(agents-sync): harden cross-machine clone against auto-gc races | 2026-08-29 00:02:49 EDT |
+| 3 | — | `c1a5b36` | fix(pipe): inherit the parent model when a successor has no %model | 2026-08-29 03:04:20 EDT |
+| 4 | — | `ca7692e` | test(agent): stub pid\_is\_thread so fixture PIDs survive host TID collisions | 2026-08-29 04:57:19 EDT |
+| 5 | — | `4a8b835` | test(ace): wait for TUI settle in CI-flaky flags and plugin tests | 2026-08-29 07:14:17 EDT |
+| 6 | — | `60043de` | test(ace): capture only the sase-update restart poll timer | 2026-08-29 09:14:16 EDT |
+| 7 | — | `25565fc` | fix(ci): ratchet core 0.32.16 and harden archive-start waits | 2026-08-29 11:59:33 EDT |
 
 ## Neighbors
 
@@ -83,7 +83,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-um.9.5.1](../agents/bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um.9.5 hood | active |
 | [sase-um.9.5.2](../agents/bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um.9.5 hood | active |
-| [sase-um.9.5.3](bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um.9.5 hood | active 3 |
+| [sase-um.9.5.3](bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um.9.5 hood | active 2, dismissed 1 |
 | [sase-um.9.5.5](bbugyi200.athena.sase-um.9.5.5.md) (session · 3) | sase-um.9.5 hood | active 3 |
 | [sase-um.9.5.land](../agents/bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um.9.5 hood | active |
 | [sase-um.9.1](bbugyi200.athena.sase-um.9.1.md) (session · 3) | sase-um.9 hood | active 2, completed 1 |
@@ -98,7 +98,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-um.5](bbugyi200.athena.sase-um.5.md) (session · 2) | sase-um hood | active 2 |
 | [sase-um.5.1.1](../agents/bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um hood | active |
 | [sase-um.5.1.2](../agents/bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um hood | active |
-| [sase-um.5.1.3](bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | active 67 |
+| [sase-um.5.1.3](bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | active 66, dismissed 1 |
 | [sase-um.5.1.3](../agents/bbugyi200.athena.sase-um.5.1.3/README.md) | sase-um hood | completed |
 | [sase-um.5.1.land](bbugyi200.athena.sase-um.5.1.land.md) (session · 7) | sase-um hood | active 6, waiting 1 |
 | [sase-um.6](../agents/bbugyi200.athena.sase-um.6/README.md) | sase-um hood | active |

@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-um` · Members: 67 · Bead: [sase-um.5.
 
 ```mermaid
 flowchart TD
-  n0["sase-um.5.1.3--mon-h [active]"]
+  n0["sase-um.5.1.3--mon-h [dismissed]"]
   n1["sase-um.5.1.3--e [active]"]
   n0 --> n1
   n2["sase-um.5.1.3--k [active]"]
@@ -147,7 +147,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon-h"></a>mon-h | sase-um.5.1.3--mon-h | active | gpt-5.5 / codex | 2026-08-28T03:55:23.919374+00:00 | 0 | — | — |
+| <a id="member-mon-h"></a>mon-h | sase-um.5.1.3--mon-h | dismissed | gpt-5.5 / codex | 2026-08-27T23:55:23 | 0 | — | — |
 | <a id="member-e"></a>e | sase-um.5.1.3--e | active | gpt-5.5 / codex | 2026-08-28T03:03:06.943536+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--e/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--e/chat.md) |
 | <a id="member-k"></a>k | sase-um.5.1.3--k | active | gpt-5.5 / codex | 2026-08-28T04:18:51.617310+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--k/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--k/chat.md) |
 | <a id="member-b"></a>b | sase-um.5.1.3--b | active | gpt-5.5 / codex | 2026-08-28T02:25:12.452365+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--b/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--b/chat.md) |
@@ -219,14 +219,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | sase | [`95444f8`](https://github.com/sase-org/sase/commit/95444f8685283a0635310688a7fa0906d5f4b709) | test(suite-gate): clear parent shard for scaled children | 2026-08-27 11:03:54 EDT |
-| plan | sase | [`612cabf`](https://github.com/sase-org/sase/commit/612cabf85a786d9bd2beedbb6556788f6869e70e) | fix(agent): carry process identity through scan liveness | 2026-08-27 12:52:13 EDT |
-| plan | sase | [`8690fe2`](https://github.com/sase-org/sase/commit/8690fe23a096538bd8c40115028b70a038d95771) | test(sdd): restore checkout marker facade after project-key tests | 2026-08-27 13:38:31 EDT |
-| plan | sase | [`5f06c64`](https://github.com/sase-org/sase/commit/5f06c647359cd3362f913d1e9fac3164ad99fc58) | chore(core): ratchet pinned core to v0.32.10 | 2026-08-27 15:27:30 EDT |
-| plan | sase | [`4d31563`](https://github.com/sase-org/sase/commit/4d315636322392d692e737651c6d10174ed7d81c) | fix(agent): restore logical planner projection rows | 2026-08-27 17:13:56 EDT |
-| plan | sase | [`ebdc9dd`](https://github.com/sase-org/sase/commit/ebdc9dda0c316fb8403d77e42efbbfdef7ada8de) | test(perf): isolate view-hints trace harness | 2026-08-27 18:38:42 EDT |
-| plan | sase | [`69527b8`](https://github.com/sase-org/sase/commit/69527b84a5d139087ff7ae997625ce529812b22c) | fix(agents): preserve planner projection status | 2026-08-27 19:50:12 EDT |
-| x | sase | [`30b495e`](https://github.com/sase-org/sase/commit/30b495e66613e707ac43a7d7641aac869795d9c1) | fix(tui): defer confirm dialog default focus | 2026-08-28 03:15:19 EDT |
+| plan | — | `95444f8` | test(suite-gate): clear parent shard for scaled children | 2026-08-27 11:03:54 EDT |
+| plan | — | `612cabf` | fix(agent): carry process identity through scan liveness | 2026-08-27 12:52:13 EDT |
+| plan | — | `8690fe2` | test(sdd): restore checkout marker facade after project-key tests | 2026-08-27 13:38:31 EDT |
+| plan | — | `5f06c64` | chore(core): ratchet pinned core to v0.32.10 | 2026-08-27 15:27:30 EDT |
+| plan | — | `4d31563` | fix(agent): restore logical planner projection rows | 2026-08-27 17:13:56 EDT |
+| plan | — | `ebdc9dd` | test(perf): isolate view-hints trace harness | 2026-08-27 18:38:42 EDT |
+| plan | — | `69527b8` | fix(agents): preserve planner projection status | 2026-08-27 19:50:12 EDT |
+| x | — | `30b495e` | fix(tui): defer confirm dialog default focus | 2026-08-28 03:15:19 EDT |
 
 ## Neighbors
 
@@ -249,7 +249,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-um.9.4](bbugyi200.athena.sase-um.9.4.md) (session · 5) | sase-um hood | active 5 |
 | [sase-um.9.5.1](../agents/bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um hood | active |
 | [sase-um.9.5.2](../agents/bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um hood | active |
-| [sase-um.9.5.3](bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um hood | active 3 |
+| [sase-um.9.5.3](bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um hood | active 2, dismissed 1 |
 | [sase-um.9.5.4](bbugyi200.athena.sase-um.9.5.4.md) (session · 17) | sase-um hood | active 17 |
 | [sase-um.9.5.5](bbugyi200.athena.sase-um.9.5.5.md) (session · 3) | sase-um hood | active 3 |
 | [sase-um.9.5.land](../agents/bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um hood | active |

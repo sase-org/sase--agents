@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-um` · Members: 3 · Bead: [sase-um.9.5
 
 ```mermaid
 flowchart TD
-  n0["sase-um.9.5.3--mon [active]"]
+  n0["sase-um.9.5.3--mon [dismissed]"]
   n1["sase-um.9.5.3--plan [active]"]
   n0 --> n1
   n2["sase-um.9.5.3--1 [active]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-um.9.5.3--mon | active | grok-4.6 / grok | 2026-08-29T01:24:47.170783+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-um.9.5.3--mon/chat.md) |
+| <a id="member-mon"></a>mon | sase-um.9.5.3--mon | dismissed | grok-4.6 / grok | 2026-08-28T21:24:47.170783 → 2026-08-28T22:32:33.199270 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-um.9.5.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-um.9.5.3--plan | active | grok-4.6 / grok | 2026-08-29T01:03:47.966017+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.9.5.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.9.5.3--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-um.9.5.3--1 | active | grok-4.6 / grok | 2026-08-29T02:33:11.262056+00:00 | [1](../agents/bbugyi200.athena.sase-um.9.5.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-um.9.5.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.9.5.3--1/chat.md) |
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`6237888`](https://github.com/sase-org/sase/commit/6237888953d823c5a382c78e4f1d388b5357c627) | fix(ci): ratchet core 0.32.15 and stop GitHub CPU false fails | 2026-08-28 23:04:15 EDT |
+| 1 | — | `6237888` | fix(ci): ratchet core 0.32.15 and stop GitHub CPU false fails | 2026-08-28 23:04:15 EDT |
 
 ## Neighbors
 
@@ -50,7 +50,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-um.5](bbugyi200.athena.sase-um.5.md) (session · 2) | sase-um hood | active 2 |
 | [sase-um.5.1.1](../agents/bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um hood | active |
 | [sase-um.5.1.2](../agents/bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um hood | active |
-| [sase-um.5.1.3](bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | active 67 |
+| [sase-um.5.1.3](bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | active 66, dismissed 1 |
 | [sase-um.5.1.3](../agents/bbugyi200.athena.sase-um.5.1.3/README.md) | sase-um hood | completed |
 | [sase-um.5.1.land](bbugyi200.athena.sase-um.5.1.land.md) (session · 7) | sase-um hood | active 6, waiting 1 |
 | [sase-um.6](../agents/bbugyi200.athena.sase-um.6/README.md) | sase-um hood | active |

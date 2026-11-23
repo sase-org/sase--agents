@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-uk](../../users/bbugyi200/machines/athena/hoods/sase-uk/README.md) / sase-uk.5
 
-**Global name:** `bbugyi200.athena.sase-uk.5` · **State:** active · **Source run:** `run-c494bbc3fdf40de9d2b856f6f7a22953`
+**Global name:** `bbugyi200.athena.sase-uk.5` · **State:** dismissed · **Source run:** `run-c494bbc3fdf40de9d2b856f6f7a22953`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-uk
 
@@ -12,7 +12,7 @@
 - Epic: [sase-uk](https://github.com/sase-org/sase--beads/blob/main/pages/sase-uk/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-27T00:27:39.349686+00:00
+- Timing: 2026-08-26T17:46:19
 - Commits: [1](#commits)
 
 ## Files
@@ -23,19 +23,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`699037f`](https://github.com/sase-org/sase/commit/699037f215b69128b8e49a5ccd7a2c588b002c27) | feat(pager): add link resolution and follow/copy/edit actions | 2026-08-26 21:19:08 EDT |
+| — | `699037f` | feat(pager): add link resolution and follow/copy/edit actions | 2026-08-26 21:19:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-uk.1](../bbugyi200.athena.sase-uk.1/README.md) | sase-uk hood | active |
-| [sase-uk.10](../bbugyi200.athena.sase-uk.10/README.md) | sase-uk hood | active |
-| [sase-uk.2](../bbugyi200.athena.sase-uk.2/README.md) | sase-uk hood | active |
-| [sase-uk.3](../../sessions/bbugyi200.athena.sase-uk.3.md) (session · 3) | sase-uk hood | active 3 |
-| [sase-uk.4](../bbugyi200.athena.sase-uk.4/README.md) | sase-uk hood | active |
-| [sase-uk.6](../bbugyi200.athena.sase-uk.6/README.md) | sase-uk hood | active |
-| [sase-uk.7](../bbugyi200.athena.sase-uk.7/README.md) | sase-uk hood | active |
-| [sase-uk.8](../bbugyi200.athena.sase-uk.8/README.md) | sase-uk hood | active |
-| [sase-uk.9](../bbugyi200.athena.sase-uk.9/README.md) | sase-uk hood | active |
-| [sase-uk.land](../../sessions/bbugyi200.athena.sase-uk.land.md) (session · 3) | sase-uk hood | active 2, failed 1 |
+| [sase-uk.1](../bbugyi200.athena.sase-uk.1/README.md) | sase-uk hood | dismissed |
+| [sase-uk.10](../bbugyi200.athena.sase-uk.10/README.md) | sase-uk hood | dismissed |
+| [sase-uk.2](../bbugyi200.athena.sase-uk.2/README.md) | sase-uk hood | dismissed |
+| [sase-uk.3](../../sessions/bbugyi200.athena.sase-uk.3.md) (session · 3) | sase-uk hood | dismissed 3 |
+| [sase-uk.4](../bbugyi200.athena.sase-uk.4/README.md) | sase-uk hood | dismissed |
+| [sase-uk.6](../bbugyi200.athena.sase-uk.6/README.md) | sase-uk hood | dismissed |
+| [sase-uk.7](../bbugyi200.athena.sase-uk.7/README.md) | sase-uk hood | dismissed |
+| [sase-uk.8](../bbugyi200.athena.sase-uk.8/README.md) | sase-uk hood | dismissed |
+| [sase-uk.9](../bbugyi200.athena.sase-uk.9/README.md) | sase-uk hood | dismissed |
+| [sase-uk.land](../../sessions/bbugyi200.athena.sase-uk.land.md) (session · 3) | sase-uk hood | dismissed 2, failed 1 |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6237888`](https://github.com/sase-org/sase/commit/6237888953d823c5a382c78e4f1d388b5357c627) | fix(ci): ratchet core 0.32.15 and stop GitHub CPU false fails | 2026-08-28 23:04:15 EDT |
+| — | `6237888` | fix(ci): ratchet core 0.32.15 and stop GitHub CPU false fails | 2026-08-28 23:04:15 EDT |
 
 ## Neighbors
 
@@ -45,7 +45,7 @@
 | [sase-um.5](../../sessions/bbugyi200.athena.sase-um.5.md) (session · 2) | sase-um hood | active 2 |
 | [sase-um.5.1.1](../bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um hood | active |
 | [sase-um.5.1.2](../bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um hood | active |
-| [sase-um.5.1.3](../../sessions/bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | active 67 |
+| [sase-um.5.1.3](../../sessions/bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | active 66, dismissed 1 |
 | [sase-um.5.1.3](../bbugyi200.athena.sase-um.5.1.3/README.md) | sase-um hood | completed |
 | [sase-um.5.1.land](../../sessions/bbugyi200.athena.sase-um.5.1.land.md) (session · 7) | sase-um hood | active 6, waiting 1 |
 | [sase-um.6](../bbugyi200.athena.sase-um.6/README.md) | sase-um hood | active |

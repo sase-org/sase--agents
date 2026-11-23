@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-um](../../users/bbugyi200/machines/athena/hoods/sase-um/README.md) / [sase-um.5.1.3](../../sessions/bbugyi200.athena.sase-um.5.1.3.md) / sase-um.5.1.3--mon-h
 
-**Global name:** `bbugyi200.athena.sase-um.5.1.3--mon-h` · **State:** active · **Source run:** `run-05b72b192864e5d95017f0f67b18eabd`
+**Global name:** `bbugyi200.athena.sase-um.5.1.3--mon-h` · **State:** dismissed · **Source run:** `run-05b72b192864e5d95017f0f67b18eabd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-um
 
@@ -11,7 +11,7 @@
 - Bead: [sase-um.5.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-um/sase-um.5.1.3.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-28T03:55:23.919374+00:00
+- Timing: 2026-08-27T23:55:23
 - Commits: 0
 
 ## Neighbors
@@ -35,7 +35,7 @@
 | [sase-um.9.4](../../sessions/bbugyi200.athena.sase-um.9.4.md) (session · 5) | sase-um hood | active 5 |
 | [sase-um.9.5.1](../bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um hood | active |
 | [sase-um.9.5.2](../bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um hood | active |
-| [sase-um.9.5.3](../../sessions/bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um hood | active 3 |
+| [sase-um.9.5.3](../../sessions/bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um hood | active 2, dismissed 1 |
 | [sase-um.9.5.4](../../sessions/bbugyi200.athena.sase-um.9.5.4.md) (session · 17) | sase-um hood | active 17 |
 | [sase-um.9.5.5](../../sessions/bbugyi200.athena.sase-um.9.5.5.md) (session · 3) | sase-um hood | active 3 |
 | [sase-um.9.5.land](../bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um hood | active |

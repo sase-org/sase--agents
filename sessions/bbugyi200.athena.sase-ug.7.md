@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ug` · Members: 2 · Bead: [sase-ug.7](
 
 ```mermaid
 flowchart TD
-  n0["sase-ug.7--plan [active]"]
+  n0["sase-ug.7--plan [dismissed]"]
   n1["sase-ug.7--code [completed]"]
   n0 --> n1
 ```
@@ -17,27 +17,27 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-ug.7--plan | active | opus / claude | 2026-08-27T02:27:13.894206+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ug.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ug.7--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-ug.7--plan | dismissed | opus / claude | 2026-08-26T19:48:10 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ug.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ug.7--plan/chat.md) |
 | <a id="member-code"></a>code | sase-ug.7--code | completed | gpt-5.5 / codex | 2026-08-27T02:39:55.096565+00:00 → 2026-08-27T03:47:51.953220+00:00 | [1](../agents/bbugyi200.athena.sase-ug.7--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-ug.7--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d070280`](https://github.com/sase-org/sase/commit/d07028050cb831849d1e666ab267a39223779f9b) | feat(tui): add link-follow key grammar | 2026-08-26 23:45:35 EDT |
+| code | — | `d070280` | feat(tui): add link-follow key grammar | 2026-08-26 23:45:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ug.1](../agents/bbugyi200.athena.sase-ug.1/README.md) | sase-ug hood | active |
-| [sase-ug.10](../agents/bbugyi200.athena.sase-ug.10/README.md) | sase-ug hood | active |
-| [sase-ug.2](../agents/bbugyi200.athena.sase-ug.2/README.md) | sase-ug hood | active |
-| [sase-ug.3](bbugyi200.athena.sase-ug.3.md) (session · 6) | sase-ug hood | active 4, completed 1, failed 1 |
-| [sase-ug.4](../agents/bbugyi200.athena.sase-ug.4/README.md) | sase-ug hood | active |
-| [sase-ug.5](../agents/bbugyi200.athena.sase-ug.5/README.md) | sase-ug hood | active |
-| [sase-ug.6](../agents/bbugyi200.athena.sase-ug.6/README.md) | sase-ug hood | active |
-| [sase-ug.8](bbugyi200.athena.sase-ug.8.md) (session · 3) | sase-ug hood | active 2, failed 1 |
-| [sase-ug.9](../agents/bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | active |
-| [sase-ug.land](bbugyi200.athena.sase-ug.land.md) (session · 9) | sase-ug hood | active 5, failed 4 |
+| [sase-ug.1](../agents/bbugyi200.athena.sase-ug.1/README.md) | sase-ug hood | dismissed |
+| [sase-ug.10](../agents/bbugyi200.athena.sase-ug.10/README.md) | sase-ug hood | dismissed |
+| [sase-ug.2](../agents/bbugyi200.athena.sase-ug.2/README.md) | sase-ug hood | dismissed |
+| [sase-ug.3](bbugyi200.athena.sase-ug.3.md) (session · 6) | sase-ug hood | completed 1, dismissed 4, failed 1 |
+| [sase-ug.4](../agents/bbugyi200.athena.sase-ug.4/README.md) | sase-ug hood | dismissed |
+| [sase-ug.5](../agents/bbugyi200.athena.sase-ug.5/README.md) | sase-ug hood | dismissed |
+| [sase-ug.6](../agents/bbugyi200.athena.sase-ug.6/README.md) | sase-ug hood | dismissed |
+| [sase-ug.8](bbugyi200.athena.sase-ug.8.md) (session · 3) | sase-ug hood | dismissed 2, failed 1 |
+| [sase-ug.9](../agents/bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | dismissed |
+| [sase-ug.land](bbugyi200.athena.sase-ug.land.md) (session · 9) | sase-ug hood | dismissed 5, failed 4 |
 | [sase-ug.land](../agents/bbugyi200.athena.sase-ug.land/README.md) | sase-ug hood | waiting |

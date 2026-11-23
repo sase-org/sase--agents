@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-um
 
-**Global hood:** `bbugyi200.athena.sase-um` · **Runs:** 130 · **Sessions:** 12 · **States:** active 122, completed 4, dismissed 3, waiting 1
+**Global hood:** `bbugyi200.athena.sase-um` · **Runs:** 130 · **Sessions:** 12 · **States:** active 120, completed 4, dismissed 5, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-um.9.5.3--mon](../../../../../../sessions/bbugyi200.athena.sase-um.9.5.3.md#member-mon) | active | grok-4.6 / grok | 2026-08-29T01:24:47.170783+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-um.9.5.3--mon/chat.md) |
-| [sase-um.5.1.3--mon-h](../../../../../../sessions/bbugyi200.athena.sase-um.5.1.3.md#member-mon-h) | active | gpt-5.5 / codex | 2026-08-28T03:55:23.919374+00:00 | 0 | — |
+| [sase-um.9.5.3--mon](../../../../../../sessions/bbugyi200.athena.sase-um.9.5.3.md#member-mon) | dismissed | grok-4.6 / grok | 2026-08-28T21:24:47.170783 → 2026-08-28T22:32:33.199270 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-um.9.5.3--mon/chat.md) |
+| [sase-um.5.1.3--mon-h](../../../../../../sessions/bbugyi200.athena.sase-um.5.1.3.md#member-mon-h) | dismissed | gpt-5.5 / codex | 2026-08-27T23:55:23 | 0 | — |
 | [sase-um.land--plan](../../../../../../sessions/bbugyi200.athena.sase-um.land.md#member-plan) | dismissed | — | 2026-08-27T07:09:53 | 0 | — |
 | [sase-um.9.5.5--1](../../../../../../sessions/bbugyi200.athena.sase-um.9.5.5.md#member-1) | active | gpt-5.5 / codex | 2026-08-29T17:54:01.465283+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-um.9.5.5--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-um.9.5.5--1/prompt.md) |
 | [sase-um.9.3](../../../../../../agents/bbugyi200.athena.sase-um.9.3/README.md) | active | grok-4.6 / grok | 2026-08-28T19:50:47.736955+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-um.9.3/prompt.md) |

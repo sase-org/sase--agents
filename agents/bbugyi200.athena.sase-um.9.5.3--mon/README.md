@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-um](../../users/bbugyi200/machines/athena/hoods/sase-um/README.md) / [sase-um.9.5.3](../../sessions/bbugyi200.athena.sase-um.9.5.3.md) / sase-um.9.5.3--mon
 
-**Global name:** `bbugyi200.athena.sase-um.9.5.3--mon` · **State:** active · **Source run:** `run-0164de979213af9cee05346a5196683f`
+**Global name:** `bbugyi200.athena.sase-um.9.5.3--mon` · **State:** dismissed · **Source run:** `run-0164de979213af9cee05346a5196683f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-um
 
@@ -12,7 +12,7 @@
 - Epic: [sase-um.9.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-um/sase-um.9.5.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-29T01:24:47.170783+00:00
+- Timing: 2026-08-28T21:24:47.170783 → 2026-08-28T22:32:33.199270
 - Commits: 0
 
 ## Files
@@ -40,7 +40,7 @@
 | [sase-um.5](../../sessions/bbugyi200.athena.sase-um.5.md) (session · 2) | sase-um hood | active 2 |
 | [sase-um.5.1.1](../bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um hood | active |
 | [sase-um.5.1.2](../bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um hood | active |
-| [sase-um.5.1.3](../../sessions/bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | active 67 |
+| [sase-um.5.1.3](../../sessions/bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | active 66, dismissed 1 |
 | [sase-um.5.1.3](../bbugyi200.athena.sase-um.5.1.3/README.md) | sase-um hood | completed |
 | [sase-um.5.1.land](../../sessions/bbugyi200.athena.sase-um.5.1.land.md) (session · 7) | sase-um hood | active 6, waiting 1 |
 | [sase-um.6](../bbugyi200.athena.sase-um.6/README.md) | sase-um hood | active |

@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`95444f8`](https://github.com/sase-org/sase/commit/95444f8685283a0635310688a7fa0906d5f4b709) | test(suite-gate): clear parent shard for scaled children | 2026-08-27 11:03:54 EDT |
-| sase | [`612cabf`](https://github.com/sase-org/sase/commit/612cabf85a786d9bd2beedbb6556788f6869e70e) | fix(agent): carry process identity through scan liveness | 2026-08-27 12:52:13 EDT |
-| sase | [`8690fe2`](https://github.com/sase-org/sase/commit/8690fe23a096538bd8c40115028b70a038d95771) | test(sdd): restore checkout marker facade after project-key tests | 2026-08-27 13:38:31 EDT |
-| sase | [`5f06c64`](https://github.com/sase-org/sase/commit/5f06c647359cd3362f913d1e9fac3164ad99fc58) | chore(core): ratchet pinned core to v0.32.10 | 2026-08-27 15:27:30 EDT |
-| sase | [`4d31563`](https://github.com/sase-org/sase/commit/4d315636322392d692e737651c6d10174ed7d81c) | fix(agent): restore logical planner projection rows | 2026-08-27 17:13:56 EDT |
-| sase | [`ebdc9dd`](https://github.com/sase-org/sase/commit/ebdc9dda0c316fb8403d77e42efbbfdef7ada8de) | test(perf): isolate view-hints trace harness | 2026-08-27 18:38:42 EDT |
-| sase | [`69527b8`](https://github.com/sase-org/sase/commit/69527b84a5d139087ff7ae997625ce529812b22c) | fix(agents): preserve planner projection status | 2026-08-27 19:50:12 EDT |
+| — | `95444f8` | test(suite-gate): clear parent shard for scaled children | 2026-08-27 11:03:54 EDT |
+| — | `612cabf` | fix(agent): carry process identity through scan liveness | 2026-08-27 12:52:13 EDT |
+| — | `8690fe2` | test(sdd): restore checkout marker facade after project-key tests | 2026-08-27 13:38:31 EDT |
+| — | `5f06c64` | chore(core): ratchet pinned core to v0.32.10 | 2026-08-27 15:27:30 EDT |
+| — | `4d31563` | fix(agent): restore logical planner projection rows | 2026-08-27 17:13:56 EDT |
+| — | `ebdc9dd` | test(perf): isolate view-hints trace harness | 2026-08-27 18:38:42 EDT |
+| — | `69527b8` | fix(agents): preserve planner projection status | 2026-08-27 19:50:12 EDT |
 
 ## Neighbors
 
@@ -52,7 +52,7 @@
 | [sase-um.9.4](../../sessions/bbugyi200.athena.sase-um.9.4.md) (session · 5) | sase-um hood | active 5 |
 | [sase-um.9.5.1](../bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um hood | active |
 | [sase-um.9.5.2](../bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um hood | active |
-| [sase-um.9.5.3](../../sessions/bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um hood | active 3 |
+| [sase-um.9.5.3](../../sessions/bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um hood | active 2, dismissed 1 |
 | [sase-um.9.5.4](../../sessions/bbugyi200.athena.sase-um.9.5.4.md) (session · 17) | sase-um hood | active 17 |
 | [sase-um.9.5.5](../../sessions/bbugyi200.athena.sase-um.9.5.5.md) (session · 3) | sase-um hood | active 3 |
 | [sase-um.9.5.land](../bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um hood | active |
