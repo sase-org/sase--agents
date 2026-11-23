@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-to](../../users/bbugyi200/machines/athena/hoods/sase-to/README.md) / sase-to.3
 
-**Global name:** `bbugyi200.athena.sase-to.3` · **State:** active · **Source run:** `run-23a8bd750cdcc0648f0bcb8d1df8f03c`
+**Global name:** `bbugyi200.athena.sase-to.3` · **State:** dismissed · **Source run:** `run-23a8bd750cdcc0648f0bcb8d1df8f03c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-to
 
@@ -12,7 +12,7 @@
 - Epic: [sase-to](https://github.com/sase-org/sase--beads/blob/main/pages/sase-to/README.md)
 - Model: gemini-3.7-flash-high
 - Provider: agy
-- Timing: 2026-08-25T17:56:01.710338+00:00
+- Timing: 2026-08-25T13:06:30
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-to.1](../bbugyi200.athena.sase-to.1/README.md) | sase-to hood | active |
-| [sase-to.2](../bbugyi200.athena.sase-to.2/README.md) | sase-to hood | active |
-| [sase-to.4](../bbugyi200.athena.sase-to.4/README.md) | sase-to hood | active |
-| [sase-to.land](../../sessions/bbugyi200.athena.sase-to.land.md) (session · 2) | sase-to hood | active 1, completed 1 |
+| [sase-to.1](../bbugyi200.athena.sase-to.1/README.md) | sase-to hood | dismissed |
+| [sase-to.2](../bbugyi200.athena.sase-to.2/README.md) | sase-to hood | dismissed |
+| [sase-to.4](../bbugyi200.athena.sase-to.4/README.md) | sase-to hood | dismissed |
+| [sase-to.land](../../sessions/bbugyi200.athena.sase-to.land.md) (session · 2) | sase-to hood | completed 1, dismissed 1 |

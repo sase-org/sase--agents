@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`269329d`](https://github.com/sase-org/sase/commit/269329d34f0b32cfef8089f168c3e07c9b70dfa1) | fix(plugins): batch required-plugin gate installs | 2026-08-25 15:30:36 EDT |
+| — | `269329d` | fix(plugins): batch required-plugin gate installs | 2026-08-25 15:30:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-to.1](../bbugyi200.athena.sase-to.1/README.md) | sase-to hood | active |
-| [sase-to.2](../bbugyi200.athena.sase-to.2/README.md) | sase-to hood | active |
-| [sase-to.3](../bbugyi200.athena.sase-to.3/README.md) | sase-to hood | active |
-| [sase-to.4](../bbugyi200.athena.sase-to.4/README.md) | sase-to hood | active |
+| [sase-to.1](../bbugyi200.athena.sase-to.1/README.md) | sase-to hood | dismissed |
+| [sase-to.2](../bbugyi200.athena.sase-to.2/README.md) | sase-to hood | dismissed |
+| [sase-to.3](../bbugyi200.athena.sase-to.3/README.md) | sase-to hood | dismissed |
+| [sase-to.4](../bbugyi200.athena.sase-to.4/README.md) | sase-to hood | dismissed |
