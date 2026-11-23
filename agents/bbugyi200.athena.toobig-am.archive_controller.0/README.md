@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-am.archive\_controller\_build.0](../bbugyi200.athena.toobig-am.archive_controller_build.0/README.md) | toobig-am hood | active |
+| [toobig-am.archive\_controller\_build.0](../bbugyi200.athena.toobig-am.archive_controller_build.0/README.md) | toobig-am hood | completed |
 | [toobig-am.test\_agents\_bead\_warmup\_results.0](../bbugyi200.athena.toobig-am.test_agents_bead_warmup_results.0/README.md) | toobig-am hood | waiting |

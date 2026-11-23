@@ -1,6 +1,6 @@
+%auto
 %id(test_agents_bead_warmup_results.0, clan=toobig-am)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/ace/tui/test_agents_bead_warmup_results.py` file into multiple files? Use your best
 %wait:toobig-am.archive_controller_build.0
