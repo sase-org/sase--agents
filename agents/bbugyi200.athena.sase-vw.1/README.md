@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-vw](../../users/bbugyi200/machines/athena/hoods/sase-vw/README.md) / sase-vw.1
 
-**Global name:** `bbugyi200.athena.sase-vw.1` · **State:** active · **Source run:** `run-7bdedebe0f650790c316187ab9795155`
+**Global name:** `bbugyi200.athena.sase-vw.1` · **State:** dismissed · **Source run:** `run-7bdedebe0f650790c316187ab9795155`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-vw
 
@@ -12,7 +12,7 @@
 - Epic: [sase-vw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-vw/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-30T14:04:06.162023+00:00
+- Timing: 2026-08-30T10:04:06.162023 → 2026-08-30T10:51:33.099645
 - Commits: [1](#commits)
 
 ## Files
@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7c8117b`](https://github.com/sase-org/sase/commit/7c8117b17e92674f99f52d98f2a44ad5481f86b8) | feat(memory): add link\_reference and link\_rendering frontmatter | 2026-08-30 10:50:34 EDT |
+| — | `7c8117b` | feat(memory): add link\_reference and link\_rendering frontmatter | 2026-08-30 10:50:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-vw.2](../bbugyi200.athena.sase-vw.2/README.md) | sase-vw hood | active |
-| [sase-vw.3](../bbugyi200.athena.sase-vw.3/README.md) | sase-vw hood | active |
-| [sase-vw.4](../bbugyi200.athena.sase-vw.4/README.md) | sase-vw hood | active |
-| [sase-vw.5](../bbugyi200.athena.sase-vw.5/README.md) | sase-vw hood | active |
-| [sase-vw.6](../bbugyi200.athena.sase-vw.6/README.md) | sase-vw hood | active |
-| [sase-vw.7](../bbugyi200.athena.sase-vw.7/README.md) | sase-vw hood | active |
-| [sase-vw.8](../bbugyi200.athena.sase-vw.8/README.md) | sase-vw hood | active |
-| [sase-vw.land](../../sessions/bbugyi200.athena.sase-vw.land.md) (session · 3) | sase-vw hood | active 3 |
+| [sase-vw.2](../bbugyi200.athena.sase-vw.2/README.md) | sase-vw hood | dismissed |
+| [sase-vw.3](../bbugyi200.athena.sase-vw.3/README.md) | sase-vw hood | dismissed |
+| [sase-vw.4](../bbugyi200.athena.sase-vw.4/README.md) | sase-vw hood | dismissed |
+| [sase-vw.5](../bbugyi200.athena.sase-vw.5/README.md) | sase-vw hood | dismissed |
+| [sase-vw.6](../bbugyi200.athena.sase-vw.6/README.md) | sase-vw hood | dismissed |
+| [sase-vw.7](../bbugyi200.athena.sase-vw.7/README.md) | sase-vw hood | dismissed |
+| [sase-vw.8](../bbugyi200.athena.sase-vw.8/README.md) | sase-vw hood | dismissed |
+| [sase-vw.land](../../sessions/bbugyi200.athena.sase-vw.land.md) (session · 3) | sase-vw hood | dismissed 3 |

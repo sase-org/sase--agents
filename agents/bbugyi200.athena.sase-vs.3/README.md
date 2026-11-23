@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-vs](../../users/bbugyi200/machines/athena/hoods/sase-vs/README.md) / sase-vs.3
 
-**Global name:** `bbugyi200.athena.sase-vs.3` · **State:** active · **Source run:** `run-49caf73b2093bf910dff37bbb3d6bc90`
+**Global name:** `bbugyi200.athena.sase-vs.3` · **State:** dismissed · **Source run:** `run-49caf73b2093bf910dff37bbb3d6bc90`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-vs
 
@@ -12,7 +12,7 @@
 - Epic: [sase-vs](https://github.com/sase-org/sase--beads/blob/main/pages/sase-vs/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-30T12:09:14.933917+00:00
+- Timing: 2026-08-30T08:09:14.933917 → 2026-08-30T08:42:45.781952
 - Commits: [1](#commits)
 
 ## Files
@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2bf5164`](https://github.com/sase-org/sase/commit/2bf51641d2aa1952c359f787b5f075e8dbe9b47e) | feat(bead): thread wait spec through the host-owned epic launch | 2026-08-30 08:40:24 EDT |
+| — | `2bf5164` | feat(bead): thread wait spec through the host-owned epic launch | 2026-08-30 08:40:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-vs.1](../bbugyi200.athena.sase-vs.1/README.md) | sase-vs hood | active |
-| [sase-vs.2](../bbugyi200.athena.sase-vs.2/README.md) | sase-vs hood | active |
-| [sase-vs.4](../bbugyi200.athena.sase-vs.4/README.md) | sase-vs hood | active |
-| [sase-vs.5](../bbugyi200.athena.sase-vs.5/README.md) | sase-vs hood | active |
-| [sase-vs.6](../bbugyi200.athena.sase-vs.6/README.md) | sase-vs hood | active |
-| [sase-vs.land](../../sessions/bbugyi200.athena.sase-vs.land.md) (session · 3) | sase-vs hood | active 3 |
+| [sase-vs.1](../bbugyi200.athena.sase-vs.1/README.md) | sase-vs hood | dismissed |
+| [sase-vs.2](../bbugyi200.athena.sase-vs.2/README.md) | sase-vs hood | dismissed |
+| [sase-vs.4](../bbugyi200.athena.sase-vs.4/README.md) | sase-vs hood | dismissed |
+| [sase-vs.5](../bbugyi200.athena.sase-vs.5/README.md) | sase-vs hood | dismissed |
+| [sase-vs.6](../bbugyi200.athena.sase-vs.6/README.md) | sase-vs hood | dismissed |
+| [sase-vs.land](../../sessions/bbugyi200.athena.sase-vs.land.md) (session · 3) | sase-vs hood | dismissed 3 |
