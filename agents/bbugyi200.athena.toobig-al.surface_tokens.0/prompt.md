@@ -1,6 +1,6 @@
+%auto
 %id(surface_tokens.0, clan=toobig-al)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/ace/tui/actions/event_refresh/_surface_tokens.py` file into multiple files? Use your best
 %wait:toobig-al.auto_refresh_surfaces.0
