@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fd2ceba`](https://github.com/sase-org/sase/commit/fd2cebac49e96876c2ffa39a0fa6aa474330fd66) | perf(beads): bound epic-launch history work and prove scale | 2026-09-07 08:38:51 EDT |
+| — | `fd2ceba` | perf(beads): bound epic-launch history work and prove scale | 2026-09-07 08:38:51 EDT |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-xr.1](../bbugyi200.athena.sase-xr.1/README.md) | sase-xr hood | active |
 | [sase-xr.2](../bbugyi200.athena.sase-xr.2/README.md) | sase-xr hood | active |
-| [sase-xr.3](../bbugyi200.athena.sase-xr.3/README.md) | sase-xr hood | active |
-| [sase-xr.4](../bbugyi200.athena.sase-xr.4/README.md) | sase-xr hood | active |
-| [sase-xr.5](../bbugyi200.athena.sase-xr.5/README.md) | sase-xr hood | active |
-| [sase-xr.land](../../sessions/bbugyi200.athena.sase-xr.land.md) (session · 5) | sase-xr hood | active 1, completed 1, failed 3 |
+| [sase-xr.3](../bbugyi200.athena.sase-xr.3/README.md) | sase-xr hood | dismissed |
+| [sase-xr.4](../bbugyi200.athena.sase-xr.4/README.md) | sase-xr hood | dismissed |
+| [sase-xr.5](../bbugyi200.athena.sase-xr.5/README.md) | sase-xr hood | dismissed |
+| [sase-xr.land](../../sessions/bbugyi200.athena.sase-xr.land.md) (session · 5) | sase-xr hood | completed 1, dismissed 1, failed 3 |

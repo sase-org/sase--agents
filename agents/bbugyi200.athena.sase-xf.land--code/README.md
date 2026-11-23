@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5db3185`](https://github.com/sase-org/sase/commit/5db318521be61fd497dbbc94929d820f9e6f074e) | fix(tui): show unavailable provider priorities | 2026-09-07 01:42:10 EDT |
+| — | `5db3185` | fix(tui): show unavailable provider priorities | 2026-09-07 01:42:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xf.1](../bbugyi200.athena.sase-xf.1/README.md) | sase-xf hood | active |
-| [sase-xf.2](../bbugyi200.athena.sase-xf.2/README.md) | sase-xf hood | active |
-| [sase-xf.3](../bbugyi200.athena.sase-xf.3/README.md) | sase-xf hood | active |
+| [sase-xf.1](../bbugyi200.athena.sase-xf.1/README.md) | sase-xf hood | dismissed |
+| [sase-xf.2](../bbugyi200.athena.sase-xf.2/README.md) | sase-xf hood | dismissed |
+| [sase-xf.3](../bbugyi200.athena.sase-xf.3/README.md) | sase-xf hood | dismissed |

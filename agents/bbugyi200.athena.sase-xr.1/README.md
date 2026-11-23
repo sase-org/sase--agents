@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`223cd2e`](https://github.com/sase-org/sase/commit/223cd2e84a190beb09fa848a13a8ec2e9855e513) | feat(beads): instrument epic launch timing | 2026-09-06 20:44:32 EDT |
+| — | `223cd2e` | feat(beads): instrument epic launch timing | 2026-09-06 20:44:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xr.2](../bbugyi200.athena.sase-xr.2/README.md) | sase-xr hood | active |
-| [sase-xr.3](../bbugyi200.athena.sase-xr.3/README.md) | sase-xr hood | active |
-| [sase-xr.4](../bbugyi200.athena.sase-xr.4/README.md) | sase-xr hood | active |
-| [sase-xr.5](../bbugyi200.athena.sase-xr.5/README.md) | sase-xr hood | active |
+| [sase-xr.3](../bbugyi200.athena.sase-xr.3/README.md) | sase-xr hood | dismissed |
+| [sase-xr.4](../bbugyi200.athena.sase-xr.4/README.md) | sase-xr hood | dismissed |
+| [sase-xr.5](../bbugyi200.athena.sase-xr.5/README.md) | sase-xr hood | dismissed |
 | [sase-xr.6](../bbugyi200.athena.sase-xr.6/README.md) | sase-xr hood | active |
-| [sase-xr.land](../../sessions/bbugyi200.athena.sase-xr.land.md) (session · 5) | sase-xr hood | active 1, completed 1, failed 3 |
+| [sase-xr.land](../../sessions/bbugyi200.athena.sase-xr.land.md) (session · 5) | sase-xr hood | completed 1, dismissed 1, failed 3 |

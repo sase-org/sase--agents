@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xq](../../users/bbugyi200/machines/athena/hoods/sase-xq/README.md) / sase-xq.2
 
-**Global name:** `bbugyi200.athena.sase-xq.2` · **State:** active · **Source run:** `run-64b0689828aa13441f904afca4bc08cb`
+**Global name:** `bbugyi200.athena.sase-xq.2` · **State:** dismissed · **Source run:** `run-64b0689828aa13441f904afca4bc08cb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xq
 
@@ -12,7 +12,7 @@
 - Epic: [sase-xq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xq/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-06T22:39:29.062358+00:00
+- Timing: 2026-09-06T18:39:29.062358 → 2026-09-06T19:19:18.588220
 - Commits: [1](#commits)
 
 ## Files
@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4093493`](https://github.com/sase-org/sase/commit/4093493a4c504e1e4cb7d96c3cb135709085901d) | fix(finalizers): auto-commit bead reprojections | 2026-09-06 19:15:52 EDT |
+| — | `4093493` | fix(finalizers): auto-commit bead reprojections | 2026-09-06 19:15:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xq.1](../bbugyi200.athena.sase-xq.1/README.md) | sase-xq hood | active |
-| [sase-xq.3](../bbugyi200.athena.sase-xq.3/README.md) | sase-xq hood | active |
-| [sase-xq.land](../../sessions/bbugyi200.athena.sase-xq.land.md) (session · 1) | sase-xq hood | active 1 |
+| [sase-xq.1](../bbugyi200.athena.sase-xq.1/README.md) | sase-xq hood | dismissed |
+| [sase-xq.3](../bbugyi200.athena.sase-xq.3/README.md) | sase-xq hood | dismissed |
+| [sase-xq.land](../../sessions/bbugyi200.athena.sase-xq.land.md) (session · 1) | sase-xq hood | dismissed 1 |
 | [sase-xq.land](../bbugyi200.athena.sase-xq.land/README.md) | sase-xq hood | waiting |
-| [sase-xq.land.r0](../../sessions/bbugyi200.athena.sase-xq.land.r0.md) (session · 11) | sase-xq hood | active 11 |
+| [sase-xq.land.r0](../../sessions/bbugyi200.athena.sase-xq.land.r0.md) (session · 11) | sase-xq hood | dismissed 11 |

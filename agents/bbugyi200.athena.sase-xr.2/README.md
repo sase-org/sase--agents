@@ -24,8 +24,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xr.1](../bbugyi200.athena.sase-xr.1/README.md) | sase-xr hood | active |
-| [sase-xr.3](../bbugyi200.athena.sase-xr.3/README.md) | sase-xr hood | active |
-| [sase-xr.4](../bbugyi200.athena.sase-xr.4/README.md) | sase-xr hood | active |
-| [sase-xr.5](../bbugyi200.athena.sase-xr.5/README.md) | sase-xr hood | active |
+| [sase-xr.3](../bbugyi200.athena.sase-xr.3/README.md) | sase-xr hood | dismissed |
+| [sase-xr.4](../bbugyi200.athena.sase-xr.4/README.md) | sase-xr hood | dismissed |
+| [sase-xr.5](../bbugyi200.athena.sase-xr.5/README.md) | sase-xr hood | dismissed |
 | [sase-xr.6](../bbugyi200.athena.sase-xr.6/README.md) | sase-xr hood | active |
-| [sase-xr.land](../../sessions/bbugyi200.athena.sase-xr.land.md) (session · 5) | sase-xr hood | active 1, completed 1, failed 3 |
+| [sase-xr.land](../../sessions/bbugyi200.athena.sase-xr.land.md) (session · 5) | sase-xr hood | completed 1, dismissed 1, failed 3 |

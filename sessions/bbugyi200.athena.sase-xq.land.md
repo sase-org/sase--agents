@@ -8,20 +8,20 @@ Owner: `bbugyi200.athena` · Hood: `sase-xq` · Members: 1 · Bead: [sase-xq](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-xq.land--plan [active]"]
+  n0["sase-xq.land--plan [dismissed]"]
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-xq.land--plan | active | gpt-5.6-sol / codex | 2026-09-07T00:32:34.356642+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xq.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xq.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-xq.land--plan | dismissed | gpt-5.6-sol / codex | 2026-09-06T20:32:34.356642 → 2026-09-06T20:43:34.121582 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xq.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xq.land--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xq.land.r0](bbugyi200.athena.sase-xq.land.r0.md) (session · 11) | descendant | active 11 |
-| [sase-xq.1](../agents/bbugyi200.athena.sase-xq.1/README.md) | sase-xq hood | active |
-| [sase-xq.2](../agents/bbugyi200.athena.sase-xq.2/README.md) | sase-xq hood | active |
-| [sase-xq.3](../agents/bbugyi200.athena.sase-xq.3/README.md) | sase-xq hood | active |
+| [sase-xq.land.r0](bbugyi200.athena.sase-xq.land.r0.md) (session · 11) | descendant | dismissed 11 |
+| [sase-xq.1](../agents/bbugyi200.athena.sase-xq.1/README.md) | sase-xq hood | dismissed |
+| [sase-xq.2](../agents/bbugyi200.athena.sase-xq.2/README.md) | sase-xq hood | dismissed |
+| [sase-xq.3](../agents/bbugyi200.athena.sase-xq.3/README.md) | sase-xq hood | dismissed |
