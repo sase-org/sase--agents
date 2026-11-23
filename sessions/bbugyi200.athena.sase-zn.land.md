@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-zn` · Members: 3 · Bead: [sase-zn](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-zn.land--plan [active]"]
-  n1["sase-zn.land--mon [active]"]
+  n0["sase-zn.land--plan [dismissed]"]
+  n1["sase-zn.land--mon [dismissed]"]
   n0 --> n1
-  n2["sase-zn.land--gate [active]"]
+  n2["sase-zn.land--gate [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,25 +19,25 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-zn.land--plan | active | gpt-6-astra / codex | 2026-09-12T21:06:13.787351+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-zn.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-zn.land--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-zn.land--mon | active | gpt-6-astra / codex | 2026-09-12T21:28:56.420488+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-zn.land--mon/chat.md) |
-| <a id="member-gate"></a>gate | sase-zn.land--gate | active | gpt-6-astra / codex | 2026-09-12T21:28:37.071206+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-zn.land--gate/chat.md) |
+| <a id="member-plan"></a>plan | sase-zn.land--plan | dismissed | gpt-6-astra / codex | 2026-09-12T17:06:13.787351 → 2026-09-12T17:29:11.697438 | 0 | [Prompt](../agents/bbugyi200.athena.sase-zn.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-zn.land--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-zn.land--mon | dismissed | gpt-6-astra / codex | 2026-09-12T17:28:56.420488 → 2026-09-12T17:30:41.901862 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-zn.land--mon/chat.md) |
+| <a id="member-gate"></a>gate | sase-zn.land--gate | dismissed | gpt-6-astra / codex | 2026-09-12T17:28:37.071206 → 2026-09-12T17:28:58 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-zn.land--gate/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-zn.1](../agents/bbugyi200.athena.sase-zn.1/README.md) | sase-zn hood | active |
-| [sase-zn.2](../agents/bbugyi200.athena.sase-zn.2/README.md) | sase-zn hood | active |
-| [sase-zn.3](../agents/bbugyi200.athena.sase-zn.3/README.md) | sase-zn hood | active |
-| [sase-zn.4](../agents/bbugyi200.athena.sase-zn.4/README.md) | sase-zn hood | active |
-| [sase-zn.5](../agents/bbugyi200.athena.sase-zn.5/README.md) | sase-zn hood | active |
-| [sase-zn.6](../agents/bbugyi200.athena.sase-zn.6/README.md) | sase-zn hood | active |
-| [sase-zn.7](../agents/bbugyi200.athena.sase-zn.7/README.md) | sase-zn hood | active |
-| [sase-zn.8](../agents/bbugyi200.athena.sase-zn.8/README.md) | sase-zn hood | active |
-| [sase-zn.9.1](../agents/bbugyi200.athena.sase-zn.9.1/README.md) | sase-zn hood | active |
-| [sase-zn.9.2](../agents/bbugyi200.athena.sase-zn.9.2/README.md) | sase-zn hood | active |
-| [sase-zn.9.3](../agents/bbugyi200.athena.sase-zn.9.3/README.md) | sase-zn hood | active |
-| [sase-zn.9.4](../agents/bbugyi200.athena.sase-zn.9.4/README.md) | sase-zn hood | active |
-| [sase-zn.9.5](../agents/bbugyi200.athena.sase-zn.9.5/README.md) | sase-zn hood | active |
-| [sase-zn.9.land](bbugyi200.athena.sase-zn.9.land.md) (session · 5) | sase-zn hood | active 5 |
+| [sase-zn.1](../agents/bbugyi200.athena.sase-zn.1/README.md) | sase-zn hood | dismissed |
+| [sase-zn.2](../agents/bbugyi200.athena.sase-zn.2/README.md) | sase-zn hood | dismissed |
+| [sase-zn.3](../agents/bbugyi200.athena.sase-zn.3/README.md) | sase-zn hood | dismissed |
+| [sase-zn.4](../agents/bbugyi200.athena.sase-zn.4/README.md) | sase-zn hood | dismissed |
+| [sase-zn.5](../agents/bbugyi200.athena.sase-zn.5/README.md) | sase-zn hood | dismissed |
+| [sase-zn.6](../agents/bbugyi200.athena.sase-zn.6/README.md) | sase-zn hood | dismissed |
+| [sase-zn.7](../agents/bbugyi200.athena.sase-zn.7/README.md) | sase-zn hood | dismissed |
+| [sase-zn.8](../agents/bbugyi200.athena.sase-zn.8/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.1](../agents/bbugyi200.athena.sase-zn.9.1/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.2](../agents/bbugyi200.athena.sase-zn.9.2/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.3](../agents/bbugyi200.athena.sase-zn.9.3/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.4](../agents/bbugyi200.athena.sase-zn.9.4/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.5](../agents/bbugyi200.athena.sase-zn.9.5/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.land](bbugyi200.athena.sase-zn.9.land.md) (session · 5) | sase-zn hood | dismissed 5 |

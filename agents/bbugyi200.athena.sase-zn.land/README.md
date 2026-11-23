@@ -22,17 +22,17 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-zn.1](../bbugyi200.athena.sase-zn.1/README.md) | sase-zn hood | active |
-| [sase-zn.2](../bbugyi200.athena.sase-zn.2/README.md) | sase-zn hood | active |
-| [sase-zn.3](../bbugyi200.athena.sase-zn.3/README.md) | sase-zn hood | active |
-| [sase-zn.4](../bbugyi200.athena.sase-zn.4/README.md) | sase-zn hood | active |
-| [sase-zn.5](../bbugyi200.athena.sase-zn.5/README.md) | sase-zn hood | active |
-| [sase-zn.6](../bbugyi200.athena.sase-zn.6/README.md) | sase-zn hood | active |
-| [sase-zn.7](../bbugyi200.athena.sase-zn.7/README.md) | sase-zn hood | active |
-| [sase-zn.8](../bbugyi200.athena.sase-zn.8/README.md) | sase-zn hood | active |
-| [sase-zn.9.1](../bbugyi200.athena.sase-zn.9.1/README.md) | sase-zn hood | active |
-| [sase-zn.9.2](../bbugyi200.athena.sase-zn.9.2/README.md) | sase-zn hood | active |
-| [sase-zn.9.3](../bbugyi200.athena.sase-zn.9.3/README.md) | sase-zn hood | active |
-| [sase-zn.9.4](../bbugyi200.athena.sase-zn.9.4/README.md) | sase-zn hood | active |
-| [sase-zn.9.5](../bbugyi200.athena.sase-zn.9.5/README.md) | sase-zn hood | active |
-| [sase-zn.9.land](../../sessions/bbugyi200.athena.sase-zn.9.land.md) (session · 5) | sase-zn hood | active 5 |
+| [sase-zn.1](../bbugyi200.athena.sase-zn.1/README.md) | sase-zn hood | dismissed |
+| [sase-zn.2](../bbugyi200.athena.sase-zn.2/README.md) | sase-zn hood | dismissed |
+| [sase-zn.3](../bbugyi200.athena.sase-zn.3/README.md) | sase-zn hood | dismissed |
+| [sase-zn.4](../bbugyi200.athena.sase-zn.4/README.md) | sase-zn hood | dismissed |
+| [sase-zn.5](../bbugyi200.athena.sase-zn.5/README.md) | sase-zn hood | dismissed |
+| [sase-zn.6](../bbugyi200.athena.sase-zn.6/README.md) | sase-zn hood | dismissed |
+| [sase-zn.7](../bbugyi200.athena.sase-zn.7/README.md) | sase-zn hood | dismissed |
+| [sase-zn.8](../bbugyi200.athena.sase-zn.8/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.1](../bbugyi200.athena.sase-zn.9.1/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.2](../bbugyi200.athena.sase-zn.9.2/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.3](../bbugyi200.athena.sase-zn.9.3/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.4](../bbugyi200.athena.sase-zn.9.4/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.5](../bbugyi200.athena.sase-zn.9.5/README.md) | sase-zn hood | dismissed |
+| [sase-zn.9.land](../../sessions/bbugyi200.athena.sase-zn.9.land.md) (session · 5) | sase-zn hood | dismissed 5 |

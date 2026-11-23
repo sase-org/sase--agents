@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zl](../../users/bbugyi200/machines/athena/hoods/sase-zl/README.md) / sase-zl.13.11.1
 
-**Global name:** `bbugyi200.athena.sase-zl.13.11.1` · **State:** active · **Source run:** `run-e708b369abc2a8e3b7282da2229af089`
+**Global name:** `bbugyi200.athena.sase-zl.13.11.1` · **State:** dismissed · **Source run:** `run-e708b369abc2a8e3b7282da2229af089`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-zl
 
@@ -12,7 +12,7 @@
 - Epic: [sase-zl.13.11](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zl/sase-zl.13.11.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-13T10:51:52.873256+00:00
+- Timing: 2026-09-13T06:51:52.873256 → 2026-09-13T07:36:04.777598
 - Commits: [1](#commits)
 
 ## Files
@@ -23,39 +23,39 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`97dee34`](https://github.com/sase-org/sase/commit/97dee340a299cd972f4b3a3fe367632d20f1d94b) | fix(monitor): render continuations from frozen context | 2026-09-13 07:34:05 EDT |
+| — | `97dee34` | fix(monitor): render continuations from frozen context | 2026-09-13 07:34:05 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-zl.13.11.2](../bbugyi200.athena.sase-zl.13.11.2/README.md) | sase-zl.13.11 hood | active |
-| [sase-zl.13.11.3](../../sessions/bbugyi200.athena.sase-zl.13.11.3.md) (session · 5) | sase-zl.13.11 hood | active 5 |
-| [sase-zl.13.11.4](../bbugyi200.athena.sase-zl.13.11.4/README.md) | sase-zl.13.11 hood | active |
-| [sase-zl.13.11.5](../../sessions/bbugyi200.athena.sase-zl.13.11.5.md) (session · 9) | sase-zl.13.11 hood | active 9 |
-| [sase-zl.13.11.6](../bbugyi200.athena.sase-zl.13.11.6/README.md) | sase-zl.13.11 hood | active |
-| [sase-zl.13.11.land](../../sessions/bbugyi200.athena.sase-zl.13.11.land.md) (session · 3) | sase-zl.13.11 hood | active 1, failed 2 |
-| [sase-zl.13.1](../bbugyi200.athena.sase-zl.13.1/README.md) | sase-zl.13 hood | active |
-| [sase-zl.13.10](../../sessions/bbugyi200.athena.sase-zl.13.10.md) (session · 3) | sase-zl.13 hood | active 3 |
-| [sase-zl.13.2](../bbugyi200.athena.sase-zl.13.2/README.md) | sase-zl.13 hood | active |
-| [sase-zl.13.3](../bbugyi200.athena.sase-zl.13.3/README.md) | sase-zl.13 hood | active |
-| [sase-zl.13.4](../bbugyi200.athena.sase-zl.13.4/README.md) | sase-zl.13 hood | active |
-| [sase-zl.13.5](../../sessions/bbugyi200.athena.sase-zl.13.5.md) (session · 7) | sase-zl.13 hood | active 7 |
-| [sase-zl.13.6](../bbugyi200.athena.sase-zl.13.6/README.md) | sase-zl.13 hood | active |
-| [sase-zl.13.7](../bbugyi200.athena.sase-zl.13.7/README.md) | sase-zl.13 hood | active |
-| [sase-zl.13.8](../bbugyi200.athena.sase-zl.13.8/README.md) | sase-zl.13 hood | active |
-| [sase-zl.13.9](../bbugyi200.athena.sase-zl.13.9/README.md) | sase-zl.13 hood | active |
-| [sase-zl.13.land](../../sessions/bbugyi200.athena.sase-zl.13.land.md) (session · 3) | sase-zl.13 hood | active 3 |
-| [sase-zl.1](../bbugyi200.athena.sase-zl.1/README.md) | sase-zl hood | active |
-| [sase-zl.10](../bbugyi200.athena.sase-zl.10/README.md) | sase-zl hood | active |
-| [sase-zl.11](../bbugyi200.athena.sase-zl.11/README.md) | sase-zl hood | active |
-| [sase-zl.12](../../sessions/bbugyi200.athena.sase-zl.12.md) (session · 3) | sase-zl hood | active 3 |
-| [sase-zl.2](../bbugyi200.athena.sase-zl.2/README.md) | sase-zl hood | active |
-| [sase-zl.3](../bbugyi200.athena.sase-zl.3/README.md) | sase-zl hood | active |
-| [sase-zl.4](../bbugyi200.athena.sase-zl.4/README.md) | sase-zl hood | active |
-| [sase-zl.5](../bbugyi200.athena.sase-zl.5/README.md) | sase-zl hood | active |
-| [sase-zl.6](../bbugyi200.athena.sase-zl.6/README.md) | sase-zl hood | active |
-| [sase-zl.7](../bbugyi200.athena.sase-zl.7/README.md) | sase-zl hood | active |
-| [sase-zl.8](../bbugyi200.athena.sase-zl.8/README.md) | sase-zl hood | active |
-| [sase-zl.9](../bbugyi200.athena.sase-zl.9/README.md) | sase-zl hood | active |
-| [sase-zl.land](../../sessions/bbugyi200.athena.sase-zl.land.md) (session · 3) | sase-zl hood | active 3 |
+| [sase-zl.13.11.2](../bbugyi200.athena.sase-zl.13.11.2/README.md) | sase-zl.13.11 hood | dismissed |
+| [sase-zl.13.11.3](../../sessions/bbugyi200.athena.sase-zl.13.11.3.md) (session · 5) | sase-zl.13.11 hood | dismissed 5 |
+| [sase-zl.13.11.4](../bbugyi200.athena.sase-zl.13.11.4/README.md) | sase-zl.13.11 hood | dismissed |
+| [sase-zl.13.11.5](../../sessions/bbugyi200.athena.sase-zl.13.11.5.md) (session · 9) | sase-zl.13.11 hood | dismissed 9 |
+| [sase-zl.13.11.6](../bbugyi200.athena.sase-zl.13.11.6/README.md) | sase-zl.13.11 hood | dismissed |
+| [sase-zl.13.11.land](../../sessions/bbugyi200.athena.sase-zl.13.11.land.md) (session · 3) | sase-zl.13.11 hood | dismissed 1, failed 2 |
+| [sase-zl.13.1](../bbugyi200.athena.sase-zl.13.1/README.md) | sase-zl.13 hood | dismissed |
+| [sase-zl.13.10](../../sessions/bbugyi200.athena.sase-zl.13.10.md) (session · 3) | sase-zl.13 hood | dismissed 3 |
+| [sase-zl.13.2](../bbugyi200.athena.sase-zl.13.2/README.md) | sase-zl.13 hood | dismissed |
+| [sase-zl.13.3](../bbugyi200.athena.sase-zl.13.3/README.md) | sase-zl.13 hood | dismissed |
+| [sase-zl.13.4](../bbugyi200.athena.sase-zl.13.4/README.md) | sase-zl.13 hood | dismissed |
+| [sase-zl.13.5](../../sessions/bbugyi200.athena.sase-zl.13.5.md) (session · 7) | sase-zl.13 hood | dismissed 7 |
+| [sase-zl.13.6](../bbugyi200.athena.sase-zl.13.6/README.md) | sase-zl.13 hood | dismissed |
+| [sase-zl.13.7](../bbugyi200.athena.sase-zl.13.7/README.md) | sase-zl.13 hood | dismissed |
+| [sase-zl.13.8](../bbugyi200.athena.sase-zl.13.8/README.md) | sase-zl.13 hood | dismissed |
+| [sase-zl.13.9](../bbugyi200.athena.sase-zl.13.9/README.md) | sase-zl.13 hood | dismissed |
+| [sase-zl.13.land](../../sessions/bbugyi200.athena.sase-zl.13.land.md) (session · 3) | sase-zl.13 hood | dismissed 3 |
+| [sase-zl.1](../bbugyi200.athena.sase-zl.1/README.md) | sase-zl hood | dismissed |
+| [sase-zl.10](../bbugyi200.athena.sase-zl.10/README.md) | sase-zl hood | dismissed |
+| [sase-zl.11](../bbugyi200.athena.sase-zl.11/README.md) | sase-zl hood | dismissed |
+| [sase-zl.12](../../sessions/bbugyi200.athena.sase-zl.12.md) (session · 3) | sase-zl hood | dismissed 3 |
+| [sase-zl.2](../bbugyi200.athena.sase-zl.2/README.md) | sase-zl hood | dismissed |
+| [sase-zl.3](../bbugyi200.athena.sase-zl.3/README.md) | sase-zl hood | dismissed |
+| [sase-zl.4](../bbugyi200.athena.sase-zl.4/README.md) | sase-zl hood | dismissed |
+| [sase-zl.5](../bbugyi200.athena.sase-zl.5/README.md) | sase-zl hood | dismissed |
+| [sase-zl.6](../bbugyi200.athena.sase-zl.6/README.md) | sase-zl hood | dismissed |
+| [sase-zl.7](../bbugyi200.athena.sase-zl.7/README.md) | sase-zl hood | dismissed |
+| [sase-zl.8](../bbugyi200.athena.sase-zl.8/README.md) | sase-zl hood | dismissed |
+| [sase-zl.9](../bbugyi200.athena.sase-zl.9/README.md) | sase-zl hood | dismissed |
+| [sase-zl.land](../../sessions/bbugyi200.athena.sase-zl.land.md) (session · 3) | sase-zl hood | dismissed 3 |

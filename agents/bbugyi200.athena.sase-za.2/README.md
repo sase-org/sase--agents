@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-za](../../users/bbugyi200/machines/athena/hoods/sase-za/README.md) / sase-za.2
 
-**Global name:** `bbugyi200.athena.sase-za.2` · **State:** active · **Source run:** `run-2ac120736ee23e79fe6a91d98f7d1997`
+**Global name:** `bbugyi200.athena.sase-za.2` · **State:** dismissed · **Source run:** `run-2ac120736ee23e79fe6a91d98f7d1997`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-za
 
@@ -12,7 +12,7 @@
 - Epic: [sase-za](https://github.com/sase-org/sase--beads/blob/main/pages/sase-za/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-10T16:42:57.991503+00:00
+- Timing: 2026-09-10T12:42:57.991503 → 2026-09-10T13:53:15.769377
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`755ef4a`](https://github.com/sase-org/sase/commit/755ef4a7b60a3bae79072a94b3c8cf4f010f7574) | perf(axe): cheapen parked runner-slot waiters | 2026-09-10 13:50:52 EDT |
+| — | `755ef4a` | perf(axe): cheapen parked runner-slot waiters | 2026-09-10 13:50:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-za.1](../bbugyi200.athena.sase-za.1/README.md) | sase-za hood | active |
-| [sase-za.3](../bbugyi200.athena.sase-za.3/README.md) | sase-za hood | active |
-| [sase-za.4](../bbugyi200.athena.sase-za.4/README.md) | sase-za hood | active |
-| [sase-za.land](../bbugyi200.athena.sase-za.land/README.md) | sase-za hood | active |
+| [sase-za.1](../bbugyi200.athena.sase-za.1/README.md) | sase-za hood | dismissed |
+| [sase-za.3](../bbugyi200.athena.sase-za.3/README.md) | sase-za hood | dismissed |
+| [sase-za.4](../bbugyi200.athena.sase-za.4/README.md) | sase-za hood | dismissed |
+| [sase-za.land](../bbugyi200.athena.sase-za.land/README.md) | sase-za hood | dismissed |
