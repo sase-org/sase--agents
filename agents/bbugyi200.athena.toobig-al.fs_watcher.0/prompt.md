@@ -1,6 +1,6 @@
+%auto
 %id(fs_watcher.0, clan=toobig-al)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/ace/tui/util/fs_watcher.py` file into multiple files? Use your best
 %wait:toobig-al.surface_tokens.0
