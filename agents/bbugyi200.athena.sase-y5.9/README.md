@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-y5](../../users/bbugyi200/machines/athena/hoods/sase-y5/README.md) / sase-y5.9
 
-**Global name:** `bbugyi200.athena.sase-y5.9` · **State:** active · **Source run:** `run-4a203cf24dba6d12ff6b17677e83ca0f`
+**Global name:** `bbugyi200.athena.sase-y5.9` · **State:** dismissed · **Source run:** `run-4a203cf24dba6d12ff6b17677e83ca0f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-y5
 
@@ -12,7 +12,7 @@
 - Epic: [sase-y5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-y5/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-08T17:57:08.087261+00:00
+- Timing: 2026-09-08T13:57:08.087261 → 2026-09-08T16:15:17.725920
 - Commits: [1](#commits)
 
 ## Files
@@ -23,23 +23,23 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`65fe412`](https://github.com/sase-org/sase/commit/65fe4124f62acde7394102045c1882df939e71f2) | feat(ace): add Providers · Usage view to Models panel | 2026-09-08 16:11:28 EDT |
+| — | `65fe412` | feat(ace): add Providers · Usage view to Models panel | 2026-09-08 16:11:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-y5.1](../bbugyi200.athena.sase-y5.1/README.md) | sase-y5 hood | active |
-| [sase-y5.10](../bbugyi200.athena.sase-y5.10/README.md) | sase-y5 hood | active |
-| [sase-y5.11](../bbugyi200.athena.sase-y5.11/README.md) | sase-y5 hood | active |
-| [sase-y5.12.1](../bbugyi200.athena.sase-y5.12.1/README.md) | sase-y5 hood | active |
-| [sase-y5.12.2](../bbugyi200.athena.sase-y5.12.2/README.md) | sase-y5 hood | active |
-| [sase-y5.12.land](../../sessions/bbugyi200.athena.sase-y5.12.land.md) (session · 3) | sase-y5 hood | active 3 |
-| [sase-y5.2](../../sessions/bbugyi200.athena.sase-y5.2.md) (session · 7) | sase-y5 hood | active 7 |
-| [sase-y5.3](../bbugyi200.athena.sase-y5.3/README.md) | sase-y5 hood | active |
-| [sase-y5.4](../bbugyi200.athena.sase-y5.4/README.md) | sase-y5 hood | active |
-| [sase-y5.5](../bbugyi200.athena.sase-y5.5/README.md) | sase-y5 hood | active |
-| [sase-y5.6](../bbugyi200.athena.sase-y5.6/README.md) | sase-y5 hood | active |
-| [sase-y5.7](../bbugyi200.athena.sase-y5.7/README.md) | sase-y5 hood | active |
-| [sase-y5.8](../bbugyi200.athena.sase-y5.8/README.md) | sase-y5 hood | active |
-| [sase-y5.land](../../sessions/bbugyi200.athena.sase-y5.land.md) (session · 3) | sase-y5 hood | active 3 |
+| [sase-y5.1](../bbugyi200.athena.sase-y5.1/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.10](../bbugyi200.athena.sase-y5.10/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.11](../bbugyi200.athena.sase-y5.11/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.12.1](../bbugyi200.athena.sase-y5.12.1/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.12.2](../bbugyi200.athena.sase-y5.12.2/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.12.land](../../sessions/bbugyi200.athena.sase-y5.12.land.md) (session · 3) | sase-y5 hood | dismissed 3 |
+| [sase-y5.2](../../sessions/bbugyi200.athena.sase-y5.2.md) (session · 7) | sase-y5 hood | dismissed 7 |
+| [sase-y5.3](../bbugyi200.athena.sase-y5.3/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.4](../bbugyi200.athena.sase-y5.4/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.5](../bbugyi200.athena.sase-y5.5/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.6](../bbugyi200.athena.sase-y5.6/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.7](../bbugyi200.athena.sase-y5.7/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.8](../bbugyi200.athena.sase-y5.8/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.land](../../sessions/bbugyi200.athena.sase-y5.land.md) (session · 3) | sase-y5 hood | dismissed 3 |

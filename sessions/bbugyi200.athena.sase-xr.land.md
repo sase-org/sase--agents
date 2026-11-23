@@ -39,9 +39,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xr.1](../agents/bbugyi200.athena.sase-xr.1/README.md) | sase-xr hood | active |
-| [sase-xr.2](../agents/bbugyi200.athena.sase-xr.2/README.md) | sase-xr hood | active |
+| [sase-xr.1](../agents/bbugyi200.athena.sase-xr.1/README.md) | sase-xr hood | dismissed |
+| [sase-xr.2](../agents/bbugyi200.athena.sase-xr.2/README.md) | sase-xr hood | dismissed |
 | [sase-xr.3](../agents/bbugyi200.athena.sase-xr.3/README.md) | sase-xr hood | dismissed |
 | [sase-xr.4](../agents/bbugyi200.athena.sase-xr.4/README.md) | sase-xr hood | dismissed |
 | [sase-xr.5](../agents/bbugyi200.athena.sase-xr.5/README.md) | sase-xr hood | dismissed |
-| [sase-xr.6](../agents/bbugyi200.athena.sase-xr.6/README.md) | sase-xr hood | active |
+| [sase-xr.6](../agents/bbugyi200.athena.sase-xr.6/README.md) | sase-xr hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xy](../../users/bbugyi200/machines/athena/hoods/sase-xy/README.md) / [sase-xy.5.5.4.3](../../sessions/bbugyi200.athena.sase-xy.5.5.4.3.md) / sase-xy.5.5.4.3--1
 
-**Global name:** `bbugyi200.athena.sase-xy.5.5.4.3--1` · **State:** active · **Source run:** `run-d9de70a1fc103aa6e7d69934348c3788`
+**Global name:** `bbugyi200.athena.sase-xy.5.5.4.3--1` · **State:** dismissed · **Source run:** `run-d9de70a1fc103aa6e7d69934348c3788`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xy
 
@@ -11,7 +11,7 @@
 - Bead: [sase-xy.5.5.4.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xy/sase-xy.5.5.4.3.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-08T04:03:02.053142+00:00
+- Timing: 2026-09-08T00:03:02.053142 → 2026-09-08T00:06:27.573144
 - Commits: 0
 
 ## Files
@@ -22,22 +22,22 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xy.5.5.4.1](../bbugyi200.athena.sase-xy.5.5.4.1/README.md) | sase-xy.5.5.4 hood | active |
-| [sase-xy.5.5.4.2](../bbugyi200.athena.sase-xy.5.5.4.2/README.md) | sase-xy.5.5.4 hood | active |
-| [sase-xy.5.5.4.land](../../sessions/bbugyi200.athena.sase-xy.5.5.4.land.md) (session · 3) | sase-xy.5.5.4 hood | active 3 |
-| [sase-xy.5.5.1](../bbugyi200.athena.sase-xy.5.5.1/README.md) | sase-xy.5.5 hood | active |
-| [sase-xy.5.5.2](../bbugyi200.athena.sase-xy.5.5.2/README.md) | sase-xy.5.5 hood | active |
-| [sase-xy.5.5.3](../../sessions/bbugyi200.athena.sase-xy.5.5.3.md) (session · 3) | sase-xy.5.5 hood | active 3 |
-| [sase-xy.5.5.land](../../sessions/bbugyi200.athena.sase-xy.5.5.land.md) (session · 3) | sase-xy.5.5 hood | active 3 |
-| [sase-xy.5.1](../bbugyi200.athena.sase-xy.5.1/README.md) | sase-xy.5 hood | active |
-| [sase-xy.5.2](../bbugyi200.athena.sase-xy.5.2/README.md) | sase-xy.5 hood | active |
-| [sase-xy.5.3](../bbugyi200.athena.sase-xy.5.3/README.md) | sase-xy.5 hood | active |
-| [sase-xy.5.4](../bbugyi200.athena.sase-xy.5.4/README.md) | sase-xy.5 hood | active |
-| [sase-xy.5.land](../../sessions/bbugyi200.athena.sase-xy.5.land.md) (session · 3) | sase-xy.5 hood | active 3 |
-| [sase-xy.1](../bbugyi200.athena.sase-xy.1/README.md) | sase-xy hood | active |
-| [sase-xy.2](../bbugyi200.athena.sase-xy.2/README.md) | sase-xy hood | active |
-| [sase-xy.3](../bbugyi200.athena.sase-xy.3/README.md) | sase-xy hood | active |
-| [sase-xy.4.1](../bbugyi200.athena.sase-xy.4.1/README.md) | sase-xy hood | active |
-| [sase-xy.4.2](../bbugyi200.athena.sase-xy.4.2/README.md) | sase-xy hood | active |
-| [sase-xy.4.land](../../sessions/bbugyi200.athena.sase-xy.4.land.md) (session · 3) | sase-xy hood | active 3 |
-| [sase-xy.land](../../sessions/bbugyi200.athena.sase-xy.land.md) (session · 3) | sase-xy hood | active 3 |
+| [sase-xy.5.5.4.1](../bbugyi200.athena.sase-xy.5.5.4.1/README.md) | sase-xy.5.5.4 hood | dismissed |
+| [sase-xy.5.5.4.2](../bbugyi200.athena.sase-xy.5.5.4.2/README.md) | sase-xy.5.5.4 hood | dismissed |
+| [sase-xy.5.5.4.land](../../sessions/bbugyi200.athena.sase-xy.5.5.4.land.md) (session · 3) | sase-xy.5.5.4 hood | dismissed 3 |
+| [sase-xy.5.5.1](../bbugyi200.athena.sase-xy.5.5.1/README.md) | sase-xy.5.5 hood | dismissed |
+| [sase-xy.5.5.2](../bbugyi200.athena.sase-xy.5.5.2/README.md) | sase-xy.5.5 hood | dismissed |
+| [sase-xy.5.5.3](../../sessions/bbugyi200.athena.sase-xy.5.5.3.md) (session · 3) | sase-xy.5.5 hood | dismissed 3 |
+| [sase-xy.5.5.land](../../sessions/bbugyi200.athena.sase-xy.5.5.land.md) (session · 3) | sase-xy.5.5 hood | dismissed 3 |
+| [sase-xy.5.1](../bbugyi200.athena.sase-xy.5.1/README.md) | sase-xy.5 hood | dismissed |
+| [sase-xy.5.2](../bbugyi200.athena.sase-xy.5.2/README.md) | sase-xy.5 hood | dismissed |
+| [sase-xy.5.3](../bbugyi200.athena.sase-xy.5.3/README.md) | sase-xy.5 hood | dismissed |
+| [sase-xy.5.4](../bbugyi200.athena.sase-xy.5.4/README.md) | sase-xy.5 hood | dismissed |
+| [sase-xy.5.land](../../sessions/bbugyi200.athena.sase-xy.5.land.md) (session · 3) | sase-xy.5 hood | dismissed 3 |
+| [sase-xy.1](../bbugyi200.athena.sase-xy.1/README.md) | sase-xy hood | dismissed |
+| [sase-xy.2](../bbugyi200.athena.sase-xy.2/README.md) | sase-xy hood | dismissed |
+| [sase-xy.3](../bbugyi200.athena.sase-xy.3/README.md) | sase-xy hood | dismissed |
+| [sase-xy.4.1](../bbugyi200.athena.sase-xy.4.1/README.md) | sase-xy hood | dismissed |
+| [sase-xy.4.2](../bbugyi200.athena.sase-xy.4.2/README.md) | sase-xy hood | dismissed |
+| [sase-xy.4.land](../../sessions/bbugyi200.athena.sase-xy.4.land.md) (session · 3) | sase-xy hood | dismissed 3 |
+| [sase-xy.land](../../sessions/bbugyi200.athena.sase-xy.land.md) (session · 3) | sase-xy hood | dismissed 3 |

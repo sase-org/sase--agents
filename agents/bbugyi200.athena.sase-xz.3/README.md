@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xz](../../users/bbugyi200/machines/athena/hoods/sase-xz/README.md) / sase-xz.3
 
-**Global name:** `bbugyi200.athena.sase-xz.3` · **State:** active · **Source run:** `run-8a337351a97d5b8049a42e8435e4a7f5`
+**Global name:** `bbugyi200.athena.sase-xz.3` · **State:** dismissed · **Source run:** `run-8a337351a97d5b8049a42e8435e4a7f5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xz
 
@@ -12,7 +12,7 @@
 - Epic: [sase-xz](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xz/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-07T17:30:01.669270+00:00
+- Timing: 2026-09-07T13:30:01.669270 → 2026-09-07T14:14:14.198454
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a9f95ca`](https://github.com/sase-org/sase/commit/a9f95ca5e64510df9f6161ee259d4d99d042537f) | feat(pager): thread source-language syntax hints through screen and layout | 2026-09-07 14:10:25 EDT |
+| — | `a9f95ca` | feat(pager): thread source-language syntax hints through screen and layout | 2026-09-07 14:10:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xz.1](../bbugyi200.athena.sase-xz.1/README.md) | sase-xz hood | active |
-| [sase-xz.2](../bbugyi200.athena.sase-xz.2/README.md) | sase-xz hood | active |
-| [sase-xz.4](../bbugyi200.athena.sase-xz.4/README.md) | sase-xz hood | active |
-| [sase-xz.land](../../sessions/bbugyi200.athena.sase-xz.land.md) (session · 7) | sase-xz hood | active 7 |
+| [sase-xz.1](../bbugyi200.athena.sase-xz.1/README.md) | sase-xz hood | dismissed |
+| [sase-xz.2](../bbugyi200.athena.sase-xz.2/README.md) | sase-xz hood | dismissed |
+| [sase-xz.4](../bbugyi200.athena.sase-xz.4/README.md) | sase-xz hood | dismissed |
+| [sase-xz.land](../../sessions/bbugyi200.athena.sase-xz.land.md) (session · 7) | sase-xz hood | dismissed 7 |

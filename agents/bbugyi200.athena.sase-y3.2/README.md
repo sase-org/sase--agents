@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-y3](../../users/bbugyi200/machines/athena/hoods/sase-y3/README.md) / sase-y3.2
 
-**Global name:** `bbugyi200.athena.sase-y3.2` · **State:** active · **Source run:** `run-334af4c16b437ba407d6fe2266a0359f`
+**Global name:** `bbugyi200.athena.sase-y3.2` · **State:** dismissed · **Source run:** `run-334af4c16b437ba407d6fe2266a0359f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-y3
 
@@ -12,7 +12,7 @@
 - Epic: [sase-y3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-y3/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-07T19:44:50.763323+00:00
+- Timing: 2026-09-07T15:44:50.763323 → 2026-09-07T18:12:04.798718
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87f4cf1`](https://github.com/sase-org/sase/commit/87f4cf1416da9963e599e4e3fc0e04eeef64b6b5) | fix(sdd): gate background artifact-link writers on machine writability | 2026-09-07 18:09:28 EDT |
+| — | `87f4cf1` | fix(sdd): gate background artifact-link writers on machine writability | 2026-09-07 18:09:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-y3.1](../bbugyi200.athena.sase-y3.1/README.md) | sase-y3 hood | active |
-| [sase-y3.3](../../sessions/bbugyi200.athena.sase-y3.3.md) (session · 2) | sase-y3 hood | active 1, failed 1 |
-| [sase-y3.4](../../sessions/bbugyi200.athena.sase-y3.4.md) (session · 3) | sase-y3 hood | active 3 |
-| [sase-y3.land](../../sessions/bbugyi200.athena.sase-y3.land.md) (session · 3) | sase-y3 hood | active 3 |
+| [sase-y3.1](../bbugyi200.athena.sase-y3.1/README.md) | sase-y3 hood | dismissed |
+| [sase-y3.3](../../sessions/bbugyi200.athena.sase-y3.3.md) (session · 2) | sase-y3 hood | dismissed 1, failed 1 |
+| [sase-y3.4](../../sessions/bbugyi200.athena.sase-y3.4.md) (session · 3) | sase-y3 hood | dismissed 3 |
+| [sase-y3.land](../../sessions/bbugyi200.athena.sase-y3.land.md) (session · 3) | sase-y3 hood | dismissed 3 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-y3](../../users/bbugyi200/machines/athena/hoods/sase-y3/README.md) / sase-y3.1
 
-**Global name:** `bbugyi200.athena.sase-y3.1` · **State:** active · **Source run:** `run-81ea460f813436e5d353f6eec45cbad0`
+**Global name:** `bbugyi200.athena.sase-y3.1` · **State:** dismissed · **Source run:** `run-81ea460f813436e5d353f6eec45cbad0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-y3
 
@@ -12,7 +12,7 @@
 - Epic: [sase-y3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-y3/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-07T19:16:41.437655+00:00
+- Timing: 2026-09-07T15:16:41.437655 → 2026-09-07T15:43:54.336619
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ec6bc4a`](https://github.com/sase-org/sase/commit/ec6bc4a422f56b8fa45dc809f26cc8f6ea7c3e33) | fix(artifact-links): commit removed link indexes | 2026-09-07 15:41:02 EDT |
+| — | `ec6bc4a` | fix(artifact-links): commit removed link indexes | 2026-09-07 15:41:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-y3.2](../bbugyi200.athena.sase-y3.2/README.md) | sase-y3 hood | active |
-| [sase-y3.3](../../sessions/bbugyi200.athena.sase-y3.3.md) (session · 2) | sase-y3 hood | active 1, failed 1 |
-| [sase-y3.4](../../sessions/bbugyi200.athena.sase-y3.4.md) (session · 3) | sase-y3 hood | active 3 |
-| [sase-y3.land](../../sessions/bbugyi200.athena.sase-y3.land.md) (session · 3) | sase-y3 hood | active 3 |
+| [sase-y3.2](../bbugyi200.athena.sase-y3.2/README.md) | sase-y3 hood | dismissed |
+| [sase-y3.3](../../sessions/bbugyi200.athena.sase-y3.3.md) (session · 2) | sase-y3 hood | dismissed 1, failed 1 |
+| [sase-y3.4](../../sessions/bbugyi200.athena.sase-y3.4.md) (session · 3) | sase-y3 hood | dismissed 3 |
+| [sase-y3.land](../../sessions/bbugyi200.athena.sase-y3.land.md) (session · 3) | sase-y3 hood | dismissed 3 |
