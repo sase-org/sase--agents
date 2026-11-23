@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zu](../../users/bbugyi200/machines/athena/hoods/sase-zu/README.md) / [sase-zu.8.5](../../sessions/bbugyi200.athena.sase-zu.8.5.md) / sase-zu.8.5--mon-0
 
-**Global name:** `bbugyi200.athena.sase-zu.8.5--mon-0` · **State:** active · **Source run:** `run-332b11133efd0c388b4946a868d79941`
+**Global name:** `bbugyi200.athena.sase-zu.8.5--mon-0` · **State:** dismissed · **Source run:** `run-332b11133efd0c388b4946a868d79941`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-zu
 
@@ -11,7 +11,7 @@
 - Bead: [sase-zu.8.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zu/sase-zu.8.5.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-13T19:37:08.000016+00:00
+- Timing: 2026-09-13T15:37:08.000016 → 2026-09-13T16:16:15.526299
 - Commits: 0
 
 ## Files
@@ -22,16 +22,16 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-zu.8.1](../bbugyi200.athena.sase-zu.8.1/README.md) | sase-zu.8 hood | active |
-| [sase-zu.8.2](../bbugyi200.athena.sase-zu.8.2/README.md) | sase-zu.8 hood | active |
-| [sase-zu.8.3](../bbugyi200.athena.sase-zu.8.3/README.md) | sase-zu.8 hood | active |
-| [sase-zu.8.4](../bbugyi200.athena.sase-zu.8.4/README.md) | sase-zu.8 hood | active |
-| [sase-zu.8.land](../bbugyi200.athena.sase-zu.8.land/README.md) | sase-zu.8 hood | active |
-| [sase-zu.1](../bbugyi200.athena.sase-zu.1/README.md) | sase-zu hood | active |
-| [sase-zu.2](../bbugyi200.athena.sase-zu.2/README.md) | sase-zu hood | active |
-| [sase-zu.3](../bbugyi200.athena.sase-zu.3/README.md) | sase-zu hood | active |
-| [sase-zu.4](../bbugyi200.athena.sase-zu.4/README.md) | sase-zu hood | active |
-| [sase-zu.5](../bbugyi200.athena.sase-zu.5/README.md) | sase-zu hood | active |
-| [sase-zu.6](../bbugyi200.athena.sase-zu.6/README.md) | sase-zu hood | active |
-| [sase-zu.7](../../sessions/bbugyi200.athena.sase-zu.7.md) (session · 3) | sase-zu hood | active 3 |
-| [sase-zu.land](../../sessions/bbugyi200.athena.sase-zu.land.md) (session · 3) | sase-zu hood | active 3 |
+| [sase-zu.8.1](../bbugyi200.athena.sase-zu.8.1/README.md) | sase-zu.8 hood | dismissed |
+| [sase-zu.8.2](../bbugyi200.athena.sase-zu.8.2/README.md) | sase-zu.8 hood | dismissed |
+| [sase-zu.8.3](../bbugyi200.athena.sase-zu.8.3/README.md) | sase-zu.8 hood | dismissed |
+| [sase-zu.8.4](../bbugyi200.athena.sase-zu.8.4/README.md) | sase-zu.8 hood | dismissed |
+| [sase-zu.8.land](../bbugyi200.athena.sase-zu.8.land/README.md) | sase-zu.8 hood | dismissed |
+| [sase-zu.1](../bbugyi200.athena.sase-zu.1/README.md) | sase-zu hood | dismissed |
+| [sase-zu.2](../bbugyi200.athena.sase-zu.2/README.md) | sase-zu hood | dismissed |
+| [sase-zu.3](../bbugyi200.athena.sase-zu.3/README.md) | sase-zu hood | dismissed |
+| [sase-zu.4](../bbugyi200.athena.sase-zu.4/README.md) | sase-zu hood | dismissed |
+| [sase-zu.5](../bbugyi200.athena.sase-zu.5/README.md) | sase-zu hood | dismissed |
+| [sase-zu.6](../bbugyi200.athena.sase-zu.6/README.md) | sase-zu hood | dismissed |
+| [sase-zu.7](../../sessions/bbugyi200.athena.sase-zu.7.md) (session · 3) | sase-zu hood | dismissed 3 |
+| [sase-zu.land](../../sessions/bbugyi200.athena.sase-zu.land.md) (session · 3) | sase-zu hood | dismissed 3 |

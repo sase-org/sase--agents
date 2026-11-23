@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1d14218`](https://github.com/sase-org/sase/commit/1d14218a3c29238ee99fcb2d2a970979d0afeba6) | feat(gate): surface execution failures to requesters | 2026-09-17 19:37:07 EDT |
+| — | `1d14218` | feat(gate): surface execution failures to requesters | 2026-09-17 19:37:07 EDT |
 
 ## Neighbors
 

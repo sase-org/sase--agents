@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`96b9133`](https://github.com/sase-org/sase/commit/96b91333326f4cbf644286625f6c439710e1bed5) | docs(notifications): correct fast decision acceptance, failure recovery and status semantics | 2026-09-20 09:35:12 EDT |
+| — | `96b9133` | docs(notifications): correct fast decision acceptance, failure recovery and status semantics | 2026-09-20 09:35:12 EDT |
 
 ## Neighbors
 

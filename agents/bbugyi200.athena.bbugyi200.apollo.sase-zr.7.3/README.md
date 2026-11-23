@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`244442e`](https://github.com/sase-org/sase/commit/244442ee8160fe0bf059518a910cf87a58872a1c) | feat(ace): exact off-loop gate refresh and failure recovery actions | 2026-09-20 07:05:12 EDT |
+| — | `244442e` | feat(ace): exact off-loop gate refresh and failure recovery actions | 2026-09-20 07:05:12 EDT |
 
 ## Neighbors
 

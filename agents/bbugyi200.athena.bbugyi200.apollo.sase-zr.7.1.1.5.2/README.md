@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`df0090f`](https://github.com/sase-org/sase/commit/df0090f040f29ffe0579bf83d1a61350c7a357fd) | fix(gates): serialize terminal decision transitions | 2026-09-17 22:21:29 EDT |
+| — | `df0090f` | fix(gates): serialize terminal decision transitions | 2026-09-17 22:21:29 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e91fa13`](https://github.com/sase-org/sase/commit/e91fa138b069c1f88e607a23cf1de3bba8fe9920) | fix(gates): surface execution failure recovery | 2026-09-17 23:09:06 EDT |
+| — | `e91fa13` | fix(gates): surface execution failure recovery | 2026-09-17 23:09:06 EDT |
 
 ## Neighbors
 

@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`92f99bc`](https://github.com/sase-org/sase/commit/92f99bc14ce9b8e72f83c98c9f7c6f396439ad79) | fix(final): finish explicit bead action integration | 2026-09-12 15:09:26 EDT |
+| — | `92f99bc` | fix(final): finish explicit bead action integration | 2026-09-12 15:09:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-zq.1](../bbugyi200.athena.sase-zq.1/README.md) | sase-zq hood | active |
-| [sase-zq.2](../bbugyi200.athena.sase-zq.2/README.md) | sase-zq hood | active |
-| [sase-zq.3](../bbugyi200.athena.sase-zq.3/README.md) | sase-zq hood | active |
+| [sase-zq.1](../bbugyi200.athena.sase-zq.1/README.md) | sase-zq hood | dismissed |
+| [sase-zq.2](../bbugyi200.athena.sase-zq.2/README.md) | sase-zq hood | dismissed |
+| [sase-zq.3](../bbugyi200.athena.sase-zq.3/README.md) | sase-zq hood | dismissed |

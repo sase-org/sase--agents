@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`934be03`](https://github.com/sase-org/sase/commit/934be032dd7ea5fa61f5017fb90aeaac8d87c760) | feat(gate-decision): journal acceptance ids and durable attempt-failure outcomes | 2026-09-17 13:59:23 EDT |
+| — | `934be03` | feat(gate-decision): journal acceptance ids and durable attempt-failure outcomes | 2026-09-17 13:59:23 EDT |
 
 ## Neighbors
 

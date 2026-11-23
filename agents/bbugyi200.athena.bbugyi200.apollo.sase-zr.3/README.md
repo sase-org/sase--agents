@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ae6afe9`](https://github.com/sase-org/sase/commit/ae6afe968541d24496496b5c82755f381435afc7) | feat(ace): submit plan gates through durable answers | 2026-09-14 14:16:18 EDT |
+| — | `ae6afe9` | feat(ace): submit plan gates through durable answers | 2026-09-14 14:16:18 EDT |
 
 ## Neighbors
 

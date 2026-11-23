@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`26797a9`](https://github.com/sase-org/sase/commit/26797a95acef0dc653405b8b917b5e82676133ac) | fix(gates): enforce live owner decision integrity | 2026-09-17 18:26:10 EDT |
+| — | `26797a9` | fix(gates): enforce live owner decision integrity | 2026-09-17 18:26:10 EDT |
 
 ## Neighbors
 

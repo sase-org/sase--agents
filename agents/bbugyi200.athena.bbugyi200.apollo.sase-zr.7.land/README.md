@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`24cbeb8`](https://github.com/sase-org/sase/commit/24cbeb8826eadbd4227e1f7c61314c04f4dfd907) | docs(notifications): record before/after latency evidence for the two gate-refresh paths | 2026-09-20 12:56:54 EDT |
+| — | `24cbeb8` | docs(notifications): record before/after latency evidence for the two gate-refresh paths | 2026-09-20 12:56:54 EDT |
 
 ## Neighbors
 

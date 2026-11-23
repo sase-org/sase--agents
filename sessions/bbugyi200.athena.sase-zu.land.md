@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-zu` · Members: 3 · Bead: [sase-zu](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-zu.land--plan [active]"]
-  n1["sase-zu.land--mon [active]"]
+  n0["sase-zu.land--plan [dismissed]"]
+  n1["sase-zu.land--mon [dismissed]"]
   n0 --> n1
-  n2["sase-zu.land--gate [active]"]
+  n2["sase-zu.land--gate [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,24 +19,24 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-zu.land--plan | active | gpt-6-astra / codex | 2026-09-13T14:02:44.494398+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-zu.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-zu.land--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-zu.land--mon | active | gpt-6-astra / codex | 2026-09-13T14:21:02.098738+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-zu.land--mon/chat.md) |
-| <a id="member-gate"></a>gate | sase-zu.land--gate | active | gpt-6-astra / codex | 2026-09-13T14:20:36.040533+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-zu.land--gate/chat.md) |
+| <a id="member-plan"></a>plan | sase-zu.land--plan | dismissed | gpt-6-astra / codex | 2026-09-13T10:02:44.494398 → 2026-09-13T10:21:14.435659 | 0 | [Prompt](../agents/bbugyi200.athena.sase-zu.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-zu.land--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-zu.land--mon | dismissed | gpt-6-astra / codex | 2026-09-13T10:21:02.098738 → 2026-09-13T10:26:46.032862 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-zu.land--mon/chat.md) |
+| <a id="member-gate"></a>gate | sase-zu.land--gate | dismissed | gpt-6-astra / codex | 2026-09-13T10:20:36.040533 → 2026-09-13T10:21:05 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-zu.land--gate/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-zu.1](../agents/bbugyi200.athena.sase-zu.1/README.md) | sase-zu hood | active |
-| [sase-zu.2](../agents/bbugyi200.athena.sase-zu.2/README.md) | sase-zu hood | active |
-| [sase-zu.3](../agents/bbugyi200.athena.sase-zu.3/README.md) | sase-zu hood | active |
-| [sase-zu.4](../agents/bbugyi200.athena.sase-zu.4/README.md) | sase-zu hood | active |
-| [sase-zu.5](../agents/bbugyi200.athena.sase-zu.5/README.md) | sase-zu hood | active |
-| [sase-zu.6](../agents/bbugyi200.athena.sase-zu.6/README.md) | sase-zu hood | active |
-| [sase-zu.7](bbugyi200.athena.sase-zu.7.md) (session · 3) | sase-zu hood | active 3 |
-| [sase-zu.8.1](../agents/bbugyi200.athena.sase-zu.8.1/README.md) | sase-zu hood | active |
-| [sase-zu.8.2](../agents/bbugyi200.athena.sase-zu.8.2/README.md) | sase-zu hood | active |
-| [sase-zu.8.3](../agents/bbugyi200.athena.sase-zu.8.3/README.md) | sase-zu hood | active |
-| [sase-zu.8.4](../agents/bbugyi200.athena.sase-zu.8.4/README.md) | sase-zu hood | active |
-| [sase-zu.8.5](bbugyi200.athena.sase-zu.8.5.md) (session · 7) | sase-zu hood | active 7 |
-| [sase-zu.8.land](../agents/bbugyi200.athena.sase-zu.8.land/README.md) | sase-zu hood | active |
+| [sase-zu.1](../agents/bbugyi200.athena.sase-zu.1/README.md) | sase-zu hood | dismissed |
+| [sase-zu.2](../agents/bbugyi200.athena.sase-zu.2/README.md) | sase-zu hood | dismissed |
+| [sase-zu.3](../agents/bbugyi200.athena.sase-zu.3/README.md) | sase-zu hood | dismissed |
+| [sase-zu.4](../agents/bbugyi200.athena.sase-zu.4/README.md) | sase-zu hood | dismissed |
+| [sase-zu.5](../agents/bbugyi200.athena.sase-zu.5/README.md) | sase-zu hood | dismissed |
+| [sase-zu.6](../agents/bbugyi200.athena.sase-zu.6/README.md) | sase-zu hood | dismissed |
+| [sase-zu.7](bbugyi200.athena.sase-zu.7.md) (session · 3) | sase-zu hood | dismissed 3 |
+| [sase-zu.8.1](../agents/bbugyi200.athena.sase-zu.8.1/README.md) | sase-zu hood | dismissed |
+| [sase-zu.8.2](../agents/bbugyi200.athena.sase-zu.8.2/README.md) | sase-zu hood | dismissed |
+| [sase-zu.8.3](../agents/bbugyi200.athena.sase-zu.8.3/README.md) | sase-zu hood | dismissed |
+| [sase-zu.8.4](../agents/bbugyi200.athena.sase-zu.8.4/README.md) | sase-zu hood | dismissed |
+| [sase-zu.8.5](bbugyi200.athena.sase-zu.8.5.md) (session · 7) | sase-zu hood | dismissed 7 |
+| [sase-zu.8.land](../agents/bbugyi200.athena.sase-zu.8.land/README.md) | sase-zu hood | dismissed |

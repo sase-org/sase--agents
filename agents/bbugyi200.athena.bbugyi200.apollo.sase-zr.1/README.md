@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`93f3d58`](https://github.com/sase-org/sase/commit/93f3d58911b9968575bd08676c65b3577e01e016) | feat(gate-shell): add indexed gate-shell-by-gate-id lookup with telemetry | 2026-09-13 19:12:59 EDT |
+| — | `93f3d58` | feat(gate-shell): add indexed gate-shell-by-gate-id lookup with telemetry | 2026-09-13 19:12:59 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc6d51d`](https://github.com/sase-org/sase/commit/cc6d51d2db9984b76e8128f757c60ceaade3c3cc) | fix(gates): harden gate failure lifecycle transitions | 2026-09-17 23:52:08 EDT |
+| — | `cc6d51d` | fix(gates): harden gate failure lifecycle transitions | 2026-09-17 23:52:08 EDT |
 
 ## Neighbors
 
