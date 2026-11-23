@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`801e985`](https://github.com/sase-org/sase/commit/801e98578b5c954150726f8f84946007a80ba468) | fix(dispatch): surface gateway version skew | 2026-09-15 08:05:23 EDT |
+| — | `801e985` | fix(dispatch): surface gateway version skew | 2026-09-15 08:05:23 EDT |
 
 ## Neighbors
 

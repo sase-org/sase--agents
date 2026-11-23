@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d0975c7`](https://github.com/sase-org/sase/commit/d0975c7198d098a3f9b4abbe0f4f5124b7625972) | fix: consume gateway version in fleet status | 2026-09-15 13:59:53 EDT |
+| — | `d0975c7` | fix: consume gateway version in fleet status | 2026-09-15 13:59:53 EDT |
 
 ## Neighbors
 

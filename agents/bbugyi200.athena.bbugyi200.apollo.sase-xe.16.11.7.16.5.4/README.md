@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ca8a60`](https://github.com/sase-org/sase/commit/5ca8a60d2d732e2c2087019b34e93025312ac181) | fix(tui): hide fleet exact attempt fallback | 2026-09-15 15:42:57 EDT |
+| — | `5ca8a60` | fix(tui): hide fleet exact attempt fallback | 2026-09-15 15:42:57 EDT |
 
 ## Neighbors
 

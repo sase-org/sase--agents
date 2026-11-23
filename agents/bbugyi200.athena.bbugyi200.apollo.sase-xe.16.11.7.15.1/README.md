@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f0fb9c8`](https://github.com/sase-org/sase/commit/f0fb9c8843c5ad509960c6ff58cb05fd6cade972) | fix(ace-tui): drop here chips and show host chips on remote nodes | 2026-09-13 20:04:05 EDT |
+| — | `f0fb9c8` | fix(ace-tui): drop here chips and show host chips on remote nodes | 2026-09-13 20:04:05 EDT |
 
 ## Neighbors
 

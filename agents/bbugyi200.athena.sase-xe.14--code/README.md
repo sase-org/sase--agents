@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`287048d`](https://github.com/sase-org/sase/commit/287048d601b6a2003aa01e12743c2ed053c7c982) | feat(dispatch): surface and answer remote question/gate attention in Focus | 2026-09-07 11:24:08 EDT |
+| — | `287048d` | feat(dispatch): surface and answer remote question/gate attention in Focus | 2026-09-07 11:24:08 EDT |
 
 ## Neighbors
 
@@ -52,18 +52,18 @@
 | [sase-xe.16.11.6.4](../bbugyi200.athena.sase-xe.16.11.6.4/README.md) | sase-xe hood | waiting |
 | [sase-xe.16.11.6.5](../bbugyi200.athena.sase-xe.16.11.6.5/README.md) | sase-xe hood | waiting |
 | [sase-xe.16.11.6.6](../bbugyi200.athena.sase-xe.16.11.6.6/README.md) | sase-xe hood | waiting |
-| [sase-xe.16.11.6.land](../bbugyi200.athena.sase-xe.16.11.6.land/README.md) | sase-xe hood | active |
+| [sase-xe.16.11.6.land](../bbugyi200.athena.sase-xe.16.11.6.land/README.md) | sase-xe hood | dismissed |
 | [sase-xe.16.11.7.1](../bbugyi200.athena.sase-xe.16.11.7.1/README.md) | sase-xe hood | active |
 | [sase-xe.16.11.7.10](../bbugyi200.athena.sase-xe.16.11.7.10/README.md) | sase-xe hood | active |
 | [sase-xe.16.11.7.11](../bbugyi200.athena.sase-xe.16.11.7.11/README.md) | sase-xe hood | active |
-| [sase-xe.16.11.7.12](../bbugyi200.athena.sase-xe.16.11.7.12/README.md) | sase-xe hood | active |
+| [sase-xe.16.11.7.12](../bbugyi200.athena.sase-xe.16.11.7.12/README.md) | sase-xe hood | dismissed |
 | [sase-xe.16.11.7.13](../bbugyi200.athena.sase-xe.16.11.7.13/README.md) | sase-xe hood | active |
 | [sase-xe.16.11.7.14.1](../../sessions/bbugyi200.athena.sase-xe.16.11.7.14.1.md) (session · 3) | sase-xe hood | active 2, completed 1 |
 | [sase-xe.16.11.7.14.2](../bbugyi200.athena.sase-xe.16.11.7.14.2/README.md) | sase-xe hood | active |
 | [sase-xe.16.11.7.14.3](../bbugyi200.athena.sase-xe.16.11.7.14.3/README.md) | sase-xe hood | active |
 | [sase-xe.16.11.7.14.4](../bbugyi200.athena.sase-xe.16.11.7.14.4/README.md) | sase-xe hood | active |
 | [sase-xe.16.11.7.14.5](../../sessions/bbugyi200.athena.sase-xe.16.11.7.14.5.md) (session · 4) | sase-xe hood | active 2, completed 1, dismissed 1 |
-| [sase-xe.16.11.7.14.6.1](../../sessions/bbugyi200.athena.sase-xe.16.11.7.14.6.1.md) (session · 7) | sase-xe hood | active 7 |
+| [sase-xe.16.11.7.14.6.1](../../sessions/bbugyi200.athena.sase-xe.16.11.7.14.6.1.md) (session · 7) | sase-xe hood | active 6, dismissed 1 |
 | [sase-xe.16.11.7.14.6.2](../bbugyi200.athena.sase-xe.16.11.7.14.6.2/README.md) | sase-xe hood | active |
 | [sase-xe.16.11.7.14.6.3](../../sessions/bbugyi200.athena.sase-xe.16.11.7.14.6.3.md) (session · 3) | sase-xe hood | active 2, completed 1 |
 | [sase-xe.16.11.7.14.6.4](../bbugyi200.athena.sase-xe.16.11.7.14.6.4/README.md) | sase-xe hood | active |
@@ -77,7 +77,7 @@
 | [sase-xe.16.11.7.14.6.7.5](../bbugyi200.athena.sase-xe.16.11.7.14.6.7.5/README.md) | sase-xe hood | waiting |
 | [sase-xe.16.11.7.14.6.7.6](../bbugyi200.athena.sase-xe.16.11.7.14.6.7.6/README.md) | sase-xe hood | waiting |
 | [sase-xe.16.11.7.14.6.7.land](../bbugyi200.athena.sase-xe.16.11.7.14.6.7.land/README.md) | sase-xe hood | waiting |
-| [sase-xe.16.11.7.14.6.land](../bbugyi200.athena.sase-xe.16.11.7.14.6.land/README.md) | sase-xe hood | waiting |
-| [sase-xe.16.11.7.14.land](../../sessions/bbugyi200.athena.sase-xe.16.11.7.14.land.md) (session · 3) | sase-xe hood | active 3 |
+| [sase-xe.16.11.7.14.6.land](../bbugyi200.athena.sase-xe.16.11.7.14.6.land/README.md) | sase-xe hood | dismissed |
+| [sase-xe.16.11.7.14.land](../../sessions/bbugyi200.athena.sase-xe.16.11.7.14.land.md) (session · 3) | sase-xe hood | active 2, dismissed 1 |
 | [sase-xe.16.11.7.2](../bbugyi200.athena.sase-xe.16.11.7.2/README.md) | sase-xe hood | active |
 | … and 34 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) | sase-xe hood | — |

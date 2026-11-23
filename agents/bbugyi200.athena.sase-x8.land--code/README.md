@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`18b3cf0`](https://github.com/sase-org/sase/commit/18b3cf0fae9238517aefc963fac6387cca660c67) | fix(deps): raise sase-core-rs floor to 0.32.25 for wait.artifacts | 2026-09-05 22:52:57 EDT |
+| — | `18b3cf0` | fix(deps): raise sase-core-rs floor to 0.32.25 for wait.artifacts | 2026-09-05 22:52:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-x8.1](../bbugyi200.athena.sase-x8.1/README.md) | sase-x8 hood | active |
-| [sase-x8.2](../bbugyi200.athena.sase-x8.2/README.md) | sase-x8 hood | active |
-| [sase-x8.3](../bbugyi200.athena.sase-x8.3/README.md) | sase-x8 hood | active |
+| [sase-x8.1](../bbugyi200.athena.sase-x8.1/README.md) | sase-x8 hood | dismissed |
+| [sase-x8.2](../bbugyi200.athena.sase-x8.2/README.md) | sase-x8 hood | dismissed |
+| [sase-x8.3](../bbugyi200.athena.sase-x8.3/README.md) | sase-x8 hood | dismissed |

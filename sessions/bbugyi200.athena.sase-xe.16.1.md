@@ -39,18 +39,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.16.11.6.4](../agents/bbugyi200.athena.sase-xe.16.11.6.4/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.16.11.6.5](../agents/bbugyi200.athena.sase-xe.16.11.6.5/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.16.11.6.6](../agents/bbugyi200.athena.sase-xe.16.11.6.6/README.md) | sase-xe.16 hood | waiting |
-| [sase-xe.16.11.6.land](../agents/bbugyi200.athena.sase-xe.16.11.6.land/README.md) | sase-xe.16 hood | active |
+| [sase-xe.16.11.6.land](../agents/bbugyi200.athena.sase-xe.16.11.6.land/README.md) | sase-xe.16 hood | dismissed |
 | [sase-xe.16.11.7.1](../agents/bbugyi200.athena.sase-xe.16.11.7.1/README.md) | sase-xe.16 hood | active |
 | [sase-xe.16.11.7.10](../agents/bbugyi200.athena.sase-xe.16.11.7.10/README.md) | sase-xe.16 hood | active |
 | [sase-xe.16.11.7.11](../agents/bbugyi200.athena.sase-xe.16.11.7.11/README.md) | sase-xe.16 hood | active |
-| [sase-xe.16.11.7.12](../agents/bbugyi200.athena.sase-xe.16.11.7.12/README.md) | sase-xe.16 hood | active |
+| [sase-xe.16.11.7.12](../agents/bbugyi200.athena.sase-xe.16.11.7.12/README.md) | sase-xe.16 hood | dismissed |
 | [sase-xe.16.11.7.13](../agents/bbugyi200.athena.sase-xe.16.11.7.13/README.md) | sase-xe.16 hood | active |
 | [sase-xe.16.11.7.14.1](bbugyi200.athena.sase-xe.16.11.7.14.1.md) (session · 3) | sase-xe.16 hood | active 2, completed 1 |
 | [sase-xe.16.11.7.14.2](../agents/bbugyi200.athena.sase-xe.16.11.7.14.2/README.md) | sase-xe.16 hood | active |
 | [sase-xe.16.11.7.14.3](../agents/bbugyi200.athena.sase-xe.16.11.7.14.3/README.md) | sase-xe.16 hood | active |
 | [sase-xe.16.11.7.14.4](../agents/bbugyi200.athena.sase-xe.16.11.7.14.4/README.md) | sase-xe.16 hood | active |
 | [sase-xe.16.11.7.14.5](bbugyi200.athena.sase-xe.16.11.7.14.5.md) (session · 4) | sase-xe.16 hood | active 2, completed 1, dismissed 1 |
-| [sase-xe.16.11.7.14.6.1](bbugyi200.athena.sase-xe.16.11.7.14.6.1.md) (session · 7) | sase-xe.16 hood | active 7 |
+| [sase-xe.16.11.7.14.6.1](bbugyi200.athena.sase-xe.16.11.7.14.6.1.md) (session · 7) | sase-xe.16 hood | active 6, dismissed 1 |
 | [sase-xe.16.11.7.14.6.2](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.2/README.md) | sase-xe.16 hood | active |
 | [sase-xe.16.11.7.14.6.3](bbugyi200.athena.sase-xe.16.11.7.14.6.3.md) (session · 3) | sase-xe.16 hood | active 2, completed 1 |
 | [sase-xe.16.11.7.14.6.4](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.4/README.md) | sase-xe.16 hood | active |
@@ -64,10 +64,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.16.11.7.14.6.7.5](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.7.5/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.16.11.7.14.6.7.6](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.7.6/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.16.11.7.14.6.7.land](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.7.land/README.md) | sase-xe.16 hood | waiting |
-| [sase-xe.16.11.7.14.6.land](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.land/README.md) | sase-xe.16 hood | waiting |
-| [sase-xe.16.11.7.14.land](bbugyi200.athena.sase-xe.16.11.7.14.land.md) (session · 3) | sase-xe.16 hood | active 3 |
+| [sase-xe.16.11.7.14.6.land](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.land/README.md) | sase-xe.16 hood | dismissed |
+| [sase-xe.16.11.7.14.land](bbugyi200.athena.sase-xe.16.11.7.14.land.md) (session · 3) | sase-xe.16 hood | active 2, dismissed 1 |
 | [sase-xe.16.11.7.2](../agents/bbugyi200.athena.sase-xe.16.11.7.2/README.md) | sase-xe.16 hood | active |
-| [sase-xe.16.11.7.3](../agents/bbugyi200.athena.sase-xe.16.11.7.3/README.md) | sase-xe.16 hood | active |
+| [sase-xe.16.11.7.3](../agents/bbugyi200.athena.sase-xe.16.11.7.3/README.md) | sase-xe.16 hood | dismissed |
 | [sase-xe.16.11.7.4](../agents/bbugyi200.athena.sase-xe.16.11.7.4/README.md) | sase-xe.16 hood | active |
 | [sase-xe.16.11.7.5](../agents/bbugyi200.athena.sase-xe.16.11.7.5/README.md) | sase-xe.16 hood | active |
 | [sase-xe.16.11.7.6](../agents/bbugyi200.athena.sase-xe.16.11.7.6/README.md) | sase-xe.16 hood | active |
@@ -97,7 +97,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.6](../agents/bbugyi200.athena.sase-xe.6/README.md) | sase-xe hood | active |
 | [sase-xe.7](bbugyi200.athena.sase-xe.7.md) (session · 3) | sase-xe hood | active 2, failed 1 |
 | [sase-xe.7.f0](../agents/bbugyi200.athena.sase-xe.7.f0/README.md) | sase-xe hood | active |
-| [sase-xe.8](bbugyi200.athena.sase-xe.8.md) (session · 3) | sase-xe hood | active 2, completed 1 |
+| [sase-xe.8](bbugyi200.athena.sase-xe.8.md) (session · 3) | sase-xe hood | active 1, completed 1, dismissed 1 |
 | [sase-xe.8](../agents/bbugyi200.athena.sase-xe.8/README.md) | sase-xe hood | waiting |
 | [sase-xe.9](../agents/bbugyi200.athena.sase-xe.9/README.md) | sase-xe hood | active |
 | [sase-xe.land](bbugyi200.athena.sase-xe.land.md) (session · 3) | sase-xe hood | active 3 |

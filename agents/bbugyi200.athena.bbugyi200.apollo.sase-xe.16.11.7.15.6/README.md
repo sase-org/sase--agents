@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ccd3253`](https://github.com/sase-org/sase/commit/ccd32537f54e37fddfdbf423da911ab5e44372f0) | fix(tui): prove fleet remote display parity | 2026-09-14 15:12:53 EDT |
+| — | `ccd3253` | fix(tui): prove fleet remote display parity | 2026-09-14 15:12:53 EDT |
 
 ## Neighbors
 
