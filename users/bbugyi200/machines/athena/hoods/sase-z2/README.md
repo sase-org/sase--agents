@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-z2
 
-**Global hood:** `bbugyi200.athena.sase-z2` · **Runs:** 9 · **Sessions:** 1 · **States:** active 1, dismissed 8
+**Global hood:** `bbugyi200.athena.sase-z2` · **Runs:** 9 · **Sessions:** 1 · **States:** dismissed 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -14,4 +14,4 @@
 | [sase-z2.land--mon](../../../../../../sessions/bbugyi200.athena.sase-z2.land.md#member-mon) | dismissed | gpt-5.6-sol / codex | 2026-09-10T12:48:54.324592 → 2026-09-10T12:50:44.028902 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-z2.land--mon/chat.md) |
 | [sase-z2.3](../../../../../../agents/bbugyi200.athena.sase-z2.3/README.md) | dismissed | gpt-5.5 / codex | 2026-09-09T18:28:04.093796 → 2026-09-09T19:44:00.872747 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-z2.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-z2.3/prompt.md) |
 | [sase-z2.2](../../../../../../agents/bbugyi200.athena.sase-z2.2/README.md) | dismissed | gpt-5.5 / codex | 2026-09-10T10:01:03.314442 → 2026-09-10T12:00:37.818775 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-z2.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-z2.2/prompt.md) |
-| [sase-z2.5.land](../../../../../../agents/bbugyi200.athena.sase-z2.5.land/README.md) | active | gpt-5.6-sol / codex | 2026-09-10T16:57:44.995146+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-z2.5.land/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-z2.5.land/prompt.md) |
+| [sase-z2.5.land](../../../../../../agents/bbugyi200.athena.sase-z2.5.land/README.md) | dismissed | gpt-5.6-sol / codex | 2026-09-10T12:57:44.995146 → 2026-09-10T13:17:42.713106 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-z2.5.land/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-z2.5.land/prompt.md) |

@@ -32,4 +32,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-z2.3](../agents/bbugyi200.athena.sase-z2.3/README.md) | sase-z2 hood | dismissed |
 | [sase-z2.4](../agents/bbugyi200.athena.sase-z2.4/README.md) | sase-z2 hood | dismissed |
 | [sase-z2.5.1](../agents/bbugyi200.athena.sase-z2.5.1/README.md) | sase-z2 hood | dismissed |
-| [sase-z2.5.land](../agents/bbugyi200.athena.sase-z2.5.land/README.md) | sase-z2 hood | active |
+| [sase-z2.5.land](../agents/bbugyi200.athena.sase-z2.5.land/README.md) | sase-z2 hood | dismissed |

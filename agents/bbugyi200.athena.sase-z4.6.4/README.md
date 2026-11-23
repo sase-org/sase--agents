@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-z4](../../users/bbugyi200/machines/athena/hoods/sase-z4/README.md) / sase-z4.6.4
 
-**Global name:** `bbugyi200.athena.sase-z4.6.4` · **State:** active · **Source run:** `run-1e5bb9c1d9a99e01fc9be992c3d4f45f`
+**Global name:** `bbugyi200.athena.sase-z4.6.4` · **State:** dismissed · **Source run:** `run-1e5bb9c1d9a99e01fc9be992c3d4f45f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-z4
 
@@ -12,7 +12,7 @@
 - Epic: [sase-z4.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-z4/sase-z4.6.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-10T15:47:30.324057+00:00
+- Timing: 2026-09-10T11:47:30.324057 → 2026-09-10T13:04:02.049869
 - Commits: [1](#commits)
 
 ## Files
@@ -23,34 +23,34 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4f6eb2b`](https://github.com/sase-org/sase/commit/4f6eb2b173aacb3f4aeb954753fb57aefcb01f10) | deps(core): ratchet weighted capacity floor | 2026-09-10 12:57:36 EDT |
+| — | `4f6eb2b` | deps(core): ratchet weighted capacity floor | 2026-09-10 12:57:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-z4.6.1](../bbugyi200.athena.sase-z4.6.1/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.2](../bbugyi200.athena.sase-z4.6.2/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.3](../bbugyi200.athena.sase-z4.6.3/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.1](../../sessions/bbugyi200.athena.sase-z4.6.5.1.md) (session · 7) | sase-z4.6 hood | active 7 |
-| [sase-z4.6.5.2](../bbugyi200.athena.sase-z4.6.5.2/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.3](../bbugyi200.athena.sase-z4.6.5.3/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.4.1](../bbugyi200.athena.sase-z4.6.5.4.1/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.4.2](../bbugyi200.athena.sase-z4.6.5.4.2/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.4.3](../bbugyi200.athena.sase-z4.6.5.4.3/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.4.4](../bbugyi200.athena.sase-z4.6.5.4.4/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.4.5](../bbugyi200.athena.sase-z4.6.5.4.5/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.4.6.1](../bbugyi200.athena.sase-z4.6.5.4.6.1/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.4.6.2](../../sessions/bbugyi200.athena.sase-z4.6.5.4.6.2.md) (session · 5) | sase-z4.6 hood | active 5 |
-| [sase-z4.6.5.4.6.3](../bbugyi200.athena.sase-z4.6.5.4.6.3/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.4.6.land](../bbugyi200.athena.sase-z4.6.5.4.6.land/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.4.6.land.f0](../bbugyi200.athena.sase-z4.6.5.4.6.land.f0/README.md) | sase-z4.6 hood | active |
-| [sase-z4.6.5.4.land](../../sessions/bbugyi200.athena.sase-z4.6.5.4.land.md) (session · 3) | sase-z4.6 hood | active 3 |
-| [sase-z4.6.5.land](../../sessions/bbugyi200.athena.sase-z4.6.5.land.md) (session · 3) | sase-z4.6 hood | active 3 |
-| [sase-z4.6.land](../../sessions/bbugyi200.athena.sase-z4.6.land.md) (session · 3) | sase-z4.6 hood | active 3 |
-| [sase-z4.1](../bbugyi200.athena.sase-z4.1/README.md) | sase-z4 hood | active |
-| [sase-z4.2](../bbugyi200.athena.sase-z4.2/README.md) | sase-z4 hood | active |
-| [sase-z4.3](../bbugyi200.athena.sase-z4.3/README.md) | sase-z4 hood | active |
-| [sase-z4.4](../bbugyi200.athena.sase-z4.4/README.md) | sase-z4 hood | active |
-| [sase-z4.5](../bbugyi200.athena.sase-z4.5/README.md) | sase-z4 hood | active |
-| [sase-z4.land](../../sessions/bbugyi200.athena.sase-z4.land.md) (session · 3) | sase-z4 hood | active 3 |
+| [sase-z4.6.1](../bbugyi200.athena.sase-z4.6.1/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.2](../bbugyi200.athena.sase-z4.6.2/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.3](../bbugyi200.athena.sase-z4.6.3/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.1](../../sessions/bbugyi200.athena.sase-z4.6.5.1.md) (session · 7) | sase-z4.6 hood | dismissed 7 |
+| [sase-z4.6.5.2](../bbugyi200.athena.sase-z4.6.5.2/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.3](../bbugyi200.athena.sase-z4.6.5.3/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.4.1](../bbugyi200.athena.sase-z4.6.5.4.1/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.4.2](../bbugyi200.athena.sase-z4.6.5.4.2/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.4.3](../bbugyi200.athena.sase-z4.6.5.4.3/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.4.4](../bbugyi200.athena.sase-z4.6.5.4.4/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.4.5](../bbugyi200.athena.sase-z4.6.5.4.5/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.4.6.1](../bbugyi200.athena.sase-z4.6.5.4.6.1/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.4.6.2](../../sessions/bbugyi200.athena.sase-z4.6.5.4.6.2.md) (session · 5) | sase-z4.6 hood | dismissed 5 |
+| [sase-z4.6.5.4.6.3](../bbugyi200.athena.sase-z4.6.5.4.6.3/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.4.6.land](../bbugyi200.athena.sase-z4.6.5.4.6.land/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.4.6.land.f0](../bbugyi200.athena.sase-z4.6.5.4.6.land.f0/README.md) | sase-z4.6 hood | dismissed |
+| [sase-z4.6.5.4.land](../../sessions/bbugyi200.athena.sase-z4.6.5.4.land.md) (session · 3) | sase-z4.6 hood | dismissed 3 |
+| [sase-z4.6.5.land](../../sessions/bbugyi200.athena.sase-z4.6.5.land.md) (session · 3) | sase-z4.6 hood | dismissed 3 |
+| [sase-z4.6.land](../../sessions/bbugyi200.athena.sase-z4.6.land.md) (session · 3) | sase-z4.6 hood | dismissed 3 |
+| [sase-z4.1](../bbugyi200.athena.sase-z4.1/README.md) | sase-z4 hood | dismissed |
+| [sase-z4.2](../bbugyi200.athena.sase-z4.2/README.md) | sase-z4 hood | dismissed |
+| [sase-z4.3](../bbugyi200.athena.sase-z4.3/README.md) | sase-z4 hood | dismissed |
+| [sase-z4.4](../bbugyi200.athena.sase-z4.4/README.md) | sase-z4 hood | dismissed |
+| [sase-z4.5](../bbugyi200.athena.sase-z4.5/README.md) | sase-z4 hood | dismissed |
+| [sase-z4.land](../../sessions/bbugyi200.athena.sase-z4.land.md) (session · 3) | sase-z4 hood | dismissed 3 |

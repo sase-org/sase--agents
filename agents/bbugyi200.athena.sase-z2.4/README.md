@@ -33,5 +33,5 @@
 | [sase-z2.2](../bbugyi200.athena.sase-z2.2/README.md) | sase-z2 hood | dismissed |
 | [sase-z2.3](../bbugyi200.athena.sase-z2.3/README.md) | sase-z2 hood | dismissed |
 | [sase-z2.5.1](../bbugyi200.athena.sase-z2.5.1/README.md) | sase-z2 hood | dismissed |
-| [sase-z2.5.land](../bbugyi200.athena.sase-z2.5.land/README.md) | sase-z2 hood | active |
+| [sase-z2.5.land](../bbugyi200.athena.sase-z2.5.land/README.md) | sase-z2 hood | dismissed |
 | [sase-z2.land](../../sessions/bbugyi200.athena.sase-z2.land.md) (session · 3) | sase-z2 hood | dismissed 3 |

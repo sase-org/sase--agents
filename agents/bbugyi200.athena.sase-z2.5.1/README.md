@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-z2.5.land](../bbugyi200.athena.sase-z2.5.land/README.md) | sase-z2.5 hood | active |
+| [sase-z2.5.land](../bbugyi200.athena.sase-z2.5.land/README.md) | sase-z2.5 hood | dismissed |
 | [sase-z2.1](../bbugyi200.athena.sase-z2.1/README.md) | sase-z2 hood | dismissed |
 | [sase-z2.2](../bbugyi200.athena.sase-z2.2/README.md) | sase-z2 hood | dismissed |
 | [sase-z2.3](../bbugyi200.athena.sase-z2.3/README.md) | sase-z2 hood | dismissed |
