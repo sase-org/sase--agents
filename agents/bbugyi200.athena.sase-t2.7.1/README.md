@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-t2](../../users/bbugyi200/machines/athena/hoods/sase-t2/README.md) / sase-t2.7.1
 
-**Global name:** `bbugyi200.athena.sase-t2.7.1` · **State:** active · **Source run:** `run-7c232dac54f5075765f94f72ecb22bbe`
+**Global name:** `bbugyi200.athena.sase-t2.7.1` · **State:** dismissed · **Source run:** `run-7c232dac54f5075765f94f72ecb22bbe`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-t2
 
@@ -12,7 +12,7 @@
 - Epic: [sase-t2.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-t2/sase-t2.7.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-25T13:45:41.312698+00:00
+- Timing: 2026-08-25T09:45:06
 - Commits: [1](#commits)
 
 ## Files
@@ -23,18 +23,18 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c3ec87`](https://github.com/sase-org/sase/commit/8c3ec87f97d35e50cc4b2994ee3c271236a4ca9d) | fix(bead): preserve legacy conflict event bytes | 2026-08-25 10:17:31 EDT |
+| — | `8c3ec87` | fix(bead): preserve legacy conflict event bytes | 2026-08-25 10:17:31 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-t2.7.2](../../sessions/bbugyi200.athena.sase-t2.7.2.md) (session · 2) | sase-t2.7 hood | active 1, completed 1 |
-| [sase-t2.7.land](../bbugyi200.athena.sase-t2.7.land/README.md) | sase-t2.7 hood | active |
-| [sase-t2.1](../bbugyi200.athena.sase-t2.1/README.md) | sase-t2 hood | active |
-| [sase-t2.2](../bbugyi200.athena.sase-t2.2/README.md) | sase-t2 hood | active |
-| [sase-t2.3](../bbugyi200.athena.sase-t2.3/README.md) | sase-t2 hood | active |
-| [sase-t2.4](../bbugyi200.athena.sase-t2.4/README.md) | sase-t2 hood | active |
-| [sase-t2.5](../bbugyi200.athena.sase-t2.5/README.md) | sase-t2 hood | active |
-| [sase-t2.6](../bbugyi200.athena.sase-t2.6/README.md) | sase-t2 hood | active |
-| [sase-t2.land](../../sessions/bbugyi200.athena.sase-t2.land.md) (session · 2) | sase-t2 hood | active 1, failed 1 |
+| [sase-t2.7.2](../../sessions/bbugyi200.athena.sase-t2.7.2.md) (session · 2) | sase-t2.7 hood | completed 1, dismissed 1 |
+| [sase-t2.7.land](../bbugyi200.athena.sase-t2.7.land/README.md) | sase-t2.7 hood | dismissed |
+| [sase-t2.1](../bbugyi200.athena.sase-t2.1/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.2](../bbugyi200.athena.sase-t2.2/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.3](../bbugyi200.athena.sase-t2.3/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.4](../bbugyi200.athena.sase-t2.4/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.5](../bbugyi200.athena.sase-t2.5/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.6](../bbugyi200.athena.sase-t2.6/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.land](../../sessions/bbugyi200.athena.sase-t2.land.md) (session · 2) | sase-t2 hood | dismissed 1, failed 1 |

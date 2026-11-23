@@ -23,18 +23,18 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7cb0eab`](https://github.com/sase-org/sase/commit/7cb0eab8eca0995f812d8598bcd1337de0d04741) | docs(beads): rewrite bead-notes memory for the append-only note log | 2026-08-25 10:19:22 EDT |
+| — | `7cb0eab` | docs(beads): rewrite bead-notes memory for the append-only note log | 2026-08-25 10:19:22 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-t2.7.1](../bbugyi200.athena.sase-t2.7.1/README.md) | sase-t2.7 hood | active |
-| [sase-t2.7.land](../bbugyi200.athena.sase-t2.7.land/README.md) | sase-t2.7 hood | active |
-| [sase-t2.1](../bbugyi200.athena.sase-t2.1/README.md) | sase-t2 hood | active |
-| [sase-t2.2](../bbugyi200.athena.sase-t2.2/README.md) | sase-t2 hood | active |
-| [sase-t2.3](../bbugyi200.athena.sase-t2.3/README.md) | sase-t2 hood | active |
-| [sase-t2.4](../bbugyi200.athena.sase-t2.4/README.md) | sase-t2 hood | active |
-| [sase-t2.5](../bbugyi200.athena.sase-t2.5/README.md) | sase-t2 hood | active |
-| [sase-t2.6](../bbugyi200.athena.sase-t2.6/README.md) | sase-t2 hood | active |
-| [sase-t2.land](../../sessions/bbugyi200.athena.sase-t2.land.md) (session · 2) | sase-t2 hood | active 1, failed 1 |
+| [sase-t2.7.1](../bbugyi200.athena.sase-t2.7.1/README.md) | sase-t2.7 hood | dismissed |
+| [sase-t2.7.land](../bbugyi200.athena.sase-t2.7.land/README.md) | sase-t2.7 hood | dismissed |
+| [sase-t2.1](../bbugyi200.athena.sase-t2.1/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.2](../bbugyi200.athena.sase-t2.2/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.3](../bbugyi200.athena.sase-t2.3/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.4](../bbugyi200.athena.sase-t2.4/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.5](../bbugyi200.athena.sase-t2.5/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.6](../bbugyi200.athena.sase-t2.6/README.md) | sase-t2 hood | dismissed |
+| [sase-t2.land](../../sessions/bbugyi200.athena.sase-t2.land.md) (session · 2) | sase-t2 hood | dismissed 1, failed 1 |

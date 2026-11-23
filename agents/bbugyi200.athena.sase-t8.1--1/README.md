@@ -22,6 +22,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-t8.2](../bbugyi200.athena.sase-t8.2/README.md) | sase-t8 hood | active |
-| [sase-t8.3](../../sessions/bbugyi200.athena.sase-t8.3.md) (session · 3) | sase-t8 hood | active 2, failed 1 |
-| [sase-t8.land](../bbugyi200.athena.sase-t8.land/README.md) | sase-t8 hood | active |
+| [sase-t8.2](../bbugyi200.athena.sase-t8.2/README.md) | sase-t8 hood | dismissed |
+| [sase-t8.3](../../sessions/bbugyi200.athena.sase-t8.3.md) (session · 3) | sase-t8 hood | dismissed 2, failed 1 |
+| [sase-t8.land](../bbugyi200.athena.sase-t8.land/README.md) | sase-t8 hood | dismissed |

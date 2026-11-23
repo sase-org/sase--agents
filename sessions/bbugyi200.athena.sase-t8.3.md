@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-t8` · Members: 3 · Bead: [sase-t8.3](
 
 ```mermaid
 flowchart TD
-  n0["sase-t8.3--plan [active]"]
+  n0["sase-t8.3--plan [dismissed]"]
   n1["sase-t8.3--mon [failed]"]
   n0 --> n1
-  n2["sase-t8.3--1 [active]"]
+  n2["sase-t8.3--1 [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,20 +19,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-t8.3--plan | active | sonnet / claude | 2026-08-25T00:28:37.657190+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-t8.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-t8.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-t8.3--plan | dismissed | sonnet / claude | 2026-08-24T18:29:25 | 0 | [Prompt](../agents/bbugyi200.athena.sase-t8.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-t8.3--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-t8.3--mon | failed | sonnet / claude | 2026-08-25T00:57:30.006485+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-t8.3--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-t8.3--1 | active | sonnet / claude | 2026-08-25T01:13:50.239610+00:00 | [1](../agents/bbugyi200.athena.sase-t8.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-t8.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-t8.3--1 | dismissed | sonnet / claude | 2026-08-24T21:13:17 | [1](../agents/bbugyi200.athena.sase-t8.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-t8.3--1/prompt.md) | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`69dc50a`](https://github.com/sase-org/sase/commit/69dc50a31af35724d9784b775f557fad3ea0a57f) | feat(ace): expose shell forks throughout ACE | 2026-08-24 21:16:35 EDT |
+| 1 | — | `69dc50a` | feat(ace): expose shell forks throughout ACE | 2026-08-24 21:16:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-t8.1](bbugyi200.athena.sase-t8.1.md) (session · 3) | sase-t8 hood | active 1, failed 2 |
-| [sase-t8.2](../agents/bbugyi200.athena.sase-t8.2/README.md) | sase-t8 hood | active |
-| [sase-t8.land](../agents/bbugyi200.athena.sase-t8.land/README.md) | sase-t8 hood | active |
+| [sase-t8.1](bbugyi200.athena.sase-t8.1.md) (session · 3) | sase-t8 hood | dismissed 1, failed 2 |
+| [sase-t8.2](../agents/bbugyi200.athena.sase-t8.2/README.md) | sase-t8 hood | dismissed |
+| [sase-t8.land](../agents/bbugyi200.athena.sase-t8.land/README.md) | sase-t8 hood | dismissed |

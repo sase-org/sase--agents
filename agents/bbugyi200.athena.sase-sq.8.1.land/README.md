@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-sq](../../users/bbugyi200/machines/athena/hoods/sase-sq/README.md) / sase-sq.8.1.land
 
-**Global name:** `bbugyi200.athena.sase-sq.8.1.land` · **State:** active · **Source run:** `run-eb95e765abdfdf0833ed2ba88d21fa85`
+**Global name:** `bbugyi200.athena.sase-sq.8.1.land` · **State:** dismissed · **Source run:** `run-eb95e765abdfdf0833ed2ba88d21fa85`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-sq
 
@@ -11,7 +11,7 @@
 - Bead: [sase-sq.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-sq/sase-sq.8.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-25T05:34:54.590958+00:00
+- Timing: 2026-08-24T23:11:47
 - Commits: [1](#commits)
 
 ## Files
@@ -22,30 +22,30 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b592cfa`](https://github.com/sase-org/sase/commit/b592cfa5760d6f3f8c1b2f948780b0a8e25ae1cf) | fix(memory): finish retiring the config glossary across ACE and generated memory | 2026-08-25 02:53:12 EDT |
+| — | `b592cfa` | fix(memory): finish retiring the config glossary across ACE and generated memory | 2026-08-25 02:53:12 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-sq.8](../../sessions/bbugyi200.athena.sase-sq.8.md) (session · 2) | ancestor | active 1, failed 1 |
-| [sase-sq.8.1.1](../bbugyi200.athena.sase-sq.8.1.1/README.md) | sase-sq.8.1 hood | active |
-| [sase-sq.8.1.2](../bbugyi200.athena.sase-sq.8.1.2/README.md) | sase-sq.8.1 hood | active |
-| [sase-sq.8.1.3](../bbugyi200.athena.sase-sq.8.1.3/README.md) | sase-sq.8.1 hood | active |
-| [sase-sq.1](../../sessions/bbugyi200.athena.sase-sq.1.md) (session · 2) | sase-sq hood | active 1, completed 1 |
-| [sase-sq.2](../../sessions/bbugyi200.athena.sase-sq.2.md) (session · 2) | sase-sq hood | active 2 |
-| [sase-sq.3](../bbugyi200.athena.sase-sq.3/README.md) | sase-sq hood | active |
-| [sase-sq.4](../bbugyi200.athena.sase-sq.4/README.md) | sase-sq hood | active |
-| [sase-sq.5](../../sessions/bbugyi200.athena.sase-sq.5.md) (session · 7) | sase-sq hood | active 4, failed 3 |
-| [sase-sq.6](../bbugyi200.athena.sase-sq.6/README.md) | sase-sq hood | active |
-| [sase-sq.7](../../sessions/bbugyi200.athena.sase-sq.7.md) (session · 2) | sase-sq hood | active 1, failed 1 |
-| [sase-sq.7.1.1](../bbugyi200.athena.sase-sq.7.1.1/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.2](../bbugyi200.athena.sase-sq.7.1.2/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.2.f0](../bbugyi200.athena.sase-sq.7.1.2.f0/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.2.f0.f0](../bbugyi200.athena.sase-sq.7.1.2.f0.f0/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.3](../../sessions/bbugyi200.athena.sase-sq.7.1.3.md) (session · 5) | sase-sq hood | active 3, failed 2 |
-| [sase-sq.7.1.4](../bbugyi200.athena.sase-sq.7.1.4/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.5](../bbugyi200.athena.sase-sq.7.1.5/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.6](../../sessions/bbugyi200.athena.sase-sq.7.1.6.md) (session · 7) | sase-sq hood | active 4, failed 3 |
-| [sase-sq.7.1.land](../bbugyi200.athena.sase-sq.7.1.land/README.md) | sase-sq hood | active |
-| [sase-sq.land](../../sessions/bbugyi200.athena.sase-sq.land.md) (session · 3) | sase-sq hood | active 3 |
+| [sase-sq.8](../../sessions/bbugyi200.athena.sase-sq.8.md) (session · 2) | ancestor | dismissed 1, failed 1 |
+| [sase-sq.8.1.1](../bbugyi200.athena.sase-sq.8.1.1/README.md) | sase-sq.8.1 hood | dismissed |
+| [sase-sq.8.1.2](../bbugyi200.athena.sase-sq.8.1.2/README.md) | sase-sq.8.1 hood | dismissed |
+| [sase-sq.8.1.3](../bbugyi200.athena.sase-sq.8.1.3/README.md) | sase-sq.8.1 hood | dismissed |
+| [sase-sq.1](../../sessions/bbugyi200.athena.sase-sq.1.md) (session · 2) | sase-sq hood | completed 1, dismissed 1 |
+| [sase-sq.2](../../sessions/bbugyi200.athena.sase-sq.2.md) (session · 2) | sase-sq hood | active 1, dismissed 1 |
+| [sase-sq.3](../bbugyi200.athena.sase-sq.3/README.md) | sase-sq hood | dismissed |
+| [sase-sq.4](../bbugyi200.athena.sase-sq.4/README.md) | sase-sq hood | dismissed |
+| [sase-sq.5](../../sessions/bbugyi200.athena.sase-sq.5.md) (session · 7) | sase-sq hood | dismissed 4, failed 3 |
+| [sase-sq.6](../bbugyi200.athena.sase-sq.6/README.md) | sase-sq hood | dismissed |
+| [sase-sq.7](../../sessions/bbugyi200.athena.sase-sq.7.md) (session · 2) | sase-sq hood | dismissed 1, failed 1 |
+| [sase-sq.7.1.1](../bbugyi200.athena.sase-sq.7.1.1/README.md) | sase-sq hood | dismissed |
+| [sase-sq.7.1.2](../bbugyi200.athena.sase-sq.7.1.2/README.md) | sase-sq hood | dismissed |
+| [sase-sq.7.1.2.f0](../bbugyi200.athena.sase-sq.7.1.2.f0/README.md) | sase-sq hood | dismissed |
+| [sase-sq.7.1.2.f0.f0](../bbugyi200.athena.sase-sq.7.1.2.f0.f0/README.md) | sase-sq hood | dismissed |
+| [sase-sq.7.1.3](../../sessions/bbugyi200.athena.sase-sq.7.1.3.md) (session · 5) | sase-sq hood | dismissed 3, failed 2 |
+| [sase-sq.7.1.4](../bbugyi200.athena.sase-sq.7.1.4/README.md) | sase-sq hood | dismissed |
+| [sase-sq.7.1.5](../bbugyi200.athena.sase-sq.7.1.5/README.md) | sase-sq hood | dismissed |
+| [sase-sq.7.1.6](../../sessions/bbugyi200.athena.sase-sq.7.1.6.md) (session · 7) | sase-sq hood | dismissed 4, failed 3 |
+| [sase-sq.7.1.land](../bbugyi200.athena.sase-sq.7.1.land/README.md) | sase-sq hood | dismissed |
+| [sase-sq.land](../../sessions/bbugyi200.athena.sase-sq.land.md) (session · 3) | sase-sq hood | dismissed 3 |

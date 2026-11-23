@@ -23,9 +23,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-sp.1](../bbugyi200.athena.sase-sp.1/README.md) | sase-sp hood | active |
-| [sase-sp.3](../bbugyi200.athena.sase-sp.3/README.md) | sase-sp hood | active |
-| [sase-sp.4](../../sessions/bbugyi200.athena.sase-sp.4.md) (session · 7) | sase-sp hood | active 4, failed 3 |
-| [sase-sp.5](../bbugyi200.athena.sase-sp.5/README.md) | sase-sp hood | active |
-| [sase-sp.6](../bbugyi200.athena.sase-sp.6/README.md) | sase-sp hood | active |
-| [sase-sp.land](../bbugyi200.athena.sase-sp.land/README.md) | sase-sp hood | active |
+| [sase-sp.1](../bbugyi200.athena.sase-sp.1/README.md) | sase-sp hood | dismissed |
+| [sase-sp.3](../bbugyi200.athena.sase-sp.3/README.md) | sase-sp hood | dismissed |
+| [sase-sp.4](../../sessions/bbugyi200.athena.sase-sp.4.md) (session · 7) | sase-sp hood | dismissed 4, failed 3 |
+| [sase-sp.5](../bbugyi200.athena.sase-sp.5/README.md) | sase-sp hood | dismissed |
+| [sase-sp.6](../bbugyi200.athena.sase-sp.6/README.md) | sase-sp hood | dismissed |
+| [sase-sp.land](../bbugyi200.athena.sase-sp.land/README.md) | sase-sp hood | dismissed |
