@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-tk](../../users/bbugyi200/machines/athena/hoods/sase-tk/README.md) / sase-tk.1
 
-**Global name:** `bbugyi200.athena.sase-tk.1` · **State:** active · **Source run:** `run-b2e7b73a0aae95ec2bb869c855223c30`
+**Global name:** `bbugyi200.athena.sase-tk.1` · **State:** dismissed · **Source run:** `run-b2e7b73a0aae95ec2bb869c855223c30`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-tk
 
@@ -12,7 +12,7 @@
 - Epic: [sase-tk](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tk/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-25T12:42:20.899220+00:00
+- Timing: 2026-08-25T08:41:49
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9cf6049`](https://github.com/sase-org/sase/commit/9cf60497818ced2098ef7483302e64ee411b46a7) | feat(agent): lease workspaces for project conditions | 2026-08-25 10:16:54 EDT |
+| — | `9cf6049` | feat(agent): lease workspaces for project conditions | 2026-08-25 10:16:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-tk.2](../bbugyi200.athena.sase-tk.2/README.md) | sase-tk hood | active |
-| [sase-tk.3](../bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | active |
-| [sase-tk.4](../../sessions/bbugyi200.athena.sase-tk.4.md) (session · 3) | sase-tk hood | active 2, failed 1 |
-| [sase-tk.land](../../sessions/bbugyi200.athena.sase-tk.land.md) (session · 2) | sase-tk hood | active 1, completed 1 |
+| [sase-tk.2](../bbugyi200.athena.sase-tk.2/README.md) | sase-tk hood | dismissed |
+| [sase-tk.3](../bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | dismissed |
+| [sase-tk.4](../../sessions/bbugyi200.athena.sase-tk.4.md) (session · 3) | sase-tk hood | dismissed 2, failed 1 |
+| [sase-tk.land](../../sessions/bbugyi200.athena.sase-tk.land.md) (session · 2) | sase-tk hood | completed 1, dismissed 1 |

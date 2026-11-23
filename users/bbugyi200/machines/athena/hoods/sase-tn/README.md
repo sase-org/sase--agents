@@ -2,10 +2,10 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-tn
 
-**Global hood:** `bbugyi200.athena.sase-tn` · **Runs:** 3 · **Sessions:** 0 · **States:** active 3
+**Global hood:** `bbugyi200.athena.sase-tn` · **Runs:** 3 · **Sessions:** 0 · **States:** dismissed 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-tn.2](../../../../../../agents/bbugyi200.athena.sase-tn.2/README.md) | active | gpt-5.5 / codex | 2026-08-25T16:42:44.188797+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tn.2/prompt.md) |
-| [sase-tn.land](../../../../../../agents/bbugyi200.athena.sase-tn.land/README.md) | active | opus / claude | 2026-08-25T17:04:20.370586+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tn.land/prompt.md) |
-| [sase-tn.1](../../../../../../agents/bbugyi200.athena.sase-tn.1/README.md) | active | sonnet / claude | 2026-08-25T16:37:43.906780+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tn.1/prompt.md) |
+| [sase-tn.2](../../../../../../agents/bbugyi200.athena.sase-tn.2/README.md) | dismissed | gpt-5.5 / codex | 2026-08-25T12:37:12 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tn.2/prompt.md) |
+| [sase-tn.land](../../../../../../agents/bbugyi200.athena.sase-tn.land/README.md) | dismissed | opus / claude | 2026-08-25T12:37:13 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tn.land/prompt.md) |
+| [sase-tn.1](../../../../../../agents/bbugyi200.athena.sase-tn.1/README.md) | dismissed | sonnet / claude | 2026-08-25T12:37:11 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tn.1/prompt.md) |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-th](../../users/bbugyi200/machines/athena/hoods/sase-th/README.md) / sase-th.1
 
-**Global name:** `bbugyi200.athena.sase-th.1` · **State:** active · **Source run:** `run-5ec5b52f1040ebdd89354e84f6f5dd96`
+**Global name:** `bbugyi200.athena.sase-th.1` · **State:** dismissed · **Source run:** `run-5ec5b52f1040ebdd89354e84f6f5dd96`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-th
 
@@ -12,7 +12,7 @@
 - Epic: [sase-th](https://github.com/sase-org/sase--beads/blob/main/pages/sase-th/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-25T11:33:25.644078+00:00
+- Timing: 2026-08-25T07:33:01
 - Commits: [1](#commits)
 
 ## Files
@@ -23,19 +23,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5fff948`](https://github.com/sase-org/sase/commit/5fff948a9735e7f613006a10c8cb34ea8c363d88) | fix(memory): retire dead glossary symbols | 2026-08-25 07:47:55 EDT |
+| — | `5fff948` | fix(memory): retire dead glossary symbols | 2026-08-25 07:47:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-th.2](../bbugyi200.athena.sase-th.2/README.md) | sase-th hood | active |
-| [sase-th.3](../bbugyi200.athena.sase-th.3/README.md) | sase-th hood | active |
-| [sase-th.4](../bbugyi200.athena.sase-th.4/README.md) | sase-th hood | active |
-| [sase-th.5](../../sessions/bbugyi200.athena.sase-th.5.md) (session · 3) | sase-th hood | active 2, failed 1 |
-| [sase-th.6](../bbugyi200.athena.sase-th.6/README.md) | sase-th hood | active |
-| [sase-th.7](../../sessions/bbugyi200.athena.sase-th.7.md) (session · 8) | sase-th hood | active 4, failed 4 |
+| [sase-th.2](../bbugyi200.athena.sase-th.2/README.md) | sase-th hood | dismissed |
+| [sase-th.3](../bbugyi200.athena.sase-th.3/README.md) | sase-th hood | dismissed |
+| [sase-th.4](../bbugyi200.athena.sase-th.4/README.md) | sase-th hood | dismissed |
+| [sase-th.5](../../sessions/bbugyi200.athena.sase-th.5.md) (session · 3) | sase-th hood | dismissed 2, failed 1 |
+| [sase-th.6](../bbugyi200.athena.sase-th.6/README.md) | sase-th hood | dismissed |
+| [sase-th.7](../../sessions/bbugyi200.athena.sase-th.7.md) (session · 8) | sase-th hood | dismissed 4, failed 4 |
 | [sase-th.7](../bbugyi200.athena.sase-th.7/README.md) | sase-th hood | waiting |
-| [sase-th.7--4--0](../bbugyi200.athena.sase-th.7--4--0/README.md) | sase-th hood | active |
+| [sase-th.7--4--0](../bbugyi200.athena.sase-th.7--4--0/README.md) | sase-th hood | dismissed |
 | [sase-th.7--4--1](../bbugyi200.athena.sase-th.7--4--1/README.md) | sase-th hood | completed |
-| [sase-th.land](../bbugyi200.athena.sase-th.land/README.md) | sase-th hood | waiting |
+| [sase-th.land](../bbugyi200.athena.sase-th.land/README.md) | sase-th hood | dismissed |

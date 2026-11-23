@@ -23,10 +23,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ti.1](../bbugyi200.athena.sase-ti.1/README.md) | sase-ti hood | active |
-| [sase-ti.2](../bbugyi200.athena.sase-ti.2/README.md) | sase-ti hood | active |
-| [sase-ti.3](../bbugyi200.athena.sase-ti.3/README.md) | sase-ti hood | active |
-| [sase-ti.4](../bbugyi200.athena.sase-ti.4/README.md) | sase-ti hood | active |
+| [sase-ti.1](../bbugyi200.athena.sase-ti.1/README.md) | sase-ti hood | dismissed |
+| [sase-ti.2](../bbugyi200.athena.sase-ti.2/README.md) | sase-ti hood | dismissed |
+| [sase-ti.3](../bbugyi200.athena.sase-ti.3/README.md) | sase-ti hood | dismissed |
+| [sase-ti.4](../bbugyi200.athena.sase-ti.4/README.md) | sase-ti hood | dismissed |
 | [sase-ti.6](../../sessions/bbugyi200.athena.sase-ti.6.md) (session · 1) | sase-ti hood | dismissed 1 |
-| [sase-ti.6](../bbugyi200.athena.sase-ti.6/README.md) | sase-ti hood | active |
-| [sase-ti.land](../bbugyi200.athena.sase-ti.land/README.md) | sase-ti hood | active |
+| [sase-ti.6](../bbugyi200.athena.sase-ti.6/README.md) | sase-ti hood | dismissed |
+| [sase-ti.land](../bbugyi200.athena.sase-ti.land/README.md) | sase-ti hood | dismissed |

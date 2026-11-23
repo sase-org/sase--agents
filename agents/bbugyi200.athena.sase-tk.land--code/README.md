@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0bdca93`](https://github.com/sase-org/sase/commit/0bdca9380de38a8fe7857531537839944bd9f415) | fix(agent): release condition lease on marker failure | 2026-08-25 13:15:10 EDT |
+| — | `0bdca93` | fix(agent): release condition lease on marker failure | 2026-08-25 13:15:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-tk.1](../bbugyi200.athena.sase-tk.1/README.md) | sase-tk hood | active |
-| [sase-tk.2](../bbugyi200.athena.sase-tk.2/README.md) | sase-tk hood | active |
-| [sase-tk.3](../bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | active |
-| [sase-tk.4](../../sessions/bbugyi200.athena.sase-tk.4.md) (session · 3) | sase-tk hood | active 2, failed 1 |
+| [sase-tk.1](../bbugyi200.athena.sase-tk.1/README.md) | sase-tk hood | dismissed |
+| [sase-tk.2](../bbugyi200.athena.sase-tk.2/README.md) | sase-tk hood | dismissed |
+| [sase-tk.3](../bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | dismissed |
+| [sase-tk.4](../../sessions/bbugyi200.athena.sase-tk.4.md) (session · 3) | sase-tk hood | dismissed 2, failed 1 |

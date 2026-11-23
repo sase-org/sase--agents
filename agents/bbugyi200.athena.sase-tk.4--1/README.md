@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-tk](../../users/bbugyi200/machines/athena/hoods/sase-tk/README.md) / [sase-tk.4](../../sessions/bbugyi200.athena.sase-tk.4.md) / sase-tk.4--1
 
-**Global name:** `bbugyi200.athena.sase-tk.4--1` · **State:** active · **Source run:** `run-a7369f10df26989fa51cb6c63eff5e6b`
+**Global name:** `bbugyi200.athena.sase-tk.4--1` · **State:** dismissed · **Source run:** `run-a7369f10df26989fa51cb6c63eff5e6b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-tk
 
@@ -11,7 +11,7 @@
 - Bead: [sase-tk.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tk/sase-tk.4.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-25T16:33:22.366814+00:00
+- Timing: 2026-08-25T12:32:44
 - Commits: [1](#commits)
 
 ## Files
@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc66e7b`](https://github.com/sase-org/sase/commit/cc66e7bf321680feae3a781a51a1994eb2ef96fa) | feat(ace-tui): show clan/family/lane total runtime rows | 2026-08-25 12:20:22 EDT |
+| — | `cc66e7b` | feat(ace-tui): show clan/family/lane total runtime rows | 2026-08-25 12:20:22 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-tk.1](../bbugyi200.athena.sase-tk.1/README.md) | sase-tk hood | active |
-| [sase-tk.2](../bbugyi200.athena.sase-tk.2/README.md) | sase-tk hood | active |
-| [sase-tk.3](../bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | active |
-| [sase-tk.land](../../sessions/bbugyi200.athena.sase-tk.land.md) (session · 2) | sase-tk hood | active 1, completed 1 |
+| [sase-tk.1](../bbugyi200.athena.sase-tk.1/README.md) | sase-tk hood | dismissed |
+| [sase-tk.2](../bbugyi200.athena.sase-tk.2/README.md) | sase-tk hood | dismissed |
+| [sase-tk.3](../bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | dismissed |
+| [sase-tk.land](../../sessions/bbugyi200.athena.sase-tk.land.md) (session · 2) | sase-tk hood | completed 1, dismissed 1 |

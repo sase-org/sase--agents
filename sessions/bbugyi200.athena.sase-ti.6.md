@@ -21,9 +21,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ti.1](../agents/bbugyi200.athena.sase-ti.1/README.md) | sase-ti hood | active |
-| [sase-ti.2](../agents/bbugyi200.athena.sase-ti.2/README.md) | sase-ti hood | active |
-| [sase-ti.3](../agents/bbugyi200.athena.sase-ti.3/README.md) | sase-ti hood | active |
-| [sase-ti.4](../agents/bbugyi200.athena.sase-ti.4/README.md) | sase-ti hood | active |
-| [sase-ti.5](bbugyi200.athena.sase-ti.5.md) (session · 7) | sase-ti hood | active 4, failed 3 |
-| [sase-ti.land](../agents/bbugyi200.athena.sase-ti.land/README.md) | sase-ti hood | active |
+| [sase-ti.1](../agents/bbugyi200.athena.sase-ti.1/README.md) | sase-ti hood | dismissed |
+| [sase-ti.2](../agents/bbugyi200.athena.sase-ti.2/README.md) | sase-ti hood | dismissed |
+| [sase-ti.3](../agents/bbugyi200.athena.sase-ti.3/README.md) | sase-ti hood | dismissed |
+| [sase-ti.4](../agents/bbugyi200.athena.sase-ti.4/README.md) | sase-ti hood | dismissed |
+| [sase-ti.5](bbugyi200.athena.sase-ti.5.md) (session · 7) | sase-ti hood | dismissed 4, failed 3 |
+| [sase-ti.land](../agents/bbugyi200.athena.sase-ti.land/README.md) | sase-ti hood | dismissed |
