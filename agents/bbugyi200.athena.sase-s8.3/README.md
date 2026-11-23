@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-s8](../../users/bbugyi200/machines/athena/hoods/sase-s8/README.md) / sase-s8.3
 
-**Global name:** `bbugyi200.athena.sase-s8.3` · **State:** active · **Source run:** `run-f5a1ecf209c5e48d312850ebe61c31cd`
+**Global name:** `bbugyi200.athena.sase-s8.3` · **State:** dismissed · **Source run:** `run-f5a1ecf209c5e48d312850ebe61c31cd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-s8
 
@@ -12,7 +12,7 @@
 - Epic: [sase-s8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-s8/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-23T12:48:15.786343+00:00
+- Timing: 2026-08-23T11:40:30
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4f32a6e`](https://github.com/sase-org/sase/commit/4f32a6ec75cc2bf14a77b98f4c15fb190741351c) | feat(agent): add live TTY panel for sase agent wait | 2026-08-23 09:42:36 EDT |
+| — | `4f32a6e` | feat(agent): add live TTY panel for sase agent wait | 2026-08-23 09:42:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-s8.1](../bbugyi200.athena.sase-s8.1/README.md) | sase-s8 hood | active |
-| [sase-s8.2](../bbugyi200.athena.sase-s8.2/README.md) | sase-s8 hood | active |
-| [sase-s8.4](../../sessions/bbugyi200.athena.sase-s8.4.md) (session · 3) | sase-s8 hood | active 3 |
-| [sase-s8.land](../bbugyi200.athena.sase-s8.land/README.md) | sase-s8 hood | active |
+| [sase-s8.1](../bbugyi200.athena.sase-s8.1/README.md) | sase-s8 hood | dismissed |
+| [sase-s8.2](../bbugyi200.athena.sase-s8.2/README.md) | sase-s8 hood | dismissed |
+| [sase-s8.4](../../sessions/bbugyi200.athena.sase-s8.4.md) (session · 3) | sase-s8 hood | dismissed 3 |
+| [sase-s8.land](../bbugyi200.athena.sase-s8.land/README.md) | sase-s8 hood | dismissed |

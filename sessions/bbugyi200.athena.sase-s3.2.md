@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-s3` · Members: 3 · Bead: [sase-s3.2](
 
 ```mermaid
 flowchart TD
-  n0["sase-s3.2--1 [active]"]
-  n1["sase-s3.2--plan [active]"]
+  n0["sase-s3.2--1 [dismissed]"]
+  n1["sase-s3.2--plan [dismissed]"]
   n0 --> n1
-  n2["sase-s3.2--mon [active]"]
+  n2["sase-s3.2--mon [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,21 +19,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-s3.2--1 | active | grok-4.6 / grok | 2026-08-22T15:56:29.343585+00:00 | [1](../agents/bbugyi200.athena.sase-s3.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-s3.2--1/prompt.md) | — |
-| <a id="member-plan"></a>plan | sase-s3.2--plan | active | grok-4.6 / grok | 2026-08-22T14:57:33.402309+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-s3.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-s3.2--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-s3.2--mon | active | grok-4.6 / grok | 2026-08-22T15:29:18.562454+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | sase-s3.2--1 | dismissed | grok-4.6 / grok | 2026-08-22T15:56:09 | [1](../agents/bbugyi200.athena.sase-s3.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-s3.2--1/prompt.md) | — |
+| <a id="member-plan"></a>plan | sase-s3.2--plan | dismissed | grok-4.6 / grok | 2026-08-22T13:58:22 | 0 | [Prompt](../agents/bbugyi200.athena.sase-s3.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-s3.2--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-s3.2--mon | dismissed | grok-4.6 / grok | 2026-08-22T15:29:18 | 0 | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`959d559`](https://github.com/sase-org/sase/commit/959d55926de21dc2106a65d943fb3e8e268d1f3b) | feat: raise sase-core-rs floor to 0.30.0 | 2026-08-22 12:03:33 EDT |
+| 1 | — | `959d559` | feat: raise sase-core-rs floor to 0.30.0 | 2026-08-22 12:03:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-s3.1](../agents/bbugyi200.athena.sase-s3.1/README.md) | sase-s3 hood | active |
-| [sase-s3.3](../agents/bbugyi200.athena.sase-s3.3/README.md) | sase-s3 hood | active |
-| [sase-s3.4](../agents/bbugyi200.athena.sase-s3.4/README.md) | sase-s3 hood | active |
-| [sase-s3.land](../agents/bbugyi200.athena.sase-s3.land/README.md) | sase-s3 hood | active |
+| [sase-s3.1](../agents/bbugyi200.athena.sase-s3.1/README.md) | sase-s3 hood | dismissed |
+| [sase-s3.3](../agents/bbugyi200.athena.sase-s3.3/README.md) | sase-s3 hood | dismissed |
+| [sase-s3.4](../agents/bbugyi200.athena.sase-s3.4/README.md) | sase-s3 hood | dismissed |
+| [sase-s3.land](../agents/bbugyi200.athena.sase-s3.land/README.md) | sase-s3 hood | dismissed |
