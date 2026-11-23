@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yf](../../users/bbugyi200/machines/athena/hoods/sase-yf/README.md) / sase-yf.2
 
-**Global name:** `bbugyi200.athena.sase-yf.2` · **State:** active · **Source run:** `run-6fc6b1a80ad274c5770d49238c6becfd`
+**Global name:** `bbugyi200.athena.sase-yf.2` · **State:** dismissed · **Source run:** `run-6fc6b1a80ad274c5770d49238c6becfd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-yf
 
@@ -12,7 +12,7 @@
 - Epic: [sase-yf](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yf/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-08T14:01:11.982329+00:00
+- Timing: 2026-09-08T10:01:11.982329 → 2026-09-08T12:16:55.362137
 - Commits: [1](#commits)
 
 ## Files
@@ -23,20 +23,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a95d7c1`](https://github.com/sase-org/sase/commit/a95d7c1ddfcd34d95b56de75d3ad2265f8e3b1a0) | feat(ace): add prompt model alias shortcut | 2026-09-08 12:14:53 EDT |
+| — | `a95d7c1` | feat(ace): add prompt model alias shortcut | 2026-09-08 12:14:53 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-yf.1](../bbugyi200.athena.sase-yf.1/README.md) | sase-yf hood | active |
-| [sase-yf.3.1](../bbugyi200.athena.sase-yf.3.1/README.md) | sase-yf hood | active |
-| [sase-yf.3.2](../bbugyi200.athena.sase-yf.3.2/README.md) | sase-yf hood | active |
+| [sase-yf.1](../bbugyi200.athena.sase-yf.1/README.md) | sase-yf hood | dismissed |
+| [sase-yf.3.1](../bbugyi200.athena.sase-yf.3.1/README.md) | sase-yf hood | dismissed |
+| [sase-yf.3.2](../bbugyi200.athena.sase-yf.3.2/README.md) | sase-yf hood | dismissed |
 | [sase-yf.3.land](../../sessions/bbugyi200.athena.sase-yf.3.land.md) (session · 3) | sase-yf hood | active 1, completed 1, failed 1 |
 | [sase-yf.3.land](../bbugyi200.athena.sase-yf.3.land/README.md) | sase-yf hood | waiting |
-| [sase-yf.land](../../sessions/bbugyi200.athena.sase-yf.land.md) (session · 3) | sase-yf hood | active 3 |
-| [sase-yf.land.w0.w0](../bbugyi200.athena.sase-yf.land.w0.w0/README.md) | sase-yf hood | waiting |
-| [sase-yf.land.w0.w1](../bbugyi200.athena.sase-yf.land.w0.w1/README.md) | sase-yf hood | active |
-| [sase-yf.land.w1](../bbugyi200.athena.sase-yf.land.w1/README.md) | sase-yf hood | waiting |
-| [sase-yf.land.w2.w0](../bbugyi200.athena.sase-yf.land.w2.w0/README.md) | sase-yf hood | waiting |
-| [sase-yf.land.w3](../../sessions/bbugyi200.athena.sase-yf.land.w3.md) (session · 3) | sase-yf hood | active 1, failed 2 |
+| [sase-yf.land](../../sessions/bbugyi200.athena.sase-yf.land.md) (session · 3) | sase-yf hood | dismissed 3 |
+| [sase-yf.land.w0.w0](../bbugyi200.athena.sase-yf.land.w0.w0/README.md) | sase-yf hood | dismissed |
+| [sase-yf.land.w0.w1](../bbugyi200.athena.sase-yf.land.w0.w1/README.md) | sase-yf hood | dismissed |
+| [sase-yf.land.w1](../bbugyi200.athena.sase-yf.land.w1/README.md) | sase-yf hood | dismissed |
+| [sase-yf.land.w2.w0](../bbugyi200.athena.sase-yf.land.w2.w0/README.md) | sase-yf hood | dismissed |
+| [sase-yf.land.w3](../../sessions/bbugyi200.athena.sase-yf.land.w3.md) (session · 3) | sase-yf hood | dismissed 1, failed 2 |

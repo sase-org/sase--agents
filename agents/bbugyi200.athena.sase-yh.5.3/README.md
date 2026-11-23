@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yh](../../users/bbugyi200/machines/athena/hoods/sase-yh/README.md) / sase-yh.5.3
 
-**Global name:** `bbugyi200.athena.sase-yh.5.3` · **State:** active · **Source run:** `run-228cfdf0a549d32123e7dda01c246d94`
+**Global name:** `bbugyi200.athena.sase-yh.5.3` · **State:** dismissed · **Source run:** `run-228cfdf0a549d32123e7dda01c246d94`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-yh
 
@@ -12,7 +12,7 @@
 - Epic: [sase-yh.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yh/sase-yh.5.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-09T12:39:25.980625+00:00
+- Timing: 2026-09-09T08:39:25.980625 → 2026-09-09T08:58:39.353607
 - Commits: 0
 
 ## Files
@@ -23,14 +23,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-yh.5.1](../bbugyi200.athena.sase-yh.5.1/README.md) | sase-yh.5 hood | active |
-| [sase-yh.5.2](../bbugyi200.athena.sase-yh.5.2/README.md) | sase-yh.5 hood | active |
-| [sase-yh.5.4.1](../../sessions/bbugyi200.athena.sase-yh.5.4.1.md) (session · 3) | sase-yh.5 hood | active 3 |
-| [sase-yh.5.4.land](../bbugyi200.athena.sase-yh.5.4.land/README.md) | sase-yh.5 hood | active |
-| [sase-yh.5.land](../../sessions/bbugyi200.athena.sase-yh.5.land.md) (session · 3) | sase-yh.5 hood | active 3 |
-| [sase-yh.1](../bbugyi200.athena.sase-yh.1/README.md) | sase-yh hood | active |
-| [sase-yh.2](../bbugyi200.athena.sase-yh.2/README.md) | sase-yh hood | active |
-| [sase-yh.3](../bbugyi200.athena.sase-yh.3/README.md) | sase-yh hood | active |
-| [sase-yh.4](../../sessions/bbugyi200.athena.sase-yh.4.md) (session · 3) | sase-yh hood | active 3 |
+| [sase-yh.5.1](../bbugyi200.athena.sase-yh.5.1/README.md) | sase-yh.5 hood | dismissed |
+| [sase-yh.5.2](../bbugyi200.athena.sase-yh.5.2/README.md) | sase-yh.5 hood | dismissed |
+| [sase-yh.5.4.1](../../sessions/bbugyi200.athena.sase-yh.5.4.1.md) (session · 3) | sase-yh.5 hood | dismissed 3 |
+| [sase-yh.5.4.land](../bbugyi200.athena.sase-yh.5.4.land/README.md) | sase-yh.5 hood | dismissed |
+| [sase-yh.5.land](../../sessions/bbugyi200.athena.sase-yh.5.land.md) (session · 3) | sase-yh.5 hood | dismissed 3 |
+| [sase-yh.1](../bbugyi200.athena.sase-yh.1/README.md) | sase-yh hood | dismissed |
+| [sase-yh.2](../bbugyi200.athena.sase-yh.2/README.md) | sase-yh hood | dismissed |
+| [sase-yh.3](../bbugyi200.athena.sase-yh.3/README.md) | sase-yh hood | dismissed |
+| [sase-yh.4](../../sessions/bbugyi200.athena.sase-yh.4.md) (session · 3) | sase-yh hood | dismissed 3 |
 | [sase-yh.4](../bbugyi200.athena.sase-yh.4/README.md) | sase-yh hood | waiting |
-| [sase-yh.land](../../sessions/bbugyi200.athena.sase-yh.land.md) (session · 3) | sase-yh hood | active 3 |
+| [sase-yh.land](../../sessions/bbugyi200.athena.sase-yh.land.md) (session · 3) | sase-yh hood | dismissed 3 |

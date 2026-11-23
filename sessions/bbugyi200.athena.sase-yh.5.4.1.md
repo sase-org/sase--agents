@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-yh` · Members: 3 · Bead: [sase-yh.5.4
 
 ```mermaid
 flowchart TD
-  n0["sase-yh.5.4.1--mon [active]"]
-  n1["sase-yh.5.4.1--1 [active]"]
+  n0["sase-yh.5.4.1--mon [dismissed]"]
+  n1["sase-yh.5.4.1--1 [dismissed]"]
   n0 --> n1
-  n2["sase-yh.5.4.1--plan [active]"]
+  n2["sase-yh.5.4.1--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,28 +19,28 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-yh.5.4.1--mon | active | gpt-5.5 / codex | 2026-09-09T14:13:56.719252+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-yh.5.4.1--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-yh.5.4.1--1 | active | gpt-5.5 / codex | 2026-09-09T14:40:24.423266+00:00 | [1](../agents/bbugyi200.athena.sase-yh.5.4.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-yh.5.4.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yh.5.4.1--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-yh.5.4.1--plan | active | gpt-5.5 / codex | 2026-09-09T13:29:06.634200+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yh.5.4.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yh.5.4.1--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-yh.5.4.1--mon | dismissed | gpt-5.5 / codex | 2026-09-09T10:13:56.719252 → 2026-09-09T10:38:50.632507 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-yh.5.4.1--mon/chat.md) |
+| <a id="member-1"></a>1 | sase-yh.5.4.1--1 | dismissed | gpt-5.5 / codex | 2026-09-09T10:40:24.423266 → 2026-09-09T10:57:58.196822 | [1](../agents/bbugyi200.athena.sase-yh.5.4.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-yh.5.4.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yh.5.4.1--1/chat.md) |
+| <a id="member-plan"></a>plan | sase-yh.5.4.1--plan | dismissed | gpt-5.5 / codex | 2026-09-09T09:29:06.634200 → 2026-09-09T10:14:09.653205 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yh.5.4.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yh.5.4.1--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`1a32558`](https://github.com/sase-org/sase/commit/1a32558a20bc832c930b87089cf1a59f80eaaac9) | fix(sdd): propagate hidden sidecar clone deadline | 2026-09-09 10:55:57 EDT |
+| 1 | — | `1a32558` | fix(sdd): propagate hidden sidecar clone deadline | 2026-09-09 10:55:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-yh.5.4.land](../agents/bbugyi200.athena.sase-yh.5.4.land/README.md) | sase-yh.5.4 hood | active |
-| [sase-yh.5.1](../agents/bbugyi200.athena.sase-yh.5.1/README.md) | sase-yh.5 hood | active |
-| [sase-yh.5.2](../agents/bbugyi200.athena.sase-yh.5.2/README.md) | sase-yh.5 hood | active |
-| [sase-yh.5.3](../agents/bbugyi200.athena.sase-yh.5.3/README.md) | sase-yh.5 hood | active |
-| [sase-yh.5.land](bbugyi200.athena.sase-yh.5.land.md) (session · 3) | sase-yh.5 hood | active 3 |
-| [sase-yh.1](../agents/bbugyi200.athena.sase-yh.1/README.md) | sase-yh hood | active |
-| [sase-yh.2](../agents/bbugyi200.athena.sase-yh.2/README.md) | sase-yh hood | active |
-| [sase-yh.3](../agents/bbugyi200.athena.sase-yh.3/README.md) | sase-yh hood | active |
-| [sase-yh.4](bbugyi200.athena.sase-yh.4.md) (session · 3) | sase-yh hood | active 3 |
+| [sase-yh.5.4.land](../agents/bbugyi200.athena.sase-yh.5.4.land/README.md) | sase-yh.5.4 hood | dismissed |
+| [sase-yh.5.1](../agents/bbugyi200.athena.sase-yh.5.1/README.md) | sase-yh.5 hood | dismissed |
+| [sase-yh.5.2](../agents/bbugyi200.athena.sase-yh.5.2/README.md) | sase-yh.5 hood | dismissed |
+| [sase-yh.5.3](../agents/bbugyi200.athena.sase-yh.5.3/README.md) | sase-yh.5 hood | dismissed |
+| [sase-yh.5.land](bbugyi200.athena.sase-yh.5.land.md) (session · 3) | sase-yh.5 hood | dismissed 3 |
+| [sase-yh.1](../agents/bbugyi200.athena.sase-yh.1/README.md) | sase-yh hood | dismissed |
+| [sase-yh.2](../agents/bbugyi200.athena.sase-yh.2/README.md) | sase-yh hood | dismissed |
+| [sase-yh.3](../agents/bbugyi200.athena.sase-yh.3/README.md) | sase-yh hood | dismissed |
+| [sase-yh.4](bbugyi200.athena.sase-yh.4.md) (session · 3) | sase-yh hood | dismissed 3 |
 | [sase-yh.4](../agents/bbugyi200.athena.sase-yh.4/README.md) | sase-yh hood | waiting |
-| [sase-yh.land](bbugyi200.athena.sase-yh.land.md) (session · 3) | sase-yh hood | active 3 |
+| [sase-yh.land](bbugyi200.athena.sase-yh.land.md) (session · 3) | sase-yh hood | dismissed 3 |

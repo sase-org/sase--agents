@@ -23,13 +23,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-yh.1](../bbugyi200.athena.sase-yh.1/README.md) | sase-yh hood | active |
-| [sase-yh.2](../bbugyi200.athena.sase-yh.2/README.md) | sase-yh hood | active |
-| [sase-yh.3](../bbugyi200.athena.sase-yh.3/README.md) | sase-yh hood | active |
-| [sase-yh.5.1](../bbugyi200.athena.sase-yh.5.1/README.md) | sase-yh hood | active |
-| [sase-yh.5.2](../bbugyi200.athena.sase-yh.5.2/README.md) | sase-yh hood | active |
-| [sase-yh.5.3](../bbugyi200.athena.sase-yh.5.3/README.md) | sase-yh hood | active |
-| [sase-yh.5.4.1](../../sessions/bbugyi200.athena.sase-yh.5.4.1.md) (session · 3) | sase-yh hood | active 3 |
-| [sase-yh.5.4.land](../bbugyi200.athena.sase-yh.5.4.land/README.md) | sase-yh hood | active |
-| [sase-yh.5.land](../../sessions/bbugyi200.athena.sase-yh.5.land.md) (session · 3) | sase-yh hood | active 3 |
-| [sase-yh.land](../../sessions/bbugyi200.athena.sase-yh.land.md) (session · 3) | sase-yh hood | active 3 |
+| [sase-yh.1](../bbugyi200.athena.sase-yh.1/README.md) | sase-yh hood | dismissed |
+| [sase-yh.2](../bbugyi200.athena.sase-yh.2/README.md) | sase-yh hood | dismissed |
+| [sase-yh.3](../bbugyi200.athena.sase-yh.3/README.md) | sase-yh hood | dismissed |
+| [sase-yh.5.1](../bbugyi200.athena.sase-yh.5.1/README.md) | sase-yh hood | dismissed |
+| [sase-yh.5.2](../bbugyi200.athena.sase-yh.5.2/README.md) | sase-yh hood | dismissed |
+| [sase-yh.5.3](../bbugyi200.athena.sase-yh.5.3/README.md) | sase-yh hood | dismissed |
+| [sase-yh.5.4.1](../../sessions/bbugyi200.athena.sase-yh.5.4.1.md) (session · 3) | sase-yh hood | dismissed 3 |
+| [sase-yh.5.4.land](../bbugyi200.athena.sase-yh.5.4.land/README.md) | sase-yh hood | dismissed |
+| [sase-yh.5.land](../../sessions/bbugyi200.athena.sase-yh.5.land.md) (session · 3) | sase-yh hood | dismissed 3 |
+| [sase-yh.land](../../sessions/bbugyi200.athena.sase-yh.land.md) (session · 3) | sase-yh hood | dismissed 3 |

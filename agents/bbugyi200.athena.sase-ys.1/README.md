@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ys](../../users/bbugyi200/machines/athena/hoods/sase-ys/README.md) / sase-ys.1
 
-**Global name:** `bbugyi200.athena.sase-ys.1` · **State:** active · **Source run:** `run-74f9fc6f4faab38b2f362643bfe2df12`
+**Global name:** `bbugyi200.athena.sase-ys.1` · **State:** dismissed · **Source run:** `run-74f9fc6f4faab38b2f362643bfe2df12`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ys
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ys](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ys/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-09T10:59:26.832673+00:00
+- Timing: 2026-09-09T06:59:26.832673 → 2026-09-09T07:34:52.175656
 - Commits: 0
 
 ## Files
@@ -23,5 +23,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ys.2](../bbugyi200.athena.sase-ys.2/README.md) | sase-ys hood | active |
-| [sase-ys.land](../../sessions/bbugyi200.athena.sase-ys.land.md) (session · 7) | sase-ys hood | active 7 |
+| [sase-ys.2](../bbugyi200.athena.sase-ys.2/README.md) | sase-ys hood | dismissed |
+| [sase-ys.land](../../sessions/bbugyi200.athena.sase-ys.land.md) (session · 7) | sase-ys hood | dismissed 7 |

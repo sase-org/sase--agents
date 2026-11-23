@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f4ca78c`](https://github.com/sase-org/sase/commit/f4ca78c0ff3413aad43086051d892a0ae1e5fea0) | fix(queue): land directive core floor | 2026-09-09 08:50:49 EDT |
+| — | `f4ca78c` | fix(queue): land directive core floor | 2026-09-09 08:50:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-yj.1](../../sessions/bbugyi200.athena.sase-yj.1.md) (session · 3) | sase-yj hood | active 3 |
-| [sase-yj.2](../bbugyi200.athena.sase-yj.2/README.md) | sase-yj hood | active |
-| [sase-yj.3](../bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | active |
-| [sase-yj.4](../bbugyi200.athena.sase-yj.4/README.md) | sase-yj hood | active |
+| [sase-yj.1](../../sessions/bbugyi200.athena.sase-yj.1.md) (session · 3) | sase-yj hood | dismissed 3 |
+| [sase-yj.2](../bbugyi200.athena.sase-yj.2/README.md) | sase-yj hood | dismissed |
+| [sase-yj.3](../bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | dismissed |
+| [sase-yj.4](../bbugyi200.athena.sase-yj.4/README.md) | sase-yj hood | dismissed |
