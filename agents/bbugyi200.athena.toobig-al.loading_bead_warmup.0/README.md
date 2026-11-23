@@ -28,5 +28,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-al.auto\_refresh\_surfaces.0](../bbugyi200.athena.toobig-al.auto_refresh_surfaces.0/README.md) | toobig-al hood | completed |
-| [toobig-al.fs\_watcher.0](../bbugyi200.athena.toobig-al.fs_watcher.0/README.md) | toobig-al hood | waiting |
+| [toobig-al.fs\_watcher.0](../bbugyi200.athena.toobig-al.fs_watcher.0/README.md) | toobig-al hood | completed |
 | [toobig-al.surface\_tokens.0](../bbugyi200.athena.toobig-al.surface_tokens.0/README.md) | toobig-al hood | completed |
