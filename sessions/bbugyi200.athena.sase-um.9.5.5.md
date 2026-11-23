@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-um` · Members: 3 · Bead: [sase-um.9.5
 
 ```mermaid
 flowchart TD
-  n0["sase-um.9.5.5--1 [active]"]
-  n1["sase-um.9.5.5--plan [active]"]
+  n0["sase-um.9.5.5--1 [dismissed]"]
+  n1["sase-um.9.5.5--plan [dismissed]"]
   n0 --> n1
   n2["sase-um.9.5.5--mon [active]"]
   n0 --> n2
@@ -19,35 +19,35 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-um.9.5.5--1 | active | gpt-5.5 / codex | 2026-08-29T17:54:01.465283+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.9.5.5--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.9.5.5--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-um.9.5.5--plan | active | gpt-5.5 / codex | 2026-08-29T17:40:37.446507+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.9.5.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.9.5.5--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-um.9.5.5--1 | dismissed | gpt-5.5 / codex | 2026-08-29T13:54:01.465283 → 2026-08-29T13:59:31.269249 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.9.5.5--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.9.5.5--1/chat.md) |
+| <a id="member-plan"></a>plan | sase-um.9.5.5--plan | dismissed | gpt-5.5 / codex | 2026-08-29T13:40:37.446507 → 2026-08-29T13:53:16.926550 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.9.5.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.9.5.5--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-um.9.5.5--mon | active | gpt-5.5 / codex | 2026-08-29T17:53:04.128632+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-um.9.5.5--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-um.9.5.1](../agents/bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um.9.5 hood | active |
-| [sase-um.9.5.2](../agents/bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um.9.5 hood | active |
-| [sase-um.9.5.3](bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um.9.5 hood | active 2, dismissed 1 |
-| [sase-um.9.5.4](bbugyi200.athena.sase-um.9.5.4.md) (session · 17) | sase-um.9.5 hood | active 17 |
-| [sase-um.9.5.land](../agents/bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um.9.5 hood | active |
-| [sase-um.9.1](bbugyi200.athena.sase-um.9.1.md) (session · 3) | sase-um.9 hood | active 2, completed 1 |
-| [sase-um.9.2](../agents/bbugyi200.athena.sase-um.9.2/README.md) | sase-um.9 hood | active |
-| [sase-um.9.3](../agents/bbugyi200.athena.sase-um.9.3/README.md) | sase-um.9 hood | active |
-| [sase-um.9.4](bbugyi200.athena.sase-um.9.4.md) (session · 5) | sase-um.9 hood | active 5 |
-| [sase-um.9.land](bbugyi200.athena.sase-um.9.land.md) (session · 3) | sase-um.9 hood | active 3 |
-| [sase-um.1](bbugyi200.athena.sase-um.1.md) (session · 2) | sase-um hood | active 1, completed 1 |
+| [sase-um.9.5.1](../agents/bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um.9.5 hood | dismissed |
+| [sase-um.9.5.2](../agents/bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um.9.5 hood | dismissed |
+| [sase-um.9.5.3](bbugyi200.athena.sase-um.9.5.3.md) (session · 3) | sase-um.9.5 hood | active 1, dismissed 2 |
+| [sase-um.9.5.4](bbugyi200.athena.sase-um.9.5.4.md) (session · 17) | sase-um.9.5 hood | active 5, dismissed 12 |
+| [sase-um.9.5.land](../agents/bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um.9.5 hood | dismissed |
+| [sase-um.9.1](bbugyi200.athena.sase-um.9.1.md) (session · 3) | sase-um.9 hood | completed 1, dismissed 2 |
+| [sase-um.9.2](../agents/bbugyi200.athena.sase-um.9.2/README.md) | sase-um.9 hood | dismissed |
+| [sase-um.9.3](../agents/bbugyi200.athena.sase-um.9.3/README.md) | sase-um.9 hood | dismissed |
+| [sase-um.9.4](bbugyi200.athena.sase-um.9.4.md) (session · 5) | sase-um.9 hood | dismissed 5 |
+| [sase-um.9.land](bbugyi200.athena.sase-um.9.land.md) (session · 3) | sase-um.9 hood | active 1, dismissed 2 |
+| [sase-um.1](bbugyi200.athena.sase-um.1.md) (session · 2) | sase-um hood | completed 1, dismissed 1 |
 | [sase-um.2](bbugyi200.athena.sase-um.2.md) (session · 2) | sase-um hood | active 1, completed 1 |
-| [sase-um.3](../agents/bbugyi200.athena.sase-um.3/README.md) | sase-um hood | active |
-| [sase-um.4](../agents/bbugyi200.athena.sase-um.4/README.md) | sase-um hood | active |
-| [sase-um.5](bbugyi200.athena.sase-um.5.md) (session · 2) | sase-um hood | active 2 |
-| [sase-um.5.1.1](../agents/bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um hood | active |
-| [sase-um.5.1.2](../agents/bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um hood | active |
-| [sase-um.5.1.3](bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | active 66, dismissed 1 |
+| [sase-um.3](../agents/bbugyi200.athena.sase-um.3/README.md) | sase-um hood | dismissed |
+| [sase-um.4](../agents/bbugyi200.athena.sase-um.4/README.md) | sase-um hood | dismissed |
+| [sase-um.5](bbugyi200.athena.sase-um.5.md) (session · 2) | sase-um hood | dismissed 2 |
+| [sase-um.5.1.1](../agents/bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um hood | dismissed |
+| [sase-um.5.1.2](../agents/bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um hood | dismissed |
+| [sase-um.5.1.3](bbugyi200.athena.sase-um.5.1.3.md) (session · 67) | sase-um hood | active 15, dismissed 52 |
 | [sase-um.5.1.3](../agents/bbugyi200.athena.sase-um.5.1.3/README.md) | sase-um hood | completed |
-| [sase-um.5.1.land](bbugyi200.athena.sase-um.5.1.land.md) (session · 7) | sase-um hood | active 6, waiting 1 |
-| [sase-um.6](../agents/bbugyi200.athena.sase-um.6/README.md) | sase-um hood | active |
-| [sase-um.7](../agents/bbugyi200.athena.sase-um.7/README.md) | sase-um hood | active |
-| [sase-um.8](../agents/bbugyi200.athena.sase-um.8/README.md) | sase-um hood | active |
+| [sase-um.5.1.land](bbugyi200.athena.sase-um.5.1.land.md) (session · 7) | sase-um hood | active 1, dismissed 6 |
+| [sase-um.6](../agents/bbugyi200.athena.sase-um.6/README.md) | sase-um hood | dismissed |
+| [sase-um.7](../agents/bbugyi200.athena.sase-um.7/README.md) | sase-um hood | dismissed |
+| [sase-um.8](../agents/bbugyi200.athena.sase-um.8/README.md) | sase-um hood | dismissed |
 | [sase-um.land](bbugyi200.athena.sase-um.land.md) (session · 3) | sase-um hood | dismissed 3 |
