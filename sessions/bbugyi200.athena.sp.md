@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sp` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["sp--plan [active]"]
+  n0["sp--plan [dismissed]"]
   n1["sp--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sp--plan | active | gpt-5.6-sol / codex | 2026-08-03T12:10:31.103340+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sp--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sp--plan/chat.md) |
+| <a id="member-plan"></a>plan | sp--plan | dismissed | gpt-5.6-sol / codex | 2026-08-03T08:10:31.103340 → 2026-08-03T09:06:36.025645 | 0 | [Prompt](../agents/bbugyi200.athena.sp--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sp--plan/chat.md) |
 | <a id="member-code"></a>code | sp--code | completed | gpt-5.5 / codex | 2026-08-03T12:16:39.304997+00:00 | [1](../agents/bbugyi200.athena.sp--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sp--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`aace448`](https://github.com/sase-org/sase/commit/aace4488ded58da60877f75972abd48bd2156c7c) | fix(llm): route provider coder aliases through shared coder default | 2026-08-03 09:05:12 EDT |
+| code | — | `aace448` | fix(llm): route provider coder aliases through shared coder default | 2026-08-03 09:05:12 EDT |
