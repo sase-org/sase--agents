@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yz](../../users/bbugyi200/machines/athena/hoods/sase-yz/README.md) / [sase-yz.5](../../sessions/bbugyi200.athena.sase-yz.5.md) / sase-yz.5--3
 
-**Global name:** `bbugyi200.athena.sase-yz.5--3` · **State:** active · **Source run:** `run-87334028b4001fccb87985c2e9dd1aaf`
+**Global name:** `bbugyi200.athena.sase-yz.5--3` · **State:** dismissed · **Source run:** `run-87334028b4001fccb87985c2e9dd1aaf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-yz
 
@@ -11,7 +11,7 @@
 - Bead: [sase-yz.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yz/sase-yz.5.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-10T06:35:48.121945+00:00
+- Timing: 2026-09-10T02:35:48.121945 → 2026-09-10T02:41:51.629314
 - Commits: 0
 
 ## Files
@@ -22,8 +22,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-yz.1](../bbugyi200.athena.sase-yz.1/README.md) | sase-yz hood | active |
-| [sase-yz.2](../../sessions/bbugyi200.athena.sase-yz.2.md) (session · 11) | sase-yz hood | active 11 |
-| [sase-yz.3](../bbugyi200.athena.sase-yz.3/README.md) | sase-yz hood | active |
-| [sase-yz.4](../bbugyi200.athena.sase-yz.4/README.md) | sase-yz hood | active |
+| [sase-yz.1](../bbugyi200.athena.sase-yz.1/README.md) | sase-yz hood | dismissed |
+| [sase-yz.2](../../sessions/bbugyi200.athena.sase-yz.2.md) (session · 11) | sase-yz hood | dismissed 11 |
+| [sase-yz.3](../bbugyi200.athena.sase-yz.3/README.md) | sase-yz hood | dismissed |
+| [sase-yz.4](../bbugyi200.athena.sase-yz.4/README.md) | sase-yz hood | dismissed |
 | [sase-yz.land](../bbugyi200.athena.sase-yz.land/README.md) | sase-yz hood | waiting |

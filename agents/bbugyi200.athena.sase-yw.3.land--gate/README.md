@@ -22,8 +22,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-yw.3.1](../bbugyi200.athena.sase-yw.3.1/README.md) | sase-yw.3 hood | active |
-| [sase-yw.3.2](../../sessions/bbugyi200.athena.sase-yw.3.2.md) (session · 3) | sase-yw.3 hood | active 3 |
-| [sase-yw.1](../bbugyi200.athena.sase-yw.1/README.md) | sase-yw hood | active |
-| [sase-yw.2](../bbugyi200.athena.sase-yw.2/README.md) | sase-yw hood | active |
-| [sase-yw.land](../../sessions/bbugyi200.athena.sase-yw.land.md) (session · 3) | sase-yw hood | active 3 |
+| [sase-yw.3.1](../bbugyi200.athena.sase-yw.3.1/README.md) | sase-yw.3 hood | dismissed |
+| [sase-yw.3.2](../../sessions/bbugyi200.athena.sase-yw.3.2.md) (session · 3) | sase-yw.3 hood | dismissed 3 |
+| [sase-yw.1](../bbugyi200.athena.sase-yw.1/README.md) | sase-yw hood | dismissed |
+| [sase-yw.2](../bbugyi200.athena.sase-yw.2/README.md) | sase-yw hood | dismissed |
+| [sase-yw.land](../../sessions/bbugyi200.athena.sase-yw.land.md) (session · 3) | sase-yw hood | dismissed 3 |
