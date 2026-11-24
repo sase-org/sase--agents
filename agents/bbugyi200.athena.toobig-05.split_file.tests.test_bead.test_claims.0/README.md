@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`41276df`](https://github.com/sase-org/sase/commit/41276df4425874ed8dc55641ec6543d5d46bc0d3) | test(beads): split claim tests by behavior | 2026-07-26 14:28:39 EDT |
+| — | `41276df` | test(beads): split claim tests by behavior | 2026-07-26 14:28:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-05.split\_file.src.sase.bead.cli\_work\_handler.0](../bbugyi200.athena.toobig-05.split_file.src.sase.bead.cli_work_handler.0/README.md) | toobig-05.split\_file hood | active |
+| [toobig-05.split\_file.src.sase.bead.cli\_work\_handler.0](../bbugyi200.athena.toobig-05.split_file.src.sase.bead.cli_work_handler.0/README.md) | toobig-05.split\_file hood | dismissed |

@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fa6b004`](https://github.com/sase-org/sase/commit/fa6b0047fe697bad2635e04d632a5d871abbdf80) | test: split sync conflict regression suite | 2026-07-27 11:23:47 EDT |
+| — | `fa6b004` | test: split sync conflict regression suite | 2026-07-27 11:23:47 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-08.split\_file.tests.test\_bead.test\_sync\_remote.0](../bbugyi200.athena.toobig-08.split_file.tests.test_bead.test_sync_remote.0/README.md) | toobig-08.split\_file.tests.test\_bead hood | dismissed |
-| [toobig-08.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_axe.0](../bbugyi200.athena.toobig-08.split_file.tests.ace.tui.visual.test_ace_png_snapshots_axe.0/README.md) | toobig-08.split\_file.tests hood | active |
+| [toobig-08.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_axe.0](../bbugyi200.athena.toobig-08.split_file.tests.ace.tui.visual.test_ace_png_snapshots_axe.0/README.md) | toobig-08.split\_file.tests hood | dismissed |

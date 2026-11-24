@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f1db8d0`](https://github.com/sase-org/sase/commit/f1db8d0cb67d828c7f5d0f9d60d72437931acabd) | refactor(tests): split TUI trace benchmark modules (sase-a4.4.1) | 2026-07-27 16:27:43 EDT |
+| — | `f1db8d0` | refactor(tests): split TUI trace benchmark modules (sase-a4.4.1) | 2026-07-27 16:27:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-0a.split\_file.src.sase.bead.cli\_dep.0](../bbugyi200.athena.toobig-0a.split_file.src.sase.bead.cli_dep.0/README.md) | toobig-0a.split\_file hood | active |
+| [toobig-0a.split\_file.src.sase.bead.cli\_dep.0](../bbugyi200.athena.toobig-0a.split_file.src.sase.bead.cli_dep.0/README.md) | toobig-0a.split\_file hood | dismissed |

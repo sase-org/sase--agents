@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`352c693`](https://github.com/sase-org/sase/commit/352c6939a7c51c419d3af73bc2d2b9ee57eac925) | test: split remote bead sync tests | 2026-07-27 11:38:52 EDT |
+| — | `352c693` | test: split remote bead sync tests | 2026-07-27 11:38:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-08.split\_file.tests.test\_bead.test\_sync\_conflict\_regressions.0](../bbugyi200.athena.toobig-08.split_file.tests.test_bead.test_sync_conflict_regressions.0/README.md) | toobig-08.split\_file.tests.test\_bead hood | dismissed |
-| [toobig-08.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_axe.0](../bbugyi200.athena.toobig-08.split_file.tests.ace.tui.visual.test_ace_png_snapshots_axe.0/README.md) | toobig-08.split\_file.tests hood | active |
+| [toobig-08.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_axe.0](../bbugyi200.athena.toobig-08.split_file.tests.ace.tui.visual.test_ace_png_snapshots_axe.0/README.md) | toobig-08.split\_file.tests hood | dismissed |
