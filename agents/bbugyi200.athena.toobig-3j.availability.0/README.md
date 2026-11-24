@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3j](../../users/bbugyi200/machines/athena/hoods/toobig-3j/README.md) / toobig-3j.availability.0
 
-**Global name:** `bbugyi200.athena.toobig-3j.availability.0` · **State:** active · **Source run:** `run-fed197ec9b28bc255496d4d9f92859de`
+**Global name:** `bbugyi200.athena.toobig-3j.availability.0` · **State:** dismissed · **Source run:** `run-fed197ec9b28bc255496d4d9f92859de`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-3j
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-26T01:02:37.065151+00:00
+- Timing: 2026-08-25T20:42:32
 - Commits: [1](#commits)
 
 ## Files
@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b6f321a`](https://github.com/sase-org/sase/commit/b6f321a1ac531d2671f22920ebb99dde913bec90) | refactor(tui): split command availability predicates | 2026-08-25 21:22:31 EDT |
+| — | `b6f321a` | refactor(tui): split command availability predicates | 2026-08-25 21:22:31 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-3j.artifact\_link\_store\_impl.0](../bbugyi200.athena.toobig-3j.artifact_link_store_impl.0/README.md) | toobig-3j hood | active |
-| [toobig-3j.profile\_evaluator.0](../bbugyi200.athena.toobig-3j.profile_evaluator.0/README.md) | toobig-3j hood | active |
-| [toobig-3j.test\_artifact\_link\_store.0](../../sessions/bbugyi200.athena.toobig-3j.test_artifact_link_store.0.md) (session · 3) | toobig-3j hood | active 2, failed 1 |
-| [toobig-3j.test\_prompt\_panel\_section\_navigation.0](../bbugyi200.athena.toobig-3j.test_prompt_panel_section_navigation.0/README.md) | toobig-3j hood | active |
+| [toobig-3j.artifact\_link\_store\_impl.0](../bbugyi200.athena.toobig-3j.artifact_link_store_impl.0/README.md) | toobig-3j hood | dismissed |
+| [toobig-3j.profile\_evaluator.0](../bbugyi200.athena.toobig-3j.profile_evaluator.0/README.md) | toobig-3j hood | dismissed |
+| [toobig-3j.test\_artifact\_link\_store.0](../../sessions/bbugyi200.athena.toobig-3j.test_artifact_link_store.0.md) (session · 3) | toobig-3j hood | dismissed 2, failed 1 |
+| [toobig-3j.test\_prompt\_panel\_section\_navigation.0](../bbugyi200.athena.toobig-3j.test_prompt_panel_section_navigation.0/README.md) | toobig-3j hood | dismissed |
