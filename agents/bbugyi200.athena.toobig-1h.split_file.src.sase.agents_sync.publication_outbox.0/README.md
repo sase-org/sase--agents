@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1h](../../users/bbugyi200/machines/athena/hoods/toobig-1h/README.md) / toobig-1h.split\_file.src.sase.agents\_sync.publication\_outbox.0
 
-**Global name:** `bbugyi200.athena.toobig-1h.split_file.src.sase.agents_sync.publication_outbox.0` · **State:** active · **Source run:** `run-2a051919d22472a45fab309d3fb7d5c4`
+**Global name:** `bbugyi200.athena.toobig-1h.split_file.src.sase.agents_sync.publication_outbox.0` · **State:** dismissed · **Source run:** `run-2a051919d22472a45fab309d3fb7d5c4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1h
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-03T15:45:23.915360+00:00
+- Timing: 2026-08-03T11:45:23.915360 → 2026-08-03T12:01:30.461495
 - Commits: [1](#commits)
 
 ## Files
@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`028a69b`](https://github.com/sase-org/sase/commit/028a69b59d3fe492fe26dd970893f2430300504b) | refactor(agents-sync): split publication outbox module | 2026-08-03 12:01:12 EDT |
+| — | `028a69b` | refactor(agents-sync): split publication outbox module | 2026-08-03 12:01:12 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1h.split\_file.src.sase.agents\_sync.commit\_publication.0](../bbugyi200.athena.toobig-1h.split_file.src.sase.agents_sync.commit_publication.0/README.md) | toobig-1h.split\_file.src.sase.agents\_sync hood | active |
+| [toobig-1h.split\_file.src.sase.agents\_sync.commit\_publication.0](../bbugyi200.athena.toobig-1h.split_file.src.sase.agents_sync.commit_publication.0/README.md) | toobig-1h.split\_file.src.sase.agents\_sync hood | dismissed |
