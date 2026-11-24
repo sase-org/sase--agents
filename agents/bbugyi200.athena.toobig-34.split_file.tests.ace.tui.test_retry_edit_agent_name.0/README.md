@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-34](../../users/bbugyi200/machines/athena/hoods/toobig-34/README.md) / toobig-34.split\_file.tests.ace.tui.test\_retry\_edit\_agent\_name.0
 
-**Global name:** `bbugyi200.athena.toobig-34.split_file.tests.ace.tui.test_retry_edit_agent_name.0` · **State:** active · **Source run:** `run-a6e84582049ca5679da26203cb4b98c6`
+**Global name:** `bbugyi200.athena.toobig-34.split_file.tests.ace.tui.test_retry_edit_agent_name.0` · **State:** dismissed · **Source run:** `run-a6e84582049ca5679da26203cb4b98c6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-34
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-19T01:39:02.847319+00:00
+- Timing: 2026-08-18T17:23:27
 - Commits: [1](#commits)
 
 ## Files
@@ -21,16 +21,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`17592d9`](https://github.com/sase-org/sase/commit/17592d9043667de1432023a2ba4e4ac0ff30d141) | test(tui): split test\_retry\_edit\_agent\_name.py into focused modules | 2026-08-18 21:54:37 EDT |
+| — | `17592d9` | test(tui): split test\_retry\_edit\_agent\_name.py into focused modules | 2026-08-18 21:54:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-34.split\_file.tests.ace.tui.test\_custom\_gate\_modal.0](../bbugyi200.athena.toobig-34.split_file.tests.ace.tui.test_custom_gate_modal.0/README.md) | toobig-34.split\_file.tests.ace.tui hood | active |
-| [toobig-34.split\_file.tests.test\_config\_schema.0](../bbugyi200.athena.toobig-34.split_file.tests.test_config_schema.0/README.md) | toobig-34.split\_file.tests hood | active |
-| [toobig-34.split\_file.tests.test\_running\_field\_operations.0](../bbugyi200.athena.toobig-34.split_file.tests.test_running_field_operations.0/README.md) | toobig-34.split\_file.tests hood | active |
-| [toobig-34.split\_file.tests.test\_vcs\_xprompt\_mru.0](../bbugyi200.athena.toobig-34.split_file.tests.test_vcs_xprompt_mru.0/README.md) | toobig-34.split\_file.tests hood | active |
-| [toobig-34.split\_file.src.sase.agent.restart.0](../bbugyi200.athena.toobig-34.split_file.src.sase.agent.restart.0/README.md) | toobig-34.split\_file hood | active |
-| [toobig-34.split\_file.src.sase.bead.snooze\_gate.0](../bbugyi200.athena.toobig-34.split_file.src.sase.bead.snooze_gate.0/README.md) | toobig-34.split\_file hood | active |
-| [toobig-34.split\_file.src.sase.running\_field.\_operations.0](../bbugyi200.athena.toobig-34.split_file.src.sase.running_field._operations.0/README.md) | toobig-34.split\_file hood | active |
+| [toobig-34.split\_file.tests.ace.tui.test\_custom\_gate\_modal.0](../bbugyi200.athena.toobig-34.split_file.tests.ace.tui.test_custom_gate_modal.0/README.md) | toobig-34.split\_file.tests.ace.tui hood | dismissed |
+| [toobig-34.split\_file.tests.test\_config\_schema.0](../bbugyi200.athena.toobig-34.split_file.tests.test_config_schema.0/README.md) | toobig-34.split\_file.tests hood | dismissed |
+| [toobig-34.split\_file.tests.test\_running\_field\_operations.0](../bbugyi200.athena.toobig-34.split_file.tests.test_running_field_operations.0/README.md) | toobig-34.split\_file.tests hood | dismissed |
+| [toobig-34.split\_file.tests.test\_vcs\_xprompt\_mru.0](../bbugyi200.athena.toobig-34.split_file.tests.test_vcs_xprompt_mru.0/README.md) | toobig-34.split\_file.tests hood | dismissed |
+| [toobig-34.split\_file.src.sase.agent.restart.0](../bbugyi200.athena.toobig-34.split_file.src.sase.agent.restart.0/README.md) | toobig-34.split\_file hood | dismissed |
+| [toobig-34.split\_file.src.sase.bead.snooze\_gate.0](../bbugyi200.athena.toobig-34.split_file.src.sase.bead.snooze_gate.0/README.md) | toobig-34.split\_file hood | dismissed |
+| [toobig-34.split\_file.src.sase.running\_field.\_operations.0](../bbugyi200.athena.toobig-34.split_file.src.sase.running_field._operations.0/README.md) | toobig-34.split\_file hood | dismissed |
