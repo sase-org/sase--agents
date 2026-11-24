@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-2x](../../users/bbugyi200/machines/athena/hoods/toobig-2x/README.md) / toobig-2x.split\_file.src.sase.feature\_flags.cli.0
 
-**Global name:** `bbugyi200.athena.toobig-2x.split_file.src.sase.feature_flags.cli.0` · **State:** active · **Source run:** `run-3d1f50baa5c1754cd1129c2ebba94113`
+**Global name:** `bbugyi200.athena.toobig-2x.split_file.src.sase.feature_flags.cli.0` · **State:** dismissed · **Source run:** `run-3d1f50baa5c1754cd1129c2ebba94113`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-2x
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-17T11:45:36.257192+00:00
+- Timing: 2026-08-17T06:16:34
 - Commits: [1](#commits)
 
 ## Files
@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b25f10a`](https://github.com/sase-org/sase/commit/b25f10a720e7de2866acbd135a6ee007c9a5ba50) | refactor(flags): split the flag CLI into per-subcommand modules | 2026-08-17 08:02:15 EDT |
+| — | `b25f10a` | refactor(flags): split the flag CLI into per-subcommand modules | 2026-08-17 08:02:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-2x.split\_file.src.sase.ace.tui.widgets.artifacts.beads\_detail.0](../bbugyi200.athena.toobig-2x.split_file.src.sase.ace.tui.widgets.artifacts.beads_detail.0/README.md) | toobig-2x.split\_file.src.sase hood | active |
-| [toobig-2x.split\_file.tests.monitor.test\_monitor\_start.0](../bbugyi200.athena.toobig-2x.split_file.tests.monitor.test_monitor_start.0/README.md) | toobig-2x.split\_file hood | active |
-| [toobig-2x.split\_file.tests.test\_bead.test\_cli\_list.0](../bbugyi200.athena.toobig-2x.split_file.tests.test_bead.test_cli_list.0/README.md) | toobig-2x.split\_file hood | active |
-| [toobig-2x.split\_file.tests.test\_config\_cache.0](../bbugyi200.athena.toobig-2x.split_file.tests.test_config_cache.0/README.md) | toobig-2x.split\_file hood | active |
+| [toobig-2x.split\_file.src.sase.ace.tui.widgets.artifacts.beads\_detail.0](../bbugyi200.athena.toobig-2x.split_file.src.sase.ace.tui.widgets.artifacts.beads_detail.0/README.md) | toobig-2x.split\_file.src.sase hood | dismissed |
+| [toobig-2x.split\_file.tests.monitor.test\_monitor\_start.0](../bbugyi200.athena.toobig-2x.split_file.tests.monitor.test_monitor_start.0/README.md) | toobig-2x.split\_file hood | dismissed |
+| [toobig-2x.split\_file.tests.test\_bead.test\_cli\_list.0](../bbugyi200.athena.toobig-2x.split_file.tests.test_bead.test_cli_list.0/README.md) | toobig-2x.split\_file hood | dismissed |
+| [toobig-2x.split\_file.tests.test\_config\_cache.0](../bbugyi200.athena.toobig-2x.split_file.tests.test_config_cache.0/README.md) | toobig-2x.split\_file hood | dismissed |

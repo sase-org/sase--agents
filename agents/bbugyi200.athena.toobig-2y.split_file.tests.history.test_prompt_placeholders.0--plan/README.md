@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-2y](../../users/bbugyi200/machines/athena/hoods/toobig-2y/README.md) / [toobig-2y.split\_file.tests.history.test\_prompt\_placeholders.0](../../sessions/bbugyi200.athena.toobig-2y.split_file.tests.history.test_prompt_placeholders.0.md) / toobig-2y.split\_file.tests.history.test\_prompt\_placeholders.0--plan
 
-**Global name:** `bbugyi200.athena.toobig-2y.split_file.tests.history.test_prompt_placeholders.0--plan` · **State:** active · **Source run:** `run-93ded64dd02344978b90089b1f89e7b6`
+**Global name:** `bbugyi200.athena.toobig-2y.split_file.tests.history.test_prompt_placeholders.0--plan` · **State:** dismissed · **Source run:** `run-93ded64dd02344978b90089b1f89e7b6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-2y
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-17T18:07:36.576218+00:00
+- Timing: 2026-08-17T10:12:07
 - Commits: 0
 
 ## Files
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-2y.split\_file.tests.ace.tui.models.test\_agent\_tree.0](../bbugyi200.athena.toobig-2y.split_file.tests.ace.tui.models.test_agent_tree.0/README.md) | toobig-2y.split\_file.tests hood | active |
-| [toobig-2y.split\_file.tests.test\_llm\_provider\_usage\_limit\_config.0](../bbugyi200.athena.toobig-2y.split_file.tests.test_llm_provider_usage_limit_config.0/README.md) | toobig-2y.split\_file.tests hood | active |
+| [toobig-2y.split\_file.tests.ace.tui.models.test\_agent\_tree.0](../bbugyi200.athena.toobig-2y.split_file.tests.ace.tui.models.test_agent_tree.0/README.md) | toobig-2y.split\_file.tests hood | dismissed |
+| [toobig-2y.split\_file.tests.test\_llm\_provider\_usage\_limit\_config.0](../bbugyi200.athena.toobig-2y.split_file.tests.test_llm_provider_usage_limit_config.0/README.md) | toobig-2y.split\_file.tests hood | dismissed |
