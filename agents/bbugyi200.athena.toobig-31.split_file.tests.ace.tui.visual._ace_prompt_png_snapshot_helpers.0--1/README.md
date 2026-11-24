@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`02cf238`](https://github.com/sase-org/sase/commit/02cf2385270e088cfdc36908a0e6497c4d223414) | test(visual): split ACE prompt PNG snapshot helpers into focused modules | 2026-08-18 07:35:05 EDT |
+| — | `02cf238` | test(visual): split ACE prompt PNG snapshot helpers into focused modules | 2026-08-18 07:35:05 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-31.split\_file.tests.ace.tui.widgets.test\_agent\_display\_bead\_section.0](../bbugyi200.athena.toobig-31.split_file.tests.ace.tui.widgets.test_agent_display_bead_section.0/README.md) | toobig-31.split\_file.tests.ace.tui hood | active |
-| [toobig-31.split\_file.src.sase.ace.tui.modals.glossary\_panel.0](../bbugyi200.athena.toobig-31.split_file.src.sase.ace.tui.modals.glossary_panel.0/README.md) | toobig-31.split\_file hood | active |
-| [toobig-31.split\_file.src.sase.config.core.0](../bbugyi200.athena.toobig-31.split_file.src.sase.config.core.0/README.md) | toobig-31.split\_file hood | active |
+| [toobig-31.split\_file.tests.ace.tui.widgets.test\_agent\_display\_bead\_section.0](../bbugyi200.athena.toobig-31.split_file.tests.ace.tui.widgets.test_agent_display_bead_section.0/README.md) | toobig-31.split\_file.tests.ace.tui hood | dismissed |
+| [toobig-31.split\_file.src.sase.ace.tui.modals.glossary\_panel.0](../bbugyi200.athena.toobig-31.split_file.src.sase.ace.tui.modals.glossary_panel.0/README.md) | toobig-31.split\_file hood | dismissed |
+| [toobig-31.split\_file.src.sase.config.core.0](../bbugyi200.athena.toobig-31.split_file.src.sase.config.core.0/README.md) | toobig-31.split\_file hood | dismissed |

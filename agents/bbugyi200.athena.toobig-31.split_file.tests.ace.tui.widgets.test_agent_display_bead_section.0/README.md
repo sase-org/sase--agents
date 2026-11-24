@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-31](../../users/bbugyi200/machines/athena/hoods/toobig-31/README.md) / toobig-31.split\_file.tests.ace.tui.widgets.test\_agent\_display\_bead\_section.0
 
-**Global name:** `bbugyi200.athena.toobig-31.split_file.tests.ace.tui.widgets.test_agent_display_bead_section.0` · **State:** active · **Source run:** `run-e7bc0faf603810df72fa4ead5271f02a`
+**Global name:** `bbugyi200.athena.toobig-31.split_file.tests.ace.tui.widgets.test_agent_display_bead_section.0` · **State:** dismissed · **Source run:** `run-e7bc0faf603810df72fa4ead5271f02a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-31
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-18T12:22:45.920166+00:00
+- Timing: 2026-08-18T06:15:53
 - Commits: [1](#commits)
 
 ## Files
@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`39c9405`](https://github.com/sase-org/sase/commit/39c9405ff95cea1e6de44342117cdeaa3734e51d) | test(ace): split agent display bead section tests into focused modules | 2026-08-18 08:37:38 EDT |
+| — | `39c9405` | test(ace): split agent display bead section tests into focused modules | 2026-08-18 08:37:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-31.split\_file.tests.ace.tui.visual.\_ace\_prompt\_png\_snapshot\_helpers.0](../../sessions/bbugyi200.athena.toobig-31.split_file.tests.ace.tui.visual._ace_prompt_png_snapshot_helpers.0.md) (session · 3) | toobig-31.split\_file.tests.ace.tui hood | active 1, completed 1, failed 1 |
-| [toobig-31.split\_file.src.sase.ace.tui.modals.glossary\_panel.0](../bbugyi200.athena.toobig-31.split_file.src.sase.ace.tui.modals.glossary_panel.0/README.md) | toobig-31.split\_file hood | active |
-| [toobig-31.split\_file.src.sase.config.core.0](../bbugyi200.athena.toobig-31.split_file.src.sase.config.core.0/README.md) | toobig-31.split\_file hood | active |
+| [toobig-31.split\_file.tests.ace.tui.visual.\_ace\_prompt\_png\_snapshot\_helpers.0](../../sessions/bbugyi200.athena.toobig-31.split_file.tests.ace.tui.visual._ace_prompt_png_snapshot_helpers.0.md) (session · 3) | toobig-31.split\_file.tests.ace.tui hood | completed 1, dismissed 1, failed 1 |
+| [toobig-31.split\_file.src.sase.ace.tui.modals.glossary\_panel.0](../bbugyi200.athena.toobig-31.split_file.src.sase.ace.tui.modals.glossary_panel.0/README.md) | toobig-31.split\_file hood | dismissed |
+| [toobig-31.split\_file.src.sase.config.core.0](../bbugyi200.athena.toobig-31.split_file.src.sase.config.core.0/README.md) | toobig-31.split\_file hood | dismissed |
