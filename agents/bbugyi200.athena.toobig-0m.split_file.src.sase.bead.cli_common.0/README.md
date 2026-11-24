@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d128e24`](https://github.com/sase-org/sase/commit/d128e2405d2d3459577584d526b0174c84675ca3) | refactor(bead): split CLI location resolution | 2026-07-28 07:39:39 EDT |
+| — | `d128e24` | refactor(bead): split CLI location resolution | 2026-07-28 07:39:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-0m.split\_file.src.sase.agents\_sync.v2\_io.0](../bbugyi200.athena.toobig-0m.split_file.src.sase.agents_sync.v2_io.0/README.md) | toobig-0m.split\_file.src.sase hood | active |
+| [toobig-0m.split\_file.src.sase.agents\_sync.v2\_io.0](../bbugyi200.athena.toobig-0m.split_file.src.sase.agents_sync.v2_io.0/README.md) | toobig-0m.split\_file.src.sase hood | dismissed |
