@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f4acb79`](https://github.com/sase-org/sase/commit/f4acb79189412ea61d2a59cd919aaf5aaca79b1c) | build(deps): require sase-core-rs 0.17.15 | 2026-08-03 11:23:53 EDT |
+| — | `f4acb79` | build(deps): require sase-core-rs 0.17.15 | 2026-08-03 11:23:53 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sw.f1](../bbugyi200.athena.sw.f1/README.md) | descendant | active |
+| [sw.f1](../bbugyi200.athena.sw.f1/README.md) | descendant | dismissed |
