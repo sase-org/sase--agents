@@ -54,4 +54,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [1fp.f0](../agents/bbugyi200.athena.1fp.f0/README.md) | descendant | active |
+| [1fp.f0](bbugyi200.athena.1fp.f0.md) (session · 5) | descendant | completed 5 |
