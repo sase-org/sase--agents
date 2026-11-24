@@ -1,0 +1,19 @@
+# Hood: 1fp
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 1fp
+
+**Global hood:** `bbugyi200.athena.1fp` · **Runs:** 11 · **Sessions:** 1 · **States:** active 1, completed 7, failed 3
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [1fp--code](../../../../../../sessions/bbugyi200.athena.1fp.md#member-code) | completed | grok-4.6 / grok | 2026-11-24T12:24:21.815625+00:00 → 2026-11-24T12:37:21.677122+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.1fp--code/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.1fp--code/chat.md) |
+| [1fp--2](../../../../../../sessions/bbugyi200.athena.1fp.md#member-2) | completed | grok-4.6 / grok | 2026-11-24T13:37:18.719069+00:00 → 2026-11-24T13:48:42.269675+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.1fp--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.1fp--2/chat.md) |
+| [1fp--mon-2](../../../../../../sessions/bbugyi200.athena.1fp.md#member-mon-2) | completed | grok-4.6 / grok | 2026-11-24T14:14:15.728947+00:00 → 2026-11-24T14:36:14.272264+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.1fp--mon-2/chat.md) |
+| [1fp--gate](../../../../../../sessions/bbugyi200.athena.1fp.md#member-gate) | completed | opus / claude | 2026-11-24T12:23:11.713959+00:00 → 2026-11-24T12:24:00.407627+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.1fp--gate/chat.md) |
+| [1fp--mon](../../../../../../sessions/bbugyi200.athena.1fp.md#member-mon) | failed | grok-4.6 / grok | 2026-11-24T12:35:58.838404+00:00 → 2026-11-24T13:02:31.740201+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.1fp--mon/chat.md) |
+| [1fp.f0](../../../../../../agents/bbugyi200.athena.1fp.f0/README.md) | active | opus / claude | 2026-11-24T14:36:50.508829+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.1fp.f0/prompt.md) |
+| [1fp--mon-0](../../../../../../sessions/bbugyi200.athena.1fp.md#member-mon-0) | failed | grok-4.6 / grok | 2026-11-24T13:14:00.415785+00:00 → 2026-11-24T13:37:18.977911+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.1fp--mon-0/chat.md) |
+| [1fp--mon-1](../../../../../../sessions/bbugyi200.athena.1fp.md#member-mon-1) | failed | grok-4.6 / grok | 2026-11-24T13:47:28.971916+00:00 → 2026-11-24T14:10:02.183876+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.1fp--mon-1/chat.md) |
+| [1fp--1](../../../../../../sessions/bbugyi200.athena.1fp.md#member-1) | completed | grok-4.6 / grok | 2026-11-24T13:02:31.298139+00:00 → 2026-11-24T13:15:14.740394+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.1fp--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.1fp--1/chat.md) |
+| [1fp--plan](../../../../../../sessions/bbugyi200.athena.1fp.md#member-plan) | completed | opus / claude | 2026-11-24T11:58:01.447966+00:00 → 2026-11-24T12:09:41.280920+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.1fp--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.1fp--plan/chat.md) |
+| [1fp--3](../../../../../../sessions/bbugyi200.athena.1fp.md#member-3) | completed | grok-4.6 / grok | 2026-11-24T14:10:02.097971+00:00 → 2026-11-24T14:15:35.433338+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.1fp--3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.1fp--3/chat.md) |

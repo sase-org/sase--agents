@@ -1,0 +1,1570 @@
+# Chat History - ace-run (1fp--mon-1)
+
+- **TIMESTAMP:** 2026-11-24 09:09:00 EST
+- **MODEL:** grok/grok-4.6
+- **AGENT:** 1fp--mon-1
+
+## Prompt
+
+sase monitor start --command 'just check' --reason 'Verify before host completion'
+
+## Response
+
+sase tool run fddc41b3a548003fc64d9abe09b71c26
+.venv/bin/python tools/setup_required_plugins
+[setup] Installing required plugin sase-github>=0.2.5.
+[setup] Installing required plugin sase-research-artifacts>=0.2.0.
+✓ epic-symbol freshness
+✓ fmt (python)
+✓ fmt (markdown)
+✓ fmt (generated docs)
+✓ fmt (sase-backed docs)
+✓ model policy
+✓ lint (keep-sorted)
+✓ lint (ruff)
+✓ lint (mypy)
+✓ lint (feature flags)
+✓ lint (pyscripts)
+✓ lint (test waits)
+✓ lint (eager annotations)
+✓ lint (changelog)
+✓ lint (patch/stitch terminology)
+✓ lint (symvision)
+✓ lint (docs contract)
+✓ SASE validation
+[core-floor-probe] blocked_unpublished: sase-core-rs==0.44.2 is missing 56 capability(s), and at least one has no containing sase-core release tag yet.
+[core-floor-probe] agent_artifact_list_wire_schema_version: first appears in sase-core 8cedd45 (feat: add compact agent-list wire contracts and PyO3 bindings); no release tag contains it yet.
+[core-floor-probe] agent_hijack_decide: first appears in sase-core 9940715 (feat(agent-hijack): add eligibility v2 wire, occupant selection, stop_blocked ledger); no release tag contains it yet.
+[core-floor-probe] agent_hijack_eligibility_wire_schema_version: first appears in sase-core 9940715 (feat(agent-hijack): add eligibility v2 wire, occupant selection, stop_blocked ledger); no release tag contains it yet.
+[core-floor-probe] agent_hijack_latch_observe: first appears in sase-core e9b1cf0 (feat(agent-hijack): add latch ledger policy and bindings); no release tag contains it yet.
+[core-floor-probe] agent_hijack_latch_wire_schema_version: first appears in sase-core e9b1cf0 (feat(agent-hijack): add latch ledger policy and bindings); no release tag contains it yet.
+[core-floor-probe] agent_hijack_select_occupant: first appears in sase-core 9940715 (feat(agent-hijack): add eligibility v2 wire, occupant selection, stop_blocked ledger); no release tag contains it yet.
+[core-floor-probe] append_notification_counts_with_options: first appears in sase-core 6524f37 (feat(notifications): store oversized payloads in sidecars); no release tag contains it yet.
+[core-floor-probe] append_notification_with_options: first appears in sase-core 6524f37 (feat(notifications): store oversized payloads in sidecars); no release tag contains it yet.
+[core-floor-probe] apply_chop_batch_transition: first appears in sase-core 6cd9a0c (feat(axe-chop): versioned crash-safe chop batch contract); no release tag contains it yet.
+[core-floor-probe] artifact_file_association_query: first appears in sase-core 19b89ac (feat(artifact-file): add targeted association query over JSONL index); no release tag contains it yet.
+[core-floor-probe] artifact_file_association_query_wire_schema_version: first appears in sase-core 19b89ac (feat(artifact-file): add targeted association query over JSONL index); no release tag contains it yet.
+[core-floor-probe] artifact_read_audit_query: first appears in sase-core 3992fce (feat(audit-query): query artifact-read audit logs); no release tag contains it yet.
+[core-floor-probe] artifact_read_audit_query_wire_schema_version: first appears in sase-core 3992fce (feat(audit-query): query artifact-read audit logs); no release tag contains it yet.
+[core-floor-probe] axe_error_wire_schema_version: first appears in sase-core 3a32a23 (feat(axe-error): add volatile-token normalizer and signature grouping); no release tag contains it yet.
+[core-floor-probe] bead_touch_member_query: first appears in sase-core 9f9341e (feat(bead): add member-targeted touch index query with streaming views fold); no release tag contains it yet.
+[core-floor-probe] bead_touch_member_query_wire_schema_version: first appears in sase-core 9f9341e (feat(bead): add member-targeted touch index query with streaming views fold); no release tag contains it yet.
+[core-floor-probe] bead_triage_owner_candidates: first appears in sase-core cb76eb2 (feat(bead): project triage owner candidates from the read model); no release tag contains it yet.
+[core-floor-probe] bead_view_member_query: first appears in sase-core 9f9341e (feat(bead): add member-targeted touch index query with streaming views fold); no release tag contains it yet.
+[core-floor-probe] chop_batch_generation_matches: first appears in sase-core b1a0363 (feat(axe-chop): add clan-scoped generation match and cancelled settlement); no release tag contains it yet.
+[core-floor-probe] compact_notification_store: first appears in sase-core 6524f37 (feat(notifications): store oversized payloads in sidecars); no release tag contains it yet.
+[core-floor-probe] decide_local_command_trust: first appears in sase-core e7647bf (feat(config): add digest-pinned local-command trust contract and bindings); no release tag contains it yet.
+[core-floor-probe] decide_publication_standing: first appears in sase-core 3c3263f (feat(publication): add standing-alert decider with capped backoff); no release tag contains it yet.
+[core-floor-probe] digest_local_commands: first appears in sase-core e7647bf (feat(config): add digest-pinned local-command trust contract and bindings); no release tag contains it yet.
+[core-floor-probe] filter_trusted_local_layer: first appears in sase-core e7647bf (feat(config): add digest-pinned local-command trust contract and bindings); no release tag contains it yet.
+[core-floor-probe] gate_failure_resurface_decision: first appears in sase-core f0034a7 (feat(agent-scan,notifications): project gate failure and dismissal timestamps with shared resurface policy); no release tag contains it yet.
+[core-floor-probe] group_axe_errors: first appears in sase-core 3a32a23 (feat(axe-error): add volatile-token normalizer and signature grouping); no release tag contains it yet.
+[core-floor-probe] hijack_latch_force_eligibility: first appears in sase-core e9b1cf0 (feat(agent-hijack): add latch ledger policy and bindings); no release tag contains it yet.
+[core-floor-probe] hijack_latch_reconcile: first appears in sase-core e9b1cf0 (feat(agent-hijack): add latch ledger policy and bindings); no release tag contains it yet.
+[core-floor-probe] local_command_trust_store_allow: first appears in sase-core 233cb41 (feat(config): persist digest-pinned local command trust); no release tag contains it yet.
+[core-floor-probe] local_command_trust_store_get: first appears in sase-core 233cb41 (feat(config): persist digest-pinned local command trust); no release tag contains it yet.
+[core-floor-probe] local_command_trust_store_revoke: first appears in sase-core 233cb41 (feat(config): persist digest-pinned local command trust); no release tag contains it yet.
+[core-floor-probe] local_command_trust_wire_schema_version: first appears in sase-core e7647bf (feat(config): add digest-pinned local-command trust contract and bindings); no release tag contains it yet.
+[core-floor-probe] lookup_agent_artifacts: first appears in sase-core a4b1c84 (feat(agent-scan): add read-only indexed artifact identity lookups); no release tag contains it yet.
+[core-floor-probe] lookup_named_dismissed_bundle: first appears in sase-core d201086 (feat(agent-scan): add bounded named lookup selection); no release tag contains it yet.
+[core-floor-probe] memory_audit_query: first appears in sase-core c5e60d7 (feat(audit-query): add targeted memory audit query over JSONL); no release tag contains it yet.
+[core-floor-probe] memory_audit_query_wire_schema_version: first appears in sase-core c5e60d7 (feat(audit-query): add targeted memory audit query over JSONL); no release tag contains it yet.
+[core-floor-probe] normalize_error_signature: first appears in sase-core 3a32a23 (feat(axe-error): add volatile-token normalizer and signature grouping); no release tag contains it yet.
+[core-floor-probe] plan_prompt_command_substitution: first appears in sase-core 1191f9a (feat: add prompt command-substitution source policy); no release tag contains it yet.
+[core-floor-probe] project_local_commands: first appears in sase-core e7647bf (feat(config): add digest-pinned local-command trust contract and bindings); no release tag contains it yet.
+[core-floor-probe] project_monitor_turn_state: first appears in sase-core 1fb9701 (feat(staged-handoff): project held staged monitors as first-class state); no release tag contains it yet.
+[core-floor-probe] prompt_command_substitution_wire_schema_version: first appears in sase-core 1191f9a (feat: add prompt command-substitution source policy); no release tag contains it yet.
+[core-floor-probe] query_agent_artifact_index_list: first appears in sase-core 8cedd45 (feat: add compact agent-list wire contracts and PyO3 bindings); no release tag contains it yet.
+[core-floor-probe] query_agent_artifact_index_reusable: first appears in sase-core 575d430 (fix(agent-scan): validate reusable full index payloads); no release tag contains it yet.
+[core-floor-probe] reconcile_chop_batch: first appears in sase-core 6cd9a0c (feat(axe-chop): versioned crash-safe chop batch contract); no release tag contains it yet.
+[core-floor-probe] reconcile_notification_rows_with_options: first appears in sase-core 6524f37 (feat(notifications): store oversized payloads in sidecars); no release tag contains it yet.
+[core-floor-probe] resolve_notification_payloads: first appears in sase-core 6524f37 (feat(notifications): store oversized payloads in sidecars); no release tag contains it yet.
+[core-floor-probe] scan_agent_artifact_dirs_list: first appears in sase-core 8cedd45 (feat: add compact agent-list wire contracts and PyO3 bindings); no release tag contains it yet.
+[core-floor-probe] scan_agent_artifacts_list: first appears in sase-core 8cedd45 (feat: add compact agent-list wire contracts and PyO3 bindings); no release tag contains it yet.
+[core-floor-probe] select_agent_artifact_group: first appears in sase-core b9f33b0 (feat(agent-scan): select indexed session and clan generations); no release tag contains it yet.
+[core-floor-probe] select_named_agent: first appears in sase-core d201086 (feat(agent-scan): add bounded named lookup selection); no release tag contains it yet.
+[core-floor-probe] select_unscanned_coverage: first appears in sase-core 7ac2081 (feat(finalizer): add shared unscanned-writes coverage and repair policy); no release tag contains it yet.
+[core-floor-probe] suggest_unscanned_repair: first appears in sase-core 7ac2081 (feat(finalizer): add shared unscanned-writes coverage and repair policy); no release tag contains it yet.
+[core-floor-probe] summarize_chop_batch: first appears in sase-core 6cd9a0c (feat(axe-chop): versioned crash-safe chop batch contract); no release tag contains it yet.
+[core-floor-probe] unscanned_wire_schema_version: first appears in sase-core 7ac2081 (feat(finalizer): add shared unscanned-writes coverage and repair policy); no release tag contains it yet.
+[core-floor-probe] upsert_notification_with_options: first appears in sase-core 6524f37 (feat(notifications): store oversized payloads in sidecars); no release tag contains it yet.
+[core-floor-probe] validate_chop_batch_manifest: first appears in sase-core 6cd9a0c (feat(axe-chop): versioned crash-safe chop batch contract); no release tag contains it yet.
+{"cache_hit": true, "capabilities": [{"commit": "8cedd45", "name": "agent_artifact_list_wire_schema_version", "release": null, "subject": "feat: add compact agent-list wire contracts and PyO3 bindings"}, {"commit": "9940715", "name": "agent_hijack_decide", "release": null, "subject": "feat(agent-hijack): add eligibility v2 wire, occupant selection, stop_blocked ledger"}, {"commit": "9940715", "name": "agent_hijack_eligibility_wire_schema_version", "release": null, "subject": "feat(agent-hijack): add eligibility v2 wire, occupant selection, stop_blocked ledger"}, {"commit": "e9b1cf0", "name": "agent_hijack_latch_observe", "release": null, "subject": "feat(agent-hijack): add latch ledger policy and bindings"}, {"commit": "e9b1cf0", "name": "agent_hijack_latch_wire_schema_version", "release": null, "subject": "feat(agent-hijack): add latch ledger policy and bindings"}, {"commit": "9940715", "name": "agent_hijack_select_occupant", "release": null, "subject": "feat(agent-hijack): add eligibility v2 wire, occupant selection, stop_blocked ledger"}, {"commit": "6524f37", "name": "append_notification_counts_with_options", "release": null, "subject": "feat(notifications): store oversized payloads in sidecars"}, {"commit": "6524f37", "name": "append_notification_with_options", "release": null, "subject": "feat(notifications): store oversized payloads in sidecars"}, {"commit": "6cd9a0c", "name": "apply_chop_batch_transition", "release": null, "subject": "feat(axe-chop): versioned crash-safe chop batch contract"}, {"commit": "19b89ac", "name": "artifact_file_association_query", "release": null, "subject": "feat(artifact-file): add targeted association query over JSONL index"}, {"commit": "19b89ac", "name": "artifact_file_association_query_wire_schema_version", "release": null, "subject": "feat(artifact-file): add targeted association query over JSONL index"}, {"commit": "3992fce", "name": "artifact_read_audit_query", "release": null, "subject": "feat(audit-query): query artifact-read audit logs"}, {"commit": "3992fce", "name": "artifact_read_audit_query_wire_schema_version", "release": null, "subject": "feat(audit-query): query artifact-read audit logs"}, {"commit": "3a32a23", "name": "axe_error_wire_schema_version", "release": null, "subject": "feat(axe-error): add volatile-token normalizer and signature grouping"}, {"commit": "9f9341e", "name": "bead_touch_member_query", "release": null, "subject": "feat(bead): add member-targeted touch index query with streaming views fold"}, {"commit": "9f9341e", "name": "bead_touch_member_query_wire_schema_version", "release": null, "subject": "feat(bead): add member-targeted touch index query with streaming views fold"}, {"commit": "cb76eb2", "name": "bead_triage_owner_candidates", "release": null, "subject": "feat(bead): project triage owner candidates from the read model"}, {"commit": "9f9341e", "name": "bead_view_member_query", "release": null, "subject": "feat(bead): add member-targeted touch index query with streaming views fold"}, {"commit": "b1a0363", "name": "chop_batch_generation_matches", "release": null, "subject": "feat(axe-chop): add clan-scoped generation match and cancelled settlement"}, {"commit": "6524f37", "name": "compact_notification_store", "release": null, "subject": "feat(notifications): store oversized payloads in sidecars"}, {"commit": "e7647bf", "name": "decide_local_command_trust", "release": null, "subject": "feat(config): add digest-pinned local-command trust contract and bindings"}, {"commit": "3c3263f", "name": "decide_publication_standing", "release": null, "subject": "feat(publication): add standing-alert decider with capped backoff"}, {"commit": "e7647bf", "name": "digest_local_commands", "release": null, "subject": "feat(config): add digest-pinned local-command trust contract and bindings"}, {"commit": "e7647bf", "name": "filter_trusted_local_layer", "release": null, "subject": "feat(config): add digest-pinned local-command trust contract and bindings"}, {"commit": "f0034a7", "name": "gate_failure_resurface_decision", "release": null, "subject": "feat(agent-scan,notifications): project gate failure and dismissal timestamps with shared resurface policy"}, {"commit": "3a32a23", "name": "group_axe_errors", "release": null, "subject": "feat(axe-error): add volatile-token normalizer and signature grouping"}, {"commit": "e9b1cf0", "name": "hijack_latch_force_eligibility", "release": null, "subject": "feat(agent-hijack): add latch ledger policy and bindings"}, {"commit": "e9b1cf0", "name": "hijack_latch_reconcile", "release": null, "subject": "feat(agent-hijack): add latch ledger policy and bindings"}, {"commit": "233cb41", "name": "local_command_trust_store_allow", "release": null, "subject": "feat(config): persist digest-pinned local command trust"}, {"commit": "233cb41", "name": "local_command_trust_store_get", "release": null, "subject": "feat(config): persist digest-pinned local command trust"}, {"commit": "233cb41", "name": "local_command_trust_store_revoke", "release": null, "subject": "feat(config): persist digest-pinned local command trust"}, {"commit": "e7647bf", "name": "local_command_trust_wire_schema_version", "release": null, "subject": "feat(config): add digest-pinned local-command trust contract and bindings"}, {"commit": "a4b1c84", "name": "lookup_agent_artifacts", "release": null, "subject": "feat(agent-scan): add read-only indexed artifact identity lookups"}, {"commit": "d201086", "name": "lookup_named_dismissed_bundle", "release": null, "subject": "feat(agent-scan): add bounded named lookup selection"}, {"commit": "c5e60d7", "name": "memory_audit_query", "release": null, "subject": "feat(audit-query): add targeted memory audit query over JSONL"}, {"commit": "c5e60d7", "name": "memory_audit_query_wire_schema_version", "release": null, "subject": "feat(audit-query): add targeted memory audit query over JSONL"}, {"commit": "3a32a23", "name": "normalize_error_signature", "release": null, "subject": "feat(axe-error): add volatile-token normalizer and signature grouping"}, {"commit": "1191f9a", "name": "plan_prompt_command_substitution", "release": null, "subject": "feat: add prompt command-substitution source policy"}, {"commit": "e7647bf", "name": "project_local_commands", "release": null, "subject": "feat(config): add digest-pinned local-command trust contract and bindings"}, {"commit": "1fb9701", "name": "project_monitor_turn_state", "release": null, "subject": "feat(staged-handoff): project held staged monitors as first-class state"}, {"commit": "1191f9a", "name": "prompt_command_substitution_wire_schema_version", "release": null, "subject": "feat: add prompt command-substitution source policy"}, {"commit": "8cedd45", "name": "query_agent_artifact_index_list", "release": null, "subject": "feat: add compact agent-list wire contracts and PyO3 bindings"}, {"commit": "575d430", "name": "query_agent_artifact_index_reusable", "release": null, "subject": "fix(agent-scan): validate reusable full index payloads"}, {"commit": "6cd9a0c", "name": "reconcile_chop_batch", "release": null, "subject": "feat(axe-chop): versioned crash-safe chop batch contract"}, {"commit": "6524f37", "name": "reconcile_notification_rows_with_options", "release": null, "subject": "feat(notifications): store oversized payloads in sidecars"}, {"commit": "6524f37", "name": "resolve_notification_payloads", "release": null, "subject": "feat(notifications): store oversized payloads in sidecars"}, {"commit": "8cedd45", "name": "scan_agent_artifact_dirs_list", "release": null, "subject": "feat: add compact agent-list wire contracts and PyO3 bindings"}, {"commit": "8cedd45", "name": "scan_agent_artifacts_list", "release": null, "subject": "feat: add compact agent-list wire contracts and PyO3 bindings"}, {"commit": "b9f33b0", "name": "select_agent_artifact_group", "release": null, "subject": "feat(agent-scan): select indexed session and clan generations"}, {"commit": "d201086", "name": "select_named_agent", "release": null, "subject": "feat(agent-scan): add bounded named lookup selection"}, {"commit": "7ac2081", "name": "select_unscanned_coverage", "release": null, "subject": "feat(finalizer): add shared unscanned-writes coverage and repair policy"}, {"commit": "7ac2081", "name": "suggest_unscanned_repair", "release": null, "subject": "feat(finalizer): add shared unscanned-writes coverage and repair policy"}, {"commit": "6cd9a0c", "name": "summarize_chop_batch", "release": null, "subject": "feat(axe-chop): versioned crash-safe chop batch contract"}, {"commit": "7ac2081", "name": "unscanned_wire_schema_version", "release": null, "subject": "feat(finalizer): add shared unscanned-writes coverage and repair policy"}, {"commit": "6524f37", "name": "upsert_notification_with_options", "release": null, "subject": "feat(notifications): store oversized payloads in sidecars"}, {"commit": "6cd9a0c", "name": "validate_chop_batch_manifest", "release": null, "subject": "feat(axe-chop): versioned crash-safe chop batch contract"}], "declared_floor": "0.44.2", "exit_code": 4, "message": "sase-core-rs==0.44.2 is missing 56 capability(s), and at least one has no containing sase-core release tag yet.", "status": "blocked_unpublished"}
+✓ committed plans
+✓ docs (build + links)
+✗ test (scoped)
+.venv/bin/python tools/setup_required_plugins
+[setup] Installing required plugin sase-github>=0.2.5.
+[setup] Installing required plugin sase-research-artifacts>=0.2.0.
+
+┌───────────────────────────────────────────────────────┐
+│                RUNNING: just test-scoped              │
+└───────────────────────────────────────────────────────┘
+
+---------- Running diff-scoped pytest selection... ----------
+test selection escalated to the full suite (rules: src-data-asset); 5977 test files in scope
+coverage contexts: not consulted — the run escalates to the full suite, so ground truth had nothing to add
+escalating to the governed full test lane (rules: src-data-asset)
+============================= test session starts ==============================
+platform linux -- Python 3.14.7, pytest-9.1.1, pluggy-1.6.0
+rootdir: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11
+configfile: pyproject.toml
+testpaths: tests
+plugins: cov-7.1.0, hypothesis-6.167.1, asyncio-1.4.0, inline-snapshot-0.35.4, xdist-3.8.0, mock-3.15.1
+asyncio: mode=Mode.AUTO, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+created: 14/14 workers
+14 workers [63594 items]
+
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  4%]
+................................................s....................... [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  9%]
+........................................................................ [  9%]
+........................................................................ [  9%]
+........................................................................ [  9%]
+........................................................................ [  9%]
+........................................................................ [  9%]
+........................................................................ [  9%]
+........................................................................ [  9%]
+........................................................................ [  9%]
+........................................................................ [ 10%]
+........................................................................ [ 10%]
+........................................................................ [ 10%]
+........................................................................ [ 10%]
+.................s...................................................... [ 10%]
+........................................................................ [ 10%]
+........................................................................ [ 10%]
+........................................................................ [ 10%]
+......................................................................s. [ 10%]
+........................................................................ [ 11%]
+........................................................................ [ 11%]
+........................................................................ [ 11%]
+........................................................................ [ 11%]
+........................................................................ [ 11%]
+........................................................................ [ 11%]
+........................................................................ [ 11%]
+........................................................................ [ 11%]
+........................................................................ [ 12%]
+........................................................................ [ 12%]
+........................................................................ [ 12%]
+........................................................................ [ 12%]
+........................................................................ [ 12%]
+........................................................................ [ 12%]
+........................................................................ [ 12%]
+........................................................................ [ 12%]
+........................................................................ [ 12%]
+........................................................................ [ 13%]
+........................................................................ [ 13%]
+........................................................................ [ 13%]
+........................................................................ [ 13%]
+........................................................................ [ 13%]
+........................................................................ [ 13%]
+........................................................................ [ 13%]
+........................................................................ [ 13%]
+........................................................................ [ 13%]
+........................................................................ [ 14%]
+........................................................................ [ 14%]
+........................................................................ [ 14%]
+........................................................................ [ 14%]
+........................................................................ [ 14%]
+.......................s................................................ [ 14%]
+........................................................................ [ 14%]
+........................................................................ [ 14%]
+........................................................................ [ 14%]
+........................................................................ [ 15%]
+........................................................................ [ 15%]
+........................................................................ [ 15%]
+........................................................................ [ 15%]
+........................................................................ [ 15%]
+........................................................................ [ 15%]
+........................................................................ [ 15%]
+........................................................................ [ 15%]
+........................................................................ [ 15%]
+........................................................................ [ 16%]
+........................................................................ [ 16%]
+........................................................................ [ 16%]
+........................................................................ [ 16%]
+........................................................................ [ 16%]
+........................................................................ [ 16%]
+........................................................................ [ 16%]
+........................................................................ [ 16%]
+........................................................................ [ 16%]
+........................................................................ [ 17%]
+........................................................................ [ 17%]
+........................................................................ [ 17%]
+........................................................................ [ 17%]
+........................................................................ [ 17%]
+........................................................................ [ 17%]
+........................................................................ [ 17%]
+........................................................................ [ 17%]
+........................................................................ [ 18%]
+........................................................................ [ 18%]
+........................................................................ [ 18%]
+........................................................................ [ 18%]
+........................................................................ [ 18%]
+........................................................................ [ 18%]
+........................................................................ [ 18%]
+........................................................................ [ 18%]
+........................................................................ [ 18%]
+........................................................................ [ 19%]
+........................................................................ [ 19%]
+........................................................................ [ 19%]
+........................................................................ [ 19%]
+........................................................................ [ 19%]
+........................................................................ [ 19%]
+........................................................................ [ 19%]
+........................................................................ [ 19%]
+........................................................................ [ 19%]
+........................................................................ [ 20%]
+........................................................................ [ 20%]
+........................................................................ [ 20%]
+........................................................................ [ 20%]
+........................................................................ [ 20%]
+........................................................................ [ 20%]
+........................................................................ [ 20%]
+........................................................................ [ 20%]
+........................................................................ [ 20%]
+........................................................................ [ 21%]
+........................................................................ [ 21%]
+........................................................................ [ 21%]
+........................................................................ [ 21%]
+........................................................................ [ 21%]
+........................................................................ [ 21%]
+........................................................................ [ 21%]
+........................................................................ [ 21%]
+........................................................................ [ 21%]
+........................................................................ [ 22%]
+........................................................................ [ 22%]
+........................................................................ [ 22%]
+........................................................................ [ 22%]
+........................................................................ [ 22%]
+........................................................................ [ 22%]
+........................................................................ [ 22%]
+........................................................................ [ 22%]
+........................................................................ [ 22%]
+........................................................................ [ 23%]
+........................................................................ [ 23%]
+........................................................................ [ 23%]
+........................................................................ [ 23%]
+........................................................................ [ 23%]
+........................................................................ [ 23%]
+........................................................................ [ 23%]
+........................................................................ [ 23%]
+........................................................................ [ 24%]
+........................................................................ [ 24%]
+........................................................................ [ 24%]
+........................................................................ [ 24%]
+........................................................................ [ 24%]
+........................................................................ [ 24%]
+........................................................................ [ 24%]
+........................................................................ [ 24%]
+........................................................................ [ 24%]
+........................................................................ [ 25%]
+........................................................................ [ 25%]
+........................................................................ [ 25%]
+........................................................................ [ 25%]
+........................................................................ [ 25%]
+........................................................................ [ 25%]
+........................................................................ [ 25%]
+........................................................................ [ 25%]
+........................................................................ [ 25%]
+........................................................................ [ 26%]
+........................................................................ [ 26%]
+........................................................................ [ 26%]
+........................................................................ [ 26%]
+........................................................................ [ 26%]
+........................................................................ [ 26%]
+........................................................................ [ 26%]
+........................................................................ [ 26%]
+........................................................................ [ 26%]
+........................................................................ [ 27%]
+........................................................................ [ 27%]
+........................................................................ [ 27%]
+........................................................................ [ 27%]
+........................................................................ [ 27%]
+........................................................................ [ 27%]
+........................................................................ [ 27%]
+........................................................................ [ 27%]
+........................................................................ [ 27%]
+........................................................................ [ 28%]
+........................................................................ [ 28%]
+........................................................................ [ 28%]
+........................................................................ [ 28%]
+........................................................................ [ 28%]
+........................................................................ [ 28%]
+........................................................................ [ 28%]
+........................................................................ [ 28%]
+........................................................................ [ 28%]
+........................................................................ [ 29%]
+........................................................................ [ 29%]
+........................................................................ [ 29%]
+........................................................................ [ 29%]
+........................................................................ [ 29%]
+........................................................................ [ 29%]
+........................................................................ [ 29%]
+........................................................................ [ 29%]
+........................................................................ [ 30%]
+........................................................................ [ 30%]
+........................................................................ [ 30%]
+........................................................................ [ 30%]
+........................................................................ [ 30%]
+........................................................................ [ 30%]
+........................................................................ [ 30%]
+........................................................................ [ 30%]
+........................................................................ [ 30%]
+........................................................................ [ 31%]
+........................................................................ [ 31%]
+........................................................................ [ 31%]
+........................................................................ [ 31%]
+........................................................................ [ 31%]
+........................................................................ [ 31%]
+........................................................................ [ 31%]
+........................................................................ [ 31%]
+........................................................................ [ 31%]
+........................................................................ [ 32%]
+........................................................................ [ 32%]
+........................................................................ [ 32%]
+........................................................................ [ 32%]
+........................................................................ [ 32%]
+........................................................................ [ 32%]
+........................................................................ [ 32%]
+........................................................................ [ 32%]
+........................................................................ [ 32%]
+........................................................................ [ 33%]
+........................................................................ [ 33%]
+........................................................................ [ 33%]
+........................................................................ [ 33%]
+........................................................................ [ 33%]
+........................................................................ [ 33%]
+........................................................................ [ 33%]
+........................................................................ [ 33%]
+........................................................................ [ 33%]
+........................................................................ [ 34%]
+........................................................................ [ 34%]
+........................................................................ [ 34%]
+........................................................................ [ 34%]
+........................................................................ [ 34%]
+........................................................................ [ 34%]
+........................................................................ [ 34%]
+........................................................................ [ 34%]
+........................................................................ [ 34%]
+........................................................................ [ 35%]
+........................................................................ [ 35%]
+........................................................................ [ 35%]
+........................................................................ [ 35%]
+........................................................................ [ 35%]
+........................................................................ [ 35%]
+........................................................................ [ 35%]
+........................................................................ [ 35%]
+........................................................................ [ 36%]
+........................................................................ [ 36%]
+........................................................................ [ 36%]
+........................................................................ [ 36%]
+........................................................................ [ 36%]
+........................................................................ [ 36%]
+........................................................................ [ 36%]
+........................................................................ [ 36%]
+........................................................................ [ 36%]
+........................................................................ [ 37%]
+........................................................................ [ 37%]
+........................................................................ [ 37%]
+........................................................................ [ 37%]
+........................................................................ [ 37%]
+........................................................................ [ 37%]
+........................................................................ [ 37%]
+........................................................................ [ 37%]
+........................................................................ [ 37%]
+........................................................................ [ 38%]
+........................................................................ [ 38%]
+........................................................................ [ 38%]
+........................................................................ [ 38%]
+........................................................................ [ 38%]
+........................................................................ [ 38%]
+........................................................................ [ 38%]
+........................................................................ [ 38%]
+........................................................................ [ 38%]
+........................................................................ [ 39%]
+........................................................................ [ 39%]
+........................................................................ [ 39%]
+........................................................................ [ 39%]
+........................................................................ [ 39%]
+........................................................................ [ 39%]
+........................................................................ [ 39%]
+........................................................................ [ 39%]
+........................................................................ [ 39%]
+........................................................................ [ 40%]
+........................................................................ [ 40%]
+........................................................................ [ 40%]
+........................................................................ [ 40%]
+........................................................................ [ 40%]
+........................................................................ [ 40%]
+........................................................................ [ 40%]
+........................................................................ [ 40%]
+........................................................................ [ 40%]
+........................................................................ [ 41%]
+........................................................................ [ 41%]
+........................................................................ [ 41%]
+........................................................................ [ 41%]
+........................................................................ [ 41%]
+........................................................................ [ 41%]
+........................................................................ [ 41%]
+........................................................................ [ 41%]
+........................................................................ [ 42%]
+........................................................................ [ 42%]
+........................................................................ [ 42%]
+........................................................................ [ 42%]
+........s............................................................... [ 42%]
+........................................................................ [ 42%]
+........................................................................ [ 42%]
+........................................................................ [ 42%]
+........................................................................ [ 42%]
+........................................................................ [ 43%]
+........................................................................ [ 43%]
+........................................................................ [ 43%]
+........................................................................ [ 43%]
+........................................................................ [ 43%]
+........................................................................ [ 43%]
+........................................................................ [ 43%]
+........................................................................ [ 43%]
+........................................................................ [ 43%]
+........................................................................ [ 44%]
+........................................................................ [ 44%]
+........................................................................ [ 44%]
+........................................................................ [ 44%]
+........................................................................ [ 44%]
+........................................................................ [ 44%]
+........................................................................ [ 44%]
+........................................................................ [ 44%]
+........................................................................ [ 44%]
+........................................................................ [ 45%]
+........................................................................ [ 45%]
+........................................................................ [ 45%]
+........................................................................ [ 45%]
+........................................................................ [ 45%]
+........................................................................ [ 45%]
+........................................................................ [ 45%]
+........................................................................ [ 45%]
+........................................................................ [ 45%]
+........................................................................ [ 46%]
+........................................................................ [ 46%]
+........................................................................ [ 46%]
+........................................................................ [ 46%]
+........................................................................ [ 46%]
+........................................................................ [ 46%]
+........................................................................ [ 46%]
+........................................................................ [ 46%]
+........................................................................ [ 46%]
+........................................................................ [ 47%]
+........................................................................ [ 47%]
+........................................................................ [ 47%]
+........................................................................ [ 47%]
+........................................................................ [ 47%]
+........................................................................ [ 47%]
+........................................................................ [ 47%]
+........................................................................ [ 47%]
+........................................................................ [ 48%]
+........................................................................ [ 48%]
+........................................................................ [ 48%]
+........................................................................ [ 48%]
+...............................s........................................ [ 48%]
+........................................................................ [ 48%]
+........................................................................ [ 48%]
+........................................................................ [ 48%]
+........................................................................ [ 48%]
+........................................................................ [ 49%]
+........................................................................ [ 49%]
+........................................................................ [ 49%]
+........................................................................ [ 49%]
+........................................................................ [ 49%]
+........................................................................ [ 49%]
+........................................................................ [ 49%]
+........................................................................ [ 49%]
+........................................................................ [ 49%]
+........................................................................ [ 50%]
+........................................................................ [ 50%]
+........................................................................ [ 50%]
+........................................................................ [ 50%]
+........................................................................ [ 50%]
+........................................................................ [ 50%]
+.......................................................................F [ 50%]
+........................................................................ [ 50%]
+..............F......................................................... [ 50%]
+........................................................................ [ 51%]
+........................................................................ [ 51%]
+........................................................................ [ 51%]
+...............................................................s........ [ 51%]
+........................................................................ [ 51%]
+...................................................ss................... [ 51%]
+........................................................................ [ 51%]
+........................................................................ [ 51%]
+........................................................................ [ 51%]
+........................................................................ [ 52%]
+........................................................................ [ 52%]
+........................................................................ [ 52%]
+........................................................................ [ 52%]
+........................................................................ [ 52%]
+........................................................................ [ 52%]
+........................................................................ [ 52%]
+........................................................................ [ 52%]
+........................................................................ [ 52%]
+........................................................................ [ 53%]
+........................................................................ [ 53%]
+........................................................................ [ 53%]
+........................................................................ [ 53%]
+........................................................................ [ 53%]
+........................................................................ [ 53%]
+........................................................................ [ 53%]
+........................................................................ [ 53%]
+........................................................................ [ 54%]
+........................................................................ [ 54%]
+........................................................................ [ 54%]
+........................................................................ [ 54%]
+........................................................................ [ 54%]
+........................................................................ [ 54%]
+........................................................................ [ 54%]
+........................................................................ [ 54%]
+........................................................................ [ 54%]
+........................................................................ [ 55%]
+........................................................................ [ 55%]
+........................................................................ [ 55%]
+........................................................................ [ 55%]
+........................................................................ [ 55%]
+........................................................................ [ 55%]
+........................................................................ [ 55%]
+........................................................................ [ 55%]
+........................................................................ [ 55%]
+........................................................................ [ 56%]
+........................................................................ [ 56%]
+........................................................................ [ 56%]
+........................................................................ [ 56%]
+........................................................................ [ 56%]
+........................................................................ [ 56%]
+........................................................................ [ 56%]
+........................................................................ [ 56%]
+........................................................................ [ 56%]
+........................................................................ [ 57%]
+........................................................................ [ 57%]
+........................................................................ [ 57%]
+........................................................................ [ 57%]
+........................................................................ [ 57%]
+........................................................................ [ 57%]
+........................................................................ [ 57%]
+........................................................................ [ 57%]
+........................................................................ [ 57%]
+........................................................................ [ 58%]
+........................................................................ [ 58%]
+........................................................................ [ 58%]
+........................................................................ [ 58%]
+........................................................................ [ 58%]
+........................................................................ [ 58%]
+........................................................................ [ 58%]
+........................................................................ [ 58%]
+........................................................................ [ 58%]
+........................................................................ [ 59%]
+........................................................................ [ 59%]
+........................................................................ [ 59%]
+........................................................................ [ 59%]
+........................................................................ [ 59%]
+........................................................................ [ 59%]
+........................................................................ [ 59%]
+........................................................................ [ 59%]
+........................................................................ [ 60%]
+........................................................................ [ 60%]
+........................................................................ [ 60%]
+........................................................................ [ 60%]
+........................................................................ [ 60%]
+........................................................................ [ 60%]
+........................................................................ [ 60%]
+........................................................................ [ 60%]
+........................................................................ [ 60%]
+........................................................................ [ 61%]
+........................................................................ [ 61%]
+........................................................................ [ 61%]
+........................................................................ [ 61%]
+........................................................................ [ 61%]
+........................................................................ [ 61%]
+........................................................................ [ 61%]
+........................................................................ [ 61%]
+........................................................................ [ 61%]
+........................................................................ [ 62%]
+........................................................................ [ 62%]
+........................................................................ [ 62%]
+........................................................................ [ 62%]
+........................................................................ [ 62%]
+........................................................................ [ 62%]
+........................................................................ [ 62%]
+........................................................................ [ 62%]
+........................................................................ [ 62%]
+........................................................................ [ 63%]
+........................................................................ [ 63%]
+........................................................................ [ 63%]
+........................................................................ [ 63%]
+.................................................................ss.ss.. [ 63%]
+........................................................................ [ 63%]
+........................................................................ [ 63%]
+........................................................................ [ 63%]
+........................................................................ [ 63%]
+........................................................................ [ 64%]
+........................................................................ [ 64%]
+........................................................................ [ 64%]
+........................................................................ [ 64%]
+........................................................................ [ 64%]
+........................................................................ [ 64%]
+........................................................................ [ 64%]
+........................................................................ [ 64%]
+........................................................................ [ 64%]
+........................................................................ [ 65%]
+........................................................................ [ 65%]
+........................................................................ [ 65%]
+........................................................................ [ 65%]
+........................................................................ [ 65%]
+........................................................................ [ 65%]
+........................................................................ [ 65%]
+........................................................................ [ 65%]
+........................................................................ [ 66%]
+........................................................................ [ 66%]
+........................................................................ [ 66%]
+........................................................................ [ 66%]
+........................................................................ [ 66%]
+........................................................................ [ 66%]
+........................................................................ [ 66%]
+........................................................................ [ 66%]
+........................................................................ [ 66%]
+........................................................................ [ 67%]
+........................................................................ [ 67%]
+........................................................................ [ 67%]
+........................................................................ [ 67%]
+........................................................................ [ 67%]
+........................................................................ [ 67%]
+........................................................................ [ 67%]
+........................................................................ [ 67%]
+........................................................................ [ 67%]
+........................................................................ [ 68%]
+........................................................................ [ 68%]
+........................................................................ [ 68%]
+........................................................................ [ 68%]
+........................................................................ [ 68%]
+........................................................................ [ 68%]
+........................................................................ [ 68%]
+........................................................................ [ 68%]
+........................................................................ [ 68%]
+........................................................................ [ 69%]
+........................................................................ [ 69%]
+........................................................................ [ 69%]
+........................................................................ [ 69%]
+........................................................................ [ 69%]
+........................................................................ [ 69%]
+........................................................................ [ 69%]
+........................................................................ [ 69%]
+........................................................................ [ 69%]
+........................................................................ [ 70%]
+........................................................s............... [ 70%]
+........................................................................ [ 70%]
+........................................................................ [ 70%]
+........................................................................ [ 70%]
+........................................................................ [ 70%]
+........................................................................ [ 70%]
+........................................................................ [ 70%]
+........................................................................ [ 70%]
+........................................................................ [ 71%]
+........................................................................ [ 71%]
+........................................................................ [ 71%]
+........................................................................ [ 71%]
+........................................................................ [ 71%]
+........................................................................ [ 71%]
+........................................................................ [ 71%]
+........................................................................ [ 71%]
+........................................................................ [ 72%]
+........................................................................ [ 72%]
+........................................................................ [ 72%]
+........................................................................ [ 72%]
+........................................................................ [ 72%]
+........................................................................ [ 72%]
+........................................................................ [ 72%]
+........................................................................ [ 72%]
+........................................................................ [ 72%]
+........................................................................ [ 73%]
+........................................................................ [ 73%]
+........................................................................ [ 73%]
+........................................................................ [ 73%]
+........................................................................ [ 73%]
+........................................................................ [ 73%]
+........................................................................ [ 73%]
+........................................................................ [ 73%]
+........................................................................ [ 73%]
+........................................................................ [ 74%]
+........................................................................ [ 74%]
+........................................................................ [ 74%]
+........................................................................ [ 74%]
+........................................................................ [ 74%]
+........................................................................ [ 74%]
+........................................................................ [ 74%]
+........................................................................ [ 74%]
+........................................................................ [ 74%]
+........................................................................ [ 75%]
+........................................................................ [ 75%]
+........................................................................ [ 75%]
+........................................................................ [ 75%]
+........................................................................ [ 75%]
+........................................................................ [ 75%]
+........................................................................ [ 75%]
+........................................................................ [ 75%]
+........................................................................ [ 75%]
+........................................................................ [ 76%]
+........................................................................ [ 76%]
+........................................................................ [ 76%]
+........................................................................ [ 76%]
+........................................................................ [ 76%]
+........................................................................ [ 76%]
+........................................................................ [ 76%]
+........................................................................ [ 76%]
+........................................................................ [ 76%]
+........................................................................ [ 77%]
+........................................................................ [ 77%]
+........................................................................ [ 77%]
+........................................................................ [ 77%]
+........................................................................ [ 77%]
+........................................................................ [ 77%]
+........................................................................ [ 77%]
+........................................................................ [ 77%]
+........................................................................ [ 78%]
+........................................................................ [ 78%]
+........................................................................ [ 78%]
+........................................................................ [ 78%]
+........................................................................ [ 78%]
+........................................................................ [ 78%]
+........................................................................ [ 78%]
+........................................................................ [ 78%]
+........................................................................ [ 78%]
+........................................................................ [ 79%]
+........................................................................ [ 79%]
+........................................................................ [ 79%]
+........................................................................ [ 79%]
+........................................................................ [ 79%]
+........................................................................ [ 79%]
+........................................................................ [ 79%]
+........................................................................ [ 79%]
+........................................................................ [ 79%]
+........................................................................ [ 80%]
+........................................................................ [ 80%]
+........................................................................ [ 80%]
+........................................................................ [ 80%]
+........................................................................ [ 80%]
+........................................................................ [ 80%]
+........................................................................ [ 80%]
+........................................................................ [ 80%]
+...............................................................s........ [ 80%]
+........................................................................ [ 81%]
+........................................................................ [ 81%]
+........................................................................ [ 81%]
+........................................................................ [ 81%]
+........................................................................ [ 81%]
+........................................................................ [ 81%]
+........................................................................ [ 81%]
+........................................................................ [ 81%]
+........................................................................ [ 81%]
+........................................................................ [ 82%]
+........................................................................ [ 82%]
+........................................................................ [ 82%]
+........................................................................ [ 82%]
+........................................................................ [ 82%]
+........................................................................ [ 82%]
+........................................................................ [ 82%]
+........................................................................ [ 82%]
+........................................................................ [ 82%]
+........................................................................ [ 83%]
+........................................................................ [ 83%]
+........................................................................ [ 83%]
+........................................................................ [ 83%]
+........................................................................ [ 83%]
+........................................................................ [ 83%]
+........................................................................ [ 83%]
+........................................................................ [ 83%]
+........................................................................ [ 84%]
+........................................................................ [ 84%]
+........................................................................ [ 84%]
+........................................................................ [ 84%]
+........................................................................ [ 84%]
+........................................................................ [ 84%]
+........................................................................ [ 84%]
+........................................................................ [ 84%]
+........................................................................ [ 84%]
+........................................................................ [ 85%]
+........................................................................ [ 85%]
+........................................................................ [ 85%]
+........................................................................ [ 85%]
+........................................................................ [ 85%]
+........................................................................ [ 85%]
+........................................................................ [ 85%]
+........................................................................ [ 85%]
+........................................................................ [ 85%]
+........................................................................ [ 86%]
+........................................................................ [ 86%]
+........................................................................ [ 86%]
+........................................................................ [ 86%]
+........................................................................ [ 86%]
+........................................................................ [ 86%]
+........................................................................ [ 86%]
+........................................................................ [ 86%]
+........................................................................ [ 86%]
+........................................................................ [ 87%]
+........................................................................ [ 87%]
+........................................................................ [ 87%]
+........................................................................ [ 87%]
+........................................................................ [ 87%]
+........................................................................ [ 87%]
+........................................................................ [ 87%]
+........................................................................ [ 87%]
+........................................................................ [ 87%]
+........................................................................ [ 88%]
+........................................................................ [ 88%]
+........................................................................ [ 88%]
+........................................................................ [ 88%]
+........................................................................ [ 88%]
+........................................................................ [ 88%]
+........................................................................ [ 88%]
+........................................................................ [ 88%]
+........................................................................ [ 88%]
+........................................................................ [ 89%]
+........................................................................ [ 89%]
+........................................................................ [ 89%]
+........................................................................ [ 89%]
+........................................................................ [ 89%]
+........................................................................ [ 89%]
+........................................................................ [ 89%]
+........................................................................ [ 89%]
+........................................................................ [ 90%]
+........................................................................ [ 90%]
+........................................................................ [ 90%]
+........................................................................ [ 90%]
+...................................................s.................... [ 90%]
+........................................................................ [ 90%]
+........................................................................ [ 90%]
+........................................................................ [ 90%]
+........................................................................ [ 90%]
+........................................................................ [ 91%]
+........................................................................ [ 91%]
+........................................................................ [ 91%]
+........................................................................ [ 91%]
+........................................................................ [ 91%]
+........................................................................ [ 91%]
+........................................................................ [ 91%]
+........................................................................ [ 91%]
+........................................................................ [ 91%]
+........................................................................ [ 92%]
+........................................................................ [ 92%]
+........................................................................ [ 92%]
+........................................................................ [ 92%]
+........................................................................ [ 92%]
+........................................................................ [ 92%]
+........................................................................ [ 92%]
+........................................................................ [ 92%]
+........................................................................ [ 92%]
+........................................................................ [ 93%]
+........................................................................ [ 93%]
+........................................................................ [ 93%]
+........................................................................ [ 93%]
+........................................................................ [ 93%]
+........................................................................ [ 93%]
+........................................................................ [ 93%]
+........................................................................ [ 93%]
+........................................................................ [ 93%]
+........................................................................ [ 94%]
+........................................................................ [ 94%]
+........................................................................ [ 94%]
+........................................................................ [ 94%]
+........................................................................ [ 94%]
+........................................................................ [ 94%]
+........................................................................ [ 94%]
+........................................................................ [ 94%]
+........................................................................ [ 94%]
+........................................................................ [ 95%]
+........................................................................ [ 95%]
+........................................................................ [ 95%]
+........................................................................ [ 95%]
+........................................................................ [ 95%]
+........................................................................ [ 95%]
+........................................................................ [ 95%]
+........................................................................ [ 95%]
+........................................................................ [ 96%]
+........................................................................ [ 96%]
+........................................................................ [ 96%]
+........................................................................ [ 96%]
+........................................................................ [ 96%]
+........................................................................ [ 96%]
+........................................................................ [ 96%]
+........................................................................ [ 96%]
+........................................................................ [ 96%]
+........................................................................ [ 97%]
+........................................................................ [ 97%]
+........................................................................ [ 97%]
+........................................................................ [ 97%]
+........................................................................ [ 97%]
+........................................................................ [ 97%]
+........................................................................ [ 97%]
+........................................................................ [ 97%]
+........................................................................ [ 97%]
+........................................................................ [ 98%]
+........................................................................ [ 98%]
+........................................................................ [ 98%]
+........................................................................ [ 98%]
+........................................................................ [ 98%]
+........................................................................ [ 98%]
+........................................................................ [ 98%]
+........................................................................ [ 98%]
+........................................................................ [ 98%]
+........................................................................ [ 99%]
+........................................................................ [ 99%]
+........................................................................ [ 99%]
+........................................................................ [ 99%]
+........................................................................ [ 99%]
+........................................................................ [ 99%]
+........................................................................ [ 99%]
+........................................................................ [ 99%]
+........................................................................ [ 99%]
+..................                                                       [100%]
+
+═══════════════════════════════ inline-snapshot ════════════════════════════════
+INFO: inline-snapshot was disabled because you used xdist. This means that tests
+with snapshots will continue to run, but snapshot(x) will only return x and 
+inline-snapshot will not be able to fix snapshots or generate reports.
+
+
+=================================== FAILURES ===================================
+__________________ test_no_undo_on_shared_monkeypatch_fixture __________________
+[gw12] linux -- Python 3.14.7 /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/bin/python
+
+    def test_no_undo_on_shared_monkeypatch_fixture() -> None:
+        """Fail when `.undo()` is called on the injected `monkeypatch` fixture.
+    
+        Locally constructed `pytest.MonkeyPatch()` instances stay allowed; only
+        the function or fixture parameter named `monkeypatch` is guarded. Use
+        `monkeypatch.context()` for scoped patches instead.
+        """
+        offenders: list[str] = []
+        for path in sorted(_TESTS_ROOT.rglob("*.py")):
+            try:
+                text = path.read_text(encoding="utf-8")
+            except OSError:
+                continue
+            if ".undo()" not in text or "monkeypatch" not in text:
+                continue
+            try:
+                tree = ast.parse(text)
+            except SyntaxError:
+                continue
+            for hit in _undo_on_injected_monkeypatch(tree):
+                _def_line, call_line = hit.split(":")
+                offenders.append(f"{path.relative_to(_REPO_ROOT)}:{call_line}")
+>       assert not offenders, (
+            "monkeypatch.undo() on the shared fixture drops home isolation; "
+            "use monkeypatch.context() instead: " + ", ".join(offenders)
+        )
+E       AssertionError: monkeypatch.undo() on the shared fixture drops home isolation; use monkeypatch.context() instead: tests/test_agent_artifact_index_lock.py:354
+E       assert not ['tests/test_agent_artifact_index_lock.py:354']
+
+tests/test_pytest_isolation_guards.py:67: AssertionError
+_________________ test_session_sandbox_seal_is_not_first_test __________________
+[gw12] linux -- Python 3.14.7 /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/bin/python
+
+pytester = <Pytester PosixPath('/var/tmp/sase-75285096/pytest-of-bryan/pytest-2/popen-gw12/test_session_sandbox_seal_is_not_first_test0')>
+
+    def test_session_sandbox_seal_is_not_first_test(
+        pytester: pytest.Pytester,
+    ) -> None:
+        """Guarantee the seal test never runs as a worker's first test."""
+        result = pytester.runpytest_subprocess(
+            "-p",
+            "no:randomly",
+            "-c",
+            str(_REPO_ROOT / "pyproject.toml"),
+            "--rootdir",
+            str(_REPO_ROOT),
+            f"{_THIS_FILE}::test_no_undo_on_shared_monkeypatch_fixture",
+            f"{_THIS_FILE}::test_session_sandbox_seals_home_after_function_patches_lost",
+            timeout=60,
+        )
+>       result.assert_outcomes(passed=2)
+E       AssertionError: assert {'passed': 1,...rors': 0, ...} == {'passed': 2,...rors': 0, ...}
+E         
+E         Omitting 4 identical items, use -vv to show
+E         Differing items:
+E         {'failed': 1} != {'failed': 0}
+E         {'passed': 1} != {'passed': 2}
+E         Use -v to get more diff
+
+/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/test_pytest_isolation_guards.py:141: AssertionError
+----------------------------- Captured stdout call -----------------------------
+running: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/bin/python -mpytest --basetemp=/var/tmp/sase-75285096/pytest-of-bryan/pytest-2/popen-gw12/test_session_sandbox_seal_is_not_first_test0/runpytest-0 -p no:randomly -c /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/pyproject.toml --rootdir /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11 /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/test_pytest_isolation_guards.py::test_no_undo_on_shared_monkeypatch_fixture /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/test_pytest_isolation_guards.py::test_session_sandbox_seals_home_after_function_patches_lost
+     in: /var/tmp/sase-75285096/pytest-of-bryan/pytest-2/popen-gw12/test_session_sandbox_seal_is_not_first_test0
+============================= test session starts ==============================
+platform linux -- Python 3.14.7, pytest-9.1.1, pluggy-1.6.0
+rootdir: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11
+configfile: pyproject.toml
+plugins: cov-7.1.0, hypothesis-6.167.1, asyncio-1.4.0, inline-snapshot-0.35.4, xdist-3.8.0, mock-3.15.1
+asyncio: mode=Mode.AUTO, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collected 2 items
+
+../../../../../../../home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/test_pytest_isolation_guards.py F [ 50%]
+.                                                                        [100%]
+
+═══════════════════════════════ inline-snapshot ════════════════════════════════
+INFO: inline-snapshot was disabled because you used xdist. This means that tests
+with snapshots will continue to run, but snapshot(x) will only return x and 
+inline-snapshot will not be able to fix snapshots or generate reports.
+
+
+
+=================================== FAILURES ===================================
+__________________ test_no_undo_on_shared_monkeypatch_fixture __________________
+
+    def test_no_undo_on_shared_monkeypatch_fixture() -> None:
+        """Fail when `.undo()` is called on the injected `monkeypatch` fixture.
+    
+        Locally constructed `pytest.MonkeyPatch()` instances stay allowed; only
+        the function or fixture parameter named `monkeypatch` is guarded. Use
+        `monkeypatch.context()` for scoped patches instead.
+        """
+        offenders: list[str] = []
+        for path in sorted(_TESTS_ROOT.rglob("*.py")):
+            try:
+                text = path.read_text(encoding="utf-8")
+            except OSError:
+                continue
+            if ".undo()" not in text or "monkeypatch" not in text:
+                continue
+            try:
+                tree = ast.parse(text)
+            except SyntaxError:
+                continue
+            for hit in _undo_on_injected_monkeypatch(tree):
+                _def_line, call_line = hit.split(":")
+                offenders.append(f"{path.relative_to(_REPO_ROOT)}:{call_line}")
+>       assert not offenders, (
+            "monkeypatch.undo() on the shared fixture drops home isolation; "
+            "use monkeypatch.context() instead: " + ", ".join(offenders)
+        )
+E       AssertionError: monkeypatch.undo() on the shared fixture drops home isolation; use monkeypatch.context() instead: tests/test_agent_artifact_index_lock.py:354
+E       assert not ['tests/test_agent_artifact_index_lock.py:354']
+
+/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/test_pytest_isolation_guards.py:67: AssertionError
+============================= slowest 20 durations =============================
+1.44s setup    tests/test_pytest_isolation_guards.py::test_no_undo_on_shared_monkeypatch_fixture
+0.24s call     tests/test_pytest_isolation_guards.py::test_no_undo_on_shared_monkeypatch_fixture
+
+(4 durations < 0.005s hidden.  Use -vv to show these durations.)
+=========================== short test summary info ============================
+FAILED ../../../../../../../home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/test_pytest_isolation_guards.py::test_no_undo_on_shared_monkeypatch_fixture
+========================= 1 failed, 1 passed in 2.24s ==========================
+=============================== warnings summary ===============================
+.venv/lib/python3.14/site-packages/_pytest/config/__init__.py:885: 14 warnings
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/config/__init__.py:885: PytestAssertRewriteWarning: Module already imported so cannot be rewritten; tests.ace.tui.command_line._completion_sources_shared
+    self.import_plugin(import_spec)
+
+.venv/lib/python3.14/site-packages/_pytest/config/__init__.py:885: 14 warnings
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/config/__init__.py:885: PytestAssertRewriteWarning: Module already imported so cannot be rewritten; tests.ace.tui._bench_tui_jk_helpers
+    self.import_plugin(import_spec)
+
+.venv/lib/python3.14/site-packages/_pytest/config/__init__.py:885: 14 warnings
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/config/__init__.py:885: PytestAssertRewriteWarning: Module already imported so cannot be rewritten; tests.monitor._no_new_receipt
+    self.import_plugin(import_spec)
+
+.venv/lib/python3.14/site-packages/_pytest/config/__init__.py:885: 14 warnings
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/config/__init__.py:885: PytestAssertRewriteWarning: Module already imported so cannot be rewritten; tests._axe_lumberjack_fixtures
+    self.import_plugin(import_spec)
+
+tests/ace/tui/test_agent_archive_controller_lookup.py::test_overlapping_idle_rebuilds_coalesce_to_one_in_flight
+  /home/bryan/.local/share/uv/python/cpython-3.14.7-linux-x86_64-gnu/lib/python3.14/asyncio/base_events.py:2075: RuntimeWarning: coroutine '_run_archive_request' was never awaited
+    def get_debug(self):
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/ace/tui/test_agent_archive_controller_prewarm.py::test_early_open_paints_loading_and_queues_until_gate
+  /home/bryan/.local/share/uv/python/cpython-3.14.7-linux-x86_64-gnu/lib/python3.14/threading.py:301: RuntimeWarning: coroutine '_run_archive_request' was never awaited
+    if hasattr(lock, '_release_save'):
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/test_macro_processor_workflow_execute.py::test_execute_workflow_flatten_preserves_caller_named_args
+tests/test_macro_processor_workflow_execute.py::test_execute_workflow_flatten_explicit_named_args_override_caller
+tests/test_macro_processor_workflow_execute.py::test_execute_workflow_flatten_preserves_wrapper_model_override
+tests/test_macro_processor_workflow_execute.py::test_execute_workflow_passes_inherited_vcs_tag_without_context_leak
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/src/sase/macro/workflow_runner_execute.py:254: UserWarning: Standalone workflow '#split' is deprecated; use '#!split' instead.
+    flattened = flatten_anonymous_workflow(workflow, project=project)
+
+tests/test_macro_processor_workflow_flatten.py::test_flatten_anonymous_workflow_returns_workflow_for_pure_multistep
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/test_macro_processor_workflow_flatten.py:114: UserWarning: Standalone workflow '#split' is deprecated; use '#!split' instead.
+    result = flatten_anonymous_workflow(workflow)
+
+tests/test_macro_processor_workflow_flatten.py::test_flatten_anonymous_workflow_slow_path_with_macro_and_workflow
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/src/sase/macro/workflow_runner_flatten.py:297: UserWarning: Standalone workflow '#batch_split' is deprecated; use '#!batch_split' instead.
+    standalone = _find_standalone_workflow_ref(prompt_text, prompts)
+
+tests/test_macro_processor_workflow_flatten.py::test_flatten_anonymous_workflow_slow_path_with_args
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/src/sase/macro/workflow_runner_flatten.py:297: UserWarning: Standalone workflow '#deploy' is deprecated; use '#!deploy' instead.
+    standalone = _find_standalone_workflow_ref(prompt_text, prompts)
+
+tests/test_macro_processor_workflow_flatten.py::test_flatten_anonymous_workflow_preserves_wrapper_model_directive
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/test_macro_processor_workflow_flatten.py:421: UserWarning: Standalone workflow '#split' is deprecated; use '#!split' instead.
+    result = flatten_anonymous_workflow(workflow)
+
+tests/ace/tui/test_launchable_mru.py::test_launch_marks_pending_synchronously
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/src/sase/ace/tui/actions/agent_workflow/_launch_submit_helpers.py:132: RuntimeWarning: coroutine 'schedule_submit_time_vcs_replay.<locals>.record_off_thread' was never awaited
+    task = spawn_pump_free_task(
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/sdd/test_artifact_link_event_acceptance_process_death.py::test_real_killed_publisher_process_leaves_no_corrupt_object_and_recovers
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/sdd/test_artifact_link_event_acceptance_process_death.py:57: DeprecationWarning: This process (pid=1436383) is multi-threaded, use of fork() may lead to deadlocks in the child.
+    child = os.fork()
+
+tests/test_procs_supervisor.py::test_starter_exit_does_not_kill_a_released_proc
+  <frozen os>:898: DeprecationWarning: This process (pid=1436407) is multi-threaded, use of fork() may lead to deadlocks in the child.
+
+tests/ace/tui/command_line/test_completion_fixes.py::test_cursor_move_during_a_fetch_drops_the_result
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/src/sase/legacy_xprompt_syntax.py:94: RuntimeWarning: coroutine '_record_history_async.<locals>._record' was never awaited
+    result = binding(
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/test_notification_modal_tab_order.py::test_on_mount_highlights_first_visible_row_when_initial_is_hidden
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/src/sase/ace/tui/modals/notification_modal_snooze_status.py:136: RuntimeWarning: coroutine 'Timer._run_timer' was never awaited
+    self._snooze_status_timer = None
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorContinuation::test_prepends_nudge_on_retry
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorContinuation::test_prepends_nudge_on_retry changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorContinuation::test_does_not_double_prepend_on_repeated_retries
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorContinuation::test_does_not_double_prepend_on_repeated_retries changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorContinuation::test_prepends_nudge_on_zero_wait_retry
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorContinuation::test_prepends_nudge_on_zero_wait_retry changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorNoNudge::test_no_nudge_leaves_prompt_untouched
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorNoNudge::test_no_nudge_leaves_prompt_untouched changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorCodexDefaults::test_codex_transient_default_retries_with_preserved_workspace
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorCodexDefaults::test_codex_transient_default_retries_with_preserved_workspace changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorHostFinalizer::test_genuine_provider_500_still_retries
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorHostFinalizer::test_genuine_provider_500_still_retries changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorPostPhaseTransition::test_retry_fires_for_coder_after_plan_approval
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry.py::TestHandleWorkflowErrorPostPhaseTransition::test_retry_fires_for_coder_after_plan_approval changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry_usage_limits.py::TestHandleWorkflowErrorUsageLimitPrecedence::test_transient_429_not_a_usage_limit_match_still_retries
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry_usage_limits.py::TestHandleWorkflowErrorUsageLimitPrecedence::test_transient_429_not_a_usage_limit_match_still_retries changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry_usage_limits.py::TestHandleWorkflowErrorUsageLimitPrecedence::test_fallback_allowed_to_different_non_disabled_provider
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry_usage_limits.py::TestHandleWorkflowErrorUsageLimitPrecedence::test_fallback_allowed_to_different_non_disabled_provider changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry_usage_limits.py::TestHandleWorkflowErrorUsageLimitPrecedence::test_fallback_allowed_when_fallback_provider_carries_soft_disable
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry_usage_limits.py::TestHandleWorkflowErrorUsageLimitPrecedence::test_fallback_allowed_when_fallback_provider_carries_soft_disable changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry_usage_limits.py::TestHandleWorkflowErrorUsageLimitPrecedence::test_known_codex_attempt_does_not_scan_quoted_claude_limit_prose
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry_usage_limits.py::TestHandleWorkflowErrorUsageLimitPrecedence::test_known_codex_attempt_does_not_scan_quoted_claude_limit_prose changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry_workspace.py::TestHandleWorkflowErrorPreserveWorkspace::test_preserve_workspace_skips_prepare_on_retry
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry_workspace.py::TestHandleWorkflowErrorPreserveWorkspace::test_preserve_workspace_skips_prepare_on_retry changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry_workspace.py::TestHandleWorkflowErrorPreserveWorkspace::test_preserve_workspace_skips_prepare_on_fallback
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry_workspace.py::TestHandleWorkflowErrorPreserveWorkspace::test_preserve_workspace_skips_prepare_on_fallback changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_exec_retry_workspace.py::TestHandleWorkflowErrorPreserveWorkspace::test_default_preserve_workspace_false_still_calls_prepare
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_exec_retry_workspace.py::TestHandleWorkflowErrorPreserveWorkspace::test_default_preserve_workspace_false_still_calls_prepare changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_failed_fork_admission.py::TestFailedForkParentAdmission::test_runner_admits_and_claims_real_workspace_for_failed_fork_parent
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_failed_fork_admission.py::TestFailedForkParentAdmission::test_runner_admits_and_claims_real_workspace_for_failed_fork_parent changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_runner_slot_only_deferred_wait_gates_then_claims_workspace[wait_info0-0-None]
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_runner_slot_only_deferred_wait_gates_then_claims_workspace[wait_info0-0-None] changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_runner_slot_only_deferred_wait_gates_then_claims_workspace[wait_info1-None-20]
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_runner_slot_only_deferred_wait_gates_then_claims_workspace[wait_info1-None-20] changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_deferred_wait_gates_before_claim_and_prepares_claimed_workspace[None]
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_deferred_wait_gates_before_claim_and_prepares_claimed_workspace[None] changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_deferred_wait_gates_before_claim_and_prepares_claimed_workspace[hostile ambient value]
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_deferred_wait_gates_before_claim_and_prepares_claimed_workspace[hostile ambient value] changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_incomplete_clan_fork_expands_after_wait_before_slot_and_claim
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_incomplete_clan_fork_expands_after_wait_before_slot_and_claim changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_combined_wait_runs_dependencies_then_gate_then_claim
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_combined_wait_runs_dependencies_then_gate_then_claim changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_home_mode_deferred_wait_keeps_directory_workspace
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_flow.py::TestDeferredWorkspaceFlow::test_home_mode_deferred_wait_keeps_directory_workspace changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_outcomes.py::TestDeferredWorkspaceOutcomes::test_repeat_stop_exits_before_workspace_claim_and_run_loop
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_outcomes.py::TestDeferredWorkspaceOutcomes::test_repeat_stop_exits_before_workspace_claim_and_run_loop changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_outcomes.py::TestDeferredWorkspaceOutcomes::test_deferred_workspace_without_extracted_wait_still_claims_real_workspace
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_outcomes.py::TestDeferredWorkspaceOutcomes::test_deferred_workspace_without_extracted_wait_still_claims_real_workspace changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_outcomes.py::TestDeferredWorkspaceOutcomes::test_bead_claim_failure_writes_error_and_skips_model_execution
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_outcomes.py::TestDeferredWorkspaceOutcomes::test_bead_claim_failure_writes_error_and_skips_model_execution changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_outcomes.py::TestDeferredWorkspaceOutcomes::test_bead_environment_mismatch_writes_error_and_skips_model_execution
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_outcomes.py::TestDeferredWorkspaceOutcomes::test_bead_environment_mismatch_writes_error_and_skips_model_execution changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_deferred_workspace_outcomes.py::TestDeferredWorkspaceOutcomes::test_launch_without_bead_never_invokes_claim_helper
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_deferred_workspace_outcomes.py::TestDeferredWorkspaceOutcomes::test_launch_without_bead_never_invokes_claim_helper changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_no_retry_when_config_is_none
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_no_retry_when_config_is_none changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_non_retryable_error_raises_immediately
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_non_retryable_error_raises_immediately changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_retry_on_retryable_error
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_retry_on_retryable_error changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_retry_state_written_during_wait
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_retry_state_written_during_wait changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_retry_state_deleted_on_completion
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_retry_state_deleted_on_completion changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_fallback_model_tried_after_max_retries
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_fallback_model_tried_after_max_retries changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_was_killed_during_wait_aborts_retry
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_was_killed_during_wait_aborts_retry changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_done_json_includes_retry_metadata
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_done_json_includes_retry_metadata changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_no_retry_metadata_when_no_retries
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_no_retry_metadata_when_no_retries changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_cross_provider_retry_uses_fallback_config
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_retry_loop.py::TestRetryLoop::test_cross_provider_retry_uses_fallback_config changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_agent_is_admitted_before_workspace_preparation
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_agent_is_admitted_before_workspace_preparation changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_admitted_root_is_counted_when_workspace_preparation_fails
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_admitted_root_is_counted_when_workspace_preparation_fails changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_no_wait_runner_records_run_started_at_before_execution
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_no_wait_runner_records_run_started_at_before_execution changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_runner_persists_sdd_base_sha_before_execution
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_runner_persists_sdd_base_sha_before_execution changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_runner_populates_multi_agent_prompt_file_from_env
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_runner_populates_multi_agent_prompt_file_from_env changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_error_after_slot_admission_records_run_started_at
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_error_after_slot_admission_records_run_started_at changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_linked_repo_prep_failure_stops_before_execution
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_linked_repo_prep_failure_stops_before_execution changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_killed_while_waiting_does_not_record_run_started_at
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_killed_while_waiting_does_not_record_run_started_at changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_runner_passes_recorded_run_started_at_to_runtime_formatter
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_runner_passes_recorded_run_started_at_to_runtime_formatter changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_system_exit_from_execution_writes_failure_marker_and_notifies
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_system_exit_from_execution_writes_failure_marker_and_notifies changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_home_mode_running_marker_cleanup_updates_artifact_index
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_run_agent_runner_started_at.py::TestRunStartedAtRecording::test_home_mode_running_marker_cleanup_updates_artifact_index changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_axe_runner_workspace_reclone.py::TestRecreateEndToEnd::test_forced_verify_failure_recreates_then_launch_prep_succeeds
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_axe_runner_workspace_reclone.py::TestRecreateEndToEnd::test_forced_verify_failure_recreates_then_launch_prep_succeeds changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/ace/tui/command_line/test_panel_shell_pilot.py::test_grammar_ready_refreshes_open_empty_panel_without_a_keystroke
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/unraisableexception.py:67: PytestUnraisableExceptionWarning: Exception ignored while finalizing coroutine <coroutine object _recheck_grammar_key at 0x7f22eed6d030>: None
+  
+  Traceback (most recent call last):
+    File "<string>", line 1, in <lambda>
+  KeyError: '__import__'
+  
+  
+    warnings.warn(pytest.PytestUnraisableExceptionWarning(msg))
+
+tests/ace/tui/command_line/test_panel_shell_pilot.py::test_real_input_history_filters_prefix_and_resets_new_walk
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/src/sase/config/loading.py:92: RuntimeWarning: coroutine '_record_history_async.<locals>._record' was never awaited
+    payload = binding(
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/ace/tui/command_line/test_panel_shell_submit.py::test_tail_polling_never_touches_message_pump
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/ace/tui/command_line/test_panel_shell_submit.py:175: DeprecationWarning: 'asyncio.iscoroutinefunction' is deprecated and slated for removal in Python 3.16; use inspect.iscoroutinefunction() instead
+    assert asyncio.iscoroutinefunction(CommandLineTranscript._tail_loop)
+
+tests/footprint/test_tui.py::test_bump_resets_cached_state_after_fork
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/footprint/test_tui.py:110: DeprecationWarning: This process (pid=1436380) is multi-threaded, use of fork() may lead to deadlocks in the child.
+    child = os.fork()
+
+tests/ace/tui/command_line/test_run_policies.py::test_foreground_submit_runs_in_terminal_and_records
+  /home/bryan/.local/share/uv/python/cpython-3.14.7-linux-x86_64-gnu/lib/python3.14/json/decoder.py:361: RuntimeWarning: coroutine 'CommandLineScreenSubmissionMixin._record_local_history.<locals>._record' was never awaited
+    obj, end = self.scan_once(s, idx)
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/ace/tui/command_line/test_transcript_blocks_actions.py::test_v_opens_pager_for_selected_block
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/unraisableexception.py:67: PytestUnraisableExceptionWarning: Exception ignored while finalizing coroutine <coroutine object CommandLineScreenSubmissionMixin._submit_worker at 0x7f22c1d925c0>: None
+  
+  Traceback (most recent call last):
+    File "<string>", line 1, in <lambda>
+  KeyError: '__import__'
+  
+  
+    warnings.warn(pytest.PytestUnraisableExceptionWarning(msg))
+
+tests/ace/tui/command_line/test_transcript_blocks_actions.py::test_p_opens_procs_with_focus_target
+  /home/bryan/.local/share/uv/python/cpython-3.14.7-linux-x86_64-gnu/lib/python3.14/json/decoder.py:361: RuntimeWarning: coroutine 'CommandLineScreen._load_tail_worker' was never awaited
+    obj, end = self.scan_once(s, idx)
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/ace/tui/command_line/test_transcript_blocks_keys.py::test_r_reruns_and_R_is_limited_to_declined_blocks
+  /home/bryan/.local/share/uv/python/cpython-3.14.7-linux-x86_64-gnu/lib/python3.14/json/decoder.py:361: RuntimeWarning: coroutine 'CommandLineScreenSubmissionMixin._submit_worker' was never awaited
+    obj, end = self.scan_once(s, idx)
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/test_run_agent_runner_bootstrap_errors.py::test_preprocessing_failure_records_failed_done_and_finalizes
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_run_agent_runner_bootstrap_errors.py::test_preprocessing_failure_records_failed_done_and_finalizes changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_run_agent_runner_bootstrap_errors.py::test_refreshed_bootstrap_preserves_phase_launch_metadata
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_run_agent_runner_bootstrap_errors.py::test_refreshed_bootstrap_preserves_phase_launch_metadata changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_run_agent_runner_bootstrap_errors.py::test_user_kill_during_bootstrap_preserves_exit_and_skips_error_recording
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_run_agent_runner_bootstrap_errors.py::test_user_kill_during_bootstrap_preserves_exit_and_skips_error_recording changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_run_agent_runner_clan_summary_refresh.py::test_successful_post_preparation_summary_survives_later_metadata_write
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_run_agent_runner_clan_summary_refresh.py::test_successful_post_preparation_summary_survives_later_metadata_write changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/test_run_agent_runner_clan_summary_refresh.py::test_unsuccessful_post_preparation_summary_keeps_earlier_success
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/test_run_agent_runner_clan_summary_refresh.py::test_unsuccessful_post_preparation_summary_keeps_earlier_success changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/history/test_continuation_replay_hydration_retry.py::test_retry_then_fork_replay_end_to_end
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/history/test_continuation_replay_hydration_retry.py::test_retry_then_fork_replay_end_to_end changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/axe/test_run_agent_exec_attempts_integration.py::test_fallback_branch_snapshots_with_primary_model_marker
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/axe/test_run_agent_exec_attempts_integration.py::test_fallback_branch_snapshots_with_primary_model_marker changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/agents_sync/test_publication_job.py::test_sigkilled_publisher_leaves_request_active_and_releases_locks
+  /home/bryan/.local/share/uv/python/cpython-3.14.7-linux-x86_64-gnu/lib/python3.14/multiprocessing/popen_fork.py:76: DeprecationWarning: This process (pid=1436377) is multi-threaded, use of fork() may lead to deadlocks in the child.
+    self.pid = os.fork()
+
+tests/completion/test_zsh_smoke.py: 19 warnings
+  /home/bryan/.local/share/uv/python/cpython-3.14.7-linux-x86_64-gnu/lib/python3.14/pty.py:66: DeprecationWarning: This process (pid=1436383) is multi-threaded, use of forkpty() may lead to deadlocks in the child.
+    pid, fd = os.forkpty()
+
+tests/test_staged_reconcile_crashes.py::test_gate_publication_survives_process_death_before_outer_receipt
+tests/test_staged_reconcile_crashes.py::test_monitor_submit_survives_process_death_and_scheduler_reuses_proc
+  /home/bryan/.local/share/uv/python/cpython-3.14.7-linux-x86_64-gnu/lib/python3.14/multiprocessing/popen_fork.py:76: DeprecationWarning: This process (pid=1436407) is multi-threaded, use of fork() may lead to deadlocks in the child.
+    self.pid = os.fork()
+
+tests/ace/tui/test_agent_archive_column_actions_interaction.py::test_J_and_K_switch_pulse_and_list_focus_without_moving_the_inbox
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/ace/tui/_agent_archive_column_helpers.py:78: RuntimeWarning: coroutine 'AgentMetadataPagerMixin._open_agent_metadata_pager' was never awaited
+    by_container.setdefault(row["container_key"], []).append(row)
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/ace/tui/test_agent_archive_column_actions_interaction.py::test_cursor_survives_a_rebuild_and_falls_to_a_neighbor_when_row_vanishes
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/ace/tui/_agent_archive_column_helpers.py:49: RuntimeWarning: coroutine 'open_archive_chooser.<locals>._hydrate_and_present' was never awaited
+    "last_activity_at": f"{day}T{hour:02d}:00:00Z",
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/axe/test_axe_chop_batch_store.py::test_stale_and_live_ownership
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/tests/axe/test_axe_chop_batch_store.py:220: DeprecationWarning: This process (pid=1436377) is multi-threaded, use of fork() may lead to deadlocks in the child.
+    pid = os.fork()
+
+tests/axe/test_run_agent_exec_attempts_integration.py::test_retry_branch_snapshots_failed_attempt
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/axe/test_run_agent_exec_attempts_integration.py::test_retry_branch_snapshots_failed_attempt changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/axe/test_run_agent_exec_attempts_integration.py::test_retry_branch_releases_attempt_continuation_pointers
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/axe/test_run_agent_exec_attempts_integration.py::test_retry_branch_releases_attempt_continuation_pointers changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/axe/test_run_agent_exec_attempts_integration.py::test_fallback_branch_releases_attempt_continuation_pointers
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.venv/lib/python3.14/site-packages/_pytest/fixtures.py:1014: RuntimeWarning: tests/axe/test_run_agent_exec_attempts_integration.py::test_fallback_branch_releases_attempt_continuation_pointers changed the process working directory from '/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11' to '<deleted>'; restored it.
+    next(it)
+
+tests/ace/tui/test_dismissed_index_startup_sync.py::test_start_post_mount_background_loads_schedules_dismissed_sync_once
+  /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/src/sase/ace/tui/actions/_launchable_mru.py:308: RuntimeWarning: coroutine 'Timer._run_timer' was never awaited
+    log.debug("Launchable MRU tick not armed", exc_info=True)
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+============================= slowest 20 durations =============================
+62.38s call     tests/test_launch_request_staging.py::test_typed_plan_and_continuation_survive_adoption
+52.36s call     tests/test_contract_manifest.py::test_contract_manifest_matches_marker_selection
+50.21s teardown tests/ace/tui/modals/test_new_project_resume.py::test_create_resume_hydrates_review_and_restores_configure
+50.19s teardown tests/ace/tui/modals/test_new_project_resume.py::test_stale_resume_does_not_overwrite
+50.17s teardown tests/ace/tui/modals/test_new_project_configure_review.py::test_local_preview_ignores_stale_generation
+50.15s teardown tests/ace/tui/modals/test_new_project_resume.py::test_failed_resume_hydrates_review_and_back
+50.13s call     tests/project_onboarding/test_cli_create.py::test_create_gate_option_allows_apply
+50.13s call     tests/ace/tui/modals/test_new_project_create_intent.py::test_plan_create_display_builds_mode_create_document
+49.64s teardown tests/ace/tui/modals/test_new_project_configure_review.py::test_configure_keeps_draft_when_going_back_and_ignores_printable_back
+49.29s teardown tests/ace/tui/modals/test_new_project_configure_review.py::test_blocked_review_cannot_confirm
+49.29s teardown tests/ace/tui/modals/test_new_project_apply.py::test_configure_and_review_hints_and_completed_stepper
+49.27s teardown tests/ace/tui/modals/test_new_project_init_outcomes.py::test_wizard_init_success_marks_initialized
+49.26s teardown tests/ace/tui/modals/test_new_project_apply.py::test_duplicate_concurrency_key_stays_on_review
+49.24s teardown tests/ace/tui/modals/test_new_project_apply.py::test_ok_without_init_goes_ready
+49.22s teardown tests/ace/tui/modals/test_new_project_apply.py::test_ok_with_init_handoff_then_cancelled_copy
+49.20s teardown tests/ace/tui/modals/test_new_project_apply.py::test_dismiss_during_run_still_reloads
+49.19s teardown tests/ace/tui/modals/test_new_project_init_outcomes.py::test_closed_wizard_ignores_late_init_outcome[failed]
+49.19s teardown tests/ace/tui/modals/test_new_project_apply.py::test_ready_escape_dismisses_with_added_key
+49.19s teardown tests/ace/tui/modals/test_new_project_init_outcomes.py::test_closed_wizard_ignores_late_init_outcome[current]
+49.17s teardown tests/ace/tui/modals/test_new_project_apply.py::test_y_submits_apply_submission_signature
+=========================== short test summary info ============================
+FAILED tests/test_pytest_isolation_guards.py::test_no_undo_on_shared_monkeypatch_fixture
+FAILED tests/test_pytest_isolation_guards.py::test_session_sandbox_seal_is_not_first_test
+==== 2 failed, 63576 passed, 17 skipped, 164 warnings in 901.28s (0:15:01) =====
+error: recipe `test-scoped` failed on line 708 with exit code 1
+error: recipe `check` failed on line 989 with exit code 1
+failed  exit=1  duration=1213631ms
+unattrib  31.6s
+triage test (scoped): 2 FLAKY 1 NEW stopped
+NEW test (scoped): FAILED ../../../../../../..tests/test_pytest_isolation_guards.py::test_no_undo_on_shared_monkeypatch_fixture — recorded evidence; no owner
+FLAKY test (scoped): FAILED tests/test_pytest_isolation_guards.py::test_session_sandbox_seal_is_not_first_test — recorded evidence; no owner
+FLAKY test (scoped): FAILED tests/test_pytest_isolation_guards.py::test_no_undo_on_shared_monkeypatch_fixture — recorded evidence; no owner
+verdict: new_failures — 1 NEW, 2 FLAKY; exit 1
+
