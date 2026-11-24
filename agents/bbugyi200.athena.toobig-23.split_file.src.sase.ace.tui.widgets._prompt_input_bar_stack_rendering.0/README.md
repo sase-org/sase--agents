@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-23](../../users/bbugyi200/machines/athena/hoods/toobig-23/README.md) / toobig-23.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_stack\_rendering.0
 
-**Global name:** `bbugyi200.athena.toobig-23.split_file.src.sase.ace.tui.widgets._prompt_input_bar_stack_rendering.0` · **State:** active · **Source run:** `run-5c56c3dc8f547a0775d5ea7c49ccc9ed`
+**Global name:** `bbugyi200.athena.toobig-23.split_file.src.sase.ace.tui.widgets._prompt_input_bar_stack_rendering.0` · **State:** dismissed · **Source run:** `run-5c56c3dc8f547a0775d5ea7c49ccc9ed`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-23
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-09T01:40:54.456624+00:00
+- Timing: 2026-08-08T21:40:54.456624 → 2026-08-08T22:01:39.295129
 - Commits: [1](#commits)
 
 ## Files
@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e71b5fc`](https://github.com/sase-org/sase/commit/e71b5fce2f1920470e5bd136d19fc3c93aa5de75) | refactor(tui): split prompt stack rendering mixin | 2026-08-08 22:00:26 EDT |
+| — | `e71b5fc` | refactor(tui): split prompt stack rendering mixin | 2026-08-08 22:00:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-23.split\_file.src.sase.ace.patch.models.0](../bbugyi200.athena.toobig-23.split_file.src.sase.ace.patch.models.0/README.md) | toobig-23.split\_file.src.sase.ace hood | active |
-| [toobig-23.split\_file.src.sase.artifact\_ref\_prompt.0](../bbugyi200.athena.toobig-23.split_file.src.sase.artifact_ref_prompt.0/README.md) | toobig-23.split\_file.src.sase hood | active |
-| [toobig-23.split\_file.src.sase.xprompt.workflow\_loader.0](../bbugyi200.athena.toobig-23.split_file.src.sase.xprompt.workflow_loader.0/README.md) | toobig-23.split\_file.src.sase hood | active |
-| [toobig-23.split\_file.tests.test\_artifact\_ref\_preprocessing.0](../bbugyi200.athena.toobig-23.split_file.tests.test_artifact_ref_preprocessing.0/README.md) | toobig-23.split\_file hood | active |
-| [toobig-23.split\_file.tests.test\_bead.test\_project.0](../bbugyi200.athena.toobig-23.split_file.tests.test_bead.test_project.0/README.md) | toobig-23.split\_file hood | active |
+| [toobig-23.split\_file.src.sase.ace.patch.models.0](../bbugyi200.athena.toobig-23.split_file.src.sase.ace.patch.models.0/README.md) | toobig-23.split\_file.src.sase.ace hood | dismissed |
+| [toobig-23.split\_file.src.sase.artifact\_ref\_prompt.0](../bbugyi200.athena.toobig-23.split_file.src.sase.artifact_ref_prompt.0/README.md) | toobig-23.split\_file.src.sase hood | dismissed |
+| [toobig-23.split\_file.src.sase.xprompt.workflow\_loader.0](../bbugyi200.athena.toobig-23.split_file.src.sase.xprompt.workflow_loader.0/README.md) | toobig-23.split\_file.src.sase hood | dismissed |
+| [toobig-23.split\_file.tests.test\_artifact\_ref\_preprocessing.0](../bbugyi200.athena.toobig-23.split_file.tests.test_artifact_ref_preprocessing.0/README.md) | toobig-23.split\_file hood | dismissed |
+| [toobig-23.split\_file.tests.test\_bead.test\_project.0](../bbugyi200.athena.toobig-23.split_file.tests.test_bead.test_project.0/README.md) | toobig-23.split\_file hood | dismissed |
