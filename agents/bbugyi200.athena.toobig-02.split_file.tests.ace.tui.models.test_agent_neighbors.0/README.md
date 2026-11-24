@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c935d5d`](https://github.com/sase-org/sase/commit/c935d5dae72427117ec08432ba3cd4c40c0384bd) | test: split agent neighbor model tests | 2026-07-26 08:48:15 EDT |
+| — | `c935d5d` | test: split agent neighbor model tests | 2026-07-26 08:48:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-02.split\_file.src.sase.axe.chop\_proposals.0](../bbugyi200.athena.toobig-02.split_file.src.sase.axe.chop_proposals.0/README.md) | toobig-02.split\_file hood | active |
+| [toobig-02.split\_file.src.sase.axe.chop\_proposals.0](../bbugyi200.athena.toobig-02.split_file.src.sase.axe.chop_proposals.0/README.md) | toobig-02.split\_file hood | dismissed |
 | [toobig-02.split\_file.src.sase.history.prompt\_store.0](../bbugyi200.athena.toobig-02.split_file.src.sase.history.prompt_store.0/README.md) | toobig-02.split\_file hood | dismissed |

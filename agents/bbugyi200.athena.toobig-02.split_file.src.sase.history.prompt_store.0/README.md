@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-02.split\_file.src.sase.axe.chop\_proposals.0](../bbugyi200.athena.toobig-02.split_file.src.sase.axe.chop_proposals.0/README.md) | toobig-02.split\_file.src.sase hood | active |
+| [toobig-02.split\_file.src.sase.axe.chop\_proposals.0](../bbugyi200.athena.toobig-02.split_file.src.sase.axe.chop_proposals.0/README.md) | toobig-02.split\_file.src.sase hood | dismissed |
 | [toobig-02.split\_file.tests.ace.tui.models.test\_agent\_neighbors.0](../bbugyi200.athena.toobig-02.split_file.tests.ace.tui.models.test_agent_neighbors.0/README.md) | toobig-02.split\_file hood | dismissed |

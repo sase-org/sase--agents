@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-03](../../users/bbugyi200/machines/athena/hoods/toobig-03/README.md) / toobig-03.split\_file.src.sase.bead.sync.0
 
-**Global name:** `bbugyi200.athena.toobig-03.split_file.src.sase.bead.sync.0` · **State:** active · **Source run:** `run-ac2e092b3cc5422e33330ba62fcc78a3`
+**Global name:** `bbugyi200.athena.toobig-03.split_file.src.sase.bead.sync.0` · **State:** dismissed · **Source run:** `run-ac2e092b3cc5422e33330ba62fcc78a3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-03
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-26T13:42:01.385253+00:00
+- Timing: 2026-07-26T09:42:01.385253 → 2026-07-26T10:01:09.931738
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1a84560`](https://github.com/sase-org/sase/commit/1a84560e8a7751f50e2c1c5240853ae47da1e8cd) | refactor(beads): split local persistence from sync | 2026-07-26 09:59:41 EDT |
+| — | `1a84560` | refactor(beads): split local persistence from sync | 2026-07-26 09:59:41 EDT |
 
 ## Neighbors
 
