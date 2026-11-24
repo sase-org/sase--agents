@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-18](../../users/bbugyi200/machines/athena/hoods/toobig-18/README.md) / toobig-18.split\_file.tests.test\_agent\_output\_variable\_context.0
 
-**Global name:** `bbugyi200.athena.toobig-18.split_file.tests.test_agent_output_variable_context.0` · **State:** active · **Source run:** `run-30e863755ca12d966b5b5cf03db33167`
+**Global name:** `bbugyi200.athena.toobig-18.split_file.tests.test_agent_output_variable_context.0` · **State:** dismissed · **Source run:** `run-30e863755ca12d966b5b5cf03db33167`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-18
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-30T23:16:49.460300+00:00
+- Timing: 2026-07-30T19:16:49.460300 → 2026-07-30T19:26:46.058284
 - Commits: [1](#commits)
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cb779f7`](https://github.com/sase-org/sase/commit/cb779f7dfce3776d304072f7f645cb0090cdcdba) | test: split agent output variable context tests | 2026-07-30 19:25:46 EDT |
+| — | `cb779f7` | test: split agent output variable context tests | 2026-07-30 19:25:46 EDT |

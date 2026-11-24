@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-14](../../users/bbugyi200/machines/athena/hoods/toobig-14/README.md) / toobig-14.split\_file.tests.test\_artifact\_refs.0
 
-**Global name:** `bbugyi200.athena.toobig-14.split_file.tests.test_artifact_refs.0` · **State:** active · **Source run:** `run-d039054901cf59c46358c20493c218e0`
+**Global name:** `bbugyi200.athena.toobig-14.split_file.tests.test_artifact_refs.0` · **State:** dismissed · **Source run:** `run-d039054901cf59c46358c20493c218e0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-14
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-30T13:45:54.636974+00:00
+- Timing: 2026-07-30T09:45:54.636974 → 2026-07-30T09:57:23.780716
 - Commits: [1](#commits)
 
 ## Files
@@ -21,15 +21,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5d41fb9`](https://github.com/sase-org/sase/commit/5d41fb99f64e2d55230a07a42335525b79460887) | test: split artifact reference tests by concern | 2026-07-30 09:56:18 EDT |
+| — | `5d41fb9` | test: split artifact reference tests by concern | 2026-07-30 09:56:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-14.split\_file.tests.ace.tui.test\_copy\_as\_palette.0](../bbugyi200.athena.toobig-14.split_file.tests.ace.tui.test_copy_as_palette.0/README.md) | toobig-14.split\_file.tests hood | active |
-| [toobig-14.split\_file.tests.ace.tui.widgets.test\_artifact\_ref\_completion.0](../bbugyi200.athena.toobig-14.split_file.tests.ace.tui.widgets.test_artifact_ref_completion.0/README.md) | toobig-14.split\_file.tests hood | active |
-| [toobig-14.split\_file.tests.test\_ace\_tui\_widgets.0](../bbugyi200.athena.toobig-14.split_file.tests.test_ace_tui_widgets.0/README.md) | toobig-14.split\_file.tests hood | active |
-| [toobig-14.split\_file.tests.test\_xprompt\_swarm\_expansion.0](../bbugyi200.athena.toobig-14.split_file.tests.test_xprompt_swarm_expansion.0/README.md) | toobig-14.split\_file.tests hood | active |
-| [toobig-14.split\_file.src.sase.ace.tui.modals.artifact\_files\_modal.0](../bbugyi200.athena.toobig-14.split_file.src.sase.ace.tui.modals.artifact_files_modal.0/README.md) | toobig-14.split\_file hood | active |
-| [toobig-14.split\_file.src.sase.ace.tui.widgets.artifact\_ref\_completion.0](../bbugyi200.athena.toobig-14.split_file.src.sase.ace.tui.widgets.artifact_ref_completion.0/README.md) | toobig-14.split\_file hood | active |
+| [toobig-14.split\_file.tests.ace.tui.test\_copy\_as\_palette.0](../bbugyi200.athena.toobig-14.split_file.tests.ace.tui.test_copy_as_palette.0/README.md) | toobig-14.split\_file.tests hood | dismissed |
+| [toobig-14.split\_file.tests.ace.tui.widgets.test\_artifact\_ref\_completion.0](../bbugyi200.athena.toobig-14.split_file.tests.ace.tui.widgets.test_artifact_ref_completion.0/README.md) | toobig-14.split\_file.tests hood | dismissed |
+| [toobig-14.split\_file.tests.test\_ace\_tui\_widgets.0](../bbugyi200.athena.toobig-14.split_file.tests.test_ace_tui_widgets.0/README.md) | toobig-14.split\_file.tests hood | dismissed |
+| [toobig-14.split\_file.tests.test\_xprompt\_swarm\_expansion.0](../bbugyi200.athena.toobig-14.split_file.tests.test_xprompt_swarm_expansion.0/README.md) | toobig-14.split\_file.tests hood | dismissed |
+| [toobig-14.split\_file.src.sase.ace.tui.modals.artifact\_files\_modal.0](../bbugyi200.athena.toobig-14.split_file.src.sase.ace.tui.modals.artifact_files_modal.0/README.md) | toobig-14.split\_file hood | dismissed |
+| [toobig-14.split\_file.src.sase.ace.tui.widgets.artifact\_ref\_completion.0](../bbugyi200.athena.toobig-14.split_file.src.sase.ace.tui.widgets.artifact_ref_completion.0/README.md) | toobig-14.split\_file hood | dismissed |
