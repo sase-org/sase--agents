@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5c](../../users/bbugyi200/machines/athena/hoods/toobig-5c/README.md) / toobig-5c.followup.0
 
-**Global name:** `bbugyi200.athena.toobig-5c.followup.0` · **State:** active · **Source run:** `run-c1f048d0723a84881b5ece31ec4d7e67`
+**Global name:** `bbugyi200.athena.toobig-5c.followup.0` · **State:** dismissed · **Source run:** `run-c1f048d0723a84881b5ece31ec4d7e67`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5c
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-14T06:03:17.767294+00:00
+- Timing: 2026-09-14T02:03:17.767294 → 2026-09-14T02:23:58.620168
 - Commits: [1](#commits)
 
 ## Files
@@ -21,19 +21,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f486b2e`](https://github.com/sase-org/sase/commit/f486b2efa105bc40b9baaf669ed1bdb9fab848f6) | refactor(monitor): split followup helpers | 2026-09-14 02:21:05 EDT |
+| — | `f486b2e` | refactor(monitor): split followup helpers | 2026-09-14 02:21:05 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5c.agent.0](../bbugyi200.athena.toobig-5c.agent.0/README.md) | toobig-5c hood | active |
-| [toobig-5c.commit.0](../../sessions/bbugyi200.athena.toobig-5c.commit.0.md) (session · 7) | toobig-5c hood | active 7 |
-| [toobig-5c.commit\_repair.0](../bbugyi200.athena.toobig-5c.commit_repair.0/README.md) | toobig-5c hood | active |
-| [toobig-5c.continuation\_budget.0](../bbugyi200.athena.toobig-5c.continuation_budget.0/README.md) | toobig-5c hood | active |
-| [toobig-5c.disk\_footprint.0](../bbugyi200.athena.toobig-5c.disk_footprint.0/README.md) | toobig-5c hood | active |
-| [toobig-5c.loading\_disk.0](../bbugyi200.athena.toobig-5c.loading_disk.0/README.md) | toobig-5c hood | active |
-| [toobig-5c.resume.0](../bbugyi200.athena.toobig-5c.resume.0/README.md) | toobig-5c hood | active |
-| [toobig-5c.run\_agent\_wait\_slots.0](../bbugyi200.athena.toobig-5c.run_agent_wait_slots.0/README.md) | toobig-5c hood | active |
-| [toobig-5c.start.0](../bbugyi200.athena.toobig-5c.start.0/README.md) | toobig-5c hood | active |
-| [toobig-5c.store.0](../bbugyi200.athena.toobig-5c.store.0/README.md) | toobig-5c hood | active |
+| [toobig-5c.agent.0](../bbugyi200.athena.toobig-5c.agent.0/README.md) | toobig-5c hood | dismissed |
+| [toobig-5c.commit.0](../../sessions/bbugyi200.athena.toobig-5c.commit.0.md) (session · 7) | toobig-5c hood | dismissed 7 |
+| [toobig-5c.commit\_repair.0](../bbugyi200.athena.toobig-5c.commit_repair.0/README.md) | toobig-5c hood | dismissed |
+| [toobig-5c.continuation\_budget.0](../bbugyi200.athena.toobig-5c.continuation_budget.0/README.md) | toobig-5c hood | dismissed |
+| [toobig-5c.disk\_footprint.0](../bbugyi200.athena.toobig-5c.disk_footprint.0/README.md) | toobig-5c hood | dismissed |
+| [toobig-5c.loading\_disk.0](../bbugyi200.athena.toobig-5c.loading_disk.0/README.md) | toobig-5c hood | dismissed |
+| [toobig-5c.resume.0](../bbugyi200.athena.toobig-5c.resume.0/README.md) | toobig-5c hood | dismissed |
+| [toobig-5c.run\_agent\_wait\_slots.0](../bbugyi200.athena.toobig-5c.run_agent_wait_slots.0/README.md) | toobig-5c hood | dismissed |
+| [toobig-5c.start.0](../bbugyi200.athena.toobig-5c.start.0/README.md) | toobig-5c hood | dismissed |
+| [toobig-5c.store.0](../bbugyi200.athena.toobig-5c.store.0/README.md) | toobig-5c hood | dismissed |

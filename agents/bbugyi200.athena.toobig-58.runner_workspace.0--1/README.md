@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-58](../../users/bbugyi200/machines/athena/hoods/toobig-58/README.md) / [toobig-58.runner\_workspace.0](../../sessions/bbugyi200.athena.toobig-58.runner_workspace.0.md) / toobig-58.runner\_workspace.0--1
 
-**Global name:** `bbugyi200.athena.toobig-58.runner_workspace.0--1` · **State:** active · **Source run:** `run-fa16b337ac2ead5f6dbee78e9c2f53d0`
+**Global name:** `bbugyi200.athena.toobig-58.runner_workspace.0--1` · **State:** dismissed · **Source run:** `run-fa16b337ac2ead5f6dbee78e9c2f53d0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-58
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-11T19:19:26.726241+00:00
+- Timing: 2026-09-11T15:19:26.726241 → 2026-09-11T15:29:29.875152
 - Commits: [1](#commits)
 
 ## Files
@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f911ad4`](https://github.com/sase-org/sase/commit/f911ad47540caf0245d4bfe3a201f0c7d30cb39c) | refactor(axe): split runner\_workspace into focused modules | 2026-09-11 15:26:23 EDT |
+| — | `f911ad4` | refactor(axe): split runner\_workspace into focused modules | 2026-09-11 15:26:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-58.agent\_launch\_wire.0](../../sessions/bbugyi200.athena.toobig-58.agent_launch_wire.0.md) (session · 3) | toobig-58 hood | active 3 |
-| [toobig-58.continuation.0](../../sessions/bbugyi200.athena.toobig-58.continuation.0.md) (session · 3) | toobig-58 hood | active 3 |
-| [toobig-58.continuation\_capture.0](../bbugyi200.athena.toobig-58.continuation_capture.0/README.md) | toobig-58 hood | active |
-| [toobig-58.test\_llm\_provider\_invoke.0](../../sessions/bbugyi200.athena.toobig-58.test_llm_provider_invoke.0.md) (session · 3) | toobig-58 hood | active 3 |
-| [toobig-58.test\_repo\_handler\_open.0](../bbugyi200.athena.toobig-58.test_repo_handler_open.0/README.md) | toobig-58 hood | active |
+| [toobig-58.agent\_launch\_wire.0](../../sessions/bbugyi200.athena.toobig-58.agent_launch_wire.0.md) (session · 3) | toobig-58 hood | dismissed 3 |
+| [toobig-58.continuation.0](../../sessions/bbugyi200.athena.toobig-58.continuation.0.md) (session · 3) | toobig-58 hood | dismissed 3 |
+| [toobig-58.continuation\_capture.0](../bbugyi200.athena.toobig-58.continuation_capture.0/README.md) | toobig-58 hood | dismissed |
+| [toobig-58.test\_llm\_provider\_invoke.0](../../sessions/bbugyi200.athena.toobig-58.test_llm_provider_invoke.0.md) (session · 3) | toobig-58 hood | dismissed 3 |
+| [toobig-58.test\_repo\_handler\_open.0](../bbugyi200.athena.toobig-58.test_repo_handler_open.0/README.md) | toobig-58 hood | dismissed |
