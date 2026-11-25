@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-54](../../users/bbugyi200/machines/athena/hoods/toobig-54/README.md) / toobig-54.test\_core\_agent\_launch\_wire.0
 
-**Global name:** `bbugyi200.athena.toobig-54.test_core_agent_launch_wire.0` · **State:** active · **Source run:** `run-32781bc1d8ca7d6208bc7fff9b4f2481`
+**Global name:** `bbugyi200.athena.toobig-54.test_core_agent_launch_wire.0` · **State:** dismissed · **Source run:** `run-32781bc1d8ca7d6208bc7fff9b4f2481`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-54
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-11T00:29:01.678752+00:00
+- Timing: 2026-09-10T20:29:01.678752 → 2026-09-10T20:45:06.209279
 - Commits: [1](#commits)
 
 ## Files
@@ -21,16 +21,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2165fd2`](https://github.com/sase-org/sase/commit/2165fd2d9eb5c2e85f631cea53c2186678ddc45d) | test(core): split agent launch wire tests | 2026-09-10 20:42:31 EDT |
+| — | `2165fd2` | test(core): split agent launch wire tests | 2026-09-10 20:42:31 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-54.agent\_list\_build.0](../bbugyi200.athena.toobig-54.agent_list_build.0/README.md) | toobig-54 hood | active |
-| [toobig-54.fleet.0](../bbugyi200.athena.toobig-54.fleet.0/README.md) | toobig-54 hood | active |
-| [toobig-54.fleet\_fixture.0](../bbugyi200.athena.toobig-54.fleet_fixture.0/README.md) | toobig-54 hood | active |
-| [toobig-54.machines\_pane.0](../bbugyi200.athena.toobig-54.machines_pane.0/README.md) | toobig-54 hood | active |
-| [toobig-54.test\_agent\_display\_diff.0](../bbugyi200.athena.toobig-54.test_agent_display_diff.0/README.md) | toobig-54 hood | active |
-| [toobig-54.test\_cli\_work\_from\_plan\_publication.0](../bbugyi200.athena.toobig-54.test_cli_work_from_plan_publication.0/README.md) | toobig-54 hood | active |
-| [toobig-54.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-54.test_run_agent_runner_slot_capacity.0/README.md) | toobig-54 hood | active |
+| [toobig-54.agent\_list\_build.0](../bbugyi200.athena.toobig-54.agent_list_build.0/README.md) | toobig-54 hood | dismissed |
+| [toobig-54.fleet.0](../bbugyi200.athena.toobig-54.fleet.0/README.md) | toobig-54 hood | dismissed |
+| [toobig-54.fleet\_fixture.0](../bbugyi200.athena.toobig-54.fleet_fixture.0/README.md) | toobig-54 hood | dismissed |
+| [toobig-54.machines\_pane.0](../bbugyi200.athena.toobig-54.machines_pane.0/README.md) | toobig-54 hood | dismissed |
+| [toobig-54.test\_agent\_display\_diff.0](../bbugyi200.athena.toobig-54.test_agent_display_diff.0/README.md) | toobig-54 hood | dismissed |
+| [toobig-54.test\_cli\_work\_from\_plan\_publication.0](../bbugyi200.athena.toobig-54.test_cli_work_from_plan_publication.0/README.md) | toobig-54 hood | dismissed |
+| [toobig-54.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-54.test_run_agent_runner_slot_capacity.0/README.md) | toobig-54 hood | dismissed |
