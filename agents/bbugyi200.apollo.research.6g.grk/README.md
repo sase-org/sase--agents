@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 2026-11-25T21:54:43.767820+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/sase\_blog\_zettel\_missing\_records\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261125165226/sase\_blog\_zettel\_missing\_records\_\_grk-35af… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/sase_blog_zettel_missing_records__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261125165226/sase_blog_zettel_missing_records__grk-35afa175ebf4.md
+  ref: file:explicit:e3084d7c5bc4838670120b8e
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202611/sase_blog_zettel_missing_records__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.6g.cdx](../bbugyi200.apollo.research.6g.cdx/README.md) | research.6g hood | completed |
 | [research.6g.cld](../bbugyi200.apollo.research.6g.cld/README.md) | research.6g hood | completed |
 | [research.6g.final](../bbugyi200.apollo.research.6g.final/README.md) | research.6g hood | waiting |
-| [research.6g.gem](../bbugyi200.apollo.research.6g.gem/README.md) | research.6g hood | active |
+| [research.6g.gem](../bbugyi200.apollo.research.6g.gem/README.md) | research.6g hood | completed |
 | [research.6g.image](../bbugyi200.apollo.research.6g.image/README.md) | research.6g hood | waiting |
 | [research.6g.linker](../bbugyi200.apollo.research.6g.linker/README.md) | research.6g hood | waiting |
 | [research.6g.mus](../bbugyi200.apollo.research.6g.mus/README.md) | research.6g hood | completed |

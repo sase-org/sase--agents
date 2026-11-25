@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6g.gem
 
-**Global name:** `bbugyi200.apollo.research.6g.gem` · **State:** active · **Source run:** `run-99d303e5dbcdcd911345710d5ac08427`
+**Global name:** `bbugyi200.apollo.research.6g.gem` · **State:** completed · **Source run:** `run-99d303e5dbcdcd911345710d5ac08427`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-neon-xhigh
 - Provider: agy
-- Timing: 2026-11-25T21:55:49.132298+00:00
+- Timing: 2026-11-25T21:55:49.132298+00:00 → 2026-11-25T22:08:45.890269+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/sase\_blog\_zettel\_new\_records\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261125165228/sase\_blog\_zettel\_new\_records\_\_gem-c122309523d4… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/sase_blog_zettel_new_records__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261125165228/sase_blog_zettel_new_records__gem-c122309523d4.md
+  ref: file:explicit:ba3942ceebfc60fed8aae558
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202611/sase_blog_zettel_new_records__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
