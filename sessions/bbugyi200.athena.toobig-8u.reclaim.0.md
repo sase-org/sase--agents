@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | sase | [`412e6b1`](https://github.com/sase-org/sase/commit/412e6b1e6a0c574311793c1f84cfca2ead8b2fde) | refactor(gate-turn): split reclaim module | 2026-10-30 07:39:08 EDT |
+| 3 | — | `412e6b1` | refactor(gate-turn): split reclaim module | 2026-10-30 07:39:08 EDT |
 
 ## Variables
 
@@ -73,5 +73,5 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [toobig-8u.agent\_list\_render\_rail.0](../agents/bbugyi200.athena.toobig-8u.agent_list_render_rail.0/README.md) | toobig-8u hood | completed |
 | [toobig-8u.declaration.0](bbugyi200.athena.toobig-8u.declaration.0.md) (session · 5) | toobig-8u hood | completed 3, failed 2 |
 | [toobig-8u.run\_agent\_exec\_staged.0](bbugyi200.athena.toobig-8u.run_agent_exec_staged.0.md) (session · 3) | toobig-8u hood | completed 2, failed 1 |
-| [toobig-8u.test\_rebase\_gate\_runner.0](../agents/bbugyi200.athena.toobig-8u.test_rebase_gate_runner.0/README.md) | toobig-8u hood | waiting |
-| [toobig-8u.workspace\_handler\_maintenance.0](../agents/bbugyi200.athena.toobig-8u.workspace_handler_maintenance.0/README.md) | toobig-8u hood | active |
+| [toobig-8u.test\_rebase\_gate\_runner.0](../agents/bbugyi200.athena.toobig-8u.test_rebase_gate_runner.0/README.md) | toobig-8u hood | dismissed |
+| [toobig-8u.workspace\_handler\_maintenance.0](../agents/bbugyi200.athena.toobig-8u.workspace_handler_maintenance.0/README.md) | toobig-8u hood | dismissed |

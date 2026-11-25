@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`3928f2f`](https://github.com/sase-org/sase/commit/3928f2f918c6e37b7553b52648b259efe0da8298) | refactor(axe): split run\_agent\_exec\_staged into focused modules | 2026-10-30 02:40:07 EDT |
+| 1 | — | `3928f2f` | refactor(axe): split run\_agent\_exec\_staged into focused modules | 2026-10-30 02:40:07 EDT |
 
 ## Neighbors
 
@@ -36,5 +36,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [toobig-8u.agent\_list\_render\_rail.0](../agents/bbugyi200.athena.toobig-8u.agent_list_render_rail.0/README.md) | toobig-8u hood | completed |
 | [toobig-8u.declaration.0](bbugyi200.athena.toobig-8u.declaration.0.md) (session · 5) | toobig-8u hood | completed 3, failed 2 |
 | [toobig-8u.reclaim.0](bbugyi200.athena.toobig-8u.reclaim.0.md) (session · 7) | toobig-8u hood | completed 4, failed 3 |
-| [toobig-8u.test\_rebase\_gate\_runner.0](../agents/bbugyi200.athena.toobig-8u.test_rebase_gate_runner.0/README.md) | toobig-8u hood | waiting |
-| [toobig-8u.workspace\_handler\_maintenance.0](../agents/bbugyi200.athena.toobig-8u.workspace_handler_maintenance.0/README.md) | toobig-8u hood | active |
+| [toobig-8u.test\_rebase\_gate\_runner.0](../agents/bbugyi200.athena.toobig-8u.test_rebase_gate_runner.0/README.md) | toobig-8u hood | dismissed |
+| [toobig-8u.workspace\_handler\_maintenance.0](../agents/bbugyi200.athena.toobig-8u.workspace_handler_maintenance.0/README.md) | toobig-8u hood | dismissed |

@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | sase | [`7e562f5`](https://github.com/sase-org/sase/commit/7e562f58f8b29a65e09781342a2b754fa85bb204) | refactor(commit): split commit workflow tracking | 2026-10-29 16:01:22 EDT |
+| 3 | — | `7e562f5` | refactor(commit): split commit workflow tracking | 2026-10-29 16:01:22 EDT |
 
 ## Neighbors
 
@@ -47,4 +47,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [toobig-8t.rebase\_gate\_runner.0](bbugyi200.athena.toobig-8t.rebase_gate_runner.0.md) (session · 3) | toobig-8t hood | completed 2, failed 1 |
 | [toobig-8t.test\_monitor\_host\_completion.0](../agents/bbugyi200.athena.toobig-8t.test_monitor_host_completion.0/README.md) | toobig-8t hood | completed |
-| [toobig-8t.test\_rebase\_gate\_runner.0](bbugyi200.athena.toobig-8t.test_rebase_gate_runner.0.md) (session · 3) | toobig-8t hood | active 1, completed 1, failed 1 |
+| [toobig-8t.test\_rebase\_gate\_runner.0](bbugyi200.athena.toobig-8t.test_rebase_gate_runner.0.md) (session · 3) | toobig-8t hood | completed 1, dismissed 1, failed 1 |

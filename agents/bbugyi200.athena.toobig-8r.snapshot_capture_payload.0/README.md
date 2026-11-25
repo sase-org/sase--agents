@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dee47ef`](https://github.com/sase-org/sase/commit/dee47ef97920b24566f7ec442e3092d9d647d039) | refactor(workspace): split snapshot capture payload into trees and objects modules | 2026-10-28 14:45:35 EDT |
+| — | `dee47ef` | refactor(workspace): split snapshot capture payload into trees and objects modules | 2026-10-28 14:45:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8r.test\_snapshot.0](../bbugyi200.athena.toobig-8r.test_snapshot.0/README.md) | toobig-8r hood | active |
+| [toobig-8r.test\_snapshot.0](../bbugyi200.athena.toobig-8r.test_snapshot.0/README.md) | toobig-8r hood | dismissed |

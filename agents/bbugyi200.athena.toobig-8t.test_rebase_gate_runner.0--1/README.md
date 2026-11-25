@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8t](../../users/bbugyi200/machines/athena/hoods/toobig-8t/README.md) / [toobig-8t.test\_rebase\_gate\_runner.0](../../sessions/bbugyi200.athena.toobig-8t.test_rebase_gate_runner.0.md) / toobig-8t.test\_rebase\_gate\_runner.0--1
 
-**Global name:** `bbugyi200.athena.toobig-8t.test_rebase_gate_runner.0--1` · **State:** active · **Source run:** `run-cd2a5902e50395e7e677bad014acf0a7`
+**Global name:** `bbugyi200.athena.toobig-8t.test_rebase_gate_runner.0--1` · **State:** dismissed · **Source run:** `run-cd2a5902e50395e7e677bad014acf0a7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8t
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-29T22:50:28.362629+00:00
+- Timing: 2026-10-29T18:50:28.362629 → 2026-10-29T19:20:28.073265
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f94ad24`](https://github.com/sase-org/sase/commit/f94ad24a4a9f15e9d76a2284a39a588dd4c2d17f) | test(rebase-gate): split runner tests into focused modules | 2026-10-29 19:17:16 EDT |
+| — | `f94ad24` | test(rebase-gate): split runner tests into focused modules | 2026-10-29 19:17:16 EDT |
 
 ## Neighbors
 
