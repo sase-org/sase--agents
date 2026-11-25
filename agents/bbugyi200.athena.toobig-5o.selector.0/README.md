@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5o.auto\_refresh.0](../bbugyi200.athena.toobig-5o.auto_refresh.0/README.md) | toobig-5o hood | active |
+| [toobig-5o.auto\_refresh.0](../bbugyi200.athena.toobig-5o.auto_refresh.0/README.md) | toobig-5o hood | dismissed |
 | [toobig-5o.executor.0](../bbugyi200.athena.toobig-5o.executor.0/README.md) | toobig-5o hood | waiting |
 | [toobig-5o.test\_agent\_loader\_query\_window.0](../bbugyi200.athena.toobig-5o.test_agent_loader_query_window.0/README.md) | toobig-5o hood | waiting |
 | [toobig-5o.test\_event\_handlers\_auto\_refresh\_dirty\_flags.0](../bbugyi200.athena.toobig-5o.test_event_handlers_auto_refresh_dirty_flags.0/README.md) | toobig-5o hood | active |

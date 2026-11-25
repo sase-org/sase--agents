@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5o](../../users/bbugyi200/machines/athena/hoods/toobig-5o/README.md) / toobig-5o.auto\_refresh.0
 
-**Global name:** `bbugyi200.athena.toobig-5o.auto_refresh.0` · **State:** active · **Source run:** `run-2cecb3d0b0025d3affd9705e184daf3c`
+**Global name:** `bbugyi200.athena.toobig-5o.auto_refresh.0` · **State:** dismissed · **Source run:** `run-2cecb3d0b0025d3affd9705e184daf3c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5o
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-18T09:16:16.828121+00:00
+- Timing: 2026-09-18T05:16:16.828121 → 2026-09-18T05:32:05.767180
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bd3b024`](https://github.com/sase-org/sase/commit/bd3b024ad44f2e151cd25cc864929b243d37d57b) | refactor(tui): split auto-refresh mixin | 2026-09-18 05:29:28 EDT |
+| — | `bd3b024` | refactor(tui): split auto-refresh mixin | 2026-09-18 05:29:28 EDT |
 
 ## Neighbors
 
