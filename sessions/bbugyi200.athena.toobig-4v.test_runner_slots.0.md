@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `toobig-4v` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["toobig-4v.test_runner_slots.0--mon [active]"]
-  n1["toobig-4v.test_runner_slots.0--1 [active]"]
+  n0["toobig-4v.test_runner_slots.0--mon [dismissed]"]
+  n1["toobig-4v.test_runner_slots.0--1 [dismissed]"]
   n0 --> n1
-  n2["toobig-4v.test_runner_slots.0--plan [active]"]
+  n2["toobig-4v.test_runner_slots.0--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,21 +19,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | toobig-4v.test\_runner\_slots.0--mon | active | sonnet / claude | 2026-09-07T07:53:36.970919+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--mon/chat.md) |
-| <a id="member-1"></a>1 | toobig-4v.test\_runner\_slots.0--1 | active | sonnet / claude | 2026-09-07T07:58:29.691514+00:00 | [1](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/chat.md) |
-| <a id="member-plan"></a>plan | toobig-4v.test\_runner\_slots.0--plan | active | sonnet / claude | 2026-09-07T07:46:41.511204+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--plan/chat.md) |
+| <a id="member-mon"></a>mon | toobig-4v.test\_runner\_slots.0--mon | dismissed | sonnet / claude | 2026-09-07T03:53:36.970919 → 2026-09-07T03:56:55.105511 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--mon/chat.md) |
+| <a id="member-1"></a>1 | toobig-4v.test\_runner\_slots.0--1 | dismissed | sonnet / claude | 2026-09-07T03:58:29.691514 → 2026-09-07T04:01:00.045475 | [1](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/chat.md) |
+| <a id="member-plan"></a>plan | toobig-4v.test\_runner\_slots.0--plan | dismissed | sonnet / claude | 2026-09-07T03:46:41.511204 → 2026-09-07T03:53:47.343166 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`d6dfe6b`](https://github.com/sase-org/sase/commit/d6dfe6bf766d6ca449e317c5dbb5967e48b1cfb2) | test(runner-slots): split test\_runner\_slots.py by domain | 2026-09-07 03:59:31 EDT |
+| 1 | — | `d6dfe6b` | test(runner-slots): split test\_runner\_slots.py by domain | 2026-09-07 03:59:31 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-4v.federation.0](../agents/bbugyi200.athena.toobig-4v.federation.0/README.md) | toobig-4v hood | active |
-| [toobig-4v.test\_agent\_loader.0](../agents/bbugyi200.athena.toobig-4v.test_agent_loader.0/README.md) | toobig-4v hood | active |
-| [toobig-4v.test\_fleet\_contract\_sase\_core\_rs.0](../agents/bbugyi200.athena.toobig-4v.test_fleet_contract_sase_core_rs.0/README.md) | toobig-4v hood | active |
-| [toobig-4v.test\_running\_agents\_snapshot.0](../agents/bbugyi200.athena.toobig-4v.test_running_agents_snapshot.0/README.md) | toobig-4v hood | active |
+| [toobig-4v.federation.0](../agents/bbugyi200.athena.toobig-4v.federation.0/README.md) | toobig-4v hood | dismissed |
+| [toobig-4v.test\_agent\_loader.0](../agents/bbugyi200.athena.toobig-4v.test_agent_loader.0/README.md) | toobig-4v hood | dismissed |
+| [toobig-4v.test\_fleet\_contract\_sase\_core\_rs.0](../agents/bbugyi200.athena.toobig-4v.test_fleet_contract_sase_core_rs.0/README.md) | toobig-4v hood | dismissed |
+| [toobig-4v.test\_running\_agents\_snapshot.0](../agents/bbugyi200.athena.toobig-4v.test_running_agents_snapshot.0/README.md) | toobig-4v hood | dismissed |
