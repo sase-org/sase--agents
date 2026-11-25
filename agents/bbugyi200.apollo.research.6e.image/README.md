@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6e.image
 
-**Global name:** `bbugyi200.apollo.research.6e.image` · **State:** waiting · **Source run:** `run-5e5fae7c55cafc5bd5587b75b7c74fa8`
+**Global name:** `bbugyi200.apollo.research.6e.image` · **State:** completed · **Source run:** `run-5e5fae7c55cafc5bd5587b75b7c74fa8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261125141143
+- Timing: 2026-11-25T19:50:01.378011+00:00 → 2026-11-25T20:02:12.138447+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/on\_demand\_web\_rosters/on\_demand\_web\_rosters.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261125141143/on\_demand\_web\_rosters.diagr… |
+| `diagrams` | {considered: 11, count: 2, manifest: 202611/on\_demand\_web\_rosters/on\_demand\_web\_rosters.diagrams.md, source\_ref: file:explicit:918a3073cdc44cc4d692e922, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/on_demand_web_rosters/on_demand_web_rosters.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261125141143/on_demand_web_rosters.diagrams-67ed2efae7bb.md
+  ref: file:explicit:3cd5ebf160949938c9f37690
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/on_demand_web_rosters/on_demand_web_rosters.diagrams.md
+- kind: image
+  label: infographic:202611/on_demand_web_rosters/on_demand_web_rosters_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261125141143/on_demand_web_rosters_infographic-1a7f1986efd5.png
+  ref: file:explicit:07fb7be8ab620f7f0b14a738
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/on_demand_web_rosters/on_demand_web_rosters_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 11
+count: 2
+manifest: 202611/on_demand_web_rosters/on_demand_web_rosters.diagrams.md
+source_ref: file:explicit:918a3073cdc44cc4d692e922
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
