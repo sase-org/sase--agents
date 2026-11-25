@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5e](../../users/bbugyi200/machines/athena/hoods/toobig-5e/README.md) / toobig-5e.test\_notification\_store.0
 
-**Global name:** `bbugyi200.athena.toobig-5e.test_notification_store.0` · **State:** active · **Source run:** `run-031b5e63a6246fcc8106831605db2478`
+**Global name:** `bbugyi200.athena.toobig-5e.test_notification_store.0` · **State:** dismissed · **Source run:** `run-031b5e63a6246fcc8106831605db2478`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5e
 
@@ -10,7 +10,7 @@
 
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-14T21:42:05.367846+00:00
+- Timing: 2026-09-14T17:42:05.367846 → 2026-09-14T17:53:28.680336
 - Commits: [1](#commits)
 
 ## Files
@@ -21,20 +21,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`20d4782`](https://github.com/sase-org/sase/commit/20d4782c96804fa8ea79810be86ec412a7b10ad4) | test(notification-store): split test\_notification\_store.py into focused files | 2026-09-14 17:51:20 EDT |
+| — | `20d4782` | test(notification-store): split test\_notification\_store.py into focused files | 2026-09-14 17:51:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5e.agent\_load\_tiering\_fixture.0](../bbugyi200.athena.toobig-5e.agent_load_tiering_fixture.0/README.md) | toobig-5e hood | active |
-| [toobig-5e.agent\_load\_tiering\_harness.0](../bbugyi200.athena.toobig-5e.agent_load_tiering_harness.0/README.md) | toobig-5e hood | active |
-| [toobig-5e.test\_axe\_chop\_agents.0](../bbugyi200.athena.toobig-5e.test_axe_chop_agents.0/README.md) | toobig-5e hood | active |
-| [toobig-5e.test\_bare\_git\_workspace.0](../bbugyi200.athena.toobig-5e.test_bare_git_workspace.0/README.md) | toobig-5e hood | active |
-| [toobig-5e.test\_enrich\_agent\_waiting.0](../bbugyi200.athena.toobig-5e.test_enrich_agent_waiting.0/README.md) | toobig-5e hood | active |
-| [toobig-5e.test\_fleet\_agents\_projection.0](../bbugyi200.athena.toobig-5e.test_fleet_agents_projection.0/README.md) | toobig-5e hood | active |
-| [toobig-5e.test\_gate\_wait\_dependency.0](../bbugyi200.athena.toobig-5e.test_gate_wait_dependency.0/README.md) | toobig-5e hood | active |
-| [toobig-5e.test\_keymaps\_display\_help.0](../bbugyi200.athena.toobig-5e.test_keymaps_display_help.0/README.md) | toobig-5e hood | active |
-| [toobig-5e.test\_managed\_tmp\_reaper.0](../bbugyi200.athena.toobig-5e.test_managed_tmp_reaper.0/README.md) | toobig-5e hood | active |
-| [toobig-5e.test\_monitor\_wait\_dependency.0](../bbugyi200.athena.toobig-5e.test_monitor_wait_dependency.0/README.md) | toobig-5e hood | active |
-| [toobig-5e.test\_pooled\_alias\_single\_consumption.0](../bbugyi200.athena.toobig-5e.test_pooled_alias_single_consumption.0/README.md) | toobig-5e hood | active |
+| [toobig-5e.agent\_load\_tiering\_fixture.0](../bbugyi200.athena.toobig-5e.agent_load_tiering_fixture.0/README.md) | toobig-5e hood | dismissed |
+| [toobig-5e.agent\_load\_tiering\_harness.0](../bbugyi200.athena.toobig-5e.agent_load_tiering_harness.0/README.md) | toobig-5e hood | dismissed |
+| [toobig-5e.test\_axe\_chop\_agents.0](../bbugyi200.athena.toobig-5e.test_axe_chop_agents.0/README.md) | toobig-5e hood | dismissed |
+| [toobig-5e.test\_bare\_git\_workspace.0](../bbugyi200.athena.toobig-5e.test_bare_git_workspace.0/README.md) | toobig-5e hood | dismissed |
+| [toobig-5e.test\_enrich\_agent\_waiting.0](../bbugyi200.athena.toobig-5e.test_enrich_agent_waiting.0/README.md) | toobig-5e hood | dismissed |
+| [toobig-5e.test\_fleet\_agents\_projection.0](../bbugyi200.athena.toobig-5e.test_fleet_agents_projection.0/README.md) | toobig-5e hood | dismissed |
+| [toobig-5e.test\_gate\_wait\_dependency.0](../bbugyi200.athena.toobig-5e.test_gate_wait_dependency.0/README.md) | toobig-5e hood | dismissed |
+| [toobig-5e.test\_keymaps\_display\_help.0](../bbugyi200.athena.toobig-5e.test_keymaps_display_help.0/README.md) | toobig-5e hood | dismissed |
+| [toobig-5e.test\_managed\_tmp\_reaper.0](../bbugyi200.athena.toobig-5e.test_managed_tmp_reaper.0/README.md) | toobig-5e hood | dismissed |
+| [toobig-5e.test\_monitor\_wait\_dependency.0](../bbugyi200.athena.toobig-5e.test_monitor_wait_dependency.0/README.md) | toobig-5e hood | dismissed |
+| [toobig-5e.test\_pooled\_alias\_single\_consumption.0](../bbugyi200.athena.toobig-5e.test_pooled_alias_single_consumption.0/README.md) | toobig-5e hood | dismissed |
