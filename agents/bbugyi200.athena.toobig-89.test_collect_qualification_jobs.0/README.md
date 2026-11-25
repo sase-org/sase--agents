@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`043d67a`](https://github.com/sase-org/sase/commit/043d67a91957f00376f666a5ec0aa975b6e52503) | test(qual): split collect\_qualification\_jobs tests into focused modules | 2026-10-20 07:03:27 EDT |
+| — | `043d67a` | test(qual): split collect\_qualification\_jobs tests into focused modules | 2026-10-20 07:03:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-89.test\_ace\_png\_snapshots\_agents\_deck\_views.0](../bbugyi200.athena.toobig-89.test_ace_png_snapshots_agents_deck_views.0/README.md) | toobig-89 hood | completed |
-| [toobig-89.test\_github\_actions\_ci\_workflow.0](../../sessions/bbugyi200.athena.toobig-89.test_github_actions_ci_workflow.0.md) (session · 3) | toobig-89 hood | completed 1, failed 1, waiting 1 |
-| [toobig-89.test\_qualification\_transport\_integration.0](../bbugyi200.athena.toobig-89.test_qualification_transport_integration.0/README.md) | toobig-89 hood | waiting |
-| [toobig-89.test\_release\_candidate.0](../bbugyi200.athena.toobig-89.test_release_candidate.0/README.md) | toobig-89 hood | waiting |
-| [toobig-89.test\_release\_watch\_health.0](../bbugyi200.athena.toobig-89.test_release_watch_health.0/README.md) | toobig-89 hood | waiting |
+| [toobig-89.test\_github\_actions\_ci\_workflow.0](../../sessions/bbugyi200.athena.toobig-89.test_github_actions_ci_workflow.0.md) (session · 3) | toobig-89 hood | completed 1, dismissed 1, failed 1 |
+| [toobig-89.test\_qualification\_transport\_integration.0](../bbugyi200.athena.toobig-89.test_qualification_transport_integration.0/README.md) | toobig-89 hood | dismissed |
+| [toobig-89.test\_release\_candidate.0](../bbugyi200.athena.toobig-89.test_release_candidate.0/README.md) | toobig-89 hood | dismissed |
+| [toobig-89.test\_release\_watch\_health.0](../bbugyi200.athena.toobig-89.test_release_watch_health.0/README.md) | toobig-89 hood | dismissed |

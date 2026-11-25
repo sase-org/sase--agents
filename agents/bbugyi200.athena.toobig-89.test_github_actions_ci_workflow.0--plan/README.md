@@ -23,6 +23,6 @@
 |---|---|---|
 | [toobig-89.test\_ace\_png\_snapshots\_agents\_deck\_views.0](../bbugyi200.athena.toobig-89.test_ace_png_snapshots_agents_deck_views.0/README.md) | toobig-89 hood | completed |
 | [toobig-89.test\_collect\_qualification\_jobs.0](../bbugyi200.athena.toobig-89.test_collect_qualification_jobs.0/README.md) | toobig-89 hood | completed |
-| [toobig-89.test\_qualification\_transport\_integration.0](../bbugyi200.athena.toobig-89.test_qualification_transport_integration.0/README.md) | toobig-89 hood | waiting |
-| [toobig-89.test\_release\_candidate.0](../bbugyi200.athena.toobig-89.test_release_candidate.0/README.md) | toobig-89 hood | waiting |
-| [toobig-89.test\_release\_watch\_health.0](../bbugyi200.athena.toobig-89.test_release_watch_health.0/README.md) | toobig-89 hood | waiting |
+| [toobig-89.test\_qualification\_transport\_integration.0](../bbugyi200.athena.toobig-89.test_qualification_transport_integration.0/README.md) | toobig-89 hood | dismissed |
+| [toobig-89.test\_release\_candidate.0](../bbugyi200.athena.toobig-89.test_release_candidate.0/README.md) | toobig-89 hood | dismissed |
+| [toobig-89.test\_release\_watch\_health.0](../bbugyi200.athena.toobig-89.test_release_watch_health.0/README.md) | toobig-89 hood | dismissed |

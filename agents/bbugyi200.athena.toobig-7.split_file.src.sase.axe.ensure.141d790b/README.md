@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-7](../../users/bbugyi200/machines/athena/hoods/toobig-7/README.md) / toobig-7.split\_file.src.sase.axe.ensure.141d790b
 
-**Global name:** `bbugyi200.athena.toobig-7.split_file.src.sase.axe.ensure.141d790b` · **State:** active · **Source run:** `run-f0a61b782c8a97e99d29c42c21933648`
+**Global name:** `bbugyi200.athena.toobig-7.split_file.src.sase.axe.ensure.141d790b` · **State:** dismissed · **Source run:** `run-f0a61b782c8a97e99d29c42c21933648`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-7
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-20T22:35:06.558039+00:00
+- Timing: 2026-07-20T18:35:06.558039 → 2026-07-20T18:46:08.367297
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2c4a4f0`](https://github.com/sase-org/sase/commit/2c4a4f0aa28f39444a5940ba9a6184c8cfe84bf2) | refactor(axe): split ensure responsibilities | 2026-07-20 18:45:55 EDT |
+| — | `2c4a4f0` | refactor(axe): split ensure responsibilities | 2026-07-20 18:45:55 EDT |
 
 ## Neighbors
 

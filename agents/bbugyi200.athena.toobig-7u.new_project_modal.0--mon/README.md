@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-7u.new\_project\_create.0](../bbugyi200.athena.toobig-7u.new_project_create.0/README.md) | toobig-7u hood | completed |
-| [toobig-7u.test\_new\_project\_create.0](../bbugyi200.athena.toobig-7u.test_new_project_create.0/README.md) | toobig-7u hood | active |
+| [toobig-7u.test\_new\_project\_create.0](../bbugyi200.athena.toobig-7u.test_new_project_create.0/README.md) | toobig-7u hood | dismissed |

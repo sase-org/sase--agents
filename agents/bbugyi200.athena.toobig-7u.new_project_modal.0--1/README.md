@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c4d84f9`](https://github.com/sase-org/sase/commit/c4d84f9a1aa08887dfb3a1aa166a2cb126841676) | refactor(tui): split new\_project\_modal into sub-500-line modules | 2026-10-12 17:31:41 EDT |
+| — | `c4d84f9` | refactor(tui): split new\_project\_modal into sub-500-line modules | 2026-10-12 17:31:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-7u.new\_project\_create.0](../bbugyi200.athena.toobig-7u.new_project_create.0/README.md) | toobig-7u hood | completed |
-| [toobig-7u.test\_new\_project\_create.0](../bbugyi200.athena.toobig-7u.test_new_project_create.0/README.md) | toobig-7u hood | active |
+| [toobig-7u.test\_new\_project\_create.0](../bbugyi200.athena.toobig-7u.test_new_project_create.0/README.md) | toobig-7u hood | dismissed |
