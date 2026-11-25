@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5c83f7f`](https://github.com/sase-org/sase/commit/5c83f7f2cf39074a5b1650fee76693fd4bdfee16) | refactor(tui): split config center modal | 2026-07-20 15:58:43 EDT |
+| — | `5c83f7f` | refactor(tui): split config center modal | 2026-07-20 15:58:43 EDT |
 
 ## Neighbors
 
@@ -29,7 +29,7 @@
 |---|---|---|
 | [toobig-6.split\_file.src.sase.ace.tui.modals.plugins\_browser\_comprehe.962d5456](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.tui.modals.plugins_browser_comprehe.962d5456/README.md) | toobig-6.split\_file.src.sase.ace.tui.modals hood | dismissed |
 | [toobig-6.split\_file.src.sase.ace.tui.models.agent\_associated\_plan.d1c0df84](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.tui.models.agent_associated_plan.d1c0df84/README.md) | toobig-6.split\_file.src.sase.ace.tui hood | dismissed |
-| [toobig-6.split\_file.src.sase.ace.testing.\_\_init.617a5ae7](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.testing.__init.617a5ae7/README.md) | toobig-6.split\_file.src.sase.ace hood | active |
+| [toobig-6.split\_file.src.sase.ace.testing.\_\_init.617a5ae7](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.testing.__init.617a5ae7/README.md) | toobig-6.split\_file.src.sase.ace hood | dismissed |
 | [toobig-6.split\_file.src.sase.ace.update\_receipt.f42d0aad](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.update_receipt.f42d0aad/README.md) | toobig-6.split\_file.src.sase.ace hood | dismissed |
 | [toobig-6.split\_file.tests.ace.tui.modals.test\_stashed\_prompts\_modal.6ce945f5](../bbugyi200.athena.toobig-6.split_file.tests.ace.tui.modals.test_stashed_prompts_modal.6ce945f5/README.md) | toobig-6.split\_file hood | dismissed |
 | [toobig-6.split\_file.tests.ace.tui.test\_statistics\_pane.6aafe566](../bbugyi200.athena.toobig-6.split_file.tests.ace.tui.test_statistics_pane.6aafe566/README.md) | toobig-6.split\_file hood | dismissed |

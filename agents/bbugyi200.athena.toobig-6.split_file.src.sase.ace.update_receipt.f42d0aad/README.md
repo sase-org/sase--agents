@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ff2edcb`](https://github.com/sase-org/sase/commit/ff2edcb5f92952d24a2d970cab51111ba2042a22) | refactor(ace): split update receipt responsibilities | 2026-07-20 16:41:52 EDT |
+| — | `ff2edcb` | refactor(ace): split update receipt responsibilities | 2026-07-20 16:41:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-6.split\_file.src.sase.ace.testing.\_\_init.617a5ae7](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.testing.__init.617a5ae7/README.md) | toobig-6.split\_file.src.sase.ace hood | active |
+| [toobig-6.split\_file.src.sase.ace.testing.\_\_init.617a5ae7](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.testing.__init.617a5ae7/README.md) | toobig-6.split\_file.src.sase.ace hood | dismissed |
 | [toobig-6.split\_file.src.sase.ace.tui.modals.config\_center\_modal.d00688ec](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.tui.modals.config_center_modal.d00688ec/README.md) | toobig-6.split\_file.src.sase.ace hood | dismissed |
 | [toobig-6.split\_file.src.sase.ace.tui.modals.plugins\_browser\_comprehe.962d5456](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.tui.modals.plugins_browser_comprehe.962d5456/README.md) | toobig-6.split\_file.src.sase.ace hood | dismissed |
 | [toobig-6.split\_file.src.sase.ace.tui.models.agent\_associated\_plan.d1c0df84](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.tui.models.agent_associated_plan.d1c0df84/README.md) | toobig-6.split\_file.src.sase.ace hood | dismissed |

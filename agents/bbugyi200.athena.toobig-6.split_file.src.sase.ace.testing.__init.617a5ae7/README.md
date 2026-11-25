@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-6](../../users/bbugyi200/machines/athena/hoods/toobig-6/README.md) / toobig-6.split\_file.src.sase.ace.testing.\_\_init.617a5ae7
 
-**Global name:** `bbugyi200.athena.toobig-6.split_file.src.sase.ace.testing.__init.617a5ae7` · **State:** active · **Source run:** `run-5a63624334bd57f11865f71b90fbef4e`
+**Global name:** `bbugyi200.athena.toobig-6.split_file.src.sase.ace.testing.__init.617a5ae7` · **State:** dismissed · **Source run:** `run-5a63624334bd57f11865f71b90fbef4e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-6
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-20T19:33:40.554848+00:00
+- Timing: 2026-07-20T15:33:40.554848 → 2026-07-20T15:44:53.505855
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`77c0c66`](https://github.com/sase-org/sase/commit/77c0c66a6c7c8248a6af6435c3a0432d2a122458) | refactor(ace): split TUI testing harness into focused modules | 2026-07-20 15:44:11 EDT |
+| — | `77c0c66` | refactor(ace): split TUI testing harness into focused modules | 2026-07-20 15:44:11 EDT |
 
 ## Neighbors
 

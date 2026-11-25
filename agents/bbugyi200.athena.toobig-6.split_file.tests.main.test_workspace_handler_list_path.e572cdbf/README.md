@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bcdea77`](https://github.com/sase-org/sase/commit/bcdea7716d8b110cd4ef1a7689dec44a96a7b5cf) | test(workspace): split open handler tests | 2026-07-20 17:54:48 EDT |
+| — | `bcdea77` | test(workspace): split open handler tests | 2026-07-20 17:54:48 EDT |
 
 ## Neighbors
 
@@ -32,7 +32,7 @@
 | [toobig-6.split\_file.tests.test\_axe\_chop\_wait\_checks.221b9946](../bbugyi200.athena.toobig-6.split_file.tests.test_axe_chop_wait_checks.221b9946/README.md) | toobig-6.split\_file.tests hood | dismissed |
 | [toobig-6.split\_file.tests.test\_bead.test\_cli\_work\_epic\_launch.e17c7009](../bbugyi200.athena.toobig-6.split_file.tests.test_bead.test_cli_work_epic_launch.e17c7009/README.md) | toobig-6.split\_file.tests hood | dismissed |
 | [toobig-6.split\_file.tests.test\_update\_status.da0ee611](../bbugyi200.athena.toobig-6.split_file.tests.test_update_status.da0ee611/README.md) | toobig-6.split\_file.tests hood | dismissed |
-| [toobig-6.split\_file.src.sase.ace.testing.\_\_init.617a5ae7](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.testing.__init.617a5ae7/README.md) | toobig-6.split\_file hood | active |
+| [toobig-6.split\_file.src.sase.ace.testing.\_\_init.617a5ae7](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.testing.__init.617a5ae7/README.md) | toobig-6.split\_file hood | dismissed |
 | [toobig-6.split\_file.src.sase.ace.tui.modals.config\_center\_modal.d00688ec](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.tui.modals.config_center_modal.d00688ec/README.md) | toobig-6.split\_file hood | dismissed |
 | [toobig-6.split\_file.src.sase.ace.tui.modals.plugins\_browser\_comprehe.962d5456](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.tui.modals.plugins_browser_comprehe.962d5456/README.md) | toobig-6.split\_file hood | dismissed |
 | [toobig-6.split\_file.src.sase.ace.tui.models.agent\_associated\_plan.d1c0df84](../bbugyi200.athena.toobig-6.split_file.src.sase.ace.tui.models.agent_associated_plan.d1c0df84/README.md) | toobig-6.split\_file hood | dismissed |
