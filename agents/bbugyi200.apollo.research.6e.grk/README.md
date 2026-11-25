@@ -42,7 +42,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [research.6e.cdx](../bbugyi200.apollo.research.6e.cdx/README.md) | research.6e hood | completed |
 | [research.6e.cld](../bbugyi200.apollo.research.6e.cld/README.md) | research.6e hood | completed |
-| [research.6e.final](../bbugyi200.apollo.research.6e.final/README.md) | research.6e hood | waiting |
+| [research.6e.final](../bbugyi200.apollo.research.6e.final/README.md) | research.6e hood | completed |
 | [research.6e.gem](../bbugyi200.apollo.research.6e.gem/README.md) | research.6e hood | completed |
 | [research.6e.image](../bbugyi200.apollo.research.6e.image/README.md) | research.6e hood | waiting |
 | [research.6e.linker](../bbugyi200.apollo.research.6e.linker/README.md) | research.6e hood | waiting |
