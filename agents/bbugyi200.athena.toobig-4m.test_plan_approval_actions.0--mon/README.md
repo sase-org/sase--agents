@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-4m](../../users/bbugyi200/machines/athena/hoods/toobig-4m/README.md) / [toobig-4m.test\_plan\_approval\_actions.0](../../sessions/bbugyi200.athena.toobig-4m.test_plan_approval_actions.0.md) / toobig-4m.test\_plan\_approval\_actions.0--mon
 
-**Global name:** `bbugyi200.athena.toobig-4m.test_plan_approval_actions.0--mon` · **State:** active · **Source run:** `run-2eec89a8413d45d1beea0357c67fd107`
+**Global name:** `bbugyi200.athena.toobig-4m.test_plan_approval_actions.0--mon` · **State:** dismissed · **Source run:** `run-2eec89a8413d45d1beea0357c67fd107`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-4m
 
@@ -10,5 +10,5 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-30T13:49:25.035875+00:00
+- Timing: 2026-08-30T09:49:25
 - Commits: 0
