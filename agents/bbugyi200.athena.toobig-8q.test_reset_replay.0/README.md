@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8q](../../users/bbugyi200/machines/athena/hoods/toobig-8q/README.md) / toobig-8q.test\_reset\_replay.0
 
-**Global name:** `bbugyi200.athena.toobig-8q.test_reset_replay.0` · **State:** active · **Source run:** `run-cd5154c641792e1723186d7e644c942b`
+**Global name:** `bbugyi200.athena.toobig-8q.test_reset_replay.0` · **State:** dismissed · **Source run:** `run-cd5154c641792e1723186d7e644c942b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8q
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-28T18:03:13.381089+00:00
+- Timing: 2026-10-28T14:03:13.381089 → 2026-10-28T14:26:09.924061
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d1a576a`](https://github.com/sase-org/sase/commit/d1a576ab4e73b1564d93bdb879b49f6660dda0d4) | test(workspace): split reset-replay coverage into focused modules | 2026-10-28 14:23:51 EDT |
+| — | `d1a576a` | test(workspace): split reset-replay coverage into focused modules | 2026-10-28 14:23:51 EDT |
 
 ## Neighbors
 

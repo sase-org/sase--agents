@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9a38ff3`](https://github.com/sase-org/sase/commit/9a38ff35b17d77ddbcaa4b0d0985d2f024527fe1) | refactor(sdd): split artifact-link event publish under 500 lines | 2026-10-28 10:42:58 EDT |
+| — | `9a38ff3` | refactor(sdd): split artifact-link event publish under 500 lines | 2026-10-28 10:42:58 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@
 | [toobig-8q.test\_ace\_png\_snapshots\_config\_center\_statistics.0](../bbugyi200.athena.toobig-8q.test_ace_png_snapshots_config_center_statistics.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.test\_artifact\_link\_quarantine\_replay\_evidence.0](../../sessions/bbugyi200.athena.toobig-8q.test_artifact_link_quarantine_replay_evidence.0.md) (session · 3) | toobig-8q hood | completed 2, failed 1 |
 | [toobig-8q.test\_axe\_runner\_workspace\_reclone.0](../bbugyi200.athena.toobig-8q.test_axe_runner_workspace_reclone.0/README.md) | toobig-8q hood | completed |
-| [toobig-8q.test\_reset\_replay.0](../bbugyi200.athena.toobig-8q.test_reset_replay.0/README.md) | toobig-8q hood | active |
+| [toobig-8q.test\_reset\_replay.0](../bbugyi200.athena.toobig-8q.test_reset_replay.0/README.md) | toobig-8q hood | dismissed |

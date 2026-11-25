@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`16a1e22`](https://github.com/sase-org/sase/commit/16a1e22001fdff483f4953157bae6a1324e5a599) | refactor(footprint): split catalog\_gen.py under the 500-line cap | 2026-10-27 20:12:28 EDT |
+| — | `16a1e22` | refactor(footprint): split catalog\_gen.py under the 500-line cap | 2026-10-27 20:12:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8p.test\_tool\_run\_store.0](../../sessions/bbugyi200.athena.toobig-8p.test_tool_run_store.0.md) (session · 3) | toobig-8p hood | active 1, completed 1, failed 1 |
+| [toobig-8p.test\_tool\_run\_store.0](../../sessions/bbugyi200.athena.toobig-8p.test_tool_run_store.0.md) (session · 3) | toobig-8p hood | completed 1, dismissed 1, failed 1 |

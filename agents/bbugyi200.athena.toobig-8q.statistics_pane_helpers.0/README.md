@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2606ec6`](https://github.com/sase-org/sase/commit/2606ec67adee434a7f627e47f3c7171a2ace91fc) | refactor(tests): split Statistics pane helper fixtures | 2026-10-28 11:48:58 EDT |
+| — | `2606ec6` | refactor(tests): split Statistics pane helper fixtures | 2026-10-28 11:48:58 EDT |
 
 ## Variables
 
@@ -55,4 +55,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [toobig-8q.test\_ace\_png\_snapshots\_config\_center\_statistics.0](../bbugyi200.athena.toobig-8q.test_ace_png_snapshots_config_center_statistics.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.test\_artifact\_link\_quarantine\_replay\_evidence.0](../../sessions/bbugyi200.athena.toobig-8q.test_artifact_link_quarantine_replay_evidence.0.md) (session · 3) | toobig-8q hood | completed 2, failed 1 |
 | [toobig-8q.test\_axe\_runner\_workspace\_reclone.0](../bbugyi200.athena.toobig-8q.test_axe_runner_workspace_reclone.0/README.md) | toobig-8q hood | completed |
-| [toobig-8q.test\_reset\_replay.0](../bbugyi200.athena.toobig-8q.test_reset_replay.0/README.md) | toobig-8q hood | active |
+| [toobig-8q.test\_reset\_replay.0](../bbugyi200.athena.toobig-8q.test_reset_replay.0/README.md) | toobig-8q hood | dismissed |

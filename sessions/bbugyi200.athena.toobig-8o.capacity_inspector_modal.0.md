@@ -27,10 +27,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`4a2baf9`](https://github.com/sase-org/sase/commit/4a2baf9b193405bf7f24d8a9ce38ff7e2536e9b8) | refactor(capacity-inspector): split modal into screen, options, and shared modules | 2026-10-27 17:05:59 EDT |
+| 1 | — | `4a2baf9` | refactor(capacity-inspector): split modal into screen, options, and shared modules | 2026-10-27 17:05:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8o.panel\_spread.0](../agents/bbugyi200.athena.toobig-8o.panel_spread.0/README.md) | toobig-8o hood | active |
+| [toobig-8o.panel\_spread.0](../agents/bbugyi200.athena.toobig-8o.panel_spread.0/README.md) | toobig-8o hood | dismissed |
