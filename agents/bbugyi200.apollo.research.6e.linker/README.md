@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6e.linker
 
-**Global name:** `bbugyi200.apollo.research.6e.linker` · **State:** waiting · **Source run:** `run-abb3d62e87ee35726422a881d6d4ee79`
+**Global name:** `bbugyi200.apollo.research.6e.linker` · **State:** completed · **Source run:** `run-abb3d62e87ee35726422a881d6d4ee79`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261125141144
+- Timing: 2026-11-25T20:02:41.753990+00:00 → 2026-11-25T20:10:46.903970+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/on\_demand\_web\_rosters/on\_demand\_web\_rosters.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261125141144/on\_demand\_web\_rosters-939a6fa3085e.m… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/on_demand_web_rosters/on_demand_web_rosters.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261125141144/on_demand_web_rosters-939a6fa3085e.md
+  ref: file:explicit:aee141bc8ce1cd24f613f7a2
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/on_demand_web_rosters/on_demand_web_rosters.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
