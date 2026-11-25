@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-4h](../../users/bbugyi200/machines/athena/hoods/toobig-4h/README.md) / toobig-4h.test\_github\_actions\_ci.0
 
-**Global name:** `bbugyi200.athena.toobig-4h.test_github_actions_ci.0` · **State:** active · **Source run:** `run-e6268904f7cd313473bd2a8c5932166b`
+**Global name:** `bbugyi200.athena.toobig-4h.test_github_actions_ci.0` · **State:** dismissed · **Source run:** `run-e6268904f7cd313473bd2a8c5932166b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-4h
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-28T00:09:29.609157+00:00
+- Timing: 2026-08-27T11:12:29
 - Commits: [1](#commits)
 
 ## Files
@@ -21,17 +21,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4d627d`](https://github.com/sase-org/sase/commit/d4d627dbc7dddb95e570596a87046590d63ba284) | test: split github actions ci contracts | 2026-08-27 20:50:55 EDT |
+| — | `d4d627d` | test: split github actions ci contracts | 2026-08-27 20:50:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-4h.agent\_display\_hint\_render.0](../../sessions/bbugyi200.athena.toobig-4h.agent_display_hint_render.0.md) (session · 3) | toobig-4h hood | active 2, failed 1 |
-| [toobig-4h.app.0](../bbugyi200.athena.toobig-4h.app.0/README.md) | toobig-4h hood | active |
-| [toobig-4h.done\_loaders.0](../bbugyi200.athena.toobig-4h.done_loaders.0/README.md) | toobig-4h hood | active |
-| [toobig-4h.init.0](../../sessions/bbugyi200.athena.toobig-4h.init.0.md) (session · 9) | toobig-4h hood | active 5, failed 4 |
-| [toobig-4h.plan\_gate.0](../bbugyi200.athena.toobig-4h.plan_gate.0/README.md) | toobig-4h hood | active |
-| [toobig-4h.test\_ace\_png\_snapshots\_agents\_family\_panel.0](../bbugyi200.athena.toobig-4h.test_ace_png_snapshots_agents_family_panel.0/README.md) | toobig-4h hood | active |
-| [toobig-4h.test\_artifacts\_relation\_collapse.0](../bbugyi200.athena.toobig-4h.test_artifacts_relation_collapse.0/README.md) | toobig-4h hood | active |
-| [toobig-4h.test\_suite\_gate\_integration.0](../../sessions/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0.md) (session · 3) | toobig-4h hood | active 2, failed 1 |
+| [toobig-4h.agent\_display\_hint\_render.0](../../sessions/bbugyi200.athena.toobig-4h.agent_display_hint_render.0.md) (session · 3) | toobig-4h hood | dismissed 2, failed 1 |
+| [toobig-4h.app.0](../bbugyi200.athena.toobig-4h.app.0/README.md) | toobig-4h hood | dismissed |
+| [toobig-4h.done\_loaders.0](../bbugyi200.athena.toobig-4h.done_loaders.0/README.md) | toobig-4h hood | dismissed |
+| [toobig-4h.init.0](../../sessions/bbugyi200.athena.toobig-4h.init.0.md) (session · 9) | toobig-4h hood | dismissed 5, failed 4 |
+| [toobig-4h.plan\_gate.0](../bbugyi200.athena.toobig-4h.plan_gate.0/README.md) | toobig-4h hood | dismissed |
+| [toobig-4h.test\_ace\_png\_snapshots\_agents\_family\_panel.0](../bbugyi200.athena.toobig-4h.test_ace_png_snapshots_agents_family_panel.0/README.md) | toobig-4h hood | dismissed |
+| [toobig-4h.test\_artifacts\_relation\_collapse.0](../bbugyi200.athena.toobig-4h.test_artifacts_relation_collapse.0/README.md) | toobig-4h hood | dismissed |
+| [toobig-4h.test\_suite\_gate\_integration.0](../../sessions/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0.md) (session · 3) | toobig-4h hood | dismissed 2, failed 1 |
