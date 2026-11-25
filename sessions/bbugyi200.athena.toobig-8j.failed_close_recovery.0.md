@@ -27,10 +27,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| mon | sase | [`3355eb2`](https://github.com/sase-org/sase/commit/3355eb275cffe19dadce5c23cb99ed19bdf733dd) | refactor(finalizers): split failed\_close\_recovery into focused modules | 2026-10-26 23:40:13 EDT |
+| mon | — | `3355eb2` | refactor(finalizers): split failed\_close\_recovery into focused modules | 2026-10-26 23:40:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8j.test\_finalizers\_failed\_close\_recovery.0](bbugyi200.athena.toobig-8j.test_finalizers_failed_close_recovery.0.md) (session · 3) | toobig-8j hood | active 1, completed 1, failed 1 |
+| [toobig-8j.test\_finalizers\_failed\_close\_recovery.0](bbugyi200.athena.toobig-8j.test_finalizers_failed_close_recovery.0.md) (session · 3) | toobig-8j hood | completed 1, dismissed 1, failed 1 |

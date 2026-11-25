@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`918b019`](https://github.com/sase-org/sase/commit/918b019dfc02a040aef5a18e89686a88dbcb8645) | refactor(agents-sync): split publication transaction | 2026-10-27 06:06:18 EDT |
+| — | `918b019` | refactor(agents-sync): split publication transaction | 2026-10-27 06:06:18 EDT |
 
 ## Neighbors
 
@@ -29,4 +29,4 @@
 |---|---|---|
 | [toobig-8l.git\_sync\_ops.0](../bbugyi200.athena.toobig-8l.git_sync_ops.0/README.md) | toobig-8l hood | completed |
 | [toobig-8l.test\_axe\_chop\_wait\_checks\_stranded\_beads.0](../bbugyi200.athena.toobig-8l.test_axe_chop_wait_checks_stranded_beads.0/README.md) | toobig-8l hood | waiting |
-| [toobig-8l.test\_publication\_recovery.0](../../sessions/bbugyi200.athena.toobig-8l.test_publication_recovery.0.md) (session · 2) | toobig-8l hood | active 1, failed 1 |
+| [toobig-8l.test\_publication\_recovery.0](../../sessions/bbugyi200.athena.toobig-8l.test_publication_recovery.0.md) (session · 2) | toobig-8l hood | dismissed 1, failed 1 |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0430b06`](https://github.com/sase-org/sase/commit/0430b06fd73b8ea82f66bef556d99149f24b30a7) | refactor(agents-sync): split git\_sync\_ops into lock, git, and payload modules | 2026-10-27 06:28:23 EDT |
+| — | `0430b06` | refactor(agents-sync): split git\_sync\_ops into lock, git, and payload modules | 2026-10-27 06:28:23 EDT |
 
 ## Neighbors
 
@@ -29,4 +29,4 @@
 |---|---|---|
 | [toobig-8l.commit\_publication\_transaction.0](../bbugyi200.athena.toobig-8l.commit_publication_transaction.0/README.md) | toobig-8l hood | completed |
 | [toobig-8l.test\_axe\_chop\_wait\_checks\_stranded\_beads.0](../bbugyi200.athena.toobig-8l.test_axe_chop_wait_checks_stranded_beads.0/README.md) | toobig-8l hood | waiting |
-| [toobig-8l.test\_publication\_recovery.0](../../sessions/bbugyi200.athena.toobig-8l.test_publication_recovery.0.md) (session · 2) | toobig-8l hood | active 1, failed 1 |
+| [toobig-8l.test\_publication\_recovery.0](../../sessions/bbugyi200.athena.toobig-8l.test_publication_recovery.0.md) (session · 2) | toobig-8l hood | dismissed 1, failed 1 |

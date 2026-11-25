@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8k](../../users/bbugyi200/machines/athena/hoods/toobig-8k/README.md) / toobig-8k.test\_finalizers\_failed\_close\_recovery.0
 
-**Global name:** `bbugyi200.athena.toobig-8k.test_finalizers_failed_close_recovery.0` · **State:** active · **Source run:** `run-c64ac176bd22506ea96c413b4e72ac78`
+**Global name:** `bbugyi200.athena.toobig-8k.test_finalizers_failed_close_recovery.0` · **State:** dismissed · **Source run:** `run-c64ac176bd22506ea96c413b4e72ac78`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8k
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-27T06:47:29.965526+00:00
+- Timing: 2026-10-27T02:47:29.965526 → 2026-10-27T03:34:45.942673
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7a860ff`](https://github.com/sase-org/sase/commit/7a860ff33ec90142c273a36633ceec3d788be5e0) | test: keep retry-only failed-close helpers in the retry module | 2026-10-27 03:32:19 EDT |
+| — | `7a860ff` | test: keep retry-only failed-close helpers in the retry module | 2026-10-27 03:32:19 EDT |
 
 ## Neighbors
 

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8j](../../users/bbugyi200/machines/athena/hoods/toobig-8j/README.md) / [toobig-8j.test\_finalizers\_failed\_close\_recovery.0](../../sessions/bbugyi200.athena.toobig-8j.test_finalizers_failed_close_recovery.0.md) / toobig-8j.test\_finalizers\_failed\_close\_recovery.0--1
 
-**Global name:** `bbugyi200.athena.toobig-8j.test_finalizers_failed_close_recovery.0--1` · **State:** active · **Source run:** `run-c213b7834ec7e53967cdfcffa4b037e1`
+**Global name:** `bbugyi200.athena.toobig-8j.test_finalizers_failed_close_recovery.0--1` · **State:** dismissed · **Source run:** `run-c213b7834ec7e53967cdfcffa4b037e1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8j
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-27T05:37:09.100143+00:00
+- Timing: 2026-10-27T01:37:09.100143 → 2026-10-27T01:44:38.093566
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`134e869`](https://github.com/sase-org/sase/commit/134e869e4b9b18f85e0f3a4c003d70a9923c0534) | test: split test\_finalizers\_failed\_close\_recovery into focused modules | 2026-10-27 01:41:26 EDT |
+| — | `134e869` | test: split test\_finalizers\_failed\_close\_recovery into focused modules | 2026-10-27 01:41:26 EDT |
 
 ## Neighbors
 

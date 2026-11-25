@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2a2a8dc`](https://github.com/sase-org/sase/commit/2a2a8dc2ce09cd8a726696dc710a13275fb6e717) | refactor(beads): split query CLI handlers | 2026-10-27 02:44:25 EDT |
+| — | `2a2a8dc` | refactor(beads): split query CLI handlers | 2026-10-27 02:44:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8k.test\_finalizers\_failed\_close\_recovery.0](../bbugyi200.athena.toobig-8k.test_finalizers_failed_close_recovery.0/README.md) | toobig-8k hood | active |
+| [toobig-8k.test\_finalizers\_failed\_close\_recovery.0](../bbugyi200.athena.toobig-8k.test_finalizers_failed_close_recovery.0/README.md) | toobig-8k hood | dismissed |

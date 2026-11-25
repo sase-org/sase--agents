@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `toobig-8l` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["toobig-8l.test_publication_recovery.0--plan [active]"]
+  n0["toobig-8l.test_publication_recovery.0--plan [dismissed]"]
   n1["toobig-8l.test_publication_recovery.0--mon [failed]"]
   n0 --> n1
 ```
@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | toobig-8l.test\_publication\_recovery.0--plan | active | muse-spark-1.3-contributor / muse | 2026-10-27T10:49:36.007054+00:00 | [1](../agents/bbugyi200.athena.toobig-8l.test_publication_recovery.0--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8l.test_publication_recovery.0--plan/prompt.md) | — |
+| <a id="member-plan"></a>plan | toobig-8l.test\_publication\_recovery.0--plan | dismissed | muse-spark-1.3-contributor / muse | 2026-10-27T06:49:36.007054 → 2026-10-27T07:08:03.944344 | [1](../agents/bbugyi200.athena.toobig-8l.test_publication_recovery.0--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8l.test_publication_recovery.0--plan/prompt.md) | — |
 | <a id="member-mon"></a>mon | toobig-8l.test\_publication\_recovery.0--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-27T11:05:07.064783+00:00 → 2026-10-27T11:05:07.127727+00:00 | 0 | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | sase | [`887175c`](https://github.com/sase-org/sase/commit/887175c3e5e6e9c3567f00ea17bd7ef1c608195e) | refactor(agents-sync): split publication recovery tests into package | 2026-10-27 07:06:11 EDT |
+| plan | — | `887175c` | refactor(agents-sync): split publication recovery tests into package | 2026-10-27 07:06:11 EDT |
 
 ## Neighbors
 
