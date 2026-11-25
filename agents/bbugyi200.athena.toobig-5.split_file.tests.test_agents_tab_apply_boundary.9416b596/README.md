@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5](../../users/bbugyi200/machines/athena/hoods/toobig-5/README.md) / toobig-5.split\_file.tests.test\_agents\_tab\_apply\_boundary.9416b596
 
-**Global name:** `bbugyi200.athena.toobig-5.split_file.tests.test_agents_tab_apply_boundary.9416b596` · **State:** active · **Source run:** `run-91207626cba43a8f0b60ae04742057bd`
+**Global name:** `bbugyi200.athena.toobig-5.split_file.tests.test_agents_tab_apply_boundary.9416b596` · **State:** dismissed · **Source run:** `run-91207626cba43a8f0b60ae04742057bd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-20T15:33:33.364887+00:00
+- Timing: 2026-07-20T11:33:33.364887 → 2026-07-20T11:48:36.988096
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b050350`](https://github.com/sase-org/sase/commit/b05035080f3bf50ef26dca1aa7267498344a8c47) | test: split agents tab apply boundary coverage | 2026-07-20 11:48:26 EDT |
+| — | `b050350` | test: split agents tab apply boundary coverage | 2026-07-20 11:48:26 EDT |
 
 ## Neighbors
 
