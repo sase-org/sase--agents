@@ -10,8 +10,8 @@
 
 - Bead: [sase-1v7.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1v7/sase-1v7.4.md)
 - Epic: [sase-1v7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1v7/README.md)
-- Model: grok-4.6
-- Provider: grok
+- Model: gpt-6-luna
+- Provider: codex
 - Timing: 20261125162054
 - Commits: 0
 
@@ -26,5 +26,5 @@
 | [sase-1v7.1](../bbugyi200.athena.sase-1v7.1/README.md) | sase-1v7 hood | completed |
 | [sase-1v7.2](../bbugyi200.athena.sase-1v7.2/README.md) | sase-1v7 hood | completed |
 | [sase-1v7.3](../bbugyi200.athena.sase-1v7.3/README.md) | sase-1v7 hood | waiting |
-| [sase-1v7.5](../bbugyi200.athena.sase-1v7.5/README.md) | sase-1v7 hood | waiting |
+| [sase-1v7.5](../bbugyi200.athena.sase-1v7.5/README.md) | sase-1v7 hood | completed |
 | [sase-1v7.land](../bbugyi200.athena.sase-1v7.land/README.md) | sase-1v7 hood | waiting |
