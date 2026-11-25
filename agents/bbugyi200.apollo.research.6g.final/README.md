@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6g.final
 
-**Global name:** `bbugyi200.apollo.research.6g.final` · **State:** waiting · **Source run:** `run-7e9e6dcdbd76c1c198f6f83858a7ce86`
+**Global name:** `bbugyi200.apollo.research.6g.final` · **State:** completed · **Source run:** `run-7e9e6dcdbd76c1c198f6f83858a7ce86`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261125165229
+- Timing: 2026-11-25T22:11:54.849131+00:00 → 2026-11-25T22:22:51.069273+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/sase\_blog\_zettel\_album\_additions/sase\_blog\_zettel\_album\_additions\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261125165229/sase\_bl… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/sase_blog_zettel_album_additions/sase_blog_zettel_album_additions__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261125165229/sase_blog_zettel_album_additions__final-b72e167aa145.md
+  ref: file:explicit:4f7cf56cab2042f2cffd4b80
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/sase_blog_zettel_album_additions/sase_blog_zettel_album_additions__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
