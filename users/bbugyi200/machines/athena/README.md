@@ -1646,7 +1646,7 @@
 | [sase-1ut](hoods/sase-1ut/README.md) | 5 | 1 | completed 5 |
 | [sase-1uu](hoods/sase-1uu/README.md) | 4 | 0 | completed 4 |
 | [sase-1ux](hoods/sase-1ux/README.md) | 10 | 1 | completed 9, failed 1 |
-| [sase-1v7](hoods/sase-1v7/README.md) | 6 | 0 | active 1, completed 1, waiting 4 |
+| [sase-1v7](hoods/sase-1v7/README.md) | 6 | 0 | completed 2, waiting 4 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |
 | [sase-46](hoods/sase-46/README.md) | 6 | 0 | completed 6 |
