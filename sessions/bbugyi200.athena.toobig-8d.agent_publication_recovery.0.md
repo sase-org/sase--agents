@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `toobig-8d` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["toobig-8d.agent_publication_recovery.0--plan [active]"]
-  n1["toobig-8d.agent_publication_recovery.0--mon [active]"]
+  n0["toobig-8d.agent_publication_recovery.0--plan [dismissed]"]
+  n1["toobig-8d.agent_publication_recovery.0--mon [dismissed]"]
   n0 --> n1
-  n2["toobig-8d.agent_publication_recovery.0--1 [active]"]
+  n2["toobig-8d.agent_publication_recovery.0--1 [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,21 +19,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | toobig-8d.agent\_publication\_recovery.0--plan | active | muse-spark-1.3-contributor / muse | 2026-10-21T11:30:07.217055+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--plan/chat.md) |
-| <a id="member-mon"></a>mon | toobig-8d.agent\_publication\_recovery.0--mon | active | muse-spark-1.3-contributor / muse | 2026-10-21T11:45:31.495718+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--mon/chat.md) |
-| <a id="member-1"></a>1 | toobig-8d.agent\_publication\_recovery.0--1 | active | muse-spark-1.3-contributor / muse | 2026-10-21T11:49:50.079791+00:00 | [1](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--1/chat.md) |
+| <a id="member-plan"></a>plan | toobig-8d.agent\_publication\_recovery.0--plan | dismissed | muse-spark-1.3-contributor / muse | 2026-10-21T07:30:07.217055 → 2026-10-21T07:46:02.959635 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--plan/chat.md) |
+| <a id="member-mon"></a>mon | toobig-8d.agent\_publication\_recovery.0--mon | dismissed | muse-spark-1.3-contributor / muse | 2026-10-21T07:45:31.495718 → 2026-10-21T07:46:03.791975 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--mon/chat.md) |
+| <a id="member-1"></a>1 | toobig-8d.agent\_publication\_recovery.0--1 | dismissed | muse-spark-1.3-contributor / muse | 2026-10-21T07:49:50.079791 → 2026-10-21T07:57:02.143513 | [1](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8d.agent_publication_recovery.0--1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`003827a`](https://github.com/sase-org/sase/commit/003827a58d40051b742f6e1b2cebffd1e301f497) | refactor(core): split agent publication recovery into focused modules | 2026-10-21 07:53:52 EDT |
+| 1 | — | `003827a` | refactor(core): split agent publication recovery into focused modules | 2026-10-21 07:53:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8d.commit\_publication.0](../agents/bbugyi200.athena.toobig-8d.commit_publication.0/README.md) | toobig-8d hood | active |
-| [toobig-8d.grok.0](../agents/bbugyi200.athena.toobig-8d.grok.0/README.md) | toobig-8d hood | active |
-| [toobig-8d.publication\_replay\_recovery.0](../agents/bbugyi200.athena.toobig-8d.publication_replay_recovery.0/README.md) | toobig-8d hood | active |
-| [toobig-8d.test\_git\_sync\_outbox.0](../agents/bbugyi200.athena.toobig-8d.test_git_sync_outbox.0/README.md) | toobig-8d hood | active |
+| [toobig-8d.commit\_publication.0](../agents/bbugyi200.athena.toobig-8d.commit_publication.0/README.md) | toobig-8d hood | dismissed |
+| [toobig-8d.grok.0](../agents/bbugyi200.athena.toobig-8d.grok.0/README.md) | toobig-8d hood | dismissed |
+| [toobig-8d.publication\_replay\_recovery.0](../agents/bbugyi200.athena.toobig-8d.publication_replay_recovery.0/README.md) | toobig-8d hood | dismissed |
+| [toobig-8d.test\_git\_sync\_outbox.0](../agents/bbugyi200.athena.toobig-8d.test_git_sync_outbox.0/README.md) | toobig-8d hood | dismissed |

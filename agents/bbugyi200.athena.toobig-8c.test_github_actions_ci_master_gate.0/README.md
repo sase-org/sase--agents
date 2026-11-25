@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8c](../../users/bbugyi200/machines/athena/hoods/toobig-8c/README.md) / toobig-8c.test\_github\_actions\_ci\_master\_gate.0
 
-**Global name:** `bbugyi200.athena.toobig-8c.test_github_actions_ci_master_gate.0` · **State:** active · **Source run:** `run-a7921ee9dc200eafe039c9ce448e62d9`
+**Global name:** `bbugyi200.athena.toobig-8c.test_github_actions_ci_master_gate.0` · **State:** dismissed · **Source run:** `run-a7921ee9dc200eafe039c9ce448e62d9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8c
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-21T00:12:30.558437+00:00
+- Timing: 2026-10-20T20:12:30.558437 → 2026-10-20T21:05:25.996383
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`53b55f1`](https://github.com/sase-org/sase/commit/53b55f1fd18d5390a46f9d037f8869eadf0622f6) | test: split GitHub Actions master-gate contract tests | 2026-10-20 20:59:59 EDT |
+| — | `53b55f1` | test: split GitHub Actions master-gate contract tests | 2026-10-20 20:59:59 EDT |
 
 ## Neighbors
 

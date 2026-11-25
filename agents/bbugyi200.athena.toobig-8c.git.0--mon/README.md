@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-8c.test\_deck\_split\_pilot.0](../bbugyi200.athena.toobig-8c.test_deck_split_pilot.0/README.md) | toobig-8c hood | completed |
-| [toobig-8c.test\_github\_actions\_ci\_master\_gate.0](../bbugyi200.athena.toobig-8c.test_github_actions_ci_master_gate.0/README.md) | toobig-8c hood | active |
+| [toobig-8c.test\_github\_actions\_ci\_master\_gate.0](../bbugyi200.athena.toobig-8c.test_github_actions_ci_master_gate.0/README.md) | toobig-8c hood | dismissed |

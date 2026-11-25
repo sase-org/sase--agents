@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5f11d21`](https://github.com/sase-org/sase/commit/5f11d21d3668618c149254df3b780d4d23743ac3) | refactor(tests): split deck split pilot test modules | 2026-10-20 20:07:03 EDT |
+| — | `5f11d21` | refactor(tests): split deck split pilot test modules | 2026-10-20 20:07:03 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-8c.git.0](../../sessions/bbugyi200.athena.toobig-8c.git.0.md) (session · 3) | toobig-8c hood | completed 2, failed 1 |
-| [toobig-8c.test\_github\_actions\_ci\_master\_gate.0](../bbugyi200.athena.toobig-8c.test_github_actions_ci_master_gate.0/README.md) | toobig-8c hood | active |
+| [toobig-8c.test\_github\_actions\_ci\_master\_gate.0](../bbugyi200.athena.toobig-8c.test_github_actions_ci_master_gate.0/README.md) | toobig-8c hood | dismissed |

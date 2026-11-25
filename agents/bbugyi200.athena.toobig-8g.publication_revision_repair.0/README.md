@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8g](../../users/bbugyi200/machines/athena/hoods/toobig-8g/README.md) / toobig-8g.publication\_revision\_repair.0
 
-**Global name:** `bbugyi200.athena.toobig-8g.publication_revision_repair.0` · **State:** active · **Source run:** `run-584ce6f43b1e1f0a3417d9a6177fec88`
+**Global name:** `bbugyi200.athena.toobig-8g.publication_revision_repair.0` · **State:** dismissed · **Source run:** `run-584ce6f43b1e1f0a3417d9a6177fec88`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8g
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-24T17:02:14.444852+00:00
+- Timing: 2026-10-24T13:02:14.444852 → 2026-10-24T13:55:50.272646
 - Commits: [1](#commits)
 - Variables: [1](#variables)
 
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4d5fe3f`](https://github.com/sase-org/sase/commit/4d5fe3ff5a3fb6b080e423ff8bcbee519c2d051e) | refactor(agents-sync): split publication revision repair | 2026-10-24 13:52:49 EDT |
+| — | `4d5fe3f` | refactor(agents-sync): split publication revision repair | 2026-10-24 13:52:49 EDT |
 
 ## Variables
 
@@ -47,4 +47,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8g.test\_commit\_workflow\_publication.0](../bbugyi200.athena.toobig-8g.test_commit_workflow_publication.0/README.md) | toobig-8g hood | waiting |
+| [toobig-8g.test\_commit\_workflow\_publication.0](../bbugyi200.athena.toobig-8g.test_commit_workflow_publication.0/README.md) | toobig-8g hood | dismissed |

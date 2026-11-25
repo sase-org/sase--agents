@@ -27,11 +27,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`fe45b86`](https://github.com/sase-org/sase/commit/fe45b86f28bfb430706b7abb9ea8a140edd5736b) | refactor(sdd): split \_git.py into config, runner, and network modules | 2026-10-20 19:18:30 EDT |
+| 1 | — | `fe45b86` | refactor(sdd): split \_git.py into config, runner, and network modules | 2026-10-20 19:18:30 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-8c.test\_deck\_split\_pilot.0](../agents/bbugyi200.athena.toobig-8c.test_deck_split_pilot.0/README.md) | toobig-8c hood | completed |
-| [toobig-8c.test\_github\_actions\_ci\_master\_gate.0](../agents/bbugyi200.athena.toobig-8c.test_github_actions_ci_master_gate.0/README.md) | toobig-8c hood | active |
+| [toobig-8c.test\_github\_actions\_ci\_master\_gate.0](../agents/bbugyi200.athena.toobig-8c.test_github_actions_ci_master_gate.0/README.md) | toobig-8c hood | dismissed |
