@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6g.linker
 
-**Global name:** `bbugyi200.apollo.research.6g.linker` · **State:** waiting · **Source run:** `run-1229ac147cadb3d04dbf7a5940bb064f`
+**Global name:** `bbugyi200.apollo.research.6g.linker` · **State:** completed · **Source run:** `run-1229ac147cadb3d04dbf7a5940bb064f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261125165231
+- Timing: 2026-11-25T22:32:02.630763+00:00 → 2026-11-25T22:37:34.263597+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/sase\_blog\_zettel\_album\_additions/sase\_blog\_zettel\_album\_additions.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261125165231/sase\_blog\_zett… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/sase_blog_zettel_album_additions/sase_blog_zettel_album_additions.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261125165231/sase_blog_zettel_album_additions-84aaa8df7df2.md
+  ref: file:explicit:9c75bf13689aaa002d857cf8
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/sase_blog_zettel_album_additions/sase_blog_zettel_album_additions.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
