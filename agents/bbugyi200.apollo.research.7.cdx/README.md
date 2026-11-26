@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `b814527` | chore: add TUI media research | 2026-06-11 18:12:12 EDT |
+| sase | [`b814527`](https://github.com/sase-org/sase/commit/b8145272f0c31d51d30db3a7512d14898169b36a) | chore: add TUI media research | 2026-06-11 18:12:12 EDT |
 
 ## Neighbors
 

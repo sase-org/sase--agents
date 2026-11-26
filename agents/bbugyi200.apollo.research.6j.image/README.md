@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 20261126092850
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/question\_copy\_items/question\_copy\_items\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261126092850/question\_copy\_items\_infographic-e… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/question_copy_items/question_copy_items_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261126092850/question_copy_items_infographic-e52218aa462c.png
+  ref: file:explicit:5e48162a9b0425b3ec10bf2a
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/question_copy_items/question_copy_items_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

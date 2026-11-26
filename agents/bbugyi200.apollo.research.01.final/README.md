@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `2759fb6` | docs: consolidate sibling repo open-tracking research | 2026-06-20 13:27:35 EDT |
+| sase | [`2759fb6`](https://github.com/sase-org/sase/commit/2759fb690e20339dfc62eec49baa6bca046d4b22) | docs: consolidate sibling repo open-tracking research | 2026-06-20 13:27:35 EDT |
 
 ## Neighbors
 

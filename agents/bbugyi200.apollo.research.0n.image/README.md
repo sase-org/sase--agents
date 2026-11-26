@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `0089626` | docs: add AMD memory init infographic | 2026-06-26 11:52:20 EDT |
+| sase | [`0089626`](https://github.com/sase-org/sase/commit/008962676a48224d9093f0cec644a5a5ac8f6584) | docs: add AMD memory init infographic | 2026-06-26 11:52:20 EDT |
 
 ## Variables
 

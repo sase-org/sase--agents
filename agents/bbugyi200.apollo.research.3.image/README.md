@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `a476637` | docs: add xprompt rename infographic | 2026-07-08 17:46:41 EDT |
+| sase | [`a476637`](https://github.com/sase-org/sase/commit/a47663781be247148e3444fa7be8f4403008db9c) | docs: add xprompt rename infographic | 2026-07-08 17:46:41 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `457dd72` | fix(publish): build release artifacts from the release-please tagged commit | 2026-10-18 15:32:32 EDT |
+| sase | [`457dd72`](https://github.com/sase-org/sase/commit/457dd728d517ddba3ece2cabe30bdaff8e6a9db4) | fix(publish): build release artifacts from the release-please tagged commit | 2026-10-18 15:32:32 EDT |
 
 ## Variables
 

@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 20261126092849 → 2026-11-26T14:57:48.195637+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/question\_copy\_items/question\_copy\_items\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261126092849/question\_copy\_items\_\_final-3adee1… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/question_copy_items/question_copy_items__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261126092849/question_copy_items__final-3adee110fced.md
+  ref: file:explicit:a70464b7e2d963e2f72fd302
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/question_copy_items/question_copy_items__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
