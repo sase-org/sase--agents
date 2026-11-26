@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4bf7805`](https://github.com/sase-org/sase/commit/4bf78056c0bf22fe487fd2d402ff8a8a5b9d382a) | feat(config)!: nest file hook filters | 2026-08-08 12:28:49 EDT |
+| — | `4bf7805` | feat(config)!: nest file hook filters | 2026-08-08 12:28:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [vq](../../sessions/bbugyi200.athena.vq.md) (session · 2) | ancestor | active 1, completed 1 |
-| [vq.f0](../../sessions/bbugyi200.athena.vq.f0.md) (session · 2) | vq hood | active 1, completed 1 |
+| [vq](../../sessions/bbugyi200.athena.vq.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [vq.f0](../../sessions/bbugyi200.athena.vq.f0.md) (session · 2) | vq hood | completed 1, dismissed 1 |

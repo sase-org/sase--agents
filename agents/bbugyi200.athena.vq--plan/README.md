@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [vq](../../users/bbugyi200/machines/athena/hoods/vq/README.md) / [vq](../../sessions/bbugyi200.athena.vq.md) / vq--plan
 
-**Global name:** `bbugyi200.athena.vq--plan` · **State:** active · **Source run:** `run-41e324ba1a10646bd9b33bf9d0b3c756`
+**Global name:** `bbugyi200.athena.vq--plan` · **State:** dismissed · **Source run:** `run-41e324ba1a10646bd9b33bf9d0b3c756`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** vq
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-08T15:14:09.112436+00:00
+- Timing: 2026-08-08T11:14:09.112436 → 2026-08-08T11:38:01.133556
 - Commits: 0
 
 ## Files
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [vq.f0](../../sessions/bbugyi200.athena.vq.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [vq.f1](../../sessions/bbugyi200.athena.vq.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [vq.f0](../../sessions/bbugyi200.athena.vq.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [vq.f1](../../sessions/bbugyi200.athena.vq.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

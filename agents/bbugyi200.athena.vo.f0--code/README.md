@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f4dfc26`](https://github.com/sase-org/sase/commit/f4dfc2626ba425bb9b24e55f65518a317ed172e4) | feat(beads): simplify snooze gate duration input | 2026-08-08 11:54:01 EDT |
+| — | `f4dfc26` | feat(beads): simplify snooze gate duration input | 2026-08-08 11:54:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [vo](../../sessions/bbugyi200.athena.vo.md) (session · 2) | ancestor | active 1, completed 1 |
-| [vo.f0.f0](../bbugyi200.athena.vo.f0.f0/README.md) | descendant | active |
+| [vo](../../sessions/bbugyi200.athena.vo.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [vo.f0.f0](../bbugyi200.athena.vo.f0.f0/README.md) | descendant | dismissed |

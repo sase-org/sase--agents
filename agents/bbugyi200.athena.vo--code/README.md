@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`010b01a`](https://github.com/sase-org/sase/commit/010b01a4143e7e5fac5fb2efe26182245c86cc0c) | fix: focus invalid gate inputs before warning | 2026-08-08 10:41:24 EDT |
+| — | `010b01a` | fix: focus invalid gate inputs before warning | 2026-08-08 10:41:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [vo.f0](../../sessions/bbugyi200.athena.vo.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [vo.f0.f0](../bbugyi200.athena.vo.f0.f0/README.md) | descendant | active |
+| [vo.f0](../../sessions/bbugyi200.athena.vo.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [vo.f0.f0](../bbugyi200.athena.vo.f0.f0/README.md) | descendant | dismissed |

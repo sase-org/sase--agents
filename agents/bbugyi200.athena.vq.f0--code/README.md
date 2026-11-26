@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [vq](../../sessions/bbugyi200.athena.vq.md) (session · 2) | ancestor | active 1, completed 1 |
-| [vq.f1](../../sessions/bbugyi200.athena.vq.f1.md) (session · 2) | vq hood | active 1, completed 1 |
+| [vq](../../sessions/bbugyi200.athena.vq.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [vq.f1](../../sessions/bbugyi200.athena.vq.f1.md) (session · 2) | vq hood | completed 1, dismissed 1 |
