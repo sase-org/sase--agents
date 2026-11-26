@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ebcc0c2`](https://github.com/sase-org/sase/commit/ebcc0c2ba6bba8c7ba100c4be8c9dfc09a0ff7b8) | refactor(agents-sync): split inventory responsibilities | 2026-07-24 19:12:44 EDT |
+| — | `ebcc0c2` | refactor(agents-sync): split inventory responsibilities | 2026-07-24 19:12:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-t.split\_file.src.sase.agents\_sync.incoming\_cache.d4744ba7](../bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.incoming_cache.d4744ba7/README.md) | toobig-t.split\_file.src.sase.agents\_sync hood | active |
+| [toobig-t.split\_file.src.sase.agents\_sync.incoming\_cache.d4744ba7](../bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.incoming_cache.d4744ba7/README.md) | toobig-t.split\_file.src.sase.agents\_sync hood | dismissed |
 | [toobig-t.split\_file.src.sase.agents\_sync.v2\_importer.97f622fe](../bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.v2_importer.97f622fe/README.md) | toobig-t.split\_file.src.sase.agents\_sync hood | dismissed |
 | [toobig-t.split\_file.tests.test\_models\_panel\_edit.b323a358](../bbugyi200.athena.toobig-t.split_file.tests.test_models_panel_edit.b323a358/README.md) | toobig-t.split\_file hood | dismissed |

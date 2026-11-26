@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-t](../../users/bbugyi200/machines/athena/hoods/toobig-t/README.md) / toobig-t.split\_file.src.sase.agents\_sync.incoming\_cache.d4744ba7
 
-**Global name:** `bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.incoming_cache.d4744ba7` · **State:** active · **Source run:** `run-51ee1e76e4fadcf43da78753ba823091`
+**Global name:** `bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.incoming_cache.d4744ba7` · **State:** dismissed · **Source run:** `run-51ee1e76e4fadcf43da78753ba823091`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-t
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-24T22:29:52.093485+00:00
+- Timing: 2026-07-24T18:29:52.093485 → 2026-07-24T18:57:44.135104
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b1ed4ec`](https://github.com/sase-org/sase/commit/b1ed4ec21d9ff5197f0b4c9254fc47ca47b3d68e) | refactor(agents-sync): split incoming cache module | 2026-07-24 18:50:23 EDT |
+| — | `b1ed4ec` | refactor(agents-sync): split incoming cache module | 2026-07-24 18:50:23 EDT |
 
 ## Neighbors
 

@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c78eb6`](https://github.com/sase-org/sase/commit/8c78eb6ca04ed4d4a447ffd1c6b1c08820db4816) | test: split agent panel visual snapshots | 2026-07-24 21:07:07 EDT |
+| — | `8c78eb6` | test: split agent panel visual snapshots | 2026-07-24 21:07:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-u.split\_file.tests.ace.tui.test\_config\_center\_tabs.ba6d9826](../bbugyi200.athena.toobig-u.split_file.tests.ace.tui.test_config_center_tabs.ba6d9826/README.md) | toobig-u.split\_file.tests.ace.tui hood | active |
+| [toobig-u.split\_file.tests.ace.tui.test\_config\_center\_tabs.ba6d9826](../bbugyi200.athena.toobig-u.split_file.tests.ace.tui.test_config_center_tabs.ba6d9826/README.md) | toobig-u.split\_file.tests.ace.tui hood | dismissed |

@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`47e6a65`](https://github.com/sase-org/sase/commit/47e6a6548130871f164d84658edb6865955f1471) | test: split models panel edit tests | 2026-07-24 19:50:21 EDT |
+| — | `47e6a65` | test: split models panel edit tests | 2026-07-24 19:50:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-t.split\_file.src.sase.agents\_sync.incoming\_cache.d4744ba7](../bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.incoming_cache.d4744ba7/README.md) | toobig-t.split\_file hood | active |
+| [toobig-t.split\_file.src.sase.agents\_sync.incoming\_cache.d4744ba7](../bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.incoming_cache.d4744ba7/README.md) | toobig-t.split\_file hood | dismissed |
 | [toobig-t.split\_file.src.sase.agents\_sync.inventory.a0dcb781](../bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.inventory.a0dcb781/README.md) | toobig-t.split\_file hood | dismissed |
 | [toobig-t.split\_file.src.sase.agents\_sync.v2\_importer.97f622fe](../bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.v2_importer.97f622fe/README.md) | toobig-t.split\_file hood | dismissed |
