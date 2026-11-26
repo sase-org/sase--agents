@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [1g8](../../sessions/bbugyi200.athena.1g8.md) (session · 3) | ancestor | completed 3 |
-| [1g8.w0.w0](../bbugyi200.athena.1g8.w0.w0/README.md) | descendant | waiting |
+| [1g8.w0.w0](../../sessions/bbugyi200.athena.1g8.w0.w0.md) (session · 3) | descendant | completed 3 |
