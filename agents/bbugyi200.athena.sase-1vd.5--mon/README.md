@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1vd](../../users/bbugyi200/machines/athena/hoods/sase-1vd/README.md) / [sase-1vd.5](../../sessions/bbugyi200.athena.sase-1vd.5.md) / sase-1vd.5--mon
 
-**Global name:** `bbugyi200.athena.sase-1vd.5--mon` · **State:** active · **Source run:** `run-31d472ff4117612e8cc353374f4685f4`
+**Global name:** `bbugyi200.athena.sase-1vd.5--mon` · **State:** failed · **Source run:** `run-31d472ff4117612e8cc353374f4685f4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1vd
 
@@ -12,8 +12,12 @@
 - Epic: [sase-1vd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1vd/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-26T22:31:42.633074+00:00
+- Timing: 2026-11-26T22:31:42.633074+00:00 → 2026-11-26T23:00:33.315038+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
