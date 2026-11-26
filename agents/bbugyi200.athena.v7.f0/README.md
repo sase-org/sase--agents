@@ -17,5 +17,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [v7](../../sessions/bbugyi200.athena.v7.md) (session · 2) | ancestor | active 2 |
+| [v7](../../sessions/bbugyi200.athena.v7.md) (session · 2) | ancestor | active 1, dismissed 1 |
 | [v7.f1](../bbugyi200.athena.v7.f1/README.md) | v7 hood | dismissed |
