@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4022319`](https://github.com/sase-org/sase/commit/40223198dc73f47afacd8a5a58af96b7fc203f0c) | test: split agent display metadata tests | 2026-07-21 14:13:26 EDT |
+| — | `4022319` | test: split agent display metadata tests | 2026-07-21 14:13:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-c.split\_file.src.sase.sdd.links.4811995b](../bbugyi200.athena.toobig-c.split_file.src.sase.sdd.links.4811995b/README.md) | toobig-c.split\_file hood | active |
+| [toobig-c.split\_file.src.sase.sdd.links.4811995b](../bbugyi200.athena.toobig-c.split_file.src.sase.sdd.links.4811995b/README.md) | toobig-c.split\_file hood | dismissed |
 | [toobig-c.split\_file.src.sase.vcs\_log.resolve.0139a127](../bbugyi200.athena.toobig-c.split_file.src.sase.vcs_log.resolve.0139a127/README.md) | toobig-c.split\_file hood | dismissed |

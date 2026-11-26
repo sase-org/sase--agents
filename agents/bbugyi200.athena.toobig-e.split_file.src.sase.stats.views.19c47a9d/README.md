@@ -17,4 +17,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-e.split\_file.src.sase.bead.cli\_work\_from\_plan.85ac2829](../bbugyi200.athena.toobig-e.split_file.src.sase.bead.cli_work_from_plan.85ac2829/README.md) | toobig-e.split\_file.src.sase hood | active |
+| [toobig-e.split\_file.src.sase.bead.cli\_work\_from\_plan.85ac2829](../bbugyi200.athena.toobig-e.split_file.src.sase.bead.cli_work_from_plan.85ac2829/README.md) | toobig-e.split\_file.src.sase hood | dismissed |

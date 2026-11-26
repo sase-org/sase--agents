@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-b](../../users/bbugyi200/machines/athena/hoods/toobig-b/README.md) / toobig-b.split\_file.src.sase.llm\_provider.config.e78af9ff
 
-**Global name:** `bbugyi200.athena.toobig-b.split_file.src.sase.llm_provider.config.e78af9ff` · **State:** active · **Source run:** `run-41d2024ff1810965d67e817f578630a5`
+**Global name:** `bbugyi200.athena.toobig-b.split_file.src.sase.llm_provider.config.e78af9ff` · **State:** dismissed · **Source run:** `run-41d2024ff1810965d67e817f578630a5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-b
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-21T15:40:19.152394+00:00
+- Timing: 2026-07-21T11:40:19.152394 → 2026-07-21T12:12:36.160951
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7b53972`](https://github.com/sase-org/sase/commit/7b53972e0b4f5f87b0ee5781fdf3fd1e92491b71) | refactor(llm-provider): split model alias configuration | 2026-07-21 12:11:57 EDT |
+| — | `7b53972` | refactor(llm-provider): split model alias configuration | 2026-07-21 12:11:57 EDT |
 
 ## Neighbors
 
