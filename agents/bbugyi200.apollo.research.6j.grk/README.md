@@ -12,17 +12,36 @@
 - Provider: grok
 - Timing: 2026-11-26T14:31:07.606945+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/questions\_gate\_copy\_palette/questions\_gate\_copy\_palette\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261126092846/questions\_gate\_copy… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/questions_gate_copy_palette/questions_gate_copy_palette__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261126092846/questions_gate_copy_palette__grk-3fa572532f1c.md
+  ref: file:explicit:406e788a0fc8db39b2cc0ecb
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202611/questions_gate_copy_palette/questions_gate_copy_palette__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.6j.cdx](../bbugyi200.apollo.research.6j.cdx/README.md) | research.6j hood | completed |
-| [research.6j.cld](../bbugyi200.apollo.research.6j.cld/README.md) | research.6j hood | active |
+| [research.6j.cld](../bbugyi200.apollo.research.6j.cld/README.md) | research.6j hood | completed |
 | [research.6j.final](../bbugyi200.apollo.research.6j.final/README.md) | research.6j hood | waiting |
 | [research.6j.gem](../bbugyi200.apollo.research.6j.gem/README.md) | research.6j hood | active |
 | [research.6j.image](../bbugyi200.apollo.research.6j.image/README.md) | research.6j hood | waiting |
