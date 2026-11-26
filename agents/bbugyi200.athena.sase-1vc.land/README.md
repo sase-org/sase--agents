@@ -24,4 +24,4 @@
 |---|---|---|
 | [sase-1vc.1](../bbugyi200.athena.sase-1vc.1/README.md) | sase-1vc hood | completed |
 | [sase-1vc.2](../bbugyi200.athena.sase-1vc.2/README.md) | sase-1vc hood | completed |
-| [sase-1vc.3](../bbugyi200.athena.sase-1vc.3/README.md) | sase-1vc hood | active |
+| [sase-1vc.3](../bbugyi200.athena.sase-1vc.3/README.md) | sase-1vc hood | completed |

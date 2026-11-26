@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b1f0afa6ba3e6793e01bb769052fa73d"}
+{"commits":[{"committed_at":1795698945,"sha":"45a205c5490f0a2624319f1fcddf0ba53bb5a5d5","subject":"fix(monitor): preserve starter workspace for scratch monitors"}],"schema_version":2,"source_run_id":"run-b1f0afa6ba3e6793e01bb769052fa73d"}
