@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6j.gem
 
-**Global name:** `bbugyi200.apollo.research.6j.gem` · **State:** active · **Source run:** `run-31e63aed82aece7ff953901c12fec84f`
+**Global name:** `bbugyi200.apollo.research.6j.gem` · **State:** completed · **Source run:** `run-31e63aed82aece7ff953901c12fec84f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-neon-xhigh
 - Provider: agy
-- Timing: 2026-11-26T14:32:18.768628+00:00
+- Timing: 2026-11-26T14:32:18.768628+00:00 → 2026-11-26T14:46:14.702477+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/question\_gate\_copy\_panel\_design\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261126092848/question\_gate\_copy\_panel\_design\_\_gem-e83c1b… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/question_gate_copy_panel_design__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261126092848/question_gate_copy_panel_design__gem-e83c1bc096d1.md
+  ref: file:explicit:5569d529bc6c0de627863e7e
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202611/question_gate_copy_panel_design__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.6j.cdx](../bbugyi200.apollo.research.6j.cdx/README.md) | research.6j hood | completed |
 | [research.6j.cld](../bbugyi200.apollo.research.6j.cld/README.md) | research.6j hood | completed |
 | [research.6j.final](../bbugyi200.apollo.research.6j.final/README.md) | research.6j hood | waiting |
-| [research.6j.grk](../bbugyi200.apollo.research.6j.grk/README.md) | research.6j hood | active |
+| [research.6j.grk](../bbugyi200.apollo.research.6j.grk/README.md) | research.6j hood | completed |
 | [research.6j.image](../bbugyi200.apollo.research.6j.image/README.md) | research.6j hood | waiting |
 | [research.6j.linker](../bbugyi200.apollo.research.6j.linker/README.md) | research.6j hood | waiting |
 | [research.6j.mus](../bbugyi200.apollo.research.6j.mus/README.md) | research.6j hood | completed |
