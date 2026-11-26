@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `ut` · Members: 2
 ```mermaid
 flowchart TD
   n0["ut--code [completed]"]
-  n1["ut--plan [active]"]
+  n1["ut--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | ut--code | completed | sonnet / claude | 2026-08-07T17:19:36.392142+00:00 | [1](../agents/bbugyi200.athena.ut--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.ut--code/chat.md) |
-| <a id="member-plan"></a>plan | ut--plan | active | opus / claude | 2026-08-07T17:04:01.942770+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ut--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ut--plan/chat.md) |
+| <a id="member-plan"></a>plan | ut--plan | dismissed | opus / claude | 2026-08-07T13:04:01.942770 → 2026-08-07T13:38:58.397802 | 0 | [Prompt](../agents/bbugyi200.athena.ut--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ut--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4c7c635`](https://github.com/sase-org/sase/commit/4c7c635d2db3b6b882a8f1844c4153771d73dc91) | fix(agent): stop swarm expansion splicing VCS refs into multi-line %clan(...) directives | 2026-08-07 13:31:35 EDT |
+| code | — | `4c7c635` | fix(agent): stop swarm expansion splicing VCS refs into multi-line %clan(...) directives | 2026-08-07 13:31:35 EDT |

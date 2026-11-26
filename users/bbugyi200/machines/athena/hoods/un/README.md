@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / un
 
-**Global hood:** `bbugyi200.athena.un` · **Runs:** 4 · **Sessions:** 2 · **States:** active 2, completed 2
+**Global hood:** `bbugyi200.athena.un` · **Runs:** 4 · **Sessions:** 2 · **States:** completed 2, dismissed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [un--code](../../../../../../sessions/bbugyi200.athena.un.md#member-code) | completed | sonnet / claude | 2026-08-07T13:38:35.837028+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.un--code/chat.md) |
-| [un--plan](../../../../../../sessions/bbugyi200.athena.un.md#member-plan) | active | opus / claude | 2026-08-07T13:26:26.276348+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.un--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.un--plan/prompt.md) |
+| [un--plan](../../../../../../sessions/bbugyi200.athena.un.md#member-plan) | dismissed | opus / claude | 2026-08-07T09:26:26.276348 → 2026-08-07T10:27:39.449588 | 0 | [chat](../../../../../../agents/bbugyi200.athena.un--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.un--plan/prompt.md) |
 | [un.w0--code](../../../../../../sessions/bbugyi200.athena.un.w0.md#member-code) | completed | sonnet / claude | 2026-08-07T14:40:11.472097+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.un.w0--code/chat.md) |
-| [un.w0--plan](../../../../../../sessions/bbugyi200.athena.un.w0.md#member-plan) | active | opus / claude | 2026-08-07T14:28:26.574522+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.un.w0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.un.w0--plan/prompt.md) |
+| [un.w0--plan](../../../../../../sessions/bbugyi200.athena.un.w0.md#member-plan) | dismissed | opus / claude | 2026-08-07T10:28:26.574522 → 2026-08-07T11:11:49.344455 | 0 | [chat](../../../../../../agents/bbugyi200.athena.un.w0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.un.w0--plan/prompt.md) |

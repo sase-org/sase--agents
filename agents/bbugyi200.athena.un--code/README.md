@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ca08ae`](https://github.com/sase-org/sase/commit/7ca08ae0ef47d67051f3965d20e35e9b935d87d0) | fix(bead): render a bead's Notes section only when it has notes | 2026-08-07 10:25:17 EDT |
+| — | `7ca08ae` | fix(bead): render a bead's Notes section only when it has notes | 2026-08-07 10:25:17 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [un.w0](../../sessions/bbugyi200.athena.un.w0.md) (session · 2) | descendant | active 1, completed 1 |
+| [un.w0](../../sessions/bbugyi200.athena.un.w0.md) (session · 2) | descendant | completed 1, dismissed 1 |

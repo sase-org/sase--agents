@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `un` · Members: 2
 ```mermaid
 flowchart TD
   n0["un--code [completed]"]
-  n1["un--plan [active]"]
+  n1["un--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,16 +18,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | un--code | completed | sonnet / claude | 2026-08-07T13:38:35.837028+00:00 | [1](../agents/bbugyi200.athena.un--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.un--code/chat.md) |
-| <a id="member-plan"></a>plan | un--plan | active | opus / claude | 2026-08-07T13:26:26.276348+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.un--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.un--plan/chat.md) |
+| <a id="member-plan"></a>plan | un--plan | dismissed | opus / claude | 2026-08-07T09:26:26.276348 → 2026-08-07T10:27:39.449588 | 0 | [Prompt](../agents/bbugyi200.athena.un--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.un--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7ca08ae`](https://github.com/sase-org/sase/commit/7ca08ae0ef47d67051f3965d20e35e9b935d87d0) | fix(bead): render a bead's Notes section only when it has notes | 2026-08-07 10:25:17 EDT |
+| code | — | `7ca08ae` | fix(bead): render a bead's Notes section only when it has notes | 2026-08-07 10:25:17 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [un.w0](bbugyi200.athena.un.w0.md) (session · 2) | descendant | active 1, completed 1 |
+| [un.w0](bbugyi200.athena.un.w0.md) (session · 2) | descendant | completed 1, dismissed 1 |
