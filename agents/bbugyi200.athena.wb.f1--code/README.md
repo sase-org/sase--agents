@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a2ebe06`](https://github.com/sase-org/sase/commit/a2ebe065a927529da472f95b127e52959f0ed75a) | docs: refine new task duplicate search guidance | 2026-08-09 09:19:37 EDT |
+| — | `a2ebe06` | docs: refine new task duplicate search guidance | 2026-08-09 09:19:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [wb](../../sessions/bbugyi200.athena.wb.md) (session · 2) | ancestor | active 1, completed 1 |
+| [wb](../../sessions/bbugyi200.athena.wb.md) (session · 2) | ancestor | completed 1, dismissed 1 |
