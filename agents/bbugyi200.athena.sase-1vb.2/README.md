@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-1vb.1](../bbugyi200.athena.sase-1vb.1/README.md) | sase-1vb hood | completed |
 | [sase-1vb.3](../bbugyi200.athena.sase-1vb.3/README.md) | sase-1vb hood | completed |
-| [sase-1vb.4](../bbugyi200.athena.sase-1vb.4/README.md) | sase-1vb hood | active |
+| [sase-1vb.4](../bbugyi200.athena.sase-1vb.4/README.md) | sase-1vb hood | completed |
 | [sase-1vb.5](../bbugyi200.athena.sase-1vb.5/README.md) | sase-1vb hood | waiting |
 | [sase-1vb.6](../bbugyi200.athena.sase-1vb.6/README.md) | sase-1vb hood | waiting |
 | [sase-1vb.land](../bbugyi200.athena.sase-1vb.land/README.md) | sase-1vb hood | waiting |
