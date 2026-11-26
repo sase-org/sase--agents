@@ -2,9 +2,9 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / ud
 
-**Global hood:** `bbugyi200.athena.ud` · **Runs:** 2 · **Sessions:** 1 · **States:** active 1, completed 1
+**Global hood:** `bbugyi200.athena.ud` · **Runs:** 2 · **Sessions:** 1 · **States:** completed 1, dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [ud--code](../../../../../../sessions/bbugyi200.athena.ud.md#member-code) | completed | sonnet / claude | 2026-08-06T19:48:44.625276+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.ud--code/chat.md) |
-| [ud--plan](../../../../../../sessions/bbugyi200.athena.ud.md#member-plan) | active | opus / claude | 2026-08-06T19:36:51.001649+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.ud--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.ud--plan/prompt.md) |
+| [ud--plan](../../../../../../sessions/bbugyi200.athena.ud.md#member-plan) | dismissed | opus / claude | 2026-08-06T15:36:51.001649 → 2026-08-06T16:44:58.780960 | 0 | [chat](../../../../../../agents/bbugyi200.athena.ud--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.ud--plan/prompt.md) |
