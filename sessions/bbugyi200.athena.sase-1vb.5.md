@@ -49,5 +49,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1vb.2](../agents/bbugyi200.athena.sase-1vb.2/README.md) | sase-1vb hood | completed |
 | [sase-1vb.3](../agents/bbugyi200.athena.sase-1vb.3/README.md) | sase-1vb hood | completed |
 | [sase-1vb.4](../agents/bbugyi200.athena.sase-1vb.4/README.md) | sase-1vb hood | completed |
-| [sase-1vb.6](bbugyi200.athena.sase-1vb.6.md) (session · 1) | sase-1vb hood | active 1 |
-| [sase-1vb.land](../agents/bbugyi200.athena.sase-1vb.land/README.md) | sase-1vb hood | waiting |
+| [sase-1vb.6](bbugyi200.athena.sase-1vb.6.md) (session · 11) | sase-1vb hood | completed 7, failed 4 |
+| [sase-1vb.land](../agents/bbugyi200.athena.sase-1vb.land/README.md) | sase-1vb hood | completed |
