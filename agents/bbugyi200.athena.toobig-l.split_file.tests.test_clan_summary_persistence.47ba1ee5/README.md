@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`58279cc`](https://github.com/sase-org/sase/commit/58279cc8f5c99406dc6b510f6b94f31d1324bfde) | test: split clan summary persistence coverage | 2026-07-22 16:55:17 EDT |
+| — | `58279cc` | test: split clan summary persistence coverage | 2026-07-22 16:55:17 EDT |
 
 ## Neighbors
 
@@ -32,5 +32,5 @@
 | [toobig-l.split\_file.tests.sdd\_store.test\_sidecar\_init.0a46c493](../bbugyi200.athena.toobig-l.split_file.tests.sdd_store.test_sidecar_init.0a46c493/README.md) | toobig-l.split\_file.tests hood | dismissed |
 | [toobig-l.split\_file.tests.test\_agent\_loader\_dedup\_pid.79988f71](../bbugyi200.athena.toobig-l.split_file.tests.test_agent_loader_dedup_pid.79988f71/README.md) | toobig-l.split\_file.tests hood | dismissed |
 | [toobig-l.split\_file.tests.test\_config\_edit.d5cb3504](../bbugyi200.athena.toobig-l.split_file.tests.test_config_edit.d5cb3504/README.md) | toobig-l.split\_file.tests hood | dismissed |
-| [toobig-l.split\_file.src.sase.ace.tui.modals.axe\_entry\_editor\_modal.d329226c](../bbugyi200.athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c/README.md) | toobig-l.split\_file hood | active |
+| [toobig-l.split\_file.src.sase.ace.tui.modals.axe\_entry\_editor\_modal.d329226c](../bbugyi200.athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c/README.md) | toobig-l.split\_file hood | dismissed |
 | [toobig-l.split\_file.src.sase.main.repo\_init\_handler.49591c03](../bbugyi200.athena.toobig-l.split_file.src.sase.main.repo_init_handler.49591c03/README.md) | toobig-l.split\_file hood | dismissed |

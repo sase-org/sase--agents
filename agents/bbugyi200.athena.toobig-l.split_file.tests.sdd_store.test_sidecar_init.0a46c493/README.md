@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87a89f0`](https://github.com/sase-org/sase/commit/87a89f028b4054f2bda2f2765be75baef18cf112) | test: split sidecar initialization coverage | 2026-07-22 16:24:26 EDT |
+| — | `87a89f0` | test: split sidecar initialization coverage | 2026-07-22 16:24:26 EDT |
 
 ## Neighbors
 
@@ -32,5 +32,5 @@
 | [toobig-l.split\_file.tests.test\_agent\_loader\_dedup\_pid.79988f71](../bbugyi200.athena.toobig-l.split_file.tests.test_agent_loader_dedup_pid.79988f71/README.md) | toobig-l.split\_file.tests hood | dismissed |
 | [toobig-l.split\_file.tests.test\_clan\_summary\_persistence.47ba1ee5](../bbugyi200.athena.toobig-l.split_file.tests.test_clan_summary_persistence.47ba1ee5/README.md) | toobig-l.split\_file.tests hood | dismissed |
 | [toobig-l.split\_file.tests.test\_config\_edit.d5cb3504](../bbugyi200.athena.toobig-l.split_file.tests.test_config_edit.d5cb3504/README.md) | toobig-l.split\_file.tests hood | dismissed |
-| [toobig-l.split\_file.src.sase.ace.tui.modals.axe\_entry\_editor\_modal.d329226c](../bbugyi200.athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c/README.md) | toobig-l.split\_file hood | active |
+| [toobig-l.split\_file.src.sase.ace.tui.modals.axe\_entry\_editor\_modal.d329226c](../bbugyi200.athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c/README.md) | toobig-l.split\_file hood | dismissed |
 | [toobig-l.split\_file.src.sase.main.repo\_init\_handler.49591c03](../bbugyi200.athena.toobig-l.split_file.src.sase.main.repo_init_handler.49591c03/README.md) | toobig-l.split\_file hood | dismissed |

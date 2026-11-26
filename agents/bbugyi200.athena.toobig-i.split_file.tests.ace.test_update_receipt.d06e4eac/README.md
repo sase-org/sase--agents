@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d476196`](https://github.com/sase-org/sase/commit/d476196b63937321620a130f83ef10a2ff012f79) | test(ace): split update receipt tests | 2026-07-22 11:13:51 EDT |
+| — | `d476196` | test(ace): split update receipt tests | 2026-07-22 11:13:51 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-i.split\_file.tests.dev\_update.test\_execute.2307f0ee](../bbugyi200.athena.toobig-i.split_file.tests.dev_update.test_execute.2307f0ee/README.md) | toobig-i.split\_file.tests hood | dismissed |
-| [toobig-i.split\_file.src.sase.ace.tui.actions.update\_toast.a896d302](../bbugyi200.athena.toobig-i.split_file.src.sase.ace.tui.actions.update_toast.a896d302/README.md) | toobig-i.split\_file hood | active |
+| [toobig-i.split\_file.src.sase.ace.tui.actions.update\_toast.a896d302](../bbugyi200.athena.toobig-i.split_file.src.sase.ace.tui.actions.update_toast.a896d302/README.md) | toobig-i.split\_file hood | dismissed |

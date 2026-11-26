@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-l
 
-**Global hood:** `bbugyi200.athena.toobig-l` · **Runs:** 8 · **Sessions:** 0 · **States:** active 1, dismissed 7
+**Global hood:** `bbugyi200.athena.toobig-l` · **Runs:** 8 · **Sessions:** 0 · **States:** dismissed 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -13,4 +13,4 @@
 | [toobig-l.split\_file.src.sase.main.repo\_init\_handler.49591c03](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.src.sase.main.repo_init_handler.49591c03/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-22T15:10:51.807522 → 2026-07-22T15:35:19.783031 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.src.sase.main.repo_init_handler.49591c03/chat.md) |
 | [toobig-l.split\_file.tests.main.test\_repo\_init\_handler.3b46bb87](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.tests.main.test_repo_init_handler.3b46bb87/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-22T15:56:18.569590 → 2026-07-22T16:14:09.270766 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.tests.main.test_repo_init_handler.3b46bb87/chat.md) |
 | [toobig-l.split\_file.tests.test\_agent\_loader\_dedup\_pid.79988f71](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.tests.test_agent_loader_dedup_pid.79988f71/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-22T16:24:43.172704 → 2026-07-22T16:45:48.726024 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.tests.test_agent_loader_dedup_pid.79988f71/chat.md) |
-| [toobig-l.split\_file.src.sase.ace.tui.modals.axe\_entry\_editor\_modal.d329226c](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c/README.md) | active | gpt-5.6-sol / codex | 2026-07-22T18:51:38.213553+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c/prompt.md) |
+| [toobig-l.split\_file.src.sase.ace.tui.modals.axe\_entry\_editor\_modal.d329226c](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-22T14:51:38.213553 → 2026-07-22T15:10:39.261135 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c/prompt.md) |

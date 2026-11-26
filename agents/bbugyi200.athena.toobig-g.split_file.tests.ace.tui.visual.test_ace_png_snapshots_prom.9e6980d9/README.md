@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`59dba9f`](https://github.com/sase-org/sase/commit/59dba9fa5002c4fe2f5cc02bc48889c638fe35a2) | test: split prompt visual snapshots by concern | 2026-07-22 09:17:13 EDT |
+| — | `59dba9f` | test: split prompt visual snapshots by concern | 2026-07-22 09:17:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-g.split\_file.tests.ace.tui.test\_config\_pane\_widget.0cf893ff](../bbugyi200.athena.toobig-g.split_file.tests.ace.tui.test_config_pane_widget.0cf893ff/README.md) | toobig-g.split\_file.tests.ace.tui hood | active |
+| [toobig-g.split\_file.tests.ace.tui.test\_config\_pane\_widget.0cf893ff](../bbugyi200.athena.toobig-g.split_file.tests.ace.tui.test_config_pane_widget.0cf893ff/README.md) | toobig-g.split\_file.tests.ace.tui hood | dismissed |
