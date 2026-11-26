@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1vh.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1vh_land__plan-261126_144750.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1vh_land__code-261126_144750.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/launch_lookup_logging_closeout.md
 
 

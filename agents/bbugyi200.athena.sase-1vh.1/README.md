@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-1vh.2](../bbugyi200.athena.sase-1vh.2/README.md) | sase-1vh hood | completed |
 | [sase-1vh.3](../bbugyi200.athena.sase-1vh.3/README.md) | sase-1vh hood | completed |
-| [sase-1vh.land](../../sessions/bbugyi200.athena.sase-1vh.land.md) (session · 3) | sase-1vh hood | active 2, completed 1 |
+| [sase-1vh.land](../../sessions/bbugyi200.athena.sase-1vh.land.md) (session · 3) | sase-1vh hood | completed 3 |
