@@ -2,9 +2,9 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / tv
 
-**Global hood:** `bbugyi200.athena.tv` · **Runs:** 2 · **Sessions:** 1 · **States:** active 1, completed 1
+**Global hood:** `bbugyi200.athena.tv` · **Runs:** 2 · **Sessions:** 1 · **States:** completed 1, dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [tv--plan](../../../../../../sessions/bbugyi200.athena.tv.md#member-plan) | active | opus / claude | 2026-08-06T12:06:25.676128+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.tv--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.tv--plan/prompt.md) |
+| [tv--plan](../../../../../../sessions/bbugyi200.athena.tv.md#member-plan) | dismissed | opus / claude | 2026-08-06T08:06:25.676128 → 2026-08-06T09:17:03.119603 | 0 | [chat](../../../../../../agents/bbugyi200.athena.tv--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.tv--plan/prompt.md) |
 | [tv--code](../../../../../../sessions/bbugyi200.athena.tv.md#member-code) | completed | sonnet / claude | 2026-08-06T12:16:41.433266+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.tv--code/chat.md) |

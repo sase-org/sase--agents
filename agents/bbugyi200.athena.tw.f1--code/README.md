@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [tw](../../sessions/bbugyi200.athena.tw.md) (session · 2) | ancestor | active 1, completed 1 |
-| [tw.f0](../bbugyi200.athena.tw.f0/README.md) | tw hood | active |
+| [tw](../../sessions/bbugyi200.athena.tw.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [tw.f0](../bbugyi200.athena.tw.f0/README.md) | tw hood | dismissed |

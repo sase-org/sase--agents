@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e0acf80`](https://github.com/sase-org/sase/commit/e0acf8097775a472cb8d47e2d4b25a8cbd6aadc1) | fix(tests): stop a contract test from leaking TMPDIR across its xdist worker | 2026-08-06 09:09:08 EDT |
+| — | `e0acf80` | fix(tests): stop a contract test from leaking TMPDIR across its xdist worker | 2026-08-06 09:09:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [tw.f0](../bbugyi200.athena.tw.f0/README.md) | descendant | active |
-| [tw.f1](../../sessions/bbugyi200.athena.tw.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [tw.f0](../bbugyi200.athena.tw.f0/README.md) | descendant | dismissed |
+| [tw.f1](../../sessions/bbugyi200.athena.tw.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
