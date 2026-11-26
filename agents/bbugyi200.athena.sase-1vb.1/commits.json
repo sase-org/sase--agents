@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1795693836,"sha":"9bdc6046ab9d67725832c0a910fd606b0b4f3894","subject":"fix(release-steward): send Rust the exact release-asset wire shape"}],"schema_version":2,"source_run_id":"run-8634cde3ba4cc6f7098155800e904876"}

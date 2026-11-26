@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1795693762,"sha":"a52d4328e6878bdf243d0161a6b243a1aba1cbc6","subject":"fix(perf): bootstrap sys.path in bench_bead.py and add static guard"}],"schema_version":2,"source_run_id":"run-41c16057fb8daf968c4d69cb38df7f15"}
