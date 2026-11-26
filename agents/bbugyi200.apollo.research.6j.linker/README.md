@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6j.linker
 
-**Global name:** `bbugyi200.apollo.research.6j.linker` · **State:** waiting · **Source run:** `run-6d6ce51b9385f98095c884176ebae747`
+**Global name:** `bbugyi200.apollo.research.6j.linker` · **State:** completed · **Source run:** `run-6d6ce51b9385f98095c884176ebae747`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261126092851
+- Timing: 2026-11-26T15:09:32.285388+00:00 → 2026-11-26T15:17:14.529018+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/question\_copy\_items/question\_copy\_items.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261126092851/question\_copy\_items-68bb7fc24151.md, ref… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/question_copy_items/question_copy_items.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261126092851/question_copy_items-68bb7fc24151.md
+  ref: file:explicit:b3189b064147ffb439d5f887
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/question_copy_items/question_copy_items.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
