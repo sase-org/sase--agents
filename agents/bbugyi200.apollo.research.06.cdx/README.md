@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`38c886f`](https://github.com/sase-org/sase/commit/38c886f18eeaba38b0dcfaec3f4966deec8635ad) | docs: research xprompt reasoning effort | 2026-06-22 12:36:12 EDT |
+| — | `38c886f` | docs: research xprompt reasoning effort | 2026-06-22 12:36:12 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60b55cc`](https://github.com/sase-org/sase/commit/60b55cc812cf5b7adf344da27488bdbbf9320df1) | docs: add TUI slowdown infographic | 2026-06-25 06:51:04 EDT |
+| — | `60b55cc` | docs: add TUI slowdown infographic | 2026-06-25 06:51:04 EDT |
 
 ## Neighbors
 
