@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ui](../../users/bbugyi200/machines/athena/hoods/ui/README.md) / ui.w1
 
-**Global name:** `bbugyi200.athena.ui.w1` · **State:** active · **Source run:** `run-2d81d454206805c71103c4bb027a3c7b`
+**Global name:** `bbugyi200.athena.ui.w1` · **State:** dismissed · **Source run:** `run-2d81d454206805c71103c4bb027a3c7b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** ui
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-07T14:16:30.702273+00:00
+- Timing: 2026-08-07T10:16:30.702273 → 2026-08-07T10:28:25.435974
 - Commits: 0
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [ui](../../sessions/bbugyi200.athena.ui.md) (session · 2) | ancestor | active 1, completed 1 |
+| [ui](../../sessions/bbugyi200.athena.ui.md) (session · 2) | ancestor | completed 1, dismissed 1 |
