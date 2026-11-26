@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `v1` · Members: 2
 ```mermaid
 flowchart TD
   n0["v1.f1--code [completed]"]
-  n1["v1.f1--plan [active]"]
+  n1["v1.f1--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,17 +18,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | v1.f1--code | completed | sonnet / claude | 2026-08-07T21:38:34.780054+00:00 | [1](../agents/bbugyi200.athena.v1.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.v1.f1--code/chat.md) |
-| <a id="member-plan"></a>plan | v1.f1--plan | active | opus / claude | 2026-08-07T21:27:20.494494+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.v1.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.v1.f1--plan/chat.md) |
+| <a id="member-plan"></a>plan | v1.f1--plan | dismissed | opus / claude | 2026-08-07T17:27:20.494494 → 2026-08-07T17:52:37.659057 | 0 | [Prompt](../agents/bbugyi200.athena.v1.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.v1.f1--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`0c08406`](https://github.com/sase-org/sase/commit/0c084068cfa7247123d4a9bc96d372ef620ac6bd) | revert(memory): drop stale-core sentence from build\_and\_run.md | 2026-08-07 17:49:36 EDT |
+| code | — | `0c08406` | revert(memory): drop stale-core sentence from build\_and\_run.md | 2026-08-07 17:49:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [v1](bbugyi200.athena.v1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [v1.f0](../agents/bbugyi200.athena.v1.f0/README.md) | v1 hood | waiting |
+| [v1](bbugyi200.athena.v1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [v1.f0](../agents/bbugyi200.athena.v1.f0/README.md) | v1 hood | dismissed |

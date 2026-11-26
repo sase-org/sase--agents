@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5a039ef`](https://github.com/sase-org/sase/commit/5a039ef149805f3d5bde7465b9c23c0050dc8bc9) | fix(deps): fail loudly when the built sase\_core\_rs is behind the pyproject floor | 2026-08-07 17:24:16 EDT |
+| — | `5a039ef` | fix(deps): fail loudly when the built sase\_core\_rs is behind the pyproject floor | 2026-08-07 17:24:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [v1.f0](../bbugyi200.athena.v1.f0/README.md) | descendant | waiting |
-| [v1.f1](../../sessions/bbugyi200.athena.v1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [v1.f0](../bbugyi200.athena.v1.f0/README.md) | descendant | dismissed |
+| [v1.f1](../../sessions/bbugyi200.athena.v1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

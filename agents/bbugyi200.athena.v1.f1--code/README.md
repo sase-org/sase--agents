@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0c08406`](https://github.com/sase-org/sase/commit/0c084068cfa7247123d4a9bc96d372ef620ac6bd) | revert(memory): drop stale-core sentence from build\_and\_run.md | 2026-08-07 17:49:36 EDT |
+| — | `0c08406` | revert(memory): drop stale-core sentence from build\_and\_run.md | 2026-08-07 17:49:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [v1](../../sessions/bbugyi200.athena.v1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [v1.f0](../bbugyi200.athena.v1.f0/README.md) | v1 hood | waiting |
+| [v1](../../sessions/bbugyi200.athena.v1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [v1.f0](../bbugyi200.athena.v1.f0/README.md) | v1 hood | dismissed |

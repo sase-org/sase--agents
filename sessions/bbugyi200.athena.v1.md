@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `v1` · Members: 2
 ```mermaid
 flowchart TD
   n0["v1--code [completed]"]
-  n1["v1--plan [active]"]
+  n1["v1--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,17 +18,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | v1--code | completed | sonnet / claude | 2026-08-07T20:53:21.822716+00:00 | [1](../agents/bbugyi200.athena.v1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.v1--code/chat.md) |
-| <a id="member-plan"></a>plan | v1--plan | active | opus / claude | 2026-08-07T20:13:18.782111+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.v1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.v1--plan/chat.md) |
+| <a id="member-plan"></a>plan | v1--plan | dismissed | opus / claude | 2026-08-07T16:13:18.782111 → 2026-08-07T17:27:11.343737 | 0 | [Prompt](../agents/bbugyi200.athena.v1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.v1--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`5a039ef`](https://github.com/sase-org/sase/commit/5a039ef149805f3d5bde7465b9c23c0050dc8bc9) | fix(deps): fail loudly when the built sase\_core\_rs is behind the pyproject floor | 2026-08-07 17:24:16 EDT |
+| code | — | `5a039ef` | fix(deps): fail loudly when the built sase\_core\_rs is behind the pyproject floor | 2026-08-07 17:24:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [v1.f0](../agents/bbugyi200.athena.v1.f0/README.md) | descendant | waiting |
-| [v1.f1](bbugyi200.athena.v1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [v1.f0](../agents/bbugyi200.athena.v1.f0/README.md) | descendant | dismissed |
+| [v1.f1](bbugyi200.athena.v1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
