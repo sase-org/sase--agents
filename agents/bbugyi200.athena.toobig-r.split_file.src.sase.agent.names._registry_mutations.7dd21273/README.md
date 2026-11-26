@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-r](../../users/bbugyi200/machines/athena/hoods/toobig-r/README.md) / toobig-r.split\_file.src.sase.agent.names.\_registry\_mutations.7dd21273
 
-**Global name:** `bbugyi200.athena.toobig-r.split_file.src.sase.agent.names._registry_mutations.7dd21273` · **State:** active · **Source run:** `run-2042aea970a04fe7e81214363ef171bf`
+**Global name:** `bbugyi200.athena.toobig-r.split_file.src.sase.agent.names._registry_mutations.7dd21273` · **State:** dismissed · **Source run:** `run-2042aea970a04fe7e81214363ef171bf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-r
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-24T18:28:42.300316+00:00
+- Timing: 2026-07-24T14:28:42.300316 → 2026-07-24T14:40:02.711025
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5787f08`](https://github.com/sase-org/sase/commit/5787f08177e20299e84a7d506a44f98165a238d2) | refactor(agent-names): split registry mutation modules | 2026-07-24 14:39:41 EDT |
+| — | `5787f08` | refactor(agent-names): split registry mutation modules | 2026-07-24 14:39:41 EDT |
 
 ## Neighbors
 

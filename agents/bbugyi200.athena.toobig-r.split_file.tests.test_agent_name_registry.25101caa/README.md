@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6711092`](https://github.com/sase-org/sase/commit/6711092605c19d3953b526d6b42204eef998d250) | test: split agent name registry tests | 2026-07-24 15:22:45 EDT |
+| — | `6711092` | test: split agent name registry tests | 2026-07-24 15:22:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-r.split\_file.tests.test\_bead.test\_db.0e0c3bdd](../bbugyi200.athena.toobig-r.split_file.tests.test_bead.test_db.0e0c3bdd/README.md) | toobig-r.split\_file.tests hood | dismissed |
-| [toobig-r.split\_file.src.sase.agent.names.\_registry\_mutations.7dd21273](../bbugyi200.athena.toobig-r.split_file.src.sase.agent.names._registry_mutations.7dd21273/README.md) | toobig-r.split\_file hood | active |
+| [toobig-r.split\_file.src.sase.agent.names.\_registry\_mutations.7dd21273](../bbugyi200.athena.toobig-r.split_file.src.sase.agent.names._registry_mutations.7dd21273/README.md) | toobig-r.split\_file hood | dismissed |
 | [toobig-r.split\_file.src.sase.config.core.42c0c9ed](../bbugyi200.athena.toobig-r.split_file.src.sase.config.core.42c0c9ed/README.md) | toobig-r.split\_file hood | dismissed |
