@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6j.image
 
-**Global name:** `bbugyi200.apollo.research.6j.image` · **State:** waiting · **Source run:** `run-8bb2c20b1462b226cebb9b10cce5bd69`
+**Global name:** `bbugyi200.apollo.research.6j.image` · **State:** completed · **Source run:** `run-8bb2c20b1462b226cebb9b10cce5bd69`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,19 +10,20 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261126092850
+- Timing: 2026-11-26T14:58:15.324659+00:00 → 2026-11-26T15:09:08.985457+00:00
 - Commits: 0
-- Variables: [1](#variables)
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
 | Variable | Value |
 |---|---|
 | `artifacts` | \[{kind: image, label: image:202611/question\_copy\_items/question\_copy\_items\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261126092850/question\_copy\_items\_infographic-e… |
+| `diagrams` | {considered: 13, count: 2, manifest: 202611/question\_copy\_items/question\_copy\_items.diagrams.md, source\_ref: file:explicit:a70464b7e2d963e2f72fd302, status: ready} |
 
 #### artifacts
 
@@ -32,6 +33,21 @@
   path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261126092850/question_copy_items_infographic-e52218aa462c.png
   ref: file:explicit:5e48162a9b0425b3ec10bf2a
   source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/question_copy_items/question_copy_items_infographic.png
+- kind: markdown
+  label: diagrams:202611/question_copy_items/question_copy_items.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261126092850/question_copy_items.diagrams-66ae533c01aa.md
+  ref: file:explicit:fc35fc579eec849540888939
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/question_copy_items/question_copy_items.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 13
+count: 2
+manifest: 202611/question_copy_items/question_copy_items.diagrams.md
+source_ref: file:explicit:a70464b7e2d963e2f72fd302
+status: ready
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
