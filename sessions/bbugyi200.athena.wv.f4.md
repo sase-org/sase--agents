@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `wv` · Members: 2
 ```mermaid
 flowchart TD
   n0["wv.f4--code [completed]"]
-  n1["wv.f4--plan [active]"]
+  n1["wv.f4--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,20 +18,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | wv.f4--code | completed | gpt-5.5 / codex | 2026-08-10T16:00:29.742212+00:00 | [1](../agents/bbugyi200.athena.wv.f4--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.wv.f4--code/chat.md) |
-| <a id="member-plan"></a>plan | wv.f4--plan | active | opus / claude | 2026-08-10T15:52:14.243540+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.wv.f4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.wv.f4--plan/chat.md) |
+| <a id="member-plan"></a>plan | wv.f4--plan | dismissed | opus / claude | 2026-08-10T11:52:14.243540 → 2026-08-10T13:03:58.165251 | 0 | [Prompt](../agents/bbugyi200.athena.wv.f4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.wv.f4--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`012e1a8`](https://github.com/sase-org/sase/commit/012e1a88bc83cfa23e5505d791b149bc26d78765) | feat: add smarter model alias routing | 2026-08-10 13:02:12 EDT |
+| code | — | `012e1a8` | feat: add smarter model alias routing | 2026-08-10 13:02:12 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [wv](../agents/bbugyi200.athena.wv/README.md) | ancestor | active |
-| [wv.f4.f0](bbugyi200.athena.wv.f4.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [wv.f0](../agents/bbugyi200.athena.wv.f0/README.md) | wv hood | active |
-| [wv.f1](../agents/bbugyi200.athena.wv.f1/README.md) | wv hood | waiting |
-| [wv.f2](../agents/bbugyi200.athena.wv.f2/README.md) | wv hood | active |
+| [wv](../agents/bbugyi200.athena.wv/README.md) | ancestor | dismissed |
+| [wv.f4.f0](bbugyi200.athena.wv.f4.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [wv.f0](../agents/bbugyi200.athena.wv.f0/README.md) | wv hood | dismissed |
+| [wv.f1](../agents/bbugyi200.athena.wv.f1/README.md) | wv hood | dismissed |
+| [wv.f2](../agents/bbugyi200.athena.wv.f2/README.md) | wv hood | dismissed |

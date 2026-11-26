@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`012e1a8`](https://github.com/sase-org/sase/commit/012e1a88bc83cfa23e5505d791b149bc26d78765) | feat: add smarter model alias routing | 2026-08-10 13:02:12 EDT |
+| — | `012e1a8` | feat: add smarter model alias routing | 2026-08-10 13:02:12 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [wv](../bbugyi200.athena.wv/README.md) | ancestor | active |
-| [wv.f4.f0](../../sessions/bbugyi200.athena.wv.f4.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [wv.f0](../bbugyi200.athena.wv.f0/README.md) | wv hood | active |
-| [wv.f1](../bbugyi200.athena.wv.f1/README.md) | wv hood | waiting |
-| [wv.f2](../bbugyi200.athena.wv.f2/README.md) | wv hood | active |
+| [wv](../bbugyi200.athena.wv/README.md) | ancestor | dismissed |
+| [wv.f4.f0](../../sessions/bbugyi200.athena.wv.f4.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [wv.f0](../bbugyi200.athena.wv.f0/README.md) | wv hood | dismissed |
+| [wv.f1](../bbugyi200.athena.wv.f1/README.md) | wv hood | dismissed |
+| [wv.f2](../bbugyi200.athena.wv.f2/README.md) | wv hood | dismissed |

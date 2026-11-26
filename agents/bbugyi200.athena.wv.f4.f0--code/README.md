@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3420d12`](https://github.com/sase-org/sase/commit/3420d12113c623dbb517a1ae0917dcb2165383c1) | fix(ace): show shipped @smarter reference on default row's provenance tag | 2026-08-10 13:32:37 EDT |
+| — | `3420d12` | fix(ace): show shipped @smarter reference on default row's provenance tag | 2026-08-10 13:32:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [wv.f4](../../sessions/bbugyi200.athena.wv.f4.md) (session · 2) | ancestor | active 1, completed 1 |
-| [wv](../bbugyi200.athena.wv/README.md) | ancestor | active |
-| [wv.f0](../bbugyi200.athena.wv.f0/README.md) | wv hood | active |
-| [wv.f1](../bbugyi200.athena.wv.f1/README.md) | wv hood | waiting |
-| [wv.f2](../bbugyi200.athena.wv.f2/README.md) | wv hood | active |
+| [wv.f4](../../sessions/bbugyi200.athena.wv.f4.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [wv](../bbugyi200.athena.wv/README.md) | ancestor | dismissed |
+| [wv.f0](../bbugyi200.athena.wv.f0/README.md) | wv hood | dismissed |
+| [wv.f1](../bbugyi200.athena.wv.f1/README.md) | wv hood | dismissed |
+| [wv.f2](../bbugyi200.athena.wv.f2/README.md) | wv hood | dismissed |
