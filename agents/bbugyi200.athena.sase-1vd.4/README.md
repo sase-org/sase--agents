@@ -25,8 +25,8 @@
 |---|---|---|
 | [sase-1vd.1](../bbugyi200.athena.sase-1vd.1/README.md) | sase-1vd hood | completed |
 | [sase-1vd.2](../bbugyi200.athena.sase-1vd.2/README.md) | sase-1vd hood | completed |
-| [sase-1vd.3](../bbugyi200.athena.sase-1vd.3/README.md) | sase-1vd hood | waiting |
+| [sase-1vd.3](../../sessions/bbugyi200.athena.sase-1vd.3.md) (session · 2) | sase-1vd hood | active 2 |
 | [sase-1vd.5](../bbugyi200.athena.sase-1vd.5/README.md) | sase-1vd hood | waiting |
-| [sase-1vd.6](../bbugyi200.athena.sase-1vd.6/README.md) | sase-1vd hood | waiting |
+| [sase-1vd.6](../bbugyi200.athena.sase-1vd.6/README.md) | sase-1vd hood | completed |
 | [sase-1vd.7](../bbugyi200.athena.sase-1vd.7/README.md) | sase-1vd hood | waiting |
 | [sase-1vd.land](../bbugyi200.athena.sase-1vd.land/README.md) | sase-1vd hood | waiting |
