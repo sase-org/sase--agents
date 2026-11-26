@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3ad2e62`](https://github.com/sase-org/sase/commit/3ad2e624cea555e1cfac75b7c31a0d0a4b2d3152) | feat(memory): number inlined short-memory subsections | 2026-08-09 10:00:11 EDT |
+| — | `3ad2e62` | feat(memory): number inlined short-memory subsections | 2026-08-09 10:00:11 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [we](../bbugyi200.athena.we/README.md) | ancestor | active |
-| [we.f0.f0](../bbugyi200.athena.we.f0.f0/README.md) | descendant | waiting |
-| [we.f0.w0](../bbugyi200.athena.we.f0.w0/README.md) | descendant | waiting |
-| [we.f0.w1](../bbugyi200.athena.we.f0.w1/README.md) | descendant | active |
-| [we.f0.w2](../bbugyi200.athena.we.f0.w2/README.md) | descendant | active |
+| [we](../bbugyi200.athena.we/README.md) | ancestor | dismissed |
+| [we.f0.f0](../bbugyi200.athena.we.f0.f0/README.md) | descendant | dismissed |
+| [we.f0.w0](../bbugyi200.athena.we.f0.w0/README.md) | descendant | dismissed |
+| [we.f0.w1](../bbugyi200.athena.we.f0.w1/README.md) | descendant | dismissed |
+| [we.f0.w2](../bbugyi200.athena.we.f0.w2/README.md) | descendant | dismissed |
