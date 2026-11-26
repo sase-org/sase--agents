@@ -2,26 +2,29 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [1gt](../users/bbugyi200/machines/athena/hoods/1gt/README.md) / 1gt
 
-Owner: `bbugyi200.athena` · Hood: `1gt` · Members: 4
+Owner: `bbugyi200.athena` · Hood: `1gt` · Members: 5
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["1gt--mon [active]"]
-  n1["1gt--code [completed]"]
+  n0["1gt--mon [completed]"]
+  n1["1gt--1 [completed]"]
   n0 --> n1
-  n2["1gt--gate [completed]"]
+  n2["1gt--code [completed]"]
   n0 --> n2
-  n3["1gt--plan [completed]"]
+  n3["1gt--gate [completed]"]
   n0 --> n3
+  n4["1gt--plan [completed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | 1gt--mon | active | muse-spark-1.3-contributor / muse | 2026-11-26T19:59:57.434889+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | 1gt--mon | completed | muse-spark-1.3-contributor / muse | 2026-11-26T19:59:57.434889+00:00 → 2026-11-26T20:37:05.427045+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.1gt--mon/chat.md) |
+| <a id="member-1"></a>1 | 1gt--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T20:37:16.250047+00:00 → 2026-11-26T20:38:08.957584+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1gt--1/prompt.md) | [Chat](../agents/bbugyi200.athena.1gt--1/chat.md) |
 | <a id="member-code"></a>code | 1gt--code | completed | muse-spark-1.3-contributor / muse | 2026-11-26T19:46:19.955225+00:00 → 2026-11-26T20:09:46.307919+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1gt--code/prompt.md) | [Chat](../agents/bbugyi200.athena.1gt--code/chat.md) |
 | <a id="member-gate"></a>gate | 1gt--gate | completed | opus / claude | 2026-11-26T19:42:40.871981+00:00 → 2026-11-26T19:45:55.316321+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.1gt--gate/chat.md) |
 | <a id="member-plan"></a>plan | 1gt--plan | completed | opus / claude | 2026-11-26T19:26:57.206794+00:00 → 2026-11-26T19:41:51.157422+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1gt--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.1gt--plan/chat.md) |
@@ -30,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [1gt.w0](../agents/bbugyi200.athena.1gt.w0/README.md) | descendant | waiting |
+| [1gt.w0](bbugyi200.athena.1gt.w0.md) (session · 5) | descendant | completed 4, failed 1 |
