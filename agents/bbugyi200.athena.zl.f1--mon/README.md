@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [zl](../bbugyi200.athena.zl/README.md) | ancestor | active |
-| [zl.w0](../../sessions/bbugyi200.athena.zl.w0.md) (session · 3) | zl hood | active 1, completed 1, failed 1 |
-| [zl.w1](../bbugyi200.athena.zl.w1/README.md) | zl hood | active |
+| [zl](../bbugyi200.athena.zl/README.md) | ancestor | dismissed |
+| [zl.w0](../../sessions/bbugyi200.athena.zl.w0.md) (session · 3) | zl hood | completed 1, dismissed 1, failed 1 |
+| [zl.w1](../bbugyi200.athena.zl.w1/README.md) | zl hood | dismissed |

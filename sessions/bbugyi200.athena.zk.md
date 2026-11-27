@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `zk` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["zk--plan [active]"]
+  n0["zk--plan [dismissed]"]
   n1["zk--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | zk--plan | active | opus / claude | 2026-08-13T14:41:16.135976+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zk--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.zk--plan/chat.md) |
+| <a id="member-plan"></a>plan | zk--plan | dismissed | opus / claude | 2026-08-13T10:41:16.135976 → 2026-08-13T11:10:22.588861 | 0 | [Prompt](../agents/bbugyi200.athena.zk--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.zk--plan/chat.md) |
 | <a id="member-code"></a>code | zk--code | completed | gpt-5.5 / codex | 2026-08-13T14:50:42.291381+00:00 | [1](../agents/bbugyi200.athena.zk--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.zk--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`bce09f8`](https://github.com/sase-org/sase/commit/bce09f8bf57fb88410089c961da83850415bb1c3) | fix(tui): normalize queue duration timestamps | 2026-08-13 11:07:49 EDT |
+| code | — | `bce09f8` | fix(tui): normalize queue duration timestamps | 2026-08-13 11:07:49 EDT |
