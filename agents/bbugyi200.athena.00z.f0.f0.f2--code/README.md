@@ -21,10 +21,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [00z.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [00z.f0](../../sessions/bbugyi200.athena.00z.f0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [00z](../../sessions/bbugyi200.athena.00z.md) (session · 2) | ancestor | active 1, completed 1 |
-| [00z.f0.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.f0.md) (session · 2) | 00z.f0.f0 hood | active 1, completed 1 |
-| [00z.f0.f0.f1](../bbugyi200.athena.00z.f0.f0.f1/README.md) | 00z.f0.f0 hood | active |
+| [00z.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [00z.f0](../../sessions/bbugyi200.athena.00z.f0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [00z](../../sessions/bbugyi200.athena.00z.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [00z.f0.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.f0.md) (session · 2) | 00z.f0.f0 hood | completed 1, dismissed 1 |
+| [00z.f0.f0.f1](../bbugyi200.athena.00z.f0.f0.f1/README.md) | 00z.f0.f0 hood | dismissed |
 | [00z.cld](../bbugyi200.athena.00z.cld/README.md) | 00z hood | completed |
 | [00z.cld.f1](../bbugyi200.athena.00z.cld.f1/README.md) | 00z hood | completed |

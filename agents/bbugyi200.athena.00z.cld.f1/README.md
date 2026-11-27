@@ -17,17 +17,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2acd455`](https://github.com/sase-org/sase/commit/2acd455376d80b50cee81f0e956c40af6815d75a) | chore: Add SDD prompt and plan for failed\_launch\_prompt\_stash | 2026-06-19 09:15:06 EDT |
-| sase | [`1ffc49b`](https://github.com/sase-org/sase/commit/1ffc49b0f93b57598b3f8482d5af16ab69408b6d) | feat(launch): preserve submitted prompt when an agent launch fails | 2026-06-19 09:46:20 EDT |
+| — | `2acd455` | chore: Add SDD prompt and plan for failed\_launch\_prompt\_stash | 2026-06-19 09:15:06 EDT |
+| — | `1ffc49b` | feat(launch): preserve submitted prompt when an agent launch fails | 2026-06-19 09:46:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [00z.cld](../bbugyi200.athena.00z.cld/README.md) | ancestor | completed |
-| [00z](../../sessions/bbugyi200.athena.00z.md) (session · 2) | ancestor | active 1, completed 1 |
-| [00z.f0](../../sessions/bbugyi200.athena.00z.f0.md) (session · 2) | 00z hood | active 1, completed 1 |
-| [00z.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.md) (session · 2) | 00z hood | active 1, completed 1 |
-| [00z.f0.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.f0.md) (session · 2) | 00z hood | active 1, completed 1 |
-| [00z.f0.f0.f1](../bbugyi200.athena.00z.f0.f0.f1/README.md) | 00z hood | active |
-| [00z.f0.f0.f2](../../sessions/bbugyi200.athena.00z.f0.f0.f2.md) (session · 2) | 00z hood | active 1, completed 1 |
+| [00z](../../sessions/bbugyi200.athena.00z.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [00z.f0](../../sessions/bbugyi200.athena.00z.f0.md) (session · 2) | 00z hood | completed 1, dismissed 1 |
+| [00z.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.md) (session · 2) | 00z hood | completed 1, dismissed 1 |
+| [00z.f0.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.f0.md) (session · 2) | 00z hood | completed 1, dismissed 1 |
+| [00z.f0.f0.f1](../bbugyi200.athena.00z.f0.f0.f1/README.md) | 00z hood | dismissed |
+| [00z.f0.f0.f2](../../sessions/bbugyi200.athena.00z.f0.f0.f2.md) (session · 2) | 00z hood | completed 1, dismissed 1 |

@@ -17,17 +17,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d72330a`](https://github.com/sase-org/sase/commit/d72330a7aed385e5a41ea0f9aef5c5ea2fd2f67f) | chore: Add SDD prompt and plan for project\_creation\_logging | 2026-06-19 08:58:28 EDT |
-| sase | [`63f69be`](https://github.com/sase-org/sase/commit/63f69beaf7709a1c5c69fe55ebbb7735a2a02913) | feat(logs): record project creation diagnostics | 2026-06-19 09:08:39 EDT |
+| — | `d72330a` | chore: Add SDD prompt and plan for project\_creation\_logging | 2026-06-19 08:58:28 EDT |
+| — | `63f69be` | feat(logs): record project creation diagnostics | 2026-06-19 09:08:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [00z](../../sessions/bbugyi200.athena.00z.md) (session · 2) | ancestor | active 1, completed 1 |
+| [00z](../../sessions/bbugyi200.athena.00z.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [00z.cld.f1](../bbugyi200.athena.00z.cld.f1/README.md) | descendant | completed |
-| [00z.f0](../../sessions/bbugyi200.athena.00z.f0.md) (session · 2) | 00z hood | active 1, completed 1 |
-| [00z.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.md) (session · 2) | 00z hood | active 1, completed 1 |
-| [00z.f0.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.f0.md) (session · 2) | 00z hood | active 1, completed 1 |
-| [00z.f0.f0.f1](../bbugyi200.athena.00z.f0.f0.f1/README.md) | 00z hood | active |
-| [00z.f0.f0.f2](../../sessions/bbugyi200.athena.00z.f0.f0.f2.md) (session · 2) | 00z hood | active 1, completed 1 |
+| [00z.f0](../../sessions/bbugyi200.athena.00z.f0.md) (session · 2) | 00z hood | completed 1, dismissed 1 |
+| [00z.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.md) (session · 2) | 00z hood | completed 1, dismissed 1 |
+| [00z.f0.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.f0.md) (session · 2) | 00z hood | completed 1, dismissed 1 |
+| [00z.f0.f0.f1](../bbugyi200.athena.00z.f0.f0.f1/README.md) | 00z hood | dismissed |
+| [00z.f0.f0.f2](../../sessions/bbugyi200.athena.00z.f0.f0.f2.md) (session · 2) | 00z hood | completed 1, dismissed 1 |
