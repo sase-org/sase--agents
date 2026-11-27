@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `y0` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["y0--plan [active]"]
+  n0["y0--plan [dismissed]"]
   n1["y0--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | y0--plan | active | opus / claude | 2026-08-11T13:32:05.889167+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.y0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.y0--plan/chat.md) |
+| <a id="member-plan"></a>plan | y0--plan | dismissed | opus / claude | 2026-08-11T09:32:05.889167 → 2026-08-11T09:51:32.549400 | 0 | [Prompt](../agents/bbugyi200.athena.y0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.y0--plan/chat.md) |
 | <a id="member-code"></a>code | y0--code | completed | sonnet / claude | 2026-08-11T13:41:37.044818+00:00 | [1](../agents/bbugyi200.athena.y0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.y0--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f579dee`](https://github.com/sase-org/sase/commit/f579dee09d1eba09a8ed40828857ec780f8a456a) | fix(ace): stop clan summary panel crashing on unrenderable markup tags | 2026-08-11 09:50:05 EDT |
+| code | — | `f579dee` | fix(ace): stop clan summary panel crashing on unrenderable markup tags | 2026-08-11 09:50:05 EDT |
