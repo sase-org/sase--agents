@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`089c49a`](https://github.com/sase-org/sase/commit/089c49a69e65b51a517baecf6beb8475342e51a9) | chore: Add SDD prompt and plan for startup\_stopwatch\_escalation\_colors | 2026-06-21 08:13:53 EDT |
-| sase | [`ec8c494`](https://github.com/sase-org/sase/commit/ec8c49412ee66f455c2f55dfcbb605f5d61529c5) | feat(tui): escalate startup stopwatch colors | 2026-06-21 08:22:30 EDT |
+| — | `089c49a` | chore: Add SDD prompt and plan for startup\_stopwatch\_escalation\_colors | 2026-06-21 08:13:53 EDT |
+| — | `ec8c494` | feat(tui): escalate startup stopwatch colors | 2026-06-21 08:22:30 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [02w.f0](../../sessions/bbugyi200.athena.02w.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [02w.f0](../../sessions/bbugyi200.athena.02w.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

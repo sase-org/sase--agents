@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`75c670c`](https://github.com/sase-org/sase/commit/75c670c4b671c81f5d919542c41ef96f78721eee) | feat(ace): add launch control threshold editing | 2026-08-15 19:49:25 EDT |
+| — | `75c670c` | feat(ace): add launch control threshold editing | 2026-08-15 19:49:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [02w.f0](../../sessions/bbugyi200.athena.02w.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [02w.f0](../../sessions/bbugyi200.athena.02w.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
