@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [02q](../../users/bbugyi200/machines/athena/hoods/02q/README.md) / 02q
 
-**Global name:** `bbugyi200.athena.02q` · **State:** active · **Source run:** `run-0647fdeb5a96ee3896cac911ad0c2777`
+**Global name:** `bbugyi200.athena.02q` · **State:** dismissed · **Source run:** `run-0647fdeb5a96ee3896cac911ad0c2777`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 02q
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-15T19:08:17.198053+00:00
+- Timing: 2026-08-15T15:08:05
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`131a669`](https://github.com/sase-org/sase/commit/131a6699887a18663f437ba1be3db59743893198) | feat!: stop auto-pairing alt braces in ACE | 2026-06-20 17:49:58 EDT |
+| — | `131a669` | feat!: stop auto-pairing alt braces in ACE | 2026-06-20 17:49:58 EDT |
 
 ## Neighbors
 
