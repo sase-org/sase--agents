@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7ecd48c0dc55a3f8ed2084b2f04e770c"}
+{"commits":[{"committed_at":1795819872,"sha":"5b184c837cd3f6a3f2aeb476e9696c0ea5969d05","subject":"feat(bead): conflict replay for epic graph publication"}],"schema_version":2,"source_run_id":"run-7ecd48c0dc55a3f8ed2084b2f04e770c"}
