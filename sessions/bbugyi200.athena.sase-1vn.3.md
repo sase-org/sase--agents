@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1vn` · Members: 3 · Bead: [sase-1vn.3
 
 ```mermaid
 flowchart TD
-  n0["sase-1vn.3--mon [active]"]
+  n0["sase-1vn.3--mon [completed]"]
   n1["sase-1vn.3--plan [active]"]
   n0 --> n1
   n2["sase-1vn.3--gate [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-1vn.3--mon | active | gpt-6-astra / codex | 2026-11-27T21:41:25.496957+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1vn.3--mon | completed | gpt-6-astra / codex | 2026-11-27T21:41:25.496957+00:00 → 2026-11-27T21:44:39.467298+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1vn.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1vn.3--plan | active | gpt-6-astra / codex | 2026-11-27T21:32:51.049240+00:00 → 2026-11-27T21:41:38.472668+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1vn.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1vn.3--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1vn.3--gate | completed | gpt-6-astra / codex | 2026-11-27T21:40:55.521559+00:00 → 2026-11-27T21:41:28.288504+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1vn.3--gate/chat.md) |
 
@@ -27,6 +27,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-1vn.3.1.1](../agents/bbugyi200.athena.sase-1vn.3.1.1/README.md) | descendant | completed |
+| [sase-1vn.3.1.2](../agents/bbugyi200.athena.sase-1vn.3.1.2/README.md) | descendant | active |
+| [sase-1vn.3.1.land](../agents/bbugyi200.athena.sase-1vn.3.1.land/README.md) | descendant | waiting |
 | [sase-1vn.1](bbugyi200.athena.sase-1vn.1.md) (session · 2) | sase-1vn hood | completed 2 |
 | [sase-1vn.2](bbugyi200.athena.sase-1vn.2.md) (session · 7) | sase-1vn hood | completed 5, failed 2 |
 | [sase-1vn.4](../agents/bbugyi200.athena.sase-1vn.4/README.md) | sase-1vn hood | waiting |
