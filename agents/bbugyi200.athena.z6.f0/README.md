@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [z6](../../users/bbugyi200/machines/athena/hoods/z6/README.md) / z6.f0
 
-**Global name:** `bbugyi200.athena.z6.f0` · **State:** waiting · **Source run:** `run-f3ea06f672216a3e88e77eac724d28a5`
+**Global name:** `bbugyi200.athena.z6.f0` · **State:** dismissed · **Source run:** `run-f3ea06f672216a3e88e77eac724d28a5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** z6
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260813081250
+- Timing: 2026-08-13T08:12:50
 - Commits: 0
 
 ## Files
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [z6](../../sessions/bbugyi200.athena.z6.md) (session · 2) | ancestor | active 1, completed 1 |
-| [z6.f2](../../sessions/bbugyi200.athena.z6.f2.md) (session · 2) | z6 hood | active 1, failed 1 |
+| [z6](../../sessions/bbugyi200.athena.z6.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [z6.f2](../../sessions/bbugyi200.athena.z6.f2.md) (session · 2) | z6 hood | dismissed 1, failed 1 |

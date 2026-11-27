@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["z2--mon [failed]"]
   n0 --> n2
-  n3["z2--plan [active]"]
+  n3["z2--plan [dismissed]"]
   n0 --> n3
 ```
 
@@ -24,10 +24,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | z2--code | completed | gpt-5.5 / codex | 2026-08-13T11:31:59.806179+00:00 | [1](../agents/bbugyi200.athena.z2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.z2--code/chat.md) |
 | <a id="member-1"></a>1 | z2--1 | completed | gpt-5.6-sol / codex | 2026-08-13T11:45:52.139838+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.z2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.z2--1/chat.md) |
 | <a id="member-mon"></a>mon | z2--mon | failed | gpt-5.5 / codex | 2026-08-13T11:44:12.611186+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.z2--mon/chat.md) |
-| <a id="member-plan"></a>plan | z2--plan | active | opus / claude | 2026-08-13T11:26:59.436185+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.z2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.z2--plan/chat.md) |
+| <a id="member-plan"></a>plan | z2--plan | dismissed | opus / claude | 2026-08-13T07:26:59.436185 → 2026-08-13T07:45:48.585200 | 0 | [Prompt](../agents/bbugyi200.athena.z2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.z2--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`1928bd7`](https://github.com/sase-org/sase/commit/1928bd79866ce20998634c5707daddf86bde3aa1) | fix(ace): omit missing tribe description hint | 2026-08-13 07:44:55 EDT |
+| code | — | `1928bd7` | fix(ace): omit missing tribe description hint | 2026-08-13 07:44:55 EDT |

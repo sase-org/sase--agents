@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d04e8cf`](https://github.com/sase-org/sase/commit/d04e8cfcccef858fe526b50a56eba55e7d8faecd) | feat(ace): number Artifacts sub-tabs by visual order, Files highest | 2026-08-13 09:03:54 EDT |
+| — | `d04e8cf` | feat(ace): number Artifacts sub-tabs by visual order, Files highest | 2026-08-13 09:03:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [z6.f0](../bbugyi200.athena.z6.f0/README.md) | descendant | waiting |
-| [z6.f2](../../sessions/bbugyi200.athena.z6.f2.md) (session · 2) | descendant | active 1, failed 1 |
+| [z6.f0](../bbugyi200.athena.z6.f0/README.md) | descendant | dismissed |
+| [z6.f2](../../sessions/bbugyi200.athena.z6.f2.md) (session · 2) | descendant | dismissed 1, failed 1 |
