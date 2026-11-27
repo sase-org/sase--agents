@@ -21,7 +21,7 @@ flowchart TD
   n0 --> n5
   n6["00i.f0--mon-0 [failed]"]
   n0 --> n6
-  n7["00i.f0--plan [active]"]
+  n7["00i.f0--plan [dismissed]"]
   n0 --> n7
   n8["00i.f0--mon-1 [failed]"]
   n0 --> n8
@@ -40,7 +40,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-2"></a>mon-2 | 00i.f0--mon-2 | failed | sonnet / claude | 2026-08-14T12:04:22.165777+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.00i.f0--mon-2/chat.md) |
 | <a id="member-2"></a>2 | 00i.f0--2 | completed | sonnet / claude | 2026-08-14T11:55:09.202688+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.00i.f0--2/prompt.md) | [Chat](../agents/bbugyi200.athena.00i.f0--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 00i.f0--mon-0 | failed | sonnet / claude | 2026-08-14T11:54:43.579309+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.00i.f0--mon-0/chat.md) |
-| <a id="member-plan"></a>plan | 00i.f0--plan | active | opus / claude | 2026-08-14T11:18:19.662512+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.00i.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.00i.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 00i.f0--plan | dismissed | opus / claude | 2026-08-14T07:18:19.662512 → 2026-08-14T07:53:38.352714 | 0 | [Prompt](../agents/bbugyi200.athena.00i.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.00i.f0--plan/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 00i.f0--mon-1 | failed | sonnet / claude | 2026-08-14T11:55:42.938817+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.00i.f0--mon-1/chat.md) |
 | <a id="member-mon"></a>mon | 00i.f0--mon | failed | sonnet / claude | 2026-08-14T11:53:16.827871+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.00i.f0--mon/chat.md) |
 
@@ -48,10 +48,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 4 | sase | [`9df15db`](https://github.com/sase-org/sase/commit/9df15dbe270bcd2e8fa2912e34b61d0d12db3bbf) | fix(llm\_provider): consume pooled model aliases once per real invocation | 2026-08-14 08:11:36 EDT |
+| 4 | — | `9df15db` | fix(llm\_provider): consume pooled model aliases once per real invocation | 2026-08-14 08:11:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [00i](../agents/bbugyi200.athena.00i/README.md) | ancestor | active |
+| [00i](../agents/bbugyi200.athena.00i/README.md) | ancestor | dismissed |
