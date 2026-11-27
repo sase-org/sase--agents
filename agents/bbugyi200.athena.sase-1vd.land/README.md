@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1vd](../../users/bbugyi200/machines/athena/hoods/sase-1vd/README.md) / sase-1vd.land
 
-**Global name:** `bbugyi200.athena.sase-1vd.land` · **State:** waiting · **Source run:** `run-9a3158d10316fc8c2053cef47e100f2c`
+**Global name:** `bbugyi200.athena.sase-1vd.land` · **State:** completed · **Source run:** `run-9a3158d10316fc8c2053cef47e100f2c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1vd
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1vd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1vd/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261126105102
-- Commits: 0
+- Timing: 2026-11-26T23:20:52.000368+00:00 → 2026-11-27T00:23:02.600628+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`25bfca1`](https://github.com/sase-org/sase/commit/25bfca11d07084449c66c31488a36ecb9882e76f) | fix(questions): keep multi-line yy copy items inside their list item | 2026-11-26 19:21:22 EST |
 
 ## Neighbors
 
