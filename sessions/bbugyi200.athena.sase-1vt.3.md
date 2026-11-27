@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1vt` · Members: 2 · Bead: [sase-1vt.3
 
 ```mermaid
 flowchart TD
-  n0["sase-1vt.3--mon [active]"]
+  n0["sase-1vt.3--mon [completed]"]
   n1["sase-1vt.3--plan [completed]"]
   n0 --> n1
 ```
@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-1vt.3--mon | active | grok-4.6 / grok | 2026-11-27T21:34:55.404127+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1vt.3--mon | completed | grok-4.6 / grok | 2026-11-27T21:34:55.404127+00:00 → 2026-11-27T22:00:46.625758+00:00 | [1](../agents/bbugyi200.athena.sase-1vt.3--mon/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1vt.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1vt.3--plan | completed | grok-4.6 / grok | 2026-11-27T20:31:18.593944+00:00 → 2026-11-27T21:36:33.192907+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1vt.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1vt.3--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| mon | sase | [`1cde333`](https://github.com/sase-org/sase/commit/1cde33380898f86324dd520f7d65e8aaedf28a05) | feat(bead): refresh the store before epic mint and reject foreign plan links | 2026-11-27 16:59:49 EST |
 
 ## Neighbors
 
