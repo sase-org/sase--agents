@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`668bfc9`](https://github.com/sase-org/sase/commit/668bfc932e77a1dc57c91928aa6038cd85c14efb) | feat(llm-provider): add grok/grok-4.6 to shipped @smart, @cheap, and @cheaper pools | 2026-08-14 12:57:35 EDT |
+| — | `668bfc9` | feat(llm-provider): add grok/grok-4.6 to shipped @smart, @cheap, and @cheaper pools | 2026-08-14 12:57:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [01f.f1](../../sessions/bbugyi200.athena.01f.f1.md) (session · 2) | descendant | active 1, completed 1 |
-| [01f.f2](../../sessions/bbugyi200.athena.01f.f2.md) (session · 5) | descendant | active 2, completed 2, failed 1 |
+| [01f.f1](../../sessions/bbugyi200.athena.01f.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [01f.f2](../../sessions/bbugyi200.athena.01f.f2.md) (session · 5) | descendant | active 1, completed 2, dismissed 1, failed 1 |

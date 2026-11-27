@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`40a63e5`](https://github.com/sase-org/sase/commit/40a63e5dcc52b9d1fc8cb7f858f9b102ffbb8c6a) | feat(llm-provider): ship claude/codex/grok ordered fallback for @smartest | 2026-08-14 13:24:35 EDT |
+| — | `40a63e5` | feat(llm-provider): ship claude/codex/grok ordered fallback for @smartest | 2026-08-14 13:24:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [01f](../../sessions/bbugyi200.athena.01f.md) (session · 2) | ancestor | active 1, completed 1 |
-| [01f.f2](../../sessions/bbugyi200.athena.01f.f2.md) (session · 5) | 01f hood | active 2, completed 2, failed 1 |
+| [01f](../../sessions/bbugyi200.athena.01f.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [01f.f2](../../sessions/bbugyi200.athena.01f.f2.md) (session · 5) | 01f hood | active 1, completed 2, dismissed 1, failed 1 |

@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["01d--gate [failed]"]
   n0 --> n3
-  n4["01d--plan [active]"]
+  n4["01d--plan [dismissed]"]
   n0 --> n4
 ```
 
@@ -27,20 +27,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | 01d--code | completed | grok-4.6 / grok | 2026-09-07T11:41:43.867286+00:00 → 2026-09-07T12:08:21.011795+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01d--code/prompt.md) | [Chat](../agents/bbugyi200.athena.01d--code/chat.md) |
 | <a id="member-mon"></a>mon | 01d--mon | failed | grok-4.6 / grok | 2026-09-07T12:08:08.387184+00:00 → 2026-09-07T12:32:10.304916+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.01d--mon/chat.md) |
 | <a id="member-gate"></a>gate | 01d--gate | failed | claude-fable-5 / claude | 2026-09-07T11:31:11.037980+00:00 → 2026-09-07T11:41:36.525944+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.01d--gate/chat.md) |
-| <a id="member-plan"></a>plan | 01d--plan | active | claude-fable-5 / claude | 2026-09-07T11:21:46.655409+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01d--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01d--plan/chat.md) |
+| <a id="member-plan"></a>plan | 01d--plan | dismissed | claude-fable-5 / claude | 2026-09-07T07:21:46.655409 → 2026-09-07T07:31:20.378623 | 0 | [Prompt](../agents/bbugyi200.athena.01d--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01d--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`fde8b89`](https://github.com/sase-org/sase/commit/fde8b89c673efb83e7c5c70dc912e16df2b9f5fd) | chore: Add SDD prompt and plan for skip\_waiting\_for\_resolved\_dependencies | 2026-06-19 13:41:45 EDT |
-| — | sase | [`7debc17`](https://github.com/sase-org/sase/commit/7debc17587be50a51cd0cb906096fea31583b892) | fix: skip waits for resolved dependencies | 2026-06-19 13:56:30 EDT |
-| 1 | sase | [`635c5a3`](https://github.com/sase-org/sase/commit/635c5a31b73c638375f7b93bb42a6d5e21ebccde) | fix(bead): unblock bead work relaunch when assignee is a stale retry descendant | 2026-09-07 08:35:17 EDT |
+| — | — | `fde8b89` | chore: Add SDD prompt and plan for skip\_waiting\_for\_resolved\_dependencies | 2026-06-19 13:41:45 EDT |
+| — | — | `7debc17` | fix: skip waits for resolved dependencies | 2026-06-19 13:56:30 EDT |
+| 1 | — | `635c5a3` | fix(bead): unblock bead work relaunch when assignee is a stale retry descendant | 2026-09-07 08:35:17 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [01d.f0](../agents/bbugyi200.athena.01d.f0/README.md) | descendant | active |
-| [01d.f1](../agents/bbugyi200.athena.01d.f1/README.md) | descendant | active |
-| [01d.f2](bbugyi200.athena.01d.f2.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [01d.f0](../agents/bbugyi200.athena.01d.f0/README.md) | descendant | dismissed |
+| [01d.f1](../agents/bbugyi200.athena.01d.f1/README.md) | descendant | dismissed |
+| [01d.f2](bbugyi200.athena.01d.f2.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |

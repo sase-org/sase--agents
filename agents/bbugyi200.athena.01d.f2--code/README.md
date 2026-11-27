@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e2ce985`](https://github.com/sase-org/sase/commit/e2ce985dd5b0a9014f173d566d334dd8c0514dc3) | fix(bead): give targeted cleanup paths a real owner lookup | 2026-09-07 09:30:13 EDT |
+| — | `e2ce985` | fix(bead): give targeted cleanup paths a real owner lookup | 2026-09-07 09:30:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [01d](../bbugyi200.athena.01d/README.md) | ancestor | completed |
-| [01d.f0](../bbugyi200.athena.01d.f0/README.md) | 01d hood | active |
-| [01d.f1](../bbugyi200.athena.01d.f1/README.md) | 01d hood | active |
+| [01d.f0](../bbugyi200.athena.01d.f0/README.md) | 01d hood | dismissed |
+| [01d.f1](../bbugyi200.athena.01d.f1/README.md) | 01d hood | dismissed |

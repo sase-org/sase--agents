@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`635c5a3`](https://github.com/sase-org/sase/commit/635c5a31b73c638375f7b93bb42a6d5e21ebccde) | fix(bead): unblock bead work relaunch when assignee is a stale retry descendant | 2026-09-07 08:35:17 EDT |
+| — | `635c5a3` | fix(bead): unblock bead work relaunch when assignee is a stale retry descendant | 2026-09-07 08:35:17 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [01d.f0](../bbugyi200.athena.01d.f0/README.md) | descendant | active |
-| [01d.f1](../bbugyi200.athena.01d.f1/README.md) | descendant | active |
-| [01d.f2](../../sessions/bbugyi200.athena.01d.f2.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [01d.f0](../bbugyi200.athena.01d.f0/README.md) | descendant | dismissed |
+| [01d.f1](../bbugyi200.athena.01d.f1/README.md) | descendant | dismissed |
+| [01d.f2](../../sessions/bbugyi200.athena.01d.f2.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
