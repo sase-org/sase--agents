@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / zv
 
-**Global hood:** `bbugyi200.athena.zv` · **Runs:** 10 · **Sessions:** 1 · **States:** active 1, completed 5, failed 4
+**Global hood:** `bbugyi200.athena.zv` · **Runs:** 10 · **Sessions:** 1 · **States:** completed 5, dismissed 1, failed 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -14,5 +14,5 @@
 | [zv--1](../../../../../../sessions/bbugyi200.athena.zv.md#member-1) | completed | sonnet / claude | 2026-08-13T19:37:19.027729+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.zv--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.zv--1/prompt.md) |
 | [zv--code](../../../../../../sessions/bbugyi200.athena.zv.md#member-code) | completed | sonnet / claude | 2026-08-13T19:22:42.066247+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.zv--code/chat.md) |
 | [zv--2](../../../../../../sessions/bbugyi200.athena.zv.md#member-2) | completed | sonnet / claude | 2026-08-13T19:39:29.747971+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.zv--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.zv--2/prompt.md) |
-| [zv--plan](../../../../../../sessions/bbugyi200.athena.zv.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-13T19:07:06.778290+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.zv--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.zv--plan/prompt.md) |
+| [zv--plan](../../../../../../sessions/bbugyi200.athena.zv.md#member-plan) | dismissed | gpt-5.6-sol / codex | 2026-08-13T15:07:06.778290 → 2026-08-13T15:37:02.326162 | 0 | [chat](../../../../../../agents/bbugyi200.athena.zv--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.zv--plan/prompt.md) |
 | [zv--mon-2](../../../../../../sessions/bbugyi200.athena.zv.md#member-mon-2) | failed | sonnet / claude | 2026-08-13T19:55:46.301519+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.zv--mon-2/chat.md) |
