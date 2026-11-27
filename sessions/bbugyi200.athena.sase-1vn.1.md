@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1vn.2](bbugyi200.athena.sase-1vn.2.md) (session · 3) | sase-1vn hood | active 2, completed 1 |
+| [sase-1vn.2](bbugyi200.athena.sase-1vn.2.md) (session · 7) | sase-1vn hood | completed 5, failed 2 |
 | [sase-1vn.3](../agents/bbugyi200.athena.sase-1vn.3/README.md) | sase-1vn hood | waiting |
 | [sase-1vn.4](../agents/bbugyi200.athena.sase-1vn.4/README.md) | sase-1vn hood | waiting |
 | [sase-1vn.land](../agents/bbugyi200.athena.sase-1vn.land/README.md) | sase-1vn hood | waiting |
