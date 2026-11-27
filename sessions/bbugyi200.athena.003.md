@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `003` · Members: 4
 
 ```mermaid
 flowchart TD
-  n0["003--plan [active]"]
+  n0["003--plan [dismissed]"]
   n1["003--mon [failed]"]
   n0 --> n1
   n2["003--code [completed]"]
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 003--plan | active | gpt-5.6-sol / codex | 2026-08-13T21:57:34.969467+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.003--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.003--plan/chat.md) |
+| <a id="member-plan"></a>plan | 003--plan | dismissed | gpt-5.6-sol / codex | 2026-08-13T17:57:34.969467 → 2026-08-13T19:11:55.369252 | 0 | [Prompt](../agents/bbugyi200.athena.003--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.003--plan/chat.md) |
 | <a id="member-mon"></a>mon | 003--mon | failed | gpt-5.5 / codex | 2026-08-13T23:06:33.004031+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.003--mon/chat.md) |
 | <a id="member-code"></a>code | 003--code | completed | gpt-5.5 / codex | 2026-08-13T22:12:39.163749+00:00 | [1](../agents/bbugyi200.athena.003--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.003--code/chat.md) |
 | <a id="member-1"></a>1 | 003--1 | completed | gpt-5.5 / codex | 2026-08-13T23:49:37.402648+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.003--1/prompt.md) | [Chat](../agents/bbugyi200.athena.003--1/chat.md) |
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`10e33da`](https://github.com/sase-org/sase/commit/10e33da429983062f59212bfb9a32ae2b7eadbe1) | fix: classify monitor starter rows as regular agents | 2026-08-13 19:07:51 EDT |
+| code | — | `10e33da` | fix: classify monitor starter rows as regular agents | 2026-08-13 19:07:51 EDT |
 
 ## Neighbors
 

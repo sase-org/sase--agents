@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a9642c6`](https://github.com/sase-org/sase/commit/a9642c63c17a79b52f5848d005a54672079d468e) | fix(tui): avoid disabled trace cache mutation | 2026-08-13 18:52:07 EDT |
+| — | `a9642c6` | fix(tui): avoid disabled trace cache mutation | 2026-08-13 18:52:07 EDT |

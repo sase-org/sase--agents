@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4375a97`](https://github.com/sase-org/sase/commit/4375a979133848a741f3bbecb5e64329eed5cad4) | chore: Add SDD prompt and plan for prompt\_insert\_ctrl\_g\_prefix | 2026-06-18 08:01:48 EDT |
-| sase | [`d4dd47d`](https://github.com/sase-org/sase/commit/d4dd47dd5272dc047f2adb3e64dca5030f90b38a) | feat(tui)!: add prompt Ctrl+G insert prefix | 2026-06-18 08:24:42 EDT |
+| — | `4375a97` | chore: Add SDD prompt and plan for prompt\_insert\_ctrl\_g\_prefix | 2026-06-18 08:01:48 EDT |
+| — | `d4dd47d` | feat(tui)!: add prompt Ctrl+G insert prefix | 2026-06-18 08:24:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [001.f1](../../sessions/bbugyi200.athena.001.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [001.f1](../../sessions/bbugyi200.athena.001.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 002
 
-**Global hood:** `bbugyi200.athena.002` · **Runs:** 13 · **Sessions:** 1 · **States:** active 1, completed 7, failed 5
+**Global hood:** `bbugyi200.athena.002` · **Runs:** 13 · **Sessions:** 1 · **States:** completed 7, dismissed 1, failed 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [002](../../../../../../agents/bbugyi200.athena.002/README.md) | completed | — | 2026-06-18T12:12:52+00:00 → 2026-06-18T12:18:13+00:00 | 2 | — |
 | [002--mon-0](../../../../../../sessions/bbugyi200.athena.002.md#member-mon-0) | failed | gpt-5.5 / codex | 2026-08-13T22:50:54.390109+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.002--mon-0/chat.md) |
-| [002--plan](../../../../../../sessions/bbugyi200.athena.002.md#member-plan) | active | opus / claude | 2026-08-13T21:38:06.384113+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.002--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.002--plan/prompt.md) |
+| [002--plan](../../../../../../sessions/bbugyi200.athena.002.md#member-plan) | dismissed | opus / claude | 2026-08-13T17:38:06.384113 → 2026-08-13T18:15:23.589316 | 0 | [chat](../../../../../../agents/bbugyi200.athena.002--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.002--plan/prompt.md) |
 | [002--5](../../../../../../sessions/bbugyi200.athena.002.md#member-5) | completed | gpt-5.5 / codex | 2026-08-14T00:55:31.027456+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.002--5/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.002--5/prompt.md) |
 | [002--2](../../../../../../sessions/bbugyi200.athena.002.md#member-2) | completed | gpt-5.5 / codex | 2026-08-13T23:38:34.153023+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.002--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.002--2/prompt.md) |
 | [002--mon-1](../../../../../../sessions/bbugyi200.athena.002.md#member-mon-1) | failed | gpt-5.5 / codex | 2026-08-13T23:55:10.343830+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.002--mon-1/chat.md) |

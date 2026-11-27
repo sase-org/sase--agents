@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `001` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["001.f1--plan [active]"]
+  n0["001.f1--plan [dismissed]"]
   n1["001.f1--code [completed]"]
   n0 --> n1
 ```
@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 001.f1--plan | active | opus / claude | 2026-08-13T23:30:03.675722+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.001.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.001.f1--plan/chat.md) |
+| <a id="member-plan"></a>plan | 001.f1--plan | dismissed | opus / claude | 2026-08-13T19:30:03.675722 → 2026-08-13T20:00:11.669022 | 0 | [Prompt](../agents/bbugyi200.athena.001.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.001.f1--plan/chat.md) |
 | <a id="member-code"></a>code | 001.f1--code | completed | gpt-5.5 / codex | 2026-08-13T23:38:55.821337+00:00 | [1](../agents/bbugyi200.athena.001.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.001.f1--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`799b5f3`](https://github.com/sase-org/sase/commit/799b5f37e1004a47bab275e2017eeae47aef75b4) | fix: confirm before marking notification tabs read | 2026-08-13 19:56:03 EDT |
+| code | — | `799b5f3` | fix: confirm before marking notification tabs read | 2026-08-13 19:56:03 EDT |
 
 ## Neighbors
 

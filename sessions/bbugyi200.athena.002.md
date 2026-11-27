@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `002` · Members: 12
 ```mermaid
 flowchart TD
   n0["002--mon-0 [failed]"]
-  n1["002--plan [active]"]
+  n1["002--plan [dismissed]"]
   n0 --> n1
   n2["002--5 [completed]"]
   n0 --> n2
@@ -38,7 +38,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | 002--mon-0 | failed | gpt-5.5 / codex | 2026-08-13T22:50:54.390109+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.002--mon-0/chat.md) |
-| <a id="member-plan"></a>plan | 002--plan | active | opus / claude | 2026-08-13T21:38:06.384113+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.002--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.002--plan/chat.md) |
+| <a id="member-plan"></a>plan | 002--plan | dismissed | opus / claude | 2026-08-13T17:38:06.384113 → 2026-08-13T18:15:23.589316 | 0 | [Prompt](../agents/bbugyi200.athena.002--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.002--plan/chat.md) |
 | <a id="member-5"></a>5 | 002--5 | completed | gpt-5.5 / codex | 2026-08-14T00:55:31.027456+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.002--5/prompt.md) | [Chat](../agents/bbugyi200.athena.002--5/chat.md) |
 | <a id="member-2"></a>2 | 002--2 | completed | gpt-5.5 / codex | 2026-08-13T23:38:34.153023+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.002--2/prompt.md) | [Chat](../agents/bbugyi200.athena.002--2/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 002--mon-1 | failed | gpt-5.5 / codex | 2026-08-13T23:55:10.343830+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.002--mon-1/chat.md) |
@@ -54,8 +54,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`d5d2dfa`](https://github.com/sase-org/sase/commit/d5d2dfaf0d6a2ad9d6c6c29c775aaa0c4373c99c) | chore: Add SDD prompt and plan for bead\_search\_command | 2026-06-18 08:12:52 EDT |
-| — | sase | [`5254b39`](https://github.com/sase-org/sase/commit/5254b3905b992a090714af3cbbf7efa5ede9f737) | chore(beads): add bead search epic plan beads | 2026-06-18 08:18:13 EDT |
-| code | sase | [`2e2facb`](https://github.com/sase-org/sase/commit/2e2facb945fb9a9461b14ff2788525b41764fbc7) | fix: release monitor handoff waits after successor success | 2026-08-13 18:11:40 EDT |
-| 1 | sase | [`a9642c6`](https://github.com/sase-org/sase/commit/a9642c63c17a79b52f5848d005a54672079d468e) | fix(tui): avoid disabled trace cache mutation | 2026-08-13 18:52:07 EDT |
-| — | sase | [`cd64ffa`](https://github.com/sase-org/sase/commit/cd64ffa3f3852b8f5265f653e736664303d74a3c) | fix(tasks): accept proc wire payloads in task facade | 2026-08-13 20:27:29 EDT |
+| — | — | `d5d2dfa` | chore: Add SDD prompt and plan for bead\_search\_command | 2026-06-18 08:12:52 EDT |
+| — | — | `5254b39` | chore(beads): add bead search epic plan beads | 2026-06-18 08:18:13 EDT |
+| code | — | `2e2facb` | fix: release monitor handoff waits after successor success | 2026-08-13 18:11:40 EDT |
+| 1 | — | `a9642c6` | fix(tui): avoid disabled trace cache mutation | 2026-08-13 18:52:07 EDT |
+| — | — | `cd64ffa` | fix(tasks): accept proc wire payloads in task facade | 2026-08-13 20:27:29 EDT |

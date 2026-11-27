@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["001--3 [completed]"]
   n0 --> n5
-  n6["001--plan [active]"]
+  n6["001--plan [dismissed]"]
   n0 --> n6
   n7["001--code [completed]"]
   n0 --> n7
@@ -35,18 +35,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | 001--mon-0 | failed | sonnet / claude | 2026-08-13T21:58:57.627361+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.001--mon-0/chat.md) |
 | <a id="member-1"></a>1 | 001--1 | completed | sonnet / claude | 2026-08-13T21:57:52.997525+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.001--1/prompt.md) | [Chat](../agents/bbugyi200.athena.001--1/chat.md) |
 | <a id="member-3"></a>3 | 001--3 | completed | sonnet / claude | 2026-08-13T23:18:23.632525+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.001--3/prompt.md) | [Chat](../agents/bbugyi200.athena.001--3/chat.md) |
-| <a id="member-plan"></a>plan | 001--plan | active | opus / claude | 2026-08-13T21:33:15.913825+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.001--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.001--plan/chat.md) |
+| <a id="member-plan"></a>plan | 001--plan | dismissed | opus / claude | 2026-08-13T17:33:15.913825 → 2026-08-13T17:57:27.974910 | 0 | [Prompt](../agents/bbugyi200.athena.001--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.001--plan/chat.md) |
 | <a id="member-code"></a>code | 001--code | completed | sonnet / claude | 2026-08-13T21:49:36.650051+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.001--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`4375a97`](https://github.com/sase-org/sase/commit/4375a979133848a741f3bbecb5e64329eed5cad4) | chore: Add SDD prompt and plan for prompt\_insert\_ctrl\_g\_prefix | 2026-06-18 08:01:48 EDT |
-| — | sase | [`d4dd47d`](https://github.com/sase-org/sase/commit/d4dd47dd5272dc047f2adb3e64dca5030f90b38a) | feat(tui)!: add prompt Ctrl+G insert prefix | 2026-06-18 08:24:42 EDT |
+| — | — | `4375a97` | chore: Add SDD prompt and plan for prompt\_insert\_ctrl\_g\_prefix | 2026-06-18 08:01:48 EDT |
+| — | — | `d4dd47d` | feat(tui)!: add prompt Ctrl+G insert prefix | 2026-06-18 08:24:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [001.f1](bbugyi200.athena.001.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [001.f1](bbugyi200.athena.001.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
