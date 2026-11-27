@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`128aa29`](https://github.com/sase-org/sase/commit/128aa29bc6f2ce93bda5acfb1db6a1ed2acc3ef9) | chore: Add SDD prompt and plan for finalizer\_opened\_sibling\_authoritative\_path | 2026-06-20 14:07:49 EDT |
-| sase | [`7d9f003`](https://github.com/sase-org/sase/commit/7d9f0036f42f372db1af53d0832587ce22cc8f0d) | fix: finalize recorded sibling workspaces | 2026-06-20 14:16:01 EDT |
+| — | `128aa29` | chore: Add SDD prompt and plan for finalizer\_opened\_sibling\_authoritative\_path | 2026-06-20 14:07:49 EDT |
+| — | `7d9f003` | fix: finalize recorded sibling workspaces | 2026-06-20 14:16:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [02c](../bbugyi200.athena.02c/README.md) | ancestor | active |
+| [02c](../bbugyi200.athena.02c/README.md) | ancestor | dismissed |
 | [02c.1.f1.cld](../bbugyi200.athena.02c.1.f1.cld/README.md) | descendant | completed |

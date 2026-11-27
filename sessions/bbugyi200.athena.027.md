@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `027` · Members: 2
 ```mermaid
 flowchart TD
   n0["027--code [completed]"]
-  n1["027--plan [active]"]
+  n1["027--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 027--code | completed | gpt-5.5 / codex | 2026-08-15T13:37:37.264364+00:00 | [1](../agents/bbugyi200.athena.027--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.027--code/chat.md) |
-| <a id="member-plan"></a>plan | 027--plan | active | gpt-5.6-sol / codex | 2026-08-15T13:34:37.879327+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.027--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.027--plan/chat.md) |
+| <a id="member-plan"></a>plan | 027--plan | dismissed | gpt-5.6-sol / codex | 2026-08-15T09:34:26 | 0 | [Prompt](../agents/bbugyi200.athena.027--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.027--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4197762`](https://github.com/sase-org/sase/commit/41977629d7b5d15c8c5b2273dd46f4cbb04bad0a) | docs: restore agent lane glossary entry | 2026-08-15 10:04:57 EDT |
+| code | — | `4197762` | docs: restore agent lane glossary entry | 2026-08-15 10:04:57 EDT |
