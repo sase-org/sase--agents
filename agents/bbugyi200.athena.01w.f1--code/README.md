@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`97e12b2`](https://github.com/sase-org/sase/commit/97e12b29e4c0a72425396f5a2baca8c751801e80) | feat(llm): add antigravity flash to cheaper pool | 2026-08-14 20:23:10 EDT |
+| — | `97e12b2` | feat(llm): add antigravity flash to cheaper pool | 2026-08-14 20:23:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [01w](../../sessions/bbugyi200.athena.01w.md) (session · 4) | ancestor | active 1, completed 2, failed 1 |
+| [01w](../../sessions/bbugyi200.athena.01w.md) (session · 4) | ancestor | completed 2, dismissed 1, failed 1 |

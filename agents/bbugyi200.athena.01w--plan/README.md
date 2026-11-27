@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [01w](../../users/bbugyi200/machines/athena/hoods/01w/README.md) / [01w](../../sessions/bbugyi200.athena.01w.md) / 01w--plan
 
-**Global name:** `bbugyi200.athena.01w--plan` · **State:** active · **Source run:** `run-484760ddc02da2409c04ac1c484b0693`
+**Global name:** `bbugyi200.athena.01w--plan` · **State:** dismissed · **Source run:** `run-484760ddc02da2409c04ac1c484b0693`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 01w
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-14T22:49:50.541236+00:00
+- Timing: 2026-08-14T18:49:50.541236 → 2026-08-14T19:21:57.688198
 - Commits: 0
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [01w.f1](../../sessions/bbugyi200.athena.01w.f1.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
+| [01w.f1](../../sessions/bbugyi200.athena.01w.f1.md) (session · 4) | descendant | completed 2, dismissed 1, failed 1 |

@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `01v` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["01v--plan [active]"]
+  n0["01v--plan [dismissed]"]
   n1["01v--code [completed]"]
   n0 --> n1
 ```
@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 01v--plan | active | opus / claude | 2026-08-14T21:41:47.829852+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01v--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01v--plan/chat.md) |
+| <a id="member-plan"></a>plan | 01v--plan | dismissed | opus / claude | 2026-08-14T17:41:47.829852 → 2026-08-14T18:36:10.061337 | 0 | [Prompt](../agents/bbugyi200.athena.01v--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01v--plan/chat.md) |
 | <a id="member-code"></a>code | 01v--code | completed | grok-4.6 / grok | 2026-08-14T22:05:16.649532+00:00 | [1](../agents/bbugyi200.athena.01v--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.01v--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f59e307`](https://github.com/sase-org/sase/commit/f59e30717cc06c962d5acf4406a43b65372f9184) | fix(ace): demote owning-xprompt preview inside shorthand argument text | 2026-08-14 18:34:19 EDT |
+| code | — | `f59e307` | fix(ace): demote owning-xprompt preview inside shorthand argument text | 2026-08-14 18:34:19 EDT |
 
 ## Neighbors
 

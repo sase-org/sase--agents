@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e5a14e8`](https://github.com/sase-org/sase/commit/e5a14e8a9b4d62efa2f6c07280b8fecd9242c793) | chore: Add SDD prompt and plan for project\_alias\_stray\_dir\_conflict | 2026-06-19 22:14:42 EDT |
-| sase | [`1abeee4`](https://github.com/sase-org/sase/commit/1abeee4164281536b5e6dd151b5351e3b5181153) | fix(project-aliases): canonicalize alias project state paths | 2026-06-19 22:28:26 EDT |
+| — | `e5a14e8` | chore: Add SDD prompt and plan for project\_alias\_stray\_dir\_conflict | 2026-06-19 22:14:42 EDT |
+| — | `1abeee4` | fix(project-aliases): canonicalize alias project state paths | 2026-06-19 22:28:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [01v](../../sessions/bbugyi200.athena.01v.md) (session · 2) | ancestor | active 1, completed 1 |
+| [01v](../../sessions/bbugyi200.athena.01v.md) (session · 2) | ancestor | completed 1, dismissed 1 |

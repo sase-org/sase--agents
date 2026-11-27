@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9c66daf`](https://github.com/sase-org/sase/commit/9c66dafee99f15623a3969f3c394a6ecb6161ce0) | feat(agy): add Gemini 3.7 Flash and make it Antigravity's default | 2026-08-14 19:34:56 EDT |
+| — | `9c66daf` | feat(agy): add Gemini 3.7 Flash and make it Antigravity's default | 2026-08-14 19:34:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [01w.f1](../../sessions/bbugyi200.athena.01w.f1.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
+| [01w.f1](../../sessions/bbugyi200.athena.01w.f1.md) (session · 4) | descendant | completed 2, dismissed 1, failed 1 |
