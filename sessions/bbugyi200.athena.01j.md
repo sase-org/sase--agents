@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `01j` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["01j--plan [active]"]
+  n0["01j--plan [dismissed]"]
   n1["01j--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 01j--plan | active | gpt-5.6-sol / codex | 2026-08-14T17:36:34.520281+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01j--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01j--plan/chat.md) |
+| <a id="member-plan"></a>plan | 01j--plan | dismissed | gpt-5.6-sol / codex | 2026-08-14T13:36:34.520281 → 2026-08-14T13:54:07.803983 | 0 | [Prompt](../agents/bbugyi200.athena.01j--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01j--plan/chat.md) |
 | <a id="member-code"></a>code | 01j--code | completed | gpt-5.5 / codex | 2026-08-14T17:41:57.096436+00:00 | [1](../agents/bbugyi200.athena.01j--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.01j--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`402b3b6`](https://github.com/sase-org/sase/commit/402b3b65ad162ff9ab978342196b4ed3c4807b33) | feat(ace): inherit VCS xprompt tag for added panes | 2026-08-14 13:52:31 EDT |
+| code | — | `402b3b6` | feat(ace): inherit VCS xprompt tag for added panes | 2026-08-14 13:52:31 EDT |
