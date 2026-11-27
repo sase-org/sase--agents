@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["02i--3 [completed]"]
   n0 --> n4
-  n5["02i--0 [active]"]
+  n5["02i--0 [dismissed]"]
   n0 --> n5
   n6["02i--5 [active]"]
   n0 --> n6
@@ -54,7 +54,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-3"></a>mon-3 | 02i--mon-3 | failed | gpt-5.6-sol / codex | 2026-08-15T18:06:57.428942+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.02i--mon-3/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 02i--mon-1 | failed | gpt-5.6-sol / codex | 2026-08-15T17:58:29.570280+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.02i--mon-1/chat.md) |
 | <a id="member-3"></a>3 | 02i--3 | completed | gpt-5.6-sol / codex | 2026-08-15T18:06:13.237295+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.02i--3/prompt.md) | [Chat](../agents/bbugyi200.athena.02i--3/chat.md) |
-| <a id="member-0"></a>0 | 02i--0 | active | gpt-5.6-sol / codex | 2026-08-15T16:16:50.981074+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.02i--0/prompt.md) | [Chat](../agents/bbugyi200.athena.02i--0/chat.md) |
+| <a id="member-0"></a>0 | 02i--0 | dismissed | gpt-5.6-sol / codex | 2026-08-15T12:16:50.981074 → 2026-08-15T14:57:49.734289 | 0 | [Prompt](../agents/bbugyi200.athena.02i--0/prompt.md) | [Chat](../agents/bbugyi200.athena.02i--0/chat.md) |
 | <a id="member-5"></a>5 | 02i--5 | active | gpt-5.6-sol / codex | 2026-08-15T18:18:51.084031+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.02i--5/prompt.md) | — |
 | <a id="member-4"></a>4 | 02i--4 | active | gpt-5.6-sol / codex | 2026-08-15T18:09:16.939877+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.02i--4/prompt.md) | — |
 | <a id="member-2"></a>2 | 02i--2 | active | gpt-5.6-sol / codex | 2026-08-15T18:01:48.218973+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.02i--2/prompt.md) | — |
@@ -72,7 +72,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`d580a55`](https://github.com/sase-org/sase/commit/d580a55c8729e893c987aa18b3c7d68a5481ce88) | feat(tui): finish flat pane query migration | 2026-08-15 14:04:56 EDT |
-| 1 | sase | [`8965656`](https://github.com/sase-org/sase/commit/8965656eacb8475457a75106030241a005ea774b) | perf(tui): debounce Stitches detail rendering | 2026-08-15 14:06:48 EDT |
-| 1 | sase | [`9005843`](https://github.com/sase-org/sase/commit/90058437ebdeb703d016ef5e6c8cb4ca24461aa9) | test(perf): isolate navigation benchmark bursts | 2026-08-15 14:12:57 EDT |
-| code | sase | [`c62765e`](https://github.com/sase-org/sase/commit/c62765eb7f3bca0e3a171ab923a5c25e4d6554e4) | feat(ace): complete flat artifact query migration | 2026-08-15 14:55:45 EDT |
+| 1 | — | `d580a55` | feat(tui): finish flat pane query migration | 2026-08-15 14:04:56 EDT |
+| 1 | — | `8965656` | perf(tui): debounce Stitches detail rendering | 2026-08-15 14:06:48 EDT |
+| 1 | — | `9005843` | test(perf): isolate navigation benchmark bursts | 2026-08-15 14:12:57 EDT |
+| code | — | `c62765e` | feat(ace): complete flat artifact query migration | 2026-08-15 14:55:45 EDT |
