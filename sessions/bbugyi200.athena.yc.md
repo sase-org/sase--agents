@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `yc` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["yc--plan [active]"]
+  n0["yc--plan [dismissed]"]
   n1["yc--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | yc--plan | active | opus / claude | 2026-08-12T11:49:50.583977+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.yc--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.yc--plan/chat.md) |
+| <a id="member-plan"></a>plan | yc--plan | dismissed | opus / claude | 2026-08-12T07:49:50.583977 → 2026-08-12T08:50:36.866460 | 0 | [Prompt](../agents/bbugyi200.athena.yc--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.yc--plan/chat.md) |
 | <a id="member-code"></a>code | yc--code | completed | sonnet / claude | 2026-08-12T12:09:50.681695+00:00 | [1](../agents/bbugyi200.athena.yc--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.yc--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`35b469d`](https://github.com/sase-org/sase/commit/35b469d8161a6f60699169dcf6dfc9c57e50034b) | feat(ace): show xprompt properties band and full view in preview reader | 2026-08-12 08:50:12 EDT |
+| code | — | `35b469d` | feat(ace): show xprompt properties band and full view in preview reader | 2026-08-12 08:50:12 EDT |
