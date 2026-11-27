@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 019
 
-**Global hood:** `bbugyi200.athena.019` · **Runs:** 8 · **Sessions:** 1 · **States:** active 1, completed 4, failed 3
+**Global hood:** `bbugyi200.athena.019` · **Runs:** 8 · **Sessions:** 1 · **States:** completed 4, dismissed 1, failed 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,5 +12,5 @@
 | [019--1](../../../../../../sessions/bbugyi200.athena.019.md#member-1) | completed | gpt-6-astra / codex | 2026-09-07T02:52:28.382088+00:00 → 2026-09-07T02:57:07.702216+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.019--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.019--1/prompt.md) |
 | [019](../../../../../../agents/bbugyi200.athena.019/README.md) | completed | — | 2026-06-19T14:44:44+00:00 → 2026-06-19T14:54:54+00:00 | 2 | — |
 | [019--2](../../../../../../sessions/bbugyi200.athena.019.md#member-2) | completed | gpt-6-astra / codex | 2026-09-07T03:27:33.723045+00:00 → 2026-09-07T03:36:51.599698+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.019--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.019--2/prompt.md) |
-| [019--0](../../../../../../sessions/bbugyi200.athena.019.md#member-0) | active | gpt-6-astra / codex | 2026-09-07T01:57:41.826100+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.019--0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.019--0/prompt.md) |
+| [019--0](../../../../../../sessions/bbugyi200.athena.019.md#member-0) | dismissed | gpt-6-astra / codex | 2026-09-06T21:57:41.826100 → 2026-09-06T22:05:17.496401 | 0 | [chat](../../../../../../agents/bbugyi200.athena.019--0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.019--0/prompt.md) |
 | [019--mon](../../../../../../sessions/bbugyi200.athena.019.md#member-mon) | failed | gpt-6-astra / codex | 2026-09-07T02:05:09.238100+00:00 → 2026-09-07T02:52:02.677712+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.019--mon/chat.md) |

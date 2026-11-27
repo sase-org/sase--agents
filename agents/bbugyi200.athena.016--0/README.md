@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [016](../../users/bbugyi200/machines/athena/hoods/016/README.md) / [016](../../sessions/bbugyi200.athena.016.md) / 016--0
 
-**Global name:** `bbugyi200.athena.016--0` · **State:** active · **Source run:** `run-7d930b8e02919a6217aa96a8fb1b0e86`
+**Global name:** `bbugyi200.athena.016--0` · **State:** dismissed · **Source run:** `run-7d930b8e02919a6217aa96a8fb1b0e86`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 016
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-09-07T01:48:45.581493+00:00
+- Timing: 2026-09-06T21:48:45.581493 → 2026-09-06T22:01:40.157211
 - Commits: 0
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [016.fork\_repair](../../sessions/bbugyi200.athena.016.fork_repair.md) (session · 3) | descendant | active 1, failed 2 |
+| [016.fork\_repair](../../sessions/bbugyi200.athena.016.fork_repair.md) (session · 3) | descendant | dismissed 1, failed 2 |

@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["016--mon-0 [failed]"]
   n0 --> n4
-  n5["016--0 [active]"]
+  n5["016--0 [dismissed]"]
   n0 --> n5
   n6["016--5 [completed]"]
   n0 --> n6
@@ -44,7 +44,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-4"></a>4 | 016--4 | completed | gpt-6-astra / codex | 2026-09-07T04:58:03.693701+00:00 → 2026-09-07T05:11:59.422712+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.016--4/prompt.md) | [Chat](../agents/bbugyi200.athena.016--4/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 016--mon-1 | failed | gpt-6-astra / codex | 2026-09-07T02:36:17.115879+00:00 → 2026-09-07T03:39:00.803755+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.016--mon-1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 016--mon-0 | failed | gpt-6-astra / codex | 2026-09-07T02:24:23.249633+00:00 → 2026-09-07T02:27:04.179474+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.016--mon-0/chat.md) |
-| <a id="member-0"></a>0 | 016--0 | active | claude-fable-5 / claude | 2026-09-07T01:48:45.581493+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.016--0/prompt.md) | [Chat](../agents/bbugyi200.athena.016--0/chat.md) |
+| <a id="member-0"></a>0 | 016--0 | dismissed | claude-fable-5 / claude | 2026-09-06T21:48:45.581493 → 2026-09-06T22:01:40.157211 | 0 | [Prompt](../agents/bbugyi200.athena.016--0/prompt.md) | [Chat](../agents/bbugyi200.athena.016--0/chat.md) |
 | <a id="member-5"></a>5 | 016--5 | completed | gpt-6-astra / codex | 2026-09-07T06:13:37.473553+00:00 → 2026-09-07T06:30:13.162334+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.016--5/prompt.md) | [Chat](../agents/bbugyi200.athena.016--5/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | 016--mon-3 | failed | gpt-6-astra / codex | 2026-09-07T05:11:41.113493+00:00 → 2026-09-07T06:12:56.250779+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.016--mon-3/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | 016--mon-2 | failed | gpt-6-astra / codex | 2026-09-07T03:55:58.648439+00:00 → 2026-09-07T04:57:38.685066+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.016--mon-2/chat.md) |
@@ -57,11 +57,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`f02a235`](https://github.com/sase-org/sase/commit/f02a235b52b14557642cd93551ba79bf94ef4ec0) | chore: Add SDD prompt and plan for confirmed\_bead\_display | 2026-06-19 10:11:44 EDT |
-| — | sase | [`a4aff73`](https://github.com/sase-org/sase/commit/a4aff7337a142637a7069277de6aeed2e7211d0f) | feat(ace): show bead glyph and metadata only for confirmed beads | 2026-06-19 10:42:38 EDT |
+| — | — | `f02a235` | chore: Add SDD prompt and plan for confirmed\_bead\_display | 2026-06-19 10:11:44 EDT |
+| — | — | `a4aff73` | feat(ace): show bead glyph and metadata only for confirmed beads | 2026-06-19 10:42:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [016.fork\_repair](bbugyi200.athena.016.fork_repair.md) (session · 3) | descendant | active 1, failed 2 |
+| [016.fork\_repair](bbugyi200.athena.016.fork_repair.md) (session · 3) | descendant | dismissed 1, failed 2 |

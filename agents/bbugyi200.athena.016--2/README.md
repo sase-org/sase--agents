@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [016.fork\_repair](../../sessions/bbugyi200.athena.016.fork_repair.md) (session · 3) | descendant | active 1, failed 2 |
+| [016.fork\_repair](../../sessions/bbugyi200.athena.016.fork_repair.md) (session · 3) | descendant | dismissed 1, failed 2 |

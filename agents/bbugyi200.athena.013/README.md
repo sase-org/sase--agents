@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [013](../../users/bbugyi200/machines/athena/hoods/013/README.md) / 013
 
-**Global name:** `bbugyi200.athena.013` · **State:** active · **Source run:** `run-cf1d6637e812ceb377adb95e55a35f2d`
+**Global name:** `bbugyi200.athena.013` · **State:** dismissed · **Source run:** `run-cf1d6637e812ceb377adb95e55a35f2d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 013
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-14T14:36:34.490801+00:00
+- Timing: 2026-08-14T10:36:34.490801 → 2026-08-14T10:49:50.328544
 - Commits: [1](#commits)
 - Variables: [6](#variables)
 
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`851dda4`](https://github.com/sase-org/sase/commit/851dda4c61879eb5c86e805926b27f0ed9e3d51d) | chore: add beads for VCS project completion plan | 2026-06-19 10:00:48 EDT |
+| — | `851dda4` | chore: add beads for VCS project completion plan | 2026-06-19 10:00:48 EDT |
 
 ## Variables
 

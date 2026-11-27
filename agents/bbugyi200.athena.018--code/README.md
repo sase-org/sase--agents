@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`08a69e3`](https://github.com/sase-org/sase/commit/08a69e3ec64ffcfe7460f054c183532340634613) | fix(monitor): keep follow-up prompt bodies literal | 2026-08-14 11:46:27 EDT |
+| — | `08a69e3` | fix(monitor): keep follow-up prompt bodies literal | 2026-08-14 11:46:27 EDT |
 
 ## Neighbors
 

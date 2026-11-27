@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 016
 
-**Global hood:** `bbugyi200.athena.016` · **Runs:** 17 · **Sessions:** 2 · **States:** active 2, completed 6, failed 9
+**Global hood:** `bbugyi200.athena.016` · **Runs:** 17 · **Sessions:** 2 · **States:** completed 6, dismissed 2, failed 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -13,7 +13,7 @@
 | [016--mon-1](../../../../../../sessions/bbugyi200.athena.016.md#member-mon-1) | failed | gpt-6-astra / codex | 2026-09-07T02:36:17.115879+00:00 → 2026-09-07T03:39:00.803755+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016--mon-1/chat.md) |
 | [016--mon-0](../../../../../../sessions/bbugyi200.athena.016.md#member-mon-0) | failed | gpt-6-astra / codex | 2026-09-07T02:24:23.249633+00:00 → 2026-09-07T02:27:04.179474+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016--mon-0/chat.md) |
 | [016.fork\_repair--mon](../../../../../../sessions/bbugyi200.athena.016.fork_repair.md#member-mon) | failed | gpt-6-astra / codex | 2026-09-07T06:44:53.985183+00:00 → 2026-09-07T06:57:06.817806+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016.fork_repair--mon/chat.md) |
-| [016--0](../../../../../../sessions/bbugyi200.athena.016.md#member-0) | active | claude-fable-5 / claude | 2026-09-07T01:48:45.581493+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016--0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.016--0/prompt.md) |
+| [016--0](../../../../../../sessions/bbugyi200.athena.016.md#member-0) | dismissed | claude-fable-5 / claude | 2026-09-06T21:48:45.581493 → 2026-09-06T22:01:40.157211 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016--0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.016--0/prompt.md) |
 | [016--5](../../../../../../sessions/bbugyi200.athena.016.md#member-5) | completed | gpt-6-astra / codex | 2026-09-07T06:13:37.473553+00:00 → 2026-09-07T06:30:13.162334+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016--5/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.016--5/prompt.md) |
 | [016.fork\_repair--1](../../../../../../sessions/bbugyi200.athena.016.fork_repair.md#member-1) | failed | gpt-6-astra / codex | 2026-09-07T06:57:30.424494+00:00 → 2026-09-07T06:57:42.411389+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.016.fork_repair--1/prompt.md) |
 | [016--mon-3](../../../../../../sessions/bbugyi200.athena.016.md#member-mon-3) | failed | gpt-6-astra / codex | 2026-09-07T05:11:41.113493+00:00 → 2026-09-07T06:12:56.250779+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016--mon-3/chat.md) |
@@ -21,5 +21,5 @@
 | [016--1](../../../../../../sessions/bbugyi200.athena.016.md#member-1) | completed | gpt-6-astra / codex | 2026-09-07T02:04:08.857731+00:00 → 2026-09-07T02:25:19.109142+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.016--1/prompt.md) |
 | [016--6](../../../../../../sessions/bbugyi200.athena.016.md#member-6) | failed | gpt-6-astra / codex | 2026-09-07T07:32:35.785182+00:00 → 2026-09-07T07:32:53.973660+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.016--6/prompt.md) |
 | [016--mon](../../../../../../sessions/bbugyi200.athena.016.md#member-mon) | failed | claude-fable-5 / claude | 2026-09-07T02:01:31.133278+00:00 → 2026-09-07T02:03:46.143098+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016--mon/chat.md) |
-| [016.fork\_repair--plan](../../../../../../sessions/bbugyi200.athena.016.fork_repair.md#member-plan) | active | gpt-6-astra / codex | 2026-09-07T06:30:31.165846+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016.fork_repair--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.016.fork_repair--plan/prompt.md) |
+| [016.fork\_repair--plan](../../../../../../sessions/bbugyi200.athena.016.fork_repair.md#member-plan) | dismissed | gpt-6-astra / codex | 2026-09-07T02:30:31.165846 → 2026-09-07T02:45:08.901743 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016.fork_repair--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.016.fork_repair--plan/prompt.md) |
 | [016--2](../../../../../../sessions/bbugyi200.athena.016.md#member-2) | completed | gpt-6-astra / codex | 2026-09-07T02:27:30.459205+00:00 → 2026-09-07T02:36:40.439110+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.016--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.016--2/prompt.md) |
