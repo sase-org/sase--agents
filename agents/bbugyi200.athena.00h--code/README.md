@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`53c262a`](https://github.com/sase-org/sase/commit/53c262a096b85de5f61cf17fd3f8705fe4a934c2) | fix(axe): retain subprocess diagnostics in error digests | 2026-09-06 23:12:21 EDT |
+| — | `53c262a` | fix(axe): retain subprocess diagnostics in error digests | 2026-09-06 23:12:21 EDT |
