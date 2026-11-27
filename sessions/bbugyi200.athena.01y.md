@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `01y` · Members: 2
 ```mermaid
 flowchart TD
   n0["01y--code [completed]"]
-  n1["01y--plan [active]"]
+  n1["01y--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,12 +18,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 01y--code | completed | grok-4.6 / grok | 2026-08-15T09:31:21.217303+00:00 | [1](../agents/bbugyi200.athena.01y--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.01y--code/chat.md) |
-| <a id="member-plan"></a>plan | 01y--plan | active | gpt-5.6-sol / codex | 2026-08-15T09:24:43.383930+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01y--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01y--plan/chat.md) |
+| <a id="member-plan"></a>plan | 01y--plan | dismissed | gpt-5.6-sol / codex | 2026-08-15T05:24:43.383930 → 2026-08-15T05:40:45.138404 | 0 | [Prompt](../agents/bbugyi200.athena.01y--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01y--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`19ca730`](https://github.com/sase-org/sase/commit/19ca7309703f2475a516f853d848207ad45f088e) | chore: Add SDD prompt and plan for agent\_tag\_enter\_clears | 2026-06-19 22:20:27 EDT |
-| — | sase | [`c280737`](https://github.com/sase-org/sase/commit/c2807378840d353a7c158a616d6ce8a2d5145354) | fix: clear tag modal input for tagged agents | 2026-06-19 22:26:52 EDT |
-| code | sase | [`6f027ae`](https://github.com/sase-org/sase/commit/6f027ae6b499eeec91608ccaa9f848a93dd23248) | fix(beads): pin child-epic monitors to clanned phase lanes | 2026-08-15 05:39:08 EDT |
+| — | — | `19ca730` | chore: Add SDD prompt and plan for agent\_tag\_enter\_clears | 2026-06-19 22:20:27 EDT |
+| — | — | `c280737` | fix: clear tag modal input for tagged agents | 2026-06-19 22:26:52 EDT |
+| code | — | `6f027ae` | fix(beads): pin child-epic monitors to clanned phase lanes | 2026-08-15 05:39:08 EDT |
