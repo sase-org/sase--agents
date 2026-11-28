@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1vn](../../users/bbugyi200/machines/athena/hoods/sase-1vn/README.md) / sase-1vn.4.1.land
 
-**Global name:** `bbugyi200.athena.sase-1vn.4.1.land` · **State:** waiting · **Source run:** `run-47f9ea01207ca79652f322dbbf0e2986`
+**Global name:** `bbugyi200.athena.sase-1vn.4.1.land` · **State:** completed · **Source run:** `run-47f9ea01207ca79652f322dbbf0e2986`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1vn
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1vn.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1vn/sase-1vn.4.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261127201904
-- Commits: 0
+- Timing: 2026-11-28T06:46:54.393706+00:00 → 2026-11-28T07:26:41.957711+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8610438`](https://github.com/sase-org/sase/commit/8610438838bd9fe2425be487cb5b2c56bdc72172) | fix(axe): land zombie-epic recovery and harden epic\_liveness accounting | 2026-11-28 02:24:54 EST |
 
 ## Neighbors
 
