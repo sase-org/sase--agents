@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 04h
 
-**Global hood:** `bbugyi200.athena.04h` · **Runs:** 4 · **Sessions:** 1 · **States:** active 1, completed 2, failed 1
+**Global hood:** `bbugyi200.athena.04h` · **Runs:** 4 · **Sessions:** 1 · **States:** completed 2, dismissed 1, failed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [04h--code](../../../../../../sessions/bbugyi200.athena.04h.md#member-code) | completed | grok-4.6 / grok | 2026-08-17T10:55:02.035429+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.04h--code/chat.md) |
 | [04h--mon](../../../../../../sessions/bbugyi200.athena.04h.md#member-mon) | failed | grok-4.6 / grok | 2026-08-17T11:44:44.326212+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.04h--mon/chat.md) |
-| [04h--plan](../../../../../../sessions/bbugyi200.athena.04h.md#member-plan) | active | opus / claude | 2026-08-17T10:42:09.609675+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.04h--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.04h--plan/prompt.md) |
+| [04h--plan](../../../../../../sessions/bbugyi200.athena.04h.md#member-plan) | dismissed | opus / claude | 2026-08-17T06:41:56 | 0 | [chat](../../../../../../agents/bbugyi200.athena.04h--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.04h--plan/prompt.md) |
 | [04h--1](../../../../../../sessions/bbugyi200.athena.04h.md#member-1) | completed | grok-4.6 / grok | 2026-08-17T12:30:02.001500+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.04h--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.04h--1/prompt.md) |
