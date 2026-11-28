@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `05k` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["05k--plan [active]"]
+  n0["05k--plan [dismissed]"]
   n1["05k--mon [failed]"]
   n0 --> n1
   n2["05k--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 05k--plan | active | claude-fable-5 / claude | 2026-09-07T20:47:53.701297+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.05k--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.05k--plan/chat.md) |
+| <a id="member-plan"></a>plan | 05k--plan | dismissed | claude-fable-5 / claude | 2026-09-07T16:47:53.701297 → 2026-09-07T17:05:38.614685 | 0 | [Prompt](../agents/bbugyi200.athena.05k--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.05k--plan/chat.md) |
 | <a id="member-mon"></a>mon | 05k--mon | failed | claude-fable-5 / claude | 2026-09-07T21:06:44.902666+00:00 → 2026-09-07T21:10:22.545954+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.05k--mon/chat.md) |
 | <a id="member-gate"></a>gate | 05k--gate | failed | claude-fable-5 / claude | 2026-09-07T21:05:08.719449+00:00 → 2026-09-07T21:06:49.021308+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.05k--gate/chat.md) |
 
@@ -27,5 +27,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`af0d95f`](https://github.com/sase-org/sase/commit/af0d95fe910f4ccbae4b00439296710fda5d6e46) | chore: Add SDD prompt and plan for cancel\_toast | 2026-06-24 12:18:48 EDT |
-| — | sase | [`60776ae`](https://github.com/sase-org/sase/commit/60776ae601d7dc9b624298955e0810a9e460730a) | fix(tui): only toast saved cancelled prompts | 2026-06-24 12:27:26 EDT |
+| — | — | `af0d95f` | chore: Add SDD prompt and plan for cancel\_toast | 2026-06-24 12:18:48 EDT |
+| — | — | `60776ae` | fix(tui): only toast saved cancelled prompts | 2026-06-24 12:27:26 EDT |
