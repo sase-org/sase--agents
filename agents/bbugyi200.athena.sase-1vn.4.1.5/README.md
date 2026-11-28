@@ -61,4 +61,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1vn.3.1.1](../bbugyi200.athena.sase-1vn.3.1.1/README.md) | sase-1vn hood | completed |
 | [sase-1vn.3.1.2](../bbugyi200.athena.sase-1vn.3.1.2/README.md) | sase-1vn hood | completed |
 | [sase-1vn.3.1.land](../../sessions/bbugyi200.athena.sase-1vn.3.1.land.md) (session · 3) | sase-1vn hood | completed 3 |
-| [sase-1vn.land](../bbugyi200.athena.sase-1vn.land/README.md) | sase-1vn hood | waiting |
+| [sase-1vn.land](../../sessions/bbugyi200.athena.sase-1vn.land.md) (session · 3) | sase-1vn hood | active 2, completed 1 |
