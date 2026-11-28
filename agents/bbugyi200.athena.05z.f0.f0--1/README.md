@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9102c9e`](https://github.com/sase-org/sase/commit/9102c9efbaf456724af880c6268225c973e8f5d6) | feat(ace): render monitor phases with amber ⚙ MONITOR | 2026-08-18 11:27:43 EDT |
+| — | `9102c9e` | feat(ace): render monitor phases with amber ⚙ MONITOR | 2026-08-18 11:27:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | ancestor | active |
+| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | ancestor | dismissed |
 | [05z](../bbugyi200.athena.05z/README.md) | ancestor | completed |
 | [05z.w1](../bbugyi200.athena.05z.w1/README.md) | 05z hood | completed |
 | [05z.w1.f1](../bbugyi200.athena.05z.w1.f1/README.md) | 05z hood | completed |

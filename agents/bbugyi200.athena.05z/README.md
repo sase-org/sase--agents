@@ -17,15 +17,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`37163d5`](https://github.com/sase-org/sase/commit/37163d50647f0f67da5831628d3bd8504b73dec1) | chore: Add SDD prompt and plan for fix\_agent\_completion\_text\_muted\_style | 2026-06-25 08:04:39 EDT |
-| sase | [`092d37c`](https://github.com/sase-org/sase/commit/092d37c365a80e653b5b0937fea0aa753e4ac19e) | fix(tui): use rich parseable agent status fallback | 2026-06-25 08:10:18 EDT |
+| — | `37163d5` | chore: Add SDD prompt and plan for fix\_agent\_completion\_text\_muted\_style | 2026-06-25 08:04:39 EDT |
+| — | `092d37c` | fix(tui): use rich parseable agent status fallback | 2026-06-25 08:10:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | descendant | active |
-| [05z.f0.f0](../../sessions/bbugyi200.athena.05z.f0.f0.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
+| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | descendant | dismissed |
+| [05z.f0.f0](../../sessions/bbugyi200.athena.05z.f0.f0.md) (session · 4) | descendant | completed 2, dismissed 1, failed 1 |
 | [05z.w1](../bbugyi200.athena.05z.w1/README.md) | descendant | completed |
 | [05z.w1.f1](../bbugyi200.athena.05z.w1.f1/README.md) | descendant | completed |
 | [05z.w1.f2](../bbugyi200.athena.05z.w1.f2/README.md) | descendant | completed |

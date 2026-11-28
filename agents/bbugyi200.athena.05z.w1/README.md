@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3ec4c9`](https://github.com/sase-org/sase/commit/d3ec4c9422daff918ffc96b5e4cfa79ad8e2d38f) | chore: Add SDD prompt and plan for fork\_spacer\_colon\_completion | 2026-06-25 08:20:55 EDT |
-| sase | [`aa7f615`](https://github.com/sase-org/sase/commit/aa7f615ca43b936f5a657fd94c75898919f171af) | fix(tui): open xprompt argument menu after spacer colon | 2026-06-25 08:28:29 EDT |
+| — | `d3ec4c9` | chore: Add SDD prompt and plan for fork\_spacer\_colon\_completion | 2026-06-25 08:20:55 EDT |
+| — | `aa7f615` | fix(tui): open xprompt argument menu after spacer colon | 2026-06-25 08:28:29 EDT |
 
 ## Neighbors
 
@@ -28,5 +28,5 @@
 | [05z.w1.f1](../bbugyi200.athena.05z.w1.f1/README.md) | descendant | completed |
 | [05z.w1.f2](../bbugyi200.athena.05z.w1.f2/README.md) | descendant | completed |
 | [05z.w1.f2.f1](../bbugyi200.athena.05z.w1.f2.f1/README.md) | descendant | completed |
-| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | 05z hood | active |
-| [05z.f0.f0](../../sessions/bbugyi200.athena.05z.f0.f0.md) (session · 4) | 05z hood | active 1, completed 2, failed 1 |
+| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | 05z hood | dismissed |
+| [05z.f0.f0](../../sessions/bbugyi200.athena.05z.f0.f0.md) (session · 4) | 05z hood | completed 2, dismissed 1, failed 1 |

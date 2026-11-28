@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`43446c0`](https://github.com/sase-org/sase/commit/43446c02fa60efcc59968cf4bd6896475d93fa81) | chore: Add SDD prompt and plan for fork\_colon\_trailing\_text\_completion | 2026-06-25 09:52:37 EDT |
-| sase | [`2d007df`](https://github.com/sase-org/sase/commit/2d007dfef6ac3399655f2c58f4a05fedb73d8c01) | fix(tui): complete fork args after colon | 2026-06-25 10:00:56 EDT |
+| — | `43446c0` | chore: Add SDD prompt and plan for fork\_colon\_trailing\_text\_completion | 2026-06-25 09:52:37 EDT |
+| — | `2d007df` | fix(tui): complete fork args after colon | 2026-06-25 10:00:56 EDT |
 
 ## Neighbors
 
@@ -28,5 +28,5 @@
 | [05z](../bbugyi200.athena.05z/README.md) | ancestor | completed |
 | [05z.w1.f2.f1](../bbugyi200.athena.05z.w1.f2.f1/README.md) | descendant | completed |
 | [05z.w1.f1](../bbugyi200.athena.05z.w1.f1/README.md) | 05z.w1 hood | completed |
-| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | 05z hood | active |
-| [05z.f0.f0](../../sessions/bbugyi200.athena.05z.f0.f0.md) (session · 4) | 05z hood | active 1, completed 2, failed 1 |
+| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | 05z hood | dismissed |
+| [05z.f0.f0](../../sessions/bbugyi200.athena.05z.f0.f0.md) (session · 4) | 05z hood | completed 2, dismissed 1, failed 1 |
