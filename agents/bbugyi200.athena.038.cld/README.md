@@ -17,14 +17,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e7c4e4c`](https://github.com/sase-org/sase/commit/e7c4e4c7ed79385d07c359cde837a8f475d976d2) | chore: Add SDD prompt and plan for working\_plan\_tale\_statuses\_1 | 2026-06-21 11:41:19 EDT |
-| sase | [`8d9e359`](https://github.com/sase-org/sase/commit/8d9e35978622db689678804692b7bf53a9c5078f) | fix(tui): distinguish working plan handoff rows | 2026-06-21 12:00:57 EDT |
+| — | `e7c4e4c` | chore: Add SDD prompt and plan for working\_plan\_tale\_statuses\_1 | 2026-06-21 11:41:19 EDT |
+| — | `8d9e359` | fix(tui): distinguish working plan handoff rows | 2026-06-21 12:00:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [038](../../sessions/bbugyi200.athena.038.md) (session · 2) | ancestor | active 1, completed 1 |
-| [038.f0](../bbugyi200.athena.038.f0/README.md) | 038 hood | waiting |
-| [038.f1](../bbugyi200.athena.038.f1/README.md) | 038 hood | active |
+| [038](../../sessions/bbugyi200.athena.038.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [038.f0](../bbugyi200.athena.038.f0/README.md) | 038 hood | dismissed |
+| [038.f1](../bbugyi200.athena.038.f1/README.md) | 038 hood | dismissed |
 | [038.f2](../bbugyi200.athena.038.f2/README.md) | 038 hood | active |

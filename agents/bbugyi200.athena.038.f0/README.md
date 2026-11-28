@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [038](../../users/bbugyi200/machines/athena/hoods/038/README.md) / 038.f0
 
-**Global name:** `bbugyi200.athena.038.f0` · **State:** waiting · **Source run:** `run-2c78a53a1e2ac6015d7c6c493bd646a7`
+**Global name:** `bbugyi200.athena.038.f0` · **State:** dismissed · **Source run:** `run-2c78a53a1e2ac6015d7c6c493bd646a7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 038
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260815221434
+- Timing: 2026-08-15T22:14:34
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [038](../../sessions/bbugyi200.athena.038.md) (session · 2) | ancestor | active 1, completed 1 |
+| [038](../../sessions/bbugyi200.athena.038.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [038.cld](../bbugyi200.athena.038.cld/README.md) | 038 hood | completed |
-| [038.f1](../bbugyi200.athena.038.f1/README.md) | 038 hood | active |
+| [038.f1](../bbugyi200.athena.038.f1/README.md) | 038 hood | dismissed |
 | [038.f2](../bbugyi200.athena.038.f2/README.md) | 038 hood | active |

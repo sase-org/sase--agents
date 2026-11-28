@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fb7f565`](https://github.com/sase-org/sase/commit/fb7f5657d4ec3ed05c68fa1d7d543ea282f5c630) | chore: Add SDD prompt and plan for xprompt\_expand\_keymap | 2026-06-21 10:43:34 EDT |
-| sase | [`c85001f`](https://github.com/sase-org/sase/commit/c85001fb3af6d837a0c25c85f6c2799a48291eef) | chore: Add epic and phase beads for xprompt\_expand\_keymap | 2026-06-21 10:52:08 EDT |
+| — | `fb7f565` | chore: Add SDD prompt and plan for xprompt\_expand\_keymap | 2026-06-21 10:43:34 EDT |
+| — | `c85001f` | chore: Add epic and phase beads for xprompt\_expand\_keymap | 2026-06-21 10:52:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [036](../../sessions/bbugyi200.athena.036.md) (session · 2) | ancestor | active 1, completed 1 |
+| [036](../../sessions/bbugyi200.athena.036.md) (session · 2) | ancestor | completed 1, dismissed 1 |

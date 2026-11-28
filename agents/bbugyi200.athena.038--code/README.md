@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f935aca`](https://github.com/sase-org/sase/commit/f935acacee35d7261aa3b4dbe0bd57342e09d43d) | fix(bead): name concrete field diff in append-only rewrite guard message | 2026-08-15 22:58:39 EDT |
+| — | `f935aca` | fix(bead): name concrete field diff in append-only rewrite guard message | 2026-08-15 22:58:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [038.cld](../bbugyi200.athena.038.cld/README.md) | descendant | completed |
-| [038.f0](../bbugyi200.athena.038.f0/README.md) | descendant | waiting |
-| [038.f1](../bbugyi200.athena.038.f1/README.md) | descendant | active |
+| [038.f0](../bbugyi200.athena.038.f0/README.md) | descendant | dismissed |
+| [038.f1](../bbugyi200.athena.038.f1/README.md) | descendant | dismissed |
 | [038.f2](../bbugyi200.athena.038.f2/README.md) | descendant | active |
