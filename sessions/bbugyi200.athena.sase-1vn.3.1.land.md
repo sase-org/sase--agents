@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-1vn` · Members: 3 · Bead: [sase-1vn.3
 ```mermaid
 flowchart TD
   n0["sase-1vn.3.1.land--gate [completed]"]
-  n1["sase-1vn.3.1.land--code [active]"]
+  n1["sase-1vn.3.1.land--code [completed]"]
   n0 --> n1
-  n2["sase-1vn.3.1.land--plan [active]"]
+  n2["sase-1vn.3.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1vn.3.1.land--gate | completed | gpt-6-astra / codex | 2026-11-28T00:25:29.935964+00:00 → 2026-11-28T00:25:37.985127+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1vn.3.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1vn.3.1.land--code | active | grok-4.6 / grok | 2026-11-28T00:26:31.779594+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1vn.3.1.land--plan | active | gpt-6-astra / codex | 2026-11-28T00:16:38.242020+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1vn.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1vn.3.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1vn.3.1.land--code | completed | grok-4.6 / grok | 2026-11-28T00:26:31.779594+00:00 → 2026-11-28T01:13:02.979521+00:00 | [1](../agents/bbugyi200.athena.sase-1vn.3.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1vn.3.1.land--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-1vn.3.1.land--plan | completed | gpt-6-astra / codex | 2026-11-28T00:16:38.242020+00:00 → 2026-11-28T01:13:02.979521+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1vn.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1vn.3.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`7d1a7f1`](https://github.com/sase-org/sase/commit/7d1a7f18107cfb42b7d3aa63209a90781079b8e4) | fix(axe): retry incomplete inactive-stage settlement after failed turns | 2026-11-27 20:11:06 EST |
 
 ## Neighbors
 

@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1vn.3.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1vn_3_1_land__plan-261127_164406.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1vn_3_1_land__code-261127_164406.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/failed_handoff_closeout.md
 
 
