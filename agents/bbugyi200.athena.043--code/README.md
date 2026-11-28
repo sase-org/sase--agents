@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`df86d7e`](https://github.com/sase-org/sase/commit/df86d7e5d3af9e57c39f8865b3abf61d08bb63c6) | feat(agents-panel): add all-panel fold sweep bound to \`\_\` | 2026-09-07 15:59:04 EDT |
+| — | `df86d7e` | feat(agents-panel): add all-panel fold sweep bound to \`\_\` | 2026-09-07 15:59:04 EDT |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a1d88a8`](https://github.com/sase-org/sase/commit/a1d88a861ee0c52c553d11c348967f6b1b8a15a1) | fix(gate-shell): protect finalizer workspace claims | 2026-09-07 15:21:56 EDT |
+| — | `a1d88a8` | fix(gate-shell): protect finalizer workspace claims | 2026-09-07 15:21:56 EDT |
 
 ## Neighbors
 

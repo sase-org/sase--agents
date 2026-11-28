@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [042](../../users/bbugyi200/machines/athena/hoods/042/README.md) / 042
 
-**Global name:** `bbugyi200.athena.042` · **State:** active · **Source run:** `run-e98eb0cbf07f6f6da67e7f435680ad4e`
+**Global name:** `bbugyi200.athena.042` · **State:** dismissed · **Source run:** `run-e98eb0cbf07f6f6da67e7f435680ad4e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 042
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-16T17:30:00.993151+00:00
+- Timing: 2026-08-16T13:27:28
 - Commits: [2](#commits)
 - Variables: [5](#variables)
 
@@ -22,8 +22,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`84d8af5`](https://github.com/sase-org/sase/commit/84d8af51f6cfddcfcce499811285340ac554ecb4) | chore: Add SDD prompt and plan for clear\_agent\_tag\_meta\_revert | 2026-06-23 08:26:29 EDT |
-| sase | [`4d60ba2`](https://github.com/sase-org/sase/commit/4d60ba2260c48a56b34ec3c5ea196aa2372a2b0d) | fix(tui): clear persisted agent meta tags on unset | 2026-06-23 08:39:49 EDT |
+| — | `84d8af5` | chore: Add SDD prompt and plan for clear\_agent\_tag\_meta\_revert | 2026-06-23 08:26:29 EDT |
+| — | `4d60ba2` | fix(tui): clear persisted agent meta tags on unset | 2026-06-23 08:39:49 EDT |
 
 ## Variables
 
@@ -41,4 +41,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [042.f0](../bbugyi200.athena.042.f0/README.md) | descendant | active |
+| [042.f0](../bbugyi200.athena.042.f0/README.md) | descendant | dismissed |
