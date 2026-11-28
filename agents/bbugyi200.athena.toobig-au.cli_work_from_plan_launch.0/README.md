@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-au.test\_staged\_inactive\_host.0](../bbugyi200.athena.toobig-au.test_staged_inactive_host.0/README.md) | toobig-au hood | waiting |
+| [toobig-au.test\_staged\_inactive\_host.0](../bbugyi200.athena.toobig-au.test_staged_inactive_host.0/README.md) | toobig-au hood | completed |

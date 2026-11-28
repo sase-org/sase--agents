@@ -96,11 +96,11 @@
 | [039](hoods/039/README.md) | 2 | 0 | completed 1, dismissed 1 |
 | [03a](hoods/03a/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [03b](hoods/03b/README.md) | 4 | 1 | completed 2, dismissed 1, failed 1 |
-| [03c](hoods/03c/README.md) | 8 | 1 | active 2, completed 4, failed 2 |
-| [03d](hoods/03d/README.md) | 2 | 1 | active 1, completed 1 |
-| [03e](hoods/03e/README.md) | 4 | 1 | active 1, completed 3 |
-| [03g](hoods/03g/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
-| [03i](hoods/03i/README.md) | 2 | 1 | active 2 |
+| [03c](hoods/03c/README.md) | 8 | 1 | active 1, completed 4, dismissed 1, failed 2 |
+| [03d](hoods/03d/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [03e](hoods/03e/README.md) | 4 | 1 | completed 3, dismissed 1 |
+| [03g](hoods/03g/README.md) | 5 | 1 | completed 2, dismissed 1, failed 2 |
+| [03i](hoods/03i/README.md) | 2 | 1 | active 1, dismissed 1 |
 | [03j](hoods/03j/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [03l](hoods/03l/README.md) | 2 | 1 | active 1, completed 1 |
 | [03m](hoods/03m/README.md) | 5 | 0 | active 1, completed 4 |
@@ -2492,7 +2492,7 @@
 | [toobig-ar](hoods/toobig-ar/README.md) | 1 | 0 | completed 1 |
 | [toobig-as](hoods/toobig-as/README.md) | 1 | 0 | completed 1 |
 | [toobig-at](hoods/toobig-at/README.md) | 1 | 0 | completed 1 |
-| [toobig-au](hoods/toobig-au/README.md) | 2 | 0 | completed 1, waiting 1 |
+| [toobig-au](hoods/toobig-au/README.md) | 2 | 0 | completed 2 |
 | [toobig-b](hoods/toobig-b/README.md) | 6 | 0 | dismissed 6 |
 | [toobig-c](hoods/toobig-c/README.md) | 3 | 0 | dismissed 3 |
 | [toobig-d](hoods/toobig-d/README.md) | 1 | 0 | dismissed 1 |

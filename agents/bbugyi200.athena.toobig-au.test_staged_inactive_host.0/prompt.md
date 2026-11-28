@@ -1,6 +1,6 @@
+%auto
 %id(test_staged_inactive_host.0, clan=toobig-au)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/test_staged_inactive_host.py` file into multiple files? Use your best
 %wait:toobig-au.cli_work_from_plan_launch.0
