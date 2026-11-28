@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7f1d8a299a84de64510b7cede824aa4a"}
+{"commits":[{"committed_at":1795841350,"sha":"21bdca56adcf459bbff96257f6a1e8365d64ea4f","subject":"feat(bead): add machine-owned recovery claim publication adapter"}],"schema_version":2,"source_run_id":"run-7f1d8a299a84de64510b7cede824aa4a"}
