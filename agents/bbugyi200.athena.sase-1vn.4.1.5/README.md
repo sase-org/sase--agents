@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1vn](../../users/bbugyi200/machines/athena/hoods/sase-1vn/README.md) / sase-1vn.4.1.5
 
-**Global name:** `bbugyi200.athena.sase-1vn.4.1.5` · **State:** waiting · **Source run:** `run-018ff7108ef30e3041e9ffd14dd8d7d3`
+**Global name:** `bbugyi200.athena.sase-1vn.4.1.5` · **State:** completed · **Source run:** `run-018ff7108ef30e3041e9ffd14dd8d7d3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1vn
 
@@ -12,12 +12,38 @@
 - Epic: [sase-1vn.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1vn/sase-1vn.4.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261127201903
-- Commits: 0
+- Timing: 2026-11-28T05:52:59.713054+00:00 → 2026-11-28T06:46:36.981871+00:00
+- Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a5fde6c`](https://github.com/sase-org/sase/commit/a5fde6cd11414538858db1cb5c763ccdb75cb156) | feat(axe): recover eligible zombie epic plans | 2026-11-28 01:45:37 EST |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: sase-1vn.4, kind: file, label: Zombie epic report 2026-11-28, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261127201903/epic-liveness-zombie-report-7b293fa03db4.json, ref: fil… |
+
+#### artifacts
+
+```yaml
+- bead: sase-1vn.4
+  kind: file
+  label: Zombie epic report 2026-11-28
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261127201903/epic-liveness-zombie-report-7b293fa03db4.json
+  ref: file:explicit:2195f969cb91f0108061888d
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.epic-liveness-zombie-report.json
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

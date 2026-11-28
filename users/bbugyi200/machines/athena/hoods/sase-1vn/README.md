@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-1vn
 
-**Global hood:** `bbugyi200.athena.sase-1vn` · **Runs:** 30 · **Sessions:** 7 · **States:** active 2, completed 23, failed 2, waiting 3
+**Global hood:** `bbugyi200.athena.sase-1vn` · **Runs:** 30 · **Sessions:** 7 · **States:** active 2, completed 24, failed 2, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-1vn.4.1.5](../../../../../../agents/bbugyi200.athena.sase-1vn.4.1.5/README.md) | waiting | gpt-6-luna / codex | 20261127201903 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1vn.4.1.5/prompt.md) |
+| [sase-1vn.4.1.5](../../../../../../agents/bbugyi200.athena.sase-1vn.4.1.5/README.md) | completed | gpt-6-luna / codex | 2026-11-28T05:52:59.713054+00:00 → 2026-11-28T06:46:36.981871+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1vn.4.1.5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1vn.4.1.5/chat.md) |
 | [sase-1vn.1--plan](../../../../../../sessions/bbugyi200.athena.sase-1vn.1.md#member-plan) | completed | grok-4.6 / grok | 2026-11-27T15:23:53.856246+00:00 → 2026-11-27T15:32:27.899109+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1vn.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1vn.1--plan/chat.md) |
 | [sase-1vn.4.1.1](../../../../../../agents/bbugyi200.athena.sase-1vn.4.1.1/README.md) | completed | gpt-6-luna / codex | 2026-11-28T01:19:44.268694+00:00 → 2026-11-28T02:01:47.621297+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1vn.4.1.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1vn.4.1.1/chat.md) |
 | [sase-1vn.1--mon](../../../../../../sessions/bbugyi200.athena.sase-1vn.1.md#member-mon) | completed | grok-4.6 / grok | 2026-11-27T15:31:03.296488+00:00 → 2026-11-27T15:42:46.189980+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-1vn.1--mon/chat.md) |
