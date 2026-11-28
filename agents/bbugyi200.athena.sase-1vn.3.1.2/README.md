@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1vn](../../users/bbugyi200/machines/athena/hoods/sase-1vn/README.md) / sase-1vn.3.1.2
 
-**Global name:** `bbugyi200.athena.sase-1vn.3.1.2` · **State:** active · **Source run:** `run-64a0fe1939254c12f7c9bc62c284f442`
+**Global name:** `bbugyi200.athena.sase-1vn.3.1.2` · **State:** completed · **Source run:** `run-64a0fe1939254c12f7c9bc62c284f442`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1vn
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1vn.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1vn/sase-1vn.3.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-27T22:31:05.180261+00:00
-- Commits: 0
+- Timing: 2026-11-27T22:31:05.180261+00:00 → 2026-11-28T00:16:21.733126+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c783119`](https://github.com/sase-org/sase/commit/c783119ffdf81215cbeaa93bddff6f4b82334e49) | fix(axe): settle inactive staged handoffs without failed-origin ownership | 2026-11-27 19:15:28 EST |
 
 ## Neighbors
 
