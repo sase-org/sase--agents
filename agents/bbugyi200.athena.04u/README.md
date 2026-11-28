@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`67e33e6`](https://github.com/sase-org/sase/commit/67e33e6e23b4e4aba2cfbffed2296c4a8ef27ae5) | chore: Add SDD prompt and plan for auto\_approve\_menu\_and\_tale\_directive | 2026-06-23 18:31:48 EDT |
-| sase | [`58ecb28`](https://github.com/sase-org/sase/commit/58ecb2830c0aebdea700c6be053c49b4374efe9c) | chore(beads): create auto-approve menu epic | 2026-06-23 18:40:03 EDT |
+| — | `67e33e6` | chore: Add SDD prompt and plan for auto\_approve\_menu\_and\_tale\_directive | 2026-06-23 18:31:48 EDT |
+| — | `58ecb28` | chore(beads): create auto-approve menu epic | 2026-06-23 18:40:03 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [04u.w0](../bbugyi200.athena.04u.w0/README.md) | descendant | waiting |
+| [04u.w0](../bbugyi200.athena.04u.w0/README.md) | descendant | dismissed |
