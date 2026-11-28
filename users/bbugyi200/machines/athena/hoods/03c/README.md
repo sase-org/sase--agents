@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 03c
 
-**Global hood:** `bbugyi200.athena.03c` · **Runs:** 8 · **Sessions:** 1 · **States:** active 2, completed 4, failed 2
+**Global hood:** `bbugyi200.athena.03c` · **Runs:** 8 · **Sessions:** 1 · **States:** active 1, completed 4, dismissed 1, failed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,5 +12,5 @@
 | [03c--1](../../../../../../sessions/bbugyi200.athena.03c.md#member-1) | completed | opus / claude | 2026-08-16T14:27:28.871140+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.03c--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.03c--1/prompt.md) |
 | [03c--mon](../../../../../../sessions/bbugyi200.athena.03c.md#member-mon) | failed | opus / claude | 2026-08-16T14:05:25.113930+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.03c--mon/chat.md) |
 | [03c--code](../../../../../../sessions/bbugyi200.athena.03c.md#member-code) | active | sonnet / claude | 2026-08-16T13:27:33.641983+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.03c--code/chat.md) |
-| [03c--plan](../../../../../../sessions/bbugyi200.athena.03c.md#member-plan) | active | opus / claude | 2026-08-16T13:14:09.597359+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.03c--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.03c--plan/prompt.md) |
+| [03c--plan](../../../../../../sessions/bbugyi200.athena.03c.md#member-plan) | dismissed | opus / claude | 2026-08-16T09:13:57 | 0 | [chat](../../../../../../agents/bbugyi200.athena.03c--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.03c--plan/prompt.md) |
 | [03c--2](../../../../../../sessions/bbugyi200.athena.03c.md#member-2) | completed | opus / claude | 2026-08-16T14:51:01.441693+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.03c--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.03c--2/prompt.md) |

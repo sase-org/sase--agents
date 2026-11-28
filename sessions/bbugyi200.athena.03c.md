@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["03c--code [active]"]
   n0 --> n4
-  n5["03c--plan [active]"]
+  n5["03c--plan [dismissed]"]
   n0 --> n5
   n6["03c--2 [completed]"]
   n0 --> n6
@@ -32,15 +32,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | 03c--1 | completed | opus / claude | 2026-08-16T14:27:28.871140+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.03c--1/prompt.md) | [Chat](../agents/bbugyi200.athena.03c--1/chat.md) |
 | <a id="member-mon"></a>mon | 03c--mon | failed | opus / claude | 2026-08-16T14:05:25.113930+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.03c--mon/chat.md) |
 | <a id="member-code"></a>code | 03c--code | active | sonnet / claude | 2026-08-16T13:27:33.641983+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.03c--code/chat.md) |
-| <a id="member-plan"></a>plan | 03c--plan | active | opus / claude | 2026-08-16T13:14:09.597359+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.03c--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.03c--plan/chat.md) |
+| <a id="member-plan"></a>plan | 03c--plan | dismissed | opus / claude | 2026-08-16T09:13:57 | 0 | [Prompt](../agents/bbugyi200.athena.03c--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.03c--plan/chat.md) |
 | <a id="member-2"></a>2 | 03c--2 | completed | opus / claude | 2026-08-16T14:51:01.441693+00:00 | [1](../agents/bbugyi200.athena.03c--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.03c--2/prompt.md) | [Chat](../agents/bbugyi200.athena.03c--2/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code-0 | sase | [`78a9130`](https://github.com/sase-org/sase/commit/78a9130f753609fab8a6adb9d3245afb05574d46) | fix(tui): honor Artifacts pane contract actions | 2026-08-16 10:06:26 EDT |
-| 2 | sase | [`5d0bcf9`](https://github.com/sase-org/sase/commit/5d0bcf9e8a389fdb47d1d612c0191bd730b5dfc2) | test: expect relation-backed fields in the notes fixture query profile | 2026-08-16 11:00:59 EDT |
+| code-0 | — | `78a9130` | fix(tui): honor Artifacts pane contract actions | 2026-08-16 10:06:26 EDT |
+| 2 | — | `5d0bcf9` | test: expect relation-backed fields in the notes fixture query profile | 2026-08-16 11:00:59 EDT |
 
 ## Neighbors
 

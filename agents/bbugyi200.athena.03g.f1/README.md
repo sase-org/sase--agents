@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e5815bb`](https://github.com/sase-org/sase/commit/e5815bb9c2588e0c13467f89438869eb5e25e92d) | chore: Add SDD prompt and plan for undo\_xprompt\_staged\_inputs | 2026-06-22 08:29:09 EDT |
-| sase | [`9d0c55c`](https://github.com/sase-org/sase/commit/9d0c55cda44c2c73a62cfba41947a4640bbf4121) | fix(ace): couple xprompt inline-expansion staged inputs to body undo/redo | 2026-06-22 08:51:20 EDT |
+| — | `e5815bb` | chore: Add SDD prompt and plan for undo\_xprompt\_staged\_inputs | 2026-06-22 08:29:09 EDT |
+| — | `9d0c55c` | fix(ace): couple xprompt inline-expansion staged inputs to body undo/redo | 2026-06-22 08:51:20 EDT |
 
 ## Neighbors
 

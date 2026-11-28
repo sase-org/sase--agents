@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`090f461`](https://github.com/sase-org/sase/commit/090f461deeda3c911f0a9ff9d81d386a72de0d93) | chore: Add SDD prompt and plan for xprompt\_optional\_colon\_spacer | 2026-06-21 18:58:11 EDT |
-| sase | [`8244755`](https://github.com/sase-org/sase/commit/82447552f14c76c2f402f899d6d1f2036996758d) | feat(ace): rewrite optional xprompt spacer to colon on next ":" | 2026-06-21 19:30:50 EDT |
+| — | `090f461` | chore: Add SDD prompt and plan for xprompt\_optional\_colon\_spacer | 2026-06-21 18:58:11 EDT |
+| — | `8244755` | feat(ace): rewrite optional xprompt spacer to colon on next ":" | 2026-06-21 19:30:50 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [03e](../../sessions/bbugyi200.athena.03e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [03e](../../sessions/bbugyi200.athena.03e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [03e.cdx.f1](../bbugyi200.athena.03e.cdx.f1/README.md) | descendant | completed |

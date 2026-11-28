@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`09b1cce`](https://github.com/sase-org/sase/commit/09b1cceb25ff694768df5681e6fc485fe4cc67aa) | chore: Add SDD prompt and plan for xprompt\_double\_colon\_space | 2026-06-22 07:38:38 EDT |
-| sase | [`d3eeb4d`](https://github.com/sase-org/sase/commit/d3eeb4d7c1594251a9932a3f9d7533af47c9bc4e) | feat(ace): append space after end-of-line xprompt double-colon skeleton | 2026-06-22 07:56:30 EDT |
+| — | `09b1cce` | chore: Add SDD prompt and plan for xprompt\_double\_colon\_space | 2026-06-22 07:38:38 EDT |
+| — | `d3eeb4d` | feat(ace): append space after end-of-line xprompt double-colon skeleton | 2026-06-22 07:56:30 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [03e.cdx](../bbugyi200.athena.03e.cdx/README.md) | ancestor | completed |
-| [03e](../../sessions/bbugyi200.athena.03e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [03e](../../sessions/bbugyi200.athena.03e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
