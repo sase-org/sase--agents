@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [03r](../../users/bbugyi200/machines/athena/hoods/03r/README.md) / 03r
 
-**Global name:** `bbugyi200.athena.03r` · **State:** active · **Source run:** `run-96f9639fe06c92bad27afa0882074e00`
+**Global name:** `bbugyi200.athena.03r` · **State:** dismissed · **Source run:** `run-96f9639fe06c92bad27afa0882074e00`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 03r
 
@@ -10,7 +10,7 @@
 
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-07T17:46:29.726507+00:00
+- Timing: 2026-09-07T13:46:29.726507 → 2026-09-07T14:07:02.147684
 - Commits: [2](#commits)
 
 ## Files
@@ -21,5 +21,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f1f5577`](https://github.com/sase-org/sase/commit/f1f5577d59818e8b68250c2ce2fc658cc5771b5d) | chore: Add SDD prompt and plan for vcs\_home\_replay\_filter | 2026-06-22 09:58:52 EDT |
-| sase | [`840e697`](https://github.com/sase-org/sase/commit/840e69794825f2c1caad3777521e105a8cdf343d) | fix(ace): exclude #git:home from Ctrl+Space replay history | 2026-06-22 10:09:33 EDT |
+| — | `f1f5577` | chore: Add SDD prompt and plan for vcs\_home\_replay\_filter | 2026-06-22 09:58:52 EDT |
+| — | `840e697` | fix(ace): exclude #git:home from Ctrl+Space replay history | 2026-06-22 10:09:33 EDT |

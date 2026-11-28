@@ -17,10 +17,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`be0e35d`](https://github.com/sase-org/sase/commit/be0e35d8191c14db1154dda3e3dfdd61b8fe4700) | feat(ace): complete common words from the middle of a word | 2026-08-16 11:39:24 EDT |
+| — | `be0e35d` | feat(ace): complete common words from the middle of a word | 2026-08-16 11:39:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [03s.w0](../../sessions/bbugyi200.athena.03s.w0.md) (session · 2) | descendant | active 1, failed 1 |
+| [03s.w0](../../sessions/bbugyi200.athena.03s.w0.md) (session · 2) | descendant | dismissed 1, failed 1 |
