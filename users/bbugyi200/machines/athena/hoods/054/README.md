@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 054
 
-**Global hood:** `bbugyi200.athena.054` · **Runs:** 23 · **Sessions:** 1 · **States:** active 1, completed 12, failed 10
+**Global hood:** `bbugyi200.athena.054` · **Runs:** 23 · **Sessions:** 1 · **States:** completed 12, dismissed 1, failed 10
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -25,7 +25,7 @@
 | [054--3](../../../../../../sessions/bbugyi200.athena.054.md#member-3) | completed | sonnet / claude | 2026-08-17T18:12:21.877752+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.054--3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.054--3/prompt.md) |
 | [054--9](../../../../../../sessions/bbugyi200.athena.054.md#member-9) | completed | sonnet / claude | 2026-08-17T18:55:06.737897+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.054--9/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.054--9/prompt.md) |
 | [054--a](../../../../../../sessions/bbugyi200.athena.054.md#member-a) | completed | sonnet / claude | 2026-08-17T19:01:38.162966+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.054--a/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.054--a/prompt.md) |
-| [054--plan](../../../../../../sessions/bbugyi200.athena.054.md#member-plan) | active | opus / claude | 2026-08-17T17:17:34.650381+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.054--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.054--plan/prompt.md) |
+| [054--plan](../../../../../../sessions/bbugyi200.athena.054.md#member-plan) | dismissed | opus / claude | 2026-08-17T13:17:19 | 0 | [chat](../../../../../../agents/bbugyi200.athena.054--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.054--plan/prompt.md) |
 | [054--mon-5](../../../../../../sessions/bbugyi200.athena.054.md#member-mon-5) | failed | sonnet / claude | 2026-08-17T18:24:55.630402+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.054--mon-5/chat.md) |
 | [054--mon-0](../../../../../../sessions/bbugyi200.athena.054.md#member-mon-0) | failed | sonnet / claude | 2026-08-17T17:53:02.590381+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.054--mon-0/chat.md) |
 | [054--mon-3](../../../../../../sessions/bbugyi200.athena.054.md#member-mon-3) | failed | sonnet / claude | 2026-08-17T18:15:36.502572+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.054--mon-3/chat.md) |

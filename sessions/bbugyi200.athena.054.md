@@ -43,7 +43,7 @@ flowchart TD
   n0 --> n16
   n17["054--a [completed]"]
   n0 --> n17
-  n18["054--plan [active]"]
+  n18["054--plan [dismissed]"]
   n0 --> n18
   n19["054--mon-5 [failed]"]
   n0 --> n19
@@ -75,7 +75,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-3"></a>3 | 054--3 | completed | sonnet / claude | 2026-08-17T18:12:21.877752+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.054--3/prompt.md) | [Chat](../agents/bbugyi200.athena.054--3/chat.md) |
 | <a id="member-9"></a>9 | 054--9 | completed | sonnet / claude | 2026-08-17T18:55:06.737897+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.054--9/prompt.md) | [Chat](../agents/bbugyi200.athena.054--9/chat.md) |
 | <a id="member-a"></a>a | 054--a | completed | sonnet / claude | 2026-08-17T19:01:38.162966+00:00 | [1](../agents/bbugyi200.athena.054--a/README.md#commits) | [Prompt](../agents/bbugyi200.athena.054--a/prompt.md) | [Chat](../agents/bbugyi200.athena.054--a/chat.md) |
-| <a id="member-plan"></a>plan | 054--plan | active | opus / claude | 2026-08-17T17:17:34.650381+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.054--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.054--plan/chat.md) |
+| <a id="member-plan"></a>plan | 054--plan | dismissed | opus / claude | 2026-08-17T13:17:19 | 0 | [Prompt](../agents/bbugyi200.athena.054--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.054--plan/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | 054--mon-5 | failed | sonnet / claude | 2026-08-17T18:24:55.630402+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.054--mon-5/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 054--mon-0 | failed | sonnet / claude | 2026-08-17T17:53:02.590381+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.054--mon-0/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | 054--mon-3 | failed | sonnet / claude | 2026-08-17T18:15:36.502572+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.054--mon-3/chat.md) |
@@ -84,6 +84,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`b4b802a`](https://github.com/sase-org/sase/commit/b4b802a37ae1af5fa5dd96cda5bf6e028071ad5c) | chore: Add SDD prompt and plan for fix\_release\_please\_bad\_credentials | 2026-06-24 07:25:20 EDT |
-| — | sase | [`8b6ceb1`](https://github.com/sase-org/sase/commit/8b6ceb1b3d5186025c7dce9bd1a16fa01c43c3ea) | ci: retry release-please publish workflow | 2026-06-24 07:30:28 EDT |
-| a | sase | [`dc4ca20`](https://github.com/sase-org/sase/commit/dc4ca2057a629e006ec6fa8a9810a3db8de5a08a) | fix(agent): restore forced agent-name-reuse launches for Agents-tab \`,x\` kill-and-edit | 2026-08-17 15:02:43 EDT |
+| — | — | `b4b802a` | chore: Add SDD prompt and plan for fix\_release\_please\_bad\_credentials | 2026-06-24 07:25:20 EDT |
+| — | — | `8b6ceb1` | ci: retry release-please publish workflow | 2026-06-24 07:30:28 EDT |
+| a | — | `dc4ca20` | fix(agent): restore forced agent-name-reuse launches for Agents-tab \`,x\` kill-and-edit | 2026-08-17 15:02:43 EDT |
