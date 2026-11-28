@@ -9,11 +9,11 @@ Owner: `bbugyi200.athena` · Hood: `sase-1vy` · Members: 4 · Bead: [sase-1vy.5
 ```mermaid
 flowchart TD
   n0["sase-1vy.5--gate [completed]"]
-  n1["sase-1vy.5--plan [active]"]
+  n1["sase-1vy.5--plan [completed]"]
   n0 --> n1
-  n2["sase-1vy.5--mon [active]"]
+  n2["sase-1vy.5--mon [completed]"]
   n0 --> n2
-  n3["sase-1vy.5--code [active]"]
+  n3["sase-1vy.5--code [completed]"]
   n0 --> n3
 ```
 
@@ -22,9 +22,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1vy.5--gate | completed | gpt-6-astra / codex | 2026-11-28T12:17:24.882640+00:00 → 2026-11-28T12:17:33.878731+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1vy.5--gate/chat.md) |
-| <a id="member-plan"></a>plan | sase-1vy.5--plan | active | gpt-6-astra / codex | 2026-11-28T12:10:19.507495+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1vy.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1vy.5--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-1vy.5--mon | active | muse-spark-1.3-contributor / muse | 2026-11-28T12:23:57.066666+00:00 | 0 | — | — |
-| <a id="member-code"></a>code | sase-1vy.5--code | active | muse-spark-1.3-contributor / muse | 2026-11-28T12:18:14.496738+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-1vy.5--plan | completed | gpt-6-astra / codex | 2026-11-28T12:10:19.507495+00:00 → 2026-11-28T12:36:19.885844+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1vy.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1vy.5--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-1vy.5--mon | completed | muse-spark-1.3-contributor / muse | 2026-11-28T12:23:57.066666+00:00 → 2026-11-28T12:45:30.499153+00:00 | [1](../agents/bbugyi200.athena.sase-1vy.5--mon/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1vy.5--mon/chat.md) |
+| <a id="member-code"></a>code | sase-1vy.5--code | completed | muse-spark-1.3-contributor / muse | 2026-11-28T12:18:14.496738+00:00 → 2026-11-28T12:36:19.885844+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1vy.5--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| mon | sase | [`4c9ccea`](https://github.com/sase-org/sase/commit/4c9ccea4b2b63d9d7af6aadd3ac751575860c55e) | fix(tool): wait for holder children before measuring admission overlap | 2026-11-28 07:44:29 EST |
 
 ## Neighbors
 

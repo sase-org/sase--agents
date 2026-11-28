@@ -36,5 +36,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1vy.1](bbugyi200.athena.sase-1vy.1.md) (session · 8) | sase-1vy hood | completed 6, failed 2 |
 | [sase-1vy.2](../agents/bbugyi200.athena.sase-1vy.2/README.md) | sase-1vy hood | completed |
 | [sase-1vy.3](bbugyi200.athena.sase-1vy.3.md) (session · 5) | sase-1vy hood | completed 5 |
-| [sase-1vy.5](bbugyi200.athena.sase-1vy.5.md) (session · 4) | sase-1vy hood | active 3, completed 1 |
+| [sase-1vy.5](bbugyi200.athena.sase-1vy.5.md) (session · 4) | sase-1vy hood | completed 4 |
 | [sase-1vy.land](../agents/bbugyi200.athena.sase-1vy.land/README.md) | sase-1vy hood | waiting |
