@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1vy.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1vy_4__plan-261128_031557.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1vy_4__code-261128_031557.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/stale_index_lock_flake.md
 
 

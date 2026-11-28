@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9c6fc9c8cb6da73074e98d2bcacd6d36"}
+{"commits":[{"committed_at":1795867676,"sha":"53acb952ef758d42bffd592857c76183135d6e5c","subject":"test(git-lock): make stale-lock caller tests deterministic"}],"schema_version":2,"source_run_id":"run-9c6fc9c8cb6da73074e98d2bcacd6d36"}
