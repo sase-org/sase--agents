@@ -116,4 +116,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1vn.4.1.4](bbugyi200.athena.sase-1vn.4.1.4.md) (session · 3) | sase-1vn hood | completed 3 |
 | [sase-1vn.4.1.5](../agents/bbugyi200.athena.sase-1vn.4.1.5/README.md) | sase-1vn hood | completed |
 | [sase-1vn.4.1.land](../agents/bbugyi200.athena.sase-1vn.4.1.land/README.md) | sase-1vn hood | completed |
-| [sase-1vn.land](bbugyi200.athena.sase-1vn.land.md) (session · 3) | sase-1vn hood | active 2, completed 1 |
+| [sase-1vn.land](bbugyi200.athena.sase-1vn.land.md) (session · 5) | sase-1vn hood | completed 5 |

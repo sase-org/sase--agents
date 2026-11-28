@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fef16b9fd0a29810f34af2c5f77ba19c"}
+{"commits":[{"committed_at":1795853514,"sha":"4010ecd89aec66a64f78b6591f4157d214f994aa","subject":"fix(rebase-gate): certify committed tree from a single ls-tree index"}],"schema_version":2,"source_run_id":"run-fef16b9fd0a29810f34af2c5f77ba19c"}
