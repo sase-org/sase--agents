@@ -49,7 +49,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1vy.2](../agents/bbugyi200.athena.sase-1vy.2/README.md) | sase-1vy hood | completed |
-| [sase-1vy.3](../agents/bbugyi200.athena.sase-1vy.3/README.md) | sase-1vy hood | waiting |
+| [sase-1vy.3](bbugyi200.athena.sase-1vy.3.md) (session · 3) | sase-1vy hood | active 2, completed 1 |
 | [sase-1vy.4](../agents/bbugyi200.athena.sase-1vy.4/README.md) | sase-1vy hood | waiting |
 | [sase-1vy.5](../agents/bbugyi200.athena.sase-1vy.5/README.md) | sase-1vy hood | waiting |
 | [sase-1vy.land](../agents/bbugyi200.athena.sase-1vy.land/README.md) | sase-1vy hood | waiting |
