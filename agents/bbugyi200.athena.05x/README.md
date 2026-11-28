@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8428b79`](https://github.com/sase-org/sase/commit/8428b7962fe6346ab31a7712c391025641a1ee9e) | feat: save prompt drafts as xprompts | 2026-06-25 08:27:46 EDT |
+| — | `8428b79` | feat: save prompt drafts as xprompts | 2026-06-25 08:27:46 EDT |
 
 ## Neighbors
 
