@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [05a.f0](../bbugyi200.athena.05a.f0/README.md) | descendant | waiting |
+| [05a.f0](../bbugyi200.athena.05a.f0/README.md) | descendant | dismissed |
