@@ -24,6 +24,6 @@
 |---|---|---|
 | [sase-1vy.1](../../sessions/bbugyi200.athena.sase-1vy.1.md) (session · 8) | sase-1vy hood | completed 6, failed 2 |
 | [sase-1vy.2](../bbugyi200.athena.sase-1vy.2/README.md) | sase-1vy hood | completed |
-| [sase-1vy.4](../bbugyi200.athena.sase-1vy.4/README.md) | sase-1vy hood | waiting |
+| [sase-1vy.4](../../sessions/bbugyi200.athena.sase-1vy.4.md) (session · 3) | sase-1vy hood | active 2, completed 1 |
 | [sase-1vy.5](../bbugyi200.athena.sase-1vy.5/README.md) | sase-1vy hood | waiting |
 | [sase-1vy.land](../bbugyi200.athena.sase-1vy.land/README.md) | sase-1vy hood | waiting |
