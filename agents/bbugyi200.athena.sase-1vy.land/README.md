@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1vy](../../users/bbugyi200/machines/athena/hoods/sase-1vy/README.md) / sase-1vy.land
 
-**Global name:** `bbugyi200.athena.sase-1vy.land` · **State:** waiting · **Source run:** `run-24041c2ccb09391afe3fa24548dd4e8c`
+**Global name:** `bbugyi200.athena.sase-1vy.land` · **State:** completed · **Source run:** `run-24041c2ccb09391afe3fa24548dd4e8c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1vy
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1vy](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1vy/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261128031559
-- Commits: 0
+- Timing: 2026-11-28T12:46:04.192713+00:00 → 2026-11-28T13:27:03.313231+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`cae7c85`](https://github.com/sase-org/sase/commit/cae7c851c116d0093466c0efc5ce1376b54454a2) | test(landing): finish sase-1vy stale-lock and nested leak-guard coverage | 2026-11-28 08:25:48 EST |
 
 ## Neighbors
 

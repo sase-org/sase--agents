@@ -37,4 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1vy.2](../agents/bbugyi200.athena.sase-1vy.2/README.md) | sase-1vy hood | completed |
 | [sase-1vy.3](bbugyi200.athena.sase-1vy.3.md) (session · 5) | sase-1vy hood | completed 5 |
 | [sase-1vy.5](bbugyi200.athena.sase-1vy.5.md) (session · 4) | sase-1vy hood | completed 4 |
-| [sase-1vy.land](../agents/bbugyi200.athena.sase-1vy.land/README.md) | sase-1vy hood | waiting |
+| [sase-1vy.land](../agents/bbugyi200.athena.sase-1vy.land/README.md) | sase-1vy hood | completed |

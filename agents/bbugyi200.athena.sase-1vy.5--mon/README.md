@@ -33,4 +33,4 @@
 | [sase-1vy.2](../bbugyi200.athena.sase-1vy.2/README.md) | sase-1vy hood | completed |
 | [sase-1vy.3](../../sessions/bbugyi200.athena.sase-1vy.3.md) (session · 5) | sase-1vy hood | completed 5 |
 | [sase-1vy.4](../../sessions/bbugyi200.athena.sase-1vy.4.md) (session · 3) | sase-1vy hood | completed 3 |
-| [sase-1vy.land](../bbugyi200.athena.sase-1vy.land/README.md) | sase-1vy hood | waiting |
+| [sase-1vy.land](../bbugyi200.athena.sase-1vy.land/README.md) | sase-1vy hood | completed |
