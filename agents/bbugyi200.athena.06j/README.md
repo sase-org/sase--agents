@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5d2c42b`](https://github.com/sase-org/sase/commit/5d2c42b7b146547848b10dc8210171340ace9343) | chore: Add SDD prompt and plan for move\_pencil\_after\_runtime | 2026-06-25 17:28:46 EDT |
-| sase | [`af132fb`](https://github.com/sase-org/sase/commit/af132fb8eb329e27294a9d7c7de9512271924655) | feat(ace): move agent row pencil after runtime suffix | 2026-06-25 17:33:07 EDT |
+| — | `5d2c42b` | chore: Add SDD prompt and plan for move\_pencil\_after\_runtime | 2026-06-25 17:28:46 EDT |
+| — | `af132fb` | feat(ace): move agent row pencil after runtime suffix | 2026-06-25 17:33:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [06j.f0](../../sessions/bbugyi200.athena.06j.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [06j.f0](../../sessions/bbugyi200.athena.06j.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

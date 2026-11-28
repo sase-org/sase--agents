@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ef30e98`](https://github.com/sase-org/sase/commit/ef30e98f29f1df3110bb30792f4d13f1de157fbb) | feat(ace): render settled-monitor gear badge on tribe panel titles | 2026-08-18 15:10:50 EDT |
+| — | `ef30e98` | feat(ace): render settled-monitor gear badge on tribe panel titles | 2026-08-18 15:10:50 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [06j.f0](../../sessions/bbugyi200.athena.06j.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [06j.f0](../../sessions/bbugyi200.athena.06j.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

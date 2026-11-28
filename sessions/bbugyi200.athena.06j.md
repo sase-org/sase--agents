@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `06j` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["06j--plan [active]"]
+  n0["06j--plan [dismissed]"]
   n1["06j--code [completed]"]
   n0 --> n1
 ```
@@ -17,19 +17,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 06j--plan | active | opus / claude | 2026-08-18T17:39:35.853743+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.06j--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.06j--plan/chat.md) |
+| <a id="member-plan"></a>plan | 06j--plan | dismissed | opus / claude | 2026-08-18T13:30:54 | 0 | [Prompt](../agents/bbugyi200.athena.06j--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.06j--plan/chat.md) |
 | <a id="member-code"></a>code | 06j--code | completed | sonnet / claude | 2026-08-18T17:59:55.491952+00:00 | [1](../agents/bbugyi200.athena.06j--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.06j--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`5d2c42b`](https://github.com/sase-org/sase/commit/5d2c42b7b146547848b10dc8210171340ace9343) | chore: Add SDD prompt and plan for move\_pencil\_after\_runtime | 2026-06-25 17:28:46 EDT |
-| — | sase | [`af132fb`](https://github.com/sase-org/sase/commit/af132fb8eb329e27294a9d7c7de9512271924655) | feat(ace): move agent row pencil after runtime suffix | 2026-06-25 17:33:07 EDT |
-| code | sase | [`ef30e98`](https://github.com/sase-org/sase/commit/ef30e98f29f1df3110bb30792f4d13f1de157fbb) | feat(ace): render settled-monitor gear badge on tribe panel titles | 2026-08-18 15:10:50 EDT |
+| — | — | `5d2c42b` | chore: Add SDD prompt and plan for move\_pencil\_after\_runtime | 2026-06-25 17:28:46 EDT |
+| — | — | `af132fb` | feat(ace): move agent row pencil after runtime suffix | 2026-06-25 17:33:07 EDT |
+| code | — | `ef30e98` | feat(ace): render settled-monitor gear badge on tribe panel titles | 2026-08-18 15:10:50 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [06j.f0](bbugyi200.athena.06j.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [06j.f0](bbugyi200.athena.06j.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [06h](../../users/bbugyi200/machines/athena/hoods/06h/README.md) / [06h](../../sessions/bbugyi200.athena.06h.md) / 06h--0
 
-**Global name:** `bbugyi200.athena.06h--0` · **State:** active · **Source run:** `run-643bf53276b62dfd288e4cf0f7106553`
+**Global name:** `bbugyi200.athena.06h--0` · **State:** dismissed · **Source run:** `run-643bf53276b62dfd288e4cf0f7106553`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 06h
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-18T17:24:30.966741+00:00
+- Timing: 2026-08-18T13:24:16
 - Commits: 0
 
 ## Files
