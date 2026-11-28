@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `03j` · Members: 2
 ```mermaid
 flowchart TD
   n0["03j--mon [failed]"]
-  n1["03j--plan [active]"]
+  n1["03j--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,11 +18,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | 03j--mon | failed | opus / claude | 2026-08-16T14:33:16.810512+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.03j--mon/chat.md) |
-| <a id="member-plan"></a>plan | 03j--plan | active | opus / claude | 2026-08-16T14:10:20.222822+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.03j--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.03j--plan/chat.md) |
+| <a id="member-plan"></a>plan | 03j--plan | dismissed | opus / claude | 2026-08-16T10:10:05 | 0 | [Prompt](../agents/bbugyi200.athena.03j--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.03j--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`ab0a48c`](https://github.com/sase-org/sase/commit/ab0a48c0b963fc0529647795552e16a3de721a60) | chore: Add SDD prompt and plan for fix\_ctrl\_n\_vcs\_mru\_cycling | 2026-06-22 08:12:23 EDT |
-| — | sase | [`1dd07e9`](https://github.com/sase-org/sase/commit/1dd07e9fe4f259bb7fbae2966b2270a0df9377e3) | fix(ace): restore bidirectional Ctrl+N VCS MRU cycling | 2026-06-22 08:22:32 EDT |
+| — | — | `ab0a48c` | chore: Add SDD prompt and plan for fix\_ctrl\_n\_vcs\_mru\_cycling | 2026-06-22 08:12:23 EDT |
+| — | — | `1dd07e9` | fix(ace): restore bidirectional Ctrl+N VCS MRU cycling | 2026-06-22 08:22:32 EDT |

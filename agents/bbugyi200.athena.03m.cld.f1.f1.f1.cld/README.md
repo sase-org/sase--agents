@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60c086c`](https://github.com/sase-org/sase/commit/60c086c701146508ea38e960736d625c79842652) | chore: Add SDD prompt and plan for question\_continuation\_planner\_runtime | 2026-06-23 10:15:26 EDT |
-| sase | [`19e55af`](https://github.com/sase-org/sase/commit/19e55af2b40bb7d2ba47f6c661f4693da7a5cc60) | fix(tui): correct question continuation planner runtime | 2026-06-23 10:27:36 EDT |
+| — | `60c086c` | chore: Add SDD prompt and plan for question\_continuation\_planner\_runtime | 2026-06-23 10:15:26 EDT |
+| — | `19e55af` | fix(tui): correct question continuation planner runtime | 2026-06-23 10:27:36 EDT |
 
 ## Neighbors
 
@@ -27,4 +27,4 @@
 | [03m.cld.f1.f1](../bbugyi200.athena.03m.cld.f1.f1/README.md) | ancestor | completed |
 | [03m.cld.f1](../bbugyi200.athena.03m.cld.f1/README.md) | ancestor | completed |
 | [03m.cld](../bbugyi200.athena.03m.cld/README.md) | ancestor | completed |
-| [03m](../bbugyi200.athena.03m/README.md) | ancestor | active |
+| [03m](../bbugyi200.athena.03m/README.md) | ancestor | dismissed |

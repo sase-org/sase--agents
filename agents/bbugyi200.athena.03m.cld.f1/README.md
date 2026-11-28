@@ -17,14 +17,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2f16a81`](https://github.com/sase-org/sase/commit/2f16a819dd252c859a85eb48b5e11d2aba61214f) | chore: Add SDD prompt and plan for freeze\_approved\_plan\_runtime | 2026-06-22 10:30:43 EDT |
-| sase | [`80fcc2b`](https://github.com/sase-org/sase/commit/80fcc2ba6df06701d32183974d3ff8e982b8ca0e) | fix(tui): freeze approved plan runtimes | 2026-06-22 10:41:40 EDT |
+| — | `2f16a81` | chore: Add SDD prompt and plan for freeze\_approved\_plan\_runtime | 2026-06-22 10:30:43 EDT |
+| — | `80fcc2b` | fix(tui): freeze approved plan runtimes | 2026-06-22 10:41:40 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [03m.cld](../bbugyi200.athena.03m.cld/README.md) | ancestor | completed |
-| [03m](../bbugyi200.athena.03m/README.md) | ancestor | active |
+| [03m](../bbugyi200.athena.03m/README.md) | ancestor | dismissed |
 | [03m.cld.f1.f1](../bbugyi200.athena.03m.cld.f1.f1/README.md) | descendant | completed |
 | [03m.cld.f1.f1.f1.cld](../bbugyi200.athena.03m.cld.f1.f1.f1.cld/README.md) | descendant | completed |

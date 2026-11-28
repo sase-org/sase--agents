@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1d83e7a`](https://github.com/sase-org/sase/commit/1d83e7a64867729281e902210531cc418a18ebe1) | refactor: rename Agent Lane to Agent Node and add Sase Node | 2026-08-16 11:26:00 EDT |
+| — | `1d83e7a` | refactor: rename Agent Lane to Agent Node and add Sase Node | 2026-08-16 11:26:00 EDT |

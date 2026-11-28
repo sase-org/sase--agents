@@ -17,14 +17,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`be10bae`](https://github.com/sase-org/sase/commit/be10baea6338f12416db0e01f0af1b820d8a6fb6) | chore: Add SDD prompt and plan for fix\_working\_status\_invariants | 2026-06-22 08:36:22 EDT |
-| sase | [`9de865b`](https://github.com/sase-org/sase/commit/9de865bf4eec23383ef242c552f969e6aef1eee5) | fix(tui): preserve working status invariants | 2026-06-22 08:47:16 EDT |
+| — | `be10bae` | chore: Add SDD prompt and plan for fix\_working\_status\_invariants | 2026-06-22 08:36:22 EDT |
+| — | `9de865b` | fix(tui): preserve working status invariants | 2026-06-22 08:47:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [03m](../bbugyi200.athena.03m/README.md) | ancestor | active |
+| [03m](../bbugyi200.athena.03m/README.md) | ancestor | dismissed |
 | [03m.cld.f1](../bbugyi200.athena.03m.cld.f1/README.md) | descendant | completed |
 | [03m.cld.f1.f1](../bbugyi200.athena.03m.cld.f1.f1/README.md) | descendant | completed |
 | [03m.cld.f1.f1.f1.cld](../bbugyi200.athena.03m.cld.f1.f1.f1.cld/README.md) | descendant | completed |
