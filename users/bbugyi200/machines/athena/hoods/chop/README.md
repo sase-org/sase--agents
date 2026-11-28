@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / chop
 
-**Global hood:** `bbugyi200.athena.chop` · **Runs:** 241 · **Sessions:** 6 · **States:** active 6, completed 22, dismissed 203, failed 6, waiting 4
+**Global hood:** `bbugyi200.athena.chop` · **Runs:** 241 · **Sessions:** 6 · **States:** active 6, completed 23, dismissed 203, failed 6, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [chop.refresh\_docs.sase.3\_444690.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.3_444690.2/README.md) | dismissed | grok-4.7 / grok | 2026-09-28T20:22:08.275264 → 2026-09-28T20:54:39.248741 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.3_444690.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.3_444690.2/chat.md) |
 | [chop.refresh\_docs.sase.2\_860680.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_860680.1/README.md) | dismissed | sonnet / claude | 2026-07-31T18:24:08.634147 → 2026-07-31T18:44:57.125716 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_860680.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_860680.1/chat.md) |
-| [chop.refresh\_docs.sase.2\_658122.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_658122.2/README.md) | waiting | gpt-6-astra / codex | 20261126163130 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_658122.2/prompt.md) |
+| [chop.refresh\_docs.sase.2\_658122.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_658122.2/README.md) | completed | gpt-6-astra / codex | 2026-11-28T16:51:37.310914+00:00 → 2026-11-28T17:05:12.549228+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_658122.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_658122.2/chat.md) |
 | [chop.refresh\_docs.sase.0\_793666.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_793666.2/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-20T19:51:43.627283 → 2026-07-20T20:20:18.206534 | 1 | [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_793666.2/chat.md) |
 | [chop.refresh\_docs.sase.7\_999477.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.7_999477.1/README.md) | dismissed | gpt-5.6-sol / codex | 2026-08-21T19:28:51 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.7_999477.1/prompt.md) |
 | [chop.refresh\_docs.sase.1\_429681.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.1_429681.2/README.md) | dismissed | gpt-6-sol / codex | 2026-09-26T05:43:07 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.1_429681.2/prompt.md) |
