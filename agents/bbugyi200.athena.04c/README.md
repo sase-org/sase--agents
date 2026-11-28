@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dcf015e`](https://github.com/sase-org/sase/commit/dcf015e022e1a4744c64ee606697dcebf60efc05) | ci: add publish workflow concurrency | 2026-06-23 10:30:30 EDT |
+| — | `dcf015e` | ci: add publish workflow concurrency | 2026-06-23 10:30:30 EDT |
