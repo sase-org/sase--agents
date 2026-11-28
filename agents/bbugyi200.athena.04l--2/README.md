@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eefc449`](https://github.com/sase-org/sase/commit/eefc44983918c15a3f5ca6f20e86178e3748a377) | fix(ace-tui): nest each family monitor under the agent that started it | 2026-08-17 09:32:14 EDT |
+| — | `eefc449` | fix(ace-tui): nest each family monitor under the agent that started it | 2026-08-17 09:32:14 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [04l.f0](../bbugyi200.athena.04l.f0/README.md) | descendant | active |
-| [04l.f1](../../sessions/bbugyi200.athena.04l.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [04l.f1](../../sessions/bbugyi200.athena.04l.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

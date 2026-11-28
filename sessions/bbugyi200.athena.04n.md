@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `04n` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["04n--plan [active]"]
+  n0["04n--plan [dismissed]"]
   n1["04n--gate [failed]"]
   n0 --> n1
   n2["04n--mon [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 04n--plan | active | claude-fable-5 / claude | 2026-09-07T18:35:25.216104+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.04n--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.04n--plan/chat.md) |
+| <a id="member-plan"></a>plan | 04n--plan | dismissed | claude-fable-5 / claude | 2026-09-07T14:35:25.216104 → 2026-09-07T14:54:25.464841 | 0 | [Prompt](../agents/bbugyi200.athena.04n--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.04n--plan/chat.md) |
 | <a id="member-gate"></a>gate | 04n--gate | failed | claude-fable-5 / claude | 2026-09-07T18:54:13.439050+00:00 → 2026-09-07T18:55:36.374506+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.04n--gate/chat.md) |
 | <a id="member-mon"></a>mon | 04n--mon | failed | claude-fable-5 / claude | 2026-09-07T18:55:31.496788+00:00 → 2026-09-07T18:57:52.935773+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.04n--mon/chat.md) |
 

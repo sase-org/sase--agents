@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3c0761f`](https://github.com/sase-org/sase/commit/3c0761f2e1c978ed48e2b2c105ac6de4c76e5044) | chore: Add SDD prompt and plan for directive\_value\_fanout | 2026-06-23 14:44:25 EDT |
-| sase | [`6d26305`](https://github.com/sase-org/sase/commit/6d263059944d092943b17224dff6a14419104f8a) | feat: support directive value fanout | 2026-06-23 15:00:16 EDT |
+| — | `3c0761f` | chore: Add SDD prompt and plan for directive\_value\_fanout | 2026-06-23 14:44:25 EDT |
+| — | `6d26305` | feat: support directive value fanout | 2026-06-23 15:00:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [04l.f0](../bbugyi200.athena.04l.f0/README.md) | descendant | active |
-| [04l.f1](../../sessions/bbugyi200.athena.04l.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [04l.f1](../../sessions/bbugyi200.athena.04l.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
